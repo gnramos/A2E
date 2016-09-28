@@ -9,13 +9,13 @@ Este repositório contém a ferramenta _A2E_, criada para auxiliar a análise de
 Instalação
 ----------
 
-O código é feito na [linguagem de programação R](https://www.r-project.org/) versão 3.3.1 ou superior ([detalhes de instalação](https://cran.r-project.org)), e utiliza os pacotes:
-* [OpenNLP Tools Interface](https://cran.r-project.org/web/packages/openNLP/)
-* [Natural Language Processing Interface](https://cran.r-project.org/web/packages/NLP/)
-* [Text Mining](https://cran.r-project.org/web/packages/tm/)
+O código é feito na [linguagem de programação R](https://www.r-project.org/) versão **3.3.1 ou superior** ([detalhes de instalação](https://cran.r-project.org)), e utiliza os pacotes:
 * [Big Memory](https://cran.r-project.org/web/packages/bigmemory/)
+* [Natural Language Processing Interface](https://cran.r-project.org/web/packages/NLP/)
+* [OpenNLP Tools Interface](https://cran.r-project.org/web/packages/openNLP/)
+* [Text Mining](https://cran.r-project.org/web/packages/tm/)
 
-A forma mais simples de preparar seu sistema para utilização do A2E é instalar as dependências básicas no seu sistema e executar o script [install.dependencies.R](R/install.dependencies.R). Supondo que você use uma versão do [Ubuntu](http://www.ubuntu.com), basta:
+A A2E/forma mais simples de preparar seu sistema para utilização do A2E é instalar as dependências básicas no seu sistema e executar o script [install.dependencies.R](A2E/R/install.dependencies.R). Supondo que você use uma versão do [Ubuntu](http://www.ubuntu.com), basta:
 
 ```bash
 sudo apt-get install r-base-core r-cran-rjava
