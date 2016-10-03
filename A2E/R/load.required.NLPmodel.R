@@ -1,9 +1,4 @@
-# Loads required NLP models, installs them if unavailable.
-#
-# Installation of new packages requires root privileges.
-
-# Loads the NLP models of the given language from Datacube (http://datacube.wu.ac.at)
-load.required.NLPmodel <- function(language, version='1.5-2') {
+load.required.NLPmodel <- function(language, version) {
   model <- paste('openNLPmodels.', language, sep='')
   if (!require(model, character.only=TRUE)) {
     gz.file <- paste('openNLPmodels.', language, '_', version, '.tar.gz', sep='')
