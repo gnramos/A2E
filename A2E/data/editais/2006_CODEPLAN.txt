@@ -1,0 +1,1002 @@
+EDITAL DE LICITAÇÃO
+MODALIDADE: PREGÃO PRESENCIAL TIPO: Menor Preço REGIME DE EXECUÇÃO: Empreitada por preço unitário PROCESSO Nº: 121.000.277/2006 INTERESSADA: CODEPLAN
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+VALOR ESTIMADO DA LICITAÇÃO: R$ 22.478.522,03 (vinte e dois milhões, quatrocentos e setenta e oito mil, quinhentos e vinte e dois reais e três centavos) ELEMENTO DE DESPESA: 33.90.39 OBJETO: Contratação de empresa para a prestação de serviços de gestão e operacionalização de soluções em Tecnologia da Informação, contemplando atividades de projeto, consultoria, desenvolvimento, implantação e manutenção de sistemas de informação orientados a serviços e de soluções integradas, incluindo computação móvel, de forma a atender às necessidades da Secretaria de Estado de Saúde e de Educação do Distrito Federal, conforme condições, quantidades e especificações constantes do Anexo I do presente Edital. DATA E HORÁRIO DE ABERTURA DA REUNIÃO PARA ENTREGA DOS ENVELOPES DE PROPOSTAS DE PREÇOS E DOCUMENTAÇÃO DE HABILITAÇÃO: 18/12/2006, às 9.00 hs. ENDEREÇO: SAIN, PROJEÇÃO H, 2º ANDAR, SALA 209, EDIFÍCIO CODEPLAN ­ BRASÍLIA - DF
+
+EDITAL DE PREGÃO PRESENCIAL
+
+A Companhia do Desenvolvimento do Planalto Central - CODEPLAN, empresa pública de direito privado, sob a forma de sociedade por ações, regida pela Lei 6404/76, integrante da Administração Indireta do Governo do Distrito Federal na forma do artigo 3º, inciso II e parágrafos, da Lei Federal nº 4.545, de 10 de dezembro de 1964, que a instituiu, constituída por escritura pública, de 5 de dezembro de 1966, publicada no Diário Oficial da União, de 26 de dezembro de 1966, inscrita no CNPJ/MF nº 00.046.060/0001-45, sediada no SAIN, Projeção "H", Brasília-DF, com base no Decreto Distrital nº 27.457, de 01 de dezembro de 2006, por meio do Pregoeiro designado pela Instrução nº 118, de 04 de dezembro de 2006, publicada no DODF nº 231, de 05 de dezembro de 2006, página 32, comunica aos interessados que fará realizar licitação, sob a modalidade de PREGÃO para fornecimento do objeto especificado no Anexo I deste Edital. O presente certame será regido pela Lei Federal nº 10.520, de 17 de julho de 2002, pelo Decreto Distrital n° 23.460, de 16 de dezembro de 2002, publicado no DODF n° 242, de 17 de dezembro de 2002 e subsidiariamente pela Lei Federal nº 8.666, de 21 de junho de 1993 e alterações posteriores, além das demais normas pertinentes, desde que não conflitem com os dois primeiros diplomas legais mencionados, observadas as condições estabelecidas neste Ato Convocatório e seus Anexos. O Edital poderá ser obtido na Companhia do Desenvolvimento do Planalto Central - CODEPLAN, nos dias úteis, de 08h às 12h e das 14h às 18h, mediante a apresentação de comprovante de recolhimento no valor de R$ 10,00 (dez reais), recolhido na Tesouraria da CODEPLAN ou pela Internet www.codeplan.df.gov.br. AS EMPRESAS E/OU REPRESENTANTES QUE ADQUIRIREM O EDITAL VIA INTERNET, OBRIGAM-SE A ACOMPANHAR O DIÁRIO OFICIAL DO DISTRITO FEDERAL COM VISTAS A POSSÍVEIS ALTERAÇÕES. Outras informações pelo fone (61) 3342-1751 ou no endereço SAIN, PROJEÇÃO H, TÉRREO, SALA T-01, EDIFÍCIO CODEPLAN, BRASÍLIA - DF.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+1
+
+EDITAL DE LICITAÇÃO
+1. DO OBJETO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+1.1. Contratação, através de Pregão Presencial, de empresa para a prestação de serviços de gestão e operacionalização de soluções em Tecnologia da Informação, contemplando atividades de projeto, consultoria, desenvolvimento, implantação e manutenção de sistemas de informação orientados a serviços e de soluções integradas, incluindo computação móvel, de forma a atender às necessidades da Secretaria de Estado de Saúde e de Educação do Distrito Federal, conforme condições, quantidades e especificações constantes do Anexo I do presente Edital. 1.2. Integram este Edital todos os seus Anexos.
+
+2. CONDIÇÕES DE PARTICIPAÇÃO 2.1. Poderão participar deste Pregão as empresas interessadas do ramo de atividade do objeto desta licitação que comprovem sua qualificação, na forma indicada neste Edital. 2.2. A participação na licitação importa total, irrestrita e irretratável submissão dos proponentes às condições deste Edital. 2.3. Não poderão concorrer, direta ou indiretamente, nesta licitação ou participar do contrato dela decorrente: 2.3.1. empresas que se encontrem sob falência, concordata, concurso de credores, dissolução, liquidação, estrangeiras que não funcionem no país, nem aquelas que tenham sido declaradas inidôneas para licitar ou contratar com a Administração Pública, Direta ou Indireta, Federal, Estadual, Municipal e Distrital, bem como as que estejam punidas com suspensão do direito de licitar ou contratar com o Distrito Federal; 2.3.2. empresas constituídas em consórcios e pessoas físicas; 2.3.3. empregado ou dirigente da CODEPLAN.
+
+3. DO RECEBIMENTO DOS ENVELOPES 3.1. Na data, hora e local definidos no preâmbulo deste Edital em sessão pública dirigida pelo Pregoeiro, serão recebidos os envelopes contendo as Propostas de Preços e Documentação de Habilitação. 3.2. As empresas que desejarem participar do Pregão deverão entregar ao Pregoeiro, em envelopes separados e fechados, não transparentes, a "PROPOSTA DE PREÇOS" e a "DOCUMENTAÇÃO DE HABILITAÇÃO", contendo na parte externa o número do Pregão, o nome da empresa licitante, o local, a data e a hora da realização do certame.
+
+4. DO CREDENCIAMENTO 4.1. Os proponentes deverão se apresentar para credenciamento junto ao Pregoeiro por um representante que, devidamente munido de documento que o credencie a participar deste procedimento licitatório, venha a responder por sua representada, devendo, ainda, no ato de entrega dos envelopes, identificar-se exibindo a carteira de identidade ou outro documento equivalente. 4.2. O credenciamento é a condição obrigatória para formulação de propostas, lances verbais e praticar todos os atos neste Pregão (artigo 4º, inciso VI, da Lei Federal nº 10.520/2002). 4.2.1 O credenciamento far-se-á por meio de instrumento público ou particular de procuração, neste caso com firma reconhecida em cartório, que comprove os necessários poderes para praticar todos os atos inerentes à participação no certame, em nome do proponente e acompanhada de documento comprobatório da capacidade do outorgante para constituir mandatários. 4.2.1.1. Em sendo instrumento público de procuração, fica dispensada a verificação dos documentos que comprovem os poderes do outorgante.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+2
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+4.2.2. Em sendo sócio, proprietário, dirigente ou assemelhado da empresa proponente, deverá apresentar cópia do respectivo Estatuto ou Contrato Social, no qual estejam expressos seus poderes para exercer direitos e assumir obrigações em decorrência de tal investidura. 4.3. Os proponentes deverão apresentar Declaração de Ciência nos termos do modelo do Anexo V, que por intermédio de seu representante legal DECLARA, que a empresa atende a todos os requisitos de habilitação, bem como apresenta sua proposta com indicação do objeto e do preço oferecido os quais atendem plenamente ao Edital, conforme modelo do Anexo V.
+
+5. DA PROPOSTA DE PREÇOS 5.1 A proposta deverá ser datilografada ou emitida por computador, no idioma português do Brasil, e apresentada sem alternativas, emendas, rasuras ou entrelinhas. Suas folhas devem estar preferencialmente numeradas e rubricadas e a última assinada pelo representante legal da licitante, devendo constar: a) nome da proponente, endereço, números do CNPJ e da Inscrição Estadual ou do Distrito Federal; b) conter preços unitários e mensais de cada subitem, bem como o valor global anual, conforme disposto no Anexo I.2 do Edital em algarismos e por extenso, prevalecendo, em caso de divergência entre o valor em algarismo e por extenso, o valor por extenso; c) conter o prazo de inicio do serviço oferecido não superior a 05 (cinco) dias úteis, contados a partir da data da publicação do Extrato do Contrato; d) conter prazo de validade da proposta que não poderá ser inferior a 60 (sessenta) dias, contados da data de sua entrega; e) conter Declaração expressa preferencialmente nos seguintes termos: os preços oferecidos englobam a prestação de serviços, disponibilização dos equipamentos, manutenção e armazenamento de dados, bem como todos os tributos e encargos, seguro e quaisquer outras despesas que incidam ou venham a incidir sobre o objeto desta licitação; f) conter as descrições e declarações de que trata o item 4 do Anexo I (Termo de Referência/Projeto Básico); 5.2. Se na Proposta de Preços a especificação estiver incompleta, esta será considerada igual à exigida no presente Edital, obrigando-se o proponente à prestação de serviços que atenda em plenitude às condições do Anexo I. 5.3 Caso o prazo de que trata o item 5.1, letra "d", não esteja expressamente indicado na proposta, o mesmo será considerado como aceito para efeito de julgamento. 5.4. Em nenhuma hipótese poderá ser alterado o conteúdo da proposta apresentada, seja com relação a prazo e especificações dos serviços ofertados ou qualquer condição que importe modificação dos seus termos originais, ressalvadas apenas aquelas alterações destinadas a sanar evidentes erros formais.
+
+6. DO JULGAMENTO E DA ADJUDICAÇÃO 6.1. No julgamento das propostas será adotado o critério de menor preço global anual , atendidas as condições estabelecidas neste Pregão.6.2. O Pregoeiro poderá, se necessário, suspender a sessão para recorrer a setores técnicos internos da CODEPLAN e externos, a fim de obter parecer que possibilite melhor julgamento, definindo nova data para continuidade da sessão licitatória. 6.3. Durante o julgamento será verificada a conformidade das propostas apresentadas com os requisitos estabelecidos no presente Edital, sendo desclassificadas as que estiverem em desacordo. 6.4. Não serão aceitas propostas que apresentarem preços globais ou unitários simbólicos, irrisórios ou de valor zero. 6.5. A desclassificação da proposta da licitante importa na preclusão do seu direito de participar da fase de lances verbais. 6.6. Quando todas as propostas forem desclassificadas, o Pregoeiro poderá fixar às licitantes o prazo de 08 (oito) dias úteis para apresentação de novas propostas, escoimadas das causas de desclassificação.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+3
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+6.7. Será identificada pelo Pregoeiro a proposta de menor preço global anual, o qual classificará as demais em ordem crescente até 10% (dez por cento) superior em relação à de menor preço e desclassificará as propostas que não atenderem às exigências do edital. 6.8. Não havendo pelo menos 03 (três) propostas nas condições definidas no item 6.7, o Pregoeiro classificará as melhores propostas subseqüentes, até o máximo de 03 (três), para que seus autores ofereçam lances verbais e sucessivos, quaisquer que sejam os preços oferecidos nas propostas escritas. 6.9. Os preços oferecidos devem estar compatíveis com os praticados no mercado. 6.10. Às licitantes classificadas será dada oportunidade para disputa, por meio de lances verbais e sucessivos, de valores distintos e decrescentes, a partir do autor da proposta classificada de menor preço. 6.10.1. A licitante que se abstiver de apresentar lance verbal, quando convocada pelo Pregoeiro, ficará excluída dessa etapa e será mantido o seu último preço apresentado para efeito de ordenação das propostas. 6.11. Se duas ou mais propostas em absoluta igualdade de condições ficarem empatadas, será realizado sorteio, em ato público. 6.12. Não poderá haver desistência dos lances ofertados, sujeitando-se o proponente desistente às penalidades constantes do item 8 deste Edital. 6.13. Encerrada a etapa competitiva, serão ordenadas as ofertas exclusivamente pelo critério de menor preço global anual. 6.14. Não havendo lances verbais, será verificada a conformidade entre as propostas escrita de menor preço global e o valor estimado para a contratação, podendo o Pregoeiro negociar diretamente com a licitante para que seja obtido melhor preço. 6.15. O Pregoeiro examinará a aceitabilidade, quanto ao objeto e ao valor, da primeira classificada, decidindo motivadamente a respeito. 6.16. Sendo aceitável a oferta, será verificado o atendimento das condições habilitatórias pela licitante que a tiver formulado. 6.17. Constatado o atendimento pleno às exigências habilitatórias, será declarado o proponente vencedor, sendo-lhe adjudicado o objeto para o qual apresentou proposta. 6.18. Se a oferta não for aceitável ou se o proponente não atender às exigências editalícias, o Pregoeiro examinará as ofertas subseqüentes, na ordem de classificação, até a apuração de uma proposta aceita, sendo o respectivo proponente declarado vencedor e a ele adjudicado o objeto, podendo o Pregoeiro negociar com o mesmo para que seja obtido melhor preço. 6.19. Da reunião lavrar-se-á ata circunstanciada, em que serão registradas as ocorrências relevantes que, ao final, será assinada pelo Pregoeiro, pela Equipe de Apoio e pelos representantes presentes. 6.20. Verificando-se, no curso da análise, o descumprimento de requisitos estabelecidos neste Edital e seus Anexos, a proposta será desclassificada.
+
+7. DA HABILITAÇÃO 7.1 Para habilitar-se a presente licitação as empresas deverão estar devidamente CADASTRADAS e HABILITADAS PARCIALMENTE no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, ou mediante a apresentação da documentação relacionada no item 7.1.2 deste Edital. 7.1.1. As licitantes devidamente cadastradas no SICAF deverão incluir no envelope DOCUMENTAÇÃO os seguintes documentos: I ­ declaração, sob as penas da lei, da inexistência de fatos supervenientes impeditivos para sua habilitação no presente processo licitatório (modelo Anexo V); II ­ declaração de que não utiliza mão-de-obra direta ou indireta de menores de 18 (dezoito) anos para a realização de trabalhos noturnos, perigosos ou insalubres, bem como não utiliza, para qualquer trabalho, mão-de-obra direta ou indireta de menores de 16 (dezesseis) anos, exceto
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+4
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+na condição de aprendiz, a partir de 14 (quatorze) anos (conforme inciso V do art. 27 da Lei Federal nº 8.666/93) (modelo Anexo III); III ­ atestado(s) de Aptidão Técnico-Operacional, que comprove(m) que a licitante tenha executado para órgão ou entidade da Administração Pública Direta ou Indireta, Federal, Estadual, Municipal ou do Distrito Federal ou, ainda, para empresas privadas, serviços em Tecnologia da Informação à semelhança do objeto dessa licitação, cujas parcelas de maior relevância técnica e de valores significativos são os seguintes: a) b) c) d) instalou licenças de Plataforma de Banco de Dados Caché; prestou serviços de Tecnologia da Informação com remuneração baseada em Ponto de Função; prestou manutenção em sistemas relacionados à Gestão de Saúde Pública; prestou serviços de desenvolvimento e manutenção de soluções baseadas em tecnologia de Computação Móvel.
+
+IV - Certidão Negativa de Débitos ou Certidão Positiva com efeito de negativa, emitida pela Secretaria de Estado de Fazenda do Governo do Distrito Federal, em plena validade, para as empresas com sede ou domicílio fora do Distrito Federal, que poderá ser obtida através do site www.fazenda.df.gov.br; V - as licitantes que apresentarem resultado menor do que 1 (um), em qualquer um dos índices contidos no cadastro (SICAF), deve comprovar Patrimônio Líquido mínimo no valor de R$ 2.247.852,00 (dois milhões, duzentos e quarenta e sete mil e oitocentos e cinqüenta e dois reais). 7.1.1.1. A habilitação das licitantes fica condicionada à verificação dos seus respectivos registros, bem como da validade dos documentos cadastrais e de habilitação parcial por meio de consulta "on-line" ao SICAF, no ato da abertura do certame, que será impressa sob forma de "Declaração de Situação", que instruirá o processo, nos termos dos artigos 27 a 31 da Lei Federal 8.666/93, do artigo 3º do Decreto Federal nº 3.722/2001 e da instrução Normativa MARE nº 5 de 21/07/95, republicada no DOU do dia 19/04/96. 7.1.2. As licitantes que não estejam cadastradas ou com situação irregular junto ao SICAF, deverão incluir no envelope DOCUMENTAÇÃO os seguintes documentos: I. declaração sob as penas da lei, que até a presente data não existem fatos supervenientes impeditivos para sua habilitação no presente processo licitatório, ciente da obrigatoriedade de declarar ocorrências posteriores, modelo Anexo V deste Edital; II. declaração nos termos do modelo do Anexo III deste Edital de que a licitante não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega menor de dezesseis anos; III. Certificado de Regularidade perante o FGTS, fornecido pela Caixa Econômica Federal, devidamente atualizado, nos termos da Lei Federal nº 8.036, de 11 de maio de 1990; IV. Certificado de Regularidade perante o INSS, devidamente atualizado, nos termos da Lei Federal nº 8.212, de 24 de julho de 1991, alterada pela Lei Federal n.º 8.870, de 15 de abril de 1994; V. Certidão Negativa de Falência ou Concordata expedida pelo distribuidor da sede da empresa, datado dos últimos 30 (trinta) dias, ou que esteja dentro do prazo de validade expresso na própria Certidão; VI. prova de Regularidade para com a Fazenda Federal, mediante apresentação de: a) "Certidão quanto a Dívida Ativa da União", expedida pela Procuradoria Regional da Fazenda Nacional; e b) "Certidão de Quitação de Tributos e Contribuições Federais", fornecida pela Delegacia da Receita Federal.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+5
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+VII. prova de regularidade para com a Fazenda Estadual e Municipal ou Distrital da sede do licitante; VIII. atestado(s) de Capacidade Técnica, expedido(s) por pessoa jurídica de direito público ou privado, comprovando a execução de serviços em Tecnologia da Informação compatíveis com o objeto do Anexo I deste Edital. Neste sentido, o(s) Atestado(s) de Capacidade Técnica deverão apresentar, obrigatoriamente, comprovação de que a licitante: a) instalou licenças de Plataforma de Banco de Dados Caché; b) prestou serviços de Tecnologia da Informação com remuneração baseada em Ponto de Função; c) prestou manutenção em sistemas relacionados à Gestão de Saúde Pública; d) prestou serviços de desenvolvimento e manutenção de soluções baseadas em tecnologia de Computação Móvel. IX. no caso de atestados emitidos por empresa da iniciativa privada, não serão considerados aqueles emitidos por empresas pertencentes ao mesmo grupo empresarial da empresa proponente. Serão considerados como pertencentes ao mesmo grupo empresarial da empresa proponente, empresas controladas ou controladoras da empresa proponente, ou que tenha pelo menos uma mesma pessoa física ou jurídica que seja sócio da empresa emitente e da empresa proponente; X. Certidão Negativa de Débitos ou Certidão Positiva com Efeito Negativa, emitida pela Secretaria de Estado de Fazenda do Governo do Distrito Federal, em plena validade, para as empresas com sede ou domicílio fora do Distrito Federal, que poderá ser obtida através do site www.fazenda.df.gov.br; XI. as licitantes deverão comprovar Patrimônio Líquido mínimo no valor de R$ 2.247.852,00 (dois milhões, duzentos e quarenta e sete mil e oitocentos e cinqüenta e dois reais). 7.2. Os documentos necessários à habilitação deverão ser apresentados em original, ou por qualquer processo de cópia autenticada por cartório ou mediante cotejo das cópias com os originais pelo Pregoeiro ou por membro da Equipe de Apoio ou publicação em órgão de imprensa oficial. 7.3. Não será aceito nenhum protocolo de entrega em substituição aos documentos relacionados neste Edital. 7.4. Os documentos apresentados para habilitação deverão estar todos em nome da matriz ou todos em nome da filial, exceto aqueles que comprovadamente só possam ser fornecidos à matriz e referir-se ao local do domicílio ou sede do interessado. 7.5. Para os efeitos desta licitação, considera-se sede a matriz ou o único estabelecimento comercial, industrial e de prestação de serviços da empresa. 7.6. Em todas as hipóteses referidas nos 7.1.1 e 7.1.2 deste edital, não serão aceitos protocolos, nem documentos com prazo de validade vencido. 7.7. Quando o documento e/ou certidões apresentadas não informarem a sua validade deverão estar datados dos últimos 90 (noventa) dias, exceto a Certidão de que trata o inciso V do subitem 7.1.2, deste Edital.
+
+8. DAS PENALIDADES 8.1. Pelo descumprimento de quaisquer cláusulas ou condições do presente Edital, serão aplicadas as penalidades estabelecidas no Decreto Distrital 26.851/2006, publicado no Diário Oficial do Distrito Federal nº. 103 de 31 de maio de 2006, pág. 05 a 07 e alterações posteriores, que regulamentaram a aplicação das sanções administrativas previstas nas Leis Federais nºs 8.666/93 e 10.520/2002. 8.1.1. A aplicação das sanções de natureza pecuniária e restritiva de direitos pelo não cumprimento das normas previstas neste edital e dos contratos dele decorrente, em face do disposto nos arts. 81, 86, 87 e 88 da Lei Federal 8.666/93 e do art. 7º da Lei Federal nº 10.520/2002.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+6
+
+EDITAL DE LICITAÇÃO
+9. DOS RECURSOS
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+9.1. Declarado o vencedor, qualquer licitante poderá manifestar imediata e motivadamente a intenção de recorrer, podendo o interessado no prazo de 3 (três) dias úteis, apresentarem as razões do recurso, contados da lavratura da ata, nos casos de: a) julgamento das propostas; e b) habilitação ou inabilitação da licitante. 9.2. A apresentação das contra-razões dos demais licitantes ocorrerá no prazo de até 03 (três) dias úteis após o prazo do recorrente. 9.3. A manifestação da intenção de interpor recurso, pleiteada pela licitante, deverá ser feita ao final da sessão, com registro em ata da síntese das suas razões de recorrer. 9.4. O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 9.5. Os autos do processo administrativo correspondente ao presente Edital permanecerão com vista franqueada aos interessados no SAIN, Projeção H, Térreo, Sala T-01, Edifício CODEPLAN, Brasília-DF. 9.6. A falta de manifestação imediata e motivada da intenção de interpor recurso, no momento da sessão deste Pregão, implicará decadência do direito da licitante, podendo o Pregoeiro adjudicar o objeto à vencedora. 9.7. Caberá ao Pregoeiro receber, examinar e instruir os recursos e à Presidência da CODEPLAN a decisão final sobre os recursos conta atos do Pregoeiro. 9.8. Depois de decididos os recursos e constatada a regularidade dos atos procedimentais, a Presidência da CODEPLAN procederá à homologação deste Pregão. 9.9. O recurso contra a decisão do Pregoeiro não terá efeito suspensivo.
+
+10. DO CONTRATO 10.1. Será obrigatório o Termo de Contrato nos termos da Lei Federal nº 8.666/93, quando a interessada será convocada para assinar o respectivo instrumento, dentro do prazo e condições estabelecidos, sob pena de recair o direito à contratação, sem prejuízo das sanções previstas na Lei Federal nº 8.666/93 e alterações subseqüentes e neste Edital. 10.2. Por ocasião da celebração do contrato e nos seus termos, será exigida da licitante vencedora a prestação de garantia contratual conforme disposição na minuta de Contrato no Anexo II deste Edital e corresponderá a 2% (dois por cento) do valor do contrato, mediante uma das seguintes modalidades à escolha da Contratada: caução em dinheiro ou em títulos da dívida pública, seguro garantia ou fiança bancária, tendo o seu valor atualizado nas condições contratualmente previstas. 10.3. O prazo para assinatura do contrato será de até 05 (cinco) dias úteis contados a partir da intimação do adjudicatário, podendo ser prorrogado uma vez por igual período, desde que ocorra motivo justificado e aceito pela Administração. 10.4. Será parte integrante do Contrato este Edital e seus Anexos e a Proposta apresentada pela licitante vencedora. 10.5. O contrato poderá ser alterado na ocorrência de quaisquer fatos estipulados no Art. 65 da Lei Federal n.º 8.666/93 e suas alterações. 10.6. Cabe à CODEPLAN providenciar a publicação resumida do instrumento do contrato e de seus eventuais termos aditivos, no Diário Oficial do Distrito Federal. 10.7. O contrato poderá ser rescindido conforme o disposto no artigo 78 com os desdobramentos dos artigos 79 e 80 da Lei Federal nº 8.666/93.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+7
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+11 ­ DA VIGÊNCIA DO CONTRATO
+
+11.1. O contrato terá vigência conforme estabelecido na Minuta de Contrato no Anexo II deste Edital, podendo ser prorrogado na forma da Lei. 11.2. A prorrogação do contrato será precedida de pesquisa para verificar se as condições oferecidas pela licitante contratada continuam mais vantajosas para a CODEPLAN. 11.3. O contrato a ser firmado pode ser reajustado depois de transcorrido 01 (um) ano de sua vigência, em conformidade com a legislação pertinente. 11.4. O critério de reajuste, quando couber, deverá retratar a variação efetiva do custo de serviço, admitida a adoção de índices específicos ou setoriais, que reflitam a variação dos insumos utilizados, desde a data prevista para apresentação da proposta, até a data do adimplemento de cada parcela. 11.5. A variação de preços para efeito de reajuste anual será medida pelo índice INPC apurado durante o período ou aquele que vier a substituí-lo, devendo a Contratada para tanto, apresentar Planilha de Custos e Formação de Preços, com demonstração analítica correspondente.
+
+12- DAS OBRIGAÇÕES DA CONTRATADA 12.1. Manter, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas neste ato convocatório. 12.2. Responsabilizar-se por quaisquer danos pessoais e/ ou materiais, causados por técnicos (empregados) e acidentes causados por terceiros, bem como pelo pagamento de salários, encargos sociais e trabalhistas, tributos e demais despesas eventuais, decorrentes da prestação dos serviços e as obrigações de que trata o item 6 do Anexo I do Edital (Termo de Referência/Projeto Básico). 12.3. Responsabilizar-se das eventuais despesas para execução do serviço solicitado, qualquer que seja o valor, e cumprir todas as obrigações dos Anexos deste Ato Convocatório.
+
+13 ­ DAS OBRIGAÇÕES DA CONTRATANTE 13.1. Indicar o Executor interno do Contrato, conforme Art. 67 da Lei Federal nº 8.666/93 e Decreto Distrital nº 16.098/94, Art. 13, Inciso II e § 3º. 13.2. Cumprir os compromissos financeiros assumidos com a Contratada. 13.3. Fornecer e colocar à disposição da Contratada todos os elementos e informações que se fizerem necessários à execução dos serviços. 13.4. Notificar, formal e tempestivamente, a Contratada sobre as irregularidades observadas nos serviços. 13.5. Notificar a Contratada, por escrito e com antecedência sobre multas, penalidades quaisquer débitos de sua responsabilidade, bem como fiscalizar a execução do Objeto Contratado.
+
+14 - DA FISCALIZAÇÃO 14.1. A execução dos serviços será acompanhada e fiscalizada por Executor interno do ajuste, especialmente designado pela CODEPLAN, que anotará em registro próprio todas as ocorrências, determinando o que for necessário à regularização das faltas ou defeitos observados, além das atribuições contidas nas Normas de Execução Orçamentária e Financeira do Distrito Federal; 14.2. Não obstante a Contratada seja única e exclusiva responsável pela execução de todos os serviços definidos neste edital e seus anexos, a CODEPLAN reserva-se o direito de exercer a mais ampla fiscalização sobre os serviços, por intermédio de representante especificamente designado, sem que de qualquer forma restrinja a plenitude dessa responsabilidade, podendo: I - sustar a execução de qualquer trabalho que esteja sendo feito em desacordo com o especificado, sempre que essa medida se torne necessária;
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+8
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+II - exigir a substituição de qualquer empregado ou preposto da contratada que, a seu critério, venha a prejudicar o bom andamento dos serviços; III - determinar a reexecução dos serviços realizados com falha, erro ou negligência, lavrando termo de ocorrência do evento. 14.3. Se a Contratada deixar de executar o serviço dentro do prazo estabelecido sem justificativa por escrito aceita pela CODEPLAN, sujeitar-se-á às penalidades impostas pela legislação vigente e por este Edital. 14.4. O serviço deverá ser entregue conforme disposto no Anexo I deste Edital (Termo de Referência/Projeto Básico).
+
+15 - DO LOCAL DA PRESTAÇÃO DO SERVIÇO 15.1. Os serviços deverão ser executados no local indicado pela CODEPLAN, devendo os mesmos serem concluídos e entregues nos prazos definidos pelos órgãos contratantes, de acordo com o pré-estabelecido no Anexo I (Termo de Referência/Projeto Básico).
+
+16. DO PAGAMENTO 16.1. Para efeito de pagamento, a Contratada deverá apresentar os documentos abaixo relacionados: I ­ Certidão Negativa de Débitos ­ CND, emitida pelo INSS ­ Instituto Nacional de Seguridade Social, devidamente atualizada (Lei n.º 8.212/91); II ­ Certificado de Regularidade do Fundo de Garantia por Tempo de Serviço ­ FGTS, fornecido pela CEF ­ Caixa Econômica Federal, devidamente atualizado (Lei n.º 8.036/90); III ­ Certidão de Regularidade com a Fazenda do Distrito Federal. 16.2. O pagamento será efetuado até 10 (dez) dias, contados a partir da data de apresentação da Nota Fiscal, desde que o documento fiscal esteja em condições de liquidação e pagamento. 16.3. Passados 30 (trinta) dias sem o devido pagamento por parte da Administração, a parcela devida será atualizada monetariamente, desde o vencimento da obrigação até a data do efetivo pagamento de acordo com a variação "pro rata tempore" do INPC. 16.4. Nenhum pagamento será efetuado à Contratada enquanto pendente de liquidação qualquer obrigação que lhe for imposta, em virtude de penalidade ou inadimplência, sem que isso gere direito ao pleito de reajustamento de preços ou correção monetária (quando for o caso). 16.5. Caso haja multa por inadimplemento contratual, será adotado o seguinte procedimento: I ­ a multa será descontada do valor total do respectivo contrato; e II ­ se o valor da multa for superior ao valor devido pelo fornecimento do material, responderá a Contratado pela sua diferença a qual será descontada dos pagamentos eventualmente devidos pela Contratante, ou ainda, quando for o caso, cobrada judicialmente. 16.6. As empresas com sede ou domicílio no Distrito Federal, com créditos de valores iguais ou superiores a R$ 1.000,00 (hum mil reais), os pagamentos serão feitos exclusivamente, mediante crédito em conta corrente, em nome do beneficiário junto ao Banco de Brasília S/A ­ BRB. Para tanto deverão apresentar o número da conta corrente e agência onde deseja receber seus créditos, de acordo com o Decreto Distrital nº 17.733 de 02/10/96, alterado pelo Decreto Distrital nº 18.126 de 27/03/97.
+
+17. DAS DISPOSIÇÕES FINAIS 17.1. Os itens não cotados e considerados desertos, bem como os fracassados a critério da CODEPLAN, poderão ser dispensados com base no artigo 24, inciso V, da Lei Federal nº 8.666/93, desde que atendidas as condições estabelecidas no referido artigo e seu inciso. 17.2. Todo e qualquer pedido de alteração do Contrato/Nota de Empenho oriundo deste Edital será dirigido à autoridade responsável pela emissão do mesmo, a quem caberá o deferimento ou não do pedido.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+9
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+17.3. Quando ocorrer discordância ou inversão de numeração de itens poderá o Pregoeiro, fazer as correções que julgar necessárias para o seu aproveitamento, no interesse da CODEPLAN. 17.4. A Contratada ficará obrigada a prestar os serviços descritos na Nota de Empenho, no local indicado na mesma, sem que isso implique em acréscimo nos preços constantes das propostas; 17.5. A autoridade competente poderá, em qualquer fase do processo licitatório desclassificar a proposta da licitante que for declarada inidônea na área da Administração Pública. 17.6. À CODEPLAN fica reservado o direito de revogar a presente licitação por razões de interesse público, decorrente de fato superveniente devidamente comprovado, devendo anulá-la por ilegalidade, de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente fundamentado (artigo 49 da Lei Federal nº 8.666/93). 17.7. É facultado à CODEPLAN, quando a licitante vencedora não firmar o Termo de Contrato no prazo e condições ora estabelecidos, convocar as licitantes remanescentes, na ordem de classificação, para fazê-lo em igual prazo e nas mesmas condições propostas pela primeira classificada, inclusive quanto aos preços, de conformidade com ato convocatório. 17.8. A Contratada fica obrigada a aceitar nas mesmas condições contratuais, acréscimos ou supressões que se fizerem necessárias, até 25% (vinte e cinco por cento) do valor inicial (Lei n.º 8.666/93, art.65, §§ 1º, 2º, II). 17.9. Quaisquer tributos ou encargos legais criados, alterados ou extintos, bem como a superveniência de disposições legais, quando ocorridas após a data da apresentação da proposta, de comprovada repercussão nos preços contratados, implicarão na revisão destes para mais ou para menos, conforme o caso (Lei Federal nº 8.666/93, art. 65, § 5º). 17.10. Não serão aceitos pedidos de esclarecimentos, recursos ou impugnações via Fac-símile. 17.11.Qualquer licitante e/ou qualquer cidadão poderá solicitar esclarecimentos, providências ou impugnar o presente Edital de Licitação, devendo fazê-lo em até 02 (dois) dias úteis antes da data fixada para recebimento das propostas, cabendo ao Pregoeiro decidir sobre a petição. 17.12. O foro para dirimir questões relativas ao presente edital, será o de Brasília ­ DF, com exclusão de qualquer outro, por mais privilegiado que seja. 17.13. Na contagem dos prazos excluir-se-á o dia do início e incluir-se-á o do vencimento e considerar-se-ão os dias consecutivos, exceto quando for explicitamente disposto o contrário no Edital, e só se iniciam e vencem os prazos em dia de expediente na CODEPLAN. 17.14. Os casos omissos e demais dúvidas suscitadas serão dirimidas pelo Pregoeiro, no endereço mencionado no preâmbulo. Brasília (DF), 06 de dezembro de 2006.
+
+TAIRONE AIRES CAVALCANTE Pregoeiro ANEXOS: Anexo I ­ Termo de Referência/Projeto Básico Anexo I.1 ­ Especificação Técnica dos Serviços Anexo I.2 ­ Planilha de Preços Anexo I.3 ­ Termo de Certificação de Serviços ­ TCS Anexo II ­ Minuta de Contrato Anexo III ­ Modelo de Declaração (Inciso V do artigo 27 da Lei Federal nº 8.666/93, de 21/06/93) Anexo IV ­ Modelo de Declaração (Inexistência de Fatos Impeditivos) Anexo V ­ Modelo de Declaração de Atendimento aos Requisitos de Habilitação Anexo VI ­ Planilha Demonstrativa de Quantitativos e Preços Unitários
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+10
+
+EDITAL DE LICITAÇÃO
+ANEXO I
+
+PREGÃO PRESENCIAL Nº 002/2006
+TERMO DE REFERÊNCIA
+
+1. OBJETO Contratação de empresa para a prestação de serviços de gestão e operacionalização de soluções em Tecnologia da Informação, contemplando atividades de projeto, consultoria, desenvolvimento, implantação e manutenção de sistemas de informação orientados a serviços e de soluções integradas, incluindo computação móvel, de forma a atender às necessidades das Secretarias de Estado de Saúde e de Educação do Distrito Federal, conforme especificações constantes neste Anexo. 2. MOTIVAÇÕES
+
+A Companhia de Desenvolvimento do Planalto Central - CODEPLAN vem atuando nos últimos anos provendo soluções completas de Tecnologia de Informação - TI aos seus clientes, da implantação de sistemas até a logística de execução dos mesmos. Neste sentido, duas importantes Secretarias, com alto cunho social, a Secretaria de Estado de Educação do Distrito Federal (SEE/DF) e a Secretaria de Estado de Saúde do Distrito Federal (SES/DF), contam com o suporte da CODEPLAN para executar atividades que vão desde a consultoria técnica para modernização dos seus ambientes de Tecnologia de Informação até a gestão de processos com o uso de tecnologias de computação móvel, em toda extensão do território do Distrito Federal. Devido à similaridade dos processos de modernização das duas Secretarias, que atuam em todo o território do Distrito Federal de forma descentralizada, a Companhia optou por reunir esforços no intuito de compartilhar experiências e gerar economia de escala, promovendo melhor aproveitamento dos serviços que visam não só a modernização dentro das Secretarias como também dos processos em todas as redes de atuação. A CODEPLAN, hoje, pode ser observada como executora de um conjunto de atividades voltadas à gestão de projetos de soluções envolvendo Tecnologia da Informação que resultam em produtos acabados e / ou em atividades continuadas. Assim, no apoio a estas Secretarias, cabe à CODEPLAN o papel de braço executor de seus processos informatizados bem como o suporte às suas atividades de modernização, na busca de atualização e otimização tecnológica de suas soluções de T.I., baseadas na infra-estrutura implantada e mantida por esta Companhia. Neste sentido, não só a Codeplan dá suporte a informatização, mas atua fortemente no suporte gerencial, logístico e operacional em Tecnologia da Informação. Isto faz com que sejam necessários, no contexto deste Projeto Básico, esforços voltados não só a soluções de TI mas envolvendo também esforços de modernização, integração, suporte tecnológico em redes e recursos de informática, acompanhamento e treinamento, logística na manutenção de recursos computacionais e, até mesmo, nas tarefas de disseminação local de conhecimentos em suporte a redes locais e uso de sistemas. Além disto, visando a diminuição de custos e melhor uso de recursos gerenciais, operacionais e logísticos, a CODEPLAN vem atuando de forma integrada, já que a atuação dentro do âmbito do Distrito Federal é física e uniformemente espalhada nas redes de unidades dessas Secretarias. Assim, o corpo gerencial e de suporte operacional e logístico está sendo unificado, buscando à otimização de recursos. Na expansão contínua dos pontos da presença da Secretaria de Educação, com o aumento das unidades escolares e expansão de suas Diretorias Regionais de Ensino, cabe a CODEPLAN o papel de integrador de soluções buscando não só atingir estas novas unidades através do projeto do Sistema Integrado de Gestão Educacional - SIGE, mas também prestando serviços técnicos de forma a atualizar seus produtos e serviços de suporte em Tecnologia de Informações às unidades desta Secretaria. Para a Secretaria de Estado de Saúde, a CODEPLAN atua no suporte de Tecnologia de Informação necessário para a total implantação da Solução Integrada de Saúde - SIS e na avaliação contínua da gestão informatizada de processos hospitalares em mais alto nível, promovendo serviços de consultoria, logística e desenvolvimento de outras soluções que utilizem o Sistema Integrado de prover informações de suporte decisório com o uso de modernos recursos de Informática. Com base nas indicações de estudos técnicos realizados pela CODEPLAN, este Projeto dimensiona elementos necessários para oferecer soluções que assegurem a qualidade da prestação desses serviços. Esta abordagem prevê a visão de gestão de soluções desde a sua concepção até a gestão de sua implantação e 11 "Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+manutenção de execução, através de roteiros de trabalhos claros e previamente definidos, e prazos prénegociados. Além disto, estão previstas neste Projeto, várias atividades visando o domínio tecnológico necessário para implantação de soluções integradas de computação móvel prevendo seu uso nestas Secretarias visando otimizar procedimentos de coleta e disponibilização remota de informações. 3. QUALIFICAÇÃO TÉCNICA Para fins de habilitação no certame, a licitante deverá apresentar a seguinte documentação:  Atestado(s) de Capacidade Técnica, expedido(s) por pessoa jurídica de direito público ou privado, comprovando a execução de serviços em Tecnologia da Informação compatíveis com o objeto deste Anexo. Neste sentido, o(s) Atestado(s) de Capacidade Técnica deverão apresentar, obrigatoriamente, comprovação de que a Empresa Licitante: a) instalou licenças de Plataforma de Banco de Dados Caché; b) prestou serviços de Tecnologia da Informação com remuneração baseada em Ponto de Função; c) prestou manutenção em sistemas relacionados à Gestão de Saúde Pública; d) prestou serviços de desenvolvimento e manutenção de soluções baseadas em Tecnologia de Computação Móvel. No caso de atestados emitidos por empresa da iniciativa privada, não serão considerados aqueles emitidos por empresas pertencentes ao mesmo grupo empresarial da empresa proponente. Serão considerados como pertencentes ao mesmo grupo empresarial da empresa proponente, empresas controladas ou controladoras da empresa proponente ou que tenha pelo menos uma mesma pessoa física ou jurídica que seja sócio da empresa emitente e da empresa proponente. 4. REQUISITOS DAS PROPOSTAS As Propostas das licitantes deverão conter as especificações dos serviços de acordo com as exigências constantes deste Projeto e seus anexos, de forma clara e detalhada, não se admitindo propostas alternativas, atendendo aos seguintes requisitos: a) estar datilografada ou impressa por processo eletrônico, em 02 (duas) vias, em papel identificado da licitante, em língua portuguesa, salvo quanto a expressões técnicas de uso corrente, com clareza, sem emendas, rasuras e entrelinhas, devidamente datada, assinada na última folha e rubricada nas demais pelo representante legal ou procurador da licitante, ressalvando-se que outros impressos (catálogos, folder) anexados à proposta poderão estar redigidos em inglês e não precisam ser assinados e rubricados; conter o nome, endereço, telefone, número do CNPJ e número da inscrição estadual ou municipal; colocando o número deste Pregão, dia e hora de abertura; numeração seqüencial de todas as folhas da proposta e seus anexos. conter prazo de validade mínima da proposta de 60 (sessenta) dias; conter descrição detalhada dos serviços em atendimento ao objeto deste Projeto Básico. conter a Planilha de Preços do ANEXO I.2 devidamente preenchida com os Preços Unitários e o Valor Global Anual da Proposta em algarismos e por extenso, sendo desclassificada a proposta da licitante que deixar de apresentar algum dos preços da planilha ou apresentar preço zero. Na Planilha de Preços: o o não será admitida proposta de preço que apresente valores simbólicos irrisório, nulos ou incompatíveis com o praticado no mercado; em caso de divergência entre os preços unitários e totais, prevalecerão os primeiros; entre os valores em algarismos e por extenso, será levado em conta este último;
+
+b) c) d) e) f)
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+12
+
+EDITAL DE LICITAÇÃO
+o o g)
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+nos preços ofertados não serão admitidos descontos ou referência a preços propostos pelas demais licitantes; a apresentação da proposta de preços implica aceitação plena e irrefutável das condições do Edital e deste Projeto;
+
+conter Declaração, assinada pelo responsável legal da empresa, de que nos preços cotados estão incluídas todas as despesas que, direta ou indiretamente, fazem parte da prestação dos serviços, tais como impostos, taxas, fretes, encargos sociais e trabalhistas, seguros, e quaisquer outras que possam incidir sobre gastos da empresa com pessoal e equipamentos destinados ao cumprimento do Contrato; conter Declaração, assinada pelo responsável legal da empresa, de que possui ou implantará no Distrito Federal, estrutura própria para manutenção dos componentes dos objetos deste Projeto Básico, especificamente ao que se refere à Fábrica de Software para as desenvolvimento, implantação e manutenção evolutiva, adaptativa, preventiva e corretiva de sistemas; conter declaração, assinada pelo responsável legal da empresa, de que cumprirá os prazos definidos neste Projeto, devendo estes prazos estarem especificados na Declaração; conter Declaração, assinada pelo Responsável legal da empresa, de que nos preços mensais ofertados na Planilha de Preços do ANEXO I.2 estão incluídos todos os serviços descritos no ANEXO I - ESPECIFICAÇÕES TÉCNICAS DOS SERVIÇOS deste Projeto; conter Declaração assinada pelo Responsável Técnico da licitante com grau superior nas áreas de administração ou informática, que faça referência objetiva de que a licitante possui uma Metodologia de Gestão de Projetos cuja descrição detalhada deverá constar da Proposta; conter carta(s) específica(s) para esta licitação, mencionando o Edital do Pregão, na qual o fabricante ou representante oficial no Brasil do produto TrakCare - no qual está baseado o Sistema Integrado de Saúde - garante parceria tecnológica com a Contratada atestando transferência de conhecimento e domínio da solução, de forma a garantir que a Contratada esteja apta a executar as atividades de manutenção evolutiva, adaptativa, preventiva e corretiva no referido Sistema.
+
+h)
+
+i) j)
+
+k)
+
+l)
+
+A comprovação de qualquer dos itens acima deverá ocorrer por meio de documentação oficial com firma reconhecida (sendo original ou cópia devidamente autenticada em cartório). Entende-se por documentação oficial: atestados, diplomas, certificados, contratos, notas fiscais, currículos, ou outros documentos que tenham por finalidade comprovar as exigências constantes do Edital. Documentos emitidos em língua estrangeira deverão ser obrigatoriamente apresentados acompanhados de sua tradução para o idioma português por tradutor juramentado. Quando necessária, a comprovação de que um profissional pertence ao corpo técnico permanente da empresa licitante, deverá ser efetuada por meio de apresentação de cópia autenticada da Carteira de Trabalho ou da respectiva folha de assentamentos no Livro de Registro de Empregados ou do Contrato Social, o que couber. Quando necessária, a comprovação de que um profissional é certificado deverá ser efetuada por meio de apresentação de declaração ou certificado fornecido pelo fabricante ou empresa cadastrada por este fabricante para execução de treinamentos oficiais. Durante a análise das propostas, as empresas licitantes poderão ser convocadas para quaisquer esclarecimentos adicionais e deverão atender no prazo máximo de 48 (quarenta e oito) horas após a comunicação formal (todas as comunicações e esclarecimentos deverão ser feitos por escrito). O não atendimento ou atendimento em desconformidade com o exigido, de alguma das condições mínimas da proposta, acarretará na desclassificação da proposta da licitante.
+
+5. CONDIÇÕES GERAIS PARA EXECUÇÃO DOS SERVIÇOS A execução dos serviços ocorrerá em diversas modalidades: a) na modalidade de prestação de serviços contínuos e interdependentes, cuja unidade de medida utilizada é a Hora de Serviços Técnicos ­ HST;
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+13
+
+EDITAL DE LICITAÇÃO
+b)
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+na modalidade de desenvolvimento e manutenção evolutiva, adaptativa, preventiva e corretiva de soluções sistêmicas, sob o regime de Fábrica de Software, cuja unidade de medida é o Ponto de Função ­ PF; o processo de contagem de Pontos de Função (Function Points Analysis) deverá ser baseado na metodologia descrita no Manual de Práticas e Contagens (Counting Practices Manual) Versão 4.1. ou superior, publicado pelo International Function Point Users Group ­ IFPUG; na modalidade de atendimento a implantação do Cartão Saúde do Cidadão, cuja unidade de medida utilizada é a quantidade de Cartões demandados pela Secretaria de Estado de Saúde e entregues; na modalidade de fornecimento de plataformas de produtos para uso no projeto cuja unidade de medida é o atendimento integral nas licenças solicitadas com o pagamento integral em uma parcela (fornecimento, instalação, configuração) e na modalidade de manutenção de plataformas de produtos para uso no projeto cuja unidade de medida é o custo mensal de manutenção.
+
+c)
+
+d)
+
+e)
+
+f)
+
+A Contratada deverá executar serviços técnicos contínuos nas suas instalações, nas instalações da CODEPLAN ou nas instalações das Secretarias de Estado de Saúde e Educação, em qualquer ponto do Distrito Federal. O local de execução dos serviços será determinado em função das características destes e/ou das necessidades da CODEPLAN. Os serviços executados de forma continuada, ou seja, aqueles que exigem a presença de técnicos nas instalações da Contratada, terão jornada de trabalho em quantidades múltiplas de 168 (cento e sessenta e oito) horas/mês. Não obstante os quantitativos de demandas de consumos previstos nas planilhas apresentadas neste Anexo, todo e qualquer serviço somente será executado pela Contratada mediante Ordem de Serviço expedida pela CODEPLAN, não cabendo nenhuma obrigação à mesma de demandar no todo ou parcialmente. Os produtos resultantes desta prestação de serviços (Documentação, Projetos, Sistemas, Programas Fontes e Objetos, Bases de Dados, Arquivos, Interfaces, Drivers e outros correlatos) serão de propriedade exclusiva da CODEPLAN. Todos os serviços previstos neste Projeto deverão ser executados por profissionais habilitados nas ferramentas de "hardware" e "software" utilizadas pela CODEPLAN, não cabendo à mesma nenhuma responsabilidade técnica ou financeira pela capacitação dos técnicos alocados pela Contratada, a qualquer tempo. Em decorrência das constantes mudanças tecnológicas, a Contratada deverá capacitar a sua Equipe Técnica para a execução dos serviços em novas ferramentas e linguagens de desenvolvimento, "softwares", "hardwares" e sistemas/ambientes operacionais que venham a ser implantados nas instalações da Contratante ou das Secretarias de Estado de Saúde e Educação. Portanto, é desejável que a licitante possua recursos de treinamento local e remoto, evitando a interrupção dos serviços que estiverem em execução. À exceção do fornecimento de plataformas / produtos e estabelecimento de contratos de manutenção de plataformas/produtos (que tem seus prazos identificados no ANEXO I.1 - ESPECIFICAÇÕES TÉCNICAS DOS SERVIÇOS), a Contratada deverá dar início à prestação dos serviços no prazo máximo de 05 (cinco) dias úteis contados da publicação do extrato do contrato, de forma a atender as necessidades determinadas pela CODEPLAN, sem causar a descontinuidade dos trabalhos. Os serviços serão executados em horário comercial, cinco dias por semana, oito horas por dia. No entanto, a Contratada deverá, ocasionalmente, a pedido da CODEPLAN, disponibilizar estes serviços, sem ônus adicionais, durante 24 (vinte e quatro) horas por dia e 07 (sete) dias por semana, quando se fizer necessário para o cumprimento dos cronogramas e prazos de entrega estabelecidos, quando houver necessidade de garantir o perfeito funcionamento dos sistemas. 6. OBRIGAÇÕES DA CONTRATADA
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+14
+
+EDITAL DE LICITAÇÃO
+Constituem-se obrigações da Contratada:
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+a) cumprir fielmente o Contrato de modo que o serviço se realize com esmero e perfeição, executando-os sob sua intensa e exclusiva responsabilidade; b) cumprir rigorosamente as normas e regulamentos pertinentes aos serviços objeto deste Anexo; c) garantir o perfeito funcionamento dos sistemas informatizados, através de Equipe Técnica dimensionada de forma a atender as solicitações dentro dos prazos necessários ao cumprimento dos cronogramas estabelecidos; d) emitir, sempre que solicitado pela Contratante, relatórios gerenciais e/ou técnicos referentes aos serviços produzidos; e) dar ciência, imediatamente e por escrito, de qualquer anormalidade que verificar na execução dos serviços, bem como, prestar esclarecimentos que forem solicitados pela Contratante; f) utilizar profissionais devidamente capacitados e habilitados para os serviços contratados, impondo-lhes rigoroso padrão de qualidade, segurança e eficiência, correndo por sua conta todas as despesas com salários, impostos, contribuições previdenciárias, encargos trabalhistas, seguros e outras correlatas; g) providenciar a substituição imediata dos profissionais utilizados na prestação dos serviços que não possuam a qualificação mínima exigida e/ou por solicitação da Contratante, devidamente justificada; h) assumir total responsabilidade pelos atos administrativos e encargos previstos na legislação trabalhista, tais como: controle de freqüência, ausências permitidas, licenças autorizadas, promoções, férias, punições, admissões, demissões, transferências, como também pelo cumprimento de todas as obrigações trabalhistas, fiscais, previdenciárias e comerciais, inclusive a responsabilidade decorrente de acidentes, indenizações e seguros e outros correlatos; i) responsabilizar-se por todo e qualquer dano que cause à Administração, a prepostos seus ou a terceiros, por ação ou omissão, em decorrência da execução dos serviços sob pena glosa de qualquer importância que tenha direito a receber; não ceder a outrem os serviços contratados, no todo ou em parte;
+
+j)
+
+k) apresentar Termos de Certificação de Serviços (TCS) conforme modelo apresentado em anexo a este Anexo. l) manter sigilo absoluto sobre todas as informações provenientes dos serviços realizados;
+
+m) manter as condições de habilitação e qualificação exigidas durante toda a vigência do Contrato. 7. OBRIGAÇÕES DA CONTRATANTE Constituem-se obrigações da Contratante: a) b) c) facilitar o acesso dos profissionais da Contratada às instalações nas quais esteja prevista a execução dos serviços ordenados; efetuar os pagamentos devidos dentro dos prazos contratados; garantir que somente os profissionais da Contratada, devidamente autorizados pela Contratante e conforme nível de hierarquia, tenham acesso aos Projetos, Sistemas, Programas Fontes e Objetos, Bases de Dados, Arquivos, Interfaces, Drivers, Documentos e outros que estejam sob responsabilidade daquela, impedindo que terceiros efetuem manutenções ou alterações nos mesmos, ressalvadas aquelas efetuadas por servidores e funcionários devidamente designados e orientados para este fim;
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+15
+
+EDITAL DE LICITAÇÃO
+d)
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+cumprir fielmente o Contrato de modo que a Contratada possa realizar os serviços com esmero e perfeição.
+
+8. PAGAMENTO Devido às várias modalidades de execução dos serviços objetos deste Anexo, a forma de pagamento e os modelos de comprovação da execução dos serviços serão diferenciados conforme regras apresentadas a seguir:  PARA SERVIÇOS BASEADOS EM HORAS DE SERVIÇOS TECNICOS ­ HST: A Contratada deverá apresentar à Contratante, até o 5º dia útil após cada período de 30 dias de serviços prestados, as Notas Fiscais relativas aos serviços executados, juntamente com o Termo de Certificação dos Serviços - TCS devidamente preenchido (Modelo do Anexo I.3) e Relatório de Atividades desenvolvidas, para fins de conferência e pagamento. A Contratante efetuará o pagamento, em até 10 dias úteis após o recebimento das Notas Fiscais, TCS e Relatório de Atividades, desde que estejam de acordo com os serviços prestados, conforme ateste a ser emitido pelo executor do contrato.  PARA SERVIÇOS BASEADOS EM PONTOS DE FUNÇÃO ­ REGIME DE FÁBRICA DE SOFTWARE: A Contratada deverá apresentar à Contratante, até o 5º dia útil após cada período de 30 dias de serviços prestados, as Notas Fiscais relativas aos serviços executados, juntamente com o TCS devidamente preenchido (Modelo do Anexo I.3) e Relatório de Atividades desenvolvidas que deve indicar a quantidade de pontos de função utilizada na realização das atividades, e deverá ser assinado por profissional com certificação válida ("Certified Function Point Specialist" - CFPS), para fins de conferência e pagamento. A Contratante efetuará o pagamento, em até 10 dias úteis após o recebimento das Notas Fiscais, TCS e Relatório de Atividades, desde que estejam de acordo com os serviços prestados, conforme ateste a ser emitido pelo executor do contrato.  PARA SERVIÇOS DE PLATAFORMAS SISTÊMICAS: FORNECIMENTO, INSTALAÇÃO E CONFIGURAÇÃO DE
+
+A Contratada deverá apresentar à Contratante, até o 5º dia útil após cada período de 30 dias de serviços prestados, as Notas Fiscais relativas aos serviços executados, juntamente com o TCS devidamente preenchido (Modelo do Anexo I.3), um Termo de Cessão de Licenças para produtos adquiridos no quantitativo estabelecido e Relatório de Implantação e configuração que deverá ser assinado por profissional indicado pela Contratante, para fins de conferência e pagamento. A Contratante efetuará o pagamento, em até 10 dias úteis após o recebimento das Notas Fiscais, TCS, Termo de Cessão e Relatório de Implantação, desde que estejam de acordo com os serviços prestados, conforme ateste a ser emitido pelo executor do contrato.  PARA SERVIÇOS DE MANUTENÇÃO DE PLATAFORMAS SISTÊMICAS: A Contratada deverá apresentar à Contratante, até o 5º dia útil após cada período de 30 dias de serviços prestados, as Notas Fiscais relativas aos serviços executados, juntamente com o TCS devidamente preenchido (Modelo do Anexo I.3), Relatório de Atividades de Manutenção realizadas indicando as horas executadas dentro do ambiente da Contratante, para fins de conferência e pagamento. A Contratante efetuará o pagamento, em até 10 dias úteis após o recebimento das Notas Fiscais, TCS e Relatório de Atividades de Manutenção, desde que estejam de acordo com os serviços prestados, conforme ateste a ser emitido pelo Executor do contrato.
+
+
+
+PARA SERVIÇOS DE IMPLANTAÇÃO DO CARTÃO SAÚDE DO CIDADÃO:
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+16
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+A Contratada deverá apresentar à Contratante, até o 5º dia útil após cada período de 30 dias de serviços prestados, as Notas Fiscais relativas aos serviços executados, juntamente com o TCS devidamente preenchido (Modelo do Anexo I.3), Relatório contendo a lista das pessoas atendidas com a distribuição do Cartão Saúde do Cidadão (com número do cartão e nome), para fins de conferência e pagamento. A Contratante efetuará o pagamento, em até 10 dias úteis após o recebimento das Notas Fiscais, TCS e do referido relatório, desde que estejam de acordo com os serviços prestados, conforme ateste a ser emitido pelo executor do contrato. OBS: O pagamento ficará condicionado à Regularidade Fiscal da Contratada, comprovada através de Certidões, que deverão estar em plena vigência no ato de realização do mesmo. 9. VÍNCULO EMPREGATÍCIO Os profissionais e prepostos da Contratada não terão qualquer vínculo empregatício com a Contratante, correndo por conta exclusiva da primeira, todas as obrigações decorrentes da legislação trabalhista, previdenciária, infortunística do trabalho, fiscal, comercial e outras correlatas, as quais a Contratada se obrigam a saldar na época devida. A Contratada deverá manter vínculo empregatício ou contrato de prestação de serviços com todos os profissionais alocados às atividades descritas neste Edital e seus Anexos, de forma a garantir que estes atendam devidamente aos requisitos do mesmo. 10. FISCALIZAÇÃO A Contratada deverá indicar Preposto, aceito pela Contratante, para representá-la na execução do Contrato. Os serviços serão fiscalizados pela Contratante, a qual fará as comunicações necessárias por intermédio do preposto designado pela Contratada. 11. VIGÊNCIA DO CONTRATO O prazo de vigência do contrato será de 12 (doze) meses, conforme minuta de Contrato do presente Edital, podendo ser prorrogado nos termos previstos na Lei Federal nº 8.666, de 21 de junho de 1993 e suas alterações posteriores.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+17
+
+EDITAL DE LICITAÇÃO
+ANEXO I.1
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+ESPECIFICAÇÕES TÉCNICAS DOS SERVIÇOS
+
+Apresentamos a seguir as definições relativas aos tipos de serviços a serem prestados, bem como o detalhamento de cada um dos níveis de perfis profissionais exigidos.
+
+1.
+
+SUPORTE GERENCIAL ÀS ATIVIDADES DE TECNOLOGIA DA INFORMAÇÃO NAS SECRETARIAS DE ESTADO DE SAÚDE ­ SES/DF E DE EDUCAÇÃO ­ SEE/DF As atividades de suporte gerencial em Tecnologia da Informação visam garantir a eficiência administrativa e gerencial para as atividades operacionais inerentes à Tecnologia da Informação. O embasamento técnico aplicado aponta o entendimento de que não há fornecimento de um produto acabado disponível no mercado, mas sim a aplicação de "expertise" para a gestão completa de uma solução com alto grau de customização. Todos os serviços identificados neste item deverão ter a sua forma de pagamento bem como seguir os modelos de comprovação da execução dos serviços sob o modelo de "HORAS DE SERVIÇOS TÉCNICOS".
+
+1.1. GERENCIAL: O corpo gerencial do projeto tem como principal missão assessorar no monitoramento e / ou controle do escopo do projeto, de suas metas, de suas entregas, de suas interdependências, do orçamento e de requisitos de recurso. Este corpo gerencial controla de perto as dependências externas e os riscos inerentes ao projeto, permitindo que as equipe de suporte do projeto foquem na execução de tarefas. Este corpo gerencial deve ser suficiente e capaz de conectar os atos de gestão e os de execução com as metas estratégicas do projeto.  ATIVIDADES DE COORDENAÇÃO DE PROJETOS: À Coordenação de Projetos cabe promover a gestão de projetos utilizando metodologias reconhecidas de mercado, tais como as do PMI; elaborar, acompanhar e controlar projetos que envolvam tecnologia da informação; detectar, registrar e corrigir as não conformidades no decorrer do desenvolvimento / implantação do projeto; acompanhar, controlar e garantir cumprimento de prazos; utilizar ferramentas de acompanhamento e controle de projetos; coordenar e motivar profissionais em busca do melhor resultado; entender a necessidade do cliente; garantir o sucesso do projeto, vencendo os obstáculos; garantir a integração entre os diversos componentes processuais envolvidos no projeto; responsabilizar-se pela documentação do projeto; manter contatos permanentes com clientes; e executar outras atividades correlatas. As atividades de Coordenação de Projetos serão executadas por profissionais qualificados, com registro na entidade profissional competente, obedecendo aos seguintes requisitos mínimos:  Formação de nível superior na área de Informática ou Engenharia, ou outro curso superior com curso adicional de especialização ou mestrado e experiência mínima de 05 (cinco) anos em Consultoria ou Coordenação de Projetos na área de Informática.
+
+1.2. CONSULTORIA: Ao corpo consultor cabe o suporte intelectual à Coordenação de Projetos em assuntos que envolvam profundos conhecimentos em Tecnologia de Informação ou de forma a servir de interface entre as atividades operacionais, de suporte ou de Fábrica de Software junto a Coordenação de Projetos. É composta de especialistas em assuntos de Tecnologia da Informação, de análise de processos e de negócios.  ATIVIDADES DE CONSULTORIA TÉCNICA: As atividades de consultoria técnica irão envolver o profundo conhecimento nas tecnologias envolvidas no projeto no que se refere à sistemas especialistas, geração de informações gerenciais - BI, fábrica de software, sistemas de informação,
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+18
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+portais colaborativos, portais institucionais, portais de atendimento ao serviço público, segurança de sistemas e recursos de infra-estrutura e gestão do conhecimento. Estas atividades serão executadas por profissionais qualificados, com registro na entidade profissional competente, obedecendo aos seguintes requisitos mínimos:    Júnior ­ Formação de nível superior e experiência mínima de 02 (dois) anos em consultoria na área de Informática. Pleno ­ Formação de nível superior e experiência mínima de 03 (três) anos em consultoria na área de Informática. Sênior ­ Formação de nível superior e experiência mínima de 05 (cinco) anos em consultoria na área de Informática.
+
+
+
+ATIVIDADE DE ANÁLISE DE NEGÓCIOS: As atividades de análise de negócios irão envolver a identificar as necessidades do cliente, no que diz respeito à tecnologia da informação e viabilizar para que as mesmas sejam atendidas com qualidade nos prazos adequados; a prestação de apoio à gestão de documentação de projetos da Contratante; de acompanhamento e sustentação da qualidade dos projetos; de apoio na supervisão de atividades de coordenação de projetos da Contratante nas Secretarias de Estado de Saúde e de Educação tendo em vista a visibilidade integral dos recursos envolvidos no projeto; na prospecção mercado no que diz respeito a novas oportunidades dentro do escopo do projeto; na interpretação da legislação e leis pertinentes à área de informática; na criação e sustentação os canais de comunicação entre as Secretarias de Estado de Saúde e de Educação e a Contratante; no acompanhamento e administração da execução do projeto, assim como garantir nível de satisfação do cliente; na prestação de apoio na gestão do Controle de Qualidade da Contratante; e, na execução de outras atividades correlatas. Estas atividades serão executadas por profissionais qualificados com registro na entidade profissional competente, obedecendo aos seguintes requisitos mínimos:  Curso superior completo em Administração de Empresas ou outro curso superior com curso adicional de especialização e formação na área de Marketing com experiência mínima de 03 (três) anos em atividades de Negócios / Comercialização, na área de Tecnologia da Informação.
+
+
+
+ATIVIDADE DE ANÁLISE DE O&M: As atividades de análise de O&M irão compreender a execução de apoio técnico ao acompanhamento e controle de processos e métodos de gerenciamento; na execução de apoio técnico para levantamento de sistemas, processos e infraestrutura; na detecção e prospecção de não conformidades reais ou potenciais em sua área de atuação; na realização de estudos manuais para possíveis aperfeiçoamentos; na execução de levantamentos, análises, diagnósticos e propor alternativas que visem o atendimento das necessidades do usuário no que se refere à estrutura organizacional, recursos materiais e estrutura operacional, quando da concepção, desenvolvimento e implantação de sistemas automatizados de baixa, média e alta complexidade; na realização de levantamento de dados, a padronização de serviços, o preparo e atualização de manuais e a elaboração de formulários; e, na execução de outras atividades correlatas. Estas atividades serão executadas por profissionais qualificados com registro na entidade profissional competente, obedecendo aos seguintes requisitos mínimos:  Júnior ­ formação de nível superior em Administração de Empresas ou outro curso superior com curso adicional de especialização e formação na área de Organização, Sistemas e Métodos, e no mínimo 01 (um) ano de experiência em O&M. Pleno ­ formação de nível superior em Administração de Empresas ou outro curso superior com curso adicional de especialização e formação na área de Organização, Sistemas e Métodos, e no mínimo 04 (quatro) anos de experiência em O&M. Sênior ­ formação de nível superior em Administração de Empresas ou outro curso superior com curso adicional de especialização e formação na área de Organização, Sistemas e Métodos, e no mínimo 07 (sete) anos de experiência em O&M.
+
+
+
+
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+19
+
+EDITAL DE LICITAÇÃO
+1.3. OPERACIONAL:
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Suporte operacional as atividades de coordenação e gestão do projeto, principalmente no que se refere à manutenção atualizada das informações necessárias para acompanhamento da execução do projeto, na manutenção dos cadastros em sistemas informatizados; e na gestão, edição, formatação e refinamento de informações em documentos eletrônicos.  ATIVIDADE DE ANÁLISE DE SUPORTE: As atividades de análise de suporte em T.I. - no suporte gerencial ao projeto - serão executadas por profissionais qualificados, com registro na entidade profissional competente, obedecendo aos seguintes requisitos mínimos:  Júnior ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Suporte e mínimo de 01 (um) ano de experiência, exercendo atividades na área de Suporte. Pleno ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Suporte e mínimo de 03 (três) anos de experiência, exercendo atividades na área de Suporte. Sênior ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Suporte e mínimo de 05 (cinco) anos de experiência, exercendo atividades na área de Suporte.
+
+
+
+
+
+2.
+
+SUPORTE TECNOLÓGICO E LOGÍSTICO PARA AS SECRETARIAS DE ESTADO DE SAÚDE E DE EDUCAÇÃO DO DISTRITO FEDERAL Os serviços a serem realizados envolvem a execução dos processos necessários para implantação e operacionalização do Sistema Integrado de Saúde nas unidades que compõem a rede assistencial da Secretarias de Estado de Saúde do Distrito Federal excetuando o Hospital de Base do Distrito Federal, e na operacionalização do Sistema Integrado de Gestão Escolar - SIGE nas unidades escolares, Diretorias Regionais de Ensino e no núcleo de administração que compõe a rede de ensino da Secretaria de Estado de Educação. Cabe ressaltar que a execução deste item compreende uma série de atividades de suporte tecnológico e logístico em diversas unidades - pontos de presença das Secretarias envolvidas - segundo perfis de mercado de atividades que envolvem Tecnologia de Informação e compreende também as atividades inerentes à manutenção das bases de dados centralizadas, a manutenção dos canais de comunicação entre estes pontos de presença e a gestão da infra-estrutura envolvida de acordo com as necessidades do projeto. À Secretaria de Estado de Saúde estão vinculados 15 hospitais (regionais e não regionalizados), 3 unidades mistas de saúde, 61 centros de saúde, 10 postos de saúde urbanos, 23 postos de saúde rurais, 3 laboratórios (regionais e centrais), 1 central radiológica e 21 núcleos de inspeção, levando-se ainda em conta a Administração Central desta Secretaria, sua Diretoria de Informática, as 5 Diretorias Regionais de Saúde e as Fundações de Ensino e Pesquisa e Hemocentro de Brasília. Esta estrutura atende cerca de 5.000 usuários, distribuídos nas várias unidades de saúde. As soluções informatizadas para a área de Saúde utilizam linguagem Caché Object Script - COS e banco de dados pós-relacional, com utilização de tecnologia orientada a objeto. Os Sistemas integram-se em plataforma web, envolvendo rotinas e políticas de segurança com a facilidade de rastreabilidade da informação. Dentro destas estruturas organizacionais são realizados diversos procedimentos operacionais que envolvem recursos de informática voltados à administração destas atividades. À Secretaria de Estado de Educação estão vinculadas 14 Diretorias Regionais de Ensino, a Diretoria de Apoio Pedagógico e as 600 escolas públicas do Distrito Federal, que necessitam de suporte técnico no uso de serviços informatizados. As soluções informatizadas para a área de Gestão Educacional contemplam sistemas que realizam controle acadêmico, controle de freqüência, de notas, de turnos, de carga horária, e demais atividades correlatas ao meio educacional, e estão estruturadas em solução de banco de dados. Dentro destas estruturas organizacionais são realizados diversos procedimentos operacionais que envolvem recursos de informática voltados à administração destas atividades.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+20
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Todos os serviços identificados neste item deverão ter a sua forma de pagamento bem como deve seguir os modelos de comprovação da execução dos serviços sob o m odelo de "HORAS DE SERVIÇOS TÉCNICOS".
+
+2.1. LOGÍSTICA E TECNOLÓGICA: Este suporte tecnológico executa atividades que envolve a implantação e manutenção dos processos de Tecnologia de Informação que garantam o pleno funcionamento nas Unidades Assistenciais de Saúde da rede da Secretaria de Estado de Saúde do Distrito Federal. Neste sentido se faz necessária a execução de atividades diferenciadas, segundos os perfis definidos a seguir:  ATIVIDADE DE DIGITAÇÃO: As atividades de digitação deverão realizar serviços de transcrição de dados, com vistas à atualização dos sistemas aplicativos em produção; de preparação de documentos para transcrição de dados; de atividades de transcrição de dados por leitora ótica ou processo equivalente; de digitação de documentos de entrada de dados de sistemas aplicativos em produção; de verificação e conferência de documentos digitados e relatórios de crítica e atualização de sistemas aplicativos; de identificação e rejeição de documentos que não contenham informações suficientes ou que estejam preenchidos incorretamente, de acordo com as especificações do programa de entrada de dados; execução de rotinas de gravação de dados em mídia magnética; e, execução de outras atividades correlatas. Estas atividades serão executadas por profissionais qualificados, com registro na entidade profissional competente, obedecendo aos seguintes requisitos mínimos:  Ensino Médio concluído (2º grau completo) e no mínimo 01 (um) ano de experiência exercendo atividades de digitação.
+
+
+
+ATIVIDADE DE OPERAÇÃO DE COMPUTADORES: As atividades de operação de computadores deverão contemplar o processamento dos sistemas aplicativos em produção; a operação de equipamentos de informática (servidores, microcomputadores, impressoras, envelopadoras, serrilhadoras, modens, roteadores, "switches", "hubs" e outros correlatos), de acordo com as normas e procedimentos técnicos estabelecidos; a execução de rotinas de produção dos sistemas e aplicativos; a execução de rotinas de "backup" e "recovery", ou seja, de cópias de segurança; a execução de rotinas de controle da rede de comunicação; a execução de rotinas de impressão, envelopamento, serrilhamento, e expedição de relatórios e documentos gerados; a execução e controle de rotinas de transferência de arquivos e geração de mídias magnéticas; a execução de serviços de edição de textos e planilhas; a elaboração de registros de controle de produção; o atendimento e orientação usuários quanto à instalação, operação e utilização de sistemas aplicativos; o controle de fluxo de trabalho de processamento de dados; o controle ambiente de operação (temperatura ambiente, energia elétrica e outros correlatos); a elaboração de documentação dos serviços realizados; e, execução de outras atividades correlatas. Estas atividades serão executadas por profissionais qualificados, obedecendo aos seguintes requisitos mínimos:  Ensino Médio concluído (2º grau completo) e no mínimo 3 (três) anos de experiência exercendo atividades de operação de computadores.
+
+
+
+ATIVIDADE DE SUPORTE TÉCNICO EM REDES: As atividades de suporte técnico em redes envolvem a implantação e operação de redes locais e de teleprocessamento; a detecção e registro de não conformidades reais ou potenciais em sua área de atuação; a instalação e manutenção atualizada de softwares básicos e aplicativos nos servidores da rede; a execução de análises de desempenho de sistemas de transmissão; a supervisão e monitoramento do desempenho global da rede; a instalação de componentes e materiais para transmissão de dados; a interligação de equipamentos, protocolos e arquiteturas; a instalação e manutenção a equipamentos de rede de teleprocessamento (controladora de terminais, mux, modem, etc); a operação de equipamentos monitores de rede (test-set, analisador de dados, etc); a realização de levantamento de dados dos sistemas e serviços; a realização de levantamento da infra-estrutura de Tecnologia de Informação;
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+21
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+a documentação dos serviços realizados; e, a execução de outras atividades correlatas. Estas atividades serão executadas por profissionais qualificados, obedecendo aos seguintes requisitos mínimos:
+
+  
+
+Júnior ­ Ensino médio concluído (2º grau completo), e no mínimo 01 (um) ano de experiência exercendo atividades relativas a Redes de Computadores; Pleno ­ Ensino médio concluído (2º grau completo), e no mínimo 03 (três) anos de experiência exercendo atividades relativas a Redes de Computadores; Sênior ­ Ensino médio concluído (2º grau completo), e no mínimo 05 (cinco) anos de experiência exercendo atividades relativas a Redes de Computadores.
+
+
+
+ATIVIDADE DE ANÁLISE DE REDE: As atividades de análise de redes deverão envolve a elaboração de projetos, contemplando a implementação, customização, administração, manutenção e monitoramento de redes de comunicação; a prestação de serviços de assessoria no planejamento, implantação e operação de redes locais e de teleprocessamento; a detecção e registro de não conformidades reais ou potenciais em sua área de atuação; a instalação e manutenção atualizada de softwares básicos e aplicativos nos servidores da rede; a realização de estudos comparativos para tomada de decisão sobre a instalação de novos produtos e equipamentos, objetivando otimizar a performance da rede; a execução de análises de desempenho de sistemas de transmissão; a supervisão e monitoramento do desempenho global do modelo operacional de rede de teleinformática; a indicação prévia e projeto da evolução de capacidade e tecnologia da rede; a instalação de componentes e materiais para transmissão de dados; a elaboração e projeto de redes contemplando inclusive valores previstos para implantação; e, a execução de outras atividades correlatas. Estas atividades serão executadas por profissionais qualificados, obedecendo aos seguintes requisitos mínimos:  Júnior ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Rede de Computadores e mínimo de 01 (um) ano de experiência, exercendo atividades na área de Redes de Computadores. Pleno ­ Curso superior completo na área de informática ou outro curso superior com curso adicional de especialização e formação na área de Rede de Computadores e mínimo de 03 (três) anos de experiência, exercendo atividades na área de Redes de Computadores. Sênior ­ Curso superior completo na área de informática ou outro curso superior com curso adicional de especialização e formação na área de Rede de Computadores e mínimo de 05 (cinco) anos de experiência, exercendo atividades na área de Redes de Computadores.
+
+
+
+
+
+
+
+ATIVIDADE DE ANÁLISE DE SUPORTE: As atividades de análise de suporte deverão envolver a prestação de apoio técnico para a análise dos levantamentos realizados; a execução e operacionalização dos produtos; a coordenação e acompanhamento das atividades de Tecnologia da Informação; a detecção e registro de não conformidades reais ou potenciais em sua área de atuação; a realização de estudos comparativos para tomada de decisão sobre a instalação de novos produtos e equipamentos; a detecção e orientação na correção de programas, produtos e aplicações; a prestação de suporte técnico na utilização de programas e equipamentos e elaboração de relatórios periódicos das atividades; a guarda e responsabilidade por documentos, equipamentos, contatos internos e externos à organização, informações confidenciais e informações prestadas; a instalação e manutenção atualizada de softwares básicos e aplicativos; a instalação, configuração, customização, atualização e otimização da utilização de recursos de sistemas operacionais e aplicativos; a elaboração das especificações técnicas; a instalação, configuração e customização de equipamentos de informática; a elaboração, implementação e execução de rotinas de segurança de dados; a elaboração, implementação e execução de rotinas
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+22
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+de processamento de sistemas aplicativos; a execução de suporte técnico ao ambiente computacional; a elaboração de normas para utilização de hardware e software; a documentação serviços realizados; e, a execução de outras atividades correlatas. Estas atividades serão executadas por profissionais qualificados, com registro na entidade profissional competente, obedecendo aos seguintes requisitos mínimos:  Júnior ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Suporte e mínimo de 01 (um) ano de experiência, exercendo atividades na área de Suporte. Pleno ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Suporte e mínimo de 03 (três) anos de experiência, exercendo atividades na área de Suporte. Sênior ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Suporte e mínimo de 05 (cinco) anos de experiência, exercendo atividades na área de Suporte.
+
+
+
+
+
+
+
+ATIVIDADE DE ADMINISTRAÇÃO DE BANCO DE DADOS: As atividades de administração de banco de dados serão executadas dentro dos ambientes onde estarão instaladas as bases de dados centralizadas e/ou distribuídas do Sistema Integrado de Saúde - SIS, e irão contemplar o suporte técnico à infra-estrutura de Banco de Dados das Secretarias; o acompanhamento da execução de técnicas de levantamento e modelagem de dados operacionais (OLTP); o acompanhamento da elaboração de projetos, a implementação, customização, administração e manutenção dos bancos de dados; a detecção e registro de não conformidades reais ou potenciais em sua área de atuação; o conhecimento e respeito aos modelos de dados corporativos e dos padrões de nomenclatura e métrica estabelecidos; o acompanhar a elaboração, implementação e execução das rotinas de segurança de dados; acompanhamento e coordenação do desenvolvimento dos modelos conceituais dos bancos de dados, a geração e "tuning" e o suporte ao desenvolvimento nas aplicações que utilizem estruturas de banco de dados; a definição das estratégias de backup dos bancos de dados e a coordenação dessas atividades; a documentação dos serviços realizados; e, a execução de outras atividades correlatas. Estas atividades serão executadas por profissionais qualificados, obedecendo aos seguintes requisitos mínimos:  Pleno ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Desenvolvimento de Sistemas, experiência mínima de 05 (cinco) anos na área de Informática com 02 (dois) anos em atividade de Administração de Banco de Dados. Sênior ­ Curso superior completo na área de Informática ou outro curso superior com curso adicional de especialização e formação na área de Desenvolvimento de Sistemas, experiência mínima de 10 (dez) anos na área de Informática com 05 (cinco) anos em atividades de Administração de Banco de Dados.
+
+
+
+
+
+ATIVIDADES DE CONSULTORIA TÉCNICA EM TI: As atividades de consultoria técnica serão executadas visando observar o desenvolvimento de Projetos de Modernização Tecnológica das Unidades Assistenciais de Saúde e ampliação do atendimento junto às Unidades Escolares e Diretorias Regionais de Ensino, tendo por base a execução da prestação consultoria para elaboração de projetos de Tecnologia de Informação; do acompanhamento e controle de projetos que envolvam Tecnologia da Informação; da prestação de consultoria nas áreas de planejamento em informática, de desenvolvimento de sistemas, de redes de comunicação de dados e/ou teleprocessamento, da programação visual e outras áreas afins; no apoio a Coordenação de Planejamento de Projetos da Contratante; na realização de análise de riscos de projetos; na avaliação e emissão pareceres sobre pedidos de aquisição de equipamentos, softwares e/ou serviços de informática; na prestação de apoio técnico para elaboração do Relatório de Diagnóstico de Projeto; na detecção e registro de não conformidades reais e/ou potenciais na sua área de atuação; no apoio à atividades de planejamento estratégico da informação, administração de dados, propriedade, segurança, compartilhamento e tráfego da informação na organização,
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+23
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+entre outras; na utilização de recursos de tecnologia de ponta quando do exercício da consultoria, tais como cabeamento estruturado, análise/programação orientada a objetos, ferramentas case, ambiente web, entre outras; nos contatos internos e externos à organização, assim como na guarda e restrição de acesso à informações confidenciais; e, execução de outras atividades correlatas. Cabe ainda à consultoria técnica em T.I. a execução de levantamentos, análises, elaboração e coordenação das atividades de projetos para modernização tecnológica, utilizando conceitos e tecnologias padrões de mercado tal como o desenvolvimento e implantação de sistemas e / ou ferramentas de gerenciamento eletrônico de documentos e imagens, de sistemas aplicativos de Data Warehouse, de soluções para automação de processos de trabalho, com visitas ao desenvolvimento de aplicativos de Workflow, de sistemas de Enterprise Resourse Planning - ERP, de políticas e rotinas de Segurança da Informação, de aplicativos para a rede Intranet / Internet e prestando apoio para a documentação dos projetos elaborados. Estas atividades serão executadas por profissionais qualificados, obedecendo aos seguintes requisitos mínimos:  Júnior ­ Formação de nível superior e experiência mínima de 02 (dois) anos em consultoria na área de Informática.  Pleno ­ Formação de nível superior e experiência mínima de 03 (três) anos em consultoria na área de Informática.  Sênior ­ Formação de nível superior e experiência mínima de 05 (cinco) anos em consultoria na área de Informática.
+
+2.2. PRODUTOS E SERVIÇOS: O Sistema Integrado de Saúde - SIS utiliza, de forma centralizada, a plataforma de Banco de Dados Caché. Com a implantação do Sistema nas diversas Unidades Assistenciais de Saúde da rede da Secretaria de Estado de Saúde do Distrito Federal, o número de usuários do sistema aumenta, o que obriga a uma adição do número de licenças concorrentes necessárias da plataforma de Banco de Dados Caché. Neste sentido, se faz necessária a aquisição de 1000 (mil) licenças da plataforma de Banco de Dados Caché associada aos serviços de instalação e configuração das mesmas. Estes serviços serão executados e pagos integralmente ao final da comprovação de realização das atividades de instalação e configuração das licenças e da apresentação formal do Termo de Cessão de Licenças para a quantidade indicada e que deverá se dar em até 60 (sessenta) dias após a assinatura do Contrato). Imediatamente após o término da realização das atividades instalação e configuração das licenças e da apresentação formal do Termo de Cessão das Licenças deverá passar a vigorar um Contrato de serviços de manutenção e suporte técnico à esta plataforma de banco de dados Caché. Este Contrato deverá prever um valor mensal fixo que permita a execução de quaisquer serviços associados a plataforma de banco de dados Caché, em qualquer quantidade de horas técnicas e ambientes indicado pela Contratante. Além disto, dentro do escopo dos serviços de Suporte Tecnológico para a Secretaria de Estado de Saúde do Distrito Federal, existe a necessidade de suporte técnico especializado na manutenção da Plataforma de Integração de Dados Ensemble, instalada no ambiente da Contratante, que atua interligando o Sistema Integrado de Saúde ­ SIS ao diversos legados existentes. Esta plataforma já está disponibilizada como 1 (uma) licença de servidor para duas CPU's e necessita ser continuamen te monitorada e atualizada face ao crescimento contínuo do escopo de unidades associadas ao projeto. Assim, dentro do escopo deste item, deverá ser disponibilizado um Contrato envolvendo serviços de manutenção da Plataforma de Integração Ensemble que deverão prever um valor fixo à ser cobrado mensalmente que permita a execução de quaisquer serviços associados a Plataforma de Integração Ensemble, em qualquer quantidade de horas técnicas e no servidor aonde está instalada esta licença, e que deverá estar em vigor em até 30 (trinta) dias após a assinatura do Contrato. Os serviços referentes aos Contratos de Manutenção da Plataforma de Banco de Dados Caché e da Plataforma de Dados Ensemble deverá ter a sua forma de pagamento bem como deve seguir os modelos de comprovação da execução dos serviços sob o modelo de "MANUTENÇÃO DE PLATAFORMAS SISTÊMICAS".
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+24
+
+EDITAL DE LICITAÇÃO
+3.
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+MANUTENÇÃO EVOLUTIVA, ADAPTATIVA, PREVENTIVA E CORRETIVA DO SISTEMA INTEGRADO DE SAÚDE - SIS Deverão ser fornecidos serviços técnicos voltados à manutenção de sistemas informatizados, com utilização da métrica de Análise de Pontos de Função, abrangendo a integração de sistemas. Este item compreende os serviços de manutenção evolutiva, adaptativa, preventiva ou corretiva, bem como qualquer integração de sistemas informatizados com o Sistema Integrado de Saúde solicitada pela Contratante. Entende-se por Manutenção de Sistemas, alterações a serem implementadas, decorrentes de modificações de Lei, alterações das regras de negócio do cliente, conversão por versão de ambiente, conversão por ambiente, erros encontrados na execução do sistema, entre outras. Este conceito aplica-se:   a sistemas completos, bem como a suas partes (base de dados, conversão, rotinas, programas dentre outros), e a execução dos serviços que podem contemplar as atividades sistêmicas orientadas pela metodologia da Contratante referentes às fases de seu ciclo de manutenção.
+
+Esses serviços poderão abranger todas ou cada uma das fases dos ciclos de manutenção ou de vida dos sistemas para os ambientes tecnológicos adotados pela Contratante para implantação do Sistema Integrado de Saúde - SIS. Os serviços a serem prestados no âmbito deste item estão definidos como:  Manutenção Evolutiva que são decorrentes do surgimento de novas necessidades, novos requisitos funcionais e não funcionais e de novas funcionalidades necessárias ao funcionamento dos sistemas, identificadas pela Contratante durante o ciclo de maturidade dos sistemas, seja por força da lei ou por qualquer outro motivo, que poderão ser contratados de forma integral ou parcial. Para este tipo de manutenção estima-se que serão consumidos aproximadamente 50% do total de pontos de função a serem demandados mensalmente. Manutenção Adaptativa que são decorrentes de adaptações oriundas de mudanças externas, negócio, legislação ou ambiente operacional sem inserção de novas funcionalidades. Manutenção Preventiva que são decorrentes da re-engenharia de software visando melhoria de desempenho através da otimização de códigos ou recursos que facilitem futuras correções, adaptações ou evoluções. Manutenção Corretiva que são decorrente de alterações para correção de defeitos ou comportamentos inadequados que causem problemas de uso ou funcionamento, sem inserção de novas funcionalidades. Os serviços deverão ser executados nas instalações da Contratada, dentro dos limites do território do Distrito Federal, de forma a permitir uma forte interação entre a Contratada e a Contratante, cabendo a Contratada providenciar, às suas expensas, a infra-estrutura necessária para a execução completa dos serviços, incluindo levantamento de informações nas instalações da Contratante ou onde a mesma julgar necessário mediante prévia autorização da CONTRANTE. Todos os serviços identificados neste item deverão ser executados sob o mod elo de "PONTOS DE FUNÇÃO ­ REGIME DE FÁBRICA DE SOFTWARE". 4. IMPLANTAÇÃO DE UMA SOLUÇÃO DE INFORMAÇÕES GERENCIAIS PARA O SISTEMA INTEGRADO DE SAÚDE - DATASIS Em atendimento às demandas por informações estratégicas e analíticas no âmbito da Secretaria de Estado de Saúde do Distrito Federal - SES/DF, este item do Anexo tem por objetivo estabelecer a execução de serviços de planejamento, análise, desenvolvimento, implementação, treinamentos, sustentação corretiva, progressiva e evolutiva pertinentes ao desenvolvimento e implantação de uma solução de Informações Gerenciais associados ao Sistema Integrado de Saúde, ora denominada DATASIS.
+
+ 
+
+
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+25
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Esta solução, o DATASIS, deverá prover a administração da SES/DF de mecanismos que permitam flexibilidade analítica na gestão das informações através da elaboração de relatórios estatísticos e gerenciais.
+
+4.1. DESENVOLVIMENTO E IMPLANTAÇÃO Deverão ser fornecidos serviços técnicos voltados ao desenvolvimento e implantação de solução de disponibilização de informações gerenciais interligada ao Sistema Integrado de Saúde ­ SIS e ao DATASIS, de forma a prover ao corpo gestor da SES/DF de ferramenta para análise e gerencial e estatística. Tendo em vista levantamentos preliminares e estudos anteriores realizados pela Contratante, fica estabelecido que para toda esta fase de desenvolvimento e implantação do DATASIS, serão identificados, modelados, desenvolvidos e implantados relatórios gerenciais baseados nos seguintes processos que compõem o Sistema Integrado de Saúde: a) b) c) d) e) f) g) h) i) cadastro de Paciente e Gestão de Leitos; gestão de Profissionais (RH); controle de Materiais e Medicamentos (Almoxarifados e Farmácias); assistência ao Paciente (Admissão, Internação e Alta; Prescrição de Exames e Prescrição e Dispensação de Materiais e Medicamentos Médico-Hospitalares); gestão de Laboratórios e Exames; faturamento (Faturamento AIH e SUS); gestão das UTIs (Regulação dos Leitos de UTI); atendimento Ambulatorial nos Centros de Saúde; gestão de Agendamento (Ambulatorial e de Consultas, Exames e Procedimentos).
+
+Todos os serviços identificados neste subitem deverão ser executados sob o modelo de "PONTOS DE FUNÇÃO ­ REGIME DE FÁBRICA DE SOFTWARE".
+
+4.2. PRODUTOS E SERVIÇOS: De forma a prover mecanismos de extração e transformação de dados oriundos de diversos sistemas legados e do Sistema Integrado de Saúde, existe a necessidade de alocação de uma nova infraestrutura sistêmica baseada em uma solução já utilizada dentro do produto, a Plataforma de Integração de Dados Ensemble. Assim, está prevista a disponibilização de 1 (uma) nova licença de servidor da Plataforma de Integração de Dados Ensemble para duas CPU's bem como serviços de instalação e configuração da mesma. Estes serviços serão executados e pagos integralmente ao final da comprovação de realização das atividades de instalação e configuração desta licença e da apresentação formal do Termo de Cessão de Licenças para a quantidade indicada e que deverá se dar em até 60 (sessenta) dias após a assinatura do Contrato. Imediatamente após o término da realização das atividades instalação e configuração da licença e da apresentação formal do Termo de Cessão da Licença deverá passar a vigorar um Contrato de Serviços de Manutenção e Suporte Técnico à esta Plataforma de Integração Ensemble. Este Contrato deverá prever um valor mensal fixo que permita a execução de quaisquer serviços associados a Plataforma de Integração Ensemble, em qualquer quantidade de horas técnicas e no servidor aonde está instalada esta licença, e que deverá estar em vigor imediatamente após o término dos serviços de instalação e configuração. Os serviços referentes ao fornecimento da Plataforma de Dados Ensemble deverá ser executado sob o modelo de "FORNECIMENTO, INSTALAÇÃO E CONFIGURAÇÃO DE PLATAFORMAS SISTÊMICAS" e os serviços referentes ao Contrato de Manutenção da Plataforma de Dados
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+26
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Ensemble deverá ser executado sob o modelo de "MANUTENÇÃO DE PLATAFORMAS SISTÊMICAS".
+
+5.
+
+IMPLANTAÇÃO DO CARTÃO SAÚDE DO CIDADÃO Este item deverá permitir a implantação do Cartão Saúde do Cidadão envolvendo serviços de: a) b) c) d) implantação de uma solução para integrar os dados pessoais do cidadão com todos os sistemas de saúde, em um meio físico único de acesso, o Cartão Saúde do Cidadão; adaptação de interface do Cartão Saúde do Cidadão e o Sistema Integrado de Saúde ­ SIS; disponibilização de recursos tecnológicos de atendimento à população; e geração e entrega de Cartão Saúde do Cidadão para população.
+
+A proposta do projeto do Cartão Saúde do Cidadão é: a) b) c) d) e) f) integrar os dados do cidadão com todos os sistemas de saúde; integrar com a Agência Nacional de Saúde de maneira a apontar pacientes atendidos pela rede publica que estejam amparados pela rede de convênios privados; integrar com o sistema do cidadão do Distrito Federal - SGA; disponibilizar para a população um cartão personalizado que facilite o atendimento assistencial nos estabelecimentos de saúde; facilitar a visualização dos dados pessoais, tais como: Solicitação de consultas, exames e atendimentos; disponibilizar terminais de auto-atendimento nas áreas que tem baixa concentração de atendimentos na saúde, tais como regiões rurais e regiões urbanas distantes do Plano Piloto.
+
+Da implantação deste item do Anexo, alguns ganhos imediatos podem ser elencados, que são: a) b) c) d) e) redução de filas; apoio ao ordenamento da demanda; integração com os demais sistemas da rede de saúde; agilidade no atendimento ao cidadão; acesso a novos serviços.
+
+A integração dos dados e solicitações de consulta na rede própria da SES/DF, via sistema informatizado, será feito através do Cartão Saúde do Cidadão. Este cartão personalizado facilita o acesso aos dados cadastrais e permite ao cidadão solicitar consultas nas áreas de atenção básica, disponibilizado em rede, "on-line", integrando as unidades de saúde própria da Região Administrativa com o Cadastro Nacional de Saúde. A solução é composta pelos módulos de cadastro, consulta aos dados, edição dos dados e solicitação de consulta as áreas de atenção básica, os quais foram totalmente desenvolvidos interligados ao Sistema Integrado de Saúde conforme as regras de negócio voltadas para os processos de gestão da saúde pública. Como produto deste item do Projeto Básico temos a implantação da solução composta por até 450 (quatrocentos e cinqüenta) mil cartões personalizados, a serem gerados e distribuídos por infraestrutura própria da Contratada, composta por, no mínimo: a) 10 (dez) unidades de confecção de cartão, cada uma composta de microcomputador, microcâmera e impressora dos cartões, localizadas dentro de unidades de assistenciais de saúde;
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+27
+
+EDITAL DE LICITAÇÃO
+b)
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+3 (três) quiosques, cada um com 2 (duas) unidades de confecção de cartão, localizados dentro de Unidades Assistenciais de Saúde; 100 (cem) interfaces de leitura de cartão ­ PinPad, localizadas nas entradas de unidades assistenciais de saúde; 8 (oito) ilhas de auto-atendimento localizadas em pontos do Distrito Federal à serem definidos pela SES/DF. Antes da geração de qualquer lote de Cartão Saúde do Cidadão, se faz necessário o desenvolvimento, homologação e implantação de um módulo de captura de dados, incorporado ao Sistema Integrado de Saúde, permitindo ao referido Sistema a identificação do cidadão de forma nominal ou através da leitura do cartão. Os serviços referentes a este item deverão ser executados sob o modelo de "SERVIÇOS DE IMPLANTAÇÃO DO CARTÃO SAÚDE DO CIDADÃO".
+
+c)
+
+d)
+
+6.
+
+SOLUÇÃO EM TECNOLOGIA DA INFORMAÇÃO E EM COMPUTAÇÃO MÓVEL PARA AS SECRETARIAS DE ESTADO DA SAÚDE E DE EDUCAÇÃO O serviço de desenvolvimento de soluções integradas de computação móvel contempla atividades de projeto, desenvolvimento, manutenção e disponibilização de sistemas de informação, em arquitetura distribuída e orientada a serviços, para dispositivos móveis, voltado para ações operacionais, gerenciais e estratégicas relacionadas às áreas de saúde e educação. Compreende os serviços de levantamento, racionalização e modelagem de processos, conceituação, especificação, implementação, implantação e manutenção de sistemas de informações, executados por profissionais especializados, envolvendo atividades técnicas de identificação e descrição de necessidades de sistemas de informações, a elaboração de projetos lógicos, a implementação de projetos físicos, a codificação de sistemas em linguagem de programação, os testes, a validação, a implantação, a manutenção e a documentação dos sistemas de informações. Os sistemas deverão ser desenvolvidos de forma a possibilitar o acesso, por meio de navegador web ou aplicação nativa específica para determinado dispositivo, a aplicações de negócio, conteúdo web, informações pessoais e dados corporativos, utilizando-se exclusivamente de dispositivos móveis (PDAs), operando de forma off-line, em redes Wireless LAN (IEEE 802.11 b/g) ou redes Wireless WAN (redes para transmissão de dados via telefonia celular CDMA/1xRTT/1xEV-DO ou GSM/GPRS/EDGE). Com o objetivo de verificar o adequado funcionamento das funções previstas na Solução de Computação Móvel, antes da fase de homologação, a solução pasará por uma fase de testes (piloto), em prazo a ser determinado entre as partes, quando a Contratada deverá utilizar 20 (vinte) unidades de dispositivos móveis ­ PDA's capazes de acessar todas as funcionalidades previstas na Solução. Os dispositivos a serem utilizados na fase piloto deverão ser de propriedade da Contratada, contendo, no mínimo, as seguintes especificações:  20 (vinte) dispositivos com sistema operacional Windows Mobile 2005 para PocketPC, tendo, no mínimo, processador de 400 Mhz, 64 MB de Memória RAM, 128 MB de Memória ROM, 1 Slot Secure Digital / SDIO / MMC ou Mini-SD, BlueTooth integrado, Wi-Fi 802.11b ou 802.11g integrado, modem CDMA/1xRTT/1xEV-DO ou GSM/GPRS/EDGE integrado, tela de 2.7", ou superior, e resolução da tela de, no mínimo, 320x240 pixels.
+
+Após a fase de testes (piloto), caso constatado o pleno atendimento das funcionalidades, a solução será homologada e entrará em produção, momento em que a CODEPLAN deverá fornecer os dispositivos de computação móvel necessários para operacionalização da solução. Deverão ser fornecidos serviços em Tecnologia da Informação voltados ao desenvolvimento e manutenção das soluções apontados, com utilização da métrica de Análise de Pontos de Função, para fins de controle da execução do mesmo. Todos os serviços identificados neste item deverão ser executados no modelo de "PONTOS DE FUNÇÃO ­ REGIME DE FÁBRICA DE SOFTWARE". 28 "Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+EDITAL DE LICITAÇÃO
+ANEXO I.2
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+MODELO DE "PLANILHA DE PREÇOS"
+
+1.
+
+PLANILHA DE PREÇOS MENSAL DE HORAS DE SERVIÇO TÉCNICAS NO SUPORTE GERENCIAL ÀS ATIVIDADES DE TECNOLOGIA DA INFORMAÇÃO NAS SECRETARIAS DE ESTADO DE SAÚDE E DE EDUCAÇÃO DO DISTRITO FEDERAL
+
+Na tabela abaixo, apresentamos a previsão mensal de Horas de Serviço Técnico ­ HST, levando em consideração os serviços especificados no item 1 ("SUPORTE GERENCIAL AS ATIVIDADES DE TECNOLOGIA DA INFORMAÇÃO NAS SECRETARIAS DE ESTADO DE SAÚDE E DE EDUCAÇÃO DO DISTRITO FEDERAL") deste Projeto Básico. Não obstante aos quantitativos previstos, a Contratante não será obrigada a ordenar a prestação de serviços em quantidades e/ou número de horas específico ou pré-determinado. Os serviços serão executados mediante prévia autorização da Contratante e de acordo com suas necessidades. TABELA Descrição Análise de Suporte Júnior Análise de Suporte Pleno Análise de Suporte Sênior Análise de Negócios Análise de O&M Júnior Análise de O&M Pleno Análise de O&M Sênior Consultoria Técnica em TI Júnior Consultoria Técnica em TI Plena Consultoria Técnica em TI Sênior Coordenação de Projetos Valor Total Mensal dos Serviços (em Reais) 1 Valor da HST (R$) Valor Mensal (R$)
+
+Quantidade de HST 168 168 168 672 336 756 336 252 1008 252 252
+
+2.
+
+PLANILHA DE PREÇOS MENSAL DE HORAS DE SERVIÇO TÉCNICAS NO SUPORTE TECNOLÓGICO E LOGÍSTICO PARA AS SECRETARIAS DE ESTADO DE SAÚDE E DE EDUCAÇÃO DO DISTRITO FEDERAL
+
+Na tabela abaixo, apresentamos a previsão mensal de Horas de Serviço Técnico ­ HST, levando em consideração os serviços especificados no subitem 2.1 ("LOGÍSTICA E TECNOLÓGICA") do item 2 ("SUPORTE TECNOLÓGICO E LOGÍSTICO PARA AS SECRETARIAS DE ESTADO DE SAÚDE E DE EDUCAÇÃO DO DF") deste Projeto Básico.
+
+Não obstante aos quantitativos previstos, a Contratante não será obrigada a ordenar a prestação de serviços em quantidades e/ou número de horas específico ou pré-determinado. Os serviços serão executados mediante prévia autorização da Contratante e de acordo com suas necessidades.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+29
+
+EDITAL DE LICITAÇÃO
+TABELA 2
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Descrição Digitação Operação de Computadores Suporte Técnico em Redes Júnior Suporte Técnico em Redes Pleno Suporte Técnico em Redes Sênior Análise de Rede Júnior Análise de Rede Pleno Análise de Rede Sênior Análise de Suporte Júnior Análise de Suporte Pleno Análise de Suporte Sênior Administração de Banco de Dados Pleno Administração de Banco de Dados Sênior Consultoria Técnica em TI Júnior Consultoria Técnica em TI Plena Consultoria Técnica em TI Sênior Valor Total Mensal dos Serviços (em Reais)
+
+Quantidade de HST 2.856 4.200 1.344 1.512 1.008 1.344 672 672 840 1.008 1.008 840 504 672 840 168
+
+Valor da HST (R$)
+
+Valor Mensal (R$)
+
+3.
+
+PLANILHA DE PREÇOS PARA O FORNECIMENTO DE LICENÇAS DA PLATAFORMA DE BANCO DE DADOS CACHÉ E COM A MANUTENÇÃO DO BANCO DE DADOS CACHÉ E DA PLATAFORMA DE INTEGRAÇÃO ENSEMBLE
+
+Nas tabelas abaixo, apresentamos a previsão mensal de custos diretos com o fornecimento das licenças e serviços referentes ao subitem 2.2 ("PRODUTOS E SERVIÇOS") do item 2 ("SUPORTE TECNOLÓGICO E LOGÍSTICO PARA AS SECRETARIAS DE ESTADO DE SAÚDE E DE EDUCAÇÃO DO DISTRITO FEDERAL") deste Projeto Básico. Não obstante aos quantitativos previstos, a Contratante não será obrigada a ordenar a prestação de serviços em quantidades e/ou número de horas específico ou pré-determinado. Os serviços serão executados mediante prévia autorização da Contratante e de acordo com suas necessidades. TABELA 3 Descrição Fornecimento de 1000 (mil) licenças da Plataforma de Banco de Dados Caché Valor Total dos Serviços (em Reais) Valor (R$)
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+30
+
+EDITAL DE LICITAÇÃO
+TABELA 4 Descrição Serviço de Manutenção da Plataforma de Banco de Dados Caché Serviço de Manutenção da Plataforma de Integração Ensemble Valor Total Mensal dos Serviços (em Reais)
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Valor Mensal (R$)
+
+4.
+
+PLANILHA DE PONTOS DE FUNÇÃO E PREÇO UTILIZADOS COM A MANUTENÇÃO EVOLUTIVA, ADAPTATIVA, PREVENTIVA E CORRETIVA DO SISTEMA INTEGRADO DE SAÚDE - SIS
+
+Na tabela abaixo, apresentamos a previsão mensal de pontos de função a serem utilizados, no modelo de fábrica de software, no atendimento do disposto no item 3 ("MANUTENÇÃO EVOLUTIVA, ADAPTATIVA, PREVENTIVA E CORRETIVADO SISTEMA INTEGRADO DE SAÚDE - SIS") deste Projeto Básico.
+
+TABELA 5 Tipo de Serviços PF ­ Manutenção Valor Total Mensal dos Serviços (em Reais) Quantidade PF (mensal) 350 Valor PF (R$) Valor Mensal (R$)
+
+5.
+
+PLANILHA DE PONTOS DE FUNÇÃO E PREÇO UTILIZADOS COM A IMPLANTAÇÃO DE UMA SOLUÇÃO DE INFORMAÇÕES GERENCIAIS PARA O SISTEMA INTEGRADO DE SAÚDE - DATASIS
+
+Na tabela abaixo, apresentamos a previsão mensal de pontos de função a serem utilizados, no modelo de fábrica de software, no atendimento do disposto no subitem 4.1 ("DESENVOLVIMENTO E IMPLANTAÇÃO") do item 4 ("IMPLANTAÇÃO DE UMA SOLUÇÃO DE INFORMAÇÕES GERENCIAIS PARA O SISTEMA INTEGRADO DE SAÚDE - DATASIS") deste Projeto Básico.
+
+TABELA 6 Tipo de Serviços PF ­ DATASIS Quantidade PF (mensal) 90 Valor PF (R$) Valor Mensal (R$)
+
+Valor Total Mensal dos Serviços (em Reais)
+
+6.
+
+PLANILHA DE PREÇOS PARA A FORNECIMENTO, INSTALAÇÃO, CONFIGURAÇÃO E MANUTENÇÃO DA PLATAFORMA DE INTEGRAÇÃO ENSEMBLE PARA O DATASIS
+
+Nas tabelas abaixo, apresentamos a previsão mensal de custos diretos com o fornecimento e a manutenção referentes ao subitem 4.2 ("PRODUTOS E SERVIÇOS") do item 4 ("IMPLANTAÇ ÃO DE UMA SOLUÇÃO DE INFORMAÇÕES GERENCIAIS PARA O SISTEMA INTEGRADO DE SAÚDE - DATASIS") deste Projeto Básico. Não obstante aos quantitativos previstos, a Contratante não será obrigada a ordenar a prestação de serviços em quantidades e/ou número de horas específico ou pré-determinado. Os serviços serão executados mediante prévia autorização da Contratante e de acordo com suas necessidades.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+31
+
+EDITAL DE LICITAÇÃO
+TABELA Descrição Fornecimento da Plataforma de Integração Ensemble Valor Total dos Serviços (em Reais) TABELA Descrição Serviço de Manutenção da Plataforma de Integração Ensemble Valor Total Mensal dos Serviços (em Reais) 8 7
+
+PREGÃO PRESENCIAL Nº 002/2006
+Valor (R$)
+
+Valor Mensal (R$)
+
+7.
+
+PLANILHA DE PREÇOS PARA A IMPLANTAÇÃO DO CARTÃO SAÚDE DO CIDADÃO
+
+Na tabela abaixo, apresentamos a previsão global de custos para os serviços referentes ao item 5 ("IMPLANTAÇÃO DO CARTÃO SAÚDE DO CIDADÃO") deste Projeto Básico. TABELA 9 Descrição Geração de Cartão Saúde do Cidadão Valor Total Mensal dos Serviços (em Reais) (*) Como Unidades entendem-se cada Cartão Saúde do Cidadão gerado e entregue. Unidades Mensais Previstas (*) 37.500 Valor Unitário por Cartão (R$) Valor Mensal (R$)
+
+8.
+
+PLANILHA DE PONTOS DE FUNÇÃO E PREÇOS MENSAIS UTILIZADOS COM A SOLUÇÃO EM COMPUTAÇÃO MÓVEL PARA AS SECRETARIAS DE ESTADO DA SAÚDE E DE EDUCAÇÃO
+
+Na tabela abaixo, apresentamos a previsão mensal de pontos de função a serem utilizados, no modelo de fábrica de software, no atendimento do disposto no item 6 ("SOLUÇÃO EM TECNOLOGIA DA INFORMAÇÃO E EM COMPUTAÇÃO MÓVEL PARA AS SECRETARIAS DE ESTADO DA SAÚDE E DE EDUCAÇÃO") deste Projeto Básico. TABELA 10 Tipo de Serviços PF ­ Manutenção Quantidade PF (mensal) 263 Valor PF (R$) Valor Mensal (R$)
+
+Valor Total Mensal dos Serviços (em Reais) VALOR GLOBAL DA PROPOSTA O Valor Global da Proposta (VG) será o somatório dos Valores Totais Mensais dos Serviços das Tabelas 1, 2, 4, 5, 6, 8, 9 e 10 multiplicado por 12 (doze), mais o somatório dos Valores Totais dos Serviços das Tabelas 3 e 7, ou seja: VG = (Tab1 + Tab2 + Tab4 + Tab5 + Tab6 + Tab8 + Tab9 + Tab10) × 12 + (Tab3 + Tab7)
+
+Valor Global Anual da Proposta (R$)
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+32
+
+EDITAL DE LICITAÇÃO
+ANEXO I.3
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+TERMO DE CERTIFICAÇÃO DE SERVIÇOS ­ TCS PROJETO DE SERVIÇOS DE GESTÃO E OPERACIONALIZAÇÃO DE SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO PARA ASEE E SES NÚMERO DO CONTRATO NÚMERO DA OST
+
+NÚMERO DA NOTA FISCAL
+
+PERÍODO DE REFERÊNCIA
+
+·
+
+PARA SERVIÇOS BASEADOS EM HORAS DE SERVIÇOS TECNICOS ­ HST:
+
+Mês
+
+Serviços
+
+Valor da HST (R$)
+
+HST Executadas
+
+Observações
+
+·
+
+PARA SERVIÇOS BASEADOS EM PONTOS DE FUNÇÃO ­ REGIME DE FÁBRICA DE SOFTWARE: Fase/Serviço Tipo* Quantidade (PF) Observações
+
+(*) D ­ Desenvolvimento, M ­ Manutenção, O ­ Outros
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+33
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Tipo de Serviços TOTAL PF - Desenvolvimento TOTAL PF - Manutenção TOTAL PF - Outros
+
+Quantidade*
+
+Valor PF
+
+Valor Mensal (R$)
+
+PARA SERVIÇOS DE FORNECIMENTO, INSTALAÇÃO E CONFIGURAÇÃO DE PLATAFORMAS SISTÊMICAS: Produto Quantidade de Licenças Recebedor (nome, setor, matrícula)
+
+(*) Em anexo deve seguir o Termo de Cessão de Licenças correspondente · PARA SERVIÇOS DE MANUTENÇÃO DE PLATAFORMAS SISTÊMICAS: Produto Serviço Horas Realizadas
+
+(*) Para produtos diferentes preencher listas separadas. ·
+
+PARA SERVIÇOS DE IMPLANTAÇÃO DO CARTÃO SAÚDE DO CIDADÃO: Descrição Quantidade Gerada no Período Quantidade Implantada no Período Quantidade Acumulada Quantidade Acumulada
+
+Cartão Saúde do Cidadão Descrição Quiosques com 2 terminais Ilhas de auto-atendimento Interfaces de leitura de cartão (*) Em anexo deve seguir a lista de Cartões Saúde do Cidadão emitidos no período com Número do Cartão e Nome do Recebedor, lista dos locais dos quiosques, e ilhas de auto-atendimento implantadas no período e local de implantação no período das interfaces de leitura de cartão.
+
+UNIDADE FISCALIZADORA
+
+DATA
+
+REPRESENTANTE Nome Matrícula Assinatura
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+34
+
+EDITAL DE LICITAÇÃO
+A N E X O - II
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+MINUTA DE CONTRATO
+
+CONTRATO Nº _____/2006 QUE ENTRE SI CELEBRAM A COMPANHIA DO DESENVOLVIMENTO DO PLANALTO CENTRAL ­ CODEPLAN E A EMPRESA
+
+________________________________________
+
+Processo nº 121.000.277/2006 A COMPANHIA DO DESENVOLVIMENTO DO PLANALTO CENTRAL - CODEPLAN, Empresa Pública do Governo do Distrito Federal, C.N.P.J./M.F. n.º 00.046.060/0001-45, sediada no SAIN - Projeção "H" - Brasília DF, doravante denominada CONTRATANTE, neste ato representada por seu Presidente _______________, por seu Diretor de Gestão _____________, por seu Diretor de Educação Tecnológica e por seu Diretor de Tecnologia____________, do outro lado, a empresa______________ , CNPJ./M.F. n.º________, sediada
+
+___________________, doravante denominada CONTRATADA, neste ato representada por ______________, portador da C.I. n.º ______ SSP/SP, e do C.P.F. n.º ________, residente e domiciliado__________, tendo em vista o disposto no artigo 54 e seguintes da Lei Federal n.º 8.666/93, e ainda, no que não contrarie, na Resolução n.º 057/88 - Conselho de Administração da CODEPLAN e demais normas pertinentes, conforme Decisão da Diretoria Colegiada da CODEPLAN, Sessão n.º ....................., em razão do resultado do Pregão Presencial nº 002/2006-CODEPLAN, resolvem celebrar o presente Contrato mediante Cláusulas e condições a seguir indicadas.
+
+CLÁUSULA PRIMEIRA DO OBJETO O objeto do presente instrumento é a prestação de serviços de gestão e operacionalização de soluções em Tecnologia da Informação, contemplando atividades de projeto, consultoria, desenvolvimento, implantação e manutenção de sistemas de informação orientados a serviços e de soluções integradas, incluindo computação móvel, de forma a atender às necessidades das Secretarias de Estado de Saúde e de Educação do Distrito Federal, conforme especificações constantes no Edital e seus Anexos Pregão Presencial nº 002/2006CODEPLAN, parte integrante do presente instrumento.
+
+CLÁUSULA SEGUNDA DO PRAZO DE VIGÊNCIA O prazo de vigência deste contrato será de 12 (doze) meses, contados a partir da emissão da respectiva Nota de Empenho ­ Exercício de 2007, podendo ser prorrogado por sucessivos e iguais períodos, em conformidade com o disposto no inciso II do art. 57 da Lei Federal nº 8.666/93.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+35
+
+EDITAL DE LICITAÇÃO
+CLÁUSULA TERCEIRA
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+DO REGIME DA EXECUÇÃO O presente Contrato será executado de forma indireta, sobre o regime de preço unitário, de acordo com o disposto nos artigos 6º e 10 da Lei Federal nº 8.666/93.
+
+CLÁUSULA QUARTA DO VALOR E DA DOTAÇÃO ORÇAMENTÁRIA
+
+O valor total do presente Contrato é de R$ ______ (______), correndo as despesas decorrentes da execução do presente instrumento no exercício de 2007 por conta da seguinte Dotação Orçamentária: Projeto: _____; Subprojeto: ______; Fonte: _____, Elemento de Despesa: _______ ­ _________; Nota de Empenho n.º ______/_____ e a despesa que for de competência dos outros exercícios correrá na dotação própria.
+
+Parágrafo Primeiro: Os recursos previstos nesta Cláusula serão objeto de empenho ou de reforço da respectiva Nota de Empenho, observadas as disponibilidades orçamentárias e financeiras da CONTRATANTE. Parágrafo Segundo: Os preços a serem cobrados deverão estar em conformidade com a Proposta de Preços apresentada pela CONTRATADA no Pregão Presencial nº 002/2006-CODEPLAN, parte integrante do presente instrumento. Parágrafo Terceiro: Os preços poderão ser reajustados anualmente pelo índice INPC apurado durante o
+
+período ou aquele que vier a substituí-lo, mediante apresentação pela CONTRATADA de Planilha de Custos e Formação de Preços, com demonstração analítica correspondente.
+
+CLÁUSULA QUINTA DAS OBRIGAÇÕES DA CONTRATADA
+
+São obrigações da CONTRATADA: I - executar fielmente os serviços deste instrumento, em conformidade com o Edital e seus Anexos do Pregão Presencial nº 002/2006-CODEPLAN, de modo que o serviço se realize com esmero e perfeição, executando-os sob sua intensa e exclusiva responsabilidade; II - cumprir rigorosamente as normas e regulamentos pertinentes aos serviços objeto deste instrumento; III - garantir o perfeito funcionamento dos sistemas informatizados, através de Equipe Técnica dimensionada de forma a atender as solicitações dentro dos prazos necessários ao cumprimento dos cronogramas estabelecidos; IV - emitir, sempre que solicitado pela CONTRATANTE, relatórios gerenciais e/ou técnicos referentes aos serviços produzidos; V - dar ciência, imediatamente e por escrito, de qualquer anormalidade que verificar na execução dos serviços, bem como, prestar esclarecimentos que forem solicitados pela CONTRATANTE; VI - utilizar profissionais devidamente capacitados e habilitados para os serviços contratados, impondo-lhes rigoroso padrão de qualidade, segurança e eficiência, correndo por sua conta todas as despesas com salários,
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+36
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+impostos, contribuições previdenciárias, encargos trabalhistas, seguros e outras correlatas; VII - providenciar a substituição imediata dos profissionais utilizados na prestação dos serviços que não possuam a qualificação mínima exigida e/ou por solicitação da CONTRATANTE, devidamente justificada; VIII - assumir total responsabilidade pelos atos administrativos e encargos previstos na legislação trabalhista, tais como: controle de freqüência, ausências permitidas, licenças autorizadas, promoções, férias, punições, admissões, demissões, transferências, como também pelo cumprimento de todas as obrigações trabalhistas, fiscais, previdenciárias e comerciais, inclusive a responsabilidade decorrente de acidentes, indenizações e seguros e outros correlatos; IX - responsabilizar-se por todo e qualquer dano que cause à CONTRATANTE, a prepostos seus ou a terceiros, por ação ou omissão, em decorrência da execução dos serviços sob pena glosa de qualquer importância que tenha direito a receber; X - não ceder a outrem os serviços contratados, no todo ou em parte; XI - apresentar Termos de Certificação de Serviços (TCS), conforme Anexo I.3 do Edital do Pregão Presencial nº 002/2006-CODEPLAN; XII - manter sigilo absoluto sobre todas as informações provenientes dos serviços realizados; XIII - manter, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas no respectivo ato convocatório (Inciso XIII, Art. 55, da Lei Federal n.º 8.666/93); XIV - responsabilizar-se pelas eventuais despesas para execução do serviço solicitado, qualquer que seja o valor, e cumprir todas as obrigações constantes do Edital e seus Anexos do Pregão Presencial nº 002/2006CODEPLAN. CLÁUSULA SEXTA DAS OBRIGAÇÕES DA CONTRATANTE
+
+São obrigações da CONTRATANTE: I - facilitar o acesso dos profissionais da CONTRATADA às instalações nas quais esteja prevista a execução dos serviços ordenados; II - efetuar os pagamentos devidos à CONTRATADA, nos termos deste instrumento; III - garantir que somente os profissionais da CONTRATADA, devidamente autorizados pela CONTRATANTE e conforme nível de hierarquia, tenham acesso aos Projetos, Sistemas, Programas Fontes e Objetos, Bases de Dados, Arquivos, Interfaces, Drivers, Documentos e outros que estejam sob responsabilidade daquela, impedindo que terceiros efetuem manutenções ou alterações nos mesmos, ressalvadas aquelas efetuadas por servidores e funcionários devidamente designados e orientados para este fim; IV - cumprir fielmente o Contrato de modo que a CONTRATADA possa realizar os serviços com esmero e perfeição; V ­ promover, através do Executor do Contrato, o acompanhamento e a fiscalização dos serviços prestados, sob os aspectos quantitativos e qualitativos, anotando em registro próprio as falhas detectadas e comunicando à CONTRATADA as ocorrências de quaisquer fatos que, a seu critério, exijam medidas por parte desta.
+
+CLÁUSULA SÉTIMA DO VÍNCULO EMPREGATÍCIO Os profissionais e prepostos da CONTRATADA não terão qualquer vínculo empregatício com a CONTRATANTE, correndo por conta exclusiva da primeira, todas as obrigações decorrentes da legislação
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+37
+
+EDITAL DE LICITAÇÃO
+Parágrafo 1º, art. 71, da Lei Federal n.º 8.666/93.
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+trabalhista, previdenciária, fiscal e comercial, as quais se obriga a saldar na época devida, conforme disposto no
+
+CLÁUSULA OITAVA DAS CONDIÇÕES DE PAGAMENTO
+
+A CONTRATANTE efetuará o pagamento relativo à Nota Fiscal apresentada pela CONTRATADA, ressalvados os casos definidos em legislação própria, em moeda nacional corrente, em até 10 (dez) dias úteis contados a partir do aceite dos serviços pela autoridade competente da CONTRATANTE, podendo esta utilizarse, a seu favor, de compensação (arts 1.009 do Código Civil e 40, inciso XIV, alínea "d", da Lei Federal n.º 8.666/93) .
+
+Parágrafo Primeiro: As Notas Fiscais apresentadas pela CONTRATADA somente serão pagas após o recolhimento pela mesma de quaisquer multas que lhe tenham sido impostas em decorrência de inadimplemento contratual ou após glosa respectiva, sem que isso gere direito ao pleito de reajustamento de preços ou correção monetária. Parágrafo Segundo: O pagamento dos serviços objeto deste instrumento fica condicionado à apresentação da Certidão Negativa de Débitos para com o GDF, expedida pela Secretaria de Fazenda do Distrito Federal, em plena validade, com a Fazenda Pública Federal (União), Estadual e Municipal, inclusive relativa à atividade do exercício nos termos do Artigo 193 do Código Tributário Nacional, não cabendo direito a reclamação, indenização, multa, reajuste, correção monetária ou compensação de qualquer natureza e Guia de Recolhimento do INSS devidamente autenticada, acompanhada do rascunho da respectiva folha de pagamento, conforme o Parágrafo 3º do Art. 42 do Decreto Federal n.º 2.173, de 05.03.97 e Certificado de Regularidade de Situação - CRS, para com o Fundo de Garantia por Tempo de Serviço - FGTS, fornecido pela Caixa Econômica Federal, de acordo com a Lei Federal n.º 8.036/90. Parágrafo Terceiro: Caso a CONTRATANTE não cumpra o prazo de pagamento estipulado no Contrato, pagará à CONTRATADA atualização financeira de acordo com a variação do INPC, proporcionalmente aos dias de atraso (Art. 55, Inciso III, da Lei Federal nº 8.666/93) e nos termos da Lei Complementar nº 394-DF/01.
+
+CLÁUSULA NONA DA GARANTIA
+
+A CONTRATADA deverá recolher em nome da CONTRATANTE uma das modalidades de garantia contratual definidas no Art. 56 da Lei Federal nº 8.666/93, em até 10 (dez) dias úteis após a data de assinatura do Contrato. Parágrafo Primeiro: A garantia escolhida será correspondente a 5% (cinco por cento) do valor deste Contrato. Parágrafo Segundo: A garantia escolhida deverá cobrir todo o período de vigência deste Contrato, acrescido de 30 (trinta) dias.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+38
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Parágrafo Terceiro: O recolhimento da garantia deverá ser feito na Tesouraria da CONTRATANTE. Parágrafo Quarto: A garantia depositada poderá, a critério da CONTRATANTE, ser utilizada para cobrir eventuais multas e/ou não cumprimento de obrigações contratuais assumidas pela CONTRATADA. Parágrafo Quinto: Ocorrendo a hipótese prevista no Parágrafo anterior, a garantia deverá ser reconstituída imediatamente pela CONTRATADA, de forma a manter o valor compatível com o valor da contratação devidamente atualizado. Parágrafo Sexto: A fiança bancária formalizar-se-á através de carta de fiança fornecida por banco ou Caixa Econômica que, por si ou pelos acionistas detentores de seu controle ou administradores, não participem do capital ou da direção da CONTRATADA e deverá estar devidamente registrada em cartório competente. Parágrafo Sétimo: Na carta de fiança deverá constar a expressa renúncia, pelo fiador, aos benefícios do Art. 1.491 do Código Civil Brasileiro. Parágrafo Oitavo: A garantia somente será levantada após o recebimento definitivo dos serviços. No caso de não cumprimento de qualquer das obrigações contratuais, a garantia ficará retida até a solução da pendência. Parágrafo Nono: A garantia escolhida pela CONTRATADA poderá ser substituída por outra no decorrer da prestação dos serviços, com anuência da CONTRATANTE.
+
+CLÁUSULA DÉCIMA DAS PENALIDADES
+
+Em caso de inexecução total ou parcial do serviço ou qualquer outra inadimplência contratual, a CONTRATADA estará sujeita, sem prejuízo da responsabilidade civil e criminal no que couber, de acordo com o disposto nos Artigos 86 a 88 da Lei Federal n.º 8.666/93 c/c com o Decreto Distrital nº 26.851, de 30/05/06 e, naquilo que não conflite, com a Resolução n.º 57/88-C.A, as seguintes penalidades:
+
+I - Advertência; II - Multa: a) conforme dispõe o Inciso I do Art. 94 da Resolução n.º 057/88-CA, será de 0,3% (três décimos por cento) ao dia, até o trigésimo dia de atraso, sobre o valor do serviço contratado, quando a CONTRATADA, sem justa causa deixar de cumprir a obrigação assumida;
+
+b) - a multa, a que se refere o Inciso II do Art. 94 da Resolução n.º 57/88-CA, será de 0,5% (cinco décimos por cento) ao dia, por etapa não concluída, quando esta for superior a 30 (trinta) dias;
+
+c) - a multa pelo descumprimento do prazo estabelecido será de 1% (um por cento) sobre o valor total do serviço contratado, quando sem justa causa.
+
+III - Suspensão temporária de participação em licitação e impedimento de contratar com a Administração do Distrito Federal.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+39
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+III - Declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que o contratado ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso anterior e o que mais constar nos artigos 86 a 88, inclusive, da Lei Federal n.º 8.666/93.
+
+Parágrafo Único: A eventual aplicação da multa previstas neste Contrato não exime a CONTRATADA de responder judicialmente, pelos eventuais prejuízos causados à Fazenda do Distrito Federal, devidos a problemas que deveriam ter sido previstos e solucionados a tempo pela referida CONTRATADA.
+
+CLÁUSULA DÉCIMA-PRIMEIRA DA RESCISÃO
+
+O presente instrumento poderá ser rescindido pela CONTRATANTE, a qualquer tempo, a seu exclusivo critério, mediante aviso prévio de 15 (quinze) dias à CONTRATADA, sem que a esta assista o direito à indenização, compensação ou multa de qualquer natureza. Parágrafo Primeiro: Constitui motivo para rescisão do presente Contrato o descumprimento de quaisquer dos itens nele constantes, independentemente de interpelação judicial ou extrajudicial, além das penalidades previstas nos artigos 77 a 80 da Lei Federal nº 8.666/93. Parágrafo Segundo: A dissolução do Contrato não interferirá na execução dos serviços que estiverem em andamento, os quais terão curso normal até a sua conclusão. Parágrafo Terceiro: O presente instrumento será rescindido em caso de subcontratação total ou parcial do seu objeto, de associação do contratado com outrem, de cessão ou transferência, total ou parcial, bem como de fusão, cisão ou incorporação, sem prévia autorização formal da CONTRATANTE. CLÁUSULA DÉCIMA- SEGUNDA DO FORO
+
+Fica eleito o Foro de Brasília - DF, para dirimir questões relativas ao cumprimento do presente instrumento, renunciando as partes a outro ou outros que tenham ou venham a ter por mais privilegiada.
+
+E, por estarem justas e de acordo, para firmeza e validade do que foi estipulada em todas as Cláusulas, as partes assinam o presente instrumento em 03 (três) vias de igual teor e forma, na presença das testemunhas abaixo qualificadas.
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+40
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+Brasília - DF, PELA CONTRATANTE:
+
+de
+
+de 200X.
+
+Presidente
+
+Diretor de Educação Tecnológica
+
+Diretor de Tecnologia
+
+PELA CONTRATADA:
+
+_______________________________________
+
+Testemunhas:
+
+----------------------------------------------Nome: CPF:
+
+-----------------------------------------------Nome: CPF:
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+41
+
+EDITAL DE LICITAÇÃO
+A N E X O III
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+(PAPEL TIMBRADO DA LICITANTE)
+
+MODELO DE DECLARAÇÃO
+
+Ref.: Pregão Presencial nº 002/2006-CODEPLAN
+
+A empresa................................., inscrito no CNPJ/MF n°..................., por intermédio de seu representante legal o(a) Sr(a)...................................., portador(a) da Carteira de Identidade o o n ............................ e do CPF n ........................., DECLARA, para fins do disposto no inciso V do art. 27 da Lei o o Federal n 8.666, de 21 de junho de 1993, acrescido pela Lei n 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega menor de dezesseis anos.
+
+Ressalva: emprega menor, a partir de quatorze anos, na condição de aprendiz ( (Observação: em caso afirmativo, assinalar a ressalva acima)
+
+)
+
+............................................ (data)
+
+............................................................ (representante)
+
+(CARIMBO DE CNPJ DA LICITANTE)
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+42
+
+EDITAL DE LICITAÇÃO
+A N E X O IV
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+(PAPEL TIMBRADO DA LICITANTE)
+
+MODELO DE DECLARAÇÃO DE INEXISTÊNCIA DE FATOS IMPEDITIVOS
+
+DECLARAÇÃO
+
+Ref.: Pregão Presencial nº 002/2006-CODEPLAN
+
+A empresa __________________, inscrita no CNPJ n°_________, sediada __________________________ por intermédio de seu representante legal o(a) Sr(a)...................................., o portador(a) da Carteira de Identidade nº ............................ e do CPF n ........................., DECLARA, sob as penas da Lei, que não se encontra em processo de Falência ou Concordata, e que até a presente data não existem fatos supervenientes impeditivos para sua habilitação no presente processo licitatório, ciente da obrigatoriedade de declarar ocorrências posteriores.
+
+_____________________________________________ ( Local e data)
+
+______________________________________________ (Representante legal)
+
+(CARIMBO DE CNPJ DA LICITANTE)
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+43
+
+EDITAL DE LICITAÇÃO
+ANEXO V
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+(PAPEL TIMBRADO DA LICITANTE)
+
+DECLARAÇÃO DE CIÊNCIA
+
+Ref.: Pregão Presencial nº 002/2006-CODEPLAN
+
+A empresa ____________________________________________, inscrita no CNPJ n°___________________________, sediada em ______________________________________________________________ por intermédio de seu representante legal o(a) Sr(a)_______________________________________, portador(a) da Carteira de o Identidade n.º .................................. e do CPF n ....................................., DECLARA, que a empresa atende a todos os requisitos de habilitação, bem como apresenta sua proposta com indicação do objeto e do preço oferecido os quais atendem plenamente ao edital.
+
+Brasília, _____de_________________________ de 2006
+
+______________________________________________ (Representante legal)
+
+(CARIMBO DE CNPJ DA LICITANTE)
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+44
+
+EDITAL DE LICITAÇÃO
+Anexo VI
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+PLANILHA DEMONSTRATIVA DE QUANTITATIVOS E PREÇOS UNITÁRIOS
+
+1.PLANILHA DE PREÇOS MENSAL DE HORAS DE SERVIÇO TÉCNICAS NO SUPORTE GERENCIAL ÀS ATIVIDADES DE TECNOLOGIA DA INFORMAÇÃO NAS SECRETARIAS DE ESTADO DE SAÚDE E DE EDUCAÇÃO DO DISTRITO FEDERAL Quantidade de HST Análise de Suporte Júnior Análise de Suporte Pleno Análise de Suporte Sênior Análise de Negócios Análise de O&M Júnior Análise de O&M Pleno Análise de O&M Sênior Consultoria Técnica em TI Júnior Consultoria Técnica em TI Plena Consultoria Técnica em TI Sênior Coordenação de Projetos 168 168 168 672 336 756 336 252 1008 252 252 VALOR MÉDIO UNITÁRIO R$ 33,07 R$ 51,43 R$ 66,12 R$ 70,73 R$ 33,07 R$ 47,77 R$ 60,63 R$ 91,86 R$ 133,58 R$ 174,69 R$ 91,86
+
+Descrição
+
+2.PLANILHA DE PREÇOS MENSAL DE HORAS DE SERVIÇO TÉCNICAS NO SUPORTE TECNOLÓGICO E LOGÍSTICO PARA AS SECRETARIAS DE ESTADO DE SAÚDE E DE EDUCAÇÃO DO DISTRITO FEDERAL Descrição Digitação Operação de Computadores Suporte Técnico em Redes Júnior Suporte Técnico em Redes Pleno Suporte Técnico em Redes Sênior Análise de Rede Júnior Análise de Rede Pleno Quantidade de HST 2.856 4.200 1.344 1.512 1.008 1.344 672 VALOR MÉDIO UNITÁRIO R$ 5,20 R$ 8,27 R$ 12,86 R$ 17,09 R$ 22,75 R$ 33,07 R$ 47,77
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+45
+
+EDITAL DE LICITAÇÃO Análise de Rede Sênior Análise de Suporte Júnior Análise de Suporte Pleno Análise de Suporte Sênior Administração de Banco de Dados Pleno Administração de Banco de Dados Sênior Consultoria Técnica em TI Júnior Consultoria Técnica em TI Plena Consultoria Técnica em TI Sênior
+
+PREGÃO PRESENCIAL Nº 002/2006 R$ 60,17 672 840 1.008 1.008 840 504 672 840 168 R$ 33,07 R$ 51,43 R$ 66,12 R$ 69,80 R$ 89,14 R$ 91,86 R$ 133,58 R$ 174,69
+
+3.PLANILHA DE PREÇOS PARA O FORNECIMENTO DE LICENÇAS DA PLATAFORMA DE BANCO DE DADOS CACHÉ E COM A MANUTENÇÃO DO BANCO DE DADOS CACHÉ E DA PLATAFORMA DE INTEGRAÇÃO ENSEMBLE Descrição Fornecimento de 1000 (mil) licenças da Plataforma de Banco de Dados Caché VALOR MÉDIO UNITÁRIO R$ 1.940.400,00
+
+Descrição Serviço de Manutenção da Plataforma de Banco de Dados Caché Serviço de Manutenção da Plataforma de Integração Ensemble
+
+VALOR MÉDIO UNITÁRIO R$ 32.340,00 R$ 7.186,67
+
+4. PLANILHA DE PONTOS DE FUNÇÃO E PREÇO UTILIZADOS COM A MANUTENÇÃO EVOLUTIVA, ADAPTATIVA, PREVENTIVA E CORRETIVA DO SISTEMA INTEGRADO DE SAÚDE - SIS Tipo de Serviços PF ­ Manutenção Quantidade PF (mensal) 350 VALOR MÉDIO UNITÁRIO R$ 612,80
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+46
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+5. PLANILHA DE PONTOS DE FUNÇÃO E PREÇO UTILIZADOS COM A IMPLANTAÇÃO DE UMA SOLUÇÃO DE INFORMAÇÕES GERENCIAIS PARA O SISTEMA INTEGRADO DE SAÚDE ­ DATASIS Tipo de Serviços PF ­ DATASIS Quantidade PF (mensal) 90 VALOR MÉDIO UNITÁRIO R$ 612,80
+
+6. PLANILHA DE PREÇOS PARA A FORNECIMENTO, INSTALAÇÃO, CONFIGURAÇÃO E MANUTENÇÃO DA PLATAFORMA DE INTEGRAÇÃO ENSEMBLE PARA O DATASIS Descrição Fornecimento da Plataforma de Integração Ensemble VALOR MÉDIO UNITÁRIO R$ 431.200,00
+
+Descrição Serviço de Manutenção da Plataforma de Integração Ensemble
+
+VALOR MÉDIO UNITÁRIO (R$) R$ 7.186,67
+
+7.PLANILHA DE PREÇOS PARA A IMPLANTAÇÃO DO CARTÃO SAÚDE DO CIDADÃO Unidades Descrição Totais Previstas (*) Geração de Cartão Saúde do Cidadão 450.000
+
+Unidades Mensais Previstas (*) 37.500
+
+VALOR MÉDIO UNITÁRIO
+
+R$ 3,92
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+47
+
+EDITAL DE LICITAÇÃO
+
+PREGÃO PRESENCIAL Nº 002/2006
+
+8.PLANILHA DE PONTOS DE FUNÇÃO E PREÇOS MENSAIS UTILIZADOS COM A SOLUÇÃO EM COMPUTAÇÃO MÓVEL PARA AS SECRETARIAS DE ESTADO DA SAÚDE E DE EDUCAÇÃO
+
+Tipo de Serviços PF ­ Manutenção
+
+Quantidade PF (mensal) 263
+
+VALOR MÉDIO UNITÁRIO R$ 612,80
+
+VALOR MÉDIO GLOBAL ANUAL
+
+R$ 22.478.522,03
+
+"Brasília ­ Patrimônio Cultural da Humanidade"
+SAIN - PROJEÇÃO H, ED. CODEPLAN, BRASÍLIA-DF, CEP 70.620-000, FONE (61) 3342.1751
+
+48
+
+

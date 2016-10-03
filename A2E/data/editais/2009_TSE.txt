@@ -1,0 +1,1823 @@
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO
+
+TRIBUNAL SUPERIOR DO TRABALHO
+Pregão Eletrônico n.º 124/2009
+(Regido pela Lei Complementar 123/06, pela Lei 10.520/02, pelos Decretos 3.931/01, 5.450/05, 6.204/07 e subsidiariamente pelas Leis 8.078/90, 8.666/93, 9.784/99 e alterações) Unidade: Tipo: Objeto: CLCON ­ Coordenadoria de Licitações e Contratos Menor preço Registro de preços para futuras prestações de serviços de desenvolvimento de sistemas em Java/JEE, relacionados à evolução tecnológica dos sistemas do Tribunal Superior do Trabalho e desenvolvimento e manutenção de sistemas nacionais do Conselho Superior da Justiça do Trabalho. SESSÃO PÚBLICA PARA FORMULAÇÃO DE LANCES Dia: Hora: Local: Consultar o portal www.comprasnet.gov.br Consultar o portal www.comprasnet.gov.br www.comprasnet.gov.br LOCAL, DIAS E HORÁRIOS PARA LEITURA OU OBTENÇÃO DESTE EDITAL Dia: Hora: Local: Segunda a sexta-feira Das 12h às 18h SAFS, quadra 8, lote 1, Bloco A, 3º andar, sala 333, Coordenadoria de Licitações e Contratos, CEP 70070-600, Brasília-DF Custo do edital impresso: R$ 0,15 (quinze centavos) por folha
+
+Acompanhe esta licitação e seus atos na internet pelos portais www.tst.jus.br e www.comprasnet.gov.br
+
+Observação: o pregoeiro informa que os pedidos de esclarecimento e as impugnações referentes a este procedimento devem ser encaminhados exclusivamente por meio eletrônico via Internet, para o endereço cpl@tst.jus.br, conforme o art. 19 do Decreto 5.450/05.
+
+Retire o edital gratuitamente pelos portais www.tst.jus.br e www.comprasnet.gov.br
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 2 Versão: 12/11/2009 14:02
+
+1.
+
+Objeto da Licitação
+desenvolvimento de sistemas em Java/JEE, relacionados à evolução tecnológica dos sistemas do Tribunal Superior do Trabalho e desenvolvimento e manutenção de sistemas nacionais do Conselho Superior da Justiça do Trabalho, conforme especificações na tabela abaixo, Código CATSERV: 5398, nos termos e condições constantes neste edital e seus anexos.
+Item Especificação Unidade Quantidade para registro
+
+1.1. O objeto deste certame é o registro de preços para futuras prestações de serviços de
+
+1
+
+Pontos de Função para o desenvolvimento de sistemas de apoio à atividade administrativa e judiciária do TST e desenvolvimento e manutenção de sistemas nacionais sob responsabilidade do CSJT. São exemplos: Sistema de Triagem, Sistema eRecurso, Sistema Planilha, Sistema de Autuação, Sistema de Sala de Sessão, Sistema TST-Saúde, Sistema de Controle de Veículos, Assine-jus, e-Calc, e-Doc, e-Jus, e-Recurso, eJulg, Aud, Carta Precatória, Diário Eletrônico da Justiça do Trabalho e Malote Digital sem prejuízo de outros que possam ser identificados no futuro, considerada a estratégia de adoção do Sistema de Registro de Preços.
+
+Un
+
+15.000
+
+1.2. Os serviços de evolução tecnológica contemplam todo o ciclo de desenvolvimento, incluindo os serviços de gerenciamento de projeto, construção, testes, migração e implantação, de acordo com as especificações constantes nos anexos integrantes deste Edital.
+
+2.
+
+Condições para Participação
+constantes deste edital e seus anexos, que estiverem previamente credenciados perante a Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão, provedor do sistema eletrônico, cuja
+
+2.1. Poderão participar deste pregão os interessados que atenderem a todas as exigências
+
+comunicação se dá pela Internet. 2.1.1. Para ter acesso ao sistema eletrônico, os interessados em participar do pregão deverão dispor de chave de identificação e senha que poderão ser utilizadas em qualquer pregão eletrônico, salvo quando cancelada por solicitação do credenciado ou em virtude de seu descadastramento perante o SICAF.
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 3 Versão: 12/11/2009 14:02
+
+2.1.2.
+
+O uso da senha de acesso pelo licitante é de sua inteira responsabilidade bem assim quaisquer transações efetuadas diretamente ou por seu representante, e não caberá ao provedor do sistema ou ao TST a responsabilidade por eventuais danos decorrentes do uso indevido da senha, ainda que por terceiros.
+
+2.1.3.
+
+A perda da senha ou a quebra do sigilo deverão ser comunicadas imediatamente ao provedor do sistema para imediato bloqueio de acesso.
+
+2.1.4.
+
+O credenciamento perante o provedor do sistema implica a responsabilidade legal do licitante e a presunção de sua capacidade técnica para realização das transações inerentes ao pregão eletrônico.
+
+2.2. Ficam impedidos de participar desta licitação os interessados que se encontrem sob falência, concordata, concurso de credores, dissolução, liquidação ou em regime de consórcio, qualquer que seja sua forma de constituição, empresas estrangeiras que não funcionem no país, nem aqueles que tenham sido declarados inidôneos para licitar ou contratar com a Administração Pública ou punidos com suspensão do direito de licitar e contratar pelo TST.
+
+3.
+
+Credenciamento dos Representantes
+atualizado no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, conforme disposto no § 2º do art. 3º do Decreto nº 5.450/05. 3.1.1. Caberá ao licitante interessado em participar do pregão eletrônico credenciarse no SICAF, conforme disposto no inciso I do art. 13 do Decreto 5.450/05.
+
+3.1. O credenciamento do licitante bem assim a sua manutenção dependerá de registro
+
+3.2. O licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico e assumirá como firmes e verdadeiras suas propostas e lances.
+
+4.
+
+Forma de Apresentação da Proposta
+sistema eletrônico, respeitados os prazos nele estipulados, e consignar nos campos apropriados do sistema o preço unitário, expresso em reais, incluídos todos os impostos, taxas, fretes e demais encargos, e ainda: 4.1.1. quantidade a ser registrada, nunca inferior ao total previsto para registro, sob pena de desclassificação.
+
+4.1. As propostas deverão ser formuladas e encaminhadas exclusivamente por meio do
+
+4.2. No campo "Descrição Detalhada do Objeto Ofertado" solicita-se que sejam incluídas todas as informações necessárias ao perfeito detalhamento do objeto e, ainda, as
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 4 Versão: 12/11/2009 14:02
+
+seguintes informações relativas à proposta, cuja omissão e/ou contrariedade implica a aceitação dos prazos indicados: 4.2.1. Prazo de início da prestação dos serviços de, no máximo, dez dias úteis, contados a partir da data do recebimento da ordem de serviço, 4.2.2. Prazo de garantia dos produtos e dos serviços de, no mínimo, noventa dias, contados a partir da data do recebimento definitivo; 4.2.3. Prazo de validade da proposta de, no mínimo, noventa dias.
+
+4.3. Serão desclassificadas as propostas que comprovadamente cotarem objeto diverso daquele requerido nesta licitação, ou as que desatendam às exigências deste edital. 4.4. Os licitantes devem encaminhar, no ato de envio de suas propostas, de forma virtual, utilizando a funcionalidade existente no sistema de pregão eletrônico, as seguintes declarações: 4.4.1. 4.4.2. 4.4.3. Inexistência de fato superveniente que o impeça de participar do certame; Cumprimento do disposto no inciso XXXIII do art. 7º da Constituição Federal; Concordância com as condições estabelecidas neste edital e que atende aos requisitos de habilitação; 4.4.4. Atendimento aos requisitos do art. 3º da Lei Complementar nº123/2006, no caso de microempresas, empresas de pequeno porte e cooperativas. 4.5. As referidas declarações somente poderão ser visualizadas e impressas a partir da fase de aceitação e habilitação, respectivamente, quando também poderão ser alteradas ou reenviadas pelos licitantes, por solicitação do pregoeiro.
+
+5.
+
+Critério de Aceitabilidade dos Preços
+serem truncados, e serão irreajustáveis até a data de assinatura da Ata de Registro de preços. 5.1.1. Após a referida assinatura, os valores constantes da Ata de Registro de Preços admitem revisão, conforme disciplinado no item 15.1 deste edital.
+
+5.1. Os preços deverão ser cotados em reais, com duas casas decimais, sob pena de
+
+5.2. Serão desclassificadas as propostas e lances que ofereçam preços excessivos ou inexeqüíveis. 5.2.1. Somente poderá ser considerado excessivo qualquer preço após o encerramento da etapa de lances e, quando formulada contraproposta pelo Pregoeiro, após sua recusa ou no caso de omissão por parte do respectivo proponente. 5.2.2. O ônus da prova da exeqüibilidade dos preços cotados incumbe ao autor da proposta, no prazo de cinco dias úteis contados da notificação.
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 5 Versão: 12/11/2009 14:02
+
+6.
+
+Sessão Pública do Pregão Eletrônico
+ocorrerá em data e hora indicadas exclusivamente no sistema eletrônico e obedecerá ao rito estabelecido nos Decretos 5.450/05 e 6.204/07. 6.1.1. Por força do disposto no art. 13, inciso IV do Decreto 5450/2005, os licitantes estão obrigados a acompanhar as operações no sistema eletrônico durante a licitação, responsabilizando-se pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pelo sistema ou de sua desconexão
+
+6.1. A sessão pública deste pregão eletrônico, conduzida pelo pregoeiro designado,
+
+6.2. Aberta a sessão pública, o pregoeiro verificará as propostas apresentadas e desclassificará aquelas cujos dados disponíveis revelem estarem em desconformidade com os requisitos estabelecidos neste edital. 6.2.1. A desclassificação de proposta será sempre fundamentada e registrada no sistema, com acompanhamento, em tempo real, por todos os participantes. 6.2.2. O desatendimento de exigências formais não essências não importará no afastamento da Licitante, desde que sejam possíveis a aferição da sua qualificação e a exata compreensão de sua proposta, durante a realização da Sessão Pública. 6.3. O sistema ordenará automaticamente somente as propostas classificadas pelo pregoeiro, as quais participarão da fase de lances. 6.4. O pregoeiro dará início à fase competitiva, quando então os licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico. 6.5. Os licitantes poderão oferecer lances sucessivos e inferiores aos últimos por eles ofertados e registrados pelo sistema, e caso haja dois ou mais lances iguais, prevalecerá aquele que for recebido e registrado primeiro. 6.6. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance registrado que tenha sido apresentado pelos demais licitantes, vedada a identificação do detentor do lance. 6.7. A etapa de lances da sessão pública será encerrada por decisão do pregoeiro. 6.8. O sistema eletrônico encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até trinta minutos, aleatoriamente determinado, no fim do qual será automaticamente encerrada a recepção de lances. 6.9. No caso de desconexão do pregoeiro durante a etapa de lances, se o sistema eletrônico permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados.
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 6 Versão: 12/11/2009 14:02
+
+6.10. Quando a desconexão do pregoeiro persistir por tempo superior a dez minutos, a sessão do pregão eletrônico será suspensa e reiniciada somente após comunicação aos participantes no endereço eletrônico utilizado para divulgação. 6.11. Se estiverem participando do certame microempresas e empresas de pequeno porte, após verificação automática perante a Receita Federal do porte da empresa, será observada a disciplina estabelecida nos artigos 44 e 45 da Lei Complementar 123/06, regulamentados pelo art. 5º do Decreto 6.204/07.
+
+7.
+
+Julgamento das Propostas e Habilitação
+de anexos" existente no sistema de pregão eletrônico, notificará o licitante melhor classificado a enviar Demonstrativo de Formação de Preços, no prazo de uma hora. 7.1.1. O Demonstrativo de Formação de Preços deverá ser elaborado em Planilha Microsoft Excel conforme o modelo disponível no seguinte hiperlink: ftp://ftp.tst.jus.br/fsw; 7.1.2. Erros e omissões existentes nas planilhas inicialmente enviadas poderão ser retificados pelo licitante, após solicitação ou consentimento do pregoeiro, desde que o preço ofertado não sofra acréscimo; 7.1.3. Este documento não integra a proposta e o seu envio constitui mera diligência.
+
+7.1. Encerrada a etapa de lances, o pregoeiro, utilizando a funcionalidade de "convocação
+
+7.2. Examinada as referidas planilhas pela unidade administrativa responsável, caberá ao pregoeiro decidir motivadamente a respeito da aceitabilidade da proposta, observados os seguintes requisitos: 7.2.1. 7.2.2. 7.3. As Conformidade com as especificações do objeto. Compatibilidade do preço ofertado em relação ao estimado. apresentarem preços manifestamente inexeqüíveis serão
+
+propostas que
+
+desclassificadas. 7.3.1. Consideram-se preços manifestamente inexeqüíveis aqueles que,
+
+comprovadamente, forem insuficientes para a cobertura dos custos decorrentes da contratação pretendida. 7.3.2. Se houver indícios de inexeqüibilidade da proposta de preço, ou em caso de necessidade de esclarecimentos complementares, poderão ser efetuadas outras diligências. 7.4. O pregoeiro poderá encaminhar contraproposta ao licitante que tenha apresentado lance mais vantajoso pelo sistema eletrônico, para que seja obtida melhor proposta,
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 7 Versão: 12/11/2009 14:02
+
+observado o critério de julgamento, inadmissível negociar condições diferentes daquelas previstas no edital. 7.4.1. A negociação será realizada exclusivamente pelo canal de comunicação (chat) disponibilizado no sistema e poderá ser acompanhada pelos demais licitantes. 7.5. Em seguida, o pregoeiro verificará a habilitação do licitante conforme disposições do edital. 7.6. Constatado o atendimento pleno das exigências contidas no edital, o proponente será declarado vencedor. 7.7. Se a proposta não for aceita ou se o licitante não atender às exigências habilitadoras, em descumprimento dos requisitos estabelecidos neste edital e seus anexos, o proponente será afastado do certame e o pregoeiro examinará as propostas subseqüentes, na ordem de classificação, até a obtenção de uma que atenda ao edital. 7.8. Será desconsiderada qualquer oferta de vantagem não prevista neste edital e em seus anexos. 7.9. O pregoeiro, em qualquer fase do procedimento, poderá promover diligências julgadas necessárias à análise das propostas e da documentação, e os licitantes deverão atender às solicitações no prazo por ele estipulado, contado do recebimento da intimação. 7.10. Se um dos licitantes estiver impedido de participar em licitações ou tiver sido declarado inidôneo para licitar e contratar com a Administração Pública, será afastado do certame sem prejuízo das sanções legais cabíveis. 7.11. No julgamento da habilitação e das propostas, o pregoeiro poderá sanar erros ou falhas que não alterem a substância das propostas e dos documentos, nem sua validade jurídica, mediante despacho fundamentado registrado em ata e acessível a todos, e lhes atribuirá validade e eficácia para fins de habilitação e classificação. 7.12. As empresas vencedoras do certame somente deverão encaminhar propostas, declarações ou quaisquer outros documentos se expressamente solicitado pelo pregoeiro, mediante notificação efetuada pelo canal de comunicação (chat), sob pena de serem descartados. 7.13. O sistema eletrônico produzirá automaticamente ata circunstanciada da sessão pública imediatamente após seu encerramento, a qual ficará acessível no Portal de Compras do Governo Federal ­ COMPRASNET e nela serão registradas as ocorrências relevantes.
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 8 Versão: 12/11/2009 14:02
+
+8.
+
+Requisitos de Habilitação dos Licitantes
+documentação comprobatória da: a) Habilitação jurídica; b) Regularidade fiscal; c) Qualificação econômica e financeira; d) Qualificação técnica; e) Cumprimento do disposto no inciso XXXIII do art. 7° da Constituição Federal.
+
+8.1. Para habilitar-se na presente licitação, o interessado deverá apresentar toda a
+
+8.2. A habilitação jurídica será comprovada mediante a apresentação da seguinte documentação: 8.2.1. 8.2.2. Prova de registro comercial, no caso de empresa individual; Ato constitutivo, estatuto ou contrato social em vigor devidamente registrado, no caso de sociedades comerciais e, no caso de sociedades por ações, acompanhado de documentos de eleição de seus administradores, no qual deverá estar contemplado, entre os objetivos sociais, a execução de atividades da mesma natureza ou compatíveis com o objeto da licitação; 8.2.3. Inscrição do ato constitutivo no órgão competente acompanhada, no caso de sociedades civis, de prova da diretoria em exercício; e 8.2.4. Decreto de autorização, no caso de empresa ou sociedade estrangeira em funcionamento no País. 8.3. A regularidade fiscal será comprovada mediante a apresentação dos seguintes documentos: 8.3.1. 8.3.2. Prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ); Prova de inscrição no Cadastro de Contribuintes Estadual ou Municipal, se houver, relativo à sede ou domicílio do licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual; 8.3.3. Prova de regularidade para com a Fazenda Federal mediante Certidão conjunta quanto a débitos relativos a tributos federais e à dívida ativa da União expedida pela Secretaria da Receita Federal e pela Procuradoria-Geral da Fazenda Nacional, nos termos do art. 1.º do Decreto Federal 6.106/2007; 8.3.4. Prova de regularidade perante as Fazendas Estadual e Municipal, mediante certidões expedidas pelos órgãos competentes, quando for o caso, e que estejam dentro do prazo de validade expresso na própria certidão, composta de:
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 9 Versão: 12/11/2009 14:02
+
+8.3.4.1.
+
+Certidão negativa expedida pela Secretaria da Fazenda do Estado ou Distrito Federal; e
+
+8.3.4.2.
+
+Certidão negativa expedida pela Prefeitura Municipal, quando couber.
+
+8.3.5.
+
+Prova de situação regular perante o Fundo de Garantia por Tempo de Serviço ­ FGTS, mediante a apresentação do CRF - Certificado de Regularidade do FGTS. 8.3.5.1. Caso a empresa licitante não apresente o CRF, o pregoeiro verificará a regularidade pela consulta à base de dados da Caixa Econômica Federal, pela Internet.
+
+8.3.6.
+
+Comprovação de que a empresa detém situação regular perante o INSS, na forma exigida no § 3.º do art. 195 da Constituição Federal, com a apresentação da CND - Certidão Negativa de Débitos.
+
+8.3.7.
+
+Caso a empresa licitante não apresente a CND, o pregoeiro verificará a regularidade pela consulta à base de dados da Previdência Social, pela Internet, na forma da OS 207 do INSS, de 08-04-99.
+
+8.4. A qualificação econômico-financeira será comprovada mediante apresentação dos seguintes documentos: 8.4.1. Certidão negativa de falência ou concordata expedida pelo distribuidor da sede da pessoa jurídica; 8.4.2. Balanço Patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, em que sejam nomeados os valores do ativo circulante (AC) e do passivo circulante (PC), de modo a extrair-se Índice de Liquidez Corrente (ILC) superior a um, vedada a substituição por balancetes ou balanços provisórios. 8.4.2.1. As empresas que apresentarem ILC igual ou menor do que um quando de sua habilitação, em vista dos riscos para a administração, deverão comprovar capital social no valor mínimo de dez por cento do valor da contratação resultante da licitação, admitida a atualização para a data de apresentação da proposta mediante índices oficiais. 8.4.2.2. Serão considerados aceitos, na forma da lei, balanço patrimonial e demonstrações contábeis assim apresentados: a) Publicados em Diário Oficial ou; b) Publicados em jornal de grande circulação ou;
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 10 Versão: 12/11/2009 14:02
+
+c) Registrados na Junta Comercial da sede ou domicílio da licitante ou; d) Por cópia do Livro Diário autenticado pela Junta Comercial da sede ou do domicílio da licitante, na forma da IN 65 do Departamento Nacional do Registro do Comércio ­ DNRC, de 1.º-08-97, art. 6º, junto com o original do Diário para cotejo pelo pregoeiro ou acompanhada obrigatoriamente da cópia dos Termos de Abertura e de Encerramento. 8.4.2.3. As empresas com menos de um exercício financeiro devem cumprir a exigência deste item mediante apresentação de Balanço de Abertura ou do último Balanço Patrimonial levantado, conforme o caso. 8.5. A qualificação técnica será comprovada mediante apresentação de, pelo menos, um atestado de capacidade técnica, expedido por pessoa jurídica de direito público ou privado, que comprove a prestação de serviços compatíveis com o objeto deste Edital. 8.5.1. Entende-se por compatíveis os serviços prestados em qualquer época ou lugar que comprove ter a licitante desenvolvido um sistema com, no mínimo, 700 PF (setecentos Pontos de Função), utilizando a métrica de "Análise de Pontos de Função", em linguagem Java, arquitetura J2EE ou JEE. 8.6. Disposições gerais sobre habilitação: 8.6.1. Para conferir a qualificação técnica das empresas informada mediante documentos, o Pregoeiro poderá visitar as instalações da proponente, a seu critério e sem comunicação prévia, sob pena de exclusão do certame a qualquer tempo, em caso de discrepância. 8.6.2. 8.6.3. A habilitação dos licitantes será verificada por meio do SICAF, nos documentos por ele abrangidos. Os licitantes que estiverem em situação regular no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF poderão deixar de apresentar os documentos referentes à HABILITAÇÃO JURÍDICA, QUALIFICAÇÃO ECONÔMICO-FINANCEIRA e REGULARIDADE FISCAL. 8.6.4. Os documentos exigidos para habilitação que não estejam contemplados no SICAF deverão ser encaminhados utilizando-se a funcionalidade de "convocação de anexos" existente no sistema de pregão eletrônico, no prazo de uma hora contado da solicitação do Pregoeiro, e apresentados no original
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 11 Versão: 12/11/2009 14:02
+
+ou por cópia autenticada em dois dias úteis após o encerramento da sessão pública. 8.6.4.1. Comprovada a impossibilidade de envio por meio da referida ferramenta, a critério do Pregoeiro, poderá ser utilizada outra forma de envio. 8.6.5. Para fins de habilitação, a verificação pelo órgão promotor do certame nos portais oficiais de órgãos e entidades emissores de certidões constitui meio legal de prova. 8.6.6. O pregoeiro inabilitará o proponente cuja documentação de habilitação não estiver completa e correta, ou contrariar qualquer dispositivo deste edital e seus anexos. 8.6.7. Caso o licitante seja inabilitado por irregularidade constatada quando da consulta no SICAF, e comprovar, exclusivamente mediante apresentação do formulário de Recibo de Solicitação de Serviço (Anexo III da IN MARE 05/95), ter entregado a documentação à sua Unidade Cadastradora no prazo regulamentar, o pregoeiro suspenderá os trabalhos e comunicará o fato ao Órgão Gestor do SICAF. 8.6.8. Os documentos deverão ter validade expressa ou estabelecida em lei, admitidos como válidos, no caso de omissão, os emitidos a menos de noventa dias. 8.6.9. Não serão aceitos protocolos de entrega ou solicitação de documento em substituição aos documentos requeridos no presente edital e seus anexos. 8.6.10. Os documentos apresentados com a validade expirada, se não for falta sanável, acarretarão a inabilitação do proponente. 8.6.11. Para as microempresas e empresas de pequeno porte, a comprovação da regularidade fiscal observará a disciplina estabelecida nos artigos 42 e 43 da Lei Complementar 123, de 14/12/06, regulamentados pelo art. 4º do Decreto 6.204, de 05/09/07.
+
+9.
+
+Instruções e Normas para Impugnação do Edital e Interposição de Recursos
+pessoa poderá impugnar o ato convocatório do pregão eletrônico. 9.1.1. Caberá ao pregoeiro, auxiliado pelo setor responsável pela elaboração do edital, decidir sobre a impugnação no prazo de até 24 horas.
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+9.1. Em até dois dias úteis antes da data fixada para abertura da sessão pública, qualquer
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 12 Versão: 12/11/2009 14:02
+
+9.1.2.
+
+Acolhida a impugnação contra o ato convocatório, será definida e publicada nova data para realização do certame.
+
+9.2. Os pedidos de esclarecimento referentes ao processo licitatório deverão ser enviados ao pregoeiro até três dias úteis anteriores à data fixada para abertura da sessão pública, exclusivamente por meio eletrônico via Internet, para o endereço indicado na folha de rosto, em mensagens escritas que não podem conter qualquer anexo, sob pena de serem descartadas, assim como as impugnações que não observarem as mesmas restrições de forma e conteúdo. 9.3. A formulação da proposta, sem impugnação tempestiva ao edital, implica a plena aceitação pelos interessados das condições nela estabelecidas. 9.4. Declarado o vencedor, qualquer licitante poderá manifestar sua intenção de recorrer ao final da sessão pública, imediata e motivadamente, em campo próprio do sistema, o qual terá três dias para apresentar as razões de recurso, e os demais licitantes ficam, desde logo, notificados a apresentar contra-razões em igual prazo contado do término do prazo do recorrente, assegurada vista imediata dos elementos indispensáveis à defesa dos seus interesses. 9.5. O encaminhamento das razões de recurso bem assim das contra-razões deverá ser efetuado somente por meio do sistema eletrônico. 9.6. O recurso contra decisão do Pregoeiro não terá efeito suspensivo. 9.7. A falta de manifestação imediata e motivada do licitante quanto à intenção de recorrer importará a decadência desse direito e o pregoeiro estará autorizado a adjudicar o objeto ao licitante declarado vencedor. 9.8. O acolhimento de recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 9.9. Se não reconsiderar sua decisão, o pregoeiro submeterá o recurso devidamente informado à consideração da autoridade competente que proferirá decisão definitiva antes da homologação do procedimento. 9.10. Os autos permanecerão com vista franqueada aos interessados na Coordenadoria de Licitações e Contratos do TST, sito no SAFS, Quadra 8, Lote 1, Bloco A, 3º andar, sala 333.
+
+10. Prazo e Condições para Assinatura da Ata de Registro de Preços e do Contrato
+10.1. Depois de homologado o resultado desta licitação, o TST convocará o proponente vencedor para assinar a ata de registro de preços, ou a entregará diretamente, quando será exigida a comprovação das condições de habilitação consignadas no edital.
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 13 Versão: 12/11/2009 14:02
+
+10.2. Após a assinatura da Ata de Registro de Preços, havendo necessidade de adquirir o objeto, o TST convocará a empresa cujo preço foi registrado para assinatura do instrumento contratual correspondente e retirada da respectiva nota de empenho. 10.3. As convocações de que tratam os itens 10.1 e 10.2 deverão ser atendidas no prazo máximo de dois dias úteis, prorrogável uma única vez a critério do TST, sob pena de decair o direito à contratação e de serem aplicadas as sanções previstas neste edital e no art. 28 do Decreto 5.450/05. 10.4. A assinatura do contrato e a entrega da nota de empenho respectiva ficarão diretamente condicionadas à formalidade de assinatura do próprio contrato, e cabe à empresa fazer-se representar por profissional habilitado a cotejar a minuta com o instrumento obrigacional definitivo bem assim a firmá-lo. 10.5. O exame a que alude o item anterior se dará no recinto do Tribunal e poderá ser utilizado todo o tempo necessário à análise e conferência das peças mencionadas, inclusive fora do expediente normal de trabalho. 10.6. Não serão admitidos recursos, protestos, representações, ressalvas ou outra forma de discordância ou inconformismo a quaisquer tópicos do contrato que guardem absoluta conformidade com sua minuta, em expressão e substância. 10.7. Para segurança da Administração quanto ao cumprimento das obrigações contratuais, a adjudicatária deverá optar, no montante de 5% do valor total do contrato, por uma das seguintes modalidades de garantia: 10.7.1. Caução em dinheiro ou em títulos da dívida pública, devendo estes ter sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda; 10.7.2. seguro garantia; 10.7.3. fiança bancária. 10.8. A Contratada deverá providenciar a garantia contratual impreterivelmente em cinco dias úteis, contados do recebimento da convocação de que trata o item 10.2, sob pena de ser-lhe imputada multa, conforme item 20.3. 10.9. É de inteira responsabilidade do adjudicatário a renovação da garantia prestada, quando couber, estando sua liberação condicionada ao término das obrigações contratuais com o TST. 10.10. Ao assinar a Ata de Registro de Preços, e eventualmente o contrato, a empresa adjudicatária obriga-se a executar o objeto a ela adjudicado, conforme
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 14 Versão: 12/11/2009 14:02
+
+especificações e condições contidas neste edital, em seus anexos e também na proposta apresentada, prevalecendo, no caso de divergência, as especificações e condições do edital. 10.11. É facultado ao TST, quando o proponente vencedor não apresentar situação regular das condições de habilitação no ato da assinatura da ata de registro de preços ou do contrato, ou recusar-se a assiná-los ou a retirar a nota de empenho no prazo e nas condições estabelecidas, ou ainda quando rescindir o contrato por inadimplência, convocar os licitantes remanescentes, na ordem de classificação, para, após comprovados os requisitos de habilitação e feita a negociação, fazê-lo em igual prazo, ou revogar a licitação, independentemente das sanções previstas neste edital. 10.12. A Ata de Registro de Preços, durante sua vigência, poderá ser utilizada por qualquer órgão ou entidade da Administração que não tenha participado do certame licitatório, mediante prévia consulta ao órgão gerenciador, desde que devidamente comprovada a vantagem. 10.13. Os órgãos e entidades que não participarem do registro de preços, quando desejarem fazer uso da Ata de Registro de Preços, deverão manifestar seu interesse junto ao órgão gerenciador da Ata, para que este indique os possíveis fornecedores e respectivos preços a serem praticados, obedecida a ordem de classificação. 10.14. Caberá ao fornecedor beneficiário da Ata de registro de preços, observadas as condições nela estabelecidas, optar pela aceitação ou não do fornecimento, independentemente dos quantitativos registrados em Ata, desde que este fornecimento não prejudique as obrigações anteriormente assumidas. 10.15. As aquisições ou contratações adicionais não poderão exceder, por órgão ou entidade, a cem por cento dos quantitativos registrados na Ata de Registro de Preços.
+
+11. Vigência do Contrato e da Ata de Registro de Preços
+11.1. O prazo de vigência do Registro de Preços será de um ano. 11.2. O prazo de vigência do contrato será da data de sua assinatura até noventa dias após o recebimento definitivo do objeto, e terá validade e eficácia legal após a publicação do seu extrato no Diário Oficial da União 11.2.1. Referido prazo terá início e vencimento em dia de expediente, excluído o primeiro e incluído o último.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 15 Versão: 12/11/2009 14:02
+
+12. Fiscalização da Execução Contratual
+12.1. Na hipótese de aquisição dos produtos objeto do Registro de Preços, após a entrega da nota de empenho, a Administração designará um servidor, doravante denominado Fiscalização, com autoridade para exercer toda e qualquer ação de orientação geral até a entrega do objeto pela Contratada. 12.2. São atribuições da Fiscalização, entre outras: 12.2.1. Acompanhar e fiscalizar a execução bem assim indicar as ocorrências verificadas. 12.2.2. Encaminhar à Secretaria de Administração, Orçamento e Finanças - SEAOF os documentos com as ocorrências que impliquem possíveis sanções à Contratada. 12.2.3. solicitar à Contratada e a seus prepostos, ou obter da Administração, tempestivamente, todas as providências necessárias ao bom andamento da avença e anexar aos autos cópia dos documentos que comprovem essas solicitações. 12.3. Em caso de dúvidas quanto à interpretação das especificações será sempre consultada a Fiscalização, sendo desta o parecer definitivo. 12.4. A ação da fiscalização não exonera a Contratada de suas responsabilidades contratuais.
+
+13. Condições de Recebimento do Objeto dos Contratos
+13.1. O objeto de cada contrato será recebido das seguintes formas: 13.1.1. Provisória, mediante recibo, imediatamente após a entrega, para efeito de posterior verificação de sua conformidade. 13.1.2. Definitiva, mediante recibo, em até dez dias úteis após o recebimento provisório, ocasião em que se fará constar o atesto da nota fiscal. 13.2. A execução do objeto em desconformidade com o especificado no instrumento convocatório ou o indicado na proposta será rejeitada parcial ou totalmente, conforme o caso, e a Contratada será obrigada a refazer no prazo estipulado pela Fiscalização, contado da data do recebimento de notificação escrita necessariamente acompanhada do Termo de Recusa, sob pena de incorrer em atraso quanto ao prazo de execução. 13.2.1. Essa notificação interrompe os prazos de recebimento e de pagamento até que a irregularidade seja sanada.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 16 Versão: 12/11/2009 14:02
+
+13.3. Independentemente da aceitação, a Contratada garantirá a qualidade do serviço fornecido pelo prazo estabelecido nas especificações, obrigando-se a reparar aquele que apresentar defeito no prazo estabelecido pelo Contratante. 13.4. Os pedidos de fornecimento obedecerão à conveniência e às necessidades do TST, o qual não está obrigado a firmar as contratações advindas do registro de preços, e fica facultada a realização de licitação específica para a aquisição pretendida e assegurada ao beneficiário do registro a preferência de fornecimento em igualdade de condições.
+
+14. Condições de Pagamento
+14.1. Os pagamentos serão efetuados em moeda corrente nacional, em até dez dias úteis após o recebimento definitivo, mediante apresentação da nota fiscal devidamente atestada pela Fiscalização, sendo efetuada a retenção na fonte dos tributos e contribuições elencados na legislação aplicável. 14.1.1. As notas fiscais e os documentos exigidos no edital e no contrato, para fins de liquidação e pagamento das despesas, deverão ser entregues,
+
+exclusivamente, na Coordenadoria de Material e Logística, situada no SAFS, quadra 8, lote 1, Bloco A, 4º andar, sala 420. 14.1.2. A Nota Fiscal deve corresponder ao objeto recebido e respectivos valores consignados na Nota de Empenho, e a Fiscalização, no caso de divergência, especialmente quando houver adimplemento parcial, deve notificar a Contratada a substituí-la em três dias úteis, com suspensão do prazo de pagamento. 14.2. A retenção dos tributos federais não será efetuada caso o licitante apresente, junto com sua Nota Fiscal, a comprovação de que é optante do Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte - SIMPLES. 14.3. Se, quando da efetivação do pagamento, os documentos comprobatórios de situação regular em relação à Fazenda Federal, ao INSS e ao FGTS, apresentados em atendimento às exigências de habilitação, estiverem com a validade expirada, o pagamento ficará retido até a apresentação de novos documentos dentro do prazo de validade. 14.4. O Contratante pagará à Contratada a atualização monetária sobre o valor devido entre a data do adimplemento das obrigações contratuais e a do efetivo pagamento, excluídos os períodos de carência para recebimento definitivo e liquidação das despesas, previstos no contrato, e utilizará o índice publicado pela Fundação Getúlio
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 17 Versão: 12/11/2009 14:02
+
+Vargas que represente o menor valor acumulado no período, desde que a Contratada não tenha sido responsável, no todo ou em parte, pelo atraso no pagamento.
+
+15. Reajustamento dos Preços
+15.1. Os valores constantes da Ata de Registro de Preços admitem revisão na forma disciplinada no Decreto 3.931/2001.
+
+16. Obrigações da Contratada
+16.1. Executar o objeto desta licitação em prazo não superior ao máximo estipulado neste edital e seus anexos. 16.2. Ceder ao TST, nos termos do artigo 111 da Lei n.º 8.666/93, c/c o artigo 4º da Lei n.º 9.609/98, o direito patrimonial, a propriedade intelectual de toda e qualquer documentação e produto gerados, logo após o recebimento definitivo dos serviços prestados. 16.3. Manter sigilo dos dados e informações confidenciais a que tiverem acesso. 16.4. Manter os seus técnicos sujeitos às normas disciplinares do Tribunal, porém sem qualquer vínculo empregatício com o órgão. 16.5. Respeitar as normas e procedimentos de segurança do Tribunal. 16.6. Iniciar a execução dos serviços no prazo máximo de 10 (dez) dias úteis contados do recebimento da Ordem de Serviço. 16.6.1. Apresentar ao TST, em até 7 (sete) dias úteis contados do recebimento da Ordem de Serviço, a relação da equipe e respectiva qualificação profissional e comprovantes, nos termos exigidos no anexo V deste edital. 16.7. Elaborar e entregar os seguintes documentos gerenciais: 16.7.1. Atas de Reuniões; 16.7.2. Matriz de Responsabilidade; 16.7.3. Relatório de Status; 16.7.4. Plano de Iteração; 16.7.5. Log de Ocorrências; 16.7.6. Risco dos Projetos; 16.7.7. Solicitação, Análise e controle de Mudanças; 16.7.8. Contagem de Pontos de Função; 16.7.9. Termo de Entrega; 16.7.10. Termo de Homologação; 16.7.11. Termo de Aceite Final; e 16.7.12. Cronograma de execução das demandas, que deve:
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 18 Versão: 12/11/2009 14:02
+
+16.7.12.1. Conter como marcos, no mínimo, os finais das fases e das iterações e entregas de artefatos para validação; e 16.7.12.2. Ter prazo de execução compatível ao definido pelo item 8 do Anexo II deste edital. 16.8. Realizar reuniões de ponto de controle entre a Contratada e o Tribunal, nas dependências deste, destinadas ao acompanhamento da execução dos serviços, observando o seguinte: 16.8.1. Periodicidade semanal; 16.8.2. Presença obrigatória do gerente de projetos indicado pela Contratada e o responsável técnico do Tribunal; 16.8.3. Presença de quaisquer dos demais profissionais da Contratada, caso solicitado pela Contratada ou pelo Tribunal; 16.8.4. Serão objetos de deliberação, entre outros: 16.8.4.1. 16.8.4.2. 16.8.4.3. 16.8.4.4. Cronograma de execução das demandas; Relatório de Status; Riscos dos projetos; e Log de Ocorrências.
+
+16.8.5. Elaborar e entregar todos os artefatos relacionados na tabela constante do Anexo VI deste edital. 16.9. Prestar garantia aos produtos e serviços fornecidos, pelo período de, no mínimo, 90 (noventa) dias a contar da data do recebimento definitivo dos produtos ou serviços. 16.9.1. Os serviços de garantia serão solicitados por meio de chamado efetuado pela Secretaria de Tecnologia da Informação do Tribunal e encaminhado à Contratada preferencialmente por e-mail, em que conste, entre outros: 16.9.1.1. 16.9.1.2. Descrição do problema evidenciado; Criticidade do chamado.
+
+16.9.2. O prazo do atendimento dos chamados deverá seguir o Acordo de Nível de Serviço, conforme Anexo III deste Edital. 16.10. Encaminhar, quando do término da Ordem de Serviço, minudente e circunstanciado relatório, acompanhado da respectiva fatura, relacionando: 16.10.1. Identificação dos produtos concluídos, ou seja, aqueles entregues e aprovados pelo gerente técnico do TST; 16.10.2. Contagem de Pontos de Função Detalhada, realizada de acordo com o Anexo II, aprovada por gerente técnico do TST.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 19 Versão: 12/11/2009 14:02
+
+16.11.
+
+Entregar todos os documentos relacionados no item 16.7 e seus respectivos subitens; e os artefatos especificados no Anexo VI deste Edital, não havendo pagamento em caso de entrega parcial até que ocorra o adimplemento total da obrigação. 16.11.1. Caso o serviço seja cancelado, o TST pagará pelas fases efetivamente concluídas, considerando o percentual descrito no Anexo VI para cada fase.
+
+16.12.
+
+Responder por quaisquer danos causados diretamente aos equipamentos, softwares, informações e a outros bens de propriedade do Tribunal, quando esses tenham sido ocasionados por seus técnicos durante a prestação dos serviços objeto desta contratação.
+
+16.13.
+
+Responder, integralmente, por perdas e danos que vier a causar diretamente ao TST ou a terceiros em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, independentemente de outras cominações contratuais ou legais a que estiver sujeita.
+
+16.14.
+
+Responder pelas despesas relativas a encargos trabalhistas, de seguro de acidentes, impostos, contribuições previdenciárias e quaisquer outras que forem devidas e referentes aos serviços executados por seus empregados, os quais não têm nenhum vínculo empregatício com o TST.
+
+16.15.
+
+A Contratada não será responsável: 16.15.1. 16.15.2. Por qualquer perda ou dano resultante de caso fortuito ou força maior; Por quaisquer obrigações, responsabilidades, trabalhos ou serviços não previstos neste edital.
+
+16.16.
+
+TST não aceitará, sob nenhum pretexto, a transferência de responsabilidade da Contratada para terceiros, sejam fabricantes, representantes ou quaisquer outros.
+
+17. Obrigações do TST
+17.1 O TST, após a retirada da nota de empenho, compromete-se a: 17.1.1 Proporcionar todas as facilidades indispensáveis à boa execução das obrigações contratuais, inclusive permitir o acesso dos funcionários da Contratada às dependências do TST; 17.1.2 17.1.3 Promover os pagamentos dentro do prazo estipulado; Fornecer atestados de capacidade técnica quando solicitado, desde que atendidas as obrigações contratuais; 17.1.4 Permitir o acesso dos profissionais da Contratada, devidamente
+
+credenciados, às dependências do Tribunal, bem como o acesso a dados e
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 20 Versão: 12/11/2009 14:02
+
+informações necessários ao desempenho das atividades previstas nesta contratação, ressalvados os casos de matéria sigilosa; 17.1.5 Prestar as informações e os esclarecimentos atinentes ao objeto, que venham a ser solicitados pelos profissionais da Contratada; 17.1.6 Fornecer informações e modelos de dados dos sistemas existentes no TST com os quais os sistemas a serem desenvolvidos deverão se integrar; 17.1.7 Designar servidor para gerenciar operacionalmente as atividades e as tarefas relativas à execução do contrato.
+
+18. Alterações na Ata de Registro de Preços
+18.1. A Ata de Registro de Preços poderá sofrer alterações, obedecidas as disposições contidas no artigo 65 da Lei n.º 8.666/93. 18.1.1. O preço registrado poderá ser revisto em decorrência de eventual redução daqueles praticados no mercado, ou de fato que eleve o custo dos serviços ou bens registrados, e caberá ao TST promover as necessárias negociações com os fornecedores. 18.1.2. Se o preço inicialmente registrado, por motivo superveniente, tornar-se superior ao preço praticado no mercado, o TST deverá: 18.1.2.1. Convocar o fornecedor para negociar a redução de preços e sua adequação ao praticado pelo mercado, e, se frustrada a negociação, assumido; e 18.1.2.2. Convocar os demais fornecedores com igual oportunidade de negociação. 18.1.3. Quando o preço de mercado tornar-se superior aos preços registrados e o fornecedor, mediante requerimento devidamente comprovado, não puder manter o compromisso, o TST poderá: 18.1.3.1. Liberar o fornecedor do compromisso assumido sem aplicação da penalidade, desde que a comunicação ocorra antes do pedido de fornecimento, após confirmar a veracidade dos motivos e comprovantes apresentados; e 18.1.3.2. Convocar os demais fornecedores com igual oportunidade de negociação. 18.1.4. Se as negociações restarem sem êxito, o TST deverá proceder à revogação da Ata de Registro de Preços pela adoção de medidas cabíveis para obtenção de contrato mais vantajoso.
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+o
+
+fornecedor
+
+será
+
+liberado
+
+do
+
+compromisso
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 21 Versão: 12/11/2009 14:02
+
+19. Cancelamento do Registro de Preços
+19.1. O Fornecedor terá seu registro cancelado quando: 19.1.1. Descumprir as condições da Ata de Registro de Preços; 19.1.2. Deixar de retirar a respectiva Ordem de Serviço, nota de empenho ou instrumento equivalente, no prazo estabelecido pela Administração, sem justificativa aceitável; 19.1.3. Recusar-se a reduzir o preço registrado, na hipótese de esse se tornar superior ao de mercado; e 19.1.4. Existirem razões de interesse público. 19.2. O cancelamento de registro nas hipóteses previstas, assegurados o contraditório e a ampla defesa, será formalizado por despacho da autoridade competente do órgão gerenciador. 19.3. O fornecedor poderá, com antecedência de sessenta dias, solicitar o cancelamento do seu registro de preços, na ocorrência de fato superveniente que venha a comprometer a perfeita execução contratual, decorrente de caso fortuito ou de força maior devidamente comprovado.
+
+20. Sanções para o Caso de Inadimplemento
+20.1. No caso de atraso injustificado ou inexecução total ou parcial do compromisso assumido com o TST, as sanções administrativas aplicadas à Contratada serão: 20.1.1. Advertência; 20.1.2. Multa; 20.1.3. Suspensão temporária de participar de licitações e impedimento de contratar com o Tribunal Superior do Trabalho; 20.1.4. Declaração de inidoneidade para licitar ou contratar com a Administração Pública. 20.2. O atraso injustificado na execução contratual, exceto os estabelecidos para o Acordo de Nível de Serviços, implicará multa correspondente a 1% (um por cento) por dia de atraso, calculado sobre o valor do objeto em atraso, até o limite de 30% (trinta por cento) do respectivo valor total. 20.2.1. Nesta hipótese, o atraso injustificado por período superior a trinta dias caracterizará o descumprimento total da obrigação, punível com as sanções previstas nos subitens 20.1.3 e 20.1.4 deste edital, como também a inexecução total do contrato.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 22 Versão: 12/11/2009 14:02
+
+20.3. O descumprimento do prazo de retirada da nota de empenho ou a recusa em aceitá-la bem assim no prazo de apresentação da garantia contratual ou a recusa em apresentá-la implicará a aplicação de multa equivalente a 20% (vinte por cento) do valor total empenhado e do impedimento para contratar com o TST por período de até cinco anos. 20.4. As multas a que se referem os itens acima serão descontadas dos pagamentos devidos pelo TST ou cobradas diretamente da empresa, amigável ou judicialmente, e poderão ser aplicadas cumulativamente com as demais sanções previstas neste tópico. 20.5. Aquele que, convocado no prazo de validade da sua proposta, deixar de entregar ou apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução do seu objeto, não mantiver a proposta, falhar ou fraudar a execução do contrato, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União, e será descredenciado do SICAF, pelo prazo de até cinco anos, sem prejuízo das multas previstas neste edital e no contrato e das demais cominações legais, conforme disposto no artigo 28 do Decreto 5.450/05. 20.6. As penalidades serão obrigatoriamente registradas no SICAF e sua aplicação deverá ser precedida da concessão da oportunidade de ampla defesa para o adjudicatário, na forma da lei. 20.7. Os prazos de adimplemento das obrigações contratadas admitem prorrogação nos casos e condições especificados no § 1º do art. 57 da Lei 8.666/93, e a solicitação dilatória, deverá ser recebida contemporaneamente ao fato que a ensejar, considerados injustificados os atrasos não precedidos da competente prorrogação. 20.7.1. A solicitação de prorrogação formal, fundamentada e instruída com os documentos necessários à comprovação das alegações, deverá ser encaminhada com antecedência mínima de um dia do vencimento do prazo.
+
+21. Generalidades
+21.1. O CNPJ do TST é 00.509.968/0001-48 e a UASG é 80001. 21.2. Esta licitação poderá ser revogada total ou parcialmente, sem que caiba indenização aos licitantes em conseqüência do ato, nos termos do art. 29 do Decreto 5.450/2005. 21.3. No curso do contrato, é admitida a fusão, cisão ou incorporação da empresa, bem assim sua alteração social, modificação da finalidade ou da estrutura, desde que não prejudique a execução do contrato, cabendo à Administração decidir pelo prosseguimento ou rescisão do contrato.
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 23 Versão: 12/11/2009 14:02
+
+21.4. Em caso de discrepância entre os anexos e o Edital, prevalecerá a redação do instrumento convocatório. 21.5. Quaisquer outros elementos necessários ao perfeito entendimento deste edital poderão ser obtidos na Coordenadoria de Licitações e Contratos, exclusivamente pelo endereço eletrônico cpl@tst.jus.br. 21.6. Esta licitação poderá ser acompanhada pelos portais www.tst.jus.br e
+
+www.comprasnet.gov.br, onde são divulgados os prazos, consultas e demais informações do certame.
+
+RAMON GONTIJO ADAME Supervisor da Seção de Acompanhamento e Apoio aos Procedimentos Licitatórios 2009.11.12 14:23:32 -02'00'
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 24 Versão: 12/11/2009 14:02
+
+ATA DE REGISTRO DE PREÇOS PE-124/2009
+No dia __ de __________ de 2009, no Tribunal Superior do Trabalho, registra-se o preço da empresa abaixo identificada para futuras prestações de serviços de desenvolvimento de sistemas em Java/JEE, relacionados à evolução tecnológica dos sistemas do Tribunal Superior do Trabalho e desenvolvimento e manutenção de sistemas nacionais do Conselho Superior da Justiça do Trabalho, conforme descrito no quadro abaixo, resultante do Pregão Eletrônico n.º 124/2009. As especificações técnicas constantes do processo administrativo TST 503.927/2009-5, bem assim os termos da proposta, integram esta Ata de Registro de Preços, independentemente de transcrição. Este registro de preços tem a vigência de um ano, até __ de ___________de 2010. Preço Unitário Registrado
+
+Item
+
+Especificação
+
+Unidade
+
+Quantidade para registro
+
+1
+
+Pontos de Função para o desenvolvimento de sistemas de apoio à atividade administrativa e judiciária do TST e Unidade desenvolvimento e manutenção de sistemas nacionais sob responsabilidade do CSJT
+
+15.000
+
+Empresa vencedora: CNPJ: Endereço: CEP: Telefone: (..) Fax: (..) Email:
+
+José Tadeu Tavernard Lima Secretário de Administração, Orçamento e Finanças Jumara Cristina Cerqueira Borges Coordenadora de Licitações e Contratos Tribunal Superior do Trabalho
+
+Nome Cargo Empresa
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 25 Versão: 12/11/2009 14:02
+
+ANEXO I DESCRIÇÃO DOS SERVIÇOS
+1. DO OBJETO
+de desenvolvimento de sistemas em Java/JEE, relacionados à evolução tecnológica dos Sistemas do Tribunal Superior do Trabalho e desenvolvimento e manutenção de sistemas nacionais do Conselho Superior da Justiça do Trabalho. 1.1. Constitui objeto da presente licitação o Registro de Preços para prestação de serviços
+
+2.
+
+DA MEDIÇÃO DO TAMANHO DAS DEMANDAS
+Função, de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.2.1, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org).
+
+2.1. Os serviços realizados serão medidos utilizando-se a técnica de Análise de Pontos de
+
+2.2. O TST adotará a técnica definida pela NESMA (Netherlands Software Metrics Users Association) para a realização de contagens por tipo indicativa e estimada. 2.3. O TST adotará as adaptações do Anexo II para realizar todas as contagens de pontos de função. 2.4. A utilização de novas versões do Manual (CPM) ficará a critério do TST, que mediante comunicação prévia, estipulará um prazo apropriado para adequação da
+
+CONTRATADA. 2.5. O TST adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste, em todas as contagens. 2.5.1. Mesmo no caso de ser utilizada uma nova versão do Manual, o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um). 2.6. O TST irá fazer a contagem de pontos de função indicativa de um sistema para abrir uma Ordem de Serviço. 2.7. Ao final das fases, as contagens de pontos de função serão feitas da seguinte forma, para fins de desembolso financeiro: 2.7.1. Ao final da Transição, a CONTRATADA deverá fazer uma contagem de pontos de função detalhada do sistema entregue; 2.8. O TST analisará as contagens realizadas pela CONTRATADA e deverá aprová-las. 2.9. Qualquer serviço que implique em aumento do número de pontos de função contratados deverá ser previa e expressamente aprovado pelo TST. 2.10. No caso de existir divergência por parte da CONTRATADA ou do TST quanto às contagens, as partes deverão encaminhar pedido de revisão;
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 26 Versão: 12/11/2009 14:02
+
+2.10.1. A CONTRATADA deverá indicar profissional do seu quadro com certificação atualizada Certified Function Point Specialist (CFPS), para realizar, juntamente com profissional indicado pelo TST, de mesmo perfil, a revisão das contagens e elaborarem proposta final para a solução do impasse. 2.10.2. A existência de divergências quanto às contagens não autoriza à CONTRATADA a onerar os prazos ou o nível de atendimento previsto para o desenvolvimento dos sistemas contratados.
+
+3.
+
+ARQUITETURA DO SISTEMA
+(Java/JEE), observado ainda o seguinte: 3.1.1. Camada de apresentação: 3.1.1.1. Acesso à aplicação por meio de um cliente browser Microsoft Internet Explorer e Firefox, podendo utilizar tecnologia Java Script ou Ajax; 3.1.1.2. A interface do sistema com o usuário deverá atender às recomendações de acessibilidade de conteúdo WEB estabelecidas pelo World Wide Web Consortium (W3C); 3.1.1.3. Servidor de Aplicações RedHat JBoss Enterprise Application Plataform 3.1.1.4. Framework: JSF, RichFaces, xhtml, JBoss Seam 3.1.2. Camada de regras de negócio: 3.1.2.1. Servidor de Aplicações RedHat JBoss Enterprise Application Plataform 3.1.2.2. EJB 3.0, JBoss Seam, Webservice 3.1.3. Camada de persistência: 3.1.3.1. Framework Hibernate; 3.1.3.2. Banco de Dados: Oracle;
+
+3.1. Os sistemas deverão ser desenvolvidos conforme o modelo de 3 (três) camadas
+
+3.2. Os sistemas poderão ter partes de suas funções desenvolvidas como rotinas batch quando necessário. 3.2.1. 3.2.2. Neste caso não há camada de apresentação; As camadas de negócio e de persistência deverão ser desenvolvidas em Java/JEE conforme especificado em 3.1.2 e 3.1.3.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 27 Versão: 12/11/2009 14:02
+
+3.3. Os sistemas poderão ser divididos em componentes, utilizando a tecnologia EJB 3.0, de forma a encapsular regras de negócio de um sistema externo, subsistema ou módulo. 3.3.1. As camadas de negócio e de persistência deverão ser desenvolvidas em Java/JEE conforme especificado em 3.1.2 e 3.1.3. 3.3.2. O TST poderá solicitar que partes do sistema sejam desenvolvidas como componentes EJB 3.0. 3.4. O Sistema operacional dos servidores do TST é o Linux Red Hat. 3.5. A arquitetura deverá estar aderente aos padrões definidos pelo TST.
+
+4. DAS CARACTERÍSTICAS DO AMBIENTE COMPUTACIONAL
+4.1. Microcomputadores padrão IBM-PC e periféricos; 4.2. Computadores na Plataforma Intel; 4.3. Subsistema de armazenamento IBM DS4400; 4.4. Subsistema de backup IBM Tape Library 3484; 4.5. Sistema operacional das estações de trabalho MICROSOFT WINDOWS 2000 e XP; 4.6. Sistema operacional dos computadores servidores LINUX REDHAT 4.3 ou superior; 4.7. Servidor de aplicações JEE RedHat JBoss Enterprise Application Plataform 4.3 ou superior 4.8. Sistema gerenciador de banco de dados ORACLE 10g. 4.9. Outros: 4.9.1. 4.9.2. 4.9.3. 4.9.4. 4.9.5. 4.9.6. 4.9.7. 4.9.8. 4.9.9. APACHE versão 1.3.27 e superiores; OPENLDAP; OPENSSH; POSTFIX versão 2.0.6 e superiores (IMAP/SMTP); SAMBA; SQUID; ENTERPRISE ARCHITECT CORPORATE EDITION 7.1; Sybase PowerDesigner 15; Eclipse Ganymede ou superior;
+
+4.9.10. Checkstyle, PMD; 4.9.11. Mantis; 4.9.12. Maven.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 28 Versão: 12/11/2009 14:02
+
+5.
+
+DAS FERRAMENTAS PARA GERAÇÃO DE CADA ARTEFATO
+usada para a geração de cada artefato.
+
+5.1. O TST irá definir, antes do início dos serviços, qual ferramenta de software deverá ser
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 29 Versão: 12/11/2009 14:02
+
+ANEXO II ADAPTAÇÕES DA ANÁLISE DE PONTOS DE FUNÇÃO (APF)
+1. Conceitos
+seja, serão enviados sistemas inteiros para serem desenvolvidos. Entretanto, evoluções dos sistemas e alterações decorrentes de necessidades de negócio poderão ocorrer durante o período de desenvolvimento. Estas duas últimas situações serão tratadas como manutenção adaptativa. 1.2. Cada demanda poderá ser medida obedecendo a regras diferenciadas, determinadas neste anexo. Desta forma, uma demanda poderá ser composta por funções de dados ou transações (itens mensuráveis por pontos de função), por itens não mensuráveis por pontos de função ou por ambos. 1.1. As demandas enviadas para a Contratada terão o tamanho de um projeto, ou
+
+2.
+
+Método Oficial
+método oficial para estimar e apurar o tamanho das demandas recebidas e produzidas, exceto em situações que não podem ser medidas através deste método. A APF foi a técnica escolhida devido aos seguintes fatores: 2.1.1. 2.1.2. 2.1.3. É o método mais utilizado no mercado brasileiro; É o método melhor documentado; É suportado por uma instituição (IFPUG) com credibilidade reconhecida mundialmente.
+
+2.1. A Contratada deverá adotar a Análise de Pontos de Função (APF) como o
+
+2.2. O CPM (Manual de Práticas de Contagem, na sigla em Inglês) versão 4.2.1, mantido pelo IFPUG (International Function Point Users Group), será o documento oficial e único de referência das regras de APF para a medição do tamanho das demandas. 2.3. Caso o IFPUG divulgue novas versões do CPM, deverá haver negociação entre o TST e a contratada para avaliar o impacto no contrato vigente, decidir sobre sua aplicabilidade e implementar os necessários ajustes no contrato. Havendo acordo entre as partes, a nova versão passará a ser utilizada para a métrica das demandas enviadas à Contratada. Caso contrário, a versão 4.2.1 continuará vigente.
+
+3.
+
+Fator de Ajuste
+
+3.1. Será aplicado fator de ajuste igual a 1 (um) em todas as demandas.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 30 Versão: 12/11/2009 14:02
+
+4.
+
+Itens de Demandas não Mensuráveis por Pontos de Função
+Função terão seus tamanhos estimados e apurados através de fórmulas definidas neste anexo.
+
+4.1. Os itens de uma demanda que não puderem ser dimensionados em Pontos de
+
+5.
+
+Fatores Redutores de Tipo de Manutenção
+pontos de função, será aplicado um fator redutor de tipo de manutenção para o cálculo do seu tamanho em pontos função. Este fator irá variar em decorrência do tipo de manutenção: inclusão de funcionalidades, alteração de
+
+5.1. Aos itens de demanda referentes a manutenções adaptativas, mensuráveis por
+
+funcionalidades ou exclusão de funcionalidades. 5.2. Para manutenções adaptativas, as regras de APF serão seguidas para a apuração do tamanho da demanda, antes da aplicação do fator redutor de tipo de manutenção. Aplicativo Desenvolvido contratada Tipo Manutenção pela Inclusão de aplicativo novas funcionalidades Fator no FR = 1 FR = 0,5 FR = 0,25
+
+Alteração de funcionalidades já existentes Exclusão de funcionalidades já existentes
+
+5.3. Aos itens de demandas não mensuráveis por PF não será aplicado o fator redutor de tipo de manutenção, pois o total de pontos de função será calculado a partir de fórmulas definidas neste anexo.
+
+6.
+
+Tabela de Itens de Demandas Não Mensuráveis por PF
+itens de demandas não mensuráveis por pontos de função. Os exemplos são ilustrativos e estão baseados em um sistema fictício de administração escolar.
+
+6.1. A tabela a seguir será utilizada como insumo para a apuração do tamanho de
+
+No
+
+Tipo de Demanda Não Mensurável
+
+Exemplo
+
+Fórmul a
+
+Unidade de Medida Tela (**) ou Relatório
+
+1
+
+Inclusão, Alteração ou Alterar o Título do 0,1 PF Exclusão de cabeçalhos ou Relatório "Listagem de títulos ou qualquer outro tipo de Estudantes" para literal em telas e relatórios. "Listagem de Alunos"
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 31 Versão: 12/11/2009 14:02
+
+2
+
+Mudança da posição de Centralizar o campo 0,2 PF campos em telas, relatórios ou Matrícula do Aluno na Tela arquivos; SEM alteração em de Consulta de Alunos elementos de dados, arquivos referenciados, informação de controle ou lógica de processamento. Mudança na parte visual de Incluir marca d'água com o 0,1 PF telas e relatórios, SEM logo da escola em todas alteração de funcionalidade. as telas do Sistema de Administração Escolar População de tabelas com novos dados fornecidos pelo Cliente, SEM a necessidade de utilizar funcionalidade específica para isto. Ou seja; incluir, alterar ou excluir dados diretamente em tabelas. Incluir 3 novos registros na 0,2 PF Tabela de Séries (a escola só contemplava as séries do primeiro grau e passou a contemplar o 1º, 2º e 3º anos do segundo grau). Alterar o nome da professora "Maria" para "Ana Maria" em todas as turmas em que ela leciona (tabela de Turmas)
+Dividir a Tela de Consulta de Alunos em duas: uma com os dados do aluno e outra com as notas (nenhum campo será adicionado, alterado ou excluído; nem haverá alteração na lógica de processamento ou mudança nos arquivos lógicos referenciados) Alterar a mensagem "Inclua as informações do aluno" para " Informe os dados do aluno" 2 PF
+
+Tela ou Relatório ou Arquivo
+
+3
+
+Tela ou Relatório
+
+Tabela
+
+4
+
+5
+
+Divisão de uma tela ou relatório em vários e vice-versa, SEM mudança em funcionalidade.
+
+Tela ou Relatório
+
+Alteração do texto de mensagens. 6
+
+0,1 PF
+
+7
+
+Adição ou reestruturação de menus de navegação estáticos.
+
+8
+
+Criação, alteração ou exclusão de páginas estáticas.
+
+Na tela de Consulta de Alunos, adicionar um link para a tela de Consulta de Notas Ao inicializar o Sistema de Administração Escolar, exibir uma página com o texto a seguir... (Não existe funcionalidade, apenas texto)
+
+0,1 PF
+
+Mensagem # independen te de quantas vezes essa mensagem aparecer item de menu/nave gação Tela
+
+1 PF
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 32 Versão: 12/11/2009 14:02 Alteração da lista de resultados exibidos em tela ou relatório, através de modificação do valor do parâmetro existente, SEM alteração de lógica Alterar o filtro de pesquisa de alunos em recuperação. Ao invés de recuperar alunos com nota < 7 ; deverá recuperar alunos com nota < 6,5 . Na tela de inclusão de aluno, alterar os dados da combo box de idade do aluno. Os valores fixos (hard code) de idade devem variar de 3 a 17 anos, ao invés de 2 a 15 anos. Executar o aplicativo que gera listagem de alunos com baixo desempenho no período compreendido entre 1º de Março a 1º de Junho. OBS: por determinação do usuário, esta funcionalidade não faz parte do Sistema de Administração Escolar. Toda vez que o usuário necessita desta informação, solicita que a mesma seja executada, passando o período objeto da pesquisa. 0,5 PF Programa
+
+9
+
+10
+
+Criação de listas suspensas (combo box ou list box); inclusão, alteração ou exclusão de dados nessas listas, desde que esses dados sejam fixos no código (hard code). Não será acessado nenhum arquivo lógico para popular essas listas Execução de aplicações (geração de arquivos, relatórios, consultas Ad-Hoc, etc...) já construídos sob demanda do usuário e Recompilação de código para migração de sistemas
+
+0,3 PF
+
+Lista
+
+1 PF
+
+Execução
+
+11
+
+12
+
+Padronização de nome de campos, variáveis, etc... O objetivo desta 1 padronização é atender a normativos de desenvolvimento de sistemas da empresa
+
+Alterar os nomes de todas as tabelas do sistema para SAETBXXX _YYYYYYYYYYYYYYYYYY YY, onde SAE = Sistema de Administração Escolar, TB = Tabela, XXX = número seqüencial da tabela e YYYYYYYYYYYYYYYYYYY Y = nome da tabela.
+
+0,5 PF
+
+Programa ou Arquivo ou Tabela
+
+13
+
+Dados de Código e funções de manutenção dos mesmos 1 (inclusão, alteração, consulta e exclusão dos dados de código)
+
+Implementar Tabela de séries escolares (código e descrição) e funções para manutenção da mesma (CRUD).
+
+0,30 * tamanho apurado em pontos de função
+
+Dado ou Transação
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 33 Versão: 12/11/2009 14:02
+
+6.2. (*) - Para cada item de demanda não mensurável listado acima, está sendo estabelecida uma regra para mensuração. É importante ressaltar que o esforço atrelado à fórmula definida compreende não só o esforço de implementação da demanda, como a produção de todos os artefatos necessários, de acordo com a metodologia de desenvolvimento de sistemas adotada. 6.3. (**) - Fica definido que tela é cada janela ou página do aplicativo para a realização de um cadastro, exibição de uma consulta, etc... No caso de aplicativos que utilizem recurso de abas ou várias páginas para a inclusão de um único registro de um cadastro ou exibição de consulta, fica estabelecido que caba aba ou página será contada como uma tela. 6.4. A identificação das tabelas de código deverá obedecer às regras descritas no CPM; 6.5. As Funções de Transação que referenciem tabelas de dados de código, nas condições estabelecidas no item 6.1, terão estes dados de código considerados como Arquivos Referenciados. 6.6. Os itens de demandas não mensuráveis por PF, sem fórmula de mensuração definida neste documento, poderão ser negociados à parte.
+
+1.
+
+Cálculo do Tamanho Total de uma Demanda
+1.1.1. O tamanho de uma demanda de um sistema completo é composto pela soma das seguintes parcelas: 1.1.1.1. Fórmula de Projeto de Desenvolvimento (contida no manual do IFPUG), considerando Fator de Ajuste = 1 1.1.1.2. Itens não mensuráveis por PF, tais como tabelas de código e respectivos processos de manutenção
+
+1.1. Demandas de Desenvolvimento de Novos Aplicativos
+
+1.1.1.3.
+
+Sendo: 1.1.1.3.1. TD = Tamanho da Demanda 1.1.1.3.2. UFP = contagem de PF não-ajustados para as funções que serão disponibilizadas depois da instalação
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 34 Versão: 12/11/2009 14:02
+
+1.1.1.3.3. CFP = contagem de PF não-ajustados das funções de conversão 1.1.1.3.4. INMPF = contagem dos Itens não mensuráveis por Ponto de Função, através das fórmulas estabelecidas neste documento 1.2. Exemplo do Cálculo de uma demanda de desenvolvimento de um novo aplicativo 1.2.1. Suponhamos que o TST envie para a Contratada uma demanda de construção do sistema ABC, que possua as seguintes características: 1.2.1.1. O somatório das funções que serão disponibilizadas é 850 PF; 1.2.1.2. 1.2.1.3. O somatório das funções de conversão de dados é 50 PF; A contagem dos itens não mensuráveis por PF, através da aplicação de fórmulas pré-estabelecidas, totaliza 100 PF; 1.2.1.4. O cálculo do tamanho desta demanda (TD) seria:
+
+1.3. Demandas referentes a Manutenções Adaptativas 1.3.1. A Contratada poderá receber demandas de inclusão, alteração ou exclusão de funcionalidades referentes aos aplicativos por ela desenvolvidos. Evoluções dos casos de uso e alterações decorrentes de necessidades de negócio poderão ocorrer durante o período de desenvolvimento ou até o fim do período de garantia do produto. 1.3.2. O tamanho de uma demanda de uma manutenção adaptativa é composto pela soma das seguintes parcelas: 1.3.2.1. Produto de cada tipo de manutenção pelo seu respectivo Fator Redutor (FR) 1.3.2.2. Itens não mensuráveis por PF;
+
+1.3.2.3.
+
+Sendo: 1.3.2.3.1. INC = contagem de pontos de função nãoajustados das funções que foram ou serão incluídas pelo projeto de melhoria 1.3.2.3.2. ALT = contagem de pontos de função nãoajustados das funções que foram ou serão
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 35 Versão: 12/11/2009 14:02
+
+alteradas pelo projeto de melhoria. Este número reflete o tamanho das funções depois da
+
+modificação. 1.3.2.3.3. EXC = contagem de pontos de função nãoajustados das funções que foram ou serão excluídas pelo projeto de melhoria. 1.3.2.3.4. INMPF = contagem dos Itens não mensuráveis por Ponto de Função, através das fórmulas estabelecidas neste documento. 1.4. Exemplo do Cálculo de uma Demanda Adaptativa 1.4.1. Suponhamos que o TST envie para a Contratada uma demanda para adequação a novas necessidades de negócio, referente ao sistema ABC, desenvolvido pela Contratada. Entre essas adequações, temos: 1.4.1.1. 1.4.1.2. 30 PF referentes a funções incluídas; 40 PF referentes a funções alteradas (valor após a manutenção); 1.4.1.3. 1.4.1.4. 8 PF referentes a funções excluídas; 2 PF referentes a itens não mensuráveis por PF (calculados através de fórmulas estabelecidas neste documento). 1.4.1.5. O cálculo do tamanho desta demanda seria:
+
+1.5. Demandas referentes a Manutenções Corretivas 1.5.1. As demandas de manutenções corretivas serão executadas sem ônus algum para o TST, durante o período de desenvolvimento do sistema e durante o período da garantia.
+
+2.
+
+Prazo das Demandas
+2.1.1. O prazo de uma demanda é o tempo que a Contratada necessita para executar o ciclo completo de desenvolvimento, produzindo todos os artefatos estabelecidos pela metodologia.
+
+2.1. Definições Gerais
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 36 Versão: 12/11/2009 14:02
+
+2.1.2.
+
+A fórmula de Capers Jones que será aplicada para o cálculo do prazo de demandas de novos desenvolvimentos e de manutenções adaptativas é: TO (em meses) = TD 0,36
+
+2.1.3.
+
+onde, 8.1.3.1. TD é o tamanho da demanda em pontos de função e; 8.1.3.2. TO é o tempo ótimo em meses.
+
+2.1.4.
+
+O Tempo Ótimo (TO) deve ser utilizado pela contratada como limite para execução dos serviços e os cronogramas apresentados devem respeitar este limite.
+
+2.2. Manutenções Corretivas 2.2.1. O prazo para a realização das manutenções corretivas enviadas para a Contratada será estabelecido sempre por um ou mais Acordos de Nível de Serviço. 2.3. Caso o prazo de execução proposto pela Contratada não atenda as necessidades do TST, novos prazos deverão ser apresentados. 2.4. A Contratada poderá solicitar, ainda, prorrogação do prazo, quando justificada e comprovada a necessidade, em função de complexidade da solução a ser desenvolvida, ficando a critério do TST, aceitar ou não as justificativas da prorrogação do prazo apresentadas pela Contratada. 2.4.1. A prorrogação do prazo deve ser solicitada com, no mínimo, 12 dias úteis antes do término do prazo. 2.4.2. A solicitação de prorrogação de prazo não justifica a suspensão do atendimento pela Contratada e, durante o julgamento da solicitação pelo TST, ficam mantidas as condições estipuladas para o serviço. 2.4.3. O prazo prorrogado não deverá ultrapassar o TO (Tempo Ótimo) para um serviço ou projeto contratado.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 37 Versão: 12/11/2009 14:02
+
+ANEXO III ­ ACORDO DE NÍVEL DE SERVIÇO
+1. Definição
+com o objetivo de estabelecer compromissos que devem ser cumpridos pelas partes, a fim de garantir o prazo, a qualidade e as condições comerciais dos serviços, além da satisfação final do Cliente.
+
+1.1. São acordos formalmente definidos entre um fornecedor de serviços e o Cliente,
+
+2.
+
+Definições de Nível de Serviço para Prazos
+Contratada.
+
+2.1. As tabelas abaixo definem os prazos aceitáveis para execução de serviços pela
+
+2.2. Tabela de Prazo de Manutenções Corretivas durante o período de garantia: Categoria do Serviço Criticidade Tipo de Ocorrência Prazo para execução do serviço (em horas)
+
+Manutenção Alta Corretiva (No período de garantia) Média Baixa 2.2.1.
+
+Interrupção do Processo Produtivo ou comportamento 4 inadequado do sistema 7 14
+
+Será considerado o horário de 07h00min as 19h00min para o cálculo dos prazos de execução. 2.2.1.1. Dessa forma uma manutenção corretiva com criticidade Alta identificada e comunicada à contratada às 18h00min do dia 1, deverá ser solucionada até 10h00min do dia 2, ou seja, 4 horas de prazo. 2.2.1.2. A manutenção corretiva será considerada concluída quando a instalação da aplicação em produção for concluída e o problema tiver sido resolvido.
+
+2.2.2.
+
+Uma manutenção corretiva será classificada como: 2.2.2.1. Alta caso o problema que a motivou interromper o processo de trabalho. 2.2.2.2. Média caso o problema que a motivou interromper o processo de trabalho, mas for possível outra solução temporária para o problema. 2.2.2.3. Baixa caso o problema que a motivou não interrompa o processo de trabalho.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 38 Versão: 12/11/2009 14:02
+
+2.3. Tabela de Prazos de Atendimento de Serviços para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa: 2.3.1. O conteúdo de cada entrega está estabelecido nas Obrigações da Contratada. Fase Entrega Tipo de Serviço Prazo para Execução do Serviço Definido por cronograma do gerente 2 dias úteis Definido por cronograma do gerente 1 dia útil para cada caso de uso da iteração Definido por cronograma do gerente 2 dias úteis Definido por cronograma do gerente 2 dias úteis para cada caso de uso da iteração 1 dia útil para cada caso de uso da iteração 1 dia útil para cada caso de uso da iteração Definido por cronograma do gerente 2 dias úteis
+
+Concepção
+
+1ª
+
+Entrega dos Artefatos Correção dos artefatos Entrega dos Artefatos
+
+1ª (Requisitos / Análise)
+
+Correção dos artefatos
+
+Elaboração 2ª (Projeto)
+
+Entrega dos Artefatos Correção dos artefatos Entrega dos Artefatos
+
+3ª (Implementação / Testes / Implantação)
+Construção
+
+Correção dos artefatos
+
+1ª de uma Iteração (Requisitos / Análise)
+
+Verificação e Validação
+
+Correção dos artefatos
+
+2ª de uma Iteração (Projeto)
+
+Entrega dos Artefatos Correção dos artefatos
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 39 Versão: 12/11/2009 14:02
+
+3ª de Iteração
+
+uma Entrega dos Artefatos
+
+(Implementação / Testes / Implantação)
+
+Definido por cronograma do gerente
+
+Correção dos artefatos Transição 1ª Entrega dos Artefatos Correção dos artefatos
+
+2 dias úteis para cada caso de uso da iteração Definido por cronograma do gerente 5 dias úteis
+
+2.4. Tabela de Prazos de Atendimento de Serviços referentes aos artefatos do Gerente de Projeto Artefato Atas de Reunião Tipo de Ocorrência Entrega da ata após a reunião Correção Prazo para Execução do Serviço (em dias úteis) 1 1
+
+2.5. O prazo máximo de intervalo entre duas fases ou entre duas iterações de uma mesma fase deve ser de no máximo dois dias úteis após o aceite formal da fase ou iteração anterior.
+
+3.
+
+Definições de Níveis de Serviços para Número de Defeitos Encontrados
+
+3.1. O índice de defeitos (ID) será calculado conforme fórmula abaixo:
+
+3.3. Onde, 3.3.1. 3.3.2. 3.3.3. 3.3.4. 3.3.5. ID ­ Índice de Defeitos; N ­ Número de Defeitos; Ri ­ Número de Reincidências do erro i; TD ­ Tamanho da Demanda em Pontos de Função; PE ­ Percentual de Esforço com tabela do item 3.4.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 40 Versão: 12/11/2009 14:02
+
+3.4. O Percentual de Esforço deve seguir a tabela abaixo: Fase Concepção Entrega 1ª Percentual de Esforço (PE) 0,03
+
+1ª (Requisitos / Análise) Elaboração 2ª (Projeto) 3ª (Implementação / Testes / Implantação)
+
+0,13
+
+0,10 0,09
+
+1ª de uma Iteração (Requisitos / Análise)
+
+0,10 x (NCUi/NCUt)
+
+Construção
+
+2ª de uma Iteração (Projeto) 3ª de uma Iteração (Implementação / Testes / Implantação)
+
+0,05 x (NCUi/NCUt)
+
+0,46 x (NCUi/NCUt)
+
+Transição 3.4.1.
+
+1ª
+
+0,04
+
+Sendo que NCUi é o Número de Casos de Uso da Iteração e NCUt é o Número de Casos de Uso totais do sistema.
+
+3.5. O índice aceitável de defeitos será calculado para cada entrega da contratada. 3.5.1. Por exemplo, na concepção será calculado um ID para a entrega principal da concepção. Caso sejam encontrados defeitos, a contratada deverá corrigi-los e fazer uma nova entrega dos artefatos corrigidos. Neste momento será calculado novo ID e assim sucessivamente até que todos os defeitos tenham sido corrigidos.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 41 Versão: 12/11/2009 14:02
+
+4.
+
+Acordos de Níveis de Serviço
+
+Prazos de Atendimento de Serviços para Manutenções Corretivas Nº 01 - Prazo de atendimento de Serviços para Manutenções Corretivas no período de garantia Item Finalidade Meta a cumprir Instrumento de medição Forma acompanhamento Periodicidade Mecanismo de Cálculo Descrição Garantir o funcionamento dos sistemas em produção no período de garantia Manter a disponibilidade dos sistemas desenvolvidos pela fábrica em produção Análise das ocorrências.
+
+de Fiscalização contratual Ao final do período de garantia de cada Ordem de Serviço. Considerar os prazos do item 2.2 deste anexo: Somatório das horas de atraso/Somatório de horas de garantia solicitadas = X
+
+Início de Vigência Faixas de pagamento Sanções ajuste
+
+Início do período de garantia da OS. no Não se aplica. 0,1 < X <= 0,2 ­ multa de 10% X > 0,2 - multa de 20% + rescisão contratual
+
+Observações
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 42 Versão: 12/11/2009 14:02
+
+Prazos de Atendimento de Serviços para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa Nº 02 - Prazo de atendimento de Serviços para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa (OS). Item Finalidade Meta a cumprir Instrumento de medição Forma acompanhamento Periodicidade Mecanismo de Cálculo Descrição Garantir entrega no prazo dos serviços desenvolvidos. Entregas dentro dos prazos estabelecidos no Acordo de Nível de Serviço. Análise das ocorrências. de Fiscalização contratual A cada Ordem de Serviço. Por Ordem de Serviço, considerando os prazos do item 2.3 e 2.4 deste anexo: Somatório dos dias de atraso/Previsão de duração da OS = X Início de Vigência Faixas de pagamento ajuste Data do recebimento da Ordem de Serviço. no X até 0,1 ­ 100% do valor da OS De 0,1 a 0,2 ­ 85% do valor da OS De 0,2 em diante ­ 75% do valor da OS Sanções 20% das OS com X acima de 0,2 ­ multa de 10% 30% das OS com X acima de 0,2 ­ multa de 15% + rescisão contratual Observações
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 43 Versão: 12/11/2009 14:02
+
+Índice de Defeitos de Serviços para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa Nº 03 ­ Índice de Defeitos em Artefatos para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa (OS). Item Finalidade Meta a cumprir Instrumento de medição Forma acompanhamento Periodicidade Mecanismo de Cálculo Início de Vigência Faixas de pagamento Sanções ajuste Descrição Garantir a qualidade dos produtos entregues. Entrega dentro dos prazos estabelecidos no Acordo de Nível de Serviço. Análise das ocorrências. de Fiscalização contratual A cada Ordem de Serviço. Por entrega, observada a fórmula do item 3 deste anexo. Data do recebimento da Ordem de Serviço. no Não se aplica. 20% das Entregas com ID acima de 1 ­ multa de 10% da OS 30% das Entregas com ID acima de 1 ­ multa de 20% + rescisão contratual Observações
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 44 Versão: 12/11/2009 14:02
+
+Número de Entregas de Correção para uma Entrega Principal Nº 04 ­ Número de Entregas de Correção para uma Entrega Principal Item Finalidade Meta a cumprir Instrumento de medição Forma acompanhamento Periodicidade Mecanismo de Cálculo Descrição Garantir a entrega dos produtos no prazo. Entrega dentro dos prazos estabelecidos no Acordo de Nível de Serviço. Análise das ocorrências.
+
+de Fiscalização contratual A cada Ordem de Serviço. Por entrega principal. Uma entrega principal é uma entrega definida pela tabela do item 3.4 deste anexo. Número de envios para correção da entrega principal = X
+
+Início de Vigência Faixas de pagamento Sanções ajuste
+
+Data do recebimento da Ordem de Serviço. no Não se aplica. 10% das Entregas Principais com X acima de 2 ­ multa de 2% da OS 20% das Entregas Principais com X acima de 2 ­ multa de 7% da OS 30% das Entregas Principais com X acima de 2 ­ multa de 15% + rescisão contratual
+
+Observações
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 45 Versão: 12/11/2009 14:02
+
+ANEXO IV ­ ORDEM DE SERVIÇOS
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO ORDEM DE SERVIÇOS ................................../2009 Ordem de Serviços de ......................................................... n.º................................../2009 à fornecedora ................................................................................... Processo Administrativo TST n.º ______/____-_ A presente solicitação tem por objeto os serviços de ............................... nas quantidades abaixo especificadas e prazo de execução de ............................ dias corridos: Serviço Quantidade de PF Valor Unitário Valor Total
+
+Serviço
+
+Quantidade PF
+
+de Valor Unitário
+
+Valor Total
+
+Brasília, .......... de ...................... de 2009.
+
+Recebemos em ______/______/2009. ........................................................... Carimbo e assinatura Favor preencher este campo e retornar cópia
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 46 Versão: 12/11/2009 14:02
+
+ANEXO V EQUIPE TÉCNICA
+1 O quantitativo de profissionais mínimo estabelecido cumpre o requisito previsto na Instrução Normativa 2/2008, artigo 15, XIV ao tratar da PRODUTIVIDADE DE REFERÊNCIA. Conforme estabelece a referida Instrução Normativa em seu Anexo I: 1.1 PRODUTIVIDADE é a capacidade de realização de determinado volume de tarefas, em função de uma determinada rotina de execução de serviços, considerando-se os recursos humanos, materiais e tecnológicos
+
+disponibilizados, o nível de qualidade exigido e as condições do local de prestação do serviço; 1.2 É permitido a Contratada, sempre que entender necessário ao cumprimento do Acordo de Nível de Serviço estabelecido, inclusão de profissionais adicionais, desde que respeitados os requisitos de qualificação profissional. 2 Com fundamento no artigo 12, VI e VII da Instrução Normativa 04/2008, a Contratada deverá desenvolver os trabalhos, após o recebimento da Ordem de Serviço, com equipe composta, no mínimo, pelos seguintes profissionais : 2.1 Um gerente de projetos, que executará os serviços de gerenciamento de projetos, para o qual deverá ser comprovada a seguinte qualificação: 2.1.1 Documento, emitido pelo Project Management Institute (PMI), que comprove que o gerente de projetos é certificado como Project Management Professional (PMP); 2.1.2 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o gerente de projetos gerenciado projeto de desenvolvimento de sistema. 2.2 Um Analista de Sistemas, que executará os serviços de análise de requisitos, para o qual deverá ser comprovada a seguinte qualificação. 2.2.1 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o analista de sistemas participado do
+
+desenvolvimento de sistema utilizando a metodologia UP (Unified Process); 2.2.2 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o analista de sistemas participado do
+
+desenvolvimento de sistema orientada a objetos utilizando as especificações da UML (Unified Modeling Language);
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 47 Versão: 12/11/2009 14:02
+
+2.2.3
+
+Diploma de curso superior de Análise de Sistemas, Ciências da Computação, Engenharia da Computação, Informática, Tecnologia de Processamento de Dados ou Sistemas de Informação, oficiais ou reconhecidos.
+
+2.3
+
+Um projetista de sistemas, que executará os serviços de projeto de sistemas, para o qual deverá ser comprovada a seguinte qualificação: 2.3.1 Certificado, emitido pela Sun Microsystems, que comprove que o projetista possui a certificação Sun Certified Enterprise Architect for the Java 2 Platform, Enterprise Edition (JEE); 2.3.2 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o projetista ter participado do desenvolvimento de sistema utilizando a metodologia UP (Unified Process); 2.3.3 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o projetista participado de projeto de sistema orientado a objetos utilizando as especificações da UML (Unified Modeling Language); 2.3.4 Diploma de curso superior de Análise de Sistemas, Ciências da Computação, Engenharia da Computação, Informática, Tecnologia de Processamento de Dados ou Sistemas de Informação, oficiais ou reconhecidos.
+
+2.4
+
+Um analista de testes, que executará os serviços de teste, para o qual deverá ser comprovada a seguinte qualificação: 2.4.1 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o analista participado de testes de sistema utilizando a metodologia UP (Unified Process); 2.4.2 Diploma de curso superior de Análise de Sistemas, Ciências da Computação, Engenharia da Computação, Informática, Tecnologia de Processamento de Dados ou Sistemas de Informação, oficiais ou reconhecidos.
+
+2.5
+
+No
+
+mínimo
+
+dois
+
+desenvolvedores,
+
+que
+
+executarão
+
+os serviços
+
+de
+
+implementação, qualificação: 2.5.1
+
+para os quais deverá
+
+ser comprovada a seguinte
+
+Documento, emitido pela Sun Microsystems, que comprove que o desenvolvedor é certificado como desenvolvedor de componentes
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 48 Versão: 12/11/2009 14:02
+
+Java. Será admitido, neste item, qualquer um dos seguintes certificados: 2.5.1.1 Sun Certified Enterprise Architect for the Java 2 Platform, Enterprise Edition (JEE); 2.5.1.2 Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition (JEE); 2.5.1.3 Sun Certified Business Component Developer for the Java 2 Platform, Enterprise Edition (JEE); 2.5.1.4 Sun Certified Developer for Java Web Services for the Java 2 Platform, Enterprise edition (JEE). 2.5.2 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o desenvolvedor participado do desenvolvimento de sistema utilizando a metodologia UP (Unified Process); 2.5.3 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o desenvolvedor participado do desenvolvimento de sistema utilizando as especificações da UML (Unified Modeling Language); 2.5.4 Atestado de conclusão de pelo menos 50% do curso superior de Análise de Sistemas, Ciências da Computação, Engenharia da Computação, Informática, Tecnologia de Processamento de Dados ou Sistemas de Informação, oficiais ou reconhecidos 3 Os serviços deverão ser prestados pelos profissionais indicados pela Contratada, não sendo admitida a subcontratação do objeto deste Contrato; 3.1 Da substituição eventual dos profissionais: 3.1.1 Será admitida a substituição dos profissionais indicados pela Contratada, mediante prévia aprovação do Contratante, por
+
+substitutos que atendam aos requisitos de qualificação técnica profissional. 3.1.2 Esta substituição não será considerada motivo para modificações de prazos. 3.1.3 A substituição justificada e motivada pelo Contratante deverá ser efetuada no prazo máximo de 2 (duas) semanas, contadas da data da solicitação de substituição.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 49 Versão: 12/11/2009 14:02
+
+ANEXO VI ­ Tabela de Artefatos de software
+Fase Disciplina Modelagem de Negócio Artefato Fluxos de Negócio *
+Regras de Negócio Conceitos de Negócio Processos de Negócio Atendidos pelos Casos de Uso *
+
+Percentual
+
+Concepção Requisitos
+
+Documento de Visão Priorização dos Casos de Uso com o Gestor/ Definição dos casos de uso arquiteturalmente significativos Matrizes de Rastreabilidade: Requisitos x Necessidades, Casos de Uso x Requisitos, Atores x Envolvidos Diagrama de Caso de Uso Atualizado Protótipo de Telas Especificação dos Casos de Uso Especificação de Requisitos de Interface Matriz de Rastreabilidade: Requisitos x Necessidades, Casos de Uso x Requisitos, Atores x Envolvidos atualizadas Diagrama de Classe Diagrama de Atividades Diagrama de Estado * Projeto de Banco de Dados Projeto de Interface Documento de Arquitetura Código Fonte Testes de Unidade Plano de Testes Casos de Testes Resultado da Execução dos Testes Implantação em Homologação Diagrama de Caso de Uso Atualizado
+Protótipo de Telas Especificação dos Casos de Uso Especificação de Requisitos de Interface
+
+3%
+
+Requisitos
+
+Elaboração
+
+Análise
+
+32%
+
+Projeto Implementação Testes Implantação
+
+Requisitos Construção
+
+Diagrama de Classe Análise Projeto Diagrama de Atividades* Diagrama de Estado * Projeto de Banco de Dados Projeto de Interface
+
+61%
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 50 Versão: 12/11/2009 14:02
+
+Implementação
+
+Código Fonte Testes de Unidade Plano de Testes Casos de Testes Resultado da Execução dos Testes Implantação em Homologação Manual de Produção Manual do Usuário Documentação Javadoc Help on-line Sistema Implantado em Produção
+
+Testes Implantação
+
+4%
+
+Transição
+
+Implantação
+
+1
+
+Os itens marcados com asterisco (*) na tabela acima podem ser realizados de acordo com a necessidade de cada projeto ou parte do projeto.
+
+2
+
+Todos os artefatos descritos acima devem ser entregues nos padrões estabelecidos pela metodologia de desenvolvimento de sistemas TST-UP Secretaria de Tecnologia da Informação do TST. e pelas Normas da
+
+3
+
+A Fase de Construção poderá ser dividida em iterações, conforme prioridade dos casos de uso e divisão em módulos dos projetos.
+
+4
+
+Os artefatos elaborados e entregues deverão ser aprovados pela equipe do TST para serem considerados concluídos.
+
+5
+
+O TST poderá solicitar modificações quanto à forma dos artefatos para se adequarem aos padrões da metodologia de desenvolvimento de sistema TST-UP.
+
+6
+
+O TST poderá solicitar modificações quanto ao conteúdo dos artefatos para se adequarem às necessidades dos envolvidos.
+
+7
+
+As entregas dos artefatos devem ser feitas da seguinte forma: 7.1 A Concepção deve ser feita em uma entrega com todos os artefatos previstos para ela; 7.2 A Elaboração deve ser feita em três entregas: 7.2.1 A primeira entrega deve conter todos os artefatos das disciplinas de Requisitos e Análise; 7.2.2 A segunda entrega deve conter todos os artefatos da disciplina de Projeto menos o Documento de Arquitetura; 7.2.3 A terceira entrega deve conter todos os artefatos das disciplinas de Implementação, Testes e Implantação e o Documento de Arquitetura. 7.3 Cada iteração da Construção deve ser feita em três entregas:
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 51 Versão: 12/11/2009 14:02
+
+7.3.1
+
+A primeira entrega deve conter todos os artefatos das disciplinas de Requisitos e Análise;
+
+7.3.2
+
+A segunda entrega deve conter todos os artefatos da disciplina de Projeto;
+
+7.3.3
+
+A terceira entrega deve conter todos os artefatos das disciplinas de Implementação, Testes e Implantação.
+
+8 9
+
+A Transição deve ser feita em uma entrega com todos os artefatos previstos para ela; Os serviços de desenvolvimento dos sistemas serão solicitados por meio de ordem de serviço expedida pela Secretaria de Tecnologia da Informação do Tribunal e encaminhada à Contratada preferencialmente por e-mail, em que conste, entre outros, os seguintes elementos: 9.1 Contagem indicativa ou estimada dos pontos de função de cada sistema.
+
+COORDENADORIA DE LICITAÇÕES E CONTRATOS ­ CLCON/TST Processo n.º 503.927/2009-5 rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho
+
+1
+
+CONTRATO
+
+PE-124/2009
+
+­
+
+PRESTAÇÕES
+
+DE
+
+SERVIÇOS DE DESENVOLVIMENTO DE SISTEMAS EM JAVA/JEE, RELACIONADOS À EVOLUÇÃO TECNOLÓGICA DOS SISTEMAS DO TST E DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS NACIONAIS DO CONSELHO SUPERIOR DA JUSTIÇA DO TRABALHO (Processo TST n.º 503.927/2009-5). CONTRATANTE: TRIBUNAL SUPERIOR DO TRABALHO, inscrito no CNPJ/MF sob o n.º 00.509.968/0001-48, sediado no Setor de Administração Federal Sul, quadra 8, lote 1, Brasília, DF, CEP 70070-600, telefone geral (61) 3314-4300, doravante denominado simplesmente Contratante, neste ato representado........................., ................................................................................
+
+CONTRATADA:
+
+............................................, inscrita no CNPJ/MF sob o n.º ........................, com sede no ................................., Brasília, DF, CEP ........., telefone (xx) ............, fax (xx) ............, doravante denominada simplesmente Contratada, neste ato representada pelo .........................................., .............................................
+
+CLÁUSULA PRIMEIRA - DOS FUNDAMENTOS LEGAIS DO CONTRATO Este contrato fundamenta-se: III no Pregão Eletrônico n.º 124/2009, conforme a Lei Complementar n.º 123/2006, a Lei n.º 10.520/2002 e os Decretos n.os 3.931/2001, 5.450/2005 e 6.204/2007; nos termos propostos pela Contratada que, simultaneamente: a) constem no Processo Administrativo TST n.º 503.927/2009-5; b) não contrariem o interesse público; III IV Vnas determinações das Leis n.os 8.078/90, 8.666/93 e 9.784/99; nos preceitos de direito público; supletivamente, nos princípios da teoria geral dos contratos e nas disposições do direito privado.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho
+
+2
+
+CLÁUSULA SEGUNDA - DO OBJETO O objeto deste contrato é a prestações de serviços de desenvolvimento de sistemas em Java/JEE, relacionados à evolução tecnológica dos sistemas do Tribunal Superior do Trabalho e desenvolvimento e manutenção de sistemas nacionais do Conselho Superior da Justiça do Trabalho, conforme especificado na tabela abaixo, considerando-se o disposto no edital, neste contrato e seu anexo. Item Especificação
+Pontos de Função para o desenvolvimento de sistemas de apoio à atividade administrativa e judiciária do TST e desenvolvimento e manutenção de sistemas nacionais sob responsabilidade do CSJT. São exemplos: Sistema de Triagem, Sistema eRecurso, Sistema Planilha, Sistema de Autuação, Sistema de Sala de Sessão, Sistema TST-Saúde, Sistema de Controle de Veículos, Assine-jus, e-Calc, e-Doc, e-Jus, eRecurso, e-Julg, Aud, Carta Precatória, Diário Eletrônico da Justiça do Trabalho e Malote Digital sem prejuízo de outros que possam ser identificados no futuro, considerada a estratégia de adoção do Sistema de Registro de Preços.
+
+Unidade
+
+Quantidade
+
+Preço unitário R$
+
+Preço total R$
+
+1
+
+un
+
+Subcláusula única. Os serviços de evolução tecnológica contemplam todo o ciclo de desenvolvimento, incluindo os serviços de gerenciamento de projeto, construção, testes, migração e implantação, de acordo com as especificações constantes nos anexos integrantes deste Contrato. CLÁUSULA TERCEIRA ­ DA GARANTIA DO OBJETO O objeto deste contrato tem garantia de, no mínimo, noventa dias, contados a partir do recebimento definitivo. CLÁUSULA QUARTA ­ DA VIGÊNCIA O prazo de vigência do contrato será de noventa dias contados da data da sua assinatura. Subcláusula única. O prazo acima referido terá início e vencimento em dia de expediente, excluído o primeiro e incluído o último, e terá validade e eficácia legal após a publicação do extrato deste contrato no Diário Oficial da União. CLÁUSULA QUINTA - DO VALOR O valor total deste contrato é de R$ ................................... (........................................).
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho
+
+3
+
+Subcláusula única. Já estão incluídas no preço total todas as despesas de frete, embalagens, impostos, transporte, mão-de-obra e demais encargos indispensáveis ao perfeito cumprimento das obrigações decorrentes deste contrato, assim como as despesas relativas à assistência técnica durante o período da garantia. CLÁUSULA SEXTA - DO REAJUSTE O preço será fixo e irreajustável, nos termos da legislação em vigor. CLÁUSULA SÉTIMA - DA DOTAÇÃO ORÇAMENTÁRIA As despesas oriundas deste contrato correrão à conta dos recursos orçamentários consignados ao Contratante, programa de trabalho ................, elemento de despesa ..............., nota de empenho ................ , emitida em ...../...../...... CLÁUSULA OITAVA ­ DOS PRAZOS A Contratada deverá iniciar a prestação dos serviços em, no máximo, dez dias úteis, contados a partir da assinatura deste contrato. Subcláusula primeira. Os prazos de adimplemento das obrigações contratadas admitem prorrogação nos casos e condições especificados no parágrafo 1º do artigo 57 da Lei n.º 8.666/93, e a solicitação dilatória, sempre por escrito, fundamentada e instruída com os documentos necessários à comprovação das alegações, deverá ser recebida contemporaneamente ao fato que a ensejar. Subcláusula terceira. A solicitação de prorrogação deverá ser encaminhada com antecedência mínima de um dia do vencimento, anexando-se documento comprobatório do alegado pela Contratada. Subcláusula quarta. Serão considerados injustificados os atrasos não comunicados tempestivamente ou indevidamente fundamentados, e a aceitação da justificativa ficará a critério do Contratante. CLÁUSULA NONA - DO ACOMPANHAMENTO E DA FISCALIZAÇÃO A execução do objeto deste contrato será fiscalizada por um servidor designado pela Administração, doravante denominado Fiscalização, com autoridade para exercer toda e qualquer ação de orientação geral durante a execução contratual. Subcláusula primeira. São atribuições da Fiscalização, dentre outras: III acompanhar e fiscalizar a execução, bem assim indicar as ocorrências verificadas; encaminhar à Secretaria de Administração, Orçamento e Finanças - SEAOF os documentos com as ocorrências que impliquem possíveis sanções à Contratada;
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho III -
+
+4
+
+solicitar à Contratada e a seus prepostos, ou obter da Administração, tempestivamente, todas as providências necessárias ao bom andamento da avença e anexar aos autos cópia dos documentos que comprovem essas solicitações.
+
+Subcláusula segunda. Em caso de dúvidas quanto à interpretação das especificações será sempre consultada a Fiscalização, sendo desta o parecer definitivo Subcláusula terceira. A ação da Fiscalização não exonera a Contratada de suas responsabilidades contratuais. CLÁUSULA DEZ - DO RECEBIMENTO E DA ACEITAÇÃO DOS SERVIÇOS O objeto do presente contrato será recebido das seguintes formas: III provisória, mediante recibo, imediatamente após a entrega, para efeito de posterior verificação de sua conformidade; definitiva, mediante recibo, em até dez dias úteis, após o recebimento provisório, ocasião em que se fará constar o atesto da nota fiscal.
+
+Subcláusula primeira. A execução do objeto em desconformidade com o especificado neste contrato, no instrumento convocatório ou o indicado na proposta será rejeitada parcial ou totalmente, conforme o caso, e a Contratada será obrigada a refazer no prazo estipulado pela Fiscalização, contado da data do recebimento de notificação escrita necessariamente acompanhada do Termo de Recusa, sob pena de incorrer em atraso quanto ao prazo de execução. Subcláusula segunda. A notificação referida na subcláusula anterior suspende os prazos de recebimento e de pagamento até que a irregularidade seja sanada. Subcláusula terceira. Independentemente da aceitação, a Contratada garantirá a qualidade de cada serviço realizado e produto fornecido pelo prazo estabelecido nas especificações, obrigando-se a reparar aquela que apresentar defeito no prazo estabelecido pelo Contratante Subcláusula quarta. Recebimento provisório ou definitivo não exclui a responsabilidade civil pela solidez e segurança dos serviços prestados nem a ético-profissional pela perfeita execução do contrato, dentro dos limites estabelecidos pela lei. CLÁUSULA ONZE - DO PAGAMENTO Os pagamentos serão efetuados em moeda corrente nacional, em até dez dias úteis após o recebimento definitivo, mediante apresentação da nota fiscal devidamente atestada pela Fiscalização, sendo efetuada a retenção na fonte dos tributos e contribuições elencados na legislação aplicável. Subcláusula primeira. As notas fiscais e os documentos exigidos no edital e neste contrato, para fins de liquidação e pagamento das despesas, deverão ser entregues, exclusivamente,
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho
+
+5
+
+na Coordenadoria de Material e Logística, situada no SAFS, quadra 8, lote 1, bloco A, 4º andar, sala 420. Subcláusula segunda. A Nota Fiscal deve corresponder ao objeto recebido e respectivos valores consignados na Nota de Empenho, e a Fiscalização, no caso de divergência, especialmente quando houver adimplemento parcial, deve notificar a Contratada a substituí-la em três dias úteis, com suspensão do prazo de pagamento. Subcláusula terceira. A retenção dos tributos federais não será efetuada caso a Contratada apresente, junto com sua nota fiscal, a comprovação de que é optante do Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte ­ SIMPLES. Subcláusula quarta. Se, quando da efetivação do pagamento, os documentos comprobatórios de situação regular em relação à Fazenda Federal, ao INSS e ao FGTS, apresentados em atendimento às exigências de habilitação, estiverem com a validade expirada, o pagamento ficará retido até a apresentação de novos documentos dentro do prazo de validade. Subcláusula quinta. O Contratante pagará à Contratada a atualização monetária sobre o valor devido entre a data do adimplemento das obrigações contratuais e a do efetivo pagamento, excluídos os períodos de carência para recebimento definitivo e liquidação das despesas previstos neste contrato, utilizando o índice publicado pela Fundação Getúlio Vargas que represente o menor valor acumulado no período, desde que a Contratada não tenha sido responsável, no todo ou em parte, pelo atraso no pagamento. CLÁUSULA DOZE ­ DAS OBRIGAÇÕES DA CONTRATADA Na execução deste contrato, a Contratada se obriga a envidar todo o empenho necessário ao fiel e adequado cumprimento dos encargos que lhe são confiados e, ainda, a: III executar o objeto contratual em prazo não superior ao máximo estipulado neste contrato e seus anexos; ceder ao TST, nos termos do artigo 111 da Lei n.º 8.666/93, c/c o artigo 4º da Lei n.º 9.609/98, o direito patrimonial, a propriedade intelectual de toda e qualquer documentação e produto gerados, logo após o recebimento definitivo dos serviços prestados; manter sigilo dos dados e informações confidenciais a que tiverem acesso; manter os seus técnicos sujeitos às normas disciplinares do Tribunal, porém sem qualquer vínculo empregatício com o órgão; respeitar as normas e procedimentos de segurança do Tribunal; iniciar a execução dos serviços no prazo máximo de dez dias úteis contados do recebimento da Ordem de Serviço.
+
+III IV VVI -
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho a.
+
+6
+
+apresentar ao TST, em até sete dias úteis contados do recebimento da Ordem de Serviço, a relação da equipe e respectiva qualificação profissional e comprovantes, nos termos exigidos no anexo V deste edital. Atas de Reuniões; Matriz de Responsabilidade; Relatório de Status; Plano de Iteração; Log de Ocorrências; Risco dos Projetos; Solicitação, Análise e controle de Mudanças; Contagem de Pontos de Função; Termo de Entrega; Termo de Homologação; Termo de Aceite Final; e Cronograma de execução das demandas, que deve: l.1. l.2. conter como marcos, no mínimo, os finais das fases e das iterações e entregas de artefatos para validação; e ter prazo de execução compatível ao definido pelo item 8 do Anexo II deste edital.
+
+VII ­ elaborar e entregar os seguintes documentos gerenciais: a. b. c. d. e. f. g. h. i. j. k. l.
+
+VIII - realizar reuniões de ponto de controle entre a Contratada e o Tribunal, nas dependências deste, destinadas ao acompanhamento da execução dos serviços, observando o seguinte: a. b. c. d. periodicidade semanal; presença obrigatória do gerente de projetos indicado pela Contratada e o responsável técnico do Tribunal; presença de quaisquer dos demais profissionais da Contratada, caso solicitado pela Contratada ou pelo Tribunal; serão objetos de deliberação, entre outros: d.1. d.2. d.3. d.4. e. Cronograma de execução das demandas; Relatório de Status; Riscos dos projetos; e Log de Ocorrências
+
+elaborar e entregar todos os artefatos relacionados na tabela constante do Anexo VI deste edital.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho IX -
+
+7
+
+prestar garantia aos produtos e serviços fornecidos, pelo período de, no mínimo, noventa dias a contar da data do recebimento definitivo dos produtos ou serviços. a. os serviços de garantia serão solicitados por meio de chamado efetuado pela Secretaria de Tecnologia da Informação do Tribunal e encaminhado à Contratada preferencialmente por e-mail, em que conste, entre outros: a.1 a.2 b. descrição do problema evidenciado; criticidade do chamado.
+
+o prazo do atendimento dos chamados deverá seguir o Acordo de Nível de Serviço, conforme Anexo III deste Edital.
+
+X - Encaminhar, quando do término da Ordem de Serviço, minudente e circunstanciado relatório, acompanhado da respectiva fatura, relacionando: a. b. identificação dos produtos concluídos, ou seja, aqueles entregues e aprovados pelo gerente técnico do TST; contagem de Pontos de Função Detalhada, realizada de acordo com o Anexo II, aprovada por gerente técnico do TST
+
+XI - entregar todos os documentos relacionados inciso VII e seus respectivos subitens; e os artefatos especificados no Anexo VI deste Edital, não havendo pagamento em caso de entrega parcial até que ocorra o adimplemento total da obrigação. a. Caso o serviço seja cancelado, o TST pagará pelas fases efetivamente concluídas, considerando o percentual descrito no Anexo VI para cada fase.
+
+XII ­ Responder por quaisquer danos causados diretamente aos equipamentos, softwares, informações e a outros bens de propriedade do Tribunal, quando esses tenham sido ocasionados por seus técnicos durante a prestação dos serviços objeto desta contratação. XIII - responder pelas despesas relativas a encargos trabalhistas, seguro de acidentes, impostos, contribuições previdenciárias e quaisquer outras que forem devidas e referentes aos serviços executados por seus empregados, os quais não têm qualquer vínculo empregatício com o Contratante; XIV- responder integralmente por perdas e danos que vier a causar diretamente ao Contratante ou a terceiros em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, independentemente de outras cominações contratuais ou legais a que estiver sujeita. Subcláusula primeira. III A Contratada não será responsável: por qualquer perda ou dano resultante de caso fortuito ou de força maior; por quaisquer obrigações, trabalhos, serviços ou responsabilidades não previstos neste contrato ou no edital.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho
+
+8
+
+Subcláusula segunda. O Contratante não aceitará, sob pretexto algum, a transferência de responsabilidade da Contratada para terceiros, sejam fabricantes, representantes ou quaisquer outros. CLÁUSULA TREZE - DAS OBRIGAÇÕES DO CONTRATANTE O Contratante, durante a vigência deste contrato, compromete-se a: Iproporcionar todas as facilidades indispensáveis à boa execução das obrigações contratuais, inclusive permitir o acesso dos funcionários da Contratada às dependências do TST; promover os pagamentos dentro do prazo estipulado; fornecer atestados de capacidade técnica quando solicitado, desde que atendidas as obrigações contratuais. permitir o acesso dos profissionais da Contratada, devidamente credenciados, às dependências do Tribunal, bem como o acesso a dados e informações necessários ao desempenho das atividades previstas nesta contratação, ressalvados os casos de matéria sigilosa; prestar as informações e os esclarecimentos atinentes ao objeto, que venham a ser solicitados pelos profissionais da Contratada; fornecer informações e modelos de dados dos sistemas existentes no TST com os quais os sistemas a serem desenvolvidos deverão se integrar; designar servidor para gerenciar operacionalmente as atividades e as tarefas relativas à execução do contrato.
+
+II III IV -
+
+VVI VII
+
+CLÁUSULA QUATORZE ­ DA GARANTIA DO CONTRATO Para segurança do Contratante quanto ao cumprimento das obrigações contratuais, a Contratada deverá optar, no montante de 5% (cinco por cento) do valor total do contrato, por uma das seguintes modalidades de garantia: Icaução em dinheiro ou em títulos da dívida pública, devendo estes terem sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda; seguro-garantia; fiança bancária.
+
+II III -
+
+Subcláusula primeira. A Contratada deverá providenciar a garantia contratual impreterivelmente em 5 (cinco) dias úteis, contados do recebimento da convocação para assinatura do contrato, sob pena de ser-lhe imputada multa de 20% (vinte por cento) do valor do contrato.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho
+
+9
+
+Subcláusula segunda. É de inteira responsabilidade da Contratada a renovação da garantia prestada, quando couber, estando sua liberação condicionada ao término das obrigações contratuais. CLÁUSULA QUINZE - DAS PENALIDADES SOBRE A CONTRATADA No caso de atraso injustificado ou inexecução total ou parcial do compromisso assumido com o Contratante, as sanções administrativas aplicadas à Contratada serão: III III IV advertência; multa; suspensão temporária de participar de licitações e impedimento de contratar com Tribunal Superior do Trabalho; declaração de inidoneidade para licitar ou contratar com a Administração Pública.
+
+Subcláusula primeira. O atraso injustificado na execução contratual, exceto os estabelecidos para o Acordo de Nível de Serviços, implicará multa correspondente a 1% (um por cento) por dia de atraso, calculado sobre o valor do objeto em atraso, até o limite de 30% (trinta por cento) do respectivo valor total. Subcláusula segunda. Nesta hipótese, o atraso injustificado por período superior a trinta dias caracterizará o descumprimento total da obrigação, punível com as sanções previstas nos incisos III e IV do caput desta cláusula, como também a inexecução total do contrato. Sublcláusula terceira. O descumprimento do prazo de retirada da nota de empenho ou a recusa em aceitá-la bem assim no prazo de apresentação da garantia contratual ou a recusa em apresentá-la implicará a aplicação de multa equivalente a 20% (vinte por cento) do valor total empenhado e do impedimento para contratar com o TST por período de até cinco anos. Subcláusula quarta. Aquele que ensejar o retardamento da execução do objeto contratual, não mantiver a proposta, falhar ou fraudar sua execução, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União, e será descredenciado do SICAF, pelo prazo de até 5 (cinco) anos, sem prejuízo das multas previstas neste contrato e no edital e das demais cominações legais, conforme disposto no artigo 28 do Decreto n.º 5.450/2005. Subcláusula quinta. As multas porventura aplicadas serão descontadas dos pagamentos devidos pelo Contratante, da garantia contratual ou cobradas diretamente da Contratada, amigável ou judicialmente, e poderão ser aplicadas cumulativamente às demais sanções previstas nesta cláusula. Subcláusula sexta. As penalidades serão obrigatoriamente registradas no SICAF, e a sua aplicação será precedida da concessão da oportunidade de ampla defesa para a Contratada, na forma da lei.
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho CLÁUSULA DEZESSEIS - DAS CONDIÇÕES DE HABILITAÇÃO DA CONTRATADA
+
+10
+
+A Contratada declara, no ato de celebração deste contrato, estar plenamente habilitada à assunção dos encargos contratuais e assume o compromisso de manter, durante a execução do contrato, todas as condições de habilitação e qualificação exigidas na licitação. CLÁUSULA DEZESSETE - DA PUBLICAÇÃO A publicação resumida deste contrato na Imprensa Oficial, que é condição indispensável para sua eficácia, será providenciada pelo Contratante, nos termos do parágrafo único do artigo 61 da Lei n.º 8.666/93. CLÁUSULA DEZOITO - DAS ALTERAÇÕES DO CONTRATO Compete a ambas as partes, de comum acordo, salvo nas situações tratadas neste instrumento, na Lei n.º 8.666/93 e em outras disposições legais pertinentes, realizar, via termo aditivo, as alterações contratuais que julgarem convenientes. CLÁUSULA DEZENOVE - DA RESCISÃO Constituem motivos incondicionais para rescisão do contrato as situações previstas nos artigos 77 e 78, na forma do artigo 79, inclusive com as conseqüências do artigo 80, da Lei n.º 8.666/93. CLÁUSULA VINTE - DA UTILIZAÇÃO DO NOME DO CONTRATANTE A Contratada não poderá, salvo em curriculum vitae, utilizar o nome do Contratante ou sua qualidade de Contratada em quaisquer atividades de divulgação profissional como, por exemplo, em cartões de visita, anúncios diversos, impressos etc., sob pena de imediata rescisão deste contrato. Subcláusula única. A Contratada não poderá, também, pronunciar-se em nome do Contratante à imprensa em geral sobre quaisquer assuntos relativos às atividades deste, bem como a sua atividade profissional, sob pena de imediata rescisão contratual e sem prejuízo das demais cominações cabíveis. CLÁUSULA VINTE E UM - DOS CASOS FORTUITOS, DE FORÇA MAIOR OU OMISSOS Tal como prescrito na lei, o Contratante e a Contratada não serão responsabilizados por fatos comprovadamente decorrentes de casos fortuitos ou de força maior, ocorrências eventuais cuja solução se buscará mediante acordo entre as partes. CLÁUSULA VINTE E DOIS - DAS DISPOSIÇÕES FINAIS A Administração do Contratante analisará, julgará e decidirá, em cada caso, as questões alusivas a incidentes que se fundamentem em motivos de caso fortuito ou de força maior. Subcláusula primeira. Para os casos previstos no caput desta cláusula, o Contratante poderá atribuir a uma comissão, por este designada, a responsabilidade de apurar os atos e fatos comissivos ou omissivos que se fundamentem naqueles motivos.
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho
+
+11
+
+Subcláusula segunda. Os agentes públicos responderão, na forma da lei, por prejuízos que, em decorrência de ação ou omissão dolosa ou culposa, causarem à Administração no exercício de atividades específicas do cumprimento deste contrato, inclusive nas análises ou autorizações excepcionais constantes nestas disposições finais. Subcláusula terceira. As exceções aqui referenciadas serão sempre tratadas com máxima cautela, zelo profissional, senso de responsabilidade e ponderação, para que ato de mera e excepcional concessão do Contratante, cujo objetivo final é o de atender tão-somente ao interesse público, não seja interpretado como regra contratual. Subcláusula quarta. Para assegurar rápida solução às questões geradas em face da perfeita execução deste contrato, a Contratada fica desde já compelida a avisar, por escrito e de imediato, qualquer alteração em seu endereço ou telefone. Subcláusula quinta. No curso do contrato, é admitida a fusão, cisão ou incorporação da empresa, bem assim sua alteração social, modificação da finalidade ou da estrutura, desde que não prejudique a execução do contrato, cabendo à Administração decidir pelo prosseguimento ou rescisão do contrato. Subcláusula sexta. Quaisquer tolerâncias entre as partes não importarão em novação de qualquer uma das cláusulas ou condições estatuídas neste contrato, as quais permanecerão íntegras. CLÁUSULA VINTE E TRÊS - DO FORO Fica eleito o foro da cidade de Brasília, DF, como competente para dirimir quaisquer questões oriundas deste contrato, com exclusão de qualquer outro, por mais privilegiado que seja. E, por estarem ajustadas e acordadas, as partes assinam este termo em duas vias de igual teor e forma para um só efeito legal. Brasília, de de .
+
+CONTRATANTE
+
+CONTRATADA
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 12 Versão: 12/11/2009 13:30
+
+ANEXO I DESCRIÇÃO DOS SERVIÇOS
+1.
+1.1
+
+DO OBJETO
+Constitui objeto da presente licitação o Registro de Preços para prestação de serviços de desenvolvimento de sistemas em Java/JEE, relacionados à evolução tecnológica dos Sistemas do Tribunal Superior do Trabalho e desenvolvimento e manutenção de sistemas nacionais do Conselho Superior da Justiça do Trabalho.
+
+2.
+2.1
+
+DA MEDIÇÃO DO TAMANHO DAS DEMANDAS
+Os serviços realizados serão medidos utilizando-se a técnica de Análise de Pontos de Função, de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.2.1, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org).
+
+2.2
+
+O TST adotará a técnica definida pela NESMA (Netherlands Software Metrics Users Association) para a realização de contagens por tipo indicativa e estimada.
+
+2.3
+
+O TST adotará as adaptações do Anexo II para realizar todas as contagens de pontos de função.
+
+2.4
+
+A utilização de novas versões do Manual (CPM) ficará a critério do TST, que mediante comunicação prévia, estipulará um prazo apropriado para adequação da
+
+CONTRATADA. 2.5 O TST adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste, em todas as contagens. 2.5.1 Mesmo no caso de ser utilizada uma nova versão do Manual, o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um). 2.6 O TST irá fazer a contagem de pontos de função indicativa de um sistema para abrir uma Ordem de Serviço. 2.7 Ao final das fases, as contagens de pontos de função serão feitas da seguinte forma, para fins de desembolso financeiro: 2.7.1 Ao final da Transição, a CONTRATADA deverá fazer uma contagem de pontos de função detalhada do sistema entregue; 2.8. O TST analisará as contagens realizadas pela CONTRATADA e deverá aprová-las. 2.9 Qualquer serviço que implique em aumento do número de pontos de função contratados deverá ser previa e expressamente aprovado pelo TST. 2.10 No caso de existir divergência por parte da CONTRATADA ou do TST quanto às contagens, as partes deverão encaminhar pedido de revisão;
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 13 Versão: 12/11/2009 13:30
+
+2.10.1 A CONTRATADA deverá indicar profissional do seu quadro com certificação atualizada Certified Function Point Specialist (CFPS), para realizar, juntamente com profissional indicado pelo TST, de mesmo perfil, a revisão das contagens e elaborarem proposta final para a solução do impasse. 2.10.2 A existência de divergências quanto às contagens não autoriza à CONTRATADA a onerar os prazos ou o nível de atendimento previsto para o desenvolvimento dos sistemas contratados.
+
+3.
+3.1.
+
+ARQUITETURA DO SISTEMA
+Os sistemas deverão ser desenvolvidos conforme o modelo de 3 (três) camadas (Java/JEE), observado ainda o seguinte: 3.1.1 Camada de apresentação: 3.1.1.1 Acesso à aplicação por meio de um cliente browser
+
+Microsoft Internet Explorer e Firefox, podendo utilizar tecnologia Java Script ou Ajax; 3.1.1.2 A interface do sistema com o usuário deverá atender às recomendações de acessibilidade de conteúdo WEB
+
+estabelecidas pelo World Wide Web Consortium (W3C); 3.1.1.3 Servidor de Aplicações RedHat JBoss Enterprise Application Plataform 3.1.1.4 Framework: JSF, RichFaces, xhtml, JBoss Seam 3.1.2 Camada de regras de negócio: 3.1.2.2 Servidor de Aplicações RedHat JBoss Enterprise Application Plataform 3.1.2.3 3.1.3 EJB 3.0, JBoss Seam, Webservice
+
+Camada de persistência: 3.1.3.2 3.1.3.3 Framework Hibernate; Banco de Dados: Oracle;
+
+3.2.
+
+Os sistemas poderão ter partes de suas funções desenvolvidas como rotinas batch quando necessário. 3.2.1 3.2.2 Neste caso não há camada de apresentação; As camadas de negócio e de persistência deverão ser desenvolvidas em Java/JEE conforme especificado em 3.1.2 e 3.1.3.
+
+3.3.
+
+Os sistemas poderão ser divididos em componentes, utilizando a tecnologia EJB 3.0, de forma a encapsular regras de negócio de um sistema externo, subsistema ou módulo.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 14 Versão: 12/11/2009 13:30
+
+3.3.1
+
+As camadas de negócio e de persistência deverão ser desenvolvidas em Java/JEE conforme especificado em 3.1.2 e 3.1.3.
+
+3.3.2
+
+O TST poderá solicitar que partes do sistema sejam desenvolvidas como componentes EJB 3.0.
+
+3.4. 3.5.
+
+O Sistema operacional dos servidores do TST é o Linux Red Hat. A arquitetura deverá estar aderente aos padrões definidos pelo TST.
+
+4. DAS CARACTERÍSTICAS DO AMBIENTE COMPUTACIONAL
+4.1 4.2 4.3 4.4 4.5 4.6 4.7 Microcomputadores padrão IBM-PC e periféricos; Computadores na Plataforma Intel; Subsistema de armazenamento IBM DS4400; Subsistema de backup IBM Tape Library 3484; Sistema operacional das estações de trabalho MICROSOFT WINDOWS 2000 e XP; Sistema operacional dos computadores servidores LINUX REDHAT 4.3 ou superior; Servidor de aplicações JEE RedHat JBoss Enterprise Application Plataform 4.3 ou superior 4.8 Sistema gerenciador de banco de dados ORACLE 10g.
+
+4.9 Outros: 4.9.1 4.9.2 4.9.3 4.9.4 4.9.5 4.9.6 4.9.7 4.9.8 4.9.9 APACHE versão 1.3.27 e superiores; OPENLDAP; OPENSSH; POSTFIX versão 2.0.6 e superiores (IMAP/SMTP); SAMBA; SQUID; ENTERPRISE ARCHITECT CORPORATE EDITION 7.1; Sybase PowerDesigner 15; Eclipse Ganymede ou superior;
+
+4.9.10 Checkstyle, PMD; 4.9.11 Mantis; 4.9.12 Maven.
+
+5.
+
+DAS FERRAMENTAS PARA GERAÇÃO DE CADA ARTEFATO
+5.1.1 O TST irá definir, antes do início dos serviços, qual ferramenta de software deverá ser usada para a geração de cada artefato.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 15 Versão: 12/11/2009 13:30
+
+ANEXO II ADAPTAÇÕES DA ANÁLISE DE PONTOS DE FUNÇÃO (APF)
+1.
+1.1
+
+Conceitos
+As demandas enviadas para a Contratada terão o tamanho de um projeto, ou seja, serão enviados sistemas inteiros para serem desenvolvidos. Entretanto, evoluções dos sistemas e alterações decorrentes de necessidades de negócio poderão ocorrer durante o período de desenvolvimento. Estas duas últimas situações serão tratadas como manutenção adaptativa.
+
+1.2
+
+Cada demanda poderá ser medida obedecendo a regras diferenciadas, determinadas neste anexo. Desta forma, uma demanda poderá ser composta por funções de dados ou transações (itens mensuráveis por pontos de função), por itens não mensuráveis por pontos de função ou por ambos.
+
+2.
+2.1
+
+Método Oficial
+A Contratada deverá adotar a Análise de Pontos de Função (APF) como o método oficial para estimar e apurar o tamanho das demandas recebidas e produzidas, exceto em situações que não podem ser medidas através deste método. A APF foi a técnica escolhida devido aos seguintes fatores: 2.1.1 2.1.2 2.1.3 É o método mais utilizado no mercado brasileiro; É o método melhor documentado; É suportado por uma instituição (IFPUG) com credibilidade reconhecida mundialmente.
+
+2.2
+
+O CPM (Manual de Práticas de Contagem, na sigla em Inglês) versão 4.2.1, mantido pelo IFPUG (International Function Point Users Group), será o documento oficial e único de referência das regras de APF para a medição do tamanho das demandas.
+
+2.3
+
+Caso o IFPUG divulgue novas versões do CPM, deverá haver negociação entre o TST e a contratada para avaliar o impacto no contrato vigente, decidir sobre sua aplicabilidade e implementar os necessários ajustes no contrato. Havendo acordo entre as partes, a nova versão passará a ser utilizada para a métrica das demandas enviadas à Contratada. Caso contrário, a versão 4.2.1 continuará vigente.
+
+3.
+3.1
+
+Fator de Ajuste
+Será aplicado fator de ajuste igual a 1 (um) em todas as demandas.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 16 Versão: 12/11/2009 13:30
+
+4.
+4.1.
+
+Itens de Demandas não Mensuráveis por Pontos de Função
+Os itens de uma demanda que não puderem ser dimensionados em Pontos de Função terão seus tamanhos estimados e apurados através de fórmulas definidas neste anexo.
+
+5.
+5.1
+
+Fatores Redutores de Tipo de Manutenção
+Aos itens de demanda referentes a manutenções adaptativas, mensuráveis por pontos de função, será aplicado um fator redutor de tipo de manutenção para o cálculo do seu tamanho em pontos função. Este fator irá variar em decorrência do tipo de manutenção: inclusão de funcionalidades, alteração de
+
+funcionalidades ou exclusão de funcionalidades. 5.2 Para manutenções adaptativas, as regras de APF serão seguidas para a apuração do tamanho da demanda, antes da aplicação do fator redutor de tipo de manutenção. Aplicativo Desenvolvido pela contratada Tipo Manutenção Inclusão de novas funcionalidades no aplicativo Alteração de funcionalidades já existentes Exclusão de funcionalidades já existentes 5.3 Fator FR = 1 FR = 0,5 FR = 0,25
+
+Aos itens de demandas não mensuráveis por PF não será aplicado o fator redutor de tipo de manutenção, pois o total de pontos de função será calculado a partir de fórmulas definidas neste anexo.
+
+6.
+6.1
+
+Tabela de Itens de Demandas Não Mensuráveis por PF
+A tabela a seguir será utilizada como insumo para a apuração do tamanho de itens de demandas não mensuráveis por pontos de função. Os exemplos são ilustrativos e estão baseados em um sistema fictício de administração escolar.
+
+No
+
+Tipo de Demanda Não Mensurável Inclusão, Alteração ou Exclusão de cabeçalhos ou títulos ou qualquer outro tipo de literal em telas e relatórios.
+
+Exemplo
+
+Fórmul a 0,1 PF
+
+Unidade de Medida Tela (**) ou Relatório
+
+1
+
+Alterar o Título do Relatório "Listagem de Estudantes" para "Listagem de Alunos"
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 17 Versão: 12/11/2009 13:30
+
+2
+
+Mudança da posição de campos em telas, relatórios ou arquivos; SEM alteração em elementos de dados, arquivos referenciados, informação de controle ou lógica de processamento. Mudança na parte visual de telas e relatórios, SEM alteração de funcionalidade. População de tabelas com novos dados fornecidos pelo Cliente, SEM a necessidade de utilizar funcionalidade específica para isto. Ou seja; incluir, alterar ou excluir dados diretamente em tabelas.
+
+Centralizar o campo Matrícula do Aluno na Tela de Consulta de Alunos
+
+0,2 PF
+
+Tela ou Relatório ou Arquivo
+
+3
+
+Incluir marca d'água com o logo da escola em todas as telas do Sistema de Administração Escolar Incluir 3 novos registros na Tabela de Séries (a escola só contemplava as séries do primeiro grau e passou a contemplar o 1º, 2º e 3º anos do segundo grau). Alterar o nome da professora "Maria" para "Ana Maria" em todas as turmas em que ela leciona (tabela de Turmas)
+Dividir a Tela de Consulta de Alunos em duas: uma com os dados do aluno e outra com as notas (nenhum campo será adicionado, alterado ou excluído; nem haverá alteração na lógica de processamento ou mudança nos arquivos lógicos referenciados) Alterar a mensagem "Inclua as informações do aluno" para " Informe os dados do aluno"
+
+0,1 PF
+
+Tela ou Relatório
+
+0,2 PF
+
+Tabela
+
+4
+
+5
+
+Divisão de uma tela ou relatório em vários e vice-versa, SEM mudança em funcionalidade.
+
+2 PF
+
+Tela ou Relatório
+
+Alteração do texto de mensagens. 6
+
+0,1 PF
+
+7
+
+Adição ou reestruturação de menus de navegação estáticos.
+
+Na tela de Consulta de Alunos, adicionar um link para a tela de Consulta de Notas Ao inicializar o Sistema de Administração Escolar, exibir uma página com o texto a seguir... (Não existe funcionalidade, apenas texto)
+
+0,1 PF
+
+Mensagem # independen te de quantas vezes essa mensagem aparecer item de menu/nave gação Tela
+
+8
+
+Criação, alteração ou exclusão de páginas estáticas.
+
+1 PF
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 18 Versão: 12/11/2009 13:30 Alteração da lista de resultados exibidos em tela ou relatório, através de modificação do valor do parâmetro existente, SEM alteração de lógica Alterar o filtro de pesquisa de alunos em recuperação. Ao invés de recuperar alunos com nota < 7 ; deverá recuperar alunos com nota < 6,5 . 0,5 PF Programa
+
+9
+
+10
+
+Criação de listas suspensas (combo box ou list box); inclusão, alteração ou exclusão de dados nessas listas, desde que esses dados sejam fixos no código (hard code). Não será acessado nenhum arquivo lógico para popular essas listas Execução de aplicações (geração de arquivos, relatórios, consultas Ad-Hoc, etc...) já construídos sob demanda do usuário e Recompilação de código para migração de sistemas
+
+Na tela de inclusão de aluno, alterar os dados da combo box de idade do aluno. Os valores fixos (hard code) de idade devem variar de 3 a 17 anos, ao invés de 2 a 15 anos.
+
+0,3 PF
+
+Lista
+
+11
+
+Executar o aplicativo que gera listagem de alunos com baixo desempenho no período compreendido entre 1º de Março a 1º de Junho. OBS: por determinação do usuário, esta funcionalidade não faz parte do Sistema de Administração Escolar. Toda vez que o usuário necessita desta informação, solicita que a mesma seja executada, passando o período objeto da pesquisa.
+
+1 PF
+
+Execução
+
+12
+
+Padronização de nome de campos, variáveis, etc... O 1 objetivo desta padronização é atender a normativos de desenvolvimento de sistemas da empresa
+
+Alterar os nomes de todas as tabelas do sistema para SAETBXXX _YYYYYYYYYYYYYYYYYYY Y, onde SAE = Sistema de Administração Escolar, TB = Tabela, XXX = número seqüencial da tabela e YYYYYYYYYYYYYYYYYYYY = nome da tabela.
+
+0,5 PF
+
+Programa ou Arquivo ou Tabela
+
+13
+
+Dados de Código e funções de manutenção dos mesmos 1 (inclusão, alteração, consulta e exclusão dos dados de código)
+
+Implementar Tabela de séries escolares (código e descrição) e funções para manutenção da mesma (CRUD).
+
+0,30 * tamanho apurado em pontos de função
+
+Dado ou Transação
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 19 Versão: 12/11/2009 13:30
+
+6.2
+
+(*) - Para cada item de demanda não mensurável listado acima, está sendo estabelecida uma regra para mensuração. É importante ressaltar que o esforço atrelado à fórmula definida compreende não só o esforço de implementação da demanda, como a produção de todos os artefatos necessários, de acordo com a metodologia de desenvolvimento de sistemas adotada.
+
+6.3
+
+(**) - Fica definido que tela é cada janela ou página do aplicativo para a realização de um cadastro, exibição de uma consulta, etc... No caso de aplicativos que utilizem recurso de abas ou várias páginas para a inclusão de um único registro de um cadastro ou exibição de consulta, fica estabelecido que caba aba ou página será contada como uma tela.
+
+6.4
+
+A identificação das tabelas de código deverá obedecer às regras descritas no CPM;
+
+6.5
+
+As Funções de Transação que referenciem tabelas de dados de código, nas condições estabelecidas no item 6.1, terão estes dados de código considerados como Arquivos Referenciados.
+
+6.6
+
+Os itens de demandas não mensuráveis por PF, sem fórmula de mensuração definida neste documento, poderão ser negociados à parte.
+
+7.
+
+Cálculo do Tamanho Total de uma Demanda
+7.1.1 O tamanho de uma demanda de um sistema completo é composto pela soma das seguintes parcelas: 7.1.1.1 Fórmula de Projeto de Desenvolvimento (contida no manual do IFPUG), considerando Fator de Ajuste = 1 7.1.1.2 Itens não mensuráveis por PF, tais como tabelas de código e respectivos processos de manutenção
+
+7.1 Demandas de Desenvolvimento de Novos Aplicativos
+
+7.1.1.3
+
+Sendo: 7.1.1.3.1 7.1.1.3.2 TD = Tamanho da Demanda UFP = contagem de PF não-ajustados para as funções que serão disponibilizadas depois da instalação
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 20 Versão: 12/11/2009 13:30
+
+7.1.1.3.3
+
+CFP = contagem de PF não-ajustados das funções de conversão
+
+7.1.1.3.4
+
+INMPF = contagem dos Itens não mensuráveis por Ponto de Função, através das fórmulas estabelecidas neste documento
+
+7.2 Exemplo do Cálculo de uma demanda de desenvolvimento de um novo aplicativo 7.2.1 Suponhamos que o TST envie para a Contratada uma demanda de construção do sistema ABC, que possua as seguintes características: 7.2.1.1 O somatório das funções que serão disponibilizadas é 850 PF; 7.2.1.2 7.2.1.3 O somatório das funções de conversão de dados é 50 PF; A contagem dos itens não mensuráveis por PF, através da aplicação de fórmulas pré-estabelecidas, totaliza 100 PF; 7.2.1.4 O cálculo do tamanho desta demanda (TD) seria:
+
+7.3. Demandas referentes a Manutenções Adaptativas 7.3.1 A Contratada poderá receber demandas de inclusão, alteração ou exclusão de funcionalidades referentes aos aplicativos por ela desenvolvidos. Evoluções dos casos de uso e alterações decorrentes de necessidades de negócio poderão ocorrer durante o período de desenvolvimento ou até o fim do período de garantia do produto. 7.3.2 O tamanho de uma demanda de uma manutenção adaptativa é composto pela soma das seguintes parcelas: 7.3.2.1 Produto de cada tipo de manutenção pelo seu respectivo Fator Redutor (FR) 7.3.2.2 Itens não mensuráveis por PF;
+
+7.3.2.3
+
+Sendo: 7.3.2.3.1 INC = contagem de pontos de função nãoajustados das funções que foram ou serão incluídas pelo projeto de melhoria 7.3.2.3.2 ALT = contagem de pontos de função nãoajustados das funções que foram ou serão
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 21 Versão: 12/11/2009 13:30
+
+alteradas pelo projeto de melhoria. Este número reflete o tamanho das funções depois da
+
+modificação. 7.3.2.3.3 EXC = contagem de pontos de função nãoajustados das funções que foram ou serão excluídas pelo projeto de melhoria. 7.3.2.3.4 INMPF = contagem dos Itens não mensuráveis por Ponto de Função, através das fórmulas estabelecidas neste documento. 7.4 Exemplo do Cálculo de uma Demanda Adaptativa 7.4.1 Suponhamos que o TST envie para a Contratada uma demanda para adequação a novas necessidades de negócio, referente ao sistema ABC, desenvolvido pela Contratada. Entre essas adequações, temos: 7.4.1.1 7.4.1.2 30 PF referentes a funções incluídas; 40 PF referentes a funções alteradas (valor após a manutenção); 7.4.1.3 7.4.1.4 8 PF referentes a funções excluídas; 2 PF referentes a itens não mensuráveis por PF (calculados através de fórmulas estabelecidas neste documento). 7.4.1.5 O cálculo do tamanho desta demanda seria:
+
+7.5. Demandas referentes a Manutenções Corretivas 7.5.1 As demandas de manutenções corretivas serão executadas sem ônus algum para o TST, durante o período de desenvolvimento do sistema e durante o período da garantia.
+
+8.
+
+Prazo das Demandas
+8.1.1 O prazo de uma demanda é o tempo que a Contratada necessita para executar o ciclo completo de desenvolvimento, produzindo todos os artefatos estabelecidos pela metodologia.
+
+8.1 Definições Gerais
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 22 Versão: 12/11/2009 13:30
+
+8.1.2
+
+A fórmula de Capers Jones que será aplicada para o cálculo do prazo de demandas de novos desenvolvimentos e de
+
+manutenções adaptativas é: TO (em meses) = TD 0,36 8.1.3 onde, 8.1.3.1. TD é o tamanho da demanda em pontos de função e; 8.1.3.2. TO é o tempo ótimo em meses. 8.1.4 O Tempo Ótimo (TO) deve ser utilizado pela contratada como limite para execução dos serviços e os cronogramas apresentados devem respeitar este limite. 8.2 Manutenções Corretivas 8.2.1 O prazo para a realização das manutenções corretivas enviadas para a Contratada será estabelecido sempre por um ou mais Acordos de Nível de Serviço. 8.3 Caso o prazo de execução proposto pela Contratada não atenda as necessidades do TST, novos prazos deverão ser apresentados. 8.4 A Contratada poderá solicitar, ainda, prorrogação do prazo, quando justificada e comprovada a necessidade, em função de complexidade da solução a ser desenvolvida, ficando a critério do TST, aceitar ou não as justificativas da prorrogação do prazo apresentadas pela Contratada. 8.4.1 A prorrogação do prazo deve ser solicitada com, no mínimo, 12 dias úteis antes do término do prazo. 8.4.2 A solicitação de prorrogação de prazo não justifica a suspensão do atendimento pela Contratada e, durante o julgamento da solicitação pelo TST, ficam mantidas as condições estipuladas para o serviço. 8.4.3 O prazo prorrogado não deverá ultrapassar o TO (Tempo Ótimo) para um serviço ou projeto contratado.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 23 Versão: 12/11/2009 13:30
+
+ANEXO III ­ ACORDO DE NÍVEL DE SERVIÇO
+1.
+1.1
+
+Definição
+São acordos formalmente definidos entre um fornecedor de serviços e o Cliente, com o objetivo de estabelecer compromissos que devem ser cumpridos pelas partes, a fim de garantir o prazo, a qualidade e as condições comerciais dos serviços, além da satisfação final do Cliente.
+
+2.
+
+Definições de Nível de Serviço para Prazos
+Contratada.
+
+2.1. As tabelas abaixo definem os prazos aceitáveis para execução de serviços pela
+
+2.2
+
+Tabela de Prazo de Manutenções Corretivas durante o período de garantia: Criticidade Tipo de Ocorrência Alta Interrupção do Processo Produtivo ou comportamento inadequado do sistema Prazo para execução do serviço (em horas) 4 7 14
+
+Categoria do Serviço Manutenção Corretiva (No período de garantia)
+
+Média Baixa 2.2.1
+
+Será considerado o horário de 07h00min as 19h00min para o cálculo dos prazos de execução.
+
+2.2.1.1
+
+Dessa forma uma manutenção corretiva com criticidade Alta identificada e comunicada à contratada às 18h00min do dia 1, deverá ser solucionada até 10h00min do dia 2, ou seja, 4 horas de prazo.
+
+2.2.1.2
+
+A manutenção corretiva será considerada concluída quando a instalação da aplicação em produção for concluída e o problema tiver sido resolvido.
+
+2.2.2
+
+Uma manutenção corretiva será classificada como: 2.2.2.1 Alta caso o problema que a motivou interromper o processo de trabalho. 2.2.2.2 Média caso o problema que a motivou interromper o processo de trabalho, mas for possível outra solução temporária para o problema. 2.2.2.3 Baixa caso o problema que a motivou não interrompa o processo de trabalho.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 24 Versão: 12/11/2009 13:30
+
+2.3. Tabela de Prazos de Atendimento de Serviços para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa: 2.3.1 O conteúdo de cada entrega está estabelecido nas Obrigações da Contratada. Fase Entrega Tipo de Serviço Prazo para Execução do Serviço Definido por cronograma do gerente 2 dias úteis Definido por cronograma do gerente 1 dia útil para cada caso de uso da iteração Definido por cronograma do gerente 2 dias úteis Definido por cronograma do gerente 2 dias úteis para cada caso de uso da iteração 1 dia útil para cada caso de uso da iteração 1 dia útil para cada caso de uso da iteração Definido por cronograma do gerente 2 dias úteis
+
+Concepção
+
+1ª
+
+Entrega dos Artefatos Correção dos artefatos Entrega dos Artefatos
+
+1ª (Requisitos / Análise)
+
+Correção dos artefatos
+
+Elaboração 2ª (Projeto)
+
+Entrega dos Artefatos Correção dos artefatos Entrega dos Artefatos
+
+3ª (Implementação / Testes / Implantação) Construção 1ª de uma Iteração (Requisitos / Análise)
+
+Correção dos artefatos
+
+Verificação e Validação
+
+Correção dos artefatos
+
+2ª de uma Iteração (Projeto)
+
+Entrega dos Artefatos Correção dos artefatos
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 25 Versão: 12/11/2009 13:30
+
+3ª de uma Iteração (Implementação / Testes / Implantação) Entrega dos Artefatos
+
+Definido por cronograma do gerente
+
+Correção dos artefatos Transição 1ª Entrega dos Artefatos Correção dos artefatos 2.4
+
+2 dias úteis para cada caso de uso da iteração Definido por cronograma do gerente 5 dias úteis
+
+Tabela de Prazos de Atendimento de Serviços referentes aos artefatos do Gerente de Projeto
+
+Artefato Atas de Reunião
+
+Tipo de Ocorrência Entrega da ata após a reunião Correção
+
+Prazo para Execução do Serviço (em dias úteis) 1 1
+
+2.5
+
+O prazo máximo de intervalo entre duas fases ou entre duas iterações de uma mesma fase deve ser de no máximo dois dias úteis após o aceite formal da fase ou iteração anterior.
+
+3.
+3.1
+
+Definições de Níveis de Serviços para Número de Defeitos Encontrados
+O índice de defeitos (ID) será calculado conforme fórmula abaixo:
+
+3.3. Onde, 3.3.1 3.3.2 3.3.3 3.3.4 3.3.5 ID ­ Índice de Defeitos; N ­ Número de Defeitos; Ri ­ Número de Reincidências do erro i; TD ­ Tamanho da Demanda em Pontos de Função; PE ­ Percentual de Esforço com tabela do item 3.4.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 26 Versão: 12/11/2009 13:30
+
+3.4. O Percentual de Esforço deve seguir a tabela abaixo: Fase Concepção Entrega 1ª Percentual de Esforço (PE) 0,03
+
+1ª (Requisitos / Análise) Elaboração 2ª (Projeto) 3ª (Implementação / Testes / Implantação)
+
+0,13
+
+0,10 0,09
+
+1ª de uma Iteração (Requisitos / Análise)
+
+0,10 x (NCUi/NCUt)
+
+Construção
+
+2ª de uma Iteração (Projeto) 3ª de uma Iteração (Implementação / Testes / Implantação)
+
+0,05 x (NCUi/NCUt)
+
+0,46 x (NCUi/NCUt)
+
+Transição 3.4.1
+
+1ª
+
+0,04
+
+Sendo que NCUi é o Número de Casos de Uso da Iteração e NCUt é o Número de Casos de Uso totais do sistema.
+
+3.5. O índice aceitável de defeitos será calculado para cada entrega da contratada. 3.5.1 Por exemplo, na concepção será calculado um ID para a entrega principal da concepção. Caso sejam encontrados defeitos, a contratada deverá corrigi-los e fazer uma nova entrega dos artefatos corrigidos. Neste momento será calculado novo ID e assim sucessivamente até que todos os defeitos tenham sido corrigidos.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 27 Versão: 12/11/2009 13:30
+
+4.
+
+Acordos de Níveis de Serviço
+
+Prazos de Atendimento de Serviços para Manutenções Corretivas Nº 01 - Prazo de atendimento de Serviços para Manutenções Corretivas no período de garantia Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Descrição Garantir o funcionamento dos sistemas em produção no período de garantia Manter a disponibilidade dos sistemas desenvolvidos pela fábrica em produção Análise das ocorrências. Fiscalização contratual Ao final do período de garantia de cada Ordem de Serviço. Considerar os prazos do item 2.2 deste anexo: Somatório das horas de atraso/Somatório de horas de garantia solicitadas = X Início de Vigência Faixas de ajuste no pagamento Sanções Início do período de garantia da OS. Não se aplica. 0,1 < X <= 0,2 ­ multa de 10% X > 0,2 - multa de 20% + rescisão contratual Observações
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 28 Versão: 12/11/2009 13:30
+
+Prazos de Atendimento de Serviços para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa Nº 02 - Prazo de atendimento de Serviços para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa (OS). Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Descrição Garantir entrega no prazo dos serviços desenvolvidos. Entregas dentro dos prazos estabelecidos no Acordo de Nível de Serviço. Análise das ocorrências. Fiscalização contratual A cada Ordem de Serviço. Por Ordem de Serviço, considerando os prazos do item 2.3 e 2.4 deste anexo: Somatório dos dias de atraso/Previsão de duração da OS = X Início de Vigência Faixas de ajuste no pagamento Data do recebimento da Ordem de Serviço. X até 0,1 ­ 100% do valor da OS De 0,1 a 0,2 ­ 85% do valor da OS De 0,2 em diante ­ 75% do valor da OS Sanções 20% das OS com X acima de 0,2 ­ multa de 10% 30% das OS com X acima de 0,2 ­ multa de 15% + rescisão contratual Observações
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 29 Versão: 12/11/2009 13:30
+
+Índice de Defeitos de Serviços para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa Nº 03 ­ Índice de Defeitos em Artefatos para Desenvolvimento de Novos Sistemas e Manutenção Adaptativa (OS). Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Início de Vigência Faixas de ajuste no pagamento Sanções Descrição Garantir a qualidade dos produtos entregues. Entrega dentro dos prazos estabelecidos no Acordo de Nível de Serviço. Análise das ocorrências. Fiscalização contratual A cada Ordem de Serviço. Por entrega, observada a fórmula do item 3 deste anexo. Data do recebimento da Ordem de Serviço. Não se aplica. 20% das Entregas com ID acima de 1 ­ multa de 10% da OS 30% das Entregas com ID acima de 1 ­ multa de 20% + rescisão contratual Observações
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 30 Versão: 12/11/2009 13:30
+
+Número de Entregas de Correção para uma Entrega Principal Nº 04 ­ Número de Entregas de Correção para uma Entrega Principal Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Descrição Garantir a entrega dos produtos no prazo. Entrega dentro dos prazos estabelecidos no Acordo de Nível de Serviço. Análise das ocorrências. Fiscalização contratual A cada Ordem de Serviço. Por entrega principal. Uma entrega principal é uma entrega definida pela tabela do item 3.4 deste anexo. Número de envios para correção da entrega principal = X Início de Vigência Faixas de ajuste no pagamento Sanções Data do recebimento da Ordem de Serviço. Não se aplica. 10% das Entregas Principais com X acima de 2 ­ multa de 2% da OS 20% das Entregas Principais com X acima de 2 ­ multa de 7% da OS 30% das Entregas Principais com X acima de 2 ­ multa de 15% + rescisão contratual Observações
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 31 Versão: 12/11/2009 13:30
+
+ANEXO IV ­ ORDEM DE SERVIÇOS
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO ORDEM DE SERVIÇOS ................................../2009 Ordem de Serviços de ......................................................... n.º................................../2009 à fornecedora ................................................................................... Processo Administrativo TST n.º ______/____-_ A presente solicitação tem por objeto os serviços de ............................... nas quantidades abaixo especificadas e prazo de execução de ............................ dias corridos:
+
+Serviço
+
+Quantidade de PF
+
+Valor Unitário
+
+Valor Total
+
+Brasília, .......... de ...................... de 2009.
+
+Recebemos em ______/______/2009. ........................................................... Carimbo e assinatura Favor preencher este campo e retornar cópia
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 32 Versão: 12/11/2009 13:30
+
+ANEXO V EQUIPE TÉCNICA
+1 O quantitativo de profissionais mínimo estabelecido cumpre o requisito previsto na Instrução Normativa 2/2008, artigo 15, XIV ao tratar da PRODUTIVIDADE DE REFERÊNCIA. Conforme estabelece a referida Instrução Normativa em seu Anexo I: 1.1 PRODUTIVIDADE é a capacidade de realização de determinado volume de tarefas, em função de uma determinada rotina de execução de serviços, considerando-se os recursos humanos, materiais e tecnológicos
+
+disponibilizados, o nível de qualidade exigido e as condições do local de prestação do serviço; 1.2 É permitido a Contratada, sempre que entender necessário ao cumprimento do Acordo de Nível de Serviço estabelecido, inclusão de profissionais adicionais, desde que respeitados os requisitos de qualificação profissional. 2 Com fundamento no artigo 12, VI e VII da Instrução Normativa 04/2008, a Contratada deverá desenvolver os trabalhos, após o recebimento da Ordem de Serviço, com equipe composta, no mínimo, pelos seguintes profissionais : 2.1 Um gerente de projetos, que executará os serviços de gerenciamento de projetos, para o qual deverá ser comprovada a seguinte qualificação: 2.1.1 Documento, emitido pelo Project Management Institute (PMI), que comprove que o gerente de projetos é certificado como Project Management Professional (PMP); 2.1.2 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o gerente de projetos gerenciado projeto de desenvolvimento de sistema. 2.2 Um Analista de Sistemas, que executará os serviços de análise de requisitos, para o qual deverá ser comprovada a seguinte qualificação. 2.2.1 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o analista de sistemas participado do
+
+desenvolvimento de sistema utilizando a metodologia UP (Unified Process); 2.2.2 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o analista de sistemas participado do
+
+desenvolvimento de sistema orientada a objetos utilizando as especificações da UML (Unified Modeling Language);
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 33 Versão: 12/11/2009 13:30
+
+2.2.3
+
+Diploma de curso superior de Análise de Sistemas, Ciências da Computação, Engenharia da Computação, Informática, Tecnologia de Processamento de Dados ou Sistemas de Informação, oficiais ou reconhecidos.
+
+2.3
+
+Um projetista de sistemas, que executará os serviços de projeto de sistemas, para o qual deverá ser comprovada a seguinte qualificação: 2.3.1 Certificado, emitido pela Sun Microsystems, que comprove que o projetista possui a certificação Sun Certified Enterprise Architect for the Java 2 Platform, Enterprise Edition (JEE); 2.3.2 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o projetista ter participado do desenvolvimento de sistema utilizando a metodologia UP (Unified Process); 2.3.3 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o projetista participado de projeto de sistema orientado a objetos utilizando as especificações da UML (Unified Modeling Language); 2.3.4 Diploma de curso superior de Análise de Sistemas, Ciências da Computação, Engenharia da Computação, Informática, Tecnologia de Processamento de Dados ou Sistemas de Informação, oficiais ou reconhecidos.
+
+2.4
+
+Um analista de testes, que executará os serviços de teste, para o qual deverá ser comprovada a seguinte qualificação: 2.4.1 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o analista participado de testes de sistema utilizando a metodologia UP (Unified Process); 2.4.2 Diploma de curso superior de Análise de Sistemas, Ciências da Computação, Engenharia da Computação, Informática, Tecnologia de Processamento de Dados ou Sistemas de Informação, oficiais ou reconhecidos.
+
+2.5
+
+No
+
+mínimo
+
+dois
+
+desenvolvedores,
+
+que
+
+executarão
+
+os serviços
+
+de
+
+implementação, qualificação: 2.5.1
+
+para os quais deverá
+
+ser comprovada a seguinte
+
+Documento, emitido pela Sun Microsystems, que comprove que o desenvolvedor é certificado como desenvolvedor de componentes
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 34 Versão: 12/11/2009 13:30
+
+Java. Será admitido, neste item, qualquer um dos seguintes certificados: 2.5.1.1 Sun Certified Enterprise Architect for the Java 2 Platform, Enterprise Edition (JEE); 2.5.1.2 Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition (JEE); 2.5.1.3 Sun Certified Business Component Developer for the Java 2 Platform, Enterprise Edition (JEE); 2.5.1.4 Sun Certified Developer for Java Web Services for the Java 2 Platform, Enterprise edition (JEE). 2.5.2 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o desenvolvedor participado do desenvolvimento de sistema utilizando a metodologia UP (Unified Process); 2.5.3 Atestado fornecido por pessoa jurídica de direito público ou privado, que comprove ter o desenvolvedor participado do desenvolvimento de sistema utilizando as especificações da UML (Unified Modeling Language); 2.5.4 Atestado de conclusão de pelo menos 50% do curso superior de Análise de Sistemas, Ciências da Computação, Engenharia da Computação, Informática, Tecnologia de Processamento de Dados ou Sistemas de Informação, oficiais ou reconhecidos 3 Os serviços deverão ser prestados pelos profissionais indicados pela Contratada, não sendo admitida a subcontratação do objeto deste Contrato; 3.1 Da substituição eventual dos profissionais: 3.1.1 Será admitida a substituição dos profissionais indicados pela Contratada, mediante prévia aprovação do Contratante, por
+
+substitutos que atendam aos requisitos de qualificação técnica profissional. 3.1.2 Esta substituição não será considerada motivo para modificações de prazos. 3.1.3 A substituição justificada e motivada pelo Contratante deverá ser efetuada no prazo máximo de 2 (duas) semanas, contadas da data da solicitação de substituição.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 35 Versão: 12/11/2009 13:30
+
+ANEXO VI ­ Tabela de Artefatos de software
+Fase Disciplina Modelagem de Negócio Artefato Fluxos de Negócio *
+Regras de Negócio Conceitos de Negócio Processos de Negócio Atendidos pelos Casos de Uso *
+
+Percentual
+
+Concepção Requisitos
+
+Documento de Visão Priorização dos Casos de Uso com o Gestor/ Definição dos casos de uso arquiteturalmente significativos Matrizes de Rastreabilidade: Requisitos x Necessidades, Casos de Uso x Requisitos, Atores x Envolvidos Diagrama de Caso de Uso Atualizado Protótipo de Telas Especificação dos Casos de Uso Especificação de Requisitos de Interface Matriz de Rastreabilidade: Requisitos x Necessidades, Casos de Uso x Requisitos, Atores x Envolvidos atualizadas Diagrama de Classe Diagrama de Atividades Diagrama de Estado * Projeto de Banco de Dados Projeto de Interface Documento de Arquitetura Código Fonte Testes de Unidade Plano de Testes Casos de Testes Resultado da Execução dos Testes Implantação em Homologação Diagrama de Caso de Uso Atualizado
+Protótipo de Telas Especificação dos Casos de Uso Especificação de Requisitos de Interface
+
+3%
+
+Requisitos
+
+Elaboração
+
+Análise
+
+32%
+
+Projeto Implementação Testes Implantação
+
+Requisitos Construção
+
+Diagrama de Classe Análise Projeto Diagrama de Atividades* Diagrama de Estado * Projeto de Banco de Dados Projeto de Interface
+
+61%
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 36 Versão: 12/11/2009 13:30
+
+Implementação
+
+Código Fonte Testes de Unidade Plano de Testes Casos de Testes Resultado da Execução dos Testes Implantação em Homologação Manual de Produção Manual do Usuário Documentação Javadoc Help on-line Sistema Implantado em Produção
+
+Testes Implantação
+
+4%
+
+Transição
+
+Implantação
+
+1
+
+Os itens marcados com asterisco (*) na tabela acima podem ser realizados de acordo com a necessidade de cada projeto ou parte do projeto.
+
+2
+
+Todos os artefatos descritos acima devem ser entregues nos padrões estabelecidos pela metodologia de desenvolvimento de sistemas TST-UP Secretaria de Tecnologia da Informação do TST. e pelas Normas da
+
+3
+
+A Fase de Construção poderá ser dividida em iterações, conforme prioridade dos casos de uso e divisão em módulos dos projetos.
+
+4
+
+Os artefatos elaborados e entregues deverão ser aprovados pela equipe do TST para serem considerados concluídos.
+
+5
+
+O TST poderá solicitar modificações quanto à forma dos artefatos para se adequarem aos padrões da metodologia de desenvolvimento de sistema TST-UP.
+
+6
+
+O TST poderá solicitar modificações quanto ao conteúdo dos artefatos para se adequarem às necessidades dos envolvidos.
+
+7
+
+As entregas dos artefatos devem ser feitas da seguinte forma: 7.1 A Concepção deve ser feita em uma entrega com todos os artefatos previstos para ela; 7.2 A Elaboração deve ser feita em três entregas: 7.2.1 A primeira entrega deve conter todos os artefatos das disciplinas de Requisitos e Análise; 7.2.2 A segunda entrega deve conter todos os artefatos da disciplina de Projeto menos o Documento de Arquitetura; 7.2.3 A terceira entrega deve conter todos os artefatos das disciplinas de Implementação, Testes e Implantação e o Documento de Arquitetura. 7.3 Cada iteração da Construção deve ser feita em três entregas:
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+PODER JUDICIÁRIO JUSTIÇA DO TRABALHO TRIBUNAL SUPERIOR DO TRABALHO Pregão Eletrônico n.º 124/2009 ­ Pág. 37 Versão: 12/11/2009 13:30
+
+7.3.1
+
+A primeira entrega deve conter todos os artefatos das disciplinas de Requisitos e Análise;
+
+7.3.2
+
+A segunda entrega deve conter todos os artefatos da disciplina de Projeto;
+
+7.3.3
+
+A terceira entrega deve conter todos os artefatos das disciplinas de Implementação, Testes e Implantação.
+
+8 9
+
+A Transição deve ser feita em uma entrega com todos os artefatos previstos para ela; Os serviços de desenvolvimento dos sistemas serão solicitados por meio de ordem de serviço expedida pela Secretaria de Tecnologia da Informação do Tribunal e encaminhada à Contratada preferencialmente por e-mail, em que conste, entre outros, os seguintes elementos: 9.1 Contagem indicativa ou estimada dos pontos de função de cada sistema.
+
+K:\2009\Instrumentos Contratuais\Contratos\Minutas\Pregão Eletrônico\2009minutacontratoPE124 - ponto de função.docx rjv
+
+

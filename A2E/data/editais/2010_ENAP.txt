@@ -1,0 +1,1495 @@
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração SAIS, Área 2A, Brasília-DF CEP 70.610-900 Telefone (61) 2020 3000 Fax (61) 2020-3171
+
+ENAP Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Comissão Permanente de Licitação EDITAL DE LICITAÇÃO PREGÃO ELETRÔNICO N. º 11/2010 PROCESSO Nº 04600.001926/2010-94 ÍNDICE ASSUNTO DO OBJETO DAS CONDIÇÕES DE PARTICIPAÇÃO DA REPRESENTAÇÃO E DO CREDENCIAMENTO DA IMPUGNAÇÃO E DOS PEDIDOS DE ESCLARECIMENTO DA ABERTURA DA SESSÃO PÚBLICA DA PROPOSTA E DOS LANCES DA INTERRUPÇÃO INVOLUNTÁRIA DA COMUNICAÇÃO DA ACEITABILIDADE DA PROPOSTA / DOCUMENTAÇÃO DOS RECURSOS ADMINISTRATIVOS DA ADJUDICAÇÃO E HOMOLOGAÇÃO DAS SANÇÕES ADMINISTRATIVAS DA DOTAÇÃO ORÇAMENTÁRIA DAS OBRIGAÇÕES DA CONTRATADA DAS OBRIGAÇÕES DA CONTRATANTE DO CONTRATO DO PAGAMENTO DAS DISPOSIÇÕES GERAIS DO FORO TERMO DE REFERÊNCIA MODELO REGISTRO DE DEMANDA MODELO DE ORDEM DE SERVIÇO MODELO DE TERMO DE RECEBIMENTO PROVISÓRIO MODELO DE TERMO DE RECEBIMENTO DEFINITIVO MODELO DE TERMO DE REJEIÇÃO MODELO DE TERMO DE COMPROMISSO DE MANUTENÇÃO DE SIGILO MODELO DE PLANILHA DE COMPOSIÇÃO DO PONTO DE FUNÇÃO MODELO DE PLANILHA DE CUSTO E FORMAÇÃO DE PREÇO MODELO DE PROPOSTA DE PREÇO SISTEMAS ENAP MODELOS DE DECLARAÇÕES MINUTA DE CONTRATO
+1
+
+ITEM 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Anexo I Anexo I A Anexo I B Anexo I C Anexo I D Anexo I E Anexo I F Anexo I G Anexo I H Anexo I i Anexo I J Anexo II Anexo III
+
+Pág.
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+EDITAL DE LICITAÇÃO PREGÃO ELETRÔNICO Nº. 11/2010 Processo nº. 04600. 001926/2010-94 Tipo de Licitação: MENOR PREÇO GLOBAL Data: 28 de junho de 2010 Horário: 9h (horário de Brasília / DF) Local: www.comprasnet.gov.br Não havendo expediente ou ocorrendo qualquer fato superveniente, não previsto neste Edital, que impeça a realização do certame na data marcada, a Sessão será automaticamente transferida, mediante comunicação da Pregoeira e aviso no Comprasnet, informando nova data e horário. ANEXOS: Anexo I Anexo II Anexo III TERMO DE REFERÊNCIA E SEUS ANEXOS MODELOS DE DECLARAÇÕES MINUTA DE CONTRATO
+
+A Fundação Escola Nacional de Administração Pública (ENAP), representada pela Pregoeira Simone Moreira de Oliveira, designada pela Portaria ENAP nº. 01, de 04 de janeiro de 2010, torna público, para conhecimento dos interessados, que no dia 28 de junho de 2010, às 09 horas, horário de Brasília, no local indicado acima, realizará licitação na modalidade de PREGÃO, na forma eletrônica, julgamento pelo MENOR PREÇO GLOBAL, conforme disciplinado neste Edital e seus Anexos. O procedimento licitatório obedecerá ao disposto na legislação de regência, em especial na Lei Complementar 123, de 14/12/2006; Decreto 6.204/2007; Decreto nº 2.271, de 07/07/1997; IN nº 02, de 30/04/2008; Lei 8.666, de 21/06/1993; Lei 10.520, de 17/07/2002; no Decreto nº 5.450, de 31/05/2005; Lei 8.078/1990, e demais normas que dispõem sobre a matéria.
+
+1.
+
+DO OBJETO 1.1. Contratação de empresa especializada na prestação de serviços de manutenção de sistemas de informação, que compreende a manutenção corretiva, adaptativa, evolutiva ou perfectiva dos sistemas elencados no ANEXO I J, em conformidade com as especificações, padrões técnicos de desempenho e qualidade estabelecidos no Termo de Referência ­ ANEXO I deste Edital. 1.2. Se houver discordância entre as especificações deste objeto descritas no Comprasnet e as especificações técnicas constantes deste Edital, prevalecerão as últimas.
+
+2.
+
+DAS CONDIÇÕES DA PARTICIPAÇÃO 2.1. Poderão participar deste Pregão os interessados que comprovarem possuir os requisitos mínimos de qualificação previstos neste Edital e cujo objeto social da
+2
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+empresa, expresso no estatuto ou contrato social, especifique ramo de atividade compatível com o objeto da licitação. 2.2. O licitante deve estar previamente credenciado no Sistema de Cadastramento Unificado de Fornecedores (Sicaf), para poder acessar o sistema em licitações promovidas pelos órgãos e entidades integrantes do Sistema de Serviços Gerais (Siasg), ou por aqueles que tenham celebrado termo de adesão ao sistema. 2.2.1. O cadastramento no Sicaf poderá ser providenciado pelo interessado e realizado em qualquer unidade de cadastramento dos órgãos/entidades da Presidência da República, dos ministérios, das autarquias e das fundações que integram o Sistema de Serviços Gerais ­ SISG. 2.3. O licitante deverá manifestar, em campo próprio do sistema eletrônico, o pleno conhecimento e atendimento às exigências de habilitação previstas no Edital e seus Anexos. 2.3.1. A declaração falsa relativa ao cumprimento dos requisitos de habilitação e à proposta sujeitará o licitante às sanções previstas neste Edital. 2.4. Não poderão participar deste Pregão empresas: 2.4.1. Concordatárias ou em processo de recuperação judicial, sob concurso de credores, em dissolução ou em liquidação. 2.4.2. Que estejam com o direito suspenso de licitar e contratar com a Administração Pública ou que por essa tenham sido declaradas inidôneas. 2.4.3. Que estejam reunidas em consórcio e sejam controladoras coligadas ou subsidiárias entre si, quaisquer que sejam suas formas de constituição. 2.4.4. Estrangeiras que não funcionem no País.
+
+3. DA REPRESENTAÇÃO E DO CREDENCIAMENTO 3.1. Os licitantes ou seus representantes legais deverão estar previamente credenciados no órgão provedor do sistema eletrônico. 3.1.1. Cada licitante credenciará apenas 1 (um) representante, que será o único admitido a intervir no procedimento licitatório e a responder a todos os atos previstos neste Edital por sua representada. 3.1.2. Não será admitida a participação de um mesmo representante para mais de uma empresa licitante. 3.2. O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico (art. 3º, §1º do Decreto 5.450/2005), no site www.comprasnet.gov.br; 3.2.1. O uso da senha de acesso pelo licitante é de sua exclusiva responsabilidade, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou à ENAP responsabilidade por eventuais danos decorrentes do uso indevido da senha, ainda que por terceiros (art. 3º, § 5º do Decreto 5.450/2005). 3.2.2. A perda da senha ou a quebra de sigilo deverá ser comunicada imediatamente ao provedor do sistema para imediato bloqueio de acesso.
+3
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+3.3. O credenciamento perante o provedor do sistema implica a responsabilidade legal do licitante ou de seu representante e a presunção de sua capacidade técnica para realização das transações inerentes ao pregão eletrônico (art. 3º, § 6º do Decreto 5.450/2005).
+
+4.
+
+DA IMPUGNAÇÃO E DOS PEDIDOS DE ESCLARECIMENTOS 4.1 ­ Até 02 (dois) dias úteis antes da data fixada para a abertura da Sessão Pública, qualquer pessoa poderá impugnar o ato convocatório do Pregão. 4.1.1 ­ As impugnações deverão ser apresentadas em duas vias originais, e protocolizadas no Protocolo Central da ENAP, situado no térreo, até as 18h do dia em que se encerra o prazo. Devendo ainda ser encaminhadas por meio eletrônico, via internet, para o e-mail licitacoesenap@enap.gov.br, a fim de agilizar a resposta. 4.1.2 ­ Caberá à Pregoeira, auxiliada pelo Setor Responsável pela Demanda e pelo Setor Responsável pela Elaboração do Edital, decidir sobre a petição no prazo de até 24 (vinte e quatro) horas. 4.1.3 ­ Acolhida a impugnação contra o ato convocatório, será designada nova data para a realização do certame. 4.2 ­ Os pedidos de esclarecimentos referentes ao processo licitatório deverão ser enviados à Pregoeira, em até 03 (três) dias úteis anteriores à data fixada para abertura da sessão pública, exclusivamente pela internet para o endereço eletrônico licitacoesenap@enap.gov.br, até as 18h do dia em que se encerra o prazo (Art. 19 do Decreto nº 5.450/2005);
+
+5. DA ABERTURA DA SESSÃO PÚBLICA 5.1. A abertura da Sessão Pública deste Pregão, conduzida pela Pregoeira, ocorrerá na data e na hora indicadas no Preâmbulo deste Edital, no local www.comprasnet.gov.br. A comunicação entre a Pregoeira e os licitantes ocorrerá única e exclusivamente mediante troca de mensagens em campo próprio do sistema eletrônico. Caberá ao licitante acompanhar as comunicações no sistema eletrônico durante a Sessão Pública do Pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de qualquer mensagem emitida pelo sistema ou de sua desconexão (Decreto 5.450/2005, art. 13, IV).
+
+5.2.
+
+5.3.
+
+6. DA PROPOSTA E DOS LANCES 6.1. Após a divulgação do Edital no Comprasnet, os licitantes deverão consignar, exclusivamente por meio do sistema eletrônico e antes do início da Sessão, proposta inicial com VALOR TOTAL GLOBAL e a DESCRIÇÃO DETALHADA DO OBJETO OFERTADO, de maneira a demonstrar que
+4
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+atende a todas as especificações técnicas constantes do Termo de Referência ­ Anexo I deste Edital. 6.1.1. O preenchimento do campo DESCRIÇÃO DETALHADA DO OBJETO tem caráter OBRIGATÓRIO. 6.1.2. Até a data e hora de início da Sessão Pública prevista no preâmbulo deste Edital, o licitante poderá acessar o sistema Comprasnet para retirar, alterar ou complementar a proposta formulada. 6.1.3. A partir do início da Sessão Pública, as propostas formuladas não poderão ser alteradas ou retiradas. 6.2. A proposta inicial equivale ao primeiro lance no Comprasnet e se lançada indevidamente poderá ser desclassificada e o fornecedor impedido de participar do certame. 6.3. A proposta deverá englobar todas as despesas referentes à execução do objeto, incluídos todos os insumos, tributos, encargos sociais e trabalhistas, fretes e quaisquer outras despesas que incidam direta ou indiretamente sobre o objeto desta licitação. 6.4. Não caberão solicitações posteriores para reembolso de passagens, diárias, deslocamentos ou qualquer outra despesa além das estabelecidas no contrato. 6.5. A formulação da proposta deverá conter o valor unitário e o global do serviço, conforme Modelo de Proposta de Preço ­ Anexo I i deste Edital;
+
+6.5.1. Para o preenchimento do Modelo de Proposta de Preço ­ Anexo I i - deste Edital, é necessário que o Modelo de Planilha de Composição do Ponto de Função ­ Anexo I G - e o Modelo de Planilha de Custos e Formação de Preços ­ Anexo I H ­, ambos deste Edital sejam preenchidos. 6.5.2. O Modelo disponível - Anexo I H deverá ser preenchido para cada categoria profissional que compõe o ponto de função. 6.6. Aberta a etapa competitiva, os licitantes poderão encaminhar lances, exclusivamente por meio do sistema eletrônico, contemplando valor total global, sendo imediatamente informados do recebimento e do respectivo horário de registro e valor. 6.7. Os licitantes poderão oferecer lances sucessivos, não sendo aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar pelo sistema.
+
+6.7.1. O licitante somente poderá oferecer lance inferior ao último por ele ofertado e registrado no sistema. 6.8. Os lances apresentados e levados em consideração para efeito de julgamento serão de exclusiva e total responsabilidade do licitante, não lhe cabendo o direito de pleitear qualquer alteração. Durante a fase de lances, a Pregoeira poderá excluir, justificadamente, lance cujo valor for considerado inexequível.
+
+6.9.
+
+6.10. Durante o transcurso da Sessão, os licitantes serão informados, em tempo real, do valor do menor lance registrado, vedada a identificação do ofertante.
+
+5
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+6.11. O sistema eletrônico encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até trinta minutos, aleatoriamente determinado, findo o qual será automaticamente encerrada a recepção de lances. 6.12. Após o encerramento da etapa de lances da Sessão Pública, a Pregoeira poderá encaminhar pelo sistema eletrônico contraproposta ao licitante que tenha apresentado o lance mais vantajoso, para que seja obtida a melhor proposta, observado o critério de julgamento, não se admitindo negociar condições diferentes daquelas previstas no Edital. 6.13. Se o lance mais bem classificado não tiver sido ofertado por microempresa, empresa de pequeno porte e houver lance apresentado por essas, igual ou até 5% (cinco por cento) superior à melhor proposta, proceder-se-á da seguinte forma: 6.13.1. A microempresa, empresa de pequeno porte mais bem classificada poderá, no prazo de 5 (cinco) minutos após a convocação, apresentar nova proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado em seu favor o objeto deste Pregão. 6.13.2. Não sendo vencedora a microempresa ou empresa de pequeno porte mais bem classificada, na forma do subitem anterior, serão convocadas as remanescentes que porventura se enquadrem nessas categorias e cujas propostas estejam dentro do limite estabelecido no subitem 6.13, na ordem classificatória, para o exercício do mesmo direito. 6.13.3. A Pregoeira poderá solicitar documentos que comprovem o enquadramento do licitante na categoria de microempresa ou empresa de pequeno porte. 6.13.3.1. O representante regularmente habilitado da empresa que declarar falsamente se tratar de microempresa ou empresa de pequeno porte para valer-se do tratamento diferenciado concedido pela LC nº 123/2006, incorrerá no crime de falsidade ideológica e estará sujeito às penas previstas no art. 299 do Código Penal, sem prejuízo das demais penalidades cíveis e administrativas cabíveis. 6.14. Na hipótese da não contratação nos termos previstos no subitem 6.12, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame. 6.15. Finda a etapa de lances, a Pregoeira examinará a proposta classificada em primeiro lugar e verificará a habilitação do licitante conforme disposição do Edital (subitem 8.6).
+
+7. DA INTERRUPÇÃO INVOLUNTÁRIA DA COMUNICAÇÃO 7.1. Em caso de desconexão da pregoeira, no decorrer da etapa de lances, se o sistema eletrônico permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados. 7.2. Quando a desconexão da pregoeira persistir por tempo superior a dez minutos, a sessão do pregão na forma eletrônica será suspensa e reiniciada somente após comunicação aos participantes, no endereço eletrônico utilizado para divulgação.
+6
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+8. DA ACEITABILIDADE DA PROPOSTA/DOCUMENTAÇÃO 8.1. A proposta ajustada ao lance final do licitante vencedor (Anexos I G a Ii) e os documentos exigidos para habilitação que não estejam contemplados no Sicaf, inclusive quando houver necessidade de envio de anexos, deverão ser remetidos pelo Comprasnet, quando convocado, ou para o fax nº. (61) 2020-3171, no prazo de até três horas (cento e oitenta minutos), contados do encerramento da etapa de lances; 8.1.1. Será de 3 (três) dias úteis o prazo para entrega do original da PROPOSTA (subitem 8.3), originais ou cópias autenticadas de toda a documentação para a HABILITAÇÃO (conforme indicado no subitem 8.6) à ENAP, situada no SAIS Área 2A, Setor Policial Sul ­ Brasília/DF - CEP 70.610-900, contados do encerramento da licitação, em envelope com a seguinte identificação: Remetente: RAZÃO SOCIAL DO PROPONENTE: CNPJ DO PROPONENTE: Endereço: CEP: Destinatário: ESCOLA NACIONAL DE ADMINISTRAÇÃO PÚBLICA ­ ENAP Aos Cuidados da Pregoeira Simone Moreira de Oliveira PREGÃO ELETRÔNICO Nº. 11/2010 Endereço: SAIS Área 2A, Setor Policial Sul CEP: 70.610-900 Cidade - UF 8.2. O licitante deverá responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumindo como firmes e verdadeiras suas propostas, inclusive os atos praticados diretamente ou por seu representante, não cabendo à ENAP responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros (art. 13, III do Decreto 5.450/2005). 8.3. A Proposta de Preços deverá obedecer às seguintes condições: 8.3.1. Ser apresentada em 01 (uma) via sem emendas, rasuras ou entrelinhas, preferencialmente em papel timbrado do proponente e redigida com clareza, salvo quanto a expressões técnicas de uso corrente, sendo firme e precisa, sem alternativas de preços ou qualquer outra condição que induza o julgamento a ter mais de um resultado; 8.3.2. Conter a identificação do licitante indicando a Razão Social, CNPJ, Inscrição Estadual e Municipal, endereço, cidade, estado, CEP, telefone, fax, nome do sócio administrador ou preposto (com poderes para contratar outorgados em documento público), RG, CPF, endereço, telefone, fax, email, nome do banco, número da agência e número da conta corrente, fazendo menção ao número do presente Edital. 8.3.3. Descrever de forma clara o objeto a que se refere a proposta, bem como as demais especificações que bem indiquem o item, de acordo com a descrição constante neste edital e seus anexos.
+7
+
+Cidade/UF
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+8.3.4. Conter o valor unitário do objeto e o valor global total da proposta. O valor global total, em algarismos arábicos e por extenso, em conformidade com o último lance dado, pelo qual o licitante se propõe a realizar o objeto deste Pregão, contendo declaração expressa de que nos preços cotados estão incluídos: insumos, frete, seguro, tributos, encargos e todas as demais despesas, de quaisquer naturezas, incidentes sobre o item ofertado, nada mais sendo lícito pleitear a qualquer título. 8.3.5. Respeitar o estabelecido na última convenção ou acordo coletivo da categoria envolvida no serviço. 8.3.6. Informar o prazo de validade da proposta não inferior a 60 (sessenta) dias contados da data de abertura da Sessão Pública estabelecida no Preâmbulo deste Edital. 8.4. Analisada a proposta de preços, a Pregoeira efetivará a aceitação no sistema Comprasnet, consagrando-se vencedora aquela que apresentar o menor preço global, conforme Planilhas Orçamentárias - ANEXO I G até I i. 8.4.1. Detectados pequenos erros ou falhas sanáveis na apresentação da proposta, a Pregoeira poderá permitir a correção da planilha, desde que não haja majoração do valor final da proposta. 8.5. Se a proposta não for aceitável ou se o licitante não atender às exigências para habilitação, a Pregoeira examinará a proposta subsequente e, assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda a este Edital. 8.5.1. Ocorrendo a situação a que se refere o item anterior, a Pregoeira poderá negociar com o licitante para que seja obtido melhor preço. 8.6. Para fins de HABILITAÇÃO, DOCUMENTAÇÕES relativas a:     habilitação jurídica qualificação econômico-financeira regularidade fiscal qualificação técnica Cédula de identidade do representante legal da empresa. Registro comercial, no caso de empresa individual. o licitante deverá apresentar as
+
+8.6.1. Relativas à Habilitação Jurídica: 8.6.1.1. 8.6.1.2.
+
+8.6.1.3. Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, para as sociedades comerciais e, no caso de sociedades por ações, acompanhado dos documentos comprobatórios de eleição de seus administradores. 8.6.1.4. Inscrição do ato constitutivo, no caso de sociedades civis, acompanhado de prova da diretoria em exercício. 8.6.1.5. Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir.
+8
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+8.6.2. Relativas à Qualificação Econômico-Financeira: 8.6.2.1. Certidão negativa de falência ou Recuperação Judicial ou Extrajudicial, expedida pelo distribuidor da sede do proponente. 8.6.2.2. A boa situação financeira será comprovada pelos índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC) superiores a 1 (um inteiro), calculados de acordo com a fórmula abaixo:
+
+LG = Ativo Circulante + Realizável a Longo Prazo Passivo Circulante + Exigível a Longo Prazo
+
+SG = Ativo Total . Passivo Circulante + Exigível a Longo Prazo
+
+LC = Ativo Circulante Passivo Circulante 8.6.2.3. As empresas licitantes que apresentarem resultado igual ou menor que 1 (um), em qualquer um dos índices referidos na IN-MARE nº 5/95, inciso V, item 7, deverão comprovar que possuem capital social mínimo ou patrimônio líquido mínimo igual ou superior a 10% (dez por cento) do valor estimado dos itens cotados, conforme o caso. 8.6.3. Relativas à Regularidade Fiscal: 8.6.3.1. Prova de inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ/MF). 8.6.3.2. Prova de inscrição no cadastro de contribuintes estadual ou municipal, se houver, do domicílio ou sede do proponente, pertinente ao seu ramo de atividade e compatível com o objeto contratual. 8.6.3.3. Prova de regularidade perante a Fazenda Federal quanto a débitos relativos aos tributos federais, e perante a Procuradoria da Fazenda Nacional quanto à Dívida Ativa na União, mediante Certidão Conjunta de Débitos Relativos aos Tributos Federais, e à Divida Ativa da União; perante as Fazendas Estadual, Distrital e Municipal do domicílio ou sede do proponente, ou outra equivalente, na forma da lei. 8.6.3.4. Prova de regularidade relativa à Seguridade Social: Certidão Negativa de Débito (CND), emitida pelo Instituto Nacional do Seguro Social (INSS). 8.6.3.5. Prova de regularidade relativa ao Fundo de Garantia por Tempo de Serviço (FGTS), mediante Certidão de Regularidade de Fornecedor (CRF), emitida pela Caixa Econômica Federal. 8.6.4. Qualificação Técnica:
+9
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+8.6.4.1. Um ou mais Atestados de Capacidade Técnica, fornecidos por pessoa jurídica de direito público ou privado, que comprovem experiência na prestação de serviços de desenvolvimento e manutenção de sistemas utilizando as tecnologias PHP e Microsoft SQL SERVER, com escopo e metodologia compatíveis ao especificado no Termo de Referência ­ Anexo I deste Edital ­ e seus anexos. 8.6.4.1.1. Os atestados acima mencionados deverão conter, no mínimo, as informações exigidas no item 3.3.2 do Termo de Referência ­ Anexo I desse Edital. 8.6.4.2. Apresentar registro ou inscrição no Conselho Regional respectivo.
+
+8.6.4.2.1. Caso a Contratada não esteja obrigada a registro em nenhuma entidade profissional fiscalizadora, deverá apresentar declaração, em papel timbrado da empresa, sob as penas da lei, da não obrigatoriedade. 8.6.4.3. Comprovante de possuir em seu quadro permanente, na data prevista para entrega da proposta, profissional de nível superior, devidamente registrado no Conselho Regional respectivo, que será o Responsável Técnico para acompanhar a execução dos serviços. Tal comprovação será feita mediante a apresentação de cópia de contrato de trabalho ou carteira de trabalho ou ficha de registro de empregado, ou ainda outro documento comprobatório; 8.6.5. As empresas deverão apresentar ainda: 8.6.5.1. Declaração expressa do proponente, sob as penas da Lei, comprometendo-se a informar quanto à superveniência de fatos impeditivos para a sua habilitação neste certame, na forma da Lei 8.666/93, art. 32, § 2º, alterado pela Lei 9.648/98, IN/MARE nº 05/95. Essa declaração deverá ser feita no sistema Comprasnet. 8.6.5.2. Declaração do proponente de que não possui em seu quadro de pessoal empregado menor de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre e menor de 16 (dezesseis) anos em qualquer trabalho, salvo na condição de aprendiz, a partir de 14 (quatorze) anos, em atendimento ao preceito da CF/88, art. 7º, XXXIII, em conformidade com a Lei 9.854/99, regulamentada pelo Decreto nº 4.358, de 05/09/2002. Essa declaração deverá ser feita no sistema Comprasnet. 8.6.5.3. Declaração específica para microempresa, empresa de pequeno porte ou sociedade cooperativa. Essa declaração deverá ser feita no sistema Comprasnet, no caso de micro e pequenas empresas. As sociedades cooperativas devem utilizar o modelo existente no ANEXO II deste Edital. 8.7. Os licitantes que tenham obtido habilitação parcial no Sistema de Cadastramento Unificado de Fornecedores (Sicaf), na qualificação compatível com o objeto do presente certame, ficarão dispensados da apresentação dos documentos relativos à habilitação jurídica, regularidade fiscal, e qualificação econômico-financeira, ficando, todavia, obrigados a apresentar a documentação relativa à qualificação técnica e a CERTIDÃO NEGATIVA DE FALÊNCIA OU
+10
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+RECUPERAÇÃO JUDICIAL OU EXTRAJUDICIAL, EXPEDIDA PELO DISTRIBUIDOR DA SEDE DA PESSOA JURÍDICA, com data de emissão de até 60 (sessenta) dias da abertura da licitação, quando a validade não constar no corpo do documento. 8.8. Toda a documentação para a comprovação de regularidade fiscal das microempresas, empresas de pequeno porte deverá ser apresentada mesmo que essa contenha alguma restrição. 8.8.1. Havendo restrição, será assegurado prazo de 2 (dois) dias úteis, prorrogáveis uma única vez por igual período, contados do momento em que o licitante for declarado o vencedor do certame, para a regularização da documentação e emissão das certidões negativas ou positivas com efeito de negativas. 8.8.2. A não regularização da documentação, no prazo aqui previsto, implicará a decadência do direito à contratação, sem prejuízo das sanções previstas neste Edital, sendo facultado à Pregoeira convocar os licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou propor a revogação deste Pregão. 8.9. Não serão aceitos protocolos de entrega ou solicitação de documento em substituição aos requeridos neste Edital e seus Anexos. 8.10. Se a documentação de habilitação não estiver completa e correta ou contrariar qualquer dispositivo deste Edital e seus anexos, a Pregoeira considerará o proponente inabilitado, ressalvados os casos de tratamento diferenciado, previstos neste Edital (Decreto 6.204/2007). 8.11. A apresentação de declaração falsa relativa ao cumprimento dos requisitos de habilitação sujeitará o proponente às sanções previstas neste Edital, sem prejuízo das responsabilidades civis e criminais que o ato ensejar. 9. DOS RECURSOS ADMINISTRATIVOS 9.1. Declarado o vencedor, qualquer licitante poderá, durante a Sessão Pública, de forma imediata e motivada, manifestar intenção de interpor recurso, conforme Decreto nº 5.450/2005 em seu art. 26. 9.2. A decisão da Pregoeira, podendo esse ser auxiliado por servidor do Órgão Demandante do objeto, deverá ser motivada e submetida à apreciação da autoridade responsável pela licitação. 9.3. O recurso contra a decisão da Pregoeira não terá efeito suspensivo. 9.4. Os autos do processo permanecerão com vistas franqueadas aos interessados na unidade de Serviço de Compras e Contratos, Térreo do Edifício Sede da ENAP, SAIS, Área 2A, Brasília, DF. Fone: (61) 2020-3000 / Fax: (61) 2020-3171. 9.5. Não serão conhecidos os recursos interpostos sem manifestação da intenção de recurso no ato da Sessão Pública, os apresentados fora dos respectivos prazos legais, os enviados por fax, bem como os que não contiverem a identificação ou a assinatura do responsável legal ou preposto da empresa. 9.6. As razões dos recursos deverão ser apresentadas por escrito, protocoladas tempestivamente na Seção de Protocolo / ENAP, Térreo do Edifício Sede, e
+11
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+dirigidas à Diretora de Gestão Interna, a qual decidirá sobre os recursos após apreciação do parecer da Pregoeira, devendo, ainda, serem enviadas para o email: licitacoesenap@enap.gov.br, com o objetivo de tornar célere a resposta.
+
+10. DA ADJUDICAÇÃO E HOMOLOGAÇÃO 10.1. O objeto deste Pregão será adjudicado pela Pregoeira ao licitante vencedor, se não houver comunicação, por parte de licitante, da intenção de recorrer devidamente registrada em ata. 10.1.1. Se houver recurso contra atos da Pregoeira, a adjudicação e a homologação caberão à autoridade competente após o deferimento ou indeferimento do recurso interposto e dado o conhecimento do seu resultado. 10.2. A homologação, ato de ratificação do processo licitatório por autoridade competente, só poderá ser realizada depois do ato de adjudicação do objeto ao proponente vencedor e depois de realizadas diligências para comprovação de capacidade técnica, equipamentos e instalações físicas, quando necessário. 10.3. A homologação do resultado desta licitação não implicará direito à contratação pela Administração.
+
+11. DAS SANÇÕES ADMINISTRATIVAS 11.1. Suspensão - Quem, convocado dentro do prazo de validade da sua proposta, não celebrar o contrato, deixar de entregar documentação exigida para o certame ou apresentar documentação falsa, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União, Estados, Distritu Federal ou municípios, será descredenciado no Sicaf, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4o da Lei 10.520/2002, pelo prazo de até 5 (cinco) anos, sem prejuízo das multas previstas no edital e no contrato e das demais cominações legais. 11.2. Pela inexecução total ou parcial do contrato a Administração poderá, garantida a prévia defesa, aplicar ao contratado as seguintes sanções: 11.2.1. advertência por escrito; 11.2.2. Multa, conforme abaixo definido: 11.2.2.1. multa de 10% (dez por cento) sobre o valor total da contratação quando for constatado o descumprimento das condições de habilitação exigidas neste Edital, no Contrato e/ou no Termo de Referência; 11.2.2.2. o atraso injustificado na execução contratual, exceto os estabelecidos no Acordo de Nível de Serviços, implicará multa correspondente a 1% (um por cento) por dia de atraso, calculada sobre o valor do objeto em atraso, até o limite de 30% (trinta por cento) do objeto em atraso; 11.2.2.3. multa de 5% (cinco por cento), calculada sobre o valor total da contratação devidamente atualizado, sem prejuízo da aplicação de
+12
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+outras sanções previstas no art. 28, do Decreto nº 5.450/2005, na hipótese de recusa injustificada da licitante vencedora ou da CONTRATADA em apresentar a garantia no prazo concedido ou recompor o valor da garantia, no prazo máximo de 48 (quarenta e oito) horas, após regularmente notificada; 11.2.2.4. multa de 10% (dez por cento) sobre o valor total da contratação quando for constatada a ausência de vínculo empregatício com a CONTRATADA dos empregados responsáveis pelos serviços contratados, conforme exigido no Termo de Referência ­ ANEXO I deste Edital; 11.2.2.5. Suspensão temporária de participação em licitação e impedimento de contratar com a ENAP, por prazo não superior a 2 (dois) anos, na hipótese de atraso injustificado da execução do objeto por período superior a trinta dias; 11.2.2.6. Declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que o contratado ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no subitem 11.2.2.5. 11.3. A aplicação das sanções previstas neste Edital não exclui a possibilidade de aplicação de outras, previstas na Lei nº 8.666/1993, inclusive a responsabilização da licitante vencedora por eventuais perdas e danos causados à Escola Nacional de Administração Pública. 11.4. A multa deverá ser recolhida no prazo máximo de 10 (dez) dias corridos, a contar da data do recebimento da comunicação enviada pela Escola Nacional de Administração Pública. 11.5. O valor da multa poderá ser descontado da Nota Fiscal/Fatura, da garantia ou de crédito existente na Escola Nacional de Administração Pública, em favor da CONTRATADA, sendo que, caso o valor da multa seja superior ao crédito existente, a diferença será cobrada na forma da lei. 11.6. As sanções previstas neste Edital são independentes entre si, podendo ser aplicadas de forma isolada ou cumulativamente, sem prejuízo de outras medidas cabíveis. 11.7. Não será aplicada multa se, justificada e comprovadamente, o atraso na execução do serviço advier de caso fortuito ou de força maior. 11.8. Em qualquer hipótese de aplicação de sanções, serão assegurados à licitante o contraditório e a ampla defesa. 11.9. As multas e outras sanções aplicadas só poderão ser relevadas, motivadamente e por conveniência administrativa, mediante ato do Diretor de Gestão Interna, devidamente justificado. 11.10. As penalidades serão obrigatoriamente registradas no Sicaf e no caso de suspensão de licitar, a licitante deverá ser descredenciada pelo prazo de suspensão imposto, sem prejuízo das multas previstas neste Edital e das demais cominações legais.
+13
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+12. DA DOTAÇÃO ORÇAMENTÁRIA 12.1 Os recursos para cobrir as despesas decorrentes da contratação objeto desta licitação estão consignados no Orçamento-Geral da ENAP, cuja classificação funcionalprogramática constará da nota de empenho respectiva.
+
+13. DAS OBRIGAÇÕES DA CONTRATADA 13.1 Conforme disposto no Item 15 do Termo de Referência - ANEXO I
+
+14. DAS OBRIGAÇÕES DA CONTRATANTE 14.1 Conforme disposto no Item 14 do Termo de Referência ­ ANEXO I.
+
+15. DA GARANTIA 15.1. Para a assinatura do Contrato, a Contratante deverá apresentar à Contratada: 15.1.1. Garantia, nas condições estabelecidas no Art. 56, da Lei 8.666/93; 15.2. A garantia de que trata o subitem 15.1 deverá ser prestada no valor correspondente a 5% (cinco por cento) do valor global do Contrato, na modalidade a ser escolhida pela licitante vencedora, e ficará sob a responsabilidade da ENAP, consoante o § 1º, do art. 56, da Lei nº 8.666/93. 15.2.1. O período de garantia deverá compreender o prazo de vigência de quinze meses, na forma definida no art. 19 Inciso XIX da IN nº 03, de 15 de outubro de 2009.
+
+16. DO CONTRATO 16.1. Após a homologação do certame, a licitante vencedora terá o prazo de 05 (cinco) dias úteis contados a partir da data de sua convocação, para assinatura do Contrato, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas em Lei. 16.2. O prazo previsto no subitem anterior poderá ser prorrogado, por igual período, por solicitação justificada da adjudicatária, se aceita pela Contratante. 16.3. Antes da celebração do Contrato, a Contratante realizará consulta eletrônica ao Sistema de Cadastramento Único de Fornecedores (Sicaf), e ao Cadastro Informativo de Créditos não Quitados (Cadin), cujos resultados serão anexados aos autos do processo. 16.4. Inscrição ou Registro no Conselho Regional respectivo. 16.5. A Contratada ficará obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões, que se fizerem necessários, de até 25% (vinte e cinco por cento) do valor inicial atualizado do Contrato.
+14
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+16.6. Durante a vigência do Contrato a Contratada deverá manter todas as condições de habilitação exigidas no Edital. 16.7. O Contrato terá vigência de 12 (doze) meses, contados a partir da data de sua assinatura ou outra data nele determinada, podendo ser prorrogado por períodos iguais e sucessivos, mediante Termos Aditivos, até o limite máximo de 60 (sessenta) meses, se comprovada a necessidade e a vantagem da sua continuidade para a Administração, nos termos do inciso II, do art. 57, da Lei nº. 8.666/93.
+
+17. DO PAGAMENTO 17.1. O pagamento será efetuado nas condições estabelecidas no item 17 do Termo de Referência ­ ANEXO I - deste Edital. 17.1.1. O Termo de Recebimento Definitivo será emitido nas condições estabelecidas no subitem 4.12.14 do Termo de Referência ­ Anexo I deste Edital. 17.1.2. O não atendimento dos níveis de serviço pela contratada ensejará a aplicação dos redutores dispostos no item 5 do Termo de Referência. 17.2. Quando da ocorrência de eventuais atrasos de pagamento provocados exclusivamente pela Administração, o valor devido deverá ser acrescido de atualização financeira, e sua apuração se fará desde a data de seu vencimento até a data do efetivo pagamento, em que os juros de mora serão calculados à taxa de 0,5% (meio por cento) ao mês, ou 6% (seis por cento) ao ano, mediante aplicação das seguintes fórmulas: I=(TX/100) 365 EM = I x N x VP, onde: I = Índice de atualização financeira; TX = Percentual da taxa de juros de mora anual; EM = Encargos moratórios; N = Número de dias entre a data prevista para o pagamento e a do efetivo pagamento; VP = Valor da parcela em atraso. 17.3. Caso a CONTRATADA seja optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte (Simples), deverá apresentar, juntamente com a Nota Fiscal, a devida comprovação a fim de evitar a retenção na fonte dos tributos e contribuições, de acordo com a legislação específica. 18. ­ DAS DISPOSIÇÕES GERAIS 18.1. Qualquer modificação no presente Edital será divulgada pela mesma forma que se divulgou o texto original, reabrindo-se o prazo inicialmente
+15
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+estabelecido, exceto quando, inquestionavelmente, a alteração não afetar a formulação da proposta. 18.2. As normas que disciplinam este Pregão serão sempre interpretadas em favor da ampliação da disputa entre os interessados, sem comprometimento do interesse da Administração, da finalidade e da segurança da contratação. 18.3. O desatendimento de exigências formais não essenciais não importará no afastamento do licitante, desde que seja possível a aferição da sua qualificação e a exata compreensão da sua proposta, durante a realização da Sessão Pública de Pregão. 18.4. É facultada à Pregoeira ou à autoridade competente, em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou complementar a instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar do mesmo desde a realização da Sessão Pública. 18.5. Por força do disposto na Lei 10.522/2002, art. 6º, inciso III, a ENAP fará as devidas consultas ao Cadastro Informativo dos Créditos não Quitados de Órgãos e Entidades Federais (Cadin), previamente à contratação objeto do certame. 18.6. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na ENAP. 18.7. A ENAP poderá revogar a licitação por razões de interesse público, não gerando às licitantes direito de indenização, ressalvado o direito do contratado de boa-fé de ser ressarcido pelos encargos que, comprovadamente, tiver suportado no cumprimento do contrato. 18.8. Caso a licitante não tenha o serviço cadastrado na linha de fornecimento no Siasg, o que será confirmado por meio de consulta eletrônica na sessão do Pregão, essa deverá apresentar o seu contrato social com respectivas alterações, comprovando estar apta a executar o serviço, sob pena de desclassificação; 18.9. É vedada a subcontratação total ou parcial do objeto do presente certame. 18.10. Este Pregão poderá ter a data de abertura da Sessão Pública transferida, por conveniência exclusiva da Administração da ENAP. 18.11. Aos casos omissos aplicar-se-ão as demais disposições constantes da Lei nº 10.520/2002, do Decreto nº 5.450/2005, da Lei nº 8.666/93 e demais diplomas legais.
+
+19. DO FORO As questões decorrentes da execução deste Edital serão processadas e julgadas pela Justiça Federal, Seção Judiciária de Brasília ­ DF. Brasília - DF, Simone Moreira de Oliveira Pregoeira de xxxxx de 2010.
+
+16
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I PREGÃO Nº. 11/2010 TERMO DE REFERÊNCIA CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO DE
+SISTEMAS DE INFORMAÇÃO
+
+1. DO OBJETO 1.1. O objeto desta contratação é a prestação de serviços de manutenção de sistemas de informação, que compreende a manutenção corretiva, adaptativa, evolutiva ou perfectiva dos sistemas elencados neste termo, em conformidade com as especificações, padrões técnicos de desempenho e qualidade estabelecidos neste termo. Os serviços de manutenção de sistemas devem ser prestados nas instalações da contratante, mediante a emissão de ordens de serviços dimensionadas pela métrica de Pontos de Função Não Ajustados (PF), remunerados pelo quantitativo mensal de resultados recebidos e homologados, acompanhados da documentação técnica, administrativa e fiscal exigida neste termo. O quantitativo máximo de Pontos de Função Não Ajustados será de 500 (quinhentos), sem a obrigação de consumo mínimo, pelo prazo de 12 (doze) meses, prorrogável por igual e sucessivo período, limitado a 60 (sessenta) meses, contados da assinatura do contrato.
+
+1.2.
+
+1.3.
+
+2. DA JUSTIFICATIVA DA CONTRATAÇÃO 2.1. Os sistemas de Administração de Cursos, Especialização e Formação de Carreira, o de Administração Financeira, o de Cadastro de Colaboradores e o de Administração de Eventos, bem como o portal da ENAP, são considerados pela Escola como sistemas centrais, sendo primordial sua manutenção e alterações para atendimento de exigências legais. Esses sistemas apoiam as atividades fins e administrativas que viabilizam o cumprimento dos objetivos estratégicos. A ENAP possui outros sistemas importantes para o cumprimento dos objetivos, que também serão alvo de manutenção, porém com grau menor de relevância e registros de correções. A contratação de serviços de manutenção dos sistemas existentes, objeto deste termo, consta como prioridade do Relatório 001/2009 ­ CGTI/DGI. Este relatório é parte integrante do Plano Estratégico de Tecnologia da Informação (Peti) e Plano Diretor de Tecnologia da Informação (PDTI), validados e aprovados pelo Comitê de Tecnologia da Informação (CTI) em 01 de outubro de 2009, e publicados na Portaria N° 141, de 05 de outubro de 2009 dessa instituição. Considerando as orientações no Acórdão TCU 2471/2008 ­ Plenário - e o disposto na IN 04/2008 da SLTI/MPOG, os serviços de desenvolvimento e manutenção de sistemas requerem definição de método para quantificar o
+17
+
+2.2.
+
+2.3.
+
+2.4.
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+volume de serviços e remunerar com base em métricas, indicadores e valores aceitáveis. Nesta contratação será adotada a métrica Pontos de Função Não Ajustados, visto que é utilizada no mercado de TI e que outros órgãos da Administração Pública Federal já a adotaram. As contagens de Pontos de Função dos projetos de desenvolvimento e manutenção evolutiva são baseadas nas regras de contagem definidas no Manual de Práticas de Contagem de Pontos de Função ­ versão 4. 3 (Function Point Counting Practices Manual release 4.3), publicado pelo IFPUG (International Function Point Users Group), sítio: www.ifpug.org. Os demais projetos, assim como as mudanças de requisitos, devem ser dimensionados seguindo as regras de contagem do Roteiro de Contagem de Pontos de função da ENAP. 2.5. 2.6. Estima-se a utilização de 500 PF para a manutenção desses sistemas legados. Pretende-se, com essa contratação, que a manutenção atenda as necessidades dos usuários gestores quanto ao correto funcionamento dos sistemas, garantido as correções necessárias e a entrega de relatório de atendimento que transfiram o domínio da tecnologia à ENAP.
+
+3. DA LICITAÇÃO 3.1. FORMA DE SELEÇÃO DO FORNECEDOR 3.1.1. Menor preço por meio da modalidade pregão, conforme a orientação disposta no Acórdão TCU 2471/2008 ­ Plenário - e Nota Técnica n° 02/2008 (SEFTI/TCU), visto que o objeto em questão possui padrões de desempenho e de qualidade objetivamente definidos neste termo, com base em especificações usuais de mercado. 3.1.2. Poderão participar desta licitação pessoas jurídicas que explorem ramo de atividade compatível com o objeto licitado e que atendam a todas as exigências deste termo e do edital. 3.2. PROPOSTA 3.2.1. A licitante deverá consignar os valores, obrigatoriamente, em moeda corrente do Brasil (Real), constando o valor unitário do Ponto de Função Não Ajustado (PF) e o valor total da proposta, em algarismos e por extenso, conforme modelo ANEXO I (Modelo de Proposta de Preços). 3.2.2. Nos preços propostos deverão estar consideradas as despesas com frete, seguro, tributos, encargos e todas as demais despesas, de qualquer natureza, incidentes sobre o objeto desta contratação. 3.2.3. A proposta de preços deverá conter, obrigatoriamente: 3.2.3.1. 3.2.3.2. Preços ajustados ao lance final, ofertado no pregão. As especificações detalhadas do objeto ofertado.
+18
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+3.2.3.3.
+
+Declaração expressa de estarem incluídos nos preços propostos todos os custos e despesas de qualquer natureza. Na falta de tal declaração, será considerada como inclusa nos preços toda e qualquer despesa. Informação do prazo de validade da proposta, que não poderá ser inferior a 60 (sessenta) dias. Na falta de tal informação, será considerado aceito o prazo citado neste item.
+
+3.2.3.4.
+
+3.2.4. Após análise, serão desclassificadas as propostas que: 3.2.4.1. Não atenderem às exigências contidas neste termo e seus anexos, sejam omissas, incompletas ou apresentem irregularidades, ou defeitos capazes de dificultar o julgamento e, ainda, aquelas que se opuserem a quaisquer dispositivos legais vigentes.
+
+3.2.5. Além da apresentação da proposta, a licitante deverá obrigatoriamente apresentar a planilha de composição do ponto de função (ANEXO G) e a planilha de custo e formação de preço (ANEXO H). As planilhas têm a finalidade de subsidiar o processo de repactuação prevista neste termo. 3.3. HABILITAÇÃO TÉCNICA 3.3.1. Atestados fornecidos por pessoa jurídica de direito público ou privado, que comprovem experiência na prestação de serviços de desenvolvimento e manutenção de sistemas, utilizando as tecnologias PHP e Microsoft SQL SERVER, com escopo e metodologia compatíveis ao especificado neste termo. 3.3.2. Os atestados acima mencionados deverão conter, no mínimo, as seguintes informações: 3.3.2.1. 3.3.2.2. 3.3.2.3. 3.3.2.4. 3.3.2.5. 3.3.2.6. 3.3.2.7. 3.3.2.8. Nome do cliente; Endereço completo do cliente; Identificação do contrato; Objeto contratual; Nome do emitente; Cargo do emitente; Telefone, fax e/ou e-mail de contato; Declaração de que foram atendidas as expectativas do cliente quanto a cumprimento de prazos, além de qualidade dos produtos e serviços.
+19
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+3.3.3. Fica facultado à ENAP realizar diligências, a qualquer momento, com o objetivo de verificar se os atestados são adequados e atendem as exigências contidas neste termo. 3.3.4. Poderá ser exigida apresentação dos respectivos contratos e aditivos de prestação de serviços, relativos aos atestados apresentados pela licitante. 3.3.5. Toda documentação deverá ser entregue na fase de habilitação do certame, sob pena de desclassificação da empresa licitante. 3.4. Para segurança da CONTRATANTE quanto ao cumprimento das obrigações contratuais, a CONTRATADA deverá optar, no montante de 5% (cinco por cento) do valor total do contrato, por uma das seguintes modalidades de garantia constantes na Lei 8.666/1993. 3.4.1. É responsabilidade da CONTRATADA a renovação ou complemento da garantia prestada, quando couber, estando sua liberação condicionada ao término das obrigações contratuais. 4. DO DETALHAMENTO DOS SERVIÇOS 4.1. O serviço de manutenção consiste na correção de defeitos presentes nos sistemas em produção, alterações de comportamentos inadequados que causem problemas de uso ou funcionamento do sistema, alterações de interface do usuário e confecção e adaptação de relatórios e funcionalidades para atendimento de exigências legais decorrentes de alterações na lei ou demandas dos gestores. São considerados os seguintes tipos de manutenção: 4.2.1. Manutenção Corretiva ­ Consiste na correção de defeitos em aplicações em produção. Como defeitos entendem-se quaisquer comportamentos inadequados que causem problemas de uso ou funcionamento da aplicação e quaisquer desvios em relação aos requisitos aprovados pela área requisitante. Os custos de manutenção corretiva são de responsabilidade da CONTRATADA, durante o período de garantia dos serviços prestados por essa. Caso o problema não possua vínculo aos serviços prestados pela CONTRATADA, sua correção será baseada na "Tabela de Custo por Tipo de Serviço", item 4.14.4 do presente certame; 4.2.2. Manutenção Adaptativa ­ Consiste na adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e SGBD, que não impliquem inserção, alteração ou exclusão de funcionalidades. 4.2.3. Manutenção Evolutiva ­ Consiste na inclusão, alteração e exclusão de características e funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio. 4.2.4. Manutenção Perfectiva ­ Consiste na adequação de aplicações à necessidade de melhorias, sem alteração de funcionalidades sob o ponto de vista do usuário. A finalidade da manutenção perfectiva é
+20
+
+4.2.
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+promover a melhoria de desempenho, processos de manutenção e usabilidade da aplicação. 4.3. Os sistemas de Administração de Cursos, Especialização e Formação de Carreira (WebCEF), o de Administração Financeira (WebSAF), o de Cadastro de Colaboradores (WebSCO), o de Administração de Eventos (WebSAE) e o portal da ENAP são os sistemas prioritários para a manutenção. Os demais sistemas possuem menor prioridade e baixa necessidade de manutenção. Os sistemas alvo de manutenção estão listados no Erro! Fonte de referência não encontrada.. O objetivo deste certame é a geração de um contrato que permita a terceirização dos serviços especificados no objeto, por intermédio da emissão de Ordens de Serviços (OS's), numeradas sequencialmente, com prazos e produtos bem caracterizados. Os serviços contratados serão solicitados gradativamente, de acordo com as necessidades da ENAP, não ficando obrigada a utilizar o total de pontos de função estimados para esta contratação. Os prazos para início das atividades relativas aos serviços contratados serão definidos pela ENAP, a partir da data de assinatura do contrato e emissão das Ordens de Serviços. A ENAP emitirá quantas Ordens de Serviços forem necessárias durante a vigência do contrato, de acordo com seu planejamento executivo das atividades relacionadas ao objeto deste edital, até atingir o quantitativo máximo estimado. REALIZAÇÃO DE REUNIÕES 4.9.1. O fiscal do contrato convocará a empresa contratada a uma reunião inicial para a sua inserção no âmbito da ENAP, a fim de buscar a compreensão da empresa nos aspectos que envolvam a execução dos serviços objeto deste termo. 4.9.2. A reunião de caráter obrigatório para a Contratada ocorrerá no prazo máximo de 2 (dois) dias úteis, contados a partir da assinatura do contrato. 4.9.3. A ENAP poderá convocar outras reuniões durante a vigência do contrato, sempre que necessário para o andamento da execução dos serviços, sem ônus adicionais para a ENAP. 4.10. REALIZAÇÃO DE TESTES 4.10.1. A CONTRATADA deve entregar, junto com os artefatos construídos, toda a documentação contendo as evidências de teste, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado. 4.10.2. A ENAP se reserva o direito de aplicar auditoria sobre o código-fonte entregue pela CONTRATADA e para isso, utilizará como insumos: o código-fonte, a especificação de programas, o modelo de arquitetura de solução e os padrões de codificação definidos.
+
+4.4. 4.5.
+
+4.6.
+
+4.7.
+
+4.8.
+
+4.9.
+
+21
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.10.3. Os serviços de auditoria do trabalho de teste e de auditoria sobre o código-fonte poderão ser realizados pela ENAP ou empresa por ela contratada, com finalidade de apurar a conformidade dos serviços realizados. 4.10.4. Teste Unitário: 4.10.4.1. A ENAP exigirá a execução de Teste Unitário sobre o produto de software construído pela empresa contratada, baseado no planejamento de testes a ser elaborado pela CONTRATADA. 4.10.4.2. Entende-se como Teste Unitário aquele realizado sobre um componente de software isoladamente (Por exemplo: um programa em Java, um programa em PHP, etc), que deve abranger pelo menos as técnicas de teste Caixa Preta e Caixa Branca. 4.10.5. Teste Integrado: 4.10.5.1. A ENAP exigirá a execução de Teste Integrado sobre o produto de software construído pela empresa contratada, baseado no planejamento de testes a ser elaborado pela Contratada. 4.10.5.2. Entende-se como Teste Integrado aquele realizado por meio da navegação de forma progressiva e ordenada pelas telas ou estruturas internas do software onde seus elementos são combinados e testados para avaliação das suas interações (Por exemplo: listar as funcionalidades de navegação em um objeto único, pelo apontamento do objeto que controla o botão (x) e do objeto do (ctrl+f4), para o mesmo objeto que controla a ação fechar do menu). 4.10.6. Teste do Aplicativo: 4.10.6.1. A ENAP exigirá também a execução e evidenciação do teste de aplicativo sobre o produto desenvolvido, de forma a garantir pleno atendimento aos requisitos funcionais do aplicativo e a requisitos não funcionais específicos, de acordo com a especificidade da demanda. 4.10.6.2. Entende-se como Teste de Aplicativo a execução controlada do aplicativo, verificando se o seu comportamento ocorre de acordo com o especificado no serviço, buscando assim mostrar se os resultados estão respeitando os padrões estabelecidos na OS. 4.11. ARTEFATOS A SEREM ENTREGUES 4.11.1. Lista de artefatos a serem entregues na execução dos serviços de manutenção de sistemas; 4.11.1.1. Para manutenção corretiva: atualização de toda a documentação disponível para o sistema corrigido sobre a alteração efetuada.
+22
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.11.1.2. Para as demais manutenções previstas: entregar ou atualizar todos os artefatos previstos no PROCESSO UNIFICADO (UP), especialmente os seguintes: especificação e diagramas de casos de uso; especificação das regras de negócio; projeto de banco de dados (modelo entidade-relacional e dicionários de dados), componentes/códigos-fontes e demais documentações dos sistemas atualizadas. 4.11.1.2.1. A contratante poderá, em comum acordo com a contratada, deixar de exigir algum artefato caso julgue esse desnecessário. Tal fato deverá estar devidamente registrado na(s) OS(s) que compõem a demanda. 4.12. DA EXECUÇÃO DOS SERVIÇOS 4.12.1. A ENAP encaminhará à contratada Registro de Demanda (RD) (ANEXO A) e demais documentos de apoio que julgar necessário. A CONTRATADA poderá solicitar documentação extra para apoio à execução da demanda, que será encaminhada caso haja documentação disponível. 4.12.1.1. O trâmite desses documentos deverá ser viabilizado por meio do sistema de controle de demandas, fornecido pela ENAP.
+
+4.12.2. A contratada deverá elaborar e encaminhar à Coordenação-Geral de Tecnologia da Informação (CGTI), nos prazos máximos definidos na tabela do item 4.18.5 do recebimento do Registro de Demanda, Ordens de Serviço (OS), tantas quantas forem necessárias, detalhando os serviços necessários ao atendimento da demanda. 4.12.3. A ordem de serviço deverá seguir o modelo proposto (ANEXO B) e conterá obrigatoriamente as seguintes informações: 4.12.3.1. Número da OS. 4.12.3.2. Nome do projeto. 4.12.3.3. Data do registro da demanda. 4.12.3.4. Nome da contratada. 4.12.3.5. Perfis técnicos envolvidos. 4.12.3.6. Descrição da demanda com o objetivo da OS e referência ao Registro de Demanda. 4.12.3.7. Lista de artefatos e documentos esperados. 4.12.3.8. Tamanho estimado em PF. 4.12.3.9. Cronograma de execução com data inicial e final para cada fase e seus artefatos e documentos. 4.12.3.10. Valor total da OS por extenso, em R$. 4.12.3.11. Critérios de qualidade. 4.12.3.12. Local e data de recebimento pela ENAP. 4.12.3.13. Assinatura do preposto da contratada.
+23
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.12.3.14. Data de aprovação e assinatura do fiscal do contrato e do responsável pela área demandante. 4.12.4. A ENAP analisará a OS, aprovando-a ou não. A execução do serviço somente poderá ser realizada após a aprovação pela ENAP. 4.12.5. Caso a OS não seja aprovada, a contratada deverá apresentar nova proposta com as alterações solicitadas pela ENAP no prazo de 5 (cinco) dias úteis. 4.12.6. Caso a OS seja aprovada, a contratada iniciará a sua execução em conformidade com todas as condições estabelecidas no contrato e com o cronograma aprovado pela ENAP, apresentado pela contratada na fase de elaboração da OS. 4.12.7. A CGTI ficará responsável pelo monitoramento técnico dos serviços, registrando todas as ocorrências durante a execução da OS e solicitando as correções necessárias. 4.12.8. Durante a execução da OS, a contratada entregará os artefatos exigidos na OS em conformidade com o tipo de manutenção. Para cada OS concluída e seu conjunto de artefatos e documentos, a contratada emitirá o Termo de Entrega, que será submetido ao fiscal do contrato para a avaliação técnica desses produtos entregues. A CGTI emitirá o Termo de Recebimento Provisório (ANEXO C) em até 10 (dez) dias, contados da entrega da OS e seus artefatos e documentos estabelecidos. 4.12.9. O Termo de Recebimento Provisório registrará a avaliação e aderência técnica dos artefatos e soluções desenvolvidas pela contratada. 4.12.10. Caso seja identificada alguma não conformidade, a CGTI registrará a ocorrência e emitirá o Termo de Rejeição (ANEXO E). A CONTRATADA deverá aplicar as correções necessárias e efetuar nova entrega dentro do prazo já estabelecido. Se a entrega ocorrer fora do prazo estabelecido, a CGTI registrará ocorrência e aplicará as penalidades descritas neste termo. 4.12.11. Após a correção, a contratada emitirá novo Termo de Entrega que será objeto de nova avaliação. 4.12.12. O Termo de Entrega deverá fazer referência ao RD e OS a que esteja vinculado, com a descrição dos serviços, artefatos e documentos entregues para homologação, bem como a quantidade de PF executados, o valor a ser pago, data de entrega e a assinatura do preposto da contratada. 4.12.13. O fiscal do contrato receberá os artefatos e documentos estabelecidos para que a área demandante possa homologar o serviço. 4.12.14. O Termo de Recebimento Definitivo (ANEXO D) será emitido por servidor ou comissão designada pela autoridade competente, em até 65 (sessenta e cinco dias) após o termo de recebimento provisório.
+
+24
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.12.15. O Termo de Recebimento Definitivo tem por finalidade atestar que os serviços foram executados em conformidade com as especificações deste termo e do edital. 4.12.16. A área requisitante do serviço deverá homologar, junto à contratada e com o apoio da CGTI, os serviços executados, os artefatos e documentos entregues, conforme os prazos estabelecidos para a emissão do Termo de Recebimento Definitivo. 4.12.17. Após a efetiva entrega do serviço da OS, a ENAP tomará as providências para disponibilizar a solução implementada/corrigida em ambiente de produção, devendo contar com o auxílio da contratada para tanto, sem ônus adicional para a ENAP. 4.12.18. A verificação da qualidade dos serviços prestados e a conformidade dos artefatos e produtos entregues poderão ser realizadas por empresa contrata pela ENAP para esse fim, no prazo que antecede o ateste a ser realizado no Termo de Recebimento Definitivo. 4.12.19. A contratada, para cada OS aprovada, deverá executar os artefatos encomendados, de acordo com os respectivos cronogramas, gerando produtos dentro dos padrões de qualidade e de compatibilidade técnica, conforme a metodologia e os padrões definidos no Processo Unificado (UP) adotado pela ENAP. 4.13. DA MEDIÇÃO DOS SERVIÇOS 4.13.1. Os serviços realizados serão medidos utilizando-se a técnica de Análise em Pontos de Função, de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.3, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org). 4.13.2. A ENAP adotará as técnicas definidas pela Nesma (Netherlands Software Metrics Users Association) para a realização de contagens do tipo estimada e indicativa. 4.13.3. A utilização de novas versões do Manual poderá ser adotada pela ENAP que, em comum acordo com a CONTRATADA, estipulará um prazo apropriado para adequação da prestação dos serviços. 4.13.4. A ENAP adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste, em todos os serviços/sistemas. 4.13.5. Mesmo no caso de ser utilizada uma nova versão desse Manual, o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um), salvo quando a ENAP entender necessária, desde que fundamentada e aplicável, a revisão desse valor. 4.13.6. Os AIE (Arquivos de Interface Externa) deverão ser contados, mas não são remunerados à CONTRATADA; exceto quando seja comprovada tecnicamente junto à ENAP a necessidade de esforço para extração dos dados dos AIE.
+
+25
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.13.7. Sob hipótese alguma a ENAP aceitará e remunerará conversão de dados acima do quantitativo obtido pela contagem das funcionalidades de conversão. 4.13.8. A ENAP adota a "Tabela de Itens Não Mensuráveis" para calcular o esforço de atividades que não são passíveis de serem pontuadas pela técnica de Análise de Pontos de Função. 4.13.9. No caso da CONTRATADA identificar algum quesito não passível de pontuação e que não conste da referida tabela, deverá ser enviado relatório técnico à ENAP que avaliará e, se for o caso, havendo compatibilidade, enquadrará o quesito em algum item da tabela. Caso não haja compatibilidade o serviço (OS) não será aprovado. 4.13.10. O tamanho em Pontos de Função do serviço, acrescido dos Pontos de Função derivados dos itens não mensuráveis, corresponderá à quantidade total de Pontos de Função prevista para o serviço contratado. Tabela de Itens Não Mensuráveis:
+TABELA DE ITENS NÃO MENSURÁVEIS TELAS - LAYOUT - contempla as alterações referentes aos layouts de telas, mudança de posição de campos em telas, relatórios ou layout de arquivos, sem que haja alteração em elementos de dados, arquivos referenciados ou informações de controle. Contempla também inclusão, alteração ou exclusão de logotipo da empresa, divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. Será considerado 0,2 de um ponto de função, para cada 5 elementos. CAMPOS E VARIÁVEIS - contempla a inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem que tenha havido mudança na funcionalidade. Contempla também padronização de nomenclatura de campos e variáveis. Será considerado 0,4 de um ponto de função, para cada 5 dados/campos. Inclusão, Alteração e Exclusão MENSAGENS - contempla a necessidade de alterações de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. Será considerado 0,2 de um ponto de função, para cada 5 mensagens. Alteração do texto da mensagem MENUS - contempla a necessidade de adição ou reestruturação de menus de navegação estáticos; ajuda (help estático); criação, alteração ou exclusão de páginas estáticas. Alteração e/ou Criação de Tela Exclusão de Tela DADOS HARD CODED - contempla a necessidade de inclusão, alteração ou exclusão de dados pertencentes a listas (combo box) ou tabelas físicas. Será considerado 0,2 de um ponto de função, para cada 5 dados/campos. Inclusão, Alteração e Exclusão. Qtd. de Dados/Campos
+
+1
+
+Qtd. de Elementos
+
+Qtd. PF
+
+Total PF
+
+0,2
+
+2
+
+Qtd. de Dados/Campos
+
+Qtd PF
+
+Total PF
+
+O Total de PF é igual a qtd. de elementos, dados, campos ou mensagens, dividido por 5, multiplicado pela Qtd. PF.
+
+0,4 Qtd. de Mensagens Qtd PF 0,2 Qtd. de Telas Qtd. PF 0,5 0,1 Qtd. PF Total PF Total PF O Total de PF é a qtd. de elementos, dados, campos ou mensagens, dividido por 5, multiplicado pela Qtd PF. O Total de PF é igual a qtd. de elementos, dados, campos ou mensagens, dividido por 5, multiplicado pela Total PF
+
+3
+
+4
+
+5
+
+0,2
+
+26
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+Qtd PF. CAMADA DE APRESENTAÇÃO ADICIONAL contempla a necessidade de criação de mais de uma camada de apresentação (diferente) para o mesmo sistema. Exemplo: um sistema construído para rodar no mainframe com camada de apresentação INTRANET e INTERNET, desde que sejam as mesmas funcionalidades com padrões visuais distintos. O total de esforço não poderá ser maior que 30% do tamanho da funcionalidade a que ela se refere. TOTAL DE PF DOS ITENS NÃO MENSURÁVEIS
+
+Qtd. de PF
+
+Qtd. PF
+
+Total de PF
+
+7
+
+0,3
+
+ do PF dos itens
+
+4.14. FORMAS DE CONTAGEM POR CATEGORIA DE SERVIÇO 4.14.1. O tamanho dos serviços será calculado tomando-se por base as definições do item de medição dos serviços, constante neste documento. 4.14.2. Quando da avaliação técnica, a ENAP indicará na OS o tipo de contagem a ser utilizado pela CONTRATADA. 4.14.3. A CONTRATADA deverá utilizar o tipo de contagem "detalhado" ao final do serviço para comprovar o volume de serviços realizados na OS. 4.14.4. Os serviços contratados sofrerão ajustes devido a sua complexidade segundo tabela de reajuste de pontos de função por serviço contratado, descrita abaixo:
+TABELA DE CUSTO POR TIPO DE SERVIÇO Tipo de Serviço Custo / Produtividade do Serviço (*) Para todos os serviços de manutenção evolutiva, serão aplicadas as regras abaixo, independente do tamanho: Funcionalidades INCLUÍDAS ­ serão remuneradas em 100% do valor do ponto de função, vezes a quantidade de PF da(s) fase(s) / disciplina(s) contratada(s); Funcionalidades ALTERADAS ­ serão remuneradas em 50% do valor do ponto de função, vezes a quantidade de PF da(s) fase(s) / disciplina(s) contratada(s); e terão seu fator de produtividade reduzido em 50%; Funcionalidades EXCLUÍDAS ­ serão remuneradas em 25% do valor do ponto de função vezes a quantidade de PF da(s) fase(s) / disciplina(s) contratada(s) e terão seu fator de produtividade reduzido em 75%. Em todos os casos, além dos valores em pontos de função, deverá ser somado total de PF derivado dos "itens não mensuráveis". O custo do serviço será: 50% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de PF derivado dos "itens não mensuráveis". O custo do serviço será: 33% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de PF derivado dos "itens não mensuráveis". É de obrigação da CONTRATADA, sem custo para a CONTRATANTE.
+
+Manutenção Evolutiva
+
+Manutenção Adaptativa
+
+Manutenção Perfectiva
+
+Manutenção Corretiva na Garantia
+
+27
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+O custo do serviço será: 10% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de PF derivado dos "itens não mensuráveis".
+
+Manutenção Corretiva fora da Garantia
+
+(*) A quantidade de PF das fases / disciplinas contratadas deverá ser calculada, considerando-se a distribuição de esforços prevista neste documento.
+
+4.14.5. O valor dos serviços realizados e entregues obedecerá à regra de contagem definida abaixo, que relaciona o quantitativo de serviços realizados, reajustados segundo a tabela de reajuste apresentada acima: VFE = (Qt PF Entrega * Vr PF Contratado) * Fator de Ajuste Serviço Onde: 1) VFE = Valor Financeiro da Entrega; 2) Qt PF Entrega = Quantidade de Pontos de Função relacionados à entrega efetuada pela CONTRATADA, conforme contagem final da OS; 3) Vr PF Contratado = Valor contratado para o Ponto de Função; 4) Fator de Ajuste do Serviço = Fator de ajuste sobre a remuneração, para ajuste do valor em relação ao tipo de serviço contratado: a) Para Manutenções Evolutivas, independente do tamanho do serviço/projeto, o Fator de Ajuste de Serviço será: 1,00 para as funcionalidades INCLUÍDAS; 0,50 para funcionalidades ALTERADAS e 0,25 para funcionalidades EXCLUÍDAS; b) Para Manutenções Adaptativas, o Fator de Ajuste de Serviço será de 0,50; c) Para Manutenções Perfectivas, o Fator de Ajuste de Serviço será de 0,33; d) Para Manutenções Corretivas fora da garantia, o Fator de Ajuste de Serviço será de 0,10. 4.14.6. Estima-se que os serviços classificados como Demanda Emergencial, definidos pela ENAP no Registro da Demanda ou no acionamento para o caso de manutenção corretiva, limitar-se-ão a 20% (vinte por cento) do volume de serviços contratados e obedecerão às mesmas regras de contagem definidas acima. 4.15. DIVERGÊNCIAS DE CONTAGEM 4.15.1. Caso a CONTRATADA entenda existir divergência entre a sua contagem e a contagem da ENAP, deverá encaminhar pedido de revisão formal indicando profissional do seu quadro com certificação atualizada Certified Function Point Specialist (CFPS), para realizar, juntamente com profissional indicado pela ENAP, de mesmo perfil, a revisão das contagens e elaborar proposta final para a solução do impasse. 4.15.2. Estes profissionais terão o prazo de até 5 (cinco) dias úteis, podendo ser prorrogado em razão do tamanho do serviço, para indicar uma solução conjunta para o impasse, cabendo à ENAP a decisão final.
+
+28
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.15.3. O prazo máximo para encaminhamento de solicitações de revisão pela CONTRATADA é de até 5 (cinco) dias úteis, após a ENAP disponibilizar a contagem. 4.15.4. Caso a CONTRATADA não se pronuncie neste prazo a contagem será automaticamente considerada validada pela CONTRATADA. 4.16. ENTREGA DOS SERVIÇOS CONTRATADOS 4.16.1. A entrega formal dos serviços contratados à ENAP deverá ser realizada por meio da reapresentação da(s) OS(s) que compõe(m) a demanda, com a respectiva contagem final realizada, pela CONTRATADA, identificando as informações inerentes aos serviços entregues, em relação ao que foi previsto no contrato. 4.16.2. A CONTRATADA deverá apresentar, na entrega do serviço, as planilhas contendo o cálculo detalhado que resultou na contagem dos pontos de função. 4.16.3. A quantidade de entregas de serviços pela CONTRATADA deverá corresponder, no mínimo, às previsões de entrega da(s) OS(s), que devem ser acordadas com a ENAP, e em conformidade com os prazos de entrega discriminados neste termo de referência. 4.16.4. Para demandas com volume de PF estimado superior a 50PF, a CONTRATADA poderá realizar entregas parciais de acordo com a atividade do processo de desenvolvimento de Software e percentuais de esforço considerado na tabela abaixo:
+Atividades do Processo de Desenvolvimento de Software Engenharia de Requisitos Design, Arquitetura Implementação Testes Homologação Implantação Percentual de esforço 20% 10% 45% 10% 10% 5%
+
+4.16.5. Para demandas conforme disposto no item 4.16.4, as mesmas serão divididas pela ENAP em Ordens de Serviço (OS) que correspondam a cada fase das atividades do processo de desenvolvimento de software as quais deverão obedecer aos níveis de serviço estipulados para fins de pagamento e possíveis sansões. 4.16.6. Os serviços deverão ser entregues pela CONTRATADA, nos ambientes da ENAP, de acordo com a OS, no formato definido pela ENAP. 4.16.7. Caso o local de entrega não esteja especificado na OS, o endereço de entrega dos serviços será a Coordenação-Geral de Tecnologia da Informação (CGTI) da ENAP, em Brasília/DF. 4.16.8. As entregas dos artefatos deverão ser realizadas por meio eletrônico ou por mídia magnética, no formato e prazos negociados com a ENAP previamente. 4.16.9. Os artefatos deverão também, quando couber, serem entregues em cópias impressas.
+29
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.17. QUALIDADE E DESEMPENHO 4.17.1. A ENAP não aceitará desempenho dos serviços inferior aos padrões exigidos neste Termo de Referência. Caso o desempenho não seja atingido, a ENAP emitirá um termo de rejeição e aplicará o redutor conforme o nível de serviço estipulado no item 5. 4.17.2. O índice aceitável de defeitos, por ponto de função, é de no máximo 0,2 Pontos de Defeitos e será calculado com base na gravidade de tipos de erros, conforme fórmula abaixo:
+
+Onde: Pd ­ Pontos de Defeitos PSE ­ Peso da Severidade dos Erros PRE ­ Peso de Reincidência de Erros Ts ­ Tamanho da Entrega / Serviço em Pontos de Função Os pesos (PSE e PRE) estão definidos nas tabelas abaixo:
+PESO DA SEVERIDADE DOS ERROS Grave Alta Média Baixa PESO DA REINCIDÊNCIA DE ERROS Grave Alta Média Baixa 40 5 3 1 30 4 2 1
+
+4.17.3. Para arredondamento do valor de "Pd", aplicar-se-á a seguinte regra: se o número constante na terceira casa decimal for superior ou igual a 5, o algarismo da segunda casa decimal será acrescido de 1; caso contrário, o valor da segunda casa decimal permanece inalterado. (Ex.: se o resultado do cálculo for igual a 0,188, o valor passará a ser 0,19. Se o resultado do cálculo for igual a 0,133 ,o valor passará a ser 0,13). 4.17.4. Para cada entrega prevista no serviço, será realizada a classificação de severidade dos tipos de erros possíveis, com base nos artefatos previstos na entrega. Essa classificação será formalizada em documento específico, encaminhado à CONTRATADA juntamente com a OS. 4.17.5. A ENAP adotará a seguinte tabela de defeitos para avaliar a qualidade dos serviços realizados.
+30
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+Seq. 1 1.1 1.2 1.3 2 2.1 2.2 3 3.1 3.2 3.3 3.4 3.5 3.6 3.7 3.8 3.9 3.10 3.11 3.12 3.13 3.14 3.15 3.16 3.17 3.18 3.19 3.20 3.21 3.22 3.23 3.24 3.25 3.26 3.27 3.28 3.29 3.30 3.31 3.32 3.33 3.34 3.35 Descrição DOCUMENTOS - (ADERÊNCIA/CONFORMIDADE) Documentos fora do padrão estabelecido pela ENAP (modelo) Preenchimento incorreto (preenchimento) Conteúdo em desacordo com os requisitos (inconsistência) PRODUTO - (ADERÊNCIA AOS REQUISITOS) O produto NÃO atende aos requisitos funcionais O produto NÃO atende aos requisitos não-funcionais PRODUTO - (CODIFICAÇÃO) Passos não considerados Lógica duplicada Função desnecessária Verificação de variável incorreta Erros de escrita em interfaces com usuário Iteração de loop errada Ausência da condição de teste Ausência de cálculos solicitados Equação insuficiente ou incorreta Falha de arredondamento ou de "truncagem" Falha de conversão Interrupções tratadas incorretamente Chamada errada de sub-rotina Inexistência da sub-rotina chamada Argumentos inconsistentes da sub-rotina Dados inicializados incorretamente Dados acessados ou armazenados incorretamente Índice ou flag com valor incorreto Variável referenciada incorretamente Dados dimensionados incorretamente Tipo de variável incorreta Escopo do dado incorreto Variável subscrita incorretamente Recursividade utilizada em situação proibida Extrapolação de número de chamadas a sub-rotinas de forma aninhada Atribuição de nomes diferentes a uma mesma variável (no mesmo local de memória) Variável definida e nunca utilizada Uso de variável global proibida Extrapolação de tamanho de programa (em linhas de código) Desrespeito à nomeação padronizada de variáveis Erro de formatação de código (número de caracteres por linha, identação) Uso de comandos proibidos (em desuso) Passagem incorreta de parâmetros entre programas Variável usada antes de ser inicializada Leitura de arquivo não aberto ou depois de o mesmo ter sido fechado Média Média Média Média Média Média Média Alta Alta Alta Alta Média Média Média Média Média Média Média Média Média Média Média Média Média Baixa Média Baixa Média Baixa Baixa Baixa Média Média Média Média 2 2 2 2 2 2 2 4 4 4 4 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1 1 1 2 2 2 2 Grave Grave 30 30 Média Média Média 2 2 2 Severidade Peso
+
+31
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+3.36 3.37 3.38 3.39 3.40 3.41 3.42 3.43 3.44 3.45 3.46 4 4.1 4.2 4.3 4.4 5 5.1 5.2 5.3 6 6.1 Código inalcançável (código-morto) Violação de Camadas em padrões de projeto Organização de classes/pacotes/arquivos em desacordo com padrão da ENAP Uso de Scriplets em vez de Taglibs Documentação de código inexistente ou em desacordo com a implementação Não realização de críticas de dados na camada de Internet Objetos que não mantenham seus estados consistentes Transações incorretamente implementadas Lançamento de Exceções de forma incorreta Regras de negócio implementadas em componentes de SGBD (triggers, stored procedures ou functions) , sem justificativa Má reutilização de código (código clonado) ARMAZENAMENTO DE DADOS Nomenclatura de campos/atributos fora do padrão Dimensionamento inadequado de atributos / objetos Ausência de Constraint para garantir integridade do modelo Falta de normalização na estrutura de dados (3FN), sem justificativa SEGURANÇA / DESEMPENHO Acesso à função do sistema sem a devida autorização Autenticação por meio da utilização de SQL Injection Consulta com tempo de resposta superior a 2 segundos em ambiente de produção em sistemas OLTP, sem justificativa. ARQUITETURA DE SOLUÇÃO Utilização de componentes de software não homologados pela ENAP Grave 30 Grave Grave Alta 30 30 4 Alta Alta Alta Grave 4 4 4 30 Baixa Média Baixa Média Baixa Média Média Grave Baixa Média Alta 1 2 1 2 1 2 2 30 1 2 4
+
+4.17.6. Para ateste dos serviços e emissão do Termo de Aceite, será facultado à ENAP submeter os programas produzidos pela CONTRATADA a testes em ferramentas especializadas para avaliação de aspectos de qualidade. 4.17.7. As alterações propostas, baseadas nos dados obtidos pelas ferramentas mencionadas, deverão ser efetuadas sem qualquer tipo de ônus financeiro para a ENAP, respeitando os requisitos não funcionais elaborados anteriormente e padrões previamente fornecidos. 4.17.8. O índice aceitável de defeitos acima referenciado não exime a CONTRATADA das obrigações de corrigi-lo, sem ônus para a ENAP. 4.18. DO PRAZO DE CONTRATADA ATENDIMENTO DOS SERVIÇOS PELA
+
+4.18.1. Os prazos máximos estabelecidos para atendimento dos serviços contemplam a execução de todas as fases definidas na Metodologia de Desenvolvimento da ENAP. 4.18.2. O inicio do atendimento é definido como o momento em que a CONTRATADA é informada sobre o serviço, por meio de uma RD ou pelos meios pré-definidos nos casos de manutenção corretiva.
+32
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.18.3. O Prazo para Solução do Problema é o prazo que a CONTRATADA tem para finalizar o atendimento do serviço e se caracteriza pelo momento que a CONTRATADA encaminha para a ENAP o resultado do serviço realizado para implantação. 4.18.4. O Prazo para Solução da Causa do Problema é definido como o prazo que a CONTRATADA possui para resolução da causa-raiz do problema, evitando que o mesmo ocorra novamente.
+
+33
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação 4.18.5. A CONTRATADA deverá observar os prazos para o atendimento dos tipos de serviços, conforme tabela abaixo:
+TABELA DE PRAZOS PARA ATENDIMENTO DE SERVIÇOS
+
+Categoria do Serviço
+
+Criticidade do Aplicativo
+
+Prazo para Iniciar o Atendimento (em horas úteis)
+
+Prazo para Solução do Problema (em horas úteis)
+
+Prazo para Solução da Causa do Problema (em horas úteis)
+
+Prazo para Execução do Serviço
+
+Forma de Acionamento
+
+Emergencial ALTA Imediatamente após notificação
+
+Normal 1 hora
+
+Emergencial 2 horas
+
+Normal 4 horas
+
+Emergencial 4 horas
+
+Normal 8 horas -Ferramenta ou telefone Ferramenta ou telefone
+
+Manutenção Corretiva (em garantia ou fora da garantia)
+
+MÉDIA
+
+1 h 30 min.
+
+2 horas
+
+4 horas
+
+8 horas
+
+8 horas
+
+16 horas
+
+--
+
+BAIXA
+
+2 horas
+
+4 horas
+
+8 horas
+
+16 horas
+
+16 horas
+
+32 horas
+
+--
+
+Ferramenta ou telefone
+
+Manutenção Adaptativa
+
+ALTA, MÉDIA e BAIXA ALTA, MÉDIA e BAIXA
+
+Em até 3 (três) dias úteis, contados da data de recebimento do RD. Em até 3 (três) dias úteis, contados da data de recebimento do RD. Em até 3 (três) dias úteis, contados da data de recebimento do RD.
+
+Prazo estabelecido à CONTRATADA visto tamanho estimado do serviço
+
+Ferramenta
+
+Manutenção Perfectiva
+
+Prazo estabelecido à CONTRATADA visto tamanho estimado do serviço
+
+Ferramenta
+
+Manutenção Evolutiva
+
+ALTA, MÉDIA e BAIXA
+
+Prazo estabelecido à CONTRATADA visto tamanho estimado do serviço
+
+Ferramenta
+
+34
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.18.6. Os prazos máximos de entrega a serem observados para execução dos serviços de manutenção evolutiva serão calculados da seguinte forma: 4.18.6.1 Para projetos (demandas) com valor estimado igual ou superior a 100 PF, aplica-se a fórmula: Td = V0,34 Onde: Td: prazo máximo de desenvolvimento em meses V: tamanho do projeto em Pontos de Função 4.18.6.2 Para projetos com valor estimado inferior a 100 PF, aplicase a tabela:
+Tamanho de Ponto de Função 10 20 30 40 50 60 70 80 90 Prazo Máximo (dias úteis) 15 25 30 40 50 58 66 74 82
+
+4.18.7 A CONTRATADA poderá solicitar, ainda, um prazo adicional, quando justificada e comprovada a necessidade, em função de complexidade da solução a ser desenvolvida, ficando a critério da ENAP aceitar ou não as justificativas e determinar o novo prazo. 4.18.8 O prazo adicional, no caso de aceito pela ENAP, será adicionado ao prazo total do serviço ou projeto contratado. 4.18.9 A solicitação de prazo adicional para atendimento não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação pela ENAP, ficam mantidas as condições estipuladas para o serviço. 4.18.10 Caso a justificativa não seja aceita pela ENAP, prevalecerá o prazo inicialmente estipulado. 4.18.11 O prazo máximo para execução dos serviços de manutenção adaptativa e manutenção perfectiva será definido pela ENAP, respeitando o limite máximo de prazo, por tamanho do serviço, utilizado para serviços de manutenção evolutiva.
+35
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+4.18.12 Para a aferição dos prazos, a ENAP utiliza-se de um índice que relaciona o prazo que a OS deveria ser entregue com o que foi realmente entregue. 4.18.12.1 Índice de Descumprimento de Prazos (IDP) =  Dias de Atraso Não Justificados dividido pela duração prevista para os artefatos/ atividades entregues no cronograma da execução de uma OS. 4.18.12.2 O IDP aceitável é <= 0,2. 4.19 ALTERAÇÃO DE ESCOPO 4.19.1 Alteração de escopo é a mudança solicitada durante a execução do serviço de manutenção do sistema. 4.19.2 Tal alteração decorre da revisão das necessidades negociais atendidas pelo sistema, não estando relacionada com o simples detalhamento dos requisitos e Casos de Uso identificados inicialmente. 4.19.3 Dessa forma, funcionalidades alteradas e excluídas só serão consideradas no escopo da fórmula abaixo se estiverem relacionadas a um requisito ou Caso de Uso que sofre alteração. 4.19.4 A alteração de escopo deverá ser formalizada em artefato de Solicitação de Mudança à CONTRATADA. 4.19.5 Essas solicitações de mudanças podem ou não ocasionar variações no tamanho do sistema, que nem sempre são refletidas na contagem de pontos de função do sistema e serviços já desenvolvidos. 4.19.6 A ENAP utilizará a fórmula abaixo para calcular a quantidade de PF a ser remunerada na execução das alterações referentes a entregas já realizadas e aceitas pela ENAP, até a solicitação de alteração de escopo ser notificada à CONTRATADA: Fórmula para calcular a quantidade de Pontos de Função devida para adequação das alterações nas fases/atividades já realizadas: PF_Devido = { [ (Pi x Fri) + (Pe x Fre) + (Pa x Fra) ] x (Pfe / Pft)} Legenda: PF_devido = Quantidade de Pontos de Função devida para adequação das alterações nas fases / atividades já realizadas; Pi = Pontos de função das funções incluídas; Pe = Pontos de função das funções excluídas; Pa = Pontos de função das funções alteradas antes da alteração de escopo; Fri = Fator de redução para funções incluídas = 1; Fre = Fator de redução para funções excluídas = ¼; Fra = Fator de redução para funções alteradas = ½; Pfe =  da quantidade de PF das entregas contratadas já realizadas; Pft = Tamanho funcional do serviço (sem inclusão de itens não mensuráveis) antes da alteração de escopo. 4.19.7 Para fins de replanejamento do serviço, será realizada uma nova contagem para atualização da quantidade de PF e do prazo, levando
+36
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+em consideração a(s) fase(s)/entrega(s) contratada(s) e ainda não executada(s). 4.19.8 As variações no número de pontos de função contratados, decorrentes da alteração de escopo, deverão ser previamente aprovadas pela ENAP e formalizadas por meio de OS específica. 5 DO NÍVEL DE SERVIÇO 5.1 A ENAP elenca como elementos mais importantes do Nível de Serviço os cumprimentos relativos aos prazos de entrega e qualidade dos serviços prestados. Para tanto trabalhará com os Pd e IDP; 5.1.1 Os índices aceitáveis são: Pd<=0,3 (menor ou igual a três décimos) e IDP<=0,2 (menor ou igual a dois décimos). 5.2 Caso a CONTRATADA não consiga manter os Níveis de Serviço acordados, deverá ser aplicada a sanção correspondente, conforme previsto em Edital e Contrato. 5.3 As condições de pagamento serão ajustadas de acordo com as infrações cometidas pela empresa CONTRATADA na prestação dos serviços, e nas obrigações do Contrato e terá por base graus conforme relacionados na tabela a seguir, a qual servirá como referência para o fiscal do contrato:
+GRAU 01 02 CORRESPONDÊNCIA Glosa de 3% ( três por cento), sobre o valor global dos serviços da demanda (RD). Glosa de 5% (cinco por cento) sobre o valor global dos serviços da demanda (RD).
+
+5.4 As glosas nos pagamentos a que se sujeita a CONTRATADA terão como referencia a tabela a seguir:
+Item 01 02 03 Descrição Pontos de defeito - Pd maior que 0,3 e menor ou igual a 0,5 Pontos de defeito - Pd maior que 0,5 Índice de Descumprimento de Prazos maior que 0,2 (zero vírgula dois) e menor ou igual a 0,3 (zero vírgula três) Índice de Descumprimento de Prazos maior que 0,3 (zero vírgula três) REFERÊNCIA Por ocorrência Por ocorrência Por ocorrência GRAU 01 02 01
+
+04
+
+Por ocorrência
+
+02
+
+5.5 Em caso de aplicação das sanções previstas neste item, a glosa incidirá sobre o Custo Total da demanda (RD), à qual a OS se refere, sendo que o desconto será efetivado no pagamento da OS corrente e, se os valores a serem pagos forem insuficientes, será descontado nas próximas entregas subsequentes, até a última entrega da referida demanda. 6 DO SISTEMA INFORMATIZADO DE CONTROLE DE DEMANDAS
+
+37
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+6.1 O sistema de controle de demandas tem o objetivo de acompanhar o andamento das Ordens de Serviço autorizadas pela ENAP, conforme as definições do item 4 deste termo. 6.2 O sistema de controle de demandas deverá ser hospedado e mantido pela contratante ­ ENAP - e deverá ser acessado pela contratada para o acompanhamento das mesmas. 7 DA EQUIPE TÉCNICA PARA A PRESTAÇÃO DOS SERVIÇOS 7.1 A contratada se compromete a alocar, em todos os serviços contratados pela ENAP, profissionais com perfis e qualificações adequados. 7.1.1 A Contratada deverá apresentar os profissionais que irão executar os serviços na ENAP, sendo necessário que esses possuam vínculo empregatício com a mesma, o qual deverá ser comprovado por meio de carteira ou contrato de trabalho. 7.1.1.1Caso haja a necessidade de substituição de profissional, a CONTRATADA deverá efetuar a substituição do mesmo nas mesmas condições do profissional anterior. 7.2 Entende-se como perfil e qualificação adequados para execução dos serviços descritos neste termo os seguintes requisitos: 7.2.1 Experiência em desenvolvimento utilizando linguagem PHP; 7.2.2 Conhecimentos em JavaScript; 7.2.3 Conhecimentos em SQL SERVER 2000 ou superior; 7.2.4 Conhecimento em Processo Unificado (UP - Unified Process). 7.3 A qualificação dos profissionais deverá ser comprovada por meio da apresentação de seus currículos ou certificações pertinentes aos subitens de 7.2.1 a 7.2.4, na reunião inicial e quando solicitada pela ENAP. 7.4 A contratada deverá selecionar, designar e manter profissionais cuja qualificação esteja em conformidade com os tipos de serviços descritos nas ordens de serviços, observando o certificado apropriado emitido pelos fabricantes da linguagem, ferramenta ou tecnologia, sempre que a atividade a ser executada assim o exigir. 7.5 A contratada deverá alocar profissionais especialistas e certificados na linguagem, ferramenta, tecnologia ou processo sempre que a ENAP solicitar. 7.6 A contratada se compromete a garantir a alocação de profissionais devidamente capacitados para solucionar problemas relacionados à prestação de serviços, incluindo os que exijam a presença física nas dependências da ENAP. 7.7 Os profissionais a serem envolvidos, para a execução dos serviços referentes ao desenvolvimento de sistemas de informação, deverão estar capacitados nos recursos que compõem o ambiente disponível na ENAP.
+38
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+7.8 A contratada designará 1 (um) profissional para atuar como Preposto com as seguintes responsabilidades: 7.8.1 Executar a gestão geral do contrato por parte da contratada, com a visão de todas as Ordens de Serviço em desenvolvimento, objetivando garantir a execução dos serviços dentro dos prazos estabelecidos e atendendo todos os requisitos. 7.8.2 Participar periodicamente, sempre que convocado pela ENAP, de reuniões de acompanhamento das atividades referentes às OS em execução, em ambiente de interesse da ENAP, com representantes da ENAP; 7.8.3 Levar para as reuniões periódicas de acompanhamento as situações não resolvidas em nível de gerência das OS. 7.8.4 Realizar a gestão quanto aos aspectos administrativos e legais do contrato. 8 DO LOCAL DE PRESTAÇÃO DO SERVIÇO 8.1 Os serviços referentes à manutenção corretiva deverão ser executados nas dependências da ENAP. 8.2 Os serviços referentes à manutenção evolutiva, adaptativa e perfectiva deverão ser executados nas dependências da CONTRATADA, podendo ser efetuados nas dependências da ENAP, desde que devidamente acordado entre as partes. 8.3 A ENAP disponibilizará local de trabalho e infra-estrutura de hardware e software quando os serviços forem executados em suas dependências. 9 DA GARANTIA DOS PRODUTOS DESENVOLVIDOS 9.1 A empresa contratada deverá apresentar garantias de funcionamento dos produtos desenvolvidos pelo período mínimo de 12 (doze) meses, a contar da data de seu recebimento definitivo, comprometendo-se a efetuar as necessárias correções sem ônus adicionais para a ENAP durante este período. 10 DA TRANSFERÊNCIA DE TECNOLOGIA 10.1 A transferência de tecnologia se dará com a entrega dos artefatos exigidos no item 4 deste termo e em eventos específicos de transferência de tecnologia solicitados pela ENAP, preferencialmente em ambiente disponibilizado pela contratada, sem ônus adicionais para a ENAP. 10.2 A ENAP indicará os servidores participantes desses eventos, os quais versarão sobre a instalação e manutenção das soluções desenvolvidas, as metodologias de desenvolvimento e de contagem de pontos de função utilizadas pela contratada. 10.3 O cronograma e horário deverão ser previamente aprovados pela ENAP. 11 DO DIREITO AUTORAL E PROPRIEDADE INTELECTUAL
+39
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+11.1 A ENAP, para todos os efeitos da aplicação da Lei no 9.609/98, que dispõe sobre a proteção da propriedade intelectual de programa de computador, e regulamentos correlatos, deverá ser a única proprietária da licença para utilização do sistema, devendo, para tanto, a CONTRATADA ceder à ENAP, mediante cláusula contratual: 11.1.1 O projeto, suas especificações técnicas, documentação, códigos-fonte de programas, bases de dados, dados de identificação dos técnicos desenvolvedores e todos os produtos gerados na execução do contrato, para instrução de processo de registro do Sistema, no Instituto Nacional de Propriedade Intelectual (INPI), pela ENAP; 11.1.2 Os direitos permanentes de uso e de instalação sobre todas as adequações ao software e atualizações corretivas ou a arquivos e rotinas a ele associadas, desenvolvidas em decorrência do Contrato, sem ônus adicionais a ENAP; 11.1.3 Os direitos aos serviços de suporte, instalação, administração e uso do software e de arquivos auxiliares, durante todo o período de vigência do Contrato, sem ônus adicionais a ENAP. 11.2 Desta forma, todos os direitos autorais da solução, documentação, "scripts", códigos-fonte, bases de dados e congêneres, desenvolvidos durante a execução dos serviços, são da ENAP, ficando proibida a sua utilização pela Contratada sem a autorização expressa da ENAP. 11.3 A contratada não poderá repassar a terceiros, em nenhuma hipótese, códigos-fonte, bem como qualquer informação sobre a arquitetura, documentação, dados e metadados trafegados; produtos desenvolvidos e entregues; ficando responsável por manter sigilo sobre quaisquer informações que tiver em decorrência da prestação de serviços objeto da presente contratação, ficando proibida de fazer uso desses, sob quaisquer justificativas. 11.4 A contratada deverá assinar termo de compromisso de manutenção de sigilo (ANEXO F). 12 DOS RECURSOS OPERACIONAIS DA ENAP 12.1 AMBIENTE PARA EXECUÇÃO DOS SERVIÇOS: 12.1.1 Ambiente de Desenvolvimento: Ambiente de desenvolvimento e manutenção das aplicações. O seu funcionamento tem por base o controle de versão de produtos por meio de ferramenta específica do tipo CVS; 12.1.2 Ambiente de Homologação: Ambiente que permite os testes necessários por parte do gestor da aplicação para o seu devido aceite. O seu funcionamento tem por base a não edição de arquivos para correção neste ambiente, pois todo processo de correção deve ocorrer no Ambiente de Desenvolvimento;
+
+40
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+12.1.3 Ambiente de Capacitação: Ambiente que apresenta cópias dos sistemas que estão em produção, cuja finalidade é a capacitação de usuários dos sistemas. 12.1.4 Ambiente de Produção: Ambiente que hospeda a aplicação em produção na ENAP. O seu funcionamento tem por base a hospedagem somente da aplicação homologada pela área solicitante e que atenda os padrões técnicos exigidos neste termo. 12.2 RECURSOS OPERACIONAIS DE SOFTWARE: 12.2.1 A ENAP adota para seu grupo de ambientes as ferramentas relacionadas a seguir, para a manutenção dos sistemas: 12.2.1.1 Sistema Operacional: Servidores baseado na arquitetura Intel X86 multiprocessado com os sistemas operacionais Windows 2000 Server, Advanced Server, 2003 Server, Linux Debian, Red Hat, CentOS e Suse; infraestrutura de segurança com cluster de firewalls Checkpoint; estações de trabalho Windows XP, Vista e Linux. 12.2.1.2 Ferramentas de Desenvolvimento: PHP, ASP, Delphi, HTML, Web Integrador, JavaScript, PL/SQL, Portais e ambiente Moodle, Pyton e PHL. 12.2.1.3 Servidor de Aplicação: Jboss e Tomcat. 12.2.1.4 Banco de Dados: Microsoft SQL Server, MySQL, PostgreSQL e Access. 12.3 Sistemas ENAP e suas características (ANEXO J). 13 DA FISCALIZAÇÃO DOS SERVIÇOS 13.1 O Coordenador-Geral da Coordenação-Geral de Tecnologia da Informação da ENAP será o responsável pela gestão do contrato, podendo designar responsável que detenha a competência técnica para auxiliar no acompanhamento e fiscalização de sua execução, a fim de atender as condições definidas neste termo de referência. 14 DOS DEVERES DA CONTRATANTE 14.1 Emitir a nota de empenho e informar a contratada sobre a sua emissão. 14.2 Executar a fiscalização necessária para que o objeto seja executado em conformidade com as condições exigidas neste termo. 14.3 Atestar a nota fiscal apresentada pela contratada. 14.4 Prestar informações e esclarecimentos solicitados pela contratada, pertinentes à execução do objeto deste termo. 14.5 Respeitar as definições deste Termo de Referência para que a CONTRATADA cumpra as condições exigidas.
+
+41
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+14.6 Efetuar o pagamento da nota fiscal emitida pela contratada, dentro das condições exigidas neste termo, condicionado à entrega definitiva dos artefatos solicitados em cada Ordem de Serviço. 15 DOS DEVERES DA CONTRATADA 15.1 Acusar o recebimento da nota de empenho. 15.2 Respeitar as definições deste Termo de Referência para que os serviços sejam entregues com todas as condições exigidas e atendidas. 15.3 Prestar a garantia descrita neste termo de referência. 15.4 Efetuar o pagamento de todos os impostos, taxas e demais obrigações fiscais incidentes ou que vierem a incidir sobre o objeto do contrato. 15.5 Respeitar as normas e procedimentos de controle interno, inclusive de acesso às dependências da ENAP. 15.6 Manter, durante o período de contratação, o atendimento das condições de habilitação exigidas na licitação. 15.7 Arcar com as despesas decorrentes de qualquer infração cometida por seus empregados quando da execução do objeto contratado. 15.8 Responsabilizar-se por perdas e danos eventualmente causados, por seus técnicos ou empregados, a materiais e informações de propriedade da ENAP ou terceiros quando da execução do objeto contratado. 15.9 Assumir, de forma exclusiva, todas as obrigações trabalhistas e previdenciárias advindas da relação com seus empregados envolvidos no objeto deste termo de referência, isentando a ENAP de quaisquer responsabilidades sobre encargos provenientes de relações empregatícias da contratada. 15.10 Manter confidencialidade sobre quaisquer materiais e informações de propriedade da ENAP, aos quais tiver acesso em decorrência da prestação de serviços objeto deste termo de referência, ficando proibida de fazer uso ou revelação destes, sob qualquer justificativa. 15.11 15.12 Comunicar à ENAP, por escrito, qualquer anormalidade detectada. Emitir a nota fiscal com informação dos dados bancários.
+
+15.13 Comunicar à ENAP a substituição de profissionais e comprovar que os novos integrantes da equipe da CONTRATADA possuam vínculo empregatício com a mesma, a ser comprovado por meio de carteira ou contrato de trabalho, bem como prestar informações sobre a habilitação dos mesmos para execução dos serviços. 16 DAS SANÇÕES ADMINISTRATIVAS 16.1 Em caso de atraso injustificado na assinatura do contrato, atraso na execução, inexecução parcial ou inexecução total da obrigação, sem prejuízo das responsabilidades civil e criminal, assegurada a prévia e ampla defesa, a contratada ficará sujeita às sanções previstas nos artigos 86 a 88 da Lei 8.666/93 e no art. 28 do Decreto 5.450/05, conforme as disposições do Edital e do Contrato.
+42
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+17 DO PAGAMENTO 17.1 O pagamento será efetuado mensalmente por meio de ordem bancária em até 5 (cinco) dias após a data de entrega da nota fiscal, que somente deverá ser emitida pela contratada após o termo de recebimento definitivo emitido pela ENAP. 17.2 A contratada deverá, no início de cada mês, enviar as notas fiscais referentes às OS efetivamente entregues até o último dia do mês anterior, não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. 17.3 Entende-se como OS efetivamente entregue aquela que possuir o termo de recebimento definitivo emitido até o último dia do mês. 17.4 O não atendimento dos níveis de serviço pela contratada ensejará a aplicação dos redutores dispostos no item 5 deste termo. 17.5 Nenhum pagamento será efetuado à contratada na pendência de qualquer uma das situações abaixo especificadas, sem que isso gere direito a alteração de preços ou compensação financeira: 17.5.1 Atestação de conformidade da entrega do objeto (Termos de Recebimento Provisório e Definitivo). 17.5.2 Cumprimento das demais exigências descritas neste termo de referência. 17.6 A nota fiscal/fatura deverá ser encaminha ao Protocolo/ENAP, localizado no Edifício Sede, SAIS Área 2 A, CEP 70.610-900, Brasília-DF, Térreo. 18 DA VIGÊNCIA 18.1 O contrato terá vigência de 12 (doze) meses, contados a partir da data de sua assinatura, e terá eficácia após a publicação no Diário Oficial da União, podendo ser prorrogável por igual e sucessivo período mediante termos aditivos, limitado a 60 (sessenta) meses, contados da assinatura do contrato. 19 DA REPACTUAÇÃO 19.1 Será permitida repactuação do contrato, desde que observada a periodicidade mínima de um ano, a contar da data da proposta ou da data do orçamento a que a proposta se referir ou, ainda, da data da última repactuação. 19.2 Nas repactuações subsequentes à primeira, a anualidade será contada a partir da data da última repactuação ocorrida. 19.3 As repactuações serão precedidas de solicitação da contratada e esta somente será concedida mediante negociação entre as partes, considerandose: 19.3.1 Os preços praticados no mercado e em outros contratos da Administração; 19.3.2 As particularidades do contrato em vigência; 19.3.3 A demonstração analítica da alteração dos custos, por meio de apresentação da nova planilha de composição do ponto de
+43
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+função, da nova planilha de custo e formação de preço e de demais documentos que corroborem a argumentação de alteração dos custos; 19.3.4 O novo acordo ou convenção coletiva das categorias profissionais; 19.3.5 A disponibilidade orçamentária da ENAP. 19.4 A ENAP poderá realizar diligências para conferir a variação de custos alegada pela contratada. 19.5 É vedada a inclusão, por ocasião da repactuação, de benefícios não previstos na proposta inicial e nas planilhas, exceto quando se tornarem obrigatórios por força de instrumento legal, sentença normativa, acordo coletivo ou convenção coletiva. 19.6 O prazo para solicitação da repactuação contratual pela contratada terá início a partir da data de homologação da convenção ou acordo coletivo que fixar o novo salário normativo da categoria profissional abrangida pelo contrato, e findará na data da prorrogação contratual subsequente, ou seja, na data em que for assinado o termo aditivo de prorrogação. 19.7 Caso a contratada não solicite a repactuação tempestivamente, esta somente se dará a partir da data do pedido de repactuação. 19.8 Nas hipóteses em que as negociações para a celebração do acordo ou convenção de trabalho, ou solução do dissídio coletivo eventualmente instaurado, se prolonguem após a data-base da categoria profissional abrangida pelo contrato e, nesse intervalo, a ENAP convoque a contratada para prorrogação contratual, caberá à contratada solicitar a inclusão, no novo termo aditivo a ser celebrado, de cláusula que resguarde o seu direito à repactuação, tão logo disponha do instrumento relativo ao acordo ou convenção devidamente registrado. 20 O custo para a execução do objeto deste termo de referência correrá por conta do Orçamento ­ ENAP. 21 DA DOTAÇÃO ORÇAMENTÁRIA 21.1 Ação: Gestão e Administração do Programa. 21.2 PI: A3001 ­ Tecnologia da Informação.
+
+22 DO ÓRGÃO REQUISITANTE 22.1 Coordenação-Geral de Tecnologia da Informação.
+
+44
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I A PREGÃO Nº. 11/2010 MODELO DE REGISTRO DE DEMANDA
+
+REGISTRO DE DEMANDA Nome do Projeto/ Sistema e versão N° RD*
+
+Nome do demandante
+
+Área demandante
+
+Descrição da solicitação
+
+Documentação técnica e legal de referência
+
+Classificação da solicitação de Manutenção: Corretiva [ ] Adaptativa [ ] Aprovação Local e data Evolutiva [ ] Perfectiva [ ]
+
+Nome (fiscal de contrato) Recebimento Local e data
+
+Nome (área demandante)
+
+Nome (preposto da contratada)
+
+* RD = Registro de Demanda
+
+45
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I B PREGÃO Nº. 11/2010 MODELO DE ORDEM DE SERVIÇO
+ORDEM DE SERVIÇO Nome do Projeto Fornecedor Perfis técnicos envolvidos Descrição (descrever o objetivo da OS e referenciar outras OS que estejam vinculadas) N° OS N° RD*
+
+Item 01 02 (..) Estimativa de tamanho em PF
+
+Discriminação dos artefatos e documentos esperados
+
+Quantidade PF
+
+Cronograma de execução Item 01 02 (..) Valor total da OS (R$) Período Inicial Final Observações
+
+Critérios de qualidade 1 2 3 Recebimento da OS Local e data
+
+Nome (fiscal de contrato)
+
+Nome (área demandante)
+
+Nome (preposto da contratada)
+
+46
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+Aprovação da OS Aprovada [ ] Local e data Rejeitada [ ]
+
+Nome (fiscal de contrato) Observações:
+
+Nome (área demandante)
+
+* RD = Registro de Demanda
+
+47
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I C PREGÃO Nº. 11/2010 MODELO DE TERMO DE RECEBIMENTO PROVISÓRIO
+TERMO DE RECEBIMENTO PROVISÓRIO Nome do Projeto/ Sistema e versão N° OS
+
+Nome do demandante
+
+Área demandante
+
+Fase do desenvolvimento:
+
+Item 01 02 (..)
+
+Lista de artefatos e documentos entregues
+
+Aprovação técnica Atesto que os artefatos, os documentos e a solução entregues pela contratada, de acordo com a fase, atendem provisoriamente aos requisitos técnicos e critérios de qualidade exigidos na Ordem de Serviço e encontra-se em condições de ser encaminhado para homologação pela área demandante. Local e data
+
+Nome (fiscal de contrato) Recebimento Local e data
+
+Nome (preposto da contratada)
+
+48
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I D PREGÃO Nº. 11/2010 MODELO DE TERMO DE RECEBIMENTO DEFINITIVO
+TERMO DE RECEBIMENTO DEFINITIVO Nome do Projeto/ Sistema e versão N° OS
+
+Nome do demandante
+
+Área demandante
+
+Fase do desenvolvimento:
+
+Homologação Atesto que os artefatos, os documentos e a solução entregues pela contratada foram analisados e testados, atendendo aos requisitos solicitados na Ordem de Serviço. Local e data
+
+Nome (área demandante)
+
+Nome (fiscal de contrato) ­ Apoio Recebimento Local e data
+
+Nome (preposto da contratada)
+
+49
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I E PREGÃO Nº. 11/2010 MODELO DE TERMO DE REJEIÇÃO
+TERMO DE REJEIÇÃO Nome do Projeto/ Sistema e versão N° OS
+
+Nome do demandante
+
+Área demandante
+
+Fase do desenvolvimento:
+
+Item 01 02 (..)
+
+Lista de artefatos e documentos rejeitados
+
+Descrição da rejeição
+
+Correções solicitadas
+
+Local e data
+
+Nome (fiscal de contrato) Recebimento Local e data
+
+Nome (preposto da contratada)
+
+50
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I F PREGÃO Nº. 11/2010 MODELO DE TERMO DE COMPROMISSO DE MANUTENÇÃO DE SIGILO Eu,........................................................., identidade n°.................., órgão expedidor....................., CPF n°................................., representante da empresa..............................................., na função de................................................................, declaro que tenho pleno conhecimento de minha responsabilidade sobre o sigilo que deve ser mantido sobre os assuntos tratados, as atividades envolvidas e as ações realizadas no âmbito desta contratação pela ENAP, comprometendo-me, inclusive pelos empregados da empresa, a guardar o sigilo necessário nos termos do contrato firmado e da legislação vigente. Declaro também que tenho pleno conhecimento das normas de segurança vigentes na ENAP. Local, ..... de ..... de 2010 ________________________________________________ Assinatura do representante - CONTRATADA ________________________________________________ Testemunha 1 ________________________________________________ Testemunha 2
+
+51
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I G PREGÃO Nº. 11/2010 MODELO DE PLANILHA DE COMPOSIÇÃO DO PONTO DE FUNÇÃO
+
+Item
+
+Categoria Profissional
+
+Valor de Referência Un. Mensal (R$)
+
+Percentual na Composição no Ponto de Função
+
+Total
+
+1,00 (100%)
+
+Local, ..... de ..... de 2010 Assinatura
+
+(1) O licitante deverá informar todas as categorias profissionais que compõem o quadro necessário para a elaboração de 01 unidade de ponto de função. (2) A licitante deverá informar o fator de influência para fins de composição do custo de seu PF. (3) O somatório dos fatores de influência é igual a 1,00. (4) Para fins de repactuação, serão considerados esses fatores de influência.
+
+EXEMPLO DE PLANILHA DE COMPOSIÇÃO DO PONTO DE FUNÇÃO *
+
+Item
+
+Categoria Profissional
+
+Valor de Referência Un. Mensal (R$) 8.000,00 6.000,00 10.000,00 8.000,00 10.000,00 8.000,00
+
+Percentual na Composição no Ponto de Função 0,15 0,50 0,10 0,10 0,10 0,05 1,00 (100%)
+
+1 2 3 4 5 6
+
+Analista de sistemas Programador Profissional de Banco de Dados Documentador Gerente de Projetos Profissional de Teste Total
+
+*
+
+Trata-se exclusivamente de um exemplo de preenchimento. A ENAP não sugere que seja essa a composição do ponto de função, tampouco os valores das categorias profissionais, cabendo apenas à Licitante estabelecer as categorias, valores e percentuais da composição do ponto de função. 52
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I H PREGÃO Nº. 11/2010 MODELO DE PLANILHA DE CUSTO E FORMAÇÃO DE PREÇO
+I ­ CATEGORIA (profissional ­ especificar) II ­ MÃO DE OBRA Remuneração Itens 01 ­ Salário Valor total da remuneração III ­ ENCARGOS SOCIAIS (incidem sobre o valor da remuneração) GRUPO A Itens 01 ­ INSS 02 ­ SESI ou SESC 03 ­ SENAI ou SENAC 04 ­ INCRA 05 ­ Salário Educação 06 ­ FGTS 07 ­ Seguro acidente de trabalho / SAT / INSS 08 ­ SEBRAE Total do GRUPO A GRUPO B Itens 09 ­ Férias 10 ­ Auxílio doença 11 ­ Licença paternidade / maternidade 12 ­ Faltas legais 13 ­ Acidente de trabalho 14 ­ Aviso prévio 15 ­ 13° salário Total do GRUPO B GRUPO C Itens 16 ­ Aviso prévio indenizado 17 ­ Indenização adicional 18 ­ Indenização (rescisão sem justa causa) Total do GRUPO C GRUPO D Itens 19 ­ Incidência dos encargos do Grupo A sobre os itens do Grupo B Total do GRUPO D % Valor (R$) % Valor (R$) % Valor (R$) % Valor (R$) % Valor (R$)
+
+53
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+VALOR TOTAL DOS ENCARGOS SOCIAIS Valor total da mão de obra (remuneração + encargos sociais) IV ­ INSUMOS Itens 01 ­ Vale Alimentação 02 ­ Vale Transporte 03 ­ Assistência médica e/ou odontológica VALOR TOTAL DOS INSUMOS V ­ DEMAIS COMPONENTES Itens 01 ­ Despesas administrativas e operacionais 02 ­ Lucro VALOR TOTAL DOS DEMAIS COMPONENTES VI ­ TRIBUTOS Itens ISSQN COFINS PIS (outros - especificar) a) To = tributos (%) / 100 b) Po = mão de obra + insumos + demais componentes c) P1 = Pó / (1-To) VALOR TOTAL DOS TRIBUTOS (P1 ­ Po) VII ­ PREÇO MENSAL DO POSTO (Homem / Mês) Mão de obra + insumos + demais componentes + tributos Valor (R$) % Valor (R$) % Valor (R$) % Valor (R$)
+
+Local, ..... de ..... de 2010 Assinatura
+
+54
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I i PREGÃO Nº. 11/2010 MODELO DE PROPOSTA DE PREÇO Empresa: CNPJ: Inscrição Estadual: Endereço: Cidade: Fone: Fax: E-mail: Para fins de Pagamento: Banco: ......................... Agência: ......................... Conta Corrente: .........................
+Objeto O objeto desta contratação é a prestação de serviços de manutenção de sistemas de informação, que compreende a manutenção dos sistemas elencados neste termo, em conformidade com as especificações, padrões técnicos de desempenho e qualidade estabelecidos neste termo. Os serviços de manutenção de sistemas devem ser prestados nas instalações da contratante, mediante a emissão de ordens de serviços dimensionadas pela métrica de Pontos de Função Não Ajustados (PF), remunerados pelo quantitativo mensal de resultados recebidos e homologados, acompanhados da documentação técnica, administrativa e fiscal exigida neste termo. O quantitativo máximo de Pontos de Função Não Ajustados será de 500 (quinhentos), sem a obrigação de consumo mínimo, pelo prazo de 12 (doze) meses, prorrogável por igual e sucessivo período, limitado a 60 (sessenta) meses, contados da assinatura do contrato. Quantidade Valor Unitário Valor Total
+
+500 PF
+
+Validade da proposta: ......................... (Não inferior a 60 dias) Declaro expressamente que nos preços contados estão inclusos: frete, seguro, tributos, encargos e todas as demais despesas, de qualquer natureza, incidentes sobre o objeto desta contratação. Local, ..... de ..... de 2010 Assinatura
+
+55
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO I J PREGÃO Nº. 11/2010 SISTEMAS ENAP
+
+PLATAFORMA TECNOLÓGICA APLICAÇÃO DESCRIÇÃO Lingu Servido Banco de agem r WEB Dados WebSCO Cadastro de PHP colaboradores 5.1.6 Administração de cursos, especialização e formação de carreira Controle de entrada e saída de veículos e pessoas Cadastro de veículos dos servidores Sistema de avaliação de reação SQL Apache Server 2.0.63 2000 SQL Apache Server 2.0.63 2000 CompatibilidaComponentes de JsWEBGets/FPDF/ADO DB/POP/COSA/Jpgraph Linux ou /PHPHtmlParser/Reph Windows port JsWEBGets/FPDF/ADO DB/POP/COSA/Jpgraph Linux ou /PHPHtmlParser/Reph Windows port JsWEBGets/FPDF/ADO DB/POP/COSA/Jpgraph Linux ou /PHPHtmlParser/Reph Windows port JsWEBGets/FPDF/ADO DB/POP/COSA/Jpgraph /PHPHtmlParser/Reph port JsWEBGets/FPDF/ADO DB/POP/COSA/Jpgraph /PHPHtmlParser/Reph Linux ou Windows Linux ou Windows Complexidade do Modelo de Dados Alta Demanda por manutenção Baixa
+
+ANÁLISE SISTEMAS ENAP Porte Estimado do Criticidade Sistema do Sistema (Pontos de Função) Alta 900
+
+Índice de Manutenibili -dade
+
+Integração com Sistemas
+
+Média
+
+Sim
+
+WebCEF
+
+PHP 5.1.6
+
+Alta
+
+Alta
+
+Alta
+
+1.100
+
+Média
+
+Sim
+
+WebAccess
+
+PHP 5.1.6
+
+SQL Apache Server 2.0.63 2000 SQL Apache Server 2.0.63 2000 SQL Apache Server 2.0.63 2000
+
+Alta
+
+Baixa
+
+Média
+
+100
+
+Média
+
+Sim
+
+WebVeículo
+
+PHP 5.1.6 PHP 5.1.6
+
+Alta
+
+Baixa
+
+Média
+
+100
+
+Média
+
+Sim
+
+WebAval
+
+Alta
+
+Baixa
+
+Média
+
+150
+
+Média
+
+Sim
+
+56
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+port Sistema de PHP administração 5.1.6 de eventos Administração de usuários para acesso aos sistemas Publicação da agenda da semana no site da ENAP Administração de alojamento, controle de hóspedes e diárias Administração financeira e pagamento de docentes Controle do número de documentos da ENAP Centro de atendimento ao usuário Controle de processos e documentos Registro de ponto para servidores da PHP 5.1.6 SQL Apache Server 2.0.63 2000 SQL Apache Server 2.0.63 2000 Apache MySQL 2.0.63 5.1 JsWEBGets/FPDF/ADO DB/POP/COSA/Jpgraph /PHPHtmlParser/Reph port JsWEBGets/FPDF/ADO DB/POP/COSA/Jpgraph /PHPHtmlParser/Reph port JsWEBGets/FPDF/ADO DB/POP/COSA/Jpgraph /PHPHtmlParser/Reph port
+
+WebSAE
+
+Linux ou Windows
+
+Alta
+
+Média
+
+Alta
+
+700
+
+Média
+
+Sim
+
+WebCentral
+
+Linux ou Windows
+
+Alta
+
+Baixa
+
+Alta
+
+350
+
+Média
+
+Sim
+
+WebAGE
+
+PHP 5.1.6
+
+Linux ou Windows
+
+Alta
+
+Baixa
+
+Média
+
+150
+
+Média
+
+Sim
+
+WebSAA
+
+ASP 3
+
+ISS
+
+SQL Server 2000
+
+ASPUpload,Crystal Reports
+
+Windows
+
+Alta
+
+Média
+
+Alta
+
+350
+
+Média
+
+Não
+
+WebSAF
+
+ASP 3
+
+ISS
+
+SQL Server 2000 SQL Server 2000 SQL Server 2000 SQL Server 2000 SQL Server 2000
+
+ASPUpload,Crystal Reports
+
+Windows
+
+Alta
+
+Média
+
+Alta
+
+500
+
+Média
+
+Não
+
+WebSAD
+
+ASP 3
+
+ISS
+
+ASPUpload,Crystal Reports ASPUpload,Crystal Reports ASPUpload,Crystal Reports ASPUpload,Crystal Reports
+
+Windows
+
+Alta
+
+Baixa
+
+Alta
+
+350
+
+Média
+
+Não
+
+WebCAU
+
+ASP 3
+
+ISS
+
+Windows
+
+Média
+
+Média
+
+Média
+
+300
+
+Média
+
+Não
+
+CPROD
+
+ASP 3
+
+ISS
+
+Windows
+
+Alta
+
+Baixa
+
+Alta
+
+1.000
+
+Baixa
+
+Não
+
+PontoWeb
+
+ASP 3
+
+ISS
+
+Windows
+
+Alta
+
+Baixa
+
+Alta
+
+***
+
+Média
+
+Não
+
+57
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+ENAP CMS Joomla Site e Gestão de hotsites conteúdo Internet e WEB Site intranet Atendimento Fale Conosco ao usuário do site ENAP Contagem de Estatísticas downloads de das Downloads publicações do site ENAP Ficha de Cadastro para inscrição inscrição no concurso concurso inovação inovação Plataforma de cursos a Moodle distância e ENAP comunidade virtual da ENAP
+
+PHP 5.1.6
+
+Apache MySQL 2.0.63 5.0.22
+
+***
+
+Linux ou Windows
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+PHP 5.1.6
+
+Apache MySQL 2.0.63
+
+***
+
+Linux ou Windows
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+PHP 5.1.6
+
+Apache MySQL 2.0.63
+
+***
+
+Linux ou Windows
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+PHP 5.1.6
+
+SQL Apache Server 2.0.63 2000
+
+***
+
+Linux ou Windows
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+PHP 5.1.6
+
+***
+
+MySQL
+
+***
+
+Linux ou Windows
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+(1) A criticidade avalia fatores como importância para o negócio, quantidade de usuários, porte do sistema. (2) A manutenibilidade de um software visa determinar o grau de facilidade com que o mesmo pode ser corrigido ou aperfeiçoado. Um software com alto índice de manutenibilidade necessita de menos tempo e pessoas para ser modificado, ao passo que um software com baixo índice necessita de mais tempo e pessoas para sua modificação.
+
+58
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+ANEXO II PREGÃO Nº. 11/2010 MODELOS DE DECLARAÇÕES 1) MODELO DE DECLARAÇÃO DE ELABORAÇÃO INDEPENDENTE DE PROPOSTA (Identificação completa do representante da licitante), como representante devidamente constituído de (Identificação completa da licitante ou do Consórcio) doravante denominado (Licitante/Consórcio), para fins do disposto no item (completar) do Edital (completar com identificação do edital), declara, sob as penas da lei, em especial o art. 299 do Código Penal Brasileiro, que: (a) a proposta apresentada para participar da (identificação da licitação) foi elaborada de maneira independente (pelo Licitante/Consórcio), e o conteúdo da proposta não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer outro participante potencial ou de fato da (identificação da licitação), por qualquer meio ou por qualquer pessoa; (b) a intenção de apresentar a proposta elaborada para participar da (identificação da licitação) não foi informada, discutida ou recebida de qualquer outro participante potencial ou de fato da (identificação da licitação), por qualquer meio ou por qualquer pessoa; (c) que não tentou, por qualquer meio ou por qualquer pessoa, influir na decisão de qualquer outro participante potencial ou de fato da (identificação da licitação) quanto a participar ou não da referida licitação; (d) que o conteúdo da proposta apresentada para participar da (identificação da licitação) não será, no todo ou em parte, direta ou indiretamente, comunicado ou discutido com qualquer outro participante potencial ou de fato da (identificação da licitação) antes da adjudicação do objeto da referida licitação; (e) que o conteúdo da proposta apresentada para participar da (identificação da licitação) não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer integrante de (órgão licitante) antes da abertura oficial das propostas; e (f) que está plenamente ciente do teor e da extensão desta declaração e que detém plenos poderes e informações para firmá-la.
+
+(Local)__________________, em ___ de ___________________ de 2010. ___________________________________________________ (representante legal do licitante/ consórcio, no âmbito da licitação, com identificação completa)
+59
+
+Escola Nacional de Administração Pública
+Diretoria de Gestão Interna Coordenação Geral Tecnologia da Informação
+
+2) DECLARAÇÃO DE EXECUÇÃO DO SERVIÇO SEM INTERMEDIAÇÃO OU SUBCONTRATAÇÃO ( para cooperativa ou instituição sem fins lucrativos) (Nome da empresa)............................................................................, CNPJ nº.................................., sediada (endereço completo)........................................................., declara, sob as penas da Lei, que o serviço contratado será executado obrigatoriamente pelos cooperados ( no caso de cooperativa), ou pelos profissionais pertencentes aos quadros funcionais (no caso de instituição sem fins lucrativos), sem qualquer intermediação ou subcontratação, conforme estabelece o Parágrafo Único, do Art. 5º, da IN ­ 02/2008, do MPOG; Cidade ­ (UF), (Identificação do declarante) de de 2010.
+
+________________________________________________
+
+60
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+ANEXO III PREGÃO Nº. 11/2010 MINUTA DE CONTRATO PROCESSO N.º 04600.01926/2010-94
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS QUE ENTRE SI CELEBRAM A FUNDAÇÃO ESCOLA NACIONAL DE ADMINISTRAÇÃO PÚBLICA (ENAP) E A EMPRESA XXXXXXXXXXXXX, NA FORMA ABAIXO: A FUNDAÇÃO ESCOLA NACIONAL DE ADMINISTRAÇÃO PÚBLICA (ENAP), instituída por força da Lei nº 6.87l, de 03/l2/1980, e alterada pela Lei nº 8.140 de 28/12/1990, vinculada ao Ministério do Planejamento Orçamento e Gestão (MPOG), com sede no SAIS nº 02-A, nesta capital, CNPJ nº 00.627.612/0001-09, neste ato representada pela sua Diretora de Gestão Interna, Sra. Mary Cheng, CPF nº 147.470.878-18, carteira de identidade nº 26.133.383-5 SSP SP, residente nesta capital, nomeada pela Portaria nº 603, da Casa Civil, da Presidência da República, de 28/08/2008, publicada no Diário Oficial da União em 29/08/2008, conforme competência delegada pela Portaria ENAP nº 38, de 09 de abril de 2008, publicada no Diário Oficial da União de 10 de abril de 2008, a seguir denominada simplesmente CONTRATANTE e a Empresa xxxxxxxxxx inscrita no Cadastro Nacional de Pessoa Jurídica - CNPJ nº xxxxxxxxx, estabelecida no xxxxxxxxxxxxxx, neste ato representada pelo seu xxxxxxxx, xxxxxxxxxxx, nacionalidade, estado civil, Carteira de Identidade nº xxxxxxxxxxx, CPF n.º xxxxxxxxx, residente e domiciliado na xxxxxxxxxxxxxxxx, doravante denominada CONTRATADA, celebram o presente CONTRATO, decorrente do PREGÃO ELETRÔNICO nº XX/2010 constante do Processo nº 04600.01926/2010-94, sob a forma de execução indireta, sujeitando-se às normas e condições da Lei 10.520, de 17/07/2002, no Decreto nº 5.450, de 31/05/2005 e na IN nº 02, do MPOG, de 30/04/2008, com suas alterações; da Lei n.º 8.666, de 21 de junho de 1993, com suas alterações, e demais normas que regem a matéria, mediante cláusulas e condições a seguir estabelecidas: CLÁUSULA PRIMEIRA - DO OBJETO 1.1 Constitui objeto do presente CONTRATO a prestação de serviços de manutenção de sistemas de informação, que compreende a manutenção corretiva, adaptativa, evolutiva ou perfectiva dos sistemas elencados no Anexo I J do Termo de Referência. 1.1.1 Os serviços serão executados em conformidade com as especificações, padrões técnicos de desempenho e qualidade estabelecidos neste CONTRATO, no Edital do Pregão nº xx/2010 e seus Anexos e na proposta da CONTRATADA, todos partes integrantes deste Instrumento como se nele transcritos estivessem, prevalecendo , em caso de divergência, as disposições deste Contrato.
+61
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+CLÁUSULA SEGUNDA - DO DETALHAMENTO DOS SERVIÇOS 2.1 O serviço de manutenção consiste na correção de defeitos presentes nos sistemas em produção, alterações de comportamentos inadequados que causem problemas de uso ou funcionamento do sistema, alterações de interface do usuário e confecção e adaptação de relatórios e funcionalidades para atendimento de exigências legais decorrentes de alterações na lei ou demandas dos gestores. 2.2 São considerados os seguintes tipos de manutenção: 2.2.1 Manutenção Corretiva ­ Consiste na correção de defeitos em aplicações em produção. Como defeitos entendem-se quaisquer comportamentos inadequados que causem problemas de uso ou funcionamento da aplicação e quaisquer desvios em relação aos requisitos aprovados pela área requisitante. Os custos de manutenção corretiva são de responsabilidade da CONTRATADA, durante o período de garantia dos serviços prestados por essa. Caso o problema não possua vinculo aos serviços prestados pela CONTRATADA, sua correção será baseada na "Tabela de Custo por Tipo de Serviço", item 4.14.4 do presente certame; 2.2.2 Manutenção Adaptativa ­ Consiste na adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e SGBD, que não impliquem inserção, alteração ou exclusão de funcionalidades. 2.2.3 Manutenção Evolutiva ­ Consiste na inclusão, alteração e exclusão de características e funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio. 2.2.4 Manutenção Perfectiva ­ Consiste na adequação de aplicações à necessidade de melhorias, sem alteração de funcionalidades sob o ponto de vista do usuário. A finalidade da manutenção perfectiva é promover a melhoria de desempenho, processos de manutenção e usabilidade da aplicação. 2.2.5 Os sistemas de Administração de Cursos, Especialização e Formação de Carreira (WebCEF), o de Administração Financeira (WebSAF), o de Cadastro de Colaboradores (WebSCO), o de Administração de Eventos (WebSAE) e o portal da CONTRATANTE são os sistemas prioritários para a manutenção. Os demais sistemas possuem menor prioridade e baixa necessidade de manutenção. 2.2.6 Os sistemas alvo de manutenção estão listados no Erro! Fonte de referência não encontrada. do Edital de licitação. 2.2.7 O objetivo contrato é a terceirização dos serviços especificados no objeto por intermédio da emissão de Ordens de Serviços (OS's), numeradas sequencialmente, com prazos e produtos bem caracterizados. 2.2.8 Os serviços contratados serão solicitados gradativamente, de acordo com as necessidades da CONTRATANTE, não ficando obrigada a utilizar o total de pontos de função estimados para esta contratação. 2.2.9 Os prazos para início das atividades relativas aos serviços contratados serão definidos pela CONTRATANTE, a partir da data de assinatura do contrato e emissão das Ordens de Serviços.
+
+62
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.2.10 A CONTRATANTE emitirá quantas Ordens de Serviços forem necessárias durante a vigência do contrato, de acordo com seu planejamento executivo das atividades relacionadas ao objeto, até atingir o quantitativo máximo estimado. 2.3 REALIZAÇÃO DE REUNIÕES 2.3.1 O fiscal do contrato convocará a empresa contratada a uma reunião inicial para a sua inserção no âmbito da CONTRATANTE, a fim de buscar a compreensão da empresa nos aspectos que envolvam a execução dos serviços. 2.3.2 A reunião de caráter obrigatório para a Contratada ocorrerá no prazo máximo de 2 (dois) dias úteis, contados a partir da assinatura do contrato. 2.3.2 A CONTRATANTE poderá convocar outras reuniões durante a vigência do contrato, sempre que necessário para o andamento da execução dos serviços, sem ônus adicionais para a CONTRATANTE. 2.4 REALIZAÇÃO DE TESTES 2.4.1 A CONTRATADA deve entregar, junto com os artefatos construídos toda a documentação contendo as evidências de teste, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado. 2.4.2 A CONTRATANTE se reserva o direito de aplicar auditoria sobre o código-fonte entregue pela CONTRATADA e, para isso, utilizará como insumos: o código-fonte, a especificação de programas, o modelo de arquitetura de solução e os padrões de codificação definidos. 2.4.3 Os serviços de auditoria do trabalho de teste e de auditoria sobre o código-fonte poderão ser realizados pela CONTRATANTE ou empresa por ela contratada, com finalidade de apurar a conformidade dos serviços realizados. 2.4.4 Teste Unitário: 2.4.4.1 A CONTRATANTE exigirá a execução de Teste Unitário sobre o produto de software construído pela empresa contratada, baseado no planejamento de testes a ser elaborado pela CONTRATADA. 2.4.4.2 Entende-se como Teste Unitário aquele realizado sobre um componente de software isoladamente (Por exemplo: um programa em Java, um programa em PHP, etc), que deve abranger pelo menos as técnicas de teste Caixa Preta e Caixa Branca. 2.4.5 Teste Integrado: 2.4.5.1 A CONTRATANTE exigirá a execução de Teste Integrado sobre o produto de software construído pela empresa contratada, baseado no planejamento de testes a ser elaborado pela Contratada. 2.4.5.2 Entende-se como Teste Integrado aquele realizado por meio da navegação de forma progressiva e ordenada pelas telas ou estruturas internas do software onde seus elementos são combinados e testados para avaliação das suas interações (Por exemplo: listar as funcionalidades de navegação em um objeto único pelo apontamento do objeto que controla o botão (x) e do objeto do (ctrl+f4) para o mesmo objeto que controla a ação fechar do menu). 2.4.6 Teste do Aplicativo:
+63
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.4.6.1 A CONTRATANTE exigirá também a execução e evidenciação do teste de aplicativo sobre o produto desenvolvido, de forma a garantir pleno atendimento aos requisitos funcionais do aplicativo e a requisitos não funcionais específicos, de acordo com a especificidade da demanda. 2.4.6.2 Entende-se como Teste de Aplicativo a execução controlada do aplicativo, verificando se o seu comportamento ocorre de acordo com o especificado no serviço, buscando assim mostrar se os resultados estão respeitando os padrões estabelecidos na OS. 2.5 ARTEFATOS A SEREM ENTREGUES 2.5.1 Lista de artefatos a serem entregues na execução dos serviços de manutenção de sistemas 2.5.2 Para manutenção corretiva: atualização de toda a documentação disponível para o sistema corrigido sobre a alteração efetuada. 2.5.3 Para as demais manutenções previstas: entregar ou atualizar todos os artefatos previstos no PROCESSO UNIFICADO ­ UP, especialmente os seguintes: especificação e diagramas de casos de uso, especificação das regras de negócio, projeto de banco de dados (modelo entidade-relacional e dicionários de dados), componentes/códigos-fonte e demais documentações dos sistemas atualizadas. 2.5.4 A contratante poderá, em comum acordo com a contratada, deixar de exigir algum artefato caso julgue esse desnecessário. Tal fato deverá estar devidamente registrado na(s) OS(s) que compõem a demanda. 2.6 DA EXECUÇÃO DOS SERVIÇOS 2.6.1 A CONTRATANTE encaminhará à contratada Registro de Demanda ­ RD (ANEXO I A) e demais documentos de apoio que julgar necessário. A CONTRATADA poderá solicitar documentação extra para apoio à execução da demanda, que será encaminhada caso haja documentação disponível. 2.6.2 O trâmite desses documentos deverá ser viabilizado por meio do sistema de controle de demandas fornecido pela CONTRATANTE. 2.6.3 A contratada deverá elaborar e encaminhar à Coordenação-Geral de Tecnologia da Informação (CGTI), nos prazos máximos definidos na tabela do item 2.12.5 do recebimento do Registro de Demanda, Ordens de Serviço (OS), tantas quantas forem necessárias, detalhando os serviços necessários ao atendimento da demanda. 2.6.4 A ordem de serviço deverá seguir o modelo proposto no ANEXO I B do Edital de licitação e conterá obrigatoriamente as seguintes informações: a) Número da OS. b) Nome do projeto. c) Data do registro da demanda. d) Nome da contratada. e) Perfis técnicos envolvidos.
+
+64
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+f) Descrição da demanda com o objetivo da OS e referência ao Registro de Demanda. g) Lista de artefatos e documentos esperados. h) Tamanho estimado em PF. i) Cronograma de execução com data inicial e final para cada fase e seus artefatos e documentos. j) Valor total da OS por extenso, em R$. k) Critérios de qualidade. l) Local e data de recebimento pela CONTRATANTE. m) Assinatura do preposto da contratada. n) Data de aprovação e assinatura do fiscal do contrato e do responsável pela área demandante. 2.6.5 A CONTRATANTE analisará a OS, aprovando-a ou não. A execução do serviço somente poderá ser realizada após a aprovação pela CONTRATANTE. 2.6.6 Caso a OS não seja aprovada, a contratada deverá apresentar nova proposta com as alterações solicitadas pela CONTRATANTE, no prazo de 5 (cinco) dias úteis. 2.6.7 Caso a OS seja aprovada, a contratada iniciará a sua execução em conformidade com todas as condições estabelecidas no contrato e com o cronograma aprovado pela CONTRATANTE, apresentado pela contratada na fase de elaboração da OS. 2.6.8 A CGTI ficará responsável pelo monitoramento técnico dos serviços, registrando todas as ocorrências durante a execução da OS e solicitando as correções necessárias. 2.6.9 Durante a execução da OS, a contratada entregará os artefatos exigidos na OS em conformidade com o tipo de manutenção. Para cada OS concluída e seu conjunto de artefatos e documentos, a contratada emitirá o Termo de Entrega que será submetido ao fiscal do contrato para a avaliação técnica desses produtos entregues. A CGTI emitirá o Termo de Recebimento Provisório em até 10 (dez) dias, contados da entrega da OS e seus artefatos e documentos estabelecidos. 2.6.10 O Termo de Recebimento Provisório restringe-se a avaliação e aderência técnica dos artefatos e soluções desenvolvidas pela contratada. 2.6.11 Caso seja identificada alguma não conformidade, a CGTI registrará a ocorrência e emitirá o Termo de Rejeição. A CONTRATADA deverá aplicar as correções necessárias e efetuar nova entrega dentro do prazo já estabelecido. Se a entrega ocorrer fora do prazo estabelecido, a CGTI registrará ocorrência e aplicará as penalidades descritas neste termo. 2.6.12 Após a correção, a contratada emitirá novo Termo de Entrega que será objeto de nova avaliação. 2.6.12 O Termo de Entrega deverá fazer referência ao RD e OS à qual esteja vinculado, com a descrição dos serviços, artefatos e documentos entregues para homologação, bem como a quantidade de PF executados, o valor a ser pago, data de entrega e a assinatura do preposto da contratada.
+65
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.6.13 O fiscal do contrato receberá os artefatos e documentos estabelecidos para que a área demandante possa homologar o serviço. 2.6.14 O Termo de Recebimento Definitivo será emitido por servidor ou comissão designada pela autoridade competente em até 65 (sessenta e cinco) dias após o termo de recebimento provisório. 2.6.15 O Termo de Recebimento Definitivo tem por finalidade atestar que os serviços foram executados em conformidade com as especificações deste termo e do edital. 2.6.16 A área requisitante do serviço deverá homologar, junto à contratada e com o apoio da CGTI, os serviços executados, os artefatos e documentos entregues, conforme os prazos estabelecidos para a emissão do Termo de Recebimento Definitivo. 2.6.17 Após a efetiva entrega do serviço da OS, a CONTRATANTE tomará as providências para disponibilizar a solução implementada/corrigida em ambiente de produção, devendo contar com o auxílio da contratada para tanto, sem ônus adicional para a CONTRATANTE. 2.6.18 A verificação da qualidade dos serviços prestados e a conformidade dos artefatos e produtos entregues poderão ser realizadas por empresa contrata pela CONTRATANTE para esse fim, no prazo que antecede o ateste a ser realizado no Termo de Recebimento Definitivo. 2.6.19 A contratada, para cada OS aprovada, deverá executar os artefatos encomendados, de acordo com os respectivos cronogramas, gerando produtos dentro dos padrões de qualidade e de compatibilidade técnica, conforme a metodologia e os padrões definidos no Processo Unificado (UP) adotado pela CONTRATANTE. 2.7 DA MEDIÇÃO DOS SERVIÇOS 2.7.1 Os serviços realizados serão medidos utilizando-se a técnica de Análise em Pontos de Função, de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.3, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org). 2.7.2 A CONTRATANTE adotará as técnicas definidas pela Nesma (Netherlands Software Metrics Users Association) para a realização de contagens do tipo estimada e indicativa. 2.7.3 A utilização de novas versões do Manual poderá ser adotada pela CONTRATANTE, que em comum acordo com a CONTRATADA, estipulará um prazo apropriado para adequação da prestação dos serviços. 2.7.4 A CONTRATANTE adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste, em todos os serviços/sistemas. 2.7.5 Mesmo no caso de ser utilizada uma nova versão desse Manual, o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um), salvo quando a CONTRATANTE entender necessária, desde que fundamentada e aplicável, a revisão desse valor. 2.7.6 Os AIE (Arquivos de Interface Externa) deverão ser contados, mas não são remunerados à CONTRATADA, exceto quando seja comprovada tecnicamente junto à CONTRATANTE a necessidade de esforço para extração dos dados dos AIE.
+
+66
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.7.7 Sob hipótese alguma a CONTRATANTE aceitará e remunerará conversão de dados acima do quantitativo obtido pela contagem das funcionalidades de conversão. 2.7.8 A CONTRATANTE adota a "Tabela de Itens Não Mensuráveis" para calcular o esforço de atividades que não são passíveis de serem pontuadas pela técnica de Análise de Pontos de Função. 2.7.9 No caso da CONTRATADA identificar algum quesito não passível de pontuação e que não conste da referida tabela, deverá ser enviado relatório técnico à CONTRATANTE que avaliará e, se for o caso, havendo compatibilidade, enquadrará o quesito em algum item da tabela. Caso não haja compatibilidade o serviço (OS) não será aprovado. 2.7.10 O tamanho em Pontos de Função do serviço, acrescido dos Pontos de Função derivados dos itens não mensuráveis, corresponderá à quantidade total de Pontos de Função prevista para o serviço contratado. 2.7.11 Tabela de Itens Não Mensuráveis:
+TABELA DE ITENS NÃO MENSURÁVEIS TELAS - LAYOUT - contempla as alterações referentes aos layouts de telas, mudança de posição de campos em telas, relatórios ou layout de arquivos, sem que haja alteração em elementos de dados, arquivos referenciados ou informações de controle. Contempla também inclusão, alteração ou exclusão de logotipo da empresa, divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. Será considerado 0,2 de um ponto de função, para cada 5 elementos. CAMPOS E VARIÁVEIS - contempla a inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem que tenha havido mudança na funcionalidade. Contempla também padronização de nomenclatura de campos e variáveis. Será considerado 0,4 de um ponto de função, para cada 5 dados/campos. Inclusão, Alteração e Exclusão MENSAGENS - contempla a necessidade de alterações de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. Será considerado 0,2 de um ponto de função, para cada 5 mensagens. Alteração do texto da mensagem MENUS - contempla a necessidade de adição ou reestruturação de menus de navegação estáticos; ajuda (help estático); criação, alteração ou exclusão de páginas estáticas. Alteração e/ou Criação de Tela Exclusão de Tela DADOS HARD CODED - contempla a necessidade de inclusão, alteração ou exclusão de dados pertencentes a listas (combo box) ou tabelas físicas. Será considerado Qtd. de Dados/Campos
+
+1
+
+Qtd. de Elementos
+
+Qtd. PF
+
+Total PF
+
+0,2
+
+2
+
+Qtd. de Dados/Campos
+
+Qtd PF
+
+Total PF
+
+O Total de PF é igual a qtd. de elementos, dados, campos ou mensagens, dividido por 5, multiplicado pela Qtd. PF.
+
+0,4 Qtd. de Mensagens Qtd PF 0,2 Qtd. de Telas Qtd. PF 0,5 0,1 Qtd. PF Total PF Total PF O Total de PF é a qtd. de elementos, dados, campos ou mensagens, dividido por 5, multiplicado pela Qtd PF. O Total de PF é igual a qtd. de elementos, dados, Total PF
+
+3
+
+4
+
+5
+
+67
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+0,2 de um ponto de função, para cada 5 dados/campos. Inclusão, Alteração e Exclusão. CAMADA DE APRESENTAÇÃO ADICIONAL - contempla a necessidade de criação de mais de uma camada de apresentação (diferente) para o mesmo sistema. Exemplo: um sistema construído para rodar no mainframe com camada de apresentação INTRANET e INTERNET, desde que sejam as mesmas funcionalidades com padrões visuais distintos. O total de esforço não poderá ser maior que 30% do tamanho da funcionalidade a que ela se refere. TOTAL DE PF DOS ITENS NÃO MENSURÁVEIS 0,2
+
+campos ou mensagens, dividido por 5, multiplicado pela Qtd PF.
+
+Qtd. de PF
+
+Qtd. PF
+
+Total de PF
+
+7
+
+0,3
+
+ do PF dos itens
+
+2.8 FORMAS DE CONTAGEM POR CATEGORIA DE SERVIÇO 2.8.1 O tamanho dos serviços será calculado tomando-se por base as definições do item de medição dos serviços, constante neste documento. 2.8.2 Quando da avaliação técnica, a CONTRATANTE indicará na OS o tipo de contagem a ser utilizado pela CONTRATADA. 2.8.3 A CONTRATADA deverá utilizar o tipo de contagem "detalhado" ao final do serviço para comprovar o volume de serviços realizados na OS. 2.8.4 Os serviços contratados sofrerão ajustes devido a sua complexidade segundo tabela de reajuste de pontos de função por serviço contratado descrito abaixo:
+TABELA DE CUSTO POR TIPO DE SERVIÇO Tipo de Serviço Custo / Produtividade do Serviço (*) Para todos os serviços de manutenção evolutiva, serão aplicadas as regras abaixo, independente do tamanho: Funcionalidades INCLUÍDAS ­ serão remuneradas em 100% do valor do ponto de função, vezes a quantidade de PF da(s) fase(s) / disciplina(s) contratada(s); Funcionalidades ALTERADAS ­ serão remuneradas em 50% do valor do ponto de função, vezes a quantidade de PF da(s) fase(s) / disciplina(s) contratada(s); e terão seu fator de produtividade reduzido em 50%; Funcionalidades EXCLUÍDAS ­ serão remuneradas em 25% do valor do ponto de função vezes a quantidade de PF da(s) fase(s) / disciplina(s) contratada(s) e terão seu fator de produtividade reduzido em 75%. Em todos os casos, além dos valores em pontos de função, deverá ser somado total de PF derivado dos "itens não mensuráveis". O custo do serviço será: 50% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de PF derivado dos "itens não mensuráveis". 68
+
+Manutenção Evolutiva
+
+Manutenção Adaptativa
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+Manutenção Perfectiva
+
+O custo do serviço será: 33% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de PF derivado dos "itens não mensuráveis". É de obrigação da CONTRATADA, sem custo para a CONTRATANTE. O custo do serviço será: 10% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de PF derivado dos "itens não mensuráveis".
+
+Manutenção Corretiva na Garantia Manutenção Corretiva fora da Garantia
+
+(*) A quantidade de PF das fases / disciplinas contratadas deverá ser calculada, considerando-se a distribuição de esforços prevista neste documento.
+
+2.8.5 O valor dos serviços realizados e entregues obedecerá à regra de contagem definida abaixo, que relaciona o quantitativo de serviços realizados, reajustados segundo a tabela de reajuste apresentada acima: VFE = (Qt PF Entrega * Vr PF Contratado) * Fator de Ajuste Serviço Onde: 1) VFE = Valor Financeiro da Entrega; 2) Qt PF Entrega = Quantidade de Pontos de Função relacionados à entrega efetuada pela CONTRATADA, conforme contagem final da OS; 3) Vr PF Contratado = Valor contratado para o Ponto de Função; 4) Fator de Ajuste do Serviço = Fator de ajuste sobre a remuneração, para ajuste do valor em relação ao tipo de serviço contratado: a) Para Manutenções Evolutivas, independente do tamanho do serviço/projeto, o Fator de Ajuste de Serviço será: 1,00 para as funcionalidades INCLUÍDAS; 0,50 para funcionalidades ALTERADAS e 0,25 para funcionalidades EXCLUÍDAS; b) Para Manutenções Adaptativas o Fator de Ajuste de Serviço será de 0,50; c) Para Manutenções Perfectivas o Fator de Ajuste de Serviço será de 0,33; d) Para Manutenções Corretivas fora da garantia o Fator de Ajuste de Serviço será de 0,10. 2.8.6 Estima-se que os serviços classificados como Demanda Emergencial, definidos pela CONTRATANTE no Registro da Demanda ou no acionamento para o caso de manutenção corretiva, limitar-se-ão a 20% (vinte por cento) do volume de serviços contratados e obedecerão às mesmas regras de contagem definidas acima. 2DIVERGÊNCIAS DE CONTAGEM 2.9.1 Caso a CONTRATADA entenda existir divergência entre a sua contagem e a contagem da CONTRATANTE, deverá encaminhar pedido de revisão formal indicando profissional do seu quadro com certificação atualizada Certified Function Point Specialist (CFPS), para realizar, juntamente com profissional indicado pela CONTRATANTE, de mesmo perfil, a revisão das contagens e elaborar proposta final para a solução do impasse.
+
+69
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.9.2 Estes profissionais terão o prazo de até 5 (cinco) dias úteis, podendo ser prorrogado em razão do tamanho do serviço, para indicar uma solução conjunta para o impasse, cabendo à CONTRATANTE a decisão final. 2.9.3 O prazo máximo para encaminhamento de solicitações de revisão pela CONTRATADA é de até 5 (cinco) dias úteis, após a CONTRATANTE disponibilizar a contagem. 2.9.4 Caso a CONTRATADA não se pronuncie neste prazo, a contagem será automaticamente considerada validada pela CONTRATADA. 2.9ENTREGA DOS SERVIÇOS CONTRATADOS 2.10.1 A entrega formal dos serviços contratados à CONTRATANTE deverá ser realizada por meio da reapresentação da(s) OS(s) que compõe(m) a demanda, com a respectiva contagem final realizada, pela CONTRATADA, identificando as informações inerentes aos serviços entregues, em relação ao que foi previsto no contrato. 2.10.2 A CONTRATADA deverá apresentar, na entrega do serviço, as planilhas contendo o cálculo detalhado que resultou na contagem dos pontos de função. 2.10.3 A quantidade de entregas de serviços pela CONTRATADA deverá corresponder, no mínimo, às previsões de entrega da(s) OS(s) que devem ser acordadas com a CONTRATANTE, e em conformidade com os prazos de entrega discriminados neste Contrato. 2.10.4 Para demandas com volume de PF estimado superior a 50PF, a CONTRATADA poderá realizar entregas parciais de acordo com a atividade do processo de desenvolvimento de Software e percentuais de esforço considerado na tabela abaixo:
+Atividades do Processo de Desenvolvimento de Software Engenharia de Requisitos Design, Arquitetura Implementação Testes Homologação Implantação Percentual de esforço 20% 10% 45% 10% 10% 5%
+
+2.10.5 Para demandas conforme disposto no item 4.16.4, as mesmas serão divididas pela CONTRATANTE em Ordens de Serviço (OS) que correspondam a cada fase das atividades do processo de desenvolvimento de software as quais deverão obedecer aos níveis de serviço estipulados para fins de pagamento e possíveis sansões. 2.10.6 Os serviços deverão ser entregues pela CONTRATADA, nos ambientes da CONTRATANTE, de acordo com a OS, no formato definido pela CONTRATANTE. 2.10.7 Caso o local de entrega não esteja especificado na OS, o endereço de entrega dos serviços será a Coordenação-Geral de Tecnologia da Informação (CGTI) da CONTRATANTE, em Brasília/DF. 2.10.8 As entregas dos artefatos deverão ser realizadas por meio eletrônico ou por mídia magnética, no formato e prazos negociados com a CONTRATANTE previamente.
+
+70
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.10.9 Os artefatos deverão também, quando couber, serem entregues em cópias impressas. 2.11QUALIDADE E DESEMPENHO 2.11.1 A CONTRATANTE não aceitará desempenho dos serviços inferior aos padrões exigidos neste Contrato. Caso o desempenho não seja atingido, a CONTRATANTE emitirá um termo de rejeição e aplicará o redutor conforme o nível de serviço estipulado no item 5. 2.11.2 O índice aceitável de defeitos, por ponto de função, é de no máximo 0,2 Pontos de Defeitos e será calculado com base na gravidade de tipos de erros, conforme fórmula abaixo:
+
+Onde: Pd ­ Pontos de Defeitos PSE ­ Peso da Severidade dos Erros PRE ­ Peso de Reincidência de Erros Ts ­ Tamanho da Entrega / Serviço em Pontos de Função 2.11.3 Os pesos (PSE e PRE) estão definidos nas tabelas abaixo:
+PESO DA SEVERIDADE DOS ERROS Grave Alta Média Baixa 30 4 2 1
+
+PESO DA REINCIDÊNCIA DE ERROS Grave Alta Média Baixa 40 5 3 1
+
+2.11.4 Para arredondamento do valor de "Pd", aplicar-se-á a seguinte regra: se o número constante na terceira casa decimal for superior ou igual a 5, o algarismo da segunda casa decimal será acrescido de 1; caso contrári,o o valor da segunda casa decimal permanece inalterado. (Ex.: se o resultado do cálculo for igual a 0,188, o valor passará a ser 0,19. Se o resultado do cálculo for igual a 0,133 ,o valor passará a ser 0,13). 2.11.5 Para cada entrega prevista no serviço, será realizada a classificação de severidade dos tipos de erros possíveis, com base nos artefatos previstos na entrega. Essa classificação será formalizada em documento específico, encaminhado à CONTRATADA juntamente com a OS.
+71
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.11.6 A CONTRATANTE adotará a seguinte tabela de defeitos para avaliar a qualidade dos serviços realizados. Seq. Descrição 1 DOCUMENTOS - (ADERÊNCIA/CONFORMIDADE) Documentos fora do padrão estabelecido pela 1.1 CONTRATANTE (modelo) 1.2 Preenchimento incorreto (preenchimento) 1.3 Conteúdo em desacordo com os requisitos (inconsistência) 2 PRODUTO - (ADERÊNCIA AOS REQUISITOS) 2.1 O produto NÃO atende aos requisitos funcionais 2.2 O produto NÃO atende aos requisitos não-funcionais 3 PRODUTO - (CODIFICAÇÃO) 3.1 Passos não considerados 3.2 Lógica duplicada 3.3 Função desnecessária 3.4 Verificação de variável incorreta 3.5 Erros de escrita em interfaces com usuário 3.6 Iteração de loop errada 3.7 Ausência da condição de teste 3.8 Ausência de cálculos solicitados 3.9 Equação insuficiente ou incorreta 3.10 Falha de arredondamento ou de "truncagem" 3.11 Falha de conversão 3.12 Interrupções tratadas incorretamente 3.13 Chamada errada de sub-rotina 3.14 Inexistência da sub-rotina chamada 3.15 Argumentos inconsistentes da sub-rotina 3.16 Dados inicializados incorretamente 3.17 Dados acessados ou armazenados incorretamente 3.18 Índice ou flag com valor incorreto 3.19 Variável referenciada incorretamente 3.20 Dados dimensionados incorretamente 3.21 Tipo de variável incorreta 3.22 Escopo do dado incorreto 3.23 Variável subscrita incorretamente 3.24 Recursividade utilizada em situação proibida Extrapolação de número de chamadas a sub-rotinas de forma 3.25 aninhada Atribuição de nomes diferentes a uma mesma variável (no 3.26 mesmo local de memória) 3.27 Variável definida e nunca utilizada 3.28 Uso de variável global proibida 3.29 Extrapolação de tamanho de programa (em linhas de código)
+72
+
+Severidade Peso Média Média Média Grave Grave Média Média Média Média Média Média Média Alta Alta Alta Alta Média Média Média Média Média Média Média Média Média Média Média Média Média Baixa Média Baixa Média Baixa 2 2 2 30 30 2 2 2 2 2 2 2 4 4 4 4 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+3.30 Desrespeito à nomeação padronizada de variáveis Erro de formatação de código (número de caracteres por 3.31 linha, identação) 3.32 Uso de comandos proibidos (em desuso) 3.33 Passagem incorreta de parâmetros entre programas 3.34 Variável usada antes de ser inicializada Leitura de arquivo não aberto ou depois de o mesmo ter sido 3.35 fechado 3.36 Código inalcançável (código-morto) 3.37 Violação de Camadas em padrões de projeto Organização de classes/pacotes/arquivos em desacordo com 3.38 padrão da CONTRATANTE 3.39 Uso de Scriplets em vez de Taglibs Documentação de código inexistente ou em desacordo com a 3.40 implementação 3.41 Não realização de críticas de dados na camada de Internet 3.42 Objetos que não mantenham seus estados consistentes 3.43 Transações incorretamente implementadas 3.44 Lançamento de Exceções de forma incorreta Regras de negócio implementadas em componentes de SGBD 3.45 (triggers, stored procedures ou functions) , sem justificativa 3.46 Má reutilização de código (código clonado) 4 ARMAZENAMENTO DE DADOS 4.1 Nomenclatura de campos/atributos fora do padrão 4.2 Dimensionamento inadequado de atributos / objetos 4.3 Ausência de Constraint para garantir integridade do modelo Falta de normalização na estrutura de dados (3FN), sem 4.4 justificativa 5 SEGURANÇA / DESEMPENHO 5.1 Acesso à função do sistema sem a devida autorização 5.2 Autenticação por meio da utilização de SQL Injection Consulta com tempo de resposta superior a 2 segundos em 5.3 ambiente de produção em sistemas OLTP, sem justificativa. 6 ARQUITETURA DE SOLUÇÃO Utilização de componentes de software não homologados 6.1 pela CONTRATANTE
+
+Baixa Baixa Média Média Média Média Baixa Média Baixa Média Baixa Média Média Grave Baixa Média Alta Alta Alta Alta Grave Grave Grave Alta
+
+1 1 2 2 2 2 1 2 1 2 1 2 2 30 1 2 4 4 4 4 30 30 30 4
+
+Grave
+
+30
+
+2.11.7 Para ateste dos serviços e emissão do Termo de Aceite, será facultado à CONTRATANTE submeter os programas produzidos pela CONTRATADA a testes em ferramentas especializadas para avaliação de aspectos de qualidade. 2.11.8 As alterações propostas, baseadas nos dados obtidos pelas ferramentas mencionadas, deverão ser efetuadas sem qualquer tipo de ônus financeiro para a
+
+73
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+CONTRATANTE, respeitando os requisitos não funcionais elaborados anteriormente e padrões previamente fornecidos. 2.11.9 O índice aceitável de defeitos acima referenciado não exime a CONTRATADA das obrigações de corrigi-lo, sem ônus para a CONTRATANTE. 2.12DO PRAZO DE ATENDIMENTO DOS SERVIÇOS PELA CONTRATADA 2.12.1 Os prazos máximos estabelecidos para atendimento dos serviços contemplam a execução de todas as fases definidas na Metodologia de Desenvolvimento da CONTRATANTE. 2.12.2 O inicio do atendimento é definido como o momento em que a CONTRATADA é informada sobre o serviço, por meio de uma RD ou pelos meios pré-definidos nos casos de manutenção corretiva. 2.12.3 O Prazo para Solução do Problema é o prazo que a CONTRATADA tem para finalizar o atendimento do serviço e se caracteriza pelo momento que a CONTRATADA encaminha para a CONTRATANTE o resultado do serviço realizado para implantação. 2.12.4 O Prazo para Solução da Causa do Problema é definido como o prazo que a CONTRATADA possui para resolução da causa-raiz do problema, evitando que o mesmo ocorra novamente. 2.12.5 A CONTRATADA deverá observar os prazos para o atendimento dos tipos de serviços, conforme tabela abaixo:
+
+74
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+TABELA DE PRAZOS PARA ATENDIMENTO DE SERVIÇOS Prazo para Iniciar o Prazo para Solução do Problema Atendimento (em horas úteis) (em horas úteis) Prazo para Solução da Causa do Problema (em horas úteis) Emergencial 4 horas Normal 8 horas -Ferramenta ou telefone Ferramenta ou telefone
+
+Categoria do Serviço
+
+Criticidade do Aplicativo
+
+Prazo para Execução do Serviço
+
+Forma de Acionamento
+
+Emergencial ALTA Manutenção Corretiva (em garantia ou fora da garantia) Imediatamente após notificação 1 h 30 min.
+
+Normal 1 hora
+
+Emergencial 2 horas
+
+Normal 4 horas
+
+MÉDIA
+
+2 horas
+
+4 horas
+
+8 horas
+
+8 horas
+
+16 horas
+
+--
+
+BAIXA
+
+2 horas
+
+4 horas
+
+8 horas
+
+16 horas
+
+16 horas
+
+32 horas
+
+--
+
+Ferramenta ou telefone
+
+Manutenção Adaptativa Manutenção Perfectiva Manutenção Evolutiva
+
+ALTA, MÉDIA e BAIXA ALTA, MÉDIA e BAIXA ALTA, MÉDIA e BAIXA
+
+Em até 3 (três) dias úteis, contados da data de recebimento do RD. Em até 3 (três) dias úteis, contados da data de recebimento do RD. Em até 3 (três) dias úteis, contados da data de recebimento do RD.
+
+Prazo estabelecido à CONTRATADA visto tamanho estimado do serviço
+
+Ferramenta
+
+Prazo estabelecido à CONTRATADA visto tamanho estimado do serviço
+
+Ferramenta
+
+Prazo estabelecido à CONTRATADA visto tamanho estimado do serviço
+
+Ferramenta
+
+75
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.12.6 Os prazos máximos de entrega a serem observados para execução dos serviços de manutenção evolutiva serão calculados da seguinte forma: 2.12.6.1 Para projetos (demandas) com valor estimado igual ou superior a 100 PF, aplica-se a fórmula: Td = V0,34 Onde: Td: prazo máximo de desenvolvimento em meses V: tamanho do projeto em Pontos de Função 2.12.6.2 Para projetos com valor estimado inferior a 100 PF, aplica-se a tabela: Tamanho de Ponto de Prazo Máximo (dias úteis) Função 10 20 30 40 50 60 70 80 90 15 25 30 40 50 58 66 74 82
+
+1.12.7 A CONTRATADA poderá solicitar, ainda, um prazo adicional, quando justificada e comprovada a necessidade, em função de complexidade da solução a ser desenvolvida, ficando a critério da CONTRATANTE aceitar ou não as justificativas e determinar o novo prazo. 2.12.8 O prazo adicional, no caso de aceito pela CONTRATANTE, será adicionado ao prazo total do serviço ou projeto contratado. 2.12.9 A solicitação de prazo adicional para atendimento não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação pela CONTRATANTE, ficam mantidas as condições estipuladas para o serviço. 2.12.10 Caso a justificativa não seja aceita pela CONTRATANTE, prevalecerá o prazo inicialmente estipulado.
+
+76
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.12.11 O prazo máximo para execução dos serviços de manutenção adaptativa e manutenção perfectiva será definido pela CONTRATANTE, respeitando o limite máximo de prazo, por tamanho do serviço, utilizado para serviços de manutenção evolutiva. 2.12.12 Para a aferição dos prazos a CONTRATANTE utiliza-se de um índice que relaciona o prazo que a OS deveria ser entregue com o que foi realmente entregue. 2.12.12.1 Índice de Descumprimento de Prazos (IDP) =  Dias de Atraso Não Justificados dividido pela duração prevista para os artefatos/ atividades entregues no cronograma da execução de uma OS. 2.12.12.2 O IDP aceitável é <= 0,2. 2.13 ALTERAÇÃO DE ESCOPO 2.13.1 Alteração de escopo é a mudança solicitada durante a execução do serviço de manutenção do sistema. 2.13.2 Tal alteração decorre da revisão das necessidades negociais atendidas pelo sistema, não estando relacionada com o simples detalhamento dos requisitos e Casos de Uso identificados inicialmente. 2.13.3 Dessa forma, funcionalidades alteradas e excluídas só serão consideradas no escopo da fórmula abaixo se estiverem relacionadas a um requisito ou Caso de Uso que sofre alteração. 2.13.4 A alteração de escopo deverá ser formalizada em artefato de Solicitação de Mudança à CONTRATADA. 2.13.5 Essas solicitações de mudanças podem ou não ocasionar variações no tamanho do sistema, que nem sempre são refletidas na contagem de pontos de função do sistema e serviços já desenvolvidos. 2.13.6 A CONTRATANTE utilizará a fórmula abaixo para calcular a quantidade de PF a ser remunerada na execução das alterações referentes a entregas já realizadas e aceitas pela CONTRATANTE, até a solicitação de alteração de escopo ser notificada à CONTRATADA: Fórmula para calcular a quantidade de Pontos de Função devida para adequação das alterações nas fases/atividades já realizadas: PF_Devido = { [ (Pi x Fri) + (Pe x Fre) + (Pa x Fra) ] x (Pfe / Pft)} Legenda: PF_devido = Quantidade de Pontos de Função devida para adequação das alterações nas fases / atividades já realizadas; Pi = Pontos de função das funções incluídas; Pe = Pontos de função das funções excluídas; Pa = Pontos de função das funções alteradas antes da alteração de escopo; Fri = Fator de redução para funções incluídas = 1; Fre = Fator de redução para funções excluídas = ¼; Fra = Fator de redução para funções alteradas = ½; Pfe =  da quantidade de PF das entregas contratadas já realizadas; Pft = Tamanho funcional do serviço (sem inclusão de itens não mensuráveis) antes da alteração de escopo.
+77
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.13.7 Para fins de re planejamento do serviço, será realizada uma nova contagem para atualização da quantidade de PF e do prazo, levando em consideração a(s) fase(s)/entrega(s) contratada(s) e ainda não executada(s). 2.13.8 As variações no número de pontos de função contratados, decorrentes da alteração de escopo, deverão ser previamente aprovadas pela CONTRATANTE e formalizadas por meio de OS específica. 2.14 DA GARANTIA DOS PRODUTOS DESENVOLVIDOS 2.4.1 A empresa contratada deverá apresentar garantias de funcionamento dos produtos desenvolvidos pelo período mínimo de 12 (doze) meses, a contar da data de seu recebimento definitivo, comprometendo-se a efetuar as necessárias correções sem ônus adicionais para a CONTRATANTE durante esse período. 2.15 DA TRANSFERÊNCIA DE TECNOLOGIA 2.15.1 A transferência de tecnologia se dará com a entrega dos artefatos e em eventos específicos de transferência de tecnologia solicitados pela CONTRATANTE, preferencialmente em ambiente disponibilizado pela contratada, sem ônus adicionais para a CONTRATANTE. 2.15.2 A CONTRATANTE indicará os servidores participantes desses eventos, os quais versarão sobre a instalação e manutenção das soluções desenvolvidas, as metodologias de desenvolvimento e de contagem de pontos de função utilizadas pela contratada. 2.15.3 O cronograma CONTRATANTE. e horário deverão ser previamente aprovados pela
+
+2.16DO DIREITO AUTORAL E PROPRIEDADE INTELECTUAL 2.16.1 A CONTRATANTE, para todos os efeitos da aplicação da Lei nº 9.609/98, que dispõe sobre a proteção da propriedade intelectual de programa de computador, e regulamentos correlatos, deverá ser a única proprietária da licença para utilização do sistema, devendo, para tanto, a CONTRATADA ceder à CONTRATANTE: 2.16.1.1 O projeto, suas especificações técnicas, documentação, códigos-fonte de programas, bases de dados, dados de identificação dos técnicos desenvolvedores e todos os produtos gerados na execução do contrato, para instrução de processo de registro do Sistema no Instituto Nacional de Propriedade Intelectual (INPI) pela CONTRATANTE; 2.16.1.2 Os direitos permanentes de uso e de instalação sobre todas as adequações ao software e atualizações corretivas, ou a arquivos e rotinas a ele associadas, desenvolvidas em decorrência do Contrato, sem ônus adicionais à CONTRATANTE; 2.16.1.3 Os direitos aos serviços de suporte, instalação, administração e uso do software e de arquivos auxiliares durante todo o período de vigência do Contrato, sem ônus adicionais à CONTRATANTE. 2.16.2 Todos os direitos autorais da solução, documentação, "scripts", códigos-fonte, bases de dados e congêneres, desenvolvidos durante a execução dos serviços, são da CONTRATANTE, ficando proibida a sua utilização pela Contratada sem a autorização expressa da CONTRATANTE.
+
+78
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+2.16.3 A contratada não poderá repassar a terceiros, em nenhuma hipótese, códigosfonte, bem como qualquer informação sobre a arquitetura, documentação, dados e metadados trafegados, produtos desenvolvidos e entregues; ficando responsável por manter sigilo sobre quaisquer informações que tiver em decorrência da prestação de serviços objeto da presente contratação, ficando proibida de fazer uso desses, sob quaisquer justificativas. 2.16.4 A contratada deverá assinar termo de compromisso de manutenção de sigilo. 2.17. DOS RECURSOS OPERACIONAIS DA CONTRATANTE 2.17.1 AMBIENTE PARA EXECUÇÃO DOS SERVIÇOS: 2.17.1.1 Ambiente de Desenvolvimento: Ambiente de desenvolvimento e manutenção das aplicações. O seu funcionamento tem por base o controle de versão de produtos por meio de ferramenta específica do tipo CVS; 2.17.1.2 Ambiente de Homologação: Ambiente que permite os testes necessários por parte do gestor da aplicação para o seu devido aceite. O seu funcionamento tem por base a não edição de arquivos para correção nesse ambiente, pois todo processo de correção deve ocorrer no Ambiente de Desenvolvimento; 2.17.1.3 Ambiente de Capacitação: Ambiente que apresenta cópias dos sistemas que estão em produção, cuja finalidade é a capacitação de usuários dos sistemas. 2.17.1.4 Ambiente de Produção: Ambiente que hospeda a aplicação em produção na CONTRATANTE. O seu funcionamento tem por base a hospedagem somente da aplicação homologada pela área solicitante e que atenda aos padrões técnicos exigidos neste termo. 2.17.2 RECURSOS OPERACIONAIS DE SOFTWARE: 2.17.2.1 A CONTRATANTE adota para seu grupo de ambientes as ferramentas relacionadas a seguir, para a manutenção dos sistemas: 2.17.2.1.1 Sistema Operacional: Servidores baseado na arquitetura Intel X86 multiprocessado com os sistemas operacionais Windows 2000 Server, Advanced Server, 2003 Server, Linux Debian, Red Hat, CentOS e Suse; infra-estrutura de segurança com cluster de firewalls Checkpoint; estações de trabalho Windows XP, Vista e Linux. 2.17.2.1.2 Ferramentas de Desenvolvimento: PHP, ASP, Delphi, HTML, Web Integrador, JavaScript, PL/SQL, Portais e ambiente Moodle, Pyton e PHL. 2.17.2.1.3 Servidor de Aplicação: Jboss e Tomcat. 2.17.2.1.4 Banco de Dados: Microsoft SQL Server, MySQL, PostgreSQL e Access. 2.17.2.2 Sistemas da CONTRATANTE e suas características . CLÁUSULA TERCEIRA ­ DAS OBRIGAÇÕES DA CONTRATANTE 3.1 Constituem obrigações da CONTRATANTE: a) Emitir a nota de empenho e informar a contratada sobre a sua emissão. b) Executar a fiscalização necessária para que o objeto seja executado em conformidade com as condições exigidas neste termo.
+79
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+c) Atestar a nota fiscal apresentada pela contratada. d) Prestar informações e esclarecimentos solicitados pela contratada, pertinentes à execução do objeto deste termo. e) Respeitar as definições deste contrato para que a CONTRATADA cumpra as condições exigidas. f) Efetuar o pagamento da nota fiscal emitida pela contratada, dentro das condições exigidas neste termo, condicionado à entrega definitiva dos artefatos solicitados em cada Ordem de Serviço. g) Hospedar e manter o controle do sistema de controle de demandas. CLÁUSULA QUARTA - DAS OBRIGAÇÕES DA CONTRATADA 4.1 Constituem obrigações da CONTRATADA: a) Acusar o recebimento da nota de empenho. b) Respeitar as definições constantes do contrato para que os serviços sejam entregues com todas as condições exigidas e atendidas. c) Prestar a garantia dos serviços descrita no Contrato. d) Efetuar o pagamento de todos os impostos, taxas e demais obrigações fiscais incidentes ou que vierem a incidir sobre o objeto do contrato. e) Respeitar as normas e procedimentos de controle interno, inclusive de acesso às dependências da CONTRATANTE. f) Manter, durante o período de contratação, o atendimento às condições de habilitação exigidas na licitação. g) Manter equipe técnica com perfil e qualificação adequadas para a execução dos serviços. h) Arcar com as despesas decorrentes de qualquer infração cometida por seus empregados quando da execução do objeto contratado. i) Responsabilizar-se por perdas e danos eventualmente causados por seus técnicos ou empregados, a materiais e informações de propriedade da CONTRATANTE ou terceiros, quando da execução do objeto contratado. j) Assumir, de forma exclusiva, todas as obrigações trabalhistas e previdenciárias advindas da relação com seus empregados, envolvidos no objeto desse Contrato, isentando a CONTRATADA de quaisquer responsabilidades sobre encargos provenientes de relações empregatícias da contratada. k) Manter confidencialidade sobre quaisquer materiais e informações de propriedade da CONTRATADA, aos quais tiver acesso em decorrência da prestação de serviços objeto do contrato, ficando proibida de fazer uso ou revelação desses, sob qualquer justificativa. l) Comunicar à CONTRATANTE, por escrito, qualquer anormalidade detectada. m) Emitir a nota fiscal com informação dos dados bancários. n) Comunicar à CONTRATANTE a substituição de profissionais e comprovar que os novos integrantes da equipe da CONTRATADA possuem vínculo empregatício, nas mesmas condições dos substituídos, comprovado por meio de carteira ou contrato de trabalho, bem como prestar informações sobre a habilitação dos mesmos para execução dos serviços. o) Renovar ou complementar o valor da garantia contratual sempre que necessário.
+
+80
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+CLÁUSULA QUINTA - DO LOCAL DA PRESTAÇÃO DO SERVIÇO 5.1 Os serviços referentes à manutenção corretiva deverão ser executados nas dependências da CONTRATANTE. 5.2 Os serviços referentes à manutenção evolutiva, adaptativa e perfectiva deverão ser executados nas dependências da CONTRATADA, podendo ser efetuada nas dependências da CONTRATANTE, desde que devidamente acordada entre as partes. CLÁUSULA SEXTA - DO VÍNCULO EMPREGATÍCIO 6.1 Os empregados da CONTRATADA não terão qualquer vínculo empregatício com a CONTRATANTE, correndo por conta exclusiva da primeira todas as obrigações decorrentes da legislação trabalhista, previdenciária, fiscal e comercial, as quais a CONTRATADA se obriga a saldar na época devida, mantendo ainda a CONTRATANTE resguardada das demandas respectivas. 6.2 Na hipótese de a CONTRATANTE vir a ser chamada em juízo por quaisquer dos empregados da CONTRATADA, utilizados na prestação dos serviços objeto deste instrumento, seja diretamente ou em face de alegação de responsabilidade solidária e/ou subsidiária, fica ajustado entre as partes que caberá exclusivamente à empresa contratada arcar com os ônus daí decorrentes, inclusive com os custos que a CONTRATANTE vier a ter com a mobilização de seus procuradores na defesa respectiva. CLÁUSULA SÉTIMA ­ DA RESPONSABILIDADE CIVIL 7.1A CONTRATADA responderá por quaisquer danos ou prejuízos pessoais ou materiais que seus empregados ou prepostos, em razão de omissão dolosa ou culposa, venham a causar aos bens da CONTRATANTE em decorrência da prestação dos serviços objeto deste Contrato, incluindo-se, também, os danos materiais ou pessoais a terceiros, a que título for. 7.2A CONTRATANTE estipulará prazo à CONTRATADA para reparação de danos porventura causados. CLÁUSULA OITAVA ­ DOS ÔNUS E ENCARGOS 8.1Todos os ônus ou encargos referentes à execução deste Contrato, que se destinem à realização dos serviços, à locomoção de pessoal, seguros de acidentes, impostos, taxas, contribuições previdenciárias, encargos trabalhistas e outros que forem devidos em razão dos serviços ficarão totalmente a cargo da CONTRATADA. CLÁUSULA NONA ­ DO PREÇO E DA DOTAÇÃO ORÇAMENTÁRIA 9.1Pela execução dos serviços, a CONTRATADA fará jus ao pagamento dos valores constantes da Proposta apresentada, cujo valor total anual é de R$........ (.............................). Essa despesa está consignada no Orçamento-Geral da ENAP ­ Ação: ....................
+81
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+9.2 Para o exercício de 2010 foi emitida a Nota de Empenho nº ................., Programa de Trabalho ......................, Natureza da Despesa ....................., Fonte ........................... em dd/mm/aaaa. CLÁUSULA DÉCIMA - DO PAGAMENTO 10.1 O pagamento será efetuado mensalmente por meio de ordem bancária em até 5 (cinco) dias após a data de entrega da nota fiscal, que somente deverá ser emitida pela CONTRATADA após o termo de recebimento definitivo emitido pela CONTRATANTE. 10.2 A contratada deverá no início de cada mês enviar as notas fiscais referentes as OS efetivamente entregues até o último dia do mês anterior, não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. 10.3 Entende-se como OS efetivamente entregue aquela que possuir o termo de recebimento definitivo emitido até o último dia do mês. 10.4 Nenhum pagamento será efetuado à contratada na pendência de atestação de conformidade da entrega do objeto (Termo de Recebimento Definitivo), sem que isso gere direito a alteração de preços ou compensação financeira. 10.5 A nota fiscal/fatura deverá ser encaminha ao Protocolo/ CONTRATANTE localizado no Edifício Sede, SAIS Área 2 A, CEP 70.610-900, Brasília-DF, Térreo. 10.6 O valor do pagamento será aquele apresentado na Nota Fiscal, descontadas as glosas estabelecidas na Tabela de glosas, consoante gradação abaixo. GRAU CORRESPONDÊNCIA 01 02 Glosa de 3% ( três por cento), sobre o valor global dos serviços da demanda (RD). Glosa de 5% (cinco por cento) sobre o valor global dos serviços da demanda (RD).
+
+10.7 As glosas nos pagamentos a que se sujeita a CONTRATADA terão como referencia a tabela a seguir: Item 01 02 03 Descrição REFERÊNCIA GRAU 01 02 01
+
+Pontos de defeito - Pd maior que 0,3 e menor Por ocorrência ou igual a 0,5 Pontos de defeito - Pd maior que 0,5 Por ocorrência
+
+Índice de Descumprimento de Prazos maior Por ocorrência que 0,2 (zero vírgula dois) e menor ou igual a 0,3 (zero vírgula três) Índice de Descumprimento de Prazos maior Por ocorrência que 0,3 (zero vírgula três)
+82
+
+04
+
+02
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+10.7.1 Em caso de aplicação das sanções previstas neste item, a glosa incidirá sobre o Custo Total da demanda (RD), à qual a OS se refere, sendo que o desconto será efetivado no pagamento da OS corrente e, se os valores a serem pagos forem insuficientes, será descontado nas próximas entregas subsequentes até a última entrega da referida demanda. 10.8 O Termo de Recebimento Definitivo será emitido, por servidor ou comissão designada pela autoridade competente, em até 65 (sessenta e cinco) dias após o termo de recebimento provisório. 10.9 Quando da ocorrência de eventuais atrasos de pagamento provocados exclusivamente pela Administração, o valor devido deverá ser acrescido de atualização financeira, e sua apuração se fará desde a data de seu vencimento até a data do efetivo pagamento, em que os juros de mora serão calculados à taxa de 0,5% (meio por cento) ao mês, ou 6% (seis por cento) ao ano, mediante aplicação das seguintes fórmulas: I=(TX/100) 365 EM = I x N x VP, onde: I = Índice de atualização financeira; TX = Percentual da taxa de juros de mora anual; EM = Encargos moratórios; N = Número de dias entre a data prevista para o pagamento e a do efetivo pagamento; VP = Valor da parcela em atraso. 10.10 Na hipótese de pagamento de juros de mora e demais encargos por atraso, os autos devem ser instruídos com as justificativas e motivos, e ser submetidos à apreciação da autoridade superior competente, que adotará as providências para verificar se é ou não caso de apuração de responsabilidade, identificação dos envolvidos e imputação de ônus a quem deu causa. 10.11 Em cumprimento ao disposto no Art. 64, da Lei nº 9.430, de 27/12/96, Lei nº 9.718, de 27/11/98 e Instrução Normativa Conjunta nº 480, de 15/10/2004, a Coordenação-Geral de Orçamento, Finanças e Contabilidade (COFIC) reterá na fonte o Imposto sobre a Renda da Pessoa Jurídica (IRPJ), bem assim a contribuição sobre o lucro líquido, a Contribuição para a Seguridade Social (COFINS) e a contribuição para o PIS/PASEP sobre os pagamentos que efetuar a CONTRATADA, se essa não apresentar cópia do Termo de Opção ou Certificado de Isenção do IRPJ, de que trata a Instrução Normativa SRF nº 79, de 01/08/2000. 10.12 Quanto à prestação de serviços, na retenção do Imposto Sobre Serviços (ISS), será observado, no que couber, o disposto na Lei Complementar nº 116, de 31 de julho de 2003. CLÁUSULA DÉCIMA PRIMEIRA - DA FISCALIZAÇÃO E CONTROLE
+
+83
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+11.1 Não obstante a CONTRATADA seja a única e exclusiva responsável pela execução de todos os serviços, a CONTRATANTE reserva-se o direito de indicar o Coordenador-Geral da Coordenação-Geral de Tecnologia da Informação da CONTRATANTE responsável pela gestão do contrato, podendo designar responsável que detenha competência técnica para auxiliar no acompanhamento e fiscalização de sua execução, sem que, de qualquer forma, restrinja à CONTRATADA a plenitude dessa responsabilidade, nos termos do art. 67 de Lei nº 8.666/93.
+
+CLÁUSULA DÉCIMA SEGUNDA - DAS SANÇÕES ADMINISTRATIVAS 12.1 Suspensão ­ Quem falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União, Estados, Distrito Federal ou Municípios e, será descredenciado no Sicaf, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4o da Lei 10.520/2002, pelo prazo de até 5 (cinco) anos, sem prejuízo das multas previstas no edital e no contrato e das demais cominações legais. 12.2 Pela inexecução total ou parcial do contrato a Administração poderá, garantida a prévia defesa, aplicar ao contratado as seguintes sanções: 12.2.1 advertência por escrito; 12.2.2 Multa, conforme abaixo definido: 12.2.2.1 multa de 10% (dez por cento) sobre o valor total da contratação, quando for constatado o descumprimento das condições de habilitação exigidas no Edital, no Contrato e/ou no Termo de Referência; 12.2.2.2 o atraso injustificado na execução contratual, exceto os estabelecidos no Acordo de Nível de Serviços, implicará multa correspondente a 1% (um por cento) por dia de atraso, calculado sobre o valor do objeto em atraso, até o limite de 30% (trinta por cento) do objeto em atraso; 12.2.2.3 multa de 5% (cinco por cento), calculada sobre o valor total da contratação devidamente atualizado, sem prejuízo da aplicação de outras sanções previstas no art. 28, do Decreto nº 5.450/2005, na hipótese de recusa injustificada da licitante vencedora ou da CONTRATADA em apresentar a garantia no prazo concedido ou recompor o valor da garantia, no prazo máximo de 48 (quarenta e oito) horas, após regularmente notificada; 12.2.2.4 multa de 10% (dez por cento) sobre o valor total da contratação quando for constatada a ausência de vínculo empregatício com a CONTRATADA dos empregados responsáveis pelos serviços contratados. 12.2.3 Suspensão temporária de participação em licitação e impedimento de contratar com a CONTRATANTE, por prazo não superior a 2 (dois) anos, na hipótese de atraso injustificado da execução do objeto por período superior a trinta dias; 12.2.4 Declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será
+
+84
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+concedida sempre que o contratado ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no subitem 12.2.5. 12.2.5 A aplicação das sanções previstas não exclui a possibilidade de aplicação de outras, previstas na Lei nº 8.666/1993, inclusive a responsabilização da CONTRATADA por eventuais perdas e danos causados à CONTRATANTE. 12.2.6 A multa deverá ser recolhida no prazo máximo de 10 (dez) dias corridos, a contar da data do recebimento da comunicação enviada pela CONTRATANTE. 12.2.7 O valor da multa poderá ser descontado da Nota Fiscal/Fatura, da garantia ou de crédito existente com a CONTRATANTE, em favor da CONTRATADA, sendo que, caso o valor da multa seja superior ao crédito existente, a diferença será cobrada na forma da lei. 12.2.8 As sanções previstas são independentes entre si, podendo ser aplicadas de forma isolada ou cumulativamente, sem prejuízo de outras medidas cabíveis. 12.2.9 Não será aplicada multa se, justificada e comprovadamente, o atraso na execução do serviço advier de caso fortuito ou de força maior. 12.2.10 Em qualquer hipótese de aplicação de sanções, serão assegurados à licitante o contraditório e a ampla defesa. 12.2.11 As multas e outras sanções aplicadas só poderão ser relevadas, motivadamente e por conveniência administrativa, mediante ato do Diretor de Gestão Interna, devidamente justificado. 12.2.12 A aplicação das sanções previstas neste Contrato não exclui a possibilidade de aplicação de outras, previstas na Lei nº 8.666/1993, inclusive a responsabilização da Contratada por eventuais perdas e danos causados à Escola Nacional de Administração Pública. CLÁUSULA DÉCIMA TERCEIRA - DOS ACRÉSCIMOS OU SUPRESSÕES 13.1 A CONTRATADA fica obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessários na prestação dos serviços, até o limite de 25% (vinte e cinco por cento) do preço inicial atualizado do CONTRATO, nos termos dos §§ 1º e 2º, do artigo 65, da Lei nº 8.666/93, com suas posteriores alterações. CLÁUSULA DÉCIMA QUARTA - DA REPACTUAÇÃO 14.1 Será permitida repactuação do contrato, desde que observada a periodicidade mínima de um ano, a contar da data da proposta ou, da data do orçamento a que a proposta se referir ou, ainda, da data da última repactuação. 14.2 Nas repactuações subsequentes à primeira, a anualidade será contada a partir da data da última repactuação ocorrida. 14.3 As repactuações serão precedidas de solicitação da contratada e esta somente será concedida mediante negociação entre as partes, considerando-se: 14.3.1 Os preços praticados no mercado e em outros contratos da Administração;
+
+85
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+14.3.2 As particularidades do contrato em vigência; 14.3.3 A demonstração analítica da alteração dos custos, por meio de apresentação da nova planilha de composição do ponto de função, da nova planilha de custo e formação de preço e de demais documentos que corroborem a argumentação de alteração dos custos; 14.3.4 O novo acordo ou convenção coletiva das categorias profissionais; 14.3.5 A disponibilidade orçamentária da CONTRATANTE. 14.4 A CONTRATANTE poderá realizar diligências para conferir a variação de custos alegada pela contratada. 14.5 É vedada a inclusão, por ocasião da repactuação, de benefícios não previstos na proposta inicial e nas planilhas, exceto quando se tornarem obrigatórios por força de instrumento legal, sentença normativa, acordo coletivo ou convenção coletiva. 14.6 O prazo para solicitação da repactuação contratual pela contratada terá início a partir da data de homologação da convenção ou acordo coletivo que fixar o novo salário normativo da categoria profissional abrangida pelo contrato, e findará na data da prorrogação contratual subsequente, ou seja, na data em que for assinado o termo aditivo de prorrogação. 14.7 Caso a contratada não solicite a repactuação tempestivamente, esta somente se dará a partir da data do pedido de repactuação. 14.8 Nas hipóteses em que as negociações para a celebração do acordo ou convenção de trabalho, ou solução do dissídio coletivo eventualmente instaurado, se prolonguem após a data-base da categoria profissional abrangida pelo contrato e, nesse intervalo, a CONTRATANTE convoque a contratada para prorrogação contratual, caberá à contratada solicitar a inclusão, no novo termo aditivo a ser celebrado, de cláusula que resguarde o seu direito à repactuação, tão logo disponha do instrumento relativo ao acordo ou convenção devidamente registrado. 14.9 No caso de categorias profissionais que não tenham sindicatos ou conselhos de classe instituídos, caberá à Contratada comprovar a variação do salário de seus empregados, sem prejuízo do necessário exame, pela Administração, da pertinência das informações prestadas. CLÁUSULA DÉCIMA QUINTA - DA GARANTIA 15.1 A CONTRATADA apresentou à CONTRATANTE, previamente à assinatura do Contrato, comprovante de prestação de garantia no valor de R$ _____ (_________), correspondente a 5% (cinco por cento) do valor do Contrato, conforme dispõe o art. 56 § 1º da Lei nº 8.666/93; 15.2 O período de garantia deverá compreender o prazo de vigência de quinze meses na forma definida no art. 19 Inciso XIX da IN nº 03, de 15 de outubro de 2009. 15.3 A garantia somente será liberada após o integral cumprimento de todas as obrigações contratuais, inclusive recolhimento de multas e satisfação de prejuízos causados à contratante ou a terceiros.
+86
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+15.4 Se o valor da garantia for usado total ou parcialmente em pagamento de qualquer obrigação, inclusive indenização a terceiros, a Contratada deverá proceder à respectiva reposição no prazo de 10 (dez) dias, contados da data em que for efetivamente notificada pela Contratante. 15.5 A Contratante não pagará juros, nem correção monetária, sobre a caução depositada em garantia de execução do Contrato, exceto a caução depositada em dinheiro, conforme § 4º do Art. 56 da Lei nº 8.666/93. 15.6 Tratando-se de fiança bancária, deverá constar do instrumento a renúncia expressa pelo fiador dos benefícios previstos no Art. 827 e 835 do Código Civil. 15.7 No caso de prorrogação do Contrato ou de sua ampliação, a empresa deverá apresentar nova garantia. CLÁUSULA DÉCIMA SEXTA - DA RESCISÃO 16.1 Este CONTRATO poderá ser rescindido a qualquer tempo, independentemente de notificações ou interpelações judiciais ou extrajudiciais, com base nos motivos previstos nos arts. 77 e 78, e na forma do art. 79, da Lei n.º 8.666/93. 16.2 A rescisão do CONTRATO poderá ser: 16.2.1 determinada por ato unilateral e escrito por parte da Administração, nos casos enumerados nos incisos I a XII e XVII do art. 78 da Lei 8.666/93; 16.2.2 amigável, por acordo entre as partes, desde que haja conveniência para a CONTRATANTE; 16.2.3 Judicial, nos termos da legislação; 16.3 Quando a rescisão ocorrer com base nos incisos XII a XVII do art. 78 da Lei 8.666/93, sem que haja culpa da CONTRATADA, será essa ressarcida dos prejuízos comprovados que houver sofrido, tendo direito a: 16.3.1 Pagamentos devidos pela execução do CONTRATO até a data da rescisão; 16.3.2 Devolução da garantia; 16.3.3 Os casos de rescisão contratual serão formalmente motivados nos autos do processo, assegurados o contraditório e a ampla defesa. CLÁUSULA DÉCIMA SÉTIMA ­ DA VIGÊNCIA 17.1 Este Instrumento terá vigência de 12 (doze) meses a contar da data de sua assinatura, podendo ser prorrogado por períodos iguais e sucessivos, mediante Termo Aditivo, até o limite máximo de 60 (sessenta) meses. CLÁUSULA DÉCIMA OITAVA - DA PUBLICAÇÃO 18.1 O presente CONTRATO será publicado, por extrato, no Diário Oficial da União, nos termos do Parágrafo único do art. 61 da Lei n.º 8.666/93, correndo as despesas a expensas da CONTRATANTE.
+87
+
+Escola Nacional de Administração Pública Diretoria de Gestão Interna Coordenação-Geral de Administração Serviço de Compras e Contratos
+
+CLÁUSULA DÉCIMA NONA - DO FORO 19.1 As questões decorrentes da execução deste CONTRATO, que não possam ser dirimidas administrativamente, serão processadas e julgadas na Justiça Federal, no Foro da cidade de Brasília, Seção Judiciária do Distrito Federal, com exclusão de qualquer outro, por mais privilegiado que seja. E por estarem justos e contratados, firmam o presente instrumento em 02 (duas) vias, de igual teor e forma, na presença das testemunhas instrumentárias, para que surta seus jurídicos e legais efeitos. Brasília, CONTRATANTE CONTRATADA de de 2010.
+
+_______________________________ MARY CHENG Diretora de Gestão Interna
+
+___________________________________ NOME DO REPRESENTANTE Sócio-Gerente
+
+TESTEMUNHAS:
+
+_________________________________ Nome: CPF/MF nº: C.I. nº:
+
+__________________________________ Nome: CPF/MF nº: C.I. nº:
+
+88
+
+

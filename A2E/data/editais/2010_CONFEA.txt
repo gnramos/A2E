@@ -1,0 +1,1011 @@
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+EDITAL DO PREGÃO ELETRÔNICO 018/2009
+UASG CONFEA: 925175
+
+O Conselho Federal de Engenharia, Arquitetura e Agronomia - Confea e esta Pregoeira, designada pela Portaria AD-Nº 069, de 27 de março de 2009, levam ao conhecimento dos interessados que farão realizar licitação na modalidade PREGÃO ELETRÔNICO, tipo Menor Preço Global, regime de execução empreitada por preço unitário de acordo com o disposto no Decreto nº 5.450, de 31 de maio de 2005, que regulamenta a modalidade do Pregão Eletrônico, a Lei nº 10.520, de 17 de julho de 2002, publicada no D.O.U. de 18 de julho de 2002 e aplicando-se subsidiariamente, as normas da Lei nº 8.666/93 e suas alterações, a Lei Complementar 123, de 14 de dezembro de 2006 e, ainda, pelo estabelecido no presente EDITAL e seus Anexos. DA SESSÃO PÚBLICA DO PREGÃO ELETRÔNICO: DIA: 29/09/2009. HORÁRIO: 10 horas (horário de Brasília/DF) ENDEREÇO ELETRÔNICO: www.comprasnet.gov.br 1. DO OBJETO 1.1. Contratação de empresa de Tecnologia da Informação para a prestação de serviços de desenvolvimento de sistema de informação envolvendo manutenção corretiva, perfectiva, adaptativa e documentação do Sistema de Informações Confea\CREA - SIC, estimado em 2.500 (dois mil e quinhentos) pontos de função, sob demanda, em conformidade com o Edital e seus Anexos. 1.2. Em caso de discordância existente entre as especificações deste objeto descritas no Comprasnet e as especificações constantes deste Edital, prevalecerão às últimas. 2. DA ABERTURA DA SESSÃO PÚBLICA 2.1. A sessão pública deste Pregão Eletrônico, conduzida pela Pregoeira, terá início com a divulgação das Propostas de Preços recebidas e início da etapa de lances, de acordo com o disposto no Decreto no 5.450/2005, conforme acima discriminados. 2.2. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subseqüente, no mesmo horário e endereço eletrônico, anteriormente estabelecido, desde que não haja comunicação da Pregoeira em contrário. 2.3. A comunicação entre a Pregoeira e as licitantes ocorrerá exclusivamente mediante troca de mensagens, em campo próprio do sistema eletrônico. 2.4. Cabe à licitante acompanhar as operações no sistema eletrônico durante a sessão pública do Pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de qualquer mensagem emitida pelo sistema ou de sua desconexão, inclusive quando marcadas reaberturas.
+
+Página 1 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+3. DAS CONDIÇÕES PARA PARTICIPAÇÃO 3.1. Poderão participar desta licitação pessoas jurídicas que explorem ramo de atividade compatível com o objeto licitado e que atendam a todas as exigências, inclusive quanto à documentação, constantes deste Edital e seus Anexos, que estiverem previamente credenciadas no Sistema de Cadastramento Unificado de Fornecedores - SICAF e perante o sistema eletrônico provido pela Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão, por meio do sítio www.comprasnet.gov.br. 3.1.1. Para participação no pregão eletrônico, as empresas licitantes deverão utilizar a chave de identificação e a senha de acesso. 3.1.2. As empresas licitantes arcarão com todos os custos decorrentes da elaboração e apresentação de suas propostas. 3.2. Não poderão concorrer neste Pregão: 3.2.1. consórcios de empresas, qualquer que seja sua forma de constituição; 3.2.2. empresas que estejam suspensas de participar de licitação realizada pelo Confea; 3.2.3. empresas que se encontrem sob processo de falência, concordata, concurso de credores, dissolução, liquidação ou em regime de consórcio, salvo na forma prevista no Art. 56 da Lei Complementar 123, de 14/12/2007, qualquer que seja sua forma de constituição, 3.2.4. empresas estrangeiras que não funcionem no País, e 3.2.5. empresas que tenham sido declaradas inidôneas para licitar ou contratar com a Administração Pública ou empresa suspensa de contratar com o Confea, enquanto perdurarem os motivos da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade. 3.2.6. cooperativa de mão-de-obra, conforme Termo de Conciliação Judicial firmado entre o Ministério Público do Trabalho e a União, Anexo IX. 4. DA REPRESENTAÇÃO E CREDENCIAMENTO 4.1. O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico, no sítio www.comprasnet.gov.br . 4.2. O credenciamento junto ao provedor do sistema implica responsabilidade legal das empresas licitantes e a presunção de suas capacidades técnicas para realização das transações inerentes ao pregão na forma eletrônica. 4.3. A perda da senha ou a quebra de sigilo deverá ser comunicada imediatamente ao provedor do sistema, para imediato bloqueio de acesso. 4.4. O uso da senha de acesso pelas empresas licitantes é de sua responsabilidade exclusiva, assumindo como firmes e verdadeiras suas propostas e lances, inclusive os atos praticados diretamente ou por seu representante, não cabendo ao provedor do sistema ou ao Confea responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros.
+
+Página 2 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+4.4.1. Caberá às empresas licitantes comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a inviabilidade do uso da senha, para imediato bloqueio de acesso. 4.5. Incumbirá, ainda, as empresas licitantes acompanharem as operações no sistema eletrônico durante o processo licitatório, responsabilizando-se pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão. 5. DO ENVIO DAS PROPOSTAS DE PREÇOS 5.1. As empresas licitantes interessadas em participar deste certame, deverão encaminhar proposta com a descrição do objeto ofertado e o preço, até a data e hora marcadas para abertura da sessão, exclusivamente por meio do sistema eletrônico, quando, então, encerrar-se-á, automaticamente, a fase de recebimento de propostas. 5.1.1. A licitante deverá, na forma expressa no sistema eletrônico, consignar os valores, conforme Anexo X - Modelo de Proposta de Preços. 5.1.2. Nos preços ofertados deverão já estar considerados e inclusos os tributos, taxas e demais despesas decorrentes da execução do objeto. 5.1.3. As propostas terão validade de 60 (sessenta) dias, contados da data de abertura da sessão pública estabelecida no preâmbulo deste Edital. 5.1.4. Decorrido o prazo de validade das propostas, sem convocação para assinatura do contrato, fica a licitante liberada do compromisso assumido. 5.1.5. A licitante deverá, no momento do envio da proposta, encaminhar em campo próprio do sistema Eletrônico declaração de que não emprega menores, nos termos da legislação vigente, declaração de inexistência de fatos supervenientes e de total conhecimento e concordância com os termos deste Edital e seus Anexos, e se for o caso, declaração de Micro Empresa ou Empresa de Pequeno Porte. 5.1.5.1. A declaração falsa relativa ao cumprimento dos requisitos de habilitação e à proposta sujeitará a licitante às sanções previstas neste Edital. 5.2. Todos os horários estabelecidos no edital, no aviso e durante a sessão pública observarão, para todos os efeitos, o horário de Brasília, Distrito Federal, inclusive para contagem de tempo e registro no sistema eletrônico e na documentação relativa ao certame. 5.3. A proposta deverá conter, obrigatoriamente: 5.3.1. Declaração expressa de estarem incluídos nos preços propostos, todos os custos e despesas de qualquer natureza. Na falta de tal declaração, será considerada como inclusa nos preços toda e qualquer despesa. 5.3.2. Informação do prazo de validade da proposta que não poderá ser inferior a 60 (sessenta) dias. Na falta de tal informação será considerado aceito o prazo citado nesta alínea. 5.3.3. A proposta de preço deverá ser assinada por proprietário, sócio ou preposto da licitante, com poderes para tal, instituídos em instrumento de procuração pública ou particular, tudo devidamente comprovado com a apresentação dos originais ou cópias autenticadas, inclusive do documento de identidade do outorgante e do outorgado, se for o caso.
+Página 3 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+5.3.4. É vedada qualquer indexação de preços por índices gerais, setoriais ou que reflitam a variação de custos. 5.3.5. Não será permitida a modificação do conteúdo da proposta apresentada, em relação a preço, pagamento, prazo, veículos e mão-de-obra ofertados ou a qualquer outra condição, sob pena de desclassificação da empresa licitante. 5.4. As empresas licitantes deverão dar ofertas firmes e precisas, sem alternativas de preços ou qualquer outra condição que induza o julgamento a ter mais de um resultado. 5.5. A apresentação das propostas implicará na plena aceitação, por parte das empresas licitantes, das condições estabelecidas neste Edital e seus anexos. 6. DA DESCLASSIFICAÇÃO DAS PROPOSTAS 6.1. Após a análise das propostas serão desclassificadas, com base no artigo 48, incisos I e II da Lei 8.666/93, as propostas que: 6.1.1. não atenderem às exigências contidas neste Edital e seus Anexos, sejam omissas ou apresentem irregularidades, ou defeitos capazes de dificultar o julgamento e, ainda, aquelas que se opuserem a quaisquer dispositivos legais vigentes e que ofertarem preços inexeqüíveis, assim, considerados aqueles que não venham a ter demonstrado sua viabilidade através de documentação que comprove que os custos dos insumos são coerentes com os de mercado e que os coeficientes de produtividade são compatíveis com a execução do objeto; 6.1.2. as propostas que vierem incompletas, não atendendo o item 5 e demais subitens deste Edital. 6.2. Qualquer elemento que possa identificar a licitante importa a desclassificação da proposta. 6.3. Até a abertura da sessão, a licitante poderá retirar ou substituir a proposta anteriormente encaminhada. 6.4. A Pregoeira verificará as propostas apresentadas e desclassificará, motivadamente, aquelas que não estejam em conformidade com os requisitos estabelecidos neste Edital. 7. DA FORMULAÇÃO DOS LANCES 7.1. O valor a ser considerado para efeito de lances é o menor preço global. 7.2. Iniciada a etapa competitiva, as empresas licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico, devendo as mesmas serem imediatamente informadas dos recebimentos e respectivos horários de registros e valores. 7.2.1. Somente as propostas classificadas pela pregoeira participarão da fase de lance, dando início à fase competitiva do certame. 7.3. As empresas licitantes poderão oferecer lances sucessivos e inferiores ao último por ela ofertado e registrado no sistema, observados o horário fixado e as regras de aceitação dos mesmos. 7.4. Só serão aceitos os lances cujos valores forem inferiores ao último lance registrado no sistema. 7.5. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar.
+Página 4 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+7.6. Durante o transcurso da sessão pública, as empresas licitantes serão informadas, em tempo real, do valor do menor lance registrado que tenha sido apresentado pelas demais empresas licitantes, vedada a identificação do detentor do lance. 7.7. Durante a fase de lances, a Pregoeira poderá excluir, a seu critério, lance cujo valor for considerado inexeqüível 7.7.1. Caso a licitante entenda que o seu lance foi excluído indevidamente, poderá reenviá-lo. 7.7.2. No caso da exclusão de lance, o sistema encaminhará mensagem eletrônica para ciência de todos. 7.8. No caso de desconexão com a Pregoeira, no decorrer da etapa competitiva do pregão, o sistema eletrônico poderá permanecer acessível às empresas licitantes para a recepção dos lances. 7.8.1. A Pregoeira, quando possível, dará continuidade à sua atuação no certame, sem prejuízo dos atos realizados. 7.8.2. Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do pregão será suspensa e terá reinício somente após comunicação expressa da Pregoeira aos participantes. 7.9. A etapa de lances da sessão pública será encerrada por decisão da Pregoeira, que informará aos licitantes o início do período de iminência. 7.10. A etapa de lances da sessão pública será encerrada mediante aviso de fechamento iminente dos lances, emitido pelo sistema eletrônico às empresas licitantes, após o que transcorrerá período de tempo de até 30 (trinta) minutos, aleatoriamente determinado também pelo sistema eletrônico, findo o qual será automaticamente encerrada a recepção de lances. 7.10.1. Caso o sistema não emita o aviso de fechamento iminente, a Pregoeira se responsabilizará pelo aviso de encerramento as empresas licitantes. 8. DA NEGOCIAÇÃO 8.1. Após o encerramento da etapa de lances, a Pregoeira poderá encaminhar contraproposta diretamente à licitante que tenha apresentado o lance mais vantajoso, para que seja obtida melhor proposta, observado o critério de julgamento e o valor estimado para a contratação, não se admitindo negociar condições diferentes das previstas neste Edital. 8.1.1. A negociação será realizada por meio do sistema, podendo ser acompanhada pelas demais licitantes. 8.1.2. A negociação de preço junto ao fornecedor classificado em 1º lugar após a etapa de lances, quando houver, será sempre após o procedimento de desempate de propostas e classificação final dos licitantes participantes, após garantido o exercício do direito de preferência às microempresas e empresas de pequeno porte, se for o caso. 9. DO JULGAMENTO DAS PROPOSTAS 9.1. A Pregoeira poderá solicitar parecer de técnicos pertencentes ao quadro de pessoal do Conselho Federal de Engenharia, Arquitetura e Agronomia - Confea ou, ainda, de
+Página 5 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+pessoas físicas ou jurídicas não pertencentes ao quadro funcional, para orientar sua decisão. 9.2. Na análise da proposta de preço será verificado o atendimento de todas as especificações e condições estabelecidas neste Edital e seus Anexos. 9.3. Na Proposta de Preço da Licitante o preço global não poderá ser superior ao estimado pelo Confea, sob pena de desclassificação; 9.4. Analisada a aceitabilidade dos preços obtidos, a Pregoeira divulgará o resultado de julgamento das Propostas de Preços. 9.5. A classificação das propostas será pelo critério de Menor Preço Global, sendo ADJUDICADO à empresa licitante que apresentar o lance de menor preço global. 9.6. Havendo aceitação da proposta classificada em primeiro lugar quanto à compatibilidade de preço, a Pregoeira poderá solicitar da respectiva licitante o encaminhamento dos documentos de habilitação e da Proposta de Preço, que deverá conter as especificações detalhadas do objeto ofertado e atualizada em conformidade com os lances eventualmente ofertados. 9.7. Se a proposta ou o lance de menor preço não for aceitável ou se a empresa licitante desatender às exigências habilitatórias, a Pregoeira examinará a proposta ou o lance subseqüente, verificando a sua aceitabilidade e procedendo à sua habilitação, na ordem de classificação, e assim sucessivamente, até a apuração de uma proposta ou lance que atenda ao edital e seus anexos. 9.7.1. Ocorrendo a situação mencionada no item anterior, a Pregoeira poderá negociar com a empresa licitante para obter melhor preço. 9.8. Constatado o atendimento às exigências fixadas no edital, a licitante será declarada vencedora, ficando a Pregoeira autorizada, na falta de manifestação imediata e motivada da licitante quanto à intenção de recorrer, nos termos do art. 26, caput do Decreto n.º 5.450/05, a adjudicar o objeto. 10. DO EXERCÍCIO DO DIREITO DE PREFERÊNCIA (Lei Complementar 123/2006) 10.1. Após o encerramento da etapa de lances, o sistema eletrônico identificará em coluna própria as microempresas e empresas de pequeno porte participantes, fazendo a comparação entre os valores da primeira colocada, caso esta não seja microempresa ou empresa de pequeno porte, e das demais licitantes assim enquadradas, na ordem de classificação. 10.2. A proposta que se encontrar na faixa de até 5% acima da proposta de menor preço estará empatada com a primeira classificada após a etapa de lances e terá o direito, no prazo de 5 (cinco) minutos controlados pelo sistema eletrônico, de encaminhar uma última oferta, obrigatoriamente abaixo daquela primeira classificada para o desempate, situação em que será adjudicado em seu favor o objeto deste Pregão; 10.3. O sistema eletrônico selecionará os itens deste pregão eletrônico em que tenha ocorrido o empate ficto, disponibilizando mensagem automática, por meio do chat, convocando a microempresa ou empresa de pequeno porte que se encontra em segundo lugar a fazer sua última oferta no prazo de 5 (cinco) minutos sob pena de decair do direito concedido. 10.4. Caso a microempresa ou empresa de pequeno porte classificada em segundo lugar desista ou não se manifeste no prazo estabelecido, o sistema convocará as demais licitantes da mesma forma enquadradas, na ordem de classificação.
+Página 6 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+10.5. Havendo êxito neste procedimento, o sistema eletrônico disponibilizará a nova classificação dos fornecedores para fins de aceitação. Não havendo êxito, ou não havendo microempresa ou empresa de pequeno porte participante, prevalecerá a classificação inicial; o mesmo se aplicando caso a empresa classificada em 1º lugar, após a etapa de lance, já se tratar de microempresa ou empresa de pequeno porte. 10.6. Caso sejam identificadas propostas de microempresas ou empresas de pequeno porte empatadas em 2º (segundo) lugar, ou seja, na faixa dos 5% da primeira colocada, e permanecendo empate até o encerramento do item, o sistema fará um sorteio eletrônico entre tais licitantes, definindo e convocando automaticamente a vencedora para encaminhamento da oferta final do desempate. 10.7. Após o encerramento da etapa de lances e, se for o caso, o exercício do direito de preferência previsto às microempresas e empresas de pequeno porte, a Pregoeira poderá encaminhar pelo sistema eletrônico contraproposta diretamente à empresa licitante que tenha apresentado o lance de menor valor, para que seja obtido melhor preço, bem assim decidir sobre sua aceitação. 10.7.1. Após o encerramento da etapa de lances, a Pregoeira examinará a proposta classificada em primeiro lugar quanto à compatibilidade do preço em relação ao estimado e preço máximo para contratação e verificará a habilitação da licitante conforme disposições do edital. 10.8. A Pregoeira anunciará a empresa licitante detentora do melhor lance imediatamente após o encerramento desta etapa da sessão pública ou, quando for o caso, após a negociação e decisão pela Pregoeira acerca da aceitação do lance de menor valor. 11. DA HABILITAÇÃO 11.1. Encerrada a etapa de lances da sessão pública (aceitação da proposta) e após solicitação da pregoeira no sistema eletrônico, a empresa licitante classificada em primeiro lugar encaminhará, no prazo de 60(sessenta) minutos, preferencialmente por email (documentos escaneados) para o endereço cpl.pregao@confea.org.br, a documentação para habilitação, ou por meio do fax nº (61) 3348-3742 ou 2105-3742. Os documentos originais ou cópias devidamente autenticadas, juntamente com a proposta de preços, deverão ser encaminhados no prazo máximo de 48 (quarenta e oito) horas, contados a partir da habilitação na sessão pública, em envelope fechado, com os seguintes dizeres em sua parte externa e frontal: CONSELHO FEDERAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA UNIDADE DE LICITAÇÃO PREGÃO ELETRÔNICO Nº 018/2009 ENDEREÇO: SEPN 508, BLOCO B, ED. ADOLFO MORALES DE LOS RIOS FILHO Asa Norte / Brasília - DF. CEP: 70740-542 11.2. A habilitação das licitantes será verificada por meio do SICAF, nos documentos por ele abrangidos, e por meio da documentação complementar especificada neste Edital. 11.3. Para fins de habilitação Jurídica, a licitante deverá apresentar, ainda, a seguinte documentação complementar: 11.3.1. Para Empresa Individual: Registro comercial;
+Página 7 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+11.3.2. Para Sociedade Comercial: Ato constitutivo (estatuto ou contrato social em vigor), devidamente registrado no órgão competente e acompanhado da última alteração ou da consolidação; 11.3.3. Para Sociedades Por Ações: Ato constitutivo (estatuto ou contrato social em vigor), devidamente registrado no órgão competente, acompanhado de documento comprobatório da eleição dos atuais administradores e da última alteração ou da consolidação; 11.3.4. Para Sociedades Civis: Inscrição do ato constitutivo, acompanhada de prova de designação da diretoria em exercício e de todas as alterações ou da consolidação; 11.3.5. Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. 11.4. Quanto à Regularidade Fiscal: 11.4.1. A licitante deverá apresentar habilitação parcial válida no SICAF ou apresentar os documentos que supram tal habilitação, nos termos do artigo 14 do Decreto nº 5.450/05. 11.4.2. As microempresas e empresas de pequeno porte deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição. 11.4.2.1. Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de 2 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que a licitante for declarada vencedora do certame, prorrogáveis por igual período, a critério da Administração, para a regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. 11.4.3. A não-regularização da documentação, no prazo previsto no item 11.4.2.1, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei no 8.666, de 21 de junho de 1993, sendo facultado à Administração convocar os licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação. 11.5. Para Qualificação Econômico-financeira: 11.5.1. Certidão Negativa de falência ou concordata e de recuperação judicial expedida pelo distribuidor da sede da pessoa jurídica, ou de execução patrimonial, expedida no domicílio da pessoa física, emitida em até sessenta dias corridos antes da data de apresentação dos documentos de habilitação, ou com vigência expressa na certidão; 11.5.2. Balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, que comprovem a boa situação financeira da empresa, vedada a sua substituição por balancetes ou balanços provisórios, podendo ser atualizados, quando encerrados há mais de 3 (três) meses da data de apresentação da proposta, tomando como base a variação, ocorrida no período, do Índice Geral de Preços - Disponibilidade Interna - IGP-DI, publicado pela Fundação Getúlio Vargas FGV ou de outro indicador que o venha substituir.
+Página 8 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+11.5.3. Serão considerados aceitos como na forma da lei o balanço patrimonial e demonstrações contábeis assim apresentados: 11.5.3.1. Sociedades regidas pela Lei nº 6.404/76 (sociedade anônima): 11.5.3.2. Publicados em Diário Oficial; ou 11.5.3.3. Publicados em jornal de grande circulação; ou 11.5.3.4. Por fotocópia registrada ou autenticada na Junta Comercial da sede ou domicílio da licitante. 11.5.4. Sociedades por cota de responsabilidade limitada (LTDA): 11.5.4.1. por fotocópia do livro Diário, inclusive com os Termos de Abertura e de Encerramento, devidamente autenticado na Junta Comercial da sede ou domicílio da licitante ou em outro órgão equivalente, ou 11.5.4.2. por fotocópia do Balanço e das Demonstrações Contábeis devidamente registrados ou autenticados na Junta Comercial da sede ou domicílio da licitante;. 11.5.5. Sociedade criada no exercício em curso: 11.5.5.1. fotocópia do Balanço de Abertura, devidamente registrado ou autenticado na Junta Comercial da sede ou domicílio da licitante; 11.5.6. O balanço patrimonial e as demonstrações contábeis deverão estar assinadas por Contador ou por outro profissional equivalente, devidamente registrado no Conselho Regional de Contabilidade; 11.6. A boa situação financeira será avaliada pelos Índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC), resultantes da aplicação das seguintes fórmulas: LG = ATIVO CIRCULANTE + REALIZÁVEL A LONGO PRAZO PASSIVO CIRCULANTE + EXIGÍVEL A LONGO PRAZO SG = __________________ATIVO TOTAL_____________________ PASSIVO CIRCULANTE + EXIGÍVEL A LONGO PRAZO LC = ATIVO CIRCULANTE PASSIVO CIRCULANTE
+
+11.6.1. As fórmulas deverão estar devidamente aplicadas em memorial de cálculos juntado ao balanço; 11.6.1.1. Caso o memorial não seja apresentado, a Comissão reserva-se o direito de efetuar os cálculos; 11.7. Se necessária a atualização do balanço e do capital social, deverá ser apresentado, juntamente com os documentos em apreço, o memorial de cálculo correspondente; 11.8. Comprovação de capital social ou patrimônio líquido correspondente a 10% (dez por cento) do valor global estimado do Contrato (exigida somente no caso de a licitante apresentar resultado igual ou inferior a 1 (um) em quaisquer dos índices: Liquidez Geral, Corrente e/ou Solvência Geral;
+Página 9 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+11.6. Habilitação Técnica: 11.6.1. Para fins de habilitação Técnica a licitante deverá, obrigatoriamente, apresentar os seguintes documentos: 11.6.1.1. Atestado/ Certidão/Declaração que comprove experiência na prestação de serviços de desenvolvimento e manutenção de software, com tamanho do serviço efetivamente já prestado de no mínimo 1250 (um mil duzentos e cinqüenta) Pontos de Função, com prazo, escopo e metodologia compatíveis, para demonstrar a capacidade do futuro fornecedor em prestar a integralidade dos serviços. Com vistas a permitir o somatório de atestados, serão considerados apenas pontos de função brutos (ou não ajustados). Não serão aceitos conversões/comparações de horas para pontos de função. 11.6.1.2. Atestado/Certidão/Declaração que comprove experiência na prestação de serviços de desenvolvimento e manutenção de software, utilizando a tecnologia Java. 11.6.1.3. Atestado/Certidão/Declaração que comprove experiência na prestação de serviços de desenvolvimento e manutenção de software, utilizando o servidor de aplicação JBOSS (ORG) juntamente com o framework JBOSS SEAM. 11.6.1.4. Atestado/Certidão/Declaração que comprove experiência na prestação de serviços de desenvolvimento e/ou manutenção de software, utilizando a tecnologia Microsoft SQL SERVER 2005 ou mais recente. 11.6.1.5. Atestado/Certidão/Declaração que comprove experiência na prestação de serviços de desenvolvimento e manutenção de software, utilizando a tecnologia Tom Cat a partir da versão 4. 11.6.1.6. Atestado/Certidão/Declaração que comprove experiência na prestação de serviços de desenvolvimento e manutenção de software, utilizando a tecnologia Web Service. 11.6.1.7. Atestado/Certidão/Declaração emitida(o) pela Red Hat, comprovando ser parceira do fabricante. 11.6.1.8. Declaração emitida pela própria empresa, comprovando que possui experiência na execução de processos de desenvolvimento de software com qualidade. O CONFEA poderá realizar diligência nas instalações da licitante, com o objetivo de verificar se a declaração é adequada. 11.6.2. No caso de atestados emitidos por empresa da iniciativa privada, não serão considerados aqueles emitidos por empresas pertencentes ao mesmo grupo empresarial da empresa licitante; serão considerados como pertencentes ao mesmo grupo empresarial da empresa licitante, empresas controladas ou controladoras da empresa licitante, ou que tenha pelo menos uma mesma pessoa física ou jurídica que seja sócio da empresa emitente e da empresa licitante; 11.6.2.1. Para os Atestados/Certidões/Declarações referentes aos itens 11.6.1.1, 11.6.1.2, 11.6.1.3, 11.6.1.4, 11.6.1.5 e 11.6.1.6, deverão contemplar, no mínimo, as seguintes informações: 11.6.2.1.1. Nome do cliente; 11.6.2.1.2. Endereço completo do cliente; 11.6.2.1.3. Identificação do contrato;
+Página 10 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+11.6.2.1.4. Objeto contratual; 11.6.2.1.5. Nome do emitente; 11.6.2.1.6. Cargo do emitente; 11.6.2.1.7. Telefone, fax e e-mail de contato; 11.6.2.1.8. Declaração de que foram, atendidas as expectativas do cliente quanto a cumprimento de prazos, além de qualidade dos produtos e serviços. 11.6.3. Fica facultado ao CONFEA, a qualquer momento, realizar diligências nas instalações da licitante, com o objetivo de verificar se os atestado(s)/certidão(ões)/declaração(ões) são adequados e atendem as exigências contidas neste projeto. 11.6.4. Poderá ser exigida apresentação dos respectivos contratos e aditivos de prestação de serviços relativos aos atestados/declarações apresentados pela licitante. 11.6.5. Declaração que realizou visita técnica no local de execução dos serviços, objeto da licitação, tendo tomado conhecimento de toda documentação e infra-estrutura disponibilizada pelo CONFEA, obtendo conhecimento dos aspectos técnicos, padrões e processos a serem obedecidos, e características das soluções adotadas. A empresa está ciente que tais informações subsidiarão a elaboração do cronograma para início das atividades. 11.6.5.1. A declaração será fornecida por empregado designado pelo Confea, conforme modelo anexado ao edital (Anexo III - MODELO "b"). A visita técnica deverá ser agendada com antecedência pelos telefones (61) 3348-3858 ou (61) 3348-3786, em dias úteis, de 2ª a 6ª feiras, no horário de 8h30 às 11h30 e 14h às 17h30 com os Srs. Daniel Miranda ou Bruno Alphonsus, até o dia anterior da data prevista para abertura da sessão. 11.6.5.2. Para realizar a visita técnica é necessário declaração que o Profissional da licitante está autorizado a efetuar a mesma. Esta declaração deverá ser apresentada ao(s) empregado(s) do Confea indicado(s) para acompanhar a vistoria, conforme (Anexo III - MODELO "a"). 11.6.6. Toda essa documentação deverá ser entregue na documentação de habilitação, sob pena de desclassificação da Licitante vencedora. 11.7. Disposições Gerais da Habilitação 11.7.1. Os documentos necessários à habilitação poderão ser apresentados em original, ou em cópia autenticada por cartório competente, ou publicação em órgão da imprensa oficial ou em cópias simples, desde que acompanhadas dos originais para conferência pela Pregoeira. 11.7.2. Não serão aceitos "protocolos de entrega" ou "comprovantes de solicitação de documento" em substituição aos documentos requeridos no presente Edital e seus Anexos. 11.7.3. Serão inabilitadas as empresas que não comprovarem possuir boa situação financeira, bem assim as que não satisfizerem as demais exigências estabelecidas para habilitação. 11.7.4. Se a documentação de habilitação não estiver completa e correta ou contrariar qualquer dispositivo deste Edital e seus Anexos, a Pregoeira considerará a licitante inabilitada.
+Página 11 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+11.7.5. Para fins de habilitação, a verificação em sítios oficiais de órgãos e entidades emissores de certidões constitui meio legal de prova. 11.7.6. À Pregoeira ou à Autoridade Superior é assegurado o direito de solicitar à licitante vencedora, a qualquer tempo, no curso da licitação, quaisquer esclarecimentos sobre os documentos já entregues, fixando-lhes prazo para atendimento. 11.8. A documentação deverá: 11.8.1. estar em nome da empresa licitante. 11.8.2. estar em plena validade na data da Sessão. 11.8.3. referir-se a apenas uma das filiais ou apenas a empresa matriz, ou seja, os documentos apresentados deverão referir-se a um mesmo CNPJ/MF, o qual corresponderá àquele constante da proposta, à exceção dos documentos que só possam ser fornecidos por empresa matriz, sob pena de inabilitação ou desclassificação. 11.8.4. Serão aceitas somente cópias legíveis. 11.8.5. Não serão aceitos documentos cujas datas estejam rasuradas. 11.8.6. À Pregoeira reserva-se o direito de solicitar o original de qualquer documento, sempre que tiver dúvida ou julgar necessário. 11.8.7. Os documentos a serem protocolados deverão ser apresentados, preferencialmente, grampeados e/ou encadernados, na ordem mencionada. 11.9. As empresas licitantes que deixarem de apresentar quaisquer dos documentos exigidos para a habilitação na presente licitação, ou os apresentarem em desacordo com o estabelecido neste edital ou com irregularidades, serão inabilitadas, não se admitindo complementação posterior, salvo na forma do Art.43 da Lei Complementar 123/2006. 11.9.1. Quando todos os licitantes forem inabilitados ou todas as propostas forem desclassificadas, a Administração poderá fixar aos licitantes o prazo de até 8 (oito) dias úteis para a apresentação de nova documentação ou de propostas escoimadas das causas referidas no Art. 48 da Lei n.º 8.666/93. 12. DOS ESCLARECIMENTOS E DA IMPUGNAÇÃO AO EDITAL 12.1. Até 2 (dois) dias úteis antes da data fixada para abertura da sessão pública, qualquer pessoa, física ou jurídica, poderá impugnar o ato convocatório deste Pregão Eletrônico mediante petição a ser enviada exclusivamente para o endereço eletrônico cpl.pregao@confea.org.br. 12.2. A Pregoeira, auxiliada pelo setor responsável pela elaboração do Edital, decidirá sobre a impugnação. 12.3. Acolhida a impugnação contra este Edital, será designada nova data para a realização do certame, exceto quando, inquestionavelmente, a alteração não afetar a formulação das propostas. 12.4. Os pedidos de esclarecimentos referentes a este procedimento licitatório devem ser enviados à Pregoeira, até 3 (três) dias úteis anteriores à data fixada para abertura da sessão pública, exclusivamente para o endereço eletrônico cpl.pregao@confea.org.br. 12.5. As respostas às impugnações e aos esclarecimentos solicitados serão disponibilizadas no endereço eletrônico www.comprasnet.gov.br, por meio do link Acesso livre>Pregões>Agendados, para conhecimento da sociedade em geral e dos
+Página 12 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+fornecedores, cabendo aos interessados em participar do certame acessá-lo para a obtenção das informações prestadas. 13. DOS RECURSOS 13.1. Declarada a vencedora, a Pregoeira abrirá prazo de 30 (trinta) minutos, durante o qual qualquer licitante poderá, de forma imediata e motivada, em campo próprio do sistema, manifestar sua intenção de recorrer. 13.2. A Pregoeira fará juízo de admissibilidade da intenção de recorrer manifestada, aceitando-a ou, motivadamente, rejeitando-a, em campo próprio do sistema. 13.3. Declarada a intenção de recorrer, será concedido o prazo de 3 (três) dias úteis, para apresentar as razões de recurso, ficando os demais licitantes, desde logo, intimados para, querendo, apresentarem contra-razões em igual prazo, que começará a contar do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos elementos indispensáveis à defesa dos seus interesses. À pregoeira será concedido prazo máximo de 5 dias para decidir sobre os recursos interpostos. 13.3.1. A falta de manifestação imediata e motivada das empresas licitantes quanto à intenção de recorrer, nos termos do item 13.1, importará na decadência desse direito, ficando a pregoeira autorizada a adjudicar o objeto à empresa licitante vencedora. 13.3.2. A não apresentação das razões de recurso, em meio eletrônico, em campo próprio do sistema Comprasnet, retornará à pregoeira a responsabilidade de adjudicar o certame licitatório. 13.4. O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 13.5. Decididos os recursos e constatada a regularidade dos atos praticados, a autoridade competente adjudicará o objeto e homologará o procedimento licitatório. 13.6. As razões e contra-razões de recurso, bem como a decisão da pregoeira e da autoridade competente, deverão ser feitas em campo próprio do sistema Comprasnet, no endereço www.comprasnet.gov.br. 14. DA ADJUDICAÇÃO E HOMOLOGAÇÃO 14.1. No julgamento das propostas, será considerada vencedora a licitante que ofertar o menor preço global proposto para a execução do objeto da licitação, desde que atendidas as especificações constantes do Edital, após decididos os recursos, quando houver, sujeito à homologação do Ordenador de Despesas. 15. DAS ATRIBUIÇÕES DA PREGOEIRA E DO ORDENADOR DE DESPESAS 15.1. Cabem à Pregoeira as atribuições dispostas no art. 11 do Decreto 5.450/2005. 15.2. Ao Ordenador de Despesas: 15.2.1. adjudicar o objeto deste Pregão à licitante vencedora se houver interposição de recurso; 15.2.2. homologar o resultado e promover a contratação correspondente a este Pregão; 15.2.3. anular este Pregão por ilegalidade, de ofício ou por provocação de qualquer pessoa, mediante ato escrito e fundamentado;
+Página 13 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+15.2.4. revogar este Pregão, se for considerado inoportuno ou inconveniente ao interesse público, por motivo de fato superveniente devidamente comprovado. 15.2.5. decidir pela aplicação da sanção administrativa cabível, após o devido processo legal, garantido o contraditório e a ampla defesa. 15.3. É facultado à Pregoeira ou à autoridade superior, em qualquer fase deste Pregão, promover diligências destinadas a esclarecer ou completar a instrução do processo, vedada a inclusão posterior de informação ou de documentos que deveriam constar originariamente da proposta ou da documentação. 15.4. No julgamento das propostas e na fase de habilitação, a Pregoeira poderá sanar erros ou falhas que não alterem a substância das propostas e dos documentos e a sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de classificação e habilitação. 16. DAS SANÇÕES ADMINISTRATIVAS 16.1. Com fundamento no artigo 7º da Lei nº 10.520/2002 e art. 28 do Decreto n.º 5.450/2005, a empresa licitante que, convocada dentro do prazo de validade da sua proposta, não celebrar o contrato, deixar de entregar ou apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, ficará impedido de licitar e contratar com o Sistema Confea/Creas/Mútua, pelo prazo de até 2 (anos) anos, sem prejuízo das multas previstas em edital e no contrato e das demais cominações legais. 16.2. Com fundamento nos artigos 86 e 87 da Lei n.º 8.666/93, a vencedora ficará sujeita, no caso de atraso injustificado na assinatura do contrato, inexecução parcial ou inexecução total da obrigação, sem prejuízo das responsabilidades civil e criminal, assegurada a prévia e ampla defesa, às seguintes penalidades: 16.2.1 Advertência formal; 16.2.2 Multa: 16.2.2.1. De 0,5% (zero vírgula cinco por cento) ao dia sobre o valor adjudicado em caso de atraso na assinatura do contrato. Após o trigésimo dia e a critério do Confea, poderá ocorrer a não-aceitação do objeto, de forma a configurar, nessa hipótese, inexecução total da obrigação assumida, sem prejuízo da rescisão unilateral da avença; 16.2.2.2. De 10% (dez por cento) sobre o valor adjudicado, em caso de atraso na execução do objeto, por período superior ao previsto no item anterior, ou de inexecução parcial da obrigação assumida; 16.2.2.3. De 30% (trinta por cento) sobre o valor adjudicado, em caso de inexecução total da obrigação assumida; 16.2.2.4. Nas demais hipóteses e valores descritos no contrato; 16.2.3. Suspensão temporária do direito de participar de licitação e impedimento de contratar com o Confea, pelo prazo de até 2 (dois) anos; 16.3. Declaração de inidoneidade para licitar ou contratar com o Confea/Crea/Mútua, nos termos do inciso IV do artigo 87 da Lei n.º 8.666/93. Sistema
+
+Página 14 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+16.4. As sanções de multa podem ser aplicadas à Contratada juntamente com a de advertência, suspensão temporária para licitar e contratar com o Confea e declaração de inidoneidade para licitar ou contratar com o Sistema Confea/Crea/Mútua. 17. DA DOTAÇÃO ORÇAMENTÁRIA 17.1. As despesas decorrentes da contratação objeto deste Edital correrão por conta dos recursos consignados na Conta - 3.1.32.28. 17.2. Nos exercícios seguintes, as despesas correrão à conta de dotações orçamentárias próprias, consignadas nos respectivos Orçamentos Anuais, ficando o Confea obrigado a apresentar, no início de cada exercício, a respectiva Nota de Empenho estimativa e, havendo necessidade, emitir Nota de Empenho complementar, respeitada a mesma classificação orçamentária. 18. DO PRAZO DE EXECUÇÃO DO CONTRATO O período de execução do Contrato será de 24 (vinte e quatro) meses, em regime de empreitada por preço unitário. 19. VIGÊNCIA E DO PRAZO DE ASSINATURA DO CONTRATO 19.1. A vigência do contrato será de 24 (vinte e quatro) meses, podendo ser renovado de acordo com a legislação e de comum acordo entre as partes, a partir da data de assinatura do Contrato. 19.2. Após homologado o resultado deste Pregão, o Confea convocará a licitante vencedora, durante a validade da sua proposta, para assinatura do instrumento contratual, dentro do prazo de 5 (cinco) dias úteis, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas neste Edital e no art. 81 da Lei n.º 8.666/1993. 19.3. A assinatura do contrato está condicionada à verificação da regularidade da habilitação parcial da licitante vencedora junto ao SICAF. 20. DAS DISPOSIÇÕES FINAIS 20.1. É facultada à Pregoeira ou autoridade superior, em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou complementar a instrução do processo. 20.2. Fica assegurado ao Confea, o direito de revogar a licitação por razões de interesses públicos, decorrentes de fato superveniente devidamente comprovado, pertinente e suficiente para justificar tal conduta, devendo anulá-la por ilegalidade, de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente fundamentado. 20.3. As empresas licitantes assumem todos os custos de preparação e apresentação de suas propostas e o Confea não será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do processo licitatório. 20.4. As empresas licitantes são responsáveis pela fidelidade e legitimidade das informações e dos documentos apresentados em qualquer fase da licitação. 20.5. Após apresentação da proposta não caberá desistência, salvo por motivo justo decorrente de fato superveniente e aceito pela Pregoeira.
+Página 15 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+20.6. As normas que disciplinam este Pregão serão sempre interpretadas em favor da ampliação da disputa entre os interessados, sem comprometimento do interesse da Administração, da finalidade e da segurança do serviço. 20.7. É vedada a subcontratação total ou parcial, visto que os trabalhos deverão ser desenvolvidos pela empresa CONTRATADA. 20.8. Fazem parte integrante deste Edital: Anexo I - Termo de Referência Anexo II ­ Detalhamento do Objeto Anexo III - Declaração de Visita Técnica (modelos "a" e "b") Anexo IV ­ Termo de Compromisso de Manutenção de Sigilo Anexo V - Modelo de Ordem de Serviço - OS (Contrato) Anexo VI - Termo de Recebimento (Contrato) Anexo VII - Termo de Aceite (Contrato) Anexo VIII ­ Solicitação de Atendimento (Contrato) Anexo IX - Termo de Conciliação Judicial firmado entre o Ministério Público do Trabalho e a União Anexo X - Modelo de Proposta de Preço Anexo XI - Minuta do Contrato 21. DO FORO As questões decorrentes desta licitação, que não possam ser dirimidas administrativamente, serão processadas e julgadas na Seção Judiciária do Distrito Federal, com exclusão de qualquer outro por mais privilegiado que seja. Brasília, 16 de setembro de 2009 Consuelo Brant da Silva Sena Barbosa Pregoeira
+
+Página 16 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO I TERMO DE REFERÊNCIA
+1. OBJETO Contratação de empresa de Tecnologia da Informação para a prestação de serviços de desenvolvimento de sistema de informação envolvendo manutenção corretiva, perfectiva, adaptativa e documentação do Sistema de Informações Confea\CREA - SIC, estimado em 2.500 (dois mil e quinhentos) pontos de função, sob demanda, em conformidade com o Edital e seus Anexos. 2. JUSTIFICATIVA O Conselho Federal de Engenharia, Arquitetura e Agronomia ­ CONFEA é entidade autárquica dotada de personalidade jurídica de direito público, que constitui serviço público federal, com sede e foro na cidade de Brasília-DF e jurisdição em todo o território nacional, para cumprir sua finalidade de instância superior de fiscalização do exercício das profissões inseridas no Sistema Confea/Crea. Atualmente o Sistema Confea/Crea é constituído por 27 (vinte e sete) Conselhos Regionais (Creas), localizados em cada unidade da federação. Compõem o Sistema Confea/Crea os profissionais das áreas de engenharia, arquitetura, agronomia, geologia, geografia, meteorologia, tecnólogos e técnicos industriais e agrícolas de nível médio. Integram o Sistema cerca de 730 mil profissionais, além de 200 mil empresas da área tecnológica, 28 entidades nacionais e cerca de 600 entidades estaduais, além de instituições de ensino nacionais públicas e privadas. Face às competências e ações legais que o CONFEA desenvolve, bem como para cumprir as atividades administrativas, o CONFEA viu a necessidade da criação de uma base de dados que reuniria informações acerca dos profissionais vinculados ao Sistema Confea/Crea, visando obter subsídios para tomada de decisões, além de fomentar os públicos e segmentos com os quais o Confea se relaciona e depende. Com este foco, em 2003, foi elaborado um projeto para a implantação de um sistema que agruparia as informações pertinentes aos profissionais, empresas, cursos e instituições de ensino, anotações de responsabilidade técnica, e entidades, além do controle do trâmite de expedição da carteira de identidade profissional de cada conselho Regional. Com esta idéia, criou-se o SIC ­ Sistema de Informações Confea\CREA. A partir dai, foram identificadas várias demandas na área de desenvolvimento de sistemas de informação nos anos que seguiram a implantação inicial do sistema, concretizada, em parte, no ano de 2005 com o recadastramento nacional de profissionais, realizado juntamente aos Conselhos Regionais. O CONFEA não dispõe, em seu quadro próprio, profissionais para desempenhar as funções de desenvolvimento e manutenção de sistemas de informação utilizando a tecnologia JAVA inicialmente adotada para a criação do SIC. Com isso, torna-se necessária a contratação para tais finalidades.
+Página 17 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+Agora, pretende-se que com esta contratação, o projeto de implantação do sistema SIC, possa ser concluído em sua totalidade com a criação dos módulos restantes e com as melhorias e correções nos módulos já existentes. Para um melhor dimensionamento dos serviços de desenvolvimento contratados, será utilizada a Análise de Ponto de Função, que poderá ser realizada por meio de empresa especializada em Métricas de Software, com acompanhamento de um colaborador do CONFEA capacitado na métrica Ponto de Função (PF). Outro ponto importante é que este Projeto foi desenvolvido em consonância com nosso PDTI. O PDTI é o instrumento elaborado pela equipe de Tecnologia da Informação - TI do CONFEA com apoio da Diretoria que define as diretrizes de TI para os próximos 3 anos, atendendo assim a Instrução Normativa 04/2008 do Ministério do Planejamento, Orçamento e Gestão ­ MPOG que dispõe sobre o processo de contratação de serviços de Tecnologia da Informação pela Administração Pública Federal direta, autárquica e fundacional. Sendo assim, faz-se necessário a aquisição do objeto descrito neste projeto, pela necessidade de se desenvolver o Sistema de Informações Confea/Crea ­ SIC.
+
+3. VALOR ESTIMADO 3.1. O valor total estimado para atender as despesas com a contratação, objeto do presente Contrato é de R$ 1.125.000,00 (um milhão e cento e vinte e cinco mil reais).
+SERVIÇO QTD. ESTIMADA VALOR UNITÁRIO VALOR GLOBAL Contratação de empresa de Tecnologia da Informação para a prestação de serviços de desenvolvimento de sistema de informação 2500 PONTOS R$ 450,00 R$ 1.125.000,00 envolvendo manutenção corretiva, perfectiva, DE FUNÇÃO adaptativa e documentação do Sistema de Informações Confea\CREA SIC, em conformidade com o Edital e seus Anexos. VALOR GLOBAL POR EXTENSO: R$ 1.125.000,00 (um milhão, cento e vinte e cinco mil reais)
+
+3.2. Nos preços já estão computados os impostos, taxas, deslocamentos, infraestrutura, avaliação de qualidade e demais despesas que, direta ou indiretamente tenham relação com objeto. 4. DO PAGAMENTO 4.1. O pagamento será efetuado mediante fatura relativa aos serviços efetivamente realizados em cada mês, apurados ao final destes. Não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. O pagamento somente será efetuado após o ateste do fiscal do contrato do CONFEA, por meio do Termo de Aceite - Anexo VII. 4.2. As faturas serão atestadas em até 20 (vinte) dias contados a partir da data de entrega no CONFEA. 4.2.1. Os pagamentos serão efetuados pelo CONFEA, por meio de Ordem Bancária, em até 20 (vinte) dias contados a partir do atesto da Nota Fiscal pelo Fiscal do Contrato.
+Página 18 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+4.3. Somente serão pagos os quantitativos efetivamente confirmados pelo Fiscal do Contrato. 5. DISPONIBILIDADE ORÇAMENTÁRIA 5.1. As despesas decorrentes da contratação objeto deste Termo de Referência correrão por conta dos recursos consignados na Conta 3.1.32.28. 5.2. Nos exercícios seguintes, as despesas correrão à conta de dotações orçamentárias próprias, consignadas nos respectivos Orçamentos Anuais, ficando o Confea obrigado a apresentar, no início de cada exercício, a respectiva Nota de Empenho estimativa e, havendo necessidade, emitir Nota de Empenho complementar, respeitada a mesma classificação orçamentária. 6. CRITÉRIO DE DESCLASSIFICAÇÃO Na Proposta de Preço da Licitante o preço global não poderá ser superior ao valor orçado pelo Confea, sob pena de desclassificação. 7. LOCAIS PARA PRESTAÇÃO DOS SERVIÇOS 7.1. Os serviços constantes do Objeto deste Termo de Referência deverão ser executados nas instalações da CONTRATADA, na modalidade de Fábrica de Software, porém, quando houver necessidade de realizar manutenções corretivas nas dependências do CONFEA, deverão ser executados nos endereços abaixo: 7.1.1. SEPN 508. Bloco A/B.­ Brasília-DF ­ CEP 70.740-542. 7.1.2. SEPN 516 BLOCO "A" - Brasília-DF ­ CEP 70.770-521 7.2. Os serviços prestados nas instalações do CONFEA serão executados no horário de funcionamento deste CONFEA, podendo haver trabalho noturno ou nos fins de semana, em razão de aumento de demanda ou fato que o justifique, tais como antecipação de prazos de entrega por parte do usuário, implementação de rotinas que necessitem de paralisação dos serviços disponibilizados aos usuários, depuração de erros críticos entre outros, sem implicar nenhuma forma de acréscimo ou majoração nos valores dos serviços, razão pela qual será improcedente a reivindicação de restabelecimento de equilíbrio econômico-financeiro, bem com, horas-extras ou adicionais noturnos. 7.1.3. Os serviços a serem realizados aos sábados, domingos e feriados na Fábrica de Software não implicarão em nenhuma forma de acréscimo ou majoração nos valores dos serviços, razão pela qual será improcedente a reivindicação de restabelecimento de equilíbrio econômico-financeiro, bem com, horas-extras ou adicionais noturnos. 7.3. Os serviços realizados fora do ambiente do CONFEA serão executados com recursos da CONTRATADA, conforme horário que definir, respeitadas as condições deste Projeto, notadamente, quanto ao uso de ferramentas, sistemas preconizados e prazos. 7.4. A CONTRATADA se obrigará a dimensionar o horário dos trabalhos de acordo com os parâmetros apontados, de modo a alcançar os resultados nos prazos previstos, observado o Cronograma aprovado pelo CONFEA.
+
+Página 19 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+8. VISITA TÉCNICA DA PROPONENTE 8.1. As empresas interessadas em participar na licitação devem realizar visita técnica, por representante legal na cidade de Brasília/DF, no Edifício Sede do CONFEA localizado no endereço: SEPN 508, Bloco B. 8.2. A visita técnica tem a finalidade de vistoriar e tomar conhecimento das instalações e recursos do ambiente de desenvolvimento do CONFEA. 8.3. A visita técnica deverá ser realizada até o dia anterior da data prevista para abertura da sessão. 8.3.1. Para efetuar a visita técnica o profissional da proponente deverá apresentar-se ao empregado do Confea indicado no item 8.4, munido da declaração conforme modelo do Anexo III "a". 8.4. Deve ser agendada pelos telefones (61) 3348-3858 ou (61) 3348-3786, com os Srs. Daniel Miranda ou Bruno Alphonsus. 8.3.2. Deverá ser realizada em dias úteis, de 2ª a 6ª feiras, no horário de 8h30 às 11h30 e 14h às 17h30. 9 RECURSOS OPERACIONAIS DO CONFEA 9.1 Ambiente para a execução dos serviços
+
+9.1.1 Ambiente de Desenvolvimento: Ambiente de desenvolvimento e manutenção das aplicações. O seu funcionamento tem por base o controle de versão de produtos por meio de ferramenta especifica do tipo CVS; 9.1.2 Ambiente de Homologação: Ambiente que permite os testes necessários por parte do gestor da aplicação para o seu devido aceite. O seu funcionamento tem por base a não edição de arquivos para correção neste ambiente, pois todo processo de correção deve ocorrer no Ambiente de Desenvolvimento; 9.1.3 Ambiente de Produção: Ambiente que hospeda a aplicação em produção no CONFEA. O seu funcionamento tem por base a hospedagem somente da aplicação homologada pela Gerência de Tecnologia da Informação ou fiscal do contrato; 9.2 Recursos operacionais de software 9.2.1 O Confea adota para seu grupo de ambientes as ferramentas relacionadas a seguir, para o desenvolvimento e manutenção do Sistema de Informações Confea\CREA: 9.2.1.1 Sistema Operacional: Windows 2003 e Windows 2008 Server 9.2.1.2 Ferramentas de Desenvolvimento: Visual Studio 2005 e Eclipse 9.2.1.3 Servidor de Aplicação: IIS 6.0 e Apache Tomcat 4.1.34 9.2.1.4 Banco de Dados: Microsoft SQL Server 2005 10. UNIDADE REQUISITANTE Gerência de Tecnologia da Informação ­ GTI
+Página 20 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO II DETALHAMENTO DO OBJETO
+1. DETALHAMENTO DOS SERVIÇOS 1.1. O serviço a ser contratado abrange todas as fases do processo de desenvolvimento de sistemas, desde o levantamento de requisitos até sua disponibilização em ambiente de produção, e deve ser executado de acordo com normas, procedimentos e técnicas adotadas pelas boas práticas na execução de processos de desenvolvimento com qualidade. Compreende os serviços abaixo: 1.2. Manutenção Corretiva, Perfectiva e Adaptativa do Sistema de Informações Confea/Crea - SIC. 1.2.1. São modificações no sistema consistindo em prevenção, correção de falhas, implementação de melhorias ou adaptações classificadas conforme abaixo: 1.2.1.1. Manutenção Corretiva: Consiste na correção de defeitos presentes no SIC em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento do sistema e/ou quaisquer desvios em relação aos requisitos aprovados pelo Fiscal do Contrato. Não envolve mudanças às funcionalidades do negócio. a) Os custos de manutenção corretiva são de responsabilidade da CONTRATADA, durante o período de garantia do sistema. 1.2.1.2. Manutenção Perfectiva: Adequações do SIC às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e SGBD, que não impliquem na inserção, alteração ou exclusão de funcionalidades. Além disso, tais mudanças poderão incluir modificações para atualização de plataforma de suporte ou de software de sistema, otimização de desempenho e outras atividades afins à manutenção de acordos de nível de serviço, com a finalidade de prevenir defeitos futuros ou falhas. 1.2.1.3. Manutenção Adaptativa (Projeto de Melhoria): Corresponde a inclusão, alteração e exclusão de características e/ou funcionalidades no SIC, decorrentes de novos requisitos de negócio, requisitos de negócio em processo de mudança, ou para adicionar funcionalidade não presente em uma versão anterior. Poderá incluir também modificações necessárias ao atendimento de requisitos técnicos. 1.2.2. O local para prestação dos serviços de Manutenção Corretiva poderá ser, a critério do CONFEA e em comum acordo com a CONTRATADA, nas dependências do CONFEA, sem que haja alterações nos critérios de valoração dos serviços. 1.3. Documentação de Sistemas 1.3.1. Os serviços de documentação a serem contratados referem-se ao SIC, já implantado em ambiente de produção, e corresponde à produção e/ou atualização dos documentos abaixo: a) Documento de Visão do Sistema; b) Especificação de Requisitos de Software: Casos de Uso (Modelo de Casos de Uso e Especificações Suplementares), Diagrama de Seqüência ou de Colaboração, Diagrama de Classes;
+Página 21 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+c) Modelo de Arquitetura de Software; d) Modelo de Dados; e) Dicionário de Dados; f) Contagem do Sistema\Módulo em APF; 1.3.2. A elaboração de documentação referente aos serviços de manutenção realizados pela CONTRATADA é obrigatória e sem custo adicional ao CONFEA e devem envolver os documentos supracitados. 1.3.3. O padrão dos documentos a ser adotado será aquele indicado pelo CONFEA. 2. MÉTODOS E PROCESSOS PARA A EXECUÇÃO DOS SERVIÇOS 2.1. Realização de Testes Teste Unitário: 2.1.1. O CONFEA exigirá a execução de teste unitário sobre o produto de software construído pela CONTRATADA, baseado no Plano de Testes a ser elaborado pela CONTRATADA e aprovado pelo CONFEA. 2.1.2. Entende-se como Teste Unitário aquele realizado sobre um componente de software isoladamente, que deve abranger, pelo menos, a técnica de teste Caixa Preta que tem por objetivo identificar erros como funções incorretas ou omitidas, erros de interface, erros de estrutura de dados ou de acesso à base de dados externa, erros de comportamento ou desempenho e erros de iniciação e término. 2.1.3. A CONTRATADA deve entregar junto com os artefatos construídos toda a documentação contendo as evidências de teste, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado pela contratada. Essa auditoria será realizada pelo CONFEA ou por empresa por ele designada. Teste Integrado: 2.1.4 O CONFEA exigirá a execução de Teste Integrado sobre o produto de software construído pela empresa contratada, baseado no Plano de testes a ser elaborado pela CONTRATADA e aprovado pelo CONFEA. 2.1.5. Entende-se como Teste Integrado aquele realizado por meio da navegação de forma progressiva e ordenada pelas telas ou estruturas internas do software onde seus elementos são combinados e testados para a avaliação das suas interações. 2.1.6. A CONTRATADA deve entregar junto com os artefatos construídos toda a documentação contendo o mapeamento da navegação interna realizada e demais evidências do teste integrado, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado pela contratada. Essa auditoria será realizada pelo CONFEA ou por empresa por ele designada. 2.1.7. O CONFEA poderá realizar auditoria sobre o código-fonte entregue pela CONTRATADA, a ser executada pelo próprio CONFEA ou por empresa por ele designada. Para isso, utilizará como insumos: o código-fonte, a especificação de programas, o modelo de arquitetura de solução e os padrões de codificação definidos. 2.2. Metodologia de Desenvolvimento
+Página 22 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+2.2.1. A metodologia de desenvolvimento de sistemas ­ MDS a ser utilizada pela CONTRATADA deverá ser aderente ao paradigma de desenvolvimento de software do mercado, Análise Orientada a Objeto. 2.2.2. A MDS adotada deverá prever a entrega de artefatos obrigatórios, considerados partes integrantes dos serviços executados pela CONTRATADA, de acordo com o item 2.2.3. 2.2.3. Artefatos mínimos a serem entregues pela CONTRATADA resultantes da execução dos serviços 2.2.3.1. Lista de artefatos a serem entregues na execução dos serviços de desenvolvimento de sistemas de informação referente à documentação do sistema de informação: a) Modelo de Caso de Negócio: Identifica todos dos casos de uso de negócio que fazem parte do escopo da solicitação, para o caso de manutenção adaptativa. b) Modelo de Domínio: Engloba os Diagramas de Objetos e de Classe (Nível Conceitual). c) Modelo de arquitetura de Sistema ou Solução: Apresenta a arquitetura proposta para o sistema ou solução (deve ser considerada a arquitetura padrão SIC descrita no item 9.2 do Anexo I ­ Termo de Referência). d) Glossário: Identifica os termos técnicos do projeto. e) Modelo de Caso de Uso ou Modelo Funcional: Faz uma descrição abrangente das funções do projeto, demonstrando a estrutura do modelo em pacotes, casos de uso e atores. O artefato demonstra a estrutura de pacotes de forma hierárquica; f) Especificação de Caso de Uso: Descreve os objetivos e as atividades que serão desenvolvidas no caso de uso. g) Especificação das Regras de Negócio: Descreve as regras de negócios dos casos de uso. h) Projeto de Banco de Dados: Representa todos os quesitos relativos ao banco de dados (modelo entidade-relacional e dicionários de dados). i) Componentes/ Códigos-Fontes: Componentes e programas do software (códigosfonte, sub-rotinas, componentes e scripts de carga). j) Plano de Teste: Documento que identifica todos os cenários ou casos de uso que serão testados e quais testes serão realizados. Para cada tipo de teste, são listadas as técnicas utilizadas e a estimativa de esforço. k) Planilha de teste: Apresenta os resultados dos testes do sistema. l) Laudo de Avaliação da Qualidade: Documento emitido pela equipe de Controle de Qualidade da CONTRATADA indicando que os artefatos entregues passaram pela avaliação de qualidade. m) Manual do Usuário: Descreve usualmente todo o processo de execução do sistema (Material para treinamento de clientes / usuários). 2.2.3.2 Para os serviços de manutenção corretiva de sistemas de informação deverão ser entregues os artefatos relacionados abaixo:
+Página 23 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+a) Especificação das Regras de Negócio: Descreve as regras de negócios dos casos de uso. b) Projeto de Banco de Dados: Representa todos os quesitos relativos ao banco de dados (modelo entidade-relacional e dicionários de dados). c) Componentes/ Códigos-Fontes: Descreve os componentes e programas do Software (códigos-fonte, sub-rotinas, componentes e scripts de carga). d) Termo de Aceite: Apresenta o termo de homologação da correção (Anexo VII). e) Demais Documentações Atualizadas: Demais documentações do sistema de informação, caso existam. 2.2.3.3 Para cada serviço ou projeto contratado poderá ser definido, entre o CONFEA e a empresa CONTRATADA, o nível de documentação exigido para sua execução. 2.2.3.4 Todos os artefatos entregues para o CONFEA decorrentes da execução dos serviços deverão ter um Laudo de Avaliação da Qualidade assinado pela equipe/representante legal de Controle de Qualidade da CONTRATADA. a) A equipe de controle de qualidade deve ser distinta daquela responsável pelo serviço executado e o custo da avaliação deve estar embutido no custo do ponto de função, não cabendo remuneração adicional. 2.2.4 O CONFEA poderá, durante a execução do contrato, solicitar alterações na metodologia de desenvolvimento da contratada de modo a alterar ou excluir documentos e/ou procedimentos no ciclo de vida dos produtos solicitados, a fim de garantir o recebimento de todas as informações necessárias para possíveis consultas referenciais e manutenções que vierem a surgir pelo CONFEA. 3. FLUXO DE EXECUÇÃO DOS SERVIÇOS 3.1. O fluxo abaixo descreve as etapas para a execução dos serviços:
+
+Página 24 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+3.2. O CONFEA encaminhará à CONTRATADA uma Solicitação de Atendimento (Anexo VIII) e demais documentos de apoio que julgar necessário. O trâmite desses documentos poderá ser automatizado através de um sistema de controle de demandas. 3.3. A CONTRATADA deverá encaminhar à Gerência de Tecnologia da Informação GTI, no prazo máximo de 10 (dez) dias úteis do recebimento da Solicitação de Atendimento (Anexo VIII), uma Proposta detalhada para cada serviço. 3.4. O CONFEA analisará a Proposta, aprovando-a ou não. A execução do serviço somente poderá ser realizada, após a aprovação pelo CONFEA. 3.4.1. Caso a Proposta não seja aprovada, a CONTRATADA deverá apresentar nova Proposta com as alterações solicitadas pelo CONFEA no prazo de 5 (cinco) dias úteis. 3.5. Caso a Proposta seja aceita, a CONTRATADA criará, em conjunto com o CONFEA, tantas quantas Ordens de Serviços/OS (Anexo V) forem necessárias para a conclusão da Solicitação de Atendimento. 3.5.1. As Ordens de Serviços/OS serão classificadas em três níveis de criticidade: 3.5.1.1. Alta criticidade: Quando o problema ou a necessidade de manutenção implicar em interrupção, mesmo que parcial, do sistema em ambiente de produção. 3.5.1.2. Média criticidade: Quando o problema reportado ou a necessidade de manutenção implicar em mau funcionamento do sistema em ambiente de produção. 3.5.1.3. Baixa criticidade: Quando o problema ou a necessidade de manutenção implicar em interrupção, mesmo que parcial, do sistema em ambiente de produção. 3.6. A CONTRATADA deverá iniciar a execução das Ordens de Serviço-OS (Anexo V) de acordo com o cronograma aprovado pelo CONFEA na fase da Proposta. 3.7. Para cada Ordem de Serviço-OS deverá o CONFEA entregar um Termo de Recebimento ­ ANEXO III que deverá ser assinado por um técnico responsável do CONFEA. O Confea terá 10 (dez) dias úteis, após a entrega do termo, para avaliar, validar e valorar o nível de qualidade do serviço, além de verificar o nível de conformidade com os requisitos especificados. Tal avaliação se dará de acordo com as seguintes classificações: 3.7.1. Ordem de Serviço-OS REJEITADA - quando não foram respeitados os critérios de qualidade necessários à aceitação. 3.7.2. Ordem de Serviço-OS ACEITA COM AJUSTES - quando os serviços realizados forem recebidos, entretanto, o CONFEA apresentará à CONTRATADA uma relação de ajustes a serem realizados, com prazo para adequação e reapresentação. 3.7.3. Ordem de Serviço-OS ACEITA - Quando os serviços realizados foram entregues integralmente, não merecendo nenhum ajuste. 3.8. As não-conformidades identificadas durante a avaliação dos artefatos resultantes do serviço serão corrigidas pela CONTRATADA, sem ônus para o CONFEA. 3.9. Caso seja identificada alguma não-conformidade, será considerado novo prazo de avaliação e homologação do serviço, sendo este contado a partir da data de entrega do serviço com as não-conformidades corrigidas.
+
+Página 25 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+3.10. Caso a CONTRATADA não realize integralmente os ajustes de não-conformidade no prazo estabelecido, a Ordem de Serviço-OS será considerada Rejeitada e a empresa estará sujeita às penalidades previstas para o caso. 3.11. O CONFEA deverá emitir o Termo de Recebimento no momento em que o serviço for disponibilizado pela CONTRATADA para devida validação e avaliação pelo CONFEA. 3.12. No caso em que para realizar a avaliação seja necessária reunião com profissionais da CONTRATADA, esta deverá ser informada previamente com antecedência mínima de 2 (dois) dias úteis. Caso a CONTRATADA falte à reunião por qualquer motivo, o prazo de avaliação se renova automaticamente. 3.13. Após a devida avaliação do serviço objeto da Ordem de Serviço-OS e classificação do Termo de Recebimento, o CONFEA tomará as devidas providências para disponibilizar o serviço em ambiente de produção, devendo contar INTEGRALMENTE com auxílio da CONTRATADA para tanto. 3.14. Decorrido o prazo de avaliação do serviço sem um posicionamento do CONFEA, a empresa CONTRATADA deve formalizar de Ofício à Gerência de Tecnologia da Informação, informando o atraso na homologação, cabendo a esta avaliar e se for o caso, homologar o serviço por decurso de prazo. 3.15. Após a implantação bem sucedida do objeto da Ordem de Serviço-OS em ambiente de produção esta será considerada HOMOLOGADA, estando o CONFEA apto a assinar o Termo de Aceite (Anexo VII) efetivando a execução do serviço. 3.15.1. O CONFEA tem 10 (dez) dias úteis para a homologação do serviço e emissão do Termo de Aceite. 3.16. A CONTRATADA compromete-se a entregar os artefatos à medida que os mesmos forem sendo elaborados de forma a não comprometer os prazos de avaliação e homologação do CONFEA. 3.17. Para os serviços de manutenção corretiva a CONTRATADA deverá atualizar as mudanças efetuadas na documentação existente, não estando obrigada a elaborar novos artefatos de documentação. 3.18. Os serviços somente serão considerados concluídos, após a assinatura do Termo de Aceite, por parte da área demandante do CONFEA, ressalvados "defeitos" observando a garantia dos serviços prestados. 3.19. A verificação da qualidade dos serviços prestados e a conformidade dos artefatos/produtos entregues poderão ser realizadas por empresa designada pelo CONFEA, contratada para este fim. 3.20. O pagamento somente será realizado após a emissão do Termo de Aceite. 3.21. A soma do(s) volume(s) e do(s) valor(es) estimados para desembolso das previsões de entrega nunca poderá ser superior ou inferior ao volume e valor total estimado para os serviços contratados. 3.22. O CONFEA se reserva no direito de alterar o fluxo da execução dos serviços, comunicando formalmente à CONTRATADA caso tal ato venha a ocorrer. A CONTRATADA deve adaptar-se no prazo máximo de 5 (cinco) dias corridos, a contar da data da comunicação formal pelo CONFEA.
+Página 26 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+4. MEDIÇÃO E REMUNERAÇÃO DOS SERVIÇOS 4.1. Os serviços realizados serão medidos utilizando-se da técnica de Análise em Pontos de Função de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.2, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org). 4.2. O CONFEA adotará a técnica definida pela NESMA (Netherlands Software Metrics Users Association) para a realização de contagens por tipo estimada e indicativa. 4.3. A utilização de novas versões do Manual (CPM) ficará a critério do CONFEA, que, mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA. 4.4. O CONFEA adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste, em todos os serviços.. 4.5. Mesmo no caso de ser utilizada uma nova versão do Manual (CPM), o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um), cabendo sua revisão somente quando da renovação do CONTRATO entre o CONFEA e a empresa CONTRATADA. 4.6. O CONFEA adotará a seguinte Tabela de Itens Não Passíveis de Medição para calcular o esforço de atividades que não são passíveis de serem medidas pela técnica de Análise de Pontos de Função.
+Item Não Mensurável Qtd. de Qtd. PF Itens Total de Esforço Observação
+
+Alterações referentes aos layouts de tela, tais como: · Mudança de posição de campos em telas, em relatórios ou em layout de arquivos, sem que haja alteração em elementos de dados, arquivos referenciados ou informações de controle. · Inclusão, alteração ou exclusão de logotipo da empresa; · Divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. · Atualização de rótulos de dados sem que haja mudança de funcionalidade. Alterações referentes a Campos e Variáveis: · Inclusão, alteração ou exclusão de campos e variáveis em programas e 0,2 Qtde PF corresponde a cada 5 itens. Total de esforço = (Qtde de itens / 5)*Qtde PF
+
+0,4
+
+Página 27 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+tabelas, sem que tenha mudança na funcionalidade.
+
+havido
+
+· Padronização de nomenclatura de campos e variáveis em programas e tabelas. Alterações de texto de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. Alterações referentes à alteração, criação ou exclusão de telas Alteração e/ou criação de tela para: · Adição reestruturação menus navegação estáticos; ou de de Qtde PF corresponde a cada 5 itens. Total de esforço = (Qtde de itens / 5)*Qtde PF
+
+0,2
+
+0,5
+
+· Adição ou reestruturação de Ajuda (help estático);
+
+Exclusão de tela
+
+0,1
+
+· Criação, alteração ou exclusão de páginas estáticas. Alterações referentes à inclusão, alteração ou exclusão de dados pertencentes a listas (combobox) ou tabelas físicas. Alterações referentes à alteração dos valores dos parâmetros (estáticos), sem que a lógica de processamento tenha sido alterada. Alterações referentes à criação de mais de uma camada de apresentação (diferente), desde que sejam as mesmas funcionalidades com padrões visuais distintos. SERVIÇOS DE ATENDIMENTO contempla a necessidade de execução de tarefas temporárias, não passíveis de serem pontuadas, como por exemplo: análise de demandas, execução de
+
+0,2
+
+0,1
+Qdte de itens é a qtde de PF da respectiva funcionalidade
+
+0,2
+
+0,5
+
+Qdte de itens é a qtde de dias necessários
+
+Página 28 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+teste a pedido do usuário/Fiscal, rotina de clean up etc. · Deverá ser considerado 1 recurso por dia, sendo 8 horas o esforço diário gasto. Alterações referentes à criação, alteração e exclusão de tabelas de DADOS DE CÓDIGO, e respectivas funcionalidades, de sistemas em produção, sendo previstas as seguintes atividades e seus percentuais de ponto de função: Inclusão de tabela e funcionalidad e Alteração de tabela e funcionalidad e Excluir tabela e funcionalidad es Inclusão de funcionalidad e Alteração de Funcionalida de Exclusão de funcionalidad e
+
+2,7
+
+1,3
+
+0,6
+
+0,3 0,3 0,3
+
+Tabela de itens passíveis de medição.
+
+4.7. Caso a CONTRATADA identifique item não mensurável que não conste na tabela supracitada, deverá enviar relatório técnico ao CONFEA para fins de análise e avaliação, sendo possível a inclusão de novo item na tabela, caso o CONFEA julgue por necessário. O CONFEA e a CONTRATADA, poderão se reunir para discutir quaisquer divergências na análise feita. Não havendo acordo, permanecerá a decisão do CONFEA. 4.8. Caso seja identificado que os percentuais descritos na tabela de itens não mensuráveis não sejam suficientes para a remuneração dos serviços, colocando em risco o equilíbrio econômico-financeiro do contrato, as partes poderão reajustar os índices fundamentadamente. 4.9. Ao término da execução do Serviço deverá ser efetuada recontagem dos pontos de função visando confirmar a estimativa inicial. Em caso de variações de tamanho, para mais ou para menos e após consenso entre as partes, a diferença financeira será considerada nas compensações pendentes, podendo ser para mais ou para menos. 4.10. Caso haja divergência igual ou superior a 5% entre a contagem final de PONTOS DE FUNÇÃO do CONFEA e a da CONTRATADA, fica estabelecido que os responsáveis pela contagem, do CONFEA e da CONTRATADA, deverão se reunir no sentido de
+Página 29 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+eliminar as diferenças. Permanecendo a divergência, ou no caso de divergência inferior a 5%, prevalecerá a contagem arbitrada pelo CONFEA. 4.11. Quaisquer decisões que impliquem em aumento do número de PONTOS DE FUNÇÃO ­ incluindo a manutenção de requisitos (Alteração da Especificação de Requisitos) - deverão ser aprovadas pelo CONFEA. 4.12. No caso da impossibilidade de remuneração dos serviços em pontos de função, o esforço necessário será calculado com base na estimativa de horas de esforço para execução do serviço, devendo ser acordado entre a CONTRATANTE e a CONTRATADA. 4.13. Os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite dos serviços, serão por conta da CONTRATADA. 4.14. O pagamento será efetuado mediante fatura relativa aos serviços efetivamente realizados em cada mês, apurados ao final destes. O pagamento somente será efetuado após o ateste do Fiscal do Contrato do CONFEA, por meio do Termo de Aceite do Serviço. 4.15. O tamanho dos projetos/serviços será calculado tomando-se por base as definições do item de medição dos serviços, constante neste anexo. 4.16. A utilização dos diversos tipos de contagem e obtenção do custo do projeto/serviço estão demonstradas na tabela abaixo. Tipo de Serviço Indicativa Tipo de Contagem Estimativa Detalhada Custo do Serviço Para todos os serviços de manutenção evolutiva, serão aplicadas as regras abaixo, independente do tamanho: Funcionalidades Incluídas ­ Serão remuneradas em 100% do valor do ponto de função vezes a quantidade de PF da(s) fase(s) contratada(s); Funcionalidades alteradas ­ Serão remuneradas em 50% do valor do ponto de função vezes a quantidade de PF da(s) fase(s) contratada(s) e terão sua produtividade reduzida em 50%; Funcionalidades excluídas ­ serão remuneradas em 25% do valor do ponto de função vezes a quantidade de PF da(s) fase(s) contratada(s) e terão sua produtividade
+Página 30 de 68
+
+Manutenção Adaptativa
+
+Não se aplica
+
+SIM, a partir do detalhamento dos requisitos Na fase de e SEMPRE levantamento deverá ser inicial dos realizada ao requisitos final da implantação para determinar o "baseline".
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+reduzida em 75%. Em todos os casos, além dos valores em pontos de função, deverá ser somado total de esforço para "itens não mensuráveis" Sim, para determinar o tamanho do serviço a ser contratado (vide tabela de itens não mensuráveis) Sim, para determinar o tamanho da correção (vide tabela de itens não mensuráveis) Sim, para determinar o tamanho da correção (vide tabela de itens não mensuráveis) O custo do serviço será de 49% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de esforço para "itens não mensuráveis" O custo do serviço será de 10% do valor do PF, vezes a quantidade de PF do serviço, mais o total de esforço para "itens não mensuráveis".
+
+Manutenção Perfectiva
+
+Não se aplica
+
+Não Se aplica
+
+Manutenção Corretiva fora da Garantia
+
+Não se aplica
+
+Não se aplica
+
+Manutenção Corretiva na Garantia
+
+Não se aplica
+
+5. PADRÕES DE DESENVOLVIMENTO O padrão de desenvolvimento adotado na prestação dos serviços será definido pela CONTRATADA, em acordo com o CONFEA, estando a CONTRATADA obrigada apenas a garantir que a metodologia escolhida atenda às exigências do item 2 deste anexo. 6. PRAZO DE ATENDIMENTO 6.1. A CONTRATADA deverá observar os prazos para atendimento dos tipos de serviços, conforme tabela abaixo.
+TABELA DE PRAZOS DE ATENDIMENTO DE SERVIÇOS EMERGENCIAIS PRAZO MÁXIMO PARA PRAZO PARA A CATEGORIA TIPO DE SOLUÇÃO DO CRITICIDADE EXECUÇÃO DO DO SERVIÇO OCORRÊNCIA PROBLEMA (horas SERVIÇO corridas) Manutenção Funcionamento Alta 24 horas Corretiva inadequado ou Média 48 horas em desacordo
+
+Página 31 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+Baixa Demanda emergencial ou Legal de Manutenção Adaptativa
+
+com os requisitos do software em produção.
+
+72 horas
+
+Demanda emergencial
+
+Definido pelo Confea e registrado em OS
+
+6.2. Os prazos máximos (em meses corridos) de entrega a serem observados para os serviços de desenvolvimento de sistemas de informação demandados estão representados a seguir:
+Tamanho em Pontos de Função 50 100 200 300 400 500 600 700 800 900 1000 1100 1300 1500 2000 2500 Prazo Máximo (Meses) 2 3 4 5 6 7 8 9 10 11 12 13 15 17 20 24
+
+6.3. A CONTRATADA deverá apresentar ao CONFEA, para validação e aceite, proposta de prazo para execução de todos os serviços a que for demandada. 6.4. No caso de contagens que identificarem tamanho do serviço inferior a 50 (cinqüenta) pontos de função, o prazo máximo será calculado multiplicando-se o número de pontos de função por 1,20 (um vírgula vinte), dividindo-se o resultado por 30, arredondando-se o resultado para o inteiro imediatamente superior. Tal fator de ajuste foi calculado de maneira a garantir que o limite inferior da tabela de prazos (item 6.2) não seja excedido por demandas de tamanho inferior a 50 (cinqüenta) pontos de função. 6.5. A CONTRATADA poderá solicitar, ainda, um prazo adicional, quando justificada e comprovada a necessidade, em função de complexidade do serviço a ser executado, ficando a critério do CONFEA, aceitar ou não as justificativas e o novo prazo apresentado pela CONTRATADA. a) O prazo adicional deverá ser solicitado em até 1 (um) dia útil após o recebimento da Solicitação de Atendimento (Anexo VIII) e, no caso de aceito pelo CONFEA, será adicionado ao prazo total do serviço ou projeto contratado; b) Caso a justificativa não atenda ao CONFEA, prevalecerá o prazo inicialmente estipulado;
+
+Página 32 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+c) A solicitação de prazo adicional para atendimento não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação pelo CONFEA, ficam mantidas as condições estipuladas para o serviço; d) Caso o prazo de execução proposto pela CONTRATADA não atenda às necessidades do CONFEA novos prazos deverão ser apresentados. 7. ATENDIMENTO EMERGENCIAL 7.1. Entende-se por atendimento emergencial aqueles destinados à solução de funcionamento inadequado ou em desacordo com os requisitos do software em produção. 7.2. Os serviços de manutenção corretiva deverão ser realizados no prazo máximo previsto na tabela de prazo de atendimento dos serviços, contabilizado a partir do acionamento pelo CONFEA. 7.3. Caso seja constatada a impossibilidade de cumprimento do prazo estabelecido, em decorrência da abrangência do problema, a CONTRATADA deverá apresentar justificativa e o novo prazo proposto, submetendo-o ao CONFEA para aprovação, em até 01(uma) hora, sem gerar qualquer impacto ao atendimento. 7.4. Caso a proposta seja negada, o prazo estabelecido pelo CONFEA deverá ser mantido, ficando a CONTRATADA sujeita às penalidades previstas pelo não cumprimento. 7.5. No prazo estipulado para o serviço, a CONTRATADA deverá executar todas as atividades previstas abaixo, bem como apresentar ao CONFEA todas as ações de contingência realizadas, no caso de existir: · Diagnosticar o problema; · Analisar o escopo e criticidade do problema; · Identificar as alternativas de solução; · Eliminar o problema detectado e disponibilizar para o CONFEA as correções necessárias sem que estas comprometam qualquer outro sistema ou qualquer funcionalidade do sistema. · Documentar as correções implementadas. 8. EQUIPE TÉCNICA PARA A PRESTAÇÃO DOS SERVIÇOS 8.1. A Empresa CONTRATADA se compromete a alocar, em todos os serviços contratados pelo CONFEA, profissionais com perfis e qualificações adequados, mantendo ao longo da vigência do contrato todas as condições que apresentaram em sua habilitação e qualificação no processo licitatório. 8.2. A qualificação dos profissionais deverá ser comprovada por meio da apresentação de seus currículos, no ato da assinatura do Contrato e quando solicitada pelo CONFEA. 8.3. A CONTRATADA deverá selecionar, designar e manter profissionais cuja qualificação esteja em conformidade com os tipos de serviços descritos nas Solicitações de Atendimento (Anexo VIII) observando o certificado apropriado emitido
+Página 33 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+pelos fabricantes da linguagem, ferramenta ou tecnologia, sempre que a atividade a ser executada assim o exigir. 8.4. A CONTRATADA deverá alocar profissionais especialistas e certificados na linguagem, ferramenta, tecnologia ou processo sempre que o CONFEA solicitar. 8.5. A CONTRATADA se compromete a garantir a alocação de profissionais devidamente capacitados para solucionar problemas relacionados à prestação de serviços e ocorrências no SIC e seus módulos, incluindo os que exijam a presença física nas dependências do CONFEA. 8.6. Os profissionais a serem envolvidos, para a execução dos serviços referentes ao desenvolvimento de sistemas de informação, deverão estar capacitados nos recursos que compõem o ambiente em que o SIC encontra-se disponível no CONFEA, descritos no Item 09 (Recursos Operacionais do CONFEA) do Anexo I ­ Termo de Referência. 9. PERFIS PROFISSIONAIS 9.1. Os profissionais a serem envolvidos nos serviços, objeto deste Projeto, deverão estar capacitados nos recursos que compõem o ambiente de desenvolvimento do CONFEA, conforme perfis abaixo: 9.1.1. Os profissionais envolvidos nos serviços devem apresentar a qualificação mínima relacionada abaixo, comprovada por contrato de trabalho, diploma, certificado ou atestado de entidade idônea em nome do profissional e da devida comprovação de que faz parte da equipe da licitante (contrato de prestação de serviço ou relação de empregados (RE) do mês subseqüente à assinatura do contrato). 9.2. Gerente de Projetos 9.2.1. O Gerente de Projetos terá a responsabilidade pelo pleno gerenciamento do projeto ou serviço contratado, controle e entrega no tempo definido pelo CONFEA, mantendo a consistência e atualização das informações na ferramenta de gerência de projetos. 9.2.2. Perfil Profissional do Gerente de Projetos: a) Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação, ou formação de nível superior em qualquer área com curso de pós-graduação lato sensu (especialização) na área de informática; b) Conhecimento em análise e modelagem de dados; c) Experiência em gerenciamento de projetos e equipes de desenvolvimento de sistemas. d) Possuir certificação em gerência de projetos - PMP. 9.3. Analista de Sistemas (Sênior) 9.3.1. Tem a responsabilidade de realizar a análise e design (modelagem) do sistema, conforme as definições da arquitetura da solução e a metodologia de desenvolvimento de sistemas utilizada, mantendo a consistência e atualização das informações nas ferramentas de análise e design, de acordo com sua especialidade de atuação. 9.3.2. Perfil Profissional do Analista de Sistemas
+Página 34 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+a) Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação, ou formação de nível superior em qualquer área com curso de pós-graduação lato sensu (especialização) na área de informática; b) Experiência em análise e desenvolvimento de sistemas de informações; c) Experiência em ciclo de produção baseada em metodologia UP ou similar; d) Conhecimento em análise e modelagem de dados utilizando UML; e) Experiência em atividades de desenvolvimento/manutenção de software. 9.3.2.1. Analista de Sistemas ­ Especialidade: Analista de requisitos a) Experiência em atividades de levantamento, especificação e gerência de requisitos, em especificação de casos de uso e modelagem de processos de negócio. b) Experiência em modelagem UML. c) Curso superior completo na área de informática ou qualquer curso superior com especialização na área de informática. d) Conhecimento em Metodologias de Projeto de Sistemas. e) Conhecimento em análise de sistemas. f) Domínio nas metodologias UP. Desejável certificação da metodologia PMI. Desejável conhecimento de CMMI. 9.3.2.2. Analista de Sistemas ­ Especialidade: Analista de qualidade de software a) Experiência em avaliação de conformidade de artefatos de software, bem como em elaboração e validação de modelos de processos de negócio. b) Experiência em elaboração de Planos de Teste, Casos de Teste e Relatórios de Teste. c) Conhecimento em Metodologias de Projeto de Sistemas, Metodologia e Instrumentos de Quality Assurance. Desejável certificação da metodologia PMI. Desejável conhecimento de CMMI. d) Possuir certificação em introdução ao MPS-BR (P1 MPS-BR) ou CMMI. 9.3.2.3. Analista de Sistemas - Especialidade: Analista de Configuração e Mudanças. a) Experiência em atividades de Gerência de Configuração e Mudanças. b) Conhecimento em ferramentas de versionamento tais como CVS. 9.4. Analista de Banco de dados (Sênior) 9.4.1. Tem a responsabilidade de analisar, avaliar a viabilidade e desenvolver Banco de Dados, participar de levantamento de dados e da definição de métodos e recursos necessários para a implantação de sistemas. 9.4.2. Perfil Profissional do Analista de Banco de Dados ­ SQL Server a) Curso superior completo na área de informática ou qualquer curso superior com especialização na área de informática; b) Experiência em SQL Server 2000/2005 (ou mais recente) e suas ferramentas: DTS, Enterprise Manager, Query Analyser, Analysis Server;
+Página 35 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+c) Experiência na criação, execução, verificação e validação de scripts de banco de dados; Criação de Stored Procedures, Triggers e rotinas para o DTS ­ Data Transformations Services. 9.5. Programador (Pleno) 9.5.1. Tem a responsabilidade de implementar códigos executáveis e testar seus funcionamentos, identificando e corrigindo possíveis exceções e erros. 9.5.2. Perfil Profissional do Programador a) Curso de 2º grau completo; b) Experiência em programação de sistemas de informações; c) Conhecimento e experiência na linguagem, banco de dados e outras tecnologias utilizadas na Ordem de Serviço - OS correspondente. d) Possuir certificação Sun Certified Programmer for Java 2 Plataform ou Superior 9.6. Programador (Sênior) 9.6.1. Tem a responsabilidade de implementar códigos executáveis e testar seus funcionamentos, identificando e corrigindo possíveis exceções e erros. 9.6.2. Perfil Profissional do Programador a) Formação de nível superior em qualquer área ou cursando nível superior na área de informática; b) Experiência em programação de sistemas de informações; c) Conhecimento e experiência na linguagem, banco de dados e outras tecnologias utilizadas na Ordem de Serviço - OS correspondente. d) Possuir certificação JBoss for Administrators 9.7. Web Designer 9.7.1. Responsabilidades do Web Designer - Tem a responsabilidade de implementar as interfaces web dos sistemas de informação, mantendo a conformidade dos sistemas com os padrões do CONFEA ou por ela adotada, de usabilidade, navegabilidade e operabilidade dos sistemas. 9.7.2. Perfil do Web Designer: a) Experiência em programação visual; 9.8. Documentador 9.8.1. Tem a responsabilidade de realizar os serviços de documentação dos módulos presentes no SIC e dos módulos que vierem a ser desenvolvidos por meio de manutenção evolutiva, seguindo os modelos de documentos especificados pela metodologia a ser seguida pela CONTRATADA. 9.8.2. Perfil Profissional do Documentador a) Curso de 2º grau completo; b) Experiência em documentação de sistemas de informação;
+Página 36 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+c) Experiência no processo RUP; d) Experiência em documentação de sistemas orientados a objetos; e) Experiência em documentação de sistemas com UML; 9.9. Perfis para o Escritório em Brasília 9.9.1. Um profissional de atendimento com o seguinte perfil: a) Formação de nível médio no mínimo. b) Experiência em atividades administrativas. 9.9.2. Um Gerente de Projetos com o seguinte perfil: a) Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação, ou formação de nível superior em qualquer área com curso de pósgraduação lato sensu (especialização) na área de informática; b) Conhecimento em análise e modelagem de dados; c) Experiência em gerenciamento de projetos e equipes de desenvolvimento de sistemas. d) Possuir certificação em gerência de projetos ­ PMP. 9.9.3. Um Analista de Sistemas Sênior com especialidade em análise de requisitos com o seguinte perfil: a) Experiência em atividades de levantamento, especificação e gerência de requisitos, em especificação de casos de uso e modelagem de processos de negócio. b) Experiência em modelagem UML. c) Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação, ou formação de nível superior em qualquer área com curso de pósgraduação lato sensu (especialização) na área de informática; d) Conhecimento em Metodologias de Projeto de Sistemas. e) Conhecimento em análise de sistemas. f) Domínio nas metodologias UP. Desejável certificação da metodologia PMI. Desejável conhecimento de CMMI. 9.10. Os percentuais entre cada perfil, incluindo os níveis de qualificação Pleno, Sênior e Júnior, serão informados nas Ordens de Serviço, de acordo com a complexidade e/ou peculiaridades do projeto, com base na MGDS. 10. SISTEMA INFORMATIZADO DE CONTROLE DE DEMANDAS 10.1. O sistema de controle de demandas tem o objetivo de acompanhar o andamento das Ordens de Serviço autorizadas pelo CONFEA, conforme fluxo definido no item 3.1 deste Anexo. 10.2. O sistema de controle de demandas deverá ser hospedado/mantido pela CONTRATADA disponível durante o horário comercial. 10.3. Características mínimas do sistema de controle de demandas:
+Página 37 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+10.3.1. Interface Web 10.3.2. Utilizar protocolo seguro 10.3.3. Todos os controles necessários em termos de acesso (permissões de uso da página diferenciadas por grupo de usuários) e segurança (impedir que usuários não autorizados utilizem o sistema) 10.3.4. Incluir demandas 10.3.5. Acompanhamento do cronograma e execução 10.3.6. Anexar arquivos diversos 10.3.7. Consulta de Proposta
+
+Página 38 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO III Item 11.6., Subitem 11.6.5.2. (modelo "a")
+
+DECLARAÇÃO PARA REALIZAR A VISITA TÉCNICA
+
+Declaramos que o Profissional ..................................................., portador da CI nº ..............., inscrito no CPF sob nº ....................... esta devidamente autorizado a realizar a visita técnica para obter conhecimento da documentação e infra-estrutura disponibilizada pelo CONFEA, dos aspectos técnicos, padrões e processos a serem obedecidos e características das soluções adotadas. A empresa está ciente que tais informações subsidiarão a elaboração do cronograma para início das atividades para cumprimento das obrigações deste Pregão Eletrônico.
+
+Brasília ­ DF, ............... de ........................ de 2009.
+
+Assinatura do Representante legal da Licitante Cargo: .................. RG: .................... CPF: ...........................
+
+Obs1: esta Declaração deve ser emitida pela Licitante em papel que identifique a mesma. Obs2: o profissional deverá apresentar a Carteira de Identidade para tirar cópia.
+
+Página 39 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO III Item 11.6., Subitem 11.6.5.1 (modelo "b") DECLARAÇÃO DE VISITA TÉCNICA
+
+Atestamos para fins de participação no Pregão Eletrônico nº 018/2009 CONFEA, que a , representada visita pelo técnica Empresa Sr. (a) ____________________________________________________________,CNPJ_____ ________________________________________ ________________________________________, ______________________________________________________________________ realizou obtendo conhecimento da documentação e infra-estrutura disponibilizada pelo CONFEA, dos aspectos técnicos, padrões e processos a serem obedecidos e características das soluções adotadas. A empresa está ciente que tais informações subsidiarão a elaboração do cronograma para início das atividades.
+
+Brasília-DF, ________/ ___________________/ _______
+
+________________________________________________ Assinatura e RG do Representante Legal da Empresa
+
+Página 40 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO IV TERMO DE COMPROMISSO DE MANUTENÇÃO DE SIGILO
+Eu, identidade ____________________________________________________________, n° _________________, na órgão expedidor,_________________, função CPF de
+
+n° _____________,
+
+_______________________________________________________________, declaro que tenho pleno conhecimento de minha responsabilidade no que concerne ao sigilo que deve ser mantido sobre os assuntos tratados, as atividades desenvolvidas e/ou as ações realizadas no âmbito do canal técnico de desenvolvimento de software, bem como sobre todas as informações que, por força de minha função ou eventualmente, venham a ser do meu conhecimento, comprometendo-me a guardar o sigilo necessário a que sou obrigado nos termos da legislação vigente. Declaro também, que tenho pleno conhecimento das normas de segurança vigentes no Confea.
+
+Brasília, DF, _____de ______________ de ______. ________________________________________________ Assinatura do responsável - CONTRATADA
+
+________________________________________________ Testemunha 1 ________________________________________________ Testemunha 2
+
+Página 41 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO V MODELO DE ORDEM DE SERVIÇO - OS (CONTRATO)
+Ordem de Serviço - OS
+Contrato: Contratada: Data de Assinatura do Contrato: Num. OS: Class. OS: /
+
+Solicitante
+Nome: Setor: Telefone: Data do Pedido:
+
+Especificação do Serviço
+Local de Execução: Tipo de Execução: Tipo de Serviço: Classificação do Serviço: Criticidade: Alta( Sigla Sistema: Sigla Módulo: Especificação do Serviço: ) Média( ) Baixa( Nome: Nome: )
+
+Descrição do Serviço:
+
+Produtos:
+
+Outros Produtos:
+
+Cronograma Físico-Financeiro
+Data de Início: Prevista: __/___/____ Realizada: __/___/____ Qtde Recurso () PF ()Hst Data de Entrega: Prevista: __/___/____ Realizada: __/___/____ Valor Estimado do recurso (R$) Data da Homologação: Prevista: __/___/___ Realizada: __/___/___ Custo do Serviço (R$)
+Página 42 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+Estimado: ____ Realizado: ____
+
+Estimado: ____ Realizado: ____
+
+Estimado: ____ Realizado: ____
+
+Autorização para a Realização do Serviço
+Nome: Cargo/Função: Gestor do Contrato De Acordo: ___/____/____ Nome: Cargo/Função: Preposto da Contratada De Acordo: ___/____/____
+
+________________________ Assinatura/Carimbo
+
+________________________ Assinatura/Carimbo
+
+Avaliação da Qualidade Nome: Cargo/Função: Nome: Cargo/Função:
+
+Ateste dos Serviços
+
+De Acordo: ___/____/____
+
+De Acordo: ___/____/____
+
+________________________ Assinatura/Carimbo
+
+________________________ Assinatura/Carimbo
+
+Cronograma Físico-Financeiro
+Resultado Esperado:
+
+Resultado Aferido:
+
+Justificativa/Ação:
+
+Página 43 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO VI TERMO DE RECEBIMENTO (CONTRATO)
+Termo de Recebimento dos Serviços 1. Identificação do Serviço 1.1 Sigla, Nome do Projeto / sistema, Versão e Data 1.2 ­ Nº da OS
+
+1.2 Área Requisitante: 1.3 Assunto:
+
+2. Descrição do Serviço Realizado
+
+3. Comentários
+
+4. Recebimento do Serviço Recebi o serviço em ____/_____/______, e estou ciente que tenho dez dias úteis para avaliar o a situação do Recebimento. _______________________________ Fiscal do Contrato Assinatura/carimbo 4.1 Situação do Recebimento __| Aceito __| Aceito com ajustes (solicitação de ajustes em anexo) __| Rejeitado Devem ser impressas duas vias: 1ª via da GTI, 2ª via da CONTRATADA.
+
+Página 44 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO VII TERMO DE ACEITE (CONTRATO)
+Termo de Aceite 1. Identificação do Serviço 1.1 Sigla, Nome do Projeto / sistema, Versão e Data 1.2 ­ Nº da OS
+
+1.2 Motivo do Aceite: 1.3 Documentos / Artefatos para o Aceite:
+
+2. Recebimento dos documentos / Artefatos Recebi o serviço em ____/_____/______, e estou ciente que tenho dez dias úteis para homologação do mesmo. _______________________________ Fiscal do Contrato Assinatura/carimbo 3. Comentários
+
+4. Homologação Documentos ou artefatos estão conforme o solicitado. ____/_____/______ ___________________________________ Fiscal do Contrato Assinatura/carimbo Devem ser impressas duas vias: 1ª via da GTI, 2ª via da CONTRATADA.
+
+Página 45 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO VIII SOLICITAÇÃO DE ATENDIMENTO (CONTRATO)
+Solicitação de Atendimento 1. Identificação do Serviço 1.1 Sigla, Nome do Projeto / sistema e Versão 1.2 ­ Nº da OS
+
+1.2 Data da Solicitação:
+
+2. Documentação técnica e legal de Referência. (Anexos, Legislação, e etc.):
+
+3. Descrição da solicitação
+
+4. Classificação da Solicitação
+
+( (
+
+) Manutenção Corretiva ) Manutenção Adaptativa
+
+(
+
+) Manutenção Perfectiva
+
+5. Aprovação Brasília, DF, _____de ______________ de ______. ________________________________________________
+Fiscal do Contrato
+
+Devem ser impressas duas vias: 1ª via da GTI, 2ª via da CONTRATADA.
+
+Página 46 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 ANEXO IX
+TERMO DE CONCILIAÇÃO JUDICIAL FIRMADO ENTRE O MINISTÉRIO PÚBLICO DO TRABALHO E A UNIÃO Termo de Conciliação Judicial O MINISTÉRIO PÚBLICO DO TRABALHO, neste ato representado pelo Procurador-Geral do Trabalho, Dr. Guilherme Mastrichi Basso, pela ViceProcuradora-Geral do Trabalho, Dra. Guiomar Rechia Gomes, pelo Procurador-Chefe da PRT da 10ª. Região, Dr. Brasilino Santos Ramos e pelo Procurador do Trabalho Dr. Fábio Leal Cardoso, e a UNIÃO, neste ato representada pelo Procurador-Geral da União, Dr. Moacir Antonio da Silva Machado, pela Sub Procuradora Regional da União - 1ª. Região, Dra. Helia Maria de Oliveira Bettero e pelo Advogado da União, Dr. Mário Luiz Guerreiro; CONSIDERANDO que toda relação jurídica de trabalho cuja prestação laboral não eventual seja ofertada pessoalmente pelo obreiro, em estado de subordinação e mediante contraprestação pecuniária, será regida obrigatoriamente pela Consolidação das Leis do Trabalho ou por estatuto próprio, quando se tratar de relação de trabalho de natureza estatutária, com a Administração Pública; CONSIDERANDO que a legislação consolidada em seu art. 9º., comina de nulidade absoluta todos os atos praticados com o intuito de desvirtuar, impedir ou fraudar a aplicação da lei trabalhista; CONSIDERANDO que as sociedades cooperativas, segundo a Lei no. 5.764, de 16.12.1971, art. 4º., "(...) são sociedades de pessoas, com forma e natureza jurídica próprias, de natureza civil, não sujeitas à falência, constituídas para prestar serviços aos associados". CONSIDERANDO que as cooperativas podem prestar serviços a não associados somente em caráter excepcional e desde que tal faculdade atenda aos objetivos sociais previstos na sua norma estatutária, (art. 86, da Lei no. 5.764, de 16.12.1971), aspecto legal que revela a patente impossibilidade jurídica das cooperativas funcionarem como agências de locação de mão-deobra terceirizada; CONSIDERANDO que a administração pública está inexoravelmente jungida ao princípio da legalidade, e que a prática do merchandage é vedada pelo art. 3º., da CLT e repelida pela jurisprudência sumulada do C. TST (En. 331); CONSIDERANDO que os trabalhadores aliciados por cooperativas de mão-de-obra, que prestam serviços de natureza subordinada à UNIÃO embora laborem em situação fática idêntica a dos empregados das empresas prestadoras de serviços terceirizáveis, encontram-se à margem de qualquer proteção jurídico-laboral, sendo-lhes sonegada a incidência de normas protetivas do trabalho, especialmente àquelas destinadas a tutelar a segurança e higidez do trabalho subordinado, o que afronta o princípio da isonomia, a dignidade da pessoa humana e os valores sociais do trabalho (arts. 5º., caput e 1º., III e IV da Constituição Federal); CONSIDERANDO que num processo de terceirização o tomador dos serviços (no caso a administração pública) tem responsabilidade sucessiva por eventuais débitos trabalhistas do fornecedor de mão-de-obra, nos termos do Enunciado 331, do TST, o que poderia gerar graves prejuízos financeiros ao erário, na hipótese de se apurar a presença dos requisitos do art. 3º., da CLT na atividade de intermediação de mão-de-obra patrocinada por falsas cooperativas;
+
+Página 47 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+CONSIDERANDO o teor da Recomendação Para a Promoção das Cooperativas aprovada na 90ª. sessão, da OIT ­ Organização Internacional do Trabalho, em junho de 2002, dispondo que os Estados devem implementar políticas nos sentido de: "8.1.b Garantir que as cooperativas não sejam criadas para, ou direcionadas a, o não cumprimento das lei do trabalho ou usadas para estabelecer relações de emprego disfarçados, e combater pseudocooperativas que violam os direitos dos trabalhadores velando para que a lei trabalhista seja aplicada em todas as empresas." RESOLVEM Celebrar CONCILIAÇÃO nos autos do Processo 01082-2002-020-10-00-0, em tramitação perante a MM. Vigésima Vara do Trabalho de Brasília-DF, mediante os seguintes termos: Cláusula Primeira - A UNIÃO abster-se-á de contratar trabalhadores, por meio de cooperativas de mão-de-obra, para a prestação de serviços ligados às suas atividades-fim ou meio, quando o labor, por sua própria natureza, demandar execução em estado de subordinação, quer em relação ao tomador, ou em relação ao fornecedor dos serviços, constituindo elemento essencial ao desenvolvimento e à prestação dos serviços terceirizados, sendo eles: a)­ Serviços de limpeza; b) ­ Serviços de conservação; c) ­ Serviços de segurança, de vigilância e de portaria; d) ­ Serviços de recepção; e) ­ Serviços de copeiragem; f) ­ Serviços de reprografia; g) ­ Serviços de telefonia; h) ­ Serviços de manutenção de prédios, de equipamentos, de veículos e de instalações; i) ­ Serviços de secretariado e secretariado executivo; j) ­ Serviços de auxiliar de escritório; k) ­ Serviços de auxiliar administrativo; l) ­ Serviços de office boy (contínuo); m) ­ Serviços de digitação; n) ­ Serviços de assessoria de imprensa e de relações públicas; o) ­ Serviços de motorista, no caso de os veículos serem fornecidos pelo próprio órgão licitante; p) ­ Serviços de ascensorista; q) ­ Serviços de enfermagem; e r) ­ Serviços de agentes comunitários de saúde. Parágrafo Primeiro ­ O disposto nesta Cláusula não autoriza outras formas de terceirização sem previsão legal. Parágrafo Segundo ­ As partes podem, a qualquer momento, mediante comunicação e acordos prévios, ampliar o rol de serviços elencados no caput. Cláusula Segunda - Considera-se cooperativa de mão-de-obra, aquela associação cuja atividade precípua seja a mera intermediação individual de trabalhadores de uma ou várias profissões (inexistindo assim vínculo de solidariedade entre seus associados), que não detenham qualquer meio de produção, e cujos serviços sejam prestados a terceiros, de forma individual (e não coletiva), pelos seus associados. Cláusula Terceira - A UNIÃO obriga-se a estabelecer regras claras nos editais de licitação, a fim de esclarecer a natureza dos serviços licitados, determinando, por conseguinte, se os mesmos podem ser prestados por empresas prestadoras de serviços (trabalhadores subordinados), cooperativas de trabalho, trabalhadores autônomos, avulsos ou eventuais;
+Página 48 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+Parágrafo Primeiro - É lícita a contratação de genuínas sociedades cooperativas desde que os serviços licitados não estejam incluídos no rol inserido nas alíneas "a" a "r" da Cláusula Primeira e sejam prestados em caráter coletivo e com absoluta autonomia dos cooperados, seja em relação às cooperativas, seja em relação ao tomador dos serviços, devendo ser juntada, na fase de habilitação, listagem contendo o nome de todos os associados. Esclarecem as partes que somente os serviços podem ser terceirizados, restando absolutamente vedado o fornecimento (intermediação de mão-de-obra) de trabalhadores a órgãos públicos por cooperativas de qualquer natureza. Parágrafo Segundo ­ Os editais de licitação que se destinem a contratar os serviços disciplinados pela Cláusula Primeira deverão fazer expressa menção ao presente termo de conciliação e sua homologação, se possível transcrevendo-os na íntegra ou fazendo parte integrante desses editais, como anexo. Parágrafo Terceiro - Para a prestação de serviços em sua forma subordinada, a licitante vencedora do certame deverá comprovar a condição de empregadora dos prestadores de serviços para as quais se objetiva a contratação, constituindo-se esse requisito, condição obrigatória à assinatura do respectivo contrato. DAS SANÇÕES PELO DESCUMPRIMENTO Cláusula Quarta ­ A UNIÃO obriga-se ao pagamento de multa (astreinte) correspondente a R$1.000,00 (um mil reais) por trabalhador que esteja em desacordo com as condições estabelecidas no presente Termo de Conciliação, sendo a mesma reversível ao Fundo de Amparo ao Trabalhador (FAT). Parágrafo Primeiro ­ O servidor público que, em nome da Administração, firmar o contrato de prestação de serviços nas atividades relacionadas nas alíneas "a" a "r" da Cláusula Primeira, será responsável solidário por qualquer contratação irregular, respondendo pela multa prevista no caput, sem prejuízo das demais cominações legais. Parágrafo Segundo ­ Em caso de notícia de descumprimento dos termos firmados neste ajuste, a UNIÃO, depois de intimada, terá prazo de 20 (vinte) dias para apresentar sua justificativa perante o Ministério Público do Trabalho. DA EXTENSÃO DO AJUSTE À ADMINISTRAÇÃO PÚBLICA INDIRETA Cláusula Quinta ­ A UNIÃO se compromete a recomendar o estabelecimento das mesmas diretrizes ora pactuadas em relação às autarquias, fundações públicas, empresas públicas e sociedades de economia mista, a fim de vincular todos os órgãos integrantes da administração pública indireta ao cumprimento do presente termo de conciliação, sendo que em relação às empresas públicas e sociedades de economia mista deverá ser dado conhecimento ao Departamento de Coordenação e Controle das Empresas Estatais ­ DEST, do Ministério do Planejamento, Orçamento e Gestão, ou órgão equivalente, para que discipline a matéria no âmbito de sua competência. DA HOMOLOGAÇÃO JUDICIAL DO AJUSTE Cláusula Sexta - As partes submetem os termos da presente conciliação à homologação do Juízo da MM. Vigésima Vara do Trabalho, para que o ajuste gere os seus efeitos jurídicos.
+
+Página 49 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+Cláusula Sétima - Os termos da presente avença gerarão seus efeitos jurídicos a partir da data de sua homologação judicial. Parágrafo único - Os contratos em vigor entre a UNIÃO e as Cooperativas, que contrariem o presente acordo, não serão renovados ou prorrogados. Cláusula Oitava - A presente conciliação extingue o processo com exame do mérito apenas em relação à UNIÃO, prosseguindo o feito quanto aos demais réus. Dito isto, por estarem as partes ajustadas e compromissadas, firmam a presente conciliação em cinco vias, a qual terá eficácia de título judicial, nos termos dos artigos 831, parágrafo único, e 876, caput, da CLT. Brasília, 05 de junho de 2003. GUILHERME MASTRICHI BASSO GUIOMAR RECHIA GOMES Procurador-Geral do Trabalho Vice-Procuradora-Geral do Trabalho BRASILINO SANTOS RAMOS FÁBIO LEAL CARDOSO Procurador-Chefe/PRT 10ª. Região Procurador do Trabalho MOACIR ANTONIO DA SILVA MACHADO Procurador-Geral da União HELIA MARIA DE OLIVEIRA BETTERO MÁRIOLUIZ GUERREIRO Sub-Procuradora-Regional da União­1ª. Região Advogado da União Testemunhas: GRIJALBO FERNANDES COUTINHO Presidente da Associação Nacional dos Magistrados da Justiça do Trabalho - ANAMATRAPAULO SÉRGIO DOMINGUES Presidente da Associação dos Juízes Federais do Brasil ­ AJUFE REGINA BUTRUS Presidente da Associação Nacional dos Procuradores do Trabalho ­ ANPT
+
+Página 50 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 ANEXO X PROPOSTA DE PREÇO
+SERVIÇO QTD. ESTIMADA VALOR UNITÁRIO VALOR GLOBAL
+
+Contratação de empresa de Tecnologia da Informação para a prestação de serviços de desenvolvimento de sistema de informação envolvendo manutenção corretiva, perfectiva, adaptativa e 2500 documentação do Sistema de PONTOS DE Informações Confea\CREA - SIC, em FUNÇÃO conformidade com o Edital e seus Anexos. *VALOR GLOBAL POR EXTENSO R$ .... (........)
+
+R$ .....
+
+R$ *...
+
+* Este é o valor que será considerado para efeitos de lances (VALOR GLOBAL) Validade desta proposta é 60 (sessenta) dias. Observações: a) A planilha final que será apresentada pela licitante vencedora deverá apresentar valor global não superior ao orçamento estimado pelo Confea, sob pena desclassificação; b) Enviar anexo, após a etapa de lances, com o valor atualizado, quando solicitado pela Pregoeira. c) Nos preços já estão computados os impostos, taxas, deslocamentos, infra-estrutura, avaliação de qualidade e demais despesas que, direta ou indiretamente tenham relação com objeto deste Projeto. d) O preço proposto é de exclusiva responsabilidade desta licitante e não poderemos pleitear quaisquer direito, na vigência do contrato, nenhuma alteração, sob a alegação de erro, omissão ou qualquer outro pretexto. Dados da Licitante: Razão social: ... CNPJ: ... Endereço completo: ... Telefone e fax: ... Nome do Banco: ...
+Página 51 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+Número do Banco: ... Agência: ... Número da conta corrente: ... Desde já declaramo-nos cientes de que o Confea procederá à retenção de tributos e contribuições nas situações previstas em lei, se houver. Dados do preposto para firmar o contrato: Nome completo: ... CPF: ... Carteira de Identidade: ... Estado civil: ... Nacionalidade: ...
+
+Local e data .............................. Assinatura e carimbo (representante legal da licitante)
+
+Observação: emitir em papel que identifique a licitante.
+
+Página 52 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+PREGÃO ELETRÔNICO Nº 018/2009 - Confea ANEXO XI MINUTA DO CONTRATO
+TERMO DE CONTRATO QUE ENTRE SI CELEBRAM O CONSELHO FEDERAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA E A EMPRESA ......, CONFORME PROCESSO (..../2009). O Conselho Federal de Engenharia, Arquitetura e Agronomia - Confea, neste ato denominado CONTRATANTE, com sede no SEPN, Quadra 508, Bloco "B", Ed. Adolfo Morales de Los Rios Filho, Asa Norte, 70740-542, Brasília - DF, inscrito no CNPJ (MF) sob o 33.665.647/0001-91, representado pelo seu Presidente, Eng. ................................, e, de outro lado a empresa ...................., inscrita no CNPJ (MF) sob o ..........................., estabelecida ................................, doravante denominada simplesmente CONTRATADA, neste ato representada pelo Sr.(a) .................................., portador(a) da Cédula de Identidade nº ................ SSP/..... e CPF (MF) nº ......................, de acordo com a representação legal que lhe é outorgada por ........................., tem entre si justo e avençado, e celebram o presente instrumento, de acordo com o Edital do Pregão Eletrônico 018/2009 e a proposta apresentada pela CONTRATADA, constantes do Processo CF 1329/2009, sujeitando-se CONTRATANTE e CONTRATADA às normas disciplinares da Lei nº 10.520/02 e da Lei nº 8.666/93, mediante as cláusulas que se seguem: 1. DO OBJETO Contratação de empresa de Tecnologia da Informação para a prestação de serviços de desenvolvimento de sistema de informação envolvendo manutenção corretiva, perfectiva, adaptativa e documentação do Sistema de Informações Confea\CREA - SIC, estimado em 2.500 (dois mil e quinhentos) pontos de função, sob demanda, em conformidade com o Edital do Pregão Eletrônico 018/2009. 2. DO VALOR DO CONTRATO 2.1. O valor total estimado deste contrato para 2.500 (dois mil e quinhentos) pontos de função é de R$ ....... (...................), sendo que o valor unitário para cada ponto é de R$ ..... (.......). 2.2. Os preços acima são fixos e irreajustáveis. 3. DO AMPARO LEGAL A lavratura do presente Contrato decorre da realização do Pregão Eletrônico 018/2009, realizado com fundamento na Lei nº 10.520, de 17 de julho de 2002, no Decreto n° 3.555, de 8 de agosto de 2000, e na Lei nº 8.666/93.
+Página 53 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+4. DOS LOCAIS PARA PRESTAÇÃO DOS SERVIÇOS E REGIME DE EXECUÇÃO 4.1. Os serviços objeto deste Contrato deverão ser executados nas instalações da CONTRATADA, na modalidade de Fábrica de Software, porém, quando houver necessidade de realizar manutenções corretivas nas dependências do CONTRATANTE, deverão ser executados nos endereços abaixo: 4.1.1. SEPN 508 - BLOCO A/B.- Brasília-DF - CEP 70.740-542. 4.1.2. SEPN 516 - BLOCO "A" - Brasília-DF - CEP 70.770-521 4.2. Os serviços prestados nas instalações do CONTRATANTE serão executados no horário de funcionamento do mesmo, podendo haver trabalho noturno ou nos fins de semana, em razão de aumento de demanda ou fato que o justifique, tais como antecipação de prazos de entrega por parte do usuário, implementação de rotinas que necessitem de paralisação dos serviços disponibilizados aos usuários, depuração de erros críticos entre outros, sem implicar nenhuma forma de acréscimo ou majoração nos valores dos serviços, razão pela qual será improcedente a reivindicação de restabelecimento de equilíbrio econômico-financeiro, bem com, horas-extras ou adicionais noturnos. 4.2.1. Os serviços a serem realizados aos sábados, domingos e feriados na Fábrica de Software não implicarão em nenhuma forma de acréscimo ou majoração nos valores dos serviços, razão pela qual será improcedente a reivindicação de restabelecimento de equilíbrio econômico-financeiro, bem com, horas-extras ou adicionais noturnos. 4.3. Os serviços realizados fora do ambiente do CONTRATANTE serão executados com recursos da CONTRATADA, conforme horário que definir, respeitadas as condições deste Projeto, notadamente, quanto ao uso de ferramentas, sistemas preconizados e prazos. 4.4. A CONTRATADA se obrigará a dimensionar o horário dos trabalhos de acordo com os parâmetros apontados, de modo a alcançar os resultados nos prazos previstos, observado o Cronograma aprovado pelo CONTRATANTE. 4.5. O regime de execução é o de empreitada por preço unitário. 5. DO PRAZO DE EXECUÇÃO 5.1. O período de execução do contrato será de 24 (vinte e quatro) meses, podendo ser prorrogado de acordo com a legislação e de comum acordo entre as partes, a partir da data de assinatura do Contrato. 5.2. O prazo para a CONTRATADA enviar cronograma para início das atividades será de 5 (cinco) dias úteis após assinatura do contrato. O cronograma deverá conter os itens definidos na visita técnica realizada anteriormente. 5.2.1. O CONTRATANTE terá 5 (cinco) dias úteis para aprovar o cronograma enviado pela CONTRATADA. 5.2.2. Caso o cronograma não seja aprovado pelo CONTRATANTE, a CONTRATADA terá mais 5 (cinco) dias úteis para readequá-lo. 5.3. A CONTRATADA terá 10 (dez) dias para iniciar as atividades após aprovação do cronograma por parte do CONTRATADA.
+Página 54 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+5.4. No prazo máximo de 30 (trinta) dias corridos, a contar da data da assinatura do contrato, a CONTRATADA deverá comprovar que possui, em Brasília/DF, estrutura de atendimento compatível com o volume e a característica dos serviços a serem prestados ao CONTRATANTE, representada, no mínimo, pelos profissionais e respectivas qualificações do item 9.9 do Anexo II do Edital. 5.5. A CONTRATADA deverá disponibilizar o sistema informatizado de controle de demandas 30 (trinta) dias a contar da data da assinatura do contrato. 6. DO PRAZO DE VIGÊNCIA 6.1. A vigência do contrato será de 24 (vinte e quatro) meses, a partir da assinatura, podendo ser prorrogado na forma da Lei, de acordo com o Edital do Pregão Eletrônico 018/2009 e seus Anexos. 6.2. Será publicado o seu extrato no Diário Oficial da União para sua eficácia. 7. DOS RECURSOS OPERACIONAIS 7.1. Ambiente para a execução dos serviços 7.1.1. Ambiente de Desenvolvimento: Ambiente de desenvolvimento e manutenção das aplicações. O seu funcionamento tem por base o controle de versão de produtos por meio de ferramenta especifica do tipo CVS; 7.1.2. Ambiente de Homologação: Ambiente que permite os testes necessários por parte do gestor da aplicação para o seu devido aceite. O seu funcionamento tem por base a não edição de arquivos para correção neste ambiente, pois todo processo de correção deve ocorrer no Ambiente de Desenvolvimento; 7.1.3. Ambiente de Produção: Ambiente que hospeda a aplicação em produção no CONFEA. O seu funcionamento tem por base a hospedagem somente da aplicação homologada pela Gerência de Tecnologia da Informação ou fiscal do contrato; 7.2. Recursos operacionais de software 7.2.1. O CONTRATANTE adota para seu grupo de ambientes as ferramentas relacionadas a seguir, para o desenvolvimento e manutenção do Sistema de Informações Confea/CREA: 7.2.1.1. Sistema Operacional: Windows 2003 e Windows 2008 Server; 7.2.1.2. Ferramentas de Desenvolvimento: Visual Studio 2005 e Eclipse; 7.2.1.3. Servidor de Aplicação: IIS 6.0 e Apache Tomcat 4.1.34, 7.2.1.4. Banco de Dados: Microsoft SQL Server 2005. 8. DA PROPRIEDADE INTELECTUAL 8.1. A CONTRATADA cederá ao CONTRATANTE, o direito patrimonial e a propriedade intelectual em caráter definitivo dos sistemas, módulos ou trechos desenvolvidos, e resultados produzidos em conseqüência deste Contrato. 8.1.1. Entende-se por resultados quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, diagramas, fontes dos códigos dos
+Página 55 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+programas em qualquer mídia, páginas na Intranet e Internet e documentação didática em papel ou em mídia eletrônica; 8.2. A CONTRATADA fica proibida de veicular e comercializar os produtos gerados relativos ao objeto deste Contrato, salvo se houver a prévia autorização por escrito do COTRATANTE. 9. DA GARANTIA 9.1. DA GARANTIA DOS SERVIÇOS 9.1.1. A garantia para os serviços prestados será obrigatória, e seu prazo será de 1 (um) ano, a contar da emissão do Termo de Aceite emitido pelo CONTRATANTE. 9.1.2. Durante o prazo de garantia, todos os eventuais erros ou falhas identificados deverão ser corrigidos pela CONTRATADA, sem ônus para o CONTRATANTE, mesmo em se tratando de softwares e outros ARTEFATOS já considerados aceitos pelo CONTRATANTE. 9.1.3. Durante o período de garantia, a CONTRATADA deverá, sob pena de ser incluída no cadastro de empresas suspensas de participar em licitação realizada pelo CONTRATANTE, atender aos chamados do CONTRATANTE no prazo máximo de 15 (quinze) dias corridos, contado da comunicação oficial. 9.1.4. Caso seja prorrogada a vigência e execução do Contrato a garantia prestada deverá ser prorrogada ou renovada, pelo período necessário, nos termos pactuados. 9.1.5. O direito do CONTRATANTE à garantia de um serviço cessará caso o software ou o ARTEFATO envolvido neste serviço seja alterado pelo CONTRATANTE ou por outros FORNECEDORES, a serviço do CONTRATANTE. Caso a própria CONTRATADA realize manutenções no software ou no ARTEFATO, permanece o direito do CONTRATANTE à garantia. 9.1.6. O prazo de garantia deverá ser respeitado pela CONTRATADA mesmo após o término do prazo de vigência do Contrato. 9.2. DA GARANTIA DO CONTRATO 9.2.1. A garantia deverá ser apresentada no ato da assinatura deste instrumento contratual, em uma das modalidades previstas no § 1° do artigo 56 da Lei 8.666/93. 9.2.2. Para a contratação será exigida garantia correspondente a 5% (cinco por cento) do valor da contratação, com validade para todo o período de execução do serviço, mediante a opção por uma das seguintes modalidades: 9.2.2.1. Caução em dinheiro ou títulos da dívida pública; 9.2.2.2. A garantia em apreço, quando em dinheiro, deverá ser efetuada na conta poupança do Conselho Federal de Engenharia, Arquitetura e Agronomia - CONFEA, na Caixa Econômica Federal - CEF (Banco 104), Agência 0007, Operação 003, Conta n° 3389-0; 9.2.2.3. Sobre a caução prestada em dinheiro incidirá, tão-somente, a atualização correspondente ao índice de variação do rendimento da caderneta de poupança para o 1º dia do mês, excluídos os juros, calculada proporcionalmente, quando for o caso, a
+Página 56 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+contar da data do depósito, ou do primeiro dia do mês em curso, inclusive, até o seu efetivo levantamento, exclusive. 9.2.3. Caso faça opção pela caução em títulos da dívida pública, a CONTRATADA deverá transferir a posse dos títulos para o CONTRATANTE até o adimplemento da obrigação contratual ou satisfação da sanção. 9.2.3.1. Neste caso deverá apresentar declaração formal de instituição bancária atestando a validade do título e que se compromete a adquirir o título do CONTRATANTE, no caso de execução da garantia em apreço. 9.2.3.2. Ainda, devem ser emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda. (Lei nº 11.079, de 30 de dezembro de 2004). 9.2.4. Caso faça opção pelo seguro-garantia, na forma da legislação aplicável, contendo o prazo de validade que deverá corresponder ao período de vigência do Contrato, acrescido de mais 30 dias, devendo ser tempestivamente renovado, se estendida ou prorrogada a vigência do contrato. 9.2.5. Caso faça opção pela fiança bancária contendo: 9.2.5.1. Prazo de validade, que deverá corresponder ao período de vigência deste Contrato, acrescido de mais 30 dias, devendo ser tempestivamente renovada se estendida ou prorrogada essa vigência; 9.2.5.2. Expressa afirmação do fiador de que, como devedor solidário, fará o pagamento ao CONTRATANTE, independentemente de interpelação judicial, caso o afiançado não cumpra suas obrigações; 9.2.5.3. Renúncia expressa do fiador ao benefício de ordem e aos direitos previstos nos artigos 827 e 838 do Código Civil; 9.2.5.4. Cláusula que assegure a atualização do valor afiançado. 9.2.6. Não apresentação do comprovante da garantia no prazo acima facultará ao CONTRATANTE a rescisão unilateral, sujeitando-se a contratada às sanções administrativas cabíveis. 9.2.7. A garantia somente será liberada após o perfeito cumprimento deste Contrato, no prazo de até 30 (trinta) dias, contados após a data de emissão do Termo de Recebimento Definitivo. 9.2.8. A perda da garantia em favor do CONTRATANTE, por inadimplemento das obrigações contratuais, far-se-á de pleno direito, independentemente de qualquer procedimento judicial e sem prejuízo das demais sanções previstas neste Contrato. 10. DO PROCEDIMENTO DE SEGURANÇA 10.1. Os procedimentos mínimos de segurança exigidos da empresa CONTRATADA serão: 10.1.1. Credenciar junto ao CONTRATANTE, seus profissionais autorizados a retirar e a entregar documentos, bem como daqueles que venham a ser designados para prestar serviços nas dependências do CONTRATANTE.
+Página 57 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+10.1.2. Identificar qualquer equipamento da CONTRATADA que venha a ser instalado nas dependências do CONTRATANTE, utilizando placas de controle patrimonial, selos de segurança, etc. 10.1.3. Manter sigilo absoluto sobre informações, dados e documentos integrantes dos serviços a serem executados no CONTRATANTE. 10.1.4. Abster-se, qualquer que seja a hipótese, de veicular publicidade ou qualquer outra informação acerca das atividades objeto do projeto, sem prévia autorização por escrito. 10.1.5. Observar, rigorosamente, todas as normas e procedimentos de segurança implementados no ambiente de Tecnologia da Informação - TI do CONTRATANTE. 10.1.6. Adotar critérios adequados para o processo seletivo dos profissionais, com o propósito de evitar a incorporação de pessoas com características e/ou antecedentes que possam comprometer a segurança ou credibilidade do CONTRATANTE. 10.1.7. Comunicar com antecedência mínima de 3 (três) dias ao Fiscal do CONTRATANTE qualquer ocorrência de transferência, remanejamento ou demissão, para que seja providenciada a revogação de todos os privilégios de acesso aos sistemas, informações e recursos do CONTRATANTE. 10.1.8. Manter sigilo sobre todos os ativos de informações e de processos do CONTRATANTE. 11. SUPERVISÃO E CONTROLE DOS SERVIÇOS 11.1. A execução do contrato será fiscalizada pelo Fiscal do Contrato,, cumprindo a este: 11.1.1. Registrar as ocorrências relacionadas com a execução dos serviços, determinando junto a CONTRATADA o que for necessário à regularização das falhas ou defeitos observados. 11.1.2. Analisar todos os documentos exigidos para o devido atesto da Nota Fiscal de Serviços e Fatura referente aos serviços realizados pela empresa CONTRATADA. 11.1.3. Encaminhar à unidade responsável o(s) eventual(ais) recurso(s) das empresa CONTRATADA, acerca da aplicação de penalidades, com vistas à sua apreciação. 11.2. O CONTRATANTE poderá exigir o afastamento de qualquer profissional ou representante da empresa CONTRATADA que venha causar embaraço à fiscalização do contrato, ou em razão de procedimentos ou atitudes incompatíveis com o exercício de suas funções. 12. DOS ENCARGOS DO CONTRATANTE 12.1. Caberá ao CONTRATANTE: 12.1.1. Exercer o efetivo acompanhamento da execução do Contrato; 12.1.2. Fornecer à CONTRATADA todas as informações e esclarecimentos necessários à plena execução dos serviços objeto deste Contrato; 12.1.3. Indicar até o 5° (quinto) dia útil após a assinatura do Contrato, o nome do empregado que ficará responsável pela fiscalização do contrato bem como seus contatos;
+Página 58 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+12.1.4. Emitir, antes da execução de qualquer serviço, a competente Ordem de Serviço OS, definindo claramente os requisitos técnicos, administrativos e financeiros relativos ao serviço objeto deste Contrato. 12.1.5. Autorizar as propostas de execução de serviços apresentadas pela(s) contratada(s) nas OS desde que compatíveis com a solicitação. 12.1.6. Homologar os serviços prestados constantes das ordens de serviço, após a aferição da aderência às especificações e da qualidade dos serviços, atestando as respectivas notas fiscais. 12.1.7. Notificar, por escrito, a CONTRATADA a ocorrência de eventuais desconformidades no curso da execução dos serviços, fixando prazo razoável, em comum acordo junto ao CONTRATANTE, para sua correção. 12.1.8. Providenciar espaço, meios adequados, para eficiente prestação dos serviços contratados de acordo com o item 1.2.2 do Anexo II do Edital. 12.1.9. Aprovar o cronograma enviado pela CONTRATADA em até 5 (cinco) dias úteis. 12.1.10. Informar as normas disciplinares vigentes no CONFEA, exigindo sua fiel observância, especialmente quanto à utilização e segurança das instalações. 13. DOS ENCARGOS DA CONTRATADA 13.1. Caberá a Contratada: 13.1.1. Responsabilizar-se integralmente pelos serviços contratados, nos termos da legislação vigente; 13.1.2. Notificar ao CONTRATANTE da ocorrência de fusão, cisão ou incorporação, no prazo máximo de 30 (trinta) dias, contados da data do evento; 13.1.3. Manter, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas na licitação; 13.1.4. Comunicar ao CONTRATANTE, por escrito, quaisquer anormalidades, que ponham em risco o êxito e o cumprimento dos prazos de execução dos serviços, propondo as ações corretivas necessárias, observando sempre os prazos razoáveis, definidos em comum acordo junto ao Confea, para este fim; 13.1.5. Assumir total responsabilidade pelo sigilo das informações, dados, códigos-fonte, artefatos, contidos em quaisquer mídias e documentos que seus empregados ou prepostos vierem a obter em função dos serviços prestados no CONFEA, respondendo pelos danos que eventual vazamento de informação, decorrentes de ação danosa ou culposa, nas formas de negligência, imprudência ou imperícia, venha a ocasionar ao CONTRATANTE ou a terceiros; 13.1.5.1. Assinar declaração de manutenção de sigilo e ciência das normas de segurança vigentes no CONTRATANTE, a ser assinado pelo representante legal da CONTRATADA e seus empregados diretamente envolvidos na contratação, conforme Anexo IV do Edital. 13.1.6. Prover e gerir infra-estrutura própria de hardware e software, bem como recursos físicos necessários à execução dos serviços contratados, no caso em que os serviços sejam prestados nas dependências da CONTRATADA.
+Página 59 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+13.1.6.1 Entende-se por infra-estrutura de hardware e software, todo hardware e licenças dos softwares necessários para a realização do serviço; 13.1.7. Garantir que todas as entregas efetuadas estejam compatíveis e totalmente aderentes aos produtos utilizados pelo CONTRATANTE, conforme autorizado na Ordem de Serviço - OS. 13.1.8. O CONTRATANTE terá ampla liberdade de atualizar as versões dos sistemas operacionais, linguagens de desenvolvimento ou ferramentas de apoio ao desenvolvimento (de sua propriedade ou de seu direito de uso), segundo sua necessidade e conveniência administrativa, cabendo, nestes casos, à CONTRATADA manter a compatibilidade, evoluindo e adaptando-se à respectiva mudança, às suas expensas, sem quaisquer custos adicionais para o CONTRATANTE. 13.1.9. Adquirir e operacionalizar as ferramentas e tecnologias adotadas pelo CONTRATANTE conforme item 7.2 deste contrato, em seu ambiente, incluindo as versões "cliente", às suas expensas e sem quaisquer custos para o CONTRATANTE. 13.1.10. Promover o repasse de conhecimento aos novos profissionais CONTRATADA, evitando o prejuízo à continuidade e qualidade dos serviços; da
+
+13.1.11. Repassar todo o conhecimento adquirido ou produzido na execução dos serviços para os técnicos do CONTRATANTE. 13.1.12. Disponibilizar, caso seja demandado pelo CONTRATANTE, suas dependências e seu ambiente de hardware e software para que sejam efetuadas análises e auditorias técnica e / ou de segurança. 13.1.13. Prestar as informações e esclarecimentos solicitados, em até 5 (cinco) dias úteis, a contar da solicitação feita pelo Fiscal do Contrato. 13.1.14. Reportar ao Fiscal do Contrato quaisquer anormalidades, erros e irregularidades observados no desenvolvimento dos serviços contratados para não acarretar transtornos, descontinuidade e ônus. 13.1.15. Responsabilizar-se pelos danos causados diretamente ao CONTRATANTE ou a terceiros decorrentes de sua culpa ou dolo quando da execução dos serviços, não excluindo ou reduzindo essa responsabilidade à fiscalização e/ou ao acompanhamento realizados pelo CONTRATANTE; 13.1.16. Indenizar os prejuízos e reparar os danos causados ao CONTRATANTE e a terceiros por seus profissionais na execução do Contrato. 13.1.17. Disponibilizar sistema informatizado de controle de demandas visando a visibilidade do processo e do tratamento das demandas, tanto para o CONTRATANTE como para a CONTRATADA (conforme características contidas no Anexo II do Edital). 13.1.18. Assinar o contrato em até 5 (cinco) dias úteis, após regular convocação pelo CONTRATANTE. 13.1.19. Enviar cronograma para o início das atividades em até 5 (cinco) dias úteis após a assinatura do Contrato. 13.1.20. Iniciar as atividades em até 10 (dez) dias após aprovação do cronograma por parte do CONTRATANTE.
+
+Página 60 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+13.1.21. Realizar os testes e consultar documentações necessárias a fim de detectar e corrigir erros potenciais ou reais, garantindo assim a funcionalidade e qualidade dos produtos gerados. 13.1.22. A Empresa CONTRATADA se compromete a alocar, em todos os serviços contratados pelo CONFEA, profissionais com perfis e qualificações adequados, mantendo ao longo da vigência do contrato todas as condições que apresentaram em sua habilitação e qualificação no processo licitatório. 13.1.23. A qualificação dos profissionais deverá ser comprovada por meio da apresentação de seus currículos, no ato da assinatura do Contrato e quando solicitada pelo CONFEA. 13.1.24. A CONTRATADA deverá selecionar, designar e manter profissionais cuja qualificação esteja em conformidade com os tipos de serviços descritos nas Solicitações de Atendimento (Anexo VIII do Edital) observando o certificado apropriado emitido pelos fabricantes da linguagem, ferramenta ou tecnologia, sempre que a atividade a ser executada assim o exigir. 13.1.25. A CONTRATADA deverá alocar profissionais especialistas e certificados na linguagem, ferramenta, tecnologia ou processo sempre que o CONFEA solicitar. 13.1.26. A CONTRATADA se compromete a garantir a alocação de profissionais devidamente capacitados para solucionar problemas relacionados à prestação de serviços e ocorrências no SIC e seus módulos, incluindo os que exijam a presença física nas dependências do CONFEA. 13.1.27. Os profissionais a serem envolvidos, para a execução dos serviços referentes ao desenvolvimento de sistemas de informação, deverão estar capacitados nos recursos que compõem o ambiente em que o Sistema de Informação Confea/Crea-SIC encontrase disponível no CONFEA, descritos no Item 09 (Recursos Operacionais do CONFEA) do Anexo I ­ Termo de Referência. 13.1.28. Garantir a execução dos serviços sem interrupção, substituindo, caso necessário, sem ônus para o CONFEA, qualquer profissional por outro de mesma qualificação ou superior, em até 10 dias úteis; 13.1.29. Selecionar e alocar, na prestação dos serviços contratados, profissionais em conformidade com as exigências dos serviços a serem realizados, e com os perfis adequados; 13.1.30. Apresentar ao CONTRATANTE, sempre que solicitado, a comprovação da experiência e da formação dos profissionais designados para atuar na execução dos serviços em até 5 (cinco) dias úteis. 13.1.31. Manter os seus profissionais informados quanto às normas disciplinares do CONTRATANTE, exigindo sua fiel observância, especialmente quanto à utilização e segurança das instalações; 13.1.32. Manter os seus profissionais convenientemente trajados e identificados por crachás nas dependências do CONTRATANTE; 13.1.33. Caso a CONTRATADA não possua sede em Brasília-DF, esta deverá manter filial regularmente inscrita em Brasília/DF com no mínimo as características conforme item 9.9 do Anexo II do Edital durante a vigência do contrato, sob pena de rescisão e considerado inexecução total.
+Página 61 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+13.1.33.1. No prazo máximo de 30 (trinta) dias corridos, a contar da data da assinatura do contrato, a CONTRATADA deverá comprovar que possui, em Brasília/DF, estrutura de atendimento compatível com o volume e a característica dos serviços a serem prestados ao CONTRATANTE, representada, no mínimo, pelos profissionais e respectivas qualificações do item 9.9 do Anexo II do Edital. 14. DAS OBRIGAÇÕES SOCIAIS, COMERCIAIS E FISCAIS 14.1. À CONTRATADA caberá, ainda: 14.1.1. Responsabilizar-se pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução deste Contrato; 14.1.2. Assumir a responsabilidade por todos os encargos fiscais, previdenciários e obrigações previstas na legislação social e trabalhista em vigor, obrigando-se a saldálos na época própria; 14.1.2.1 A inadimplência pela CONTRATADA dos encargos estabelecidos no item anterior não transfere a responsabilidade por este pagamento à Administração do CONTRATANTE, nem poderá onerar o objeto deste Contrato, razão pela qual a CONTRATADA renuncia expressamente qualquer vínculo de solidariedade, ativa ou passiva, para com o CONTRATANTE. 14.1.3. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando forem vítimas os seus profissionais no desempenho dos serviços ou em conexão com eles, ainda que acontecido nas dependências do CONTRATANTE;
+
+15. DAS OBRIGAÇÕES GERAIS 15.1. Deverá a Contratada observar, também, o seguinte: 15.1.1. É expressamente proibida, a veiculação de publicidade acerca do contrato, salvo se houver prévia autorização da Administração do CONTRATANTE. 15.1.2. É expressamente proibida a contratação de colaborador pertencente ao quadro de pessoal do Contratante durante a vigência deste Contrato. 15.1.3. Não será permitida a subcontratação, cessão ou transferência total do objeto do presente Edital. A realização de fusão, cisão ou incorporação só será admitida com consentimento prévio e por escrito do licitador e desde que não afetem a boa execução do contrato firmado; 16. DO ACOMPANHAMENTO E DA FISCALIZAÇÃO 16.1. O contrato será acompanhado e fiscalizado pelo Fiscal do Contrato, permitida a contratação de terceiros para assisti-lo e subsidiá-lo de informações pertinentes a essa atribuição. 16.1.1. A designação do fiscal do contrato dar-se-á por meio de Portaria da Superintendência Administrativa e Financeira - SAF.
+Página 62 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+16.1.2. As decisões e providências que ultrapassarem a competência do Fiscal do Contrato deverão ser solicitadas à Superintendência Administrativa e Financeira do CONTRATANTE, em tempo hábil para a adoção das medidas convenientes. 16.2. A CONTRATADA deverá manter preposto, aceito pelo CONTRATANTE, durante o período de vigência do Contrato, para representá-la administrativamente sempre que for necessário, devendo substituí-lo a qualquer tempo, mediante requisição do Contratante. 16.3. A CONTRATADA ficará sujeita à mais ampla e irrestrita fiscalização, obrigando-se a prestar todos os esclarecimentos porventura requeridos pelo responsável pelo acompanhamento dos serviços nomeado pelo CONTRATANTE. 17. DA ATESTAÇÃO A atestação das Faturas caberá ao Fiscal do Contrato ou a outro empregado designado para esse fim. 18. DA DESPESA 18.1. As despesas decorrentes da contratação objeto deste Pregão Eletrônico correrão à conta dos recursos consignados na Conta: 3.1.32.28 18.2. Nos exercícios seguintes, as despesas correrão à conta de dotações orçamentárias próprias, consignadas nos respectivos Orçamentos Anuais, ficando o CONTRATANTE obrigado a apresentar, no início de cada exercício, a respectiva Nota de Empenho estimativa e, havendo necessidade, emitir Nota de Empenho complementar, respeitada a mesma classificação orçamentária. 19. DO PAGAMENTO 19.1. A Contratada deverá apresentar a respectiva Nota Fiscal/Fatura relativa aos serviços efetivamente realizados em cada mês, apurados ao final destes. Não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. O pagamento somente será efetuado após o ateste do fiscal do contrato do CONTRATANTE, por meio do Termo de Aceite - Anexo VII. 19.1.1. As faturas serão atestadas em até 20 (vinte) dias contados a partir da data de entrega ao CONTRATANTE. 19.2. Os pagamentos serão efetuados pelo CONTRATANTE, por meio de Ordem Bancária, em até 20 (vinte) dias contados a partir do atesto da Nota Fiscal pelo Fiscal do Contrato, mediante depósito no Banco ...... Agência ....., conta corrente nº...... da Contratada, ou por meio de boleto, desde que manifestado pela empresa vencedora antes da celebração deste contrato, 19.3. Somente serão pagos os quantitativos efetivamente confirmados pelo Fiscal do Contrato. 19.4. O CONTRATANTE reserva-se o direito de recusar o pagamento se, no ato da atestação, os serviços executados não estiverem em perfeitas condições de funcionamento ou de acordo com as especificações apresentadas e aceitas.
+Página 63 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+19.5. O CONTRATANTE poderá deduzir do montante a pagar os valores correspondentes a multas ou indenizações devidas pela CONTRATADA nos termos deste Contrato. 19.6. Nenhum pagamento será efetuado à CONTRATADA enquanto pendente de liquidação de qualquer obrigação financeira, sem que isso gere direito a reajustamento de preços ou correção monetária. 19.7. Por ocasião dos pagamentos deverá ser observado, ainda, se a CONTRATADA encontra-se em dia com suas obrigações, especialmente, perante o INSS e ao FGTS, e quanto aos tributos Federal e à Dívida Ativa da União. 19.7.1. Ainda, para o referido pagamento o CONTRATANTE poderá solicitar a Certidão Negativa de Débitos junto à Receita do DF; 19.7.2. O CONTRATANTE poderá consultar a regularidade por meio de consulta no SICAF, caso a CONTRATADA esteja cadastrada no sistema, para os documentos lá referidos. 19.7.3. O prazo de pagamento será contado a partir da data final do período de adimplemento de cada parcela. 19.8. O fornecedor deverá emitir nota fiscal com CNPJ idêntico ao apresentado para fins de habilitação. 19.9. Nos casos de eventuais atrasos de pagamento, desde que a CONTRATADA não tenha concorrido de alguma forma para tanto, fica convencionado que a taxa de compensação financeira devida pelo CONTRATANTE, entre a data acima referida e a correspondente ao efetivo pagamento, será a seguinte: EM = I x N x VP Onde: EM = Encargos moratórios; N = Número de dias entre a data prevista para o pagamento e a do efetivo pagamento; VP = Valor a ser pago. I = Índice de compensação financeira = 0,0001644, assim apurado: I = (TX) I = (6/100) I = 0,0001644 365 365 TX = Percentual da taxa anual = 6%. 19.10. A compensação financeira prevista nesta condição será incluída em fatura a ser apresentada posteriormente. 19.11. Caso a Contratada seja optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte ­ SIMPLES, deverá apresentar, juntamente com a Nota Fiscal, a devida comprovação, a fim de evitar a retenção na fonte dos tributos e contribuições, de acordo com a Lei nº 9.317, de 5 de dezembro de 1996 e Lei Complementar nº 123, de 2006.
+Página 64 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+20. DA ALTERAÇÃO DO CONTRATO Este Contrato poderá ser alterado nos casos previstos no art. 65 da Lei 8.666/93, desde que haja interesse da Administração do CONTRATANTE, com a apresentação das devidas justificativas. 21. DO AUMENTO OU SUPRESSÃO 21.1. No interesse da Administração do CONTRATANTE, o valor inicial atualizado deste Contrato poderá ser aumentado ou suprimido até o limite de 25% (vinte e cinco por cento), conforme disposto nos parágrafos 1º e 2º do artigo 65 da Lei nº 8.666/93. 21.2. A CONTRATADA fica obrigada a aceitar, nas mesmas condições licitadas, os acréscimos ou supressões que se fizerem necessários, até o limite ora previsto, calculado sobre o valor a ser contratado. 21.3. Nenhum acréscimo ou supressão poderá exceder o limite estabelecido nesta cláusula, salvo as supressões resultantes de acordo celebrado entre as partes contratantes. 22. DAS PENALIDADES 22.1. Com fundamento no artigo 7º da Lei nº 10.520/2002, no art. 28 do Decreto n.º 5.450/2005 e nos artigos 86 e 87 da Lei n.º 8.666/93, a Contratada ficará sujeita às seguintes penalidades: 22.1. Advertência formal; 22.2. multa, conforme abaixo descrito 22.2.1. Para efeito de aplicações de penalidades em multa, às infrações são atribuídos graus e valores conforme a tabela abaixo:
+Inciso
+I II
+
+Descrição
+Não enviar cronograma no prazo. Não iniciar as atividades no prazo.
+
+Penalidade
+Multa de 1% (um por cento) por dia de atraso, limitada a 10% (dez por cento), calculada sobre o valor total do contrato. Multa de 1% (um por cento) por dia de atraso, limitada a 10% (dez por cento), calculada sobre o valor total do contrato. Multa de 1% (um por cento) por dia de atraso, limitada a 10% (dez por cento), calculada sobre o valor total do contrato. Podendo o contrato ser rescindido após os 10 dias de atraso. Multa de 0,05% (cinco centésimos por cento) por dia de atraso, limitada a 0,5% (meio por cento), calculada sobre o valor total do contrato. Multa de 0,005% (cinco milésimos por cento) por dia de atraso, limitada a 2%, calculada sobre o valor total do contrato. Multa de 0,05% (cinco centésimos por cento) por dia de atraso, limitada a 5%, calculada sobre o valor total do contrato.
+
+III
+
+Não instalar estrutura em Brasília/DF no prazo. Não disponibilizar sistema informatizado de controle de no prazo. Descumprir prazo estabelecido para o recebimento ou a entrega Manutenção Perfectiva Baixa Criticidade (item 3.5.1 Anexo II) Média Criticidade (item 3.5.1 Anexo II)
+
+IV V
+
+Página 65 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+de produtos provindos de Ordens de Serviços
+
+Alta Criticidade (item 3.5.1 Anexo II) Baixa Criticidade Manutenção Corretiva Média Criticidade Alta Criticidade Baixa Criticidade Manutenção Adaptativa Média Criticidade Alta Criticidade
+
+Multa de 0,1% (um décimo por cento) por dia de atraso, limitada a 5%, calculada sobre o valor total do contrato. Multa de 0,05% (cinco centésimos por cento) por dia de atraso, limitada a 5%, calculada sobre o valor total do contrato. Multa de 0,1% (um décimo por cento) por dia de atraso, limitada a 10%, calculada sobre o valor total do contrato. Multa de 0,5% (cinco décimos por cento) por dia de atraso, limitada a 10%, calculada sobre o valor total do contrato. Multa de 0,05% (cinco centésimos por cento) por dia de atraso, limitada a 5%, calculada sobre o valor total do contrato. Multa de 0,1% (um décimo por cento) por dia de atraso, limitada a 10%, calculada sobre o valor total do contrato. Multa de 0,5% (cinco décimos por cento) por dia de atraso, limitada a 10%, calculada sobre o valor total do contrato. Multa de 0,001% (um milésimo por cento) por hora de atraso, limitada a 1% calculada sobre o valor total do contrato. Multa de 0,005% (cinco milésimos por cento) por hora de atraso, limitada a 1% calculada sobre o valor total do contrato.
+
+VI
+
+Descumprir prazo contido na tabela de prazos de serviço (item 6.1) para atendimento emergencial de serviços em garantia. (PRAZO MÁXIMO PARA A SOLUÇÃO DA CAUSA DO PROBLEMA)
+
+Baixa Criticidade
+
+Manutenção Corretiva
+
+Média Criticidade
+
+Alta Criticidade
+
+Multa de 0,05% (cinco centésimos por cento) por hora de atraso, limitada a 1% calculada sobre o valor total do contrato.
+
+VII
+
+Executar o contrato de maneira insatisfatória ou de modo parcial.
+
+Multa de 5% (cinco por cento) calculada sobre o valor total do contrato. Multa de 10% (dez por cento) calculada sobre o valor total do contrato.
+
+VIII
+
+Deixar de executar o contrato de modo total. Deixar de substituir tempestivamente profissional(is) que tenha(m) se ausentado do local de prestação dos serviços ou profissional que seja considerado inapto para os serviços a serem prestados, seja por incapacidade técnica, atitude inconveniente ou falta de urbanidade ou que venha a transgredir as normas disciplinares ou ao código de ética do CONFEA Alterar ou apagar sem autorização do CONFEA ou danificar qualquer base de dados ou sistema em produção. Deixar de encaminhar à GTI, no prazo de 10 (dez) dias úteis após o recebimento da Solicitação de Atendimento, uma Proposta para o serviço, conforme item 3.3 do Anexo II Deixar de apresentar documentação regular para tal finalidade
+
+IX
+
+Multa de 0,05% (cinco centésimos por cento) sobre o valor total do contrato.
+
+X
+
+Multa de 10% (dez por cento) calculada sobre o valor total do contrato. Multa de 0,005% (cinco milésimos por cento) por dia de atraso, limitada a 1% calculada sobre o valor total do contrato Multa de 0,05% (cinco centésimos por cento) por hora de atraso, limitada a 1% calculada sobre o valor total do contrato.
+
+XI
+
+XII
+
+Página 66 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+XIII
+
+Não manter sigilo das informações que seus empregados ou prepostos vierem a obter em função dos serviços prestados no CONFEA, decorrentes de ação danosa ou culposa, nas formas de negligência, imprudência ou imperícia. Deixar de prover e gerir infra-estrutura própria de hardware e software, bem como recursos físicos necessários à execução dos serviços contratados. Deixar de apresentar as informações e esclarecimentos solicitados no prazo. Manter empregado sem qualificação para executar os serviços contratados. Descumprir as normas disciplinares e Política de Segurança do CONFEA. Não manter seus profissionais convenientemente trajados e identificados por crachás nas dependências do CONFEA.
+
+Multa de 10% (dez por cento) calculada sobre o valor total do contrato. Multa de 0,05% (cinco centésimos por cento) por hora de atraso, limitada a 1% calculada sobre o valor total do contrato. Multa de 0,005% (cinco milésimos por cento) por ocorrência, limitada a 1% calculada sobre o valor total do contrato Multa de 0,005% (cinco milésimos por cento) por dia de atraso, limitada a 1% calculada sobre o valor total do contrato Multa de 0,05% (cinco centésimos por cento) calculada sobre o valor total do contrato. Multa de 0,005% (cinco milésimos por cento) por dia de atraso, limitada a 1% calculada sobre o valor total do contrato Multa de 0,05% (cinco centésimos por cento) calculada sobre o valor total do contrato.
+
+XIV
+
+XV
+
+XVI
+
+XVII
+
+XVIII
+
+XIX
+
+Acumular 3 (três) advertências
+
+22.3. Multa de 30% (trinta por cento) sobre o valor do contrato em caso de inexecução total da obrigação assumida; 22.4. Suspensão temporária do direito de participar de licitação e impedimento de contratar com o Confea, pelo prazo de até 2 (dois) anos; 23. DA RESCISÃO 23.1. Será passível de rescisão contratual o descumprimento aos itens do Edital; 23.2. A inexecução total ou parcial do Contrato enseja a sua rescisão, conforme disposto nos artigos 77 a 80 da Lei nº 8.666/93. 23.3. A rescisão do Contrato poderá ser: 23.3.1. determinada por ato unilateral e escrito da Administração do CONTRATANTE, nos casos enumerados nos incisos I a XII e XVII do artigo 78 da Lei mencionada, notificando-se a CONTRATADA com a antecedência mínima de 30 (trinta) dias; 23.3.2. amigável, por acordo entre as partes, reduzida a termo no processo da licitação, desde que haja conveniência para a Administração do CONTRATANTE; 23.3.3. judicial, nos termos da legislação vigente sobre a matéria. 23.4. A rescisão administrativa ou amigável deverá ser precedida de autorização escrita e fundamentada da autoridade competente. 23.4.1. Os casos de rescisão contratual serão formalmente motivados nos autos do processo, assegurado o contraditório e a ampla defesa. 24. DA VINCULAÇÃO AO EDITAL E À PROPOSTA DA CONTRATADA É parte integrante deste Contrato, independente de sua transcrição, a integralidade do processo CF-1329/2009, vinculado aos termos do Pregão Eletrônico 018/2009, cuja
+Página 67 de 68
+
+CFFls.
+
+1329/2009
+Rubrica
+
+Matrícula
+
+realização decorre da autorização do Senhor Superintendente deste Conselho, e da proposta da CONTRATADA. 25. DO FISCAL O fiscal do contrato será um(a) empregado(a) designado(a) por meio de Portaria. 26. DO FORO As questões decorrentes da execução deste Instrumento, que não possam ser dirimidas administrativamente, serão processadas e julgadas na Seção Judiciária do Distrito Federal, com exclusão de qualquer outro por mais privilegiado que seja. E, para firmeza e validade do que foi pactuado, lavrou-se o presente Contrato em 2 (duas) vias de igual teor e forma, para que surtam um só efeito, às quais, depois de lidas, são assinadas pelos representantes das parte, CONTRATANTE e CONTRATADA, e pelas testemunhas abaixo. Brasília - DF, em de de 2009. rubrica Contratada rubrica Contador José Paulo Pinto Gonçalves Gerente Financeiro - GFI ­ Confea
+
+rubrica Eng. Civil Marcos Túlio de Melo Presidente ­ Confea rubrica Adv. Luiz Gustavo Souza Moura Superintendente - SAF ­ Confea Flávio Garcia de C. Melo Gerente da GTI ­ Confea rubrica
+
+Visto Jurídico
+
+Página 68 de 68
+
+

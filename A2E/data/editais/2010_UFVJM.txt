@@ -1,0 +1,1441 @@
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI BR 367, nº 5.000 Diamantina - Minas Gerais CEP: 39.100-000 Fone: 038-3532 1260
+
+EDITAL DE PREGÃO ELETRÔNICO Nº 070/2010 SISTEMA DE REGISTRO DE PREÇOS PROCESSO Nº 23086.001982/2010-30
+
+1. PREÂMBULO A Universidade Federal dos Vales do Jequitinhonha e Mucuri, Autarquia Federal, com sede na Rua da Glória, 187 ­ Centro, Diamantina/MG, através de seu Pregoeiro e sua Equipe de Apoio, torna público, para conhecimento dos interessados, que se encontra aberta a Licitação por PREGÃO ELETRÔNICO n° 070/2010, NO SISTEMA DE REGISTRO DE PREÇOS, do tipo MENOR PREÇO POR ITEM, observadas as disposições do Decreto n° 3.931/2001, Decreto n° 4.342/2002, Decreto n° 5.450/2005, da Lei n° 10.520/2002, Decreto nº 1.070/1994, Decreto 7.174/2010, Lei Complementar 123 de 14 de dezembro de 2006, Decreto 6.204/2007, Lei n° 8.666/1993, IN 004 de 19 de maio de 2008, IN 002 de 30 de abril de 2008 e suas alterções e ainda as condições estipuladas neste Edital; 2. OBJETO 2.1. Implantação do Sistema de Registro de Preços para a contratação de empresa especializada na prestação de serviços de desenvolvimento de sistemas de informação e portais; manutenção corretiva, adaptativa, evolutiva, perfectiva e documentação e serviços especializados de mensuração de sistemas de informação, conforme quantidades e especificações constantes do Termo de Referência em anexo; 2.2. Implantação do Sistema de Registro de Preços para a contratação de empresa especializada contagem de pontos de função, conforme quantidades e especificações constantes do Termo de Referência em anexo; 2.3. A Ata de Registro de Preços terá validade de 12 (doze) meses. 2.4. A existência do Registro de preços não obriga a Administração a firmar as futuras contratações,
+sendo-lhe facultada a realização de procedimento específico para aquisição pretendida, sendo assegurado ao beneficiário desse registro a preferência de fornecimento, em igualdade de condições.
+
+2.5. Os ANEXOS QUE COMPÕEM O EDITAL ESTÃO DISPONÍVEIS EM www.ufvjm.edu.br, link Licitações e Contratos ­ Pregões Eletrônicos 2010
+
+3. DO EDITAL 3.1. A Empresa interessada em participar desta Licitação terá que examinar o Edital e Anexos, disponíveis no sitio da Universidade Federal dos Vales do Jequitinhonha e Mucuri ­ UFVJM, no endereço: www.ufvjm.edu.br. 3.1.1. Alegações de desconhecimento das suas disposições não serão aceitas para justificar eventuais divergências ou erros existentes em seus Documentos de Habilitação ou na Proposta. 3.2. Só terá valor legal para efeito do Processo Licitatório o Edital e Anexos disponibilizados conforme item 3.1, valendo as demais versões, inclusive a do sitio: www.comprasnet.gov.br, apenas como divulgação; Impugnação do Edital:
+
+3.3.
+
+1
+
+3.3.1.
+
+Qualquer pessoa, física ou jurídica, é parte legítima para impugnar este Edital, desde que, com antecedência de até 02 (dois) dias úteis antes da data fixada para abertura da sessão pública, artigo 18, Dec. 5.450/2005; 3.3.1.1. O envio deverá ser feito eletronicamente para o e-mail: natalia.santos@ufvjm.edu.br, estando sua eficácia igualmente sujeito ao envio via fax (38) 3532-1261, dentro do prazo legal;
+
+3.3.2.
+
+Caberá ao Pregoeiro e sua Equipe de apoio decidir sobre a petição interposta, no prazo de 24 (vinte e quatro) horas, contadas da data do recebimento da petição, § 1º do artigo 18 do Decreto 5.450/2005; Quando acolhida a petição contra este Edital, será designada nova data para a realização deste certame; Os pedidos de esclarecimentos referentes ao processo licitatório deverão ser enviados ao Pregoeiro, até 03 (três) dias úteis anteriores a data fixada para abertura da sessão pública, exclusivamente por meio eletrônico, através do e-mail: natalia.santos@ufvjm.edu.br, ficando sujeita ao envio via fax (38) 3532 1261, dentro do prazo legal (artigo 19 do Decreto 5.450/2005);
+
+3.3.3. 3.3.4.
+
+4. DO ATO DE DESIGNAÇÃO DO PREGOEIRO E EQUIPE DE APOIO 4.1. 4.2. Todos os procedimentos desta Licitação serão conduzidos pelo Pregoeiro e sua respectiva Equipe de apoio, designados pela Portaria n° 1140, de 12 de julho de 2010. O Pregoeiro poderá, ainda, convocar, através Ato administrativo, servidor(es) da área ou unidade administrativa responsável pela especificação do objeto deste Pregão.
+
+5. DAS CONDIÇÕES GERAIS PARA PARTICIPAÇÃO 5.1. Poderão participar deste Pregão Eletrônico, as empresas do ramo pertinente ao objeto licitado, obrigatoriamente, cadastrados no Sistema Unificado de Cadastro de Fornecedores ­ SICAF e que atenderem a todas as demais exigências constantes neste Edital e seus anexos. 5.1.1 Para as microempresas e empresas de pequeno porte, a comprovação de regularidade fiscal somente será exigida para efeito da contratação e não como condição para participação na licitação. 5.1.2. As licitantes beneficiadas pelo Decreto 6.204/2007 deverão enviar declaração de que cumprem os requisitos legais para a qualificação como microempresa ou empresa de pequeno porte, estando aptas a usufruir do tratamento favorecido pela LC 123/2006 e deste Edital. A declaração deverá ser enviada juntamente com a proposta de preços. 5.2. A licitante deverá cumprir o que determina o Artigo 13, incisos I ao VII do Decreto 5.450/2005; 5.3. A licitante deverá manifestar, em campo próprio do sistema eletrônico, o pleno conhecimento e atendimento às exigências de habilitação previstas no Edital ­ § 2°, Artigo 21, Decreto 5.450/2005; 5.4. Não será admitida nesta licitação a participação de: a) empress que estejam com o direito de licitar e contratar com a Administração Pública suspenso, ou que por esta tenha sido declarada inidônea; b) empresas que estejam reunidas em consórcio e sejam controladoras coligadas ou subsidiárias entre si quaisquer que seja sua forma de constituição; c) empresas estrangeiras que não funcionem no país; d) empresas que estejam inadimplentes com a UFVJM, mediante apuração em processo cabível encerrado e registrado no SICAF; e) servidores ou dirigentes da UFVJM. 5.5. As licitantes ou seus representantes legais deverão estar previamente credenciados junto ao órgão provedor, sendo o uso da senha de acesso de responsabilidade exclusiva do usuário; 5.6. O credenciamento junto ao provedor do sistema implica na responsabilidade do licitante ou de seu representante e na presunção de capacidade técnica para realização das transações inerentes ao pregão eletrônico (§ 6º, Artigo 3º do Decreto nº 5.450/2005);
+
+2
+
+5.7. As especificações dos Anexos deste Edital em nenhum momento serão substituídas pelas descrições resumidas, constantes no Aviso divulgado no sitio www.comprasnet.gov.br. Em caso de divergência nas especificações, prevalecerão as dos Anexos deste Edital. 6. DATA, HORÁRIO E LOCAL DA SESSÃO PÚBLICA PARA OS LANCES A partir da liberação do edital no ComprasNet, até a data e horário estipulados para início da sessão pública de lances. Ficam os licitantes obrigados a consultarem, periodicamente, o sítio da UFVJM e Comprasnet, para conhecimento de eventuais alterações ou esclarecimentos referentes ao Edital. Sítio: www.ufvjm.edu.br, link Licitações e Contratos Sítio: www.comprasnet.gov.br 6.1. DATA: 10/12/2010 6.2. HORÁRIO: 09:00 horas 6.3. LOCAL: http://www.comprasnet.gov.br OBS: Todos os horários estipulados neste edital obedecerão, para todos os efeitos, o horário oficial de Brasília. 7. DA REMESSA ELETRÔNICA, ENVIO DAS PROPOSTAS E DOCUMENTOS PARA HABILITAÇÃO 7.1. O lançamento da proposta poderá ocorrer a partir da data de liberação do edital no Comprasnet, até o horário estipulado para início da sessão pública de lances. Durante este período, o fornecedor poderá incluir, modificar ou excluir proposta. Para inclusão, os licitantes credenciados efetuarão o lançamento do VALOR UNITÁRIO de cada item da proposta, através do sitio www.comprasnet.gov.br, sendo o valor lançado em campo específico e preenchidos todos os demais campos disponíveis do sistema; 7.1.1. AO FORMULAREM SEUS LANCES, OS FORNECEDORES PARTICIPANTES DEVERÃO EVITAR QUE OS VALORES UNITÁRIO E TOTAL EXTRAPOLEM O NÚMERO DE DUAS CASAS DECIMAIS APÓS A VÍRGULA (CASA DOS CENTAVOS). CASO ISTO OCORRA, O PREGOEIRO ESTARÁ AUTORIZADO A ADJUDICAR OS ITENS, FAZENDO O ARRENDONDAMENTO A MENOR, DO VALOR UNITÁRIO. 7.1.2. É DE PREENCHIMENTO OBRIGATÓRIO PELO LICITANTE O CAMPO DESCRIÇÃO DETALHADA DO OBJETO OFERTADO, COM A ESPECIFICAÇÃO COMPLETA DO PRODUTO, POSSIBILITANDO AO PREGOEIRO A CORRETA ANÁLISE DO SERVIÇO A SER ADQUIRIDO;
+
+7.2. Além disso, o licitante deverá lançar as declarações abaixo listadas, de forma eletrônica, conforme disponibilizado no Sistema, no momento do lançamento da proposta: a) Declaração de inexistência de fato superveniente; b) Declaração de que a empresa não emprega menor; c) Declaração de que a empresa concorda com as condições estabelecidas neste edital; d) Declaração ME/EPP's (caso aplicável); e) Declaração de elaboração independente de proposta. 7.3. A licitante será inteiramente responsável por todas as transações assumidas em seu nome no sistema eletrônico, assumindo como verdadeiras e firmes suas propostas e subseqüentes lances, se for o caso, bem como acompanhar as operações no sistema durante a sessão tais como avisos e esclarecimentos, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão; 7.4. A aceitabilidade está condicionada ao atendimento de todas as exigências do Anexo I assim como análise da qualidade do serviço a ser ofertado, para tal a licitante deve descrever detalhadamente os produtos a serem ofertados. 7.5. Não serão aceitas as propostas com exigência de faturamento mínimo; 7.6. Não serão admitidos quaisquer acréscimos, supressões ou retificações na proposta, depois de apresentada, nem pedido de desconsideração da mesma; 7.7. Os preços (unitários), em moeda corrente, com duas casas decimais para os centavos, estando neles incluídas todas as despesas diretas e indiretas, tais como frete, impostos etc;
+
+3
+
+7.8. Quaisquer tributos, custos e despesas diretos ou indiretos omitidos da Proposta, ou incorretamente cotados, serão considerados como incluídos nos preços, não sendo considerados pleitos de acréscimos, a esse ou a qualquer título, devendo o fornecimento ser efetuado à Universidade Federal dos Vales do Jequitinhonha e Mucuri ­ UFVJM sem ônus adicionais; 7.9. A proposta deverá ter validade de 12 (doze) meses, a contar do início da vigência da Ata de Registro de Preços; 7.10. A apresentação da Proposta em desacordo com as exigências deste Edital e Anexos acarretará, sumariamente, a desclassificação da Empresa proponente e sua exclusão do certame; 7.11. Encerrada a sessão do pregão, a licitante detentora da melhor oferta, para cada item, encaminhará a proposta definitiva de preços impressa, em 01 (uma) via datilografada/digitada, sem rasuras, emendas, entrelinhas ou ressalvas, contendo a identificação da empresa, endereço, telefone, número do Cadastro Nacional da Pessoa Jurídica ­ CNPJ, rubricadas todas as folhas pelo representante legal e assinada a última, sobre carimbo com nome, identidade, com indicação ­ no que couber ­ do detalhamento dos produtos ofertados, conter ainda dados bancários, além de outras informações de livre disposição; 7.12. Juntamente com a proposta, deverão ser encaminhadas as declarações mencionadas no item 7.2 deste Edital, impressas e assinadas. 7.13. O envio dos documentos constantes dos itens 7.12 e 7.13 é imprescindível para adjudicação do objeto a empresa vencedora e deverá ser feita, impreterivelmente, no prazo abaixo estipulado. 7.14. Toda a documentação deverá ser enviada, via Correios, sendo postada no prazo máximo de 2 (dois) dias úteis após o encerramento da sessão do pregão, para: Universidade Federal dos Vales do Jequitinhonha e Mucuri ­ UFVJM ­ Campus JK, BR 367, nº 5000, (Divisão de Licitações), Diamantina/MG, CEP 39100-000. Devendo, obrigatoriamente, conter na parte externa do envelope: PREGÃO ELETRÔNICO Nº 070/2010 SISTEMA DE REGISTRO DE PREÇOS PROPOSTA DE PREÇOS E DOCUMENTAÇÃO DE HABILITAÇÃO A/C NATALIA HELENA DOS SANTOS 8. DA FORMULAÇÃO DOS LANCES 8.1. No dia e horário indicado, o Pregoeiro abrirá a sessão pública, verificando as propostas de preços lançadas no sistema, as quais devem estar em perfeita consonância com as especificações e condições detalhadas nos Anexos deste Edital; 8.2. Constatada a existência de proposta incompatível com o objeto licitado ou aparentemente inexeqüível o Pregoeiro poderá justificar, através do sistema e desclasificá-la; 8.3. Iniciada a etapa competitiva, as licitantes poderão encaminhar lance exclusivamente por meio do sistema eletrônico, sendo o acompanhamento disponibilizado imediatamente; 8.4. Os licitantes deverão manter a impessoalidade, não se identificando, sob pena de serem excluídos do certame pelo Pregoeiro; 8.5. As Licitantes poderão oferecer lances sucessivos, observados o horário fixado e as regras de aceitação dos mesmos. Será considerada aceitável a proposta que: a) Atenda a todos os termos deste Edital; b) Contenha preço compatível com os praticados no mercado, dentro do estipulado conforme as disponibilidades orçamentárias da UFVJM. 8.6. Serão aceitos os lances cujos valores forem inferiores ao último lance que tenha sido anteriormente registrado pela licitante, não necessariamente lances menores que o menor lance registrado no sistema; 8.7. Não serão aceitos dois ou mais lances de igual valor, prevalecendo aquele que for recebido e registrado em primeiro lugar; 8.8. Sendo efetuado lance, aparentemente inexeqüível, o pregoeiro alertará a proponente, sobre o valor cotado para o respectivo item, através do sistema, podendo o mesmo ser confirmado pela proponente; 8.9. Durante o transcurso da sessão pública, as licitantes serão informadas, em tempo real, do valor do menor lance registrado que tenha sido apresentado pelas demais licitantes, vedada a identificação das mesmas;
+
+4
+
+8.10. Em caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão Eletrônico, o sistema poderá permanecer acessível aos licitantes para o envio dos lances, sendo possível o retorno do pregoeiro para atuação na etapa, sem prejuízo dos atos realizados; 8.11. Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do Pregão Eletrônico será suspensa e terá reinício somente após comunicação expressa, no sistema eletrônico, aos participantes; 8.12. A etapa de lances será encerrada mediante aviso de fechamento iminente dos lances, emitido pelo sistema eletrônico às licitantes, após o que transcorrerá período de até 30 (trinta) minutos, aleatoriamente determinado também pelo sistema eletrônico, findo o qual será automaticamente encerrada a recepção de lances; 8.13. O Pregoeiro poderá encaminhar contraproposta diretamente à licitante que tenha apresentado o menor lance, através do sistema eletrônico, para que seja obtido preço melhor e assim decidir sobre sua aceitação; 8.14. O sistema aponta a licitante de menor preço, depois do encerramento da etapa de lances, ou quando for o caso, após negociação e decisão pelo Pregoeiro acerca da aceitação do lance de menor valor; 8.15. Será assegurada preferência na contratação, para fornecedores de serviços de informática e automação, observada a seguinte ordem: I - serviços com tecnologia desenvolvida no País e produzidos de acordo com o Processo Produtivo Básico (PPB), na forma definida pelo Poder Executivo Federal; II - serviços com tecnologia desenvolvida no País; e III - serviços produzidos de acordo com o PPB, na forma definida pelo Poder Executivo Federal. 8.16 As microempresas e empresas de pequeno porte que atendam ao disposto nos incisos do item 8.15 terão prioridade no exercício do direito de preferência em relação às médias e grandes empresas enquadradas no mesmo inciso. 8.17 Será ainda, assegurado como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte (Art.5º, Decreto 6.024/2007): 8.18 Será considerado empate, aquelas situações em que as ofertas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 5% (cinco por cento) superiores ao menor preço. Sendo a melhor oferta válida não ter sido apresentada por microempresas ou empresas de pequeno porte. 8.19 Ocorrendo o empate, a microempresa ou empresa de pequeno porte melhor classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado o objeto em seu favor; 8.20 Na hipótese da não contratação da microempresa ou empresa de pequeno porte, com base no item acima, serão convocadas as remanescentes que porventura se enquadrem em situação de empate, na ordem classificatória, para o exercício do mesmo direito; 8.21 Após o encerramento dos lances, a microempresa ou empresa de pequeno porte melhor classificada será convocada para apresentar nova proposta no prazo máximo de cinco minutos por item em situação de empate, sob pena de preclusão; 9. DO JULGAMENTO DAS PROPOSTAS DE PREÇOS E ACEITABILIDADE 9.1 A presente Licitação é do tipo MENOR PREÇO, sendo vencedora(s) a(s) Licitante(s) que ofertar(em) o MENOR PREÇO UNITÁRIO POR ITEM, conforme especificado neste Edital e seus Anexos, respeitadas as determinações legais previstas na Lei Complementar nº 123 de 14 de dezembro de 2006; Nesta licitação será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte. 9.2.1 Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas ou empresas de pequeno porte sejam iguais ou até 5% superior à porposta mais bem classificada. 9.2.2 O disposto no inciso anterior somente se aplicará quando a melhor oferta inicial não tiver sido apresentada por microempresa ou empresa de pequeno porte.
+
+9.2
+
+5
+
+9.2.3 A microempresa ou empresa de pequeno porte mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame. 9.2.4 A microempresa ou empresa de pequeno porte mais bem classificada será convocada para apresentar nova proposta no prazo máximo de 05 (cinco) minutos sob pena de preclusão deste direito. 9.3 ­ Após a classificação das empresas, com base do item 5.2 será, será assegurada, preferência na contratação, exclusivamente para fornecedores de serviços de informática, observada a seguinte ordem: I ­ serviços com tecnologia desenvolvida no País e produzidos de acordo com o Processo Produtivo Básico (PPB); II ­ serviços com tecnologia desenvolvida no País; e III ­ serviços produzidos de acordo com o PPB. 9.4 ­ As microempresas e empresas de pequeno porte que atendam ao disposto nos incisos do item 5.3 terão prioridade no exercício do direito de preferência em relação às médias e grandes empresas enquadradas no mesmo item. 9.5 ­ O exercício do direito de preferência, previsto no item 5.3, será concecido após a fase de lances, observados os seguintes procedimentos sucessivamente, exclusivamente para serviços de informatíca: I ­ aplicação das regras de preferência para as microempresas e empresas de pequeno porte, de acordo com a Lei Complementar 123, de 2006, quando for o caso; II ­ aplicação das regras de preferência previstas no item 5.3, com a classificação dos licitantes cujas propostas finais estejam situadas até 10% acima da melhor proposta válida, conforme o critério de julgamento, para a comprovação e o exercício do direito de preferência; III ­ convocação dos licitantes classificados que estejam enquadrados no inciso I do item 5.3, na ordem de classificação, para que possam oferecer nova proposta ou novo lance para igualar ou superar a melhor proposta válida, num prazo máximo de 05 (cinco) minutos sob pena de preclusão deste direito; IV ­ caso a preferência não seja exercida na forma do inciso III, por qualquer motivo, serão convocadas as empresas classificadas que estejam enquadradas no inciso II do item 5.3, na ordem de classificação, para a comprovação e o exercício do direito de preferência, aplicando-se a mesma regra para o inciso III do item 5.3, caso esse direito não seja exercido; e V ­ caso nenhuma empresa classificada venha a exercer o direito de preferência, observar-se-ão as regras usuais de classificação e julgamento previstas na Lei 8.666/93 e 10.520/02. 9.6 ­ Para o exercício do direito de preferência, os fornecedores deverão apresentar declaração, no momento do oferecimento das propostas, de que atendem aos requisitos legais para qualificação como microempresa ou empresa de pequeno porte, se for o caso, bem como a comprovação de que atendem aos requisitos estabelecidos nos incisos I, II e III do item 9.5; 9.6.1 A empresa que ofertar serviços de informática e automação e pretender exercer o direito de preferência estabelecido no art. 3º da Lei nº 8.248/91, Decreto 7.174/10 e conforme os Acórdãos nº 2.138/05 e nº 208/06, ambos do Plenário do Tribunal de Contas da União, deverá: 1. informar no campo Descrição Detalhada, no momento do cadastramento do item, a data, seção e página do Diário Oficial da União onde a Portaria foi publicada, comprovando, na ordem estipulada os requisitos dos incisos I, II e III do item 5.3; 2. apresentar comprovação do atendimento ao PPB dos serviços de informática ofertados mediante a apresentação de documento expedido pelo Ministério da Ciência e Tecnologia ou pela SUFRAMA. 9.7 A aceitação da proposta ocorrerá em momento ou data posterior à sessão de lances, a critério do pregoeiro que comunicará às licitantes através do sistema eletrônico; 9.7.1 Valores com mais de duas casas decimais para os centavos, conforme exigido no subitem 7.7 deste Edital, serão arredondados (para baixo) na etapa de aceitação. 9.7.2 Serão desclassificadas as propostas com valor global superior ao establecido ou com preços manifestamente inexequíveis (adotando-se para sua aferição o critério previsto no parágrafo 1º do art. 48, da Lei 8.666/93).
+
+6
+
+9.8 Se a proposta ou lance de menor valor não atender as especificações solicitadas, inclusive com relação à aceitabilidade do objeto, após parecer técnico do interessado na aquisição, ou então, se o licitante desatender as exigências habilitatórias, o pregoeiro examinará a proposta ou o lance subseqüente, verificando a sua aceitabilidade, procedendo a habilitação do proponente na ordem de classificação, e assim sucessivamente, até a apuração de uma proposta ou lance que atenda ao Edital; 9.8.1. A aceitabilidade está condicionada ao atendimento de todas as exigências do Anexo I assim como análise do objeto ofertado, para tal a licitante deve descrever detalhadamente os serviços a serem ofertados. 9.8.2. Ocorrendo situação a que se refere o subitem anterior, o pregoeiro poderá negociar com o licitante para que seja obtido menor preço; 9.8.3. Sendo aceitável a(s) oferta(s), será verificado o atendimento das condições habilitatórias pela(s) Licitante(s) que a(s) tiver formulado; 9.8.4. Constatado o atendimento pleno às exigências editalícias, será declarada a Proponente Vencedora; 9.9 Os serviços serão executados em 2 (dois) itens, sendo que a empresa vencedora do Item I não poderá ser vencedora do Item II ou ter qualquer vínculo comercial com esta. Tal restrição visa assegurar a necessária segregação das funções de executor e fiscalizador dos serviços. Caso ocorra de uma empresa vencer os dois itens, a mesma deverá optar, por escrito, por um deles, conforme IN 02 Artigo 3º, §2º. Da mesma forma, o profissional responsável pela contagem de pontos de função do Item I não poderá ser o mesmo profissional responsável pela mensuração dos pontos de função do Item II. 9.10 Da Licitação lavrar-se-á a Ata de Registro de Preços.
+
+10
+
+DA HABILITAÇÃO
+
+10.1 Será habilitada a licitante que estiver regularmente cadastrada no SICAF e com a documentação OBRIGATÓRIA atualizada (certidões negativas da Receita Federal, INSS e FGTS), que será verificado "ON LINE", após a sessão de aceitabilidade. Estando com certidões vencidas, a proponente será comunicada para enviá-las, imediatamente, através do Fax (38) 3532 1261; 10.2 A comprovação de regularidade fiscal das microempresas e empresas de pequeno porte somente será exigida para efeito de contratação, e não como condição para participação na licitação. 10.2.1. Na fase de habilitação, será efetuada a consulta ao SICAF e, havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de dois dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for declarado vencedor do certame, prorrogável por igual período, para a regularização da documentação, pagamento ou parcelamento de débito, e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. 10.2.2. A declaração do vencedor, de que trata o item 10.2.1 acontecerá no momento imediatamente posterior à fase de habilitação. 10.2.3. A prorrogação do prazo previsto no item 10.2.1. será concedida pela administração quando requerida pelo licitante, a não ser que exista urgência na contratação ou prazo insuficiente para a pagamento, devidamente justificados. 10.2.4. A não-regularização da documentação no prazo previsto no item 10.4.1. implicará decadência do direito à contratação, sem prejuízo das sanções prevista no art. 81 da Lei 8.666/93 sendo facultado à administração convocar os licitantes remanescentes, na ordem de classificação, ou revogar a licitação. 10.3 Nesta fase, será exigido também os documentos abaixo relacionados. O pregoeiro solicitará aos licitantes, via chat, para envio via fax (38) 3532 1261, com posterior encaminhamento do original ou cópia autenticada, juntamente com a Proposta Comercial: PARA O ITEM 01 10.3.1. Atestado de Capacidade Técnica, fornecido por pessoa jurídica de direito público ou privando, comprovando aptidão para prestar serviços com a qualidade requerida pela Contratante, com base no uso das tecnologias de tratamento da informação, no desenvolvimento e manutenção de sistemas, no modelo de Centro de Solução em Desenvolvimento de Software, relacionadas a seguir: PHP ou JAVA com algum framework; Webservices; camada de persistência; Uso de ferramentas específicas de
+
+7
+
+teste e por tipos de testes existentes (Unitário, Integração, Funcional, Carga e Desempenho); e Prestação de serviços de desenvolvimento de sistemas. 10.3.2. Atestado de Capacidade Técnica, fornecido por pessoa jurídica de direito público ou privado comprovando que a Licitante prestou ou está prestando, a contento, serviços técnicos de desenvolvimento e manutenção de sistemas no modelo de Fábrica de Software, mensurados por Ponto de Função, em um montante mínimo de 2.000 (Dois mil) PF's, podendo ser comprovado através de somatório de mais de um atestado, atendendo aos padrões de qualidade, de forma satisfatória, na plataforma PHP e/ou JAVA. 10.3.2.1. A quantidade de pontos de função solicitada, nos atestados acima relacionados, é justitificável para demonstrar a capacidade do futuro fornecedor em prestar a integralidade dos serviços, nos termos do inciso II, art. 30 da Lei 8.666/93. 10.3.2.2. A Contratante busca com os requisitos de tecnologia acima identificar empresas que já possuam capacidade de utilizar adequadamente tecnologias que serão necessárias à realização dos serviços constantes do Objeto do Termo de Referência. 10.3.2.3. Para realizar a comprovação, a empresa Licitante deve apresentar Atestado de Capacidade Técnica referente ao uso da tecnologia, do qual conste o projeto ou sistema em que foi empregada e demais informações: Nome / Email / Telefone do responsável pelos contatos técnicos do cliente - pessoa vinculada ao cliente responsável pelos contatos relativos ao projeto. 10.3.3. Atestado de Capacidade Técnica, fornecido por pessoa jurídica de direito público ou privado comprovando experiência no uso de Metodologia baseada em Unified Modeling Language ­ UML e no padrão de arquitetura de sistemas Model-view-controller ­ MVC no desenvolvimento e manutenção de sistemas Web. 10.3.3.1. Para comprovar essa experiência, a empresa Licitante deve apresentar Atestado de Capacidade Técnica comprovando o uso da Metodologia, do qual conste(m) o(s) projeto(s) ou sistema(s) em que foi empregada, bem como Nome / E-mail / Telefone do responsável pelos contatos técnicos do cliente (pessoa vinculada ao cliente responsável pelos contatos relativos ao projeto). 10.3.4. Certidão negativa de falência ou concordata expedida pelo distribuidor da sede da pessoa jurídica. PARA O ITEM 02 ­
+
+10.3.5. Atestado de Capacidade Técnica, fornecido por pessoa jurídica de direito público ou privado comprovando experiência de que prestou ou está prestando serviços técnicos de contagem de Ponto de Função, em um montante mínimo de 2.000 (Dois mil) PF's , podendo ser comprovado através de somatório de mais de um atestado, atendendo aos padrões de qualidade, de forma satisfatória. 10.3.5.1. A quantidade de pontos de função solicitada, nos atestados acima relacionados, é justificável para demonstrar a capacidade do futuro fornecedor em prestar a integralidade dos serviços, nos termos do Inciso II, Artigo 30 da Lei 8.666/93. 10.3.5.2. Para comprovar essa experiência, a empresa Licitante deve apresentar Atestado de Capacidade Técnica comprovando o uso da Metodologia, do qual conste(m) o(s) projeto(s) ou sistema(s) em que foi empregada, bem como Nome / Email / Telefone do responsável pelos contatos técnicos do cliente (pessoa vinculada ao cliente responsável pelos contatos relativos ao projeto).
+
+10.3.6. Certidão negativa de falência ou concordata expedida pelo distribuidor da sede da pessoa jurídica. 10.4. Os documentos poderão ser apresentados em original, cópia autenticada por Cartório ou cópia simples, para autenticação por membro da Comissão de Licitação, neste caso acompanhado dos originais, não sendo aceitos fac-símiles (fax);
+
+8
+
+10.5. Será desclassificado o proponente que não atender à solicitação de apresentação de documentação técnica que comprove todas as características técnicas exigíveis neste edital e seus Anexos. 10.6. A equipe técnica da UFVJM se reserva o direito de realizar diligências, visitas técnicas e entrevistas, de modo a certificar-se da veracidade dos documentos apresentados pela empresa proponente. 10.7 A apresentação de declaração falsa relativa ao cumprimento dos requisitos de habilitação sujeitará a licitante às sanções previstas no artigo 28 do Decreto nº 5.450, de 31 de maio de 2005. 10.8 É essencial a participação/conexão de todos os licitantes participantes na sessão pública de aceitabilidade e habilitação, para que os mesmos tomem conhecimento do andamento do presente pregão e seja informado sobre a situação cadastral da empresa junto ao SICAF; 10.9 O CNPJ do participante na Licitação terá que ser obrigatoriamente, da mesma Empresa que efetivamente irá emitir a respectiva Nota Fiscal / Fatura.
+
+11
+
+DA INTERPOSIÇÃO DE RECURSOS 11.1 As licitantes poderão interpor recursos, mediante manifestação prévia, após a declaração do vencedor, devendo apresentar sucintamente suas razões, exclusivamente no âmbito do sistema eletrônico, em formulários próprios. A falta de manifestação imediata e motivada do licitante importará na decadência do recurso, sendo que, ao final da sessão pública, o pregoeiro informará os prazos legais para registro da razão do recurso para a licitante com intenção de recurso aceita e para os demais licitantes registrarem as contra-razões; 11.2 A licitante dispõe do prazo de 03 (três) dias para apresentação dos recursos, sendo eles escritos por meio eletrônico, sendo disponibilizados a todos os participantes; 11.3 As demais licitantes poderão apresentar contra-razões em até 03 (três) dias contados a partir do término do prazo do recorrente; 11.4 A decisão do Pregoeiro será motivada e submetida à apreciação da autoridade competente, em 05 (cinco) dias úteis; 11.5 O acolhimento do recurso importará a invalidação apenas dos atos que não sejam passíveis de aproveitamento; 11.6 Os autos do processo permanecerão com vistas franqueadas aos interessados na Divisão de Licitações da UFVJM, Campus JK, situado à BR 367, Nº 5000, Diamantina/MG.
+
+12
+
+DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO 12.1 A adjudicação do objeto do presente certame será realizada pelo Pregoeiro sempre que não houver recurso e a homologação é de responsabilidade da autoridade competente e será realizada após a adjudicação do objeto ao proponente vencedor ou, quando houver recursos, após o devido julgamento. 12.1.1. Quando houver recursos, assim que decididos, a autoridade competente fará a adjudicação do objeto a licitante vencedora.
+
+13
+
+DA ATA DE REGISTRO DE PREÇOS 13.1 A classificação será mantida durante o período de validade da Ata, a partir da data de sua publicação, exceto nos casos em que houver exclusão do SRP (Sistema de Registro de Preços), a título de penalidade imposta pela Administração; 13.2 Homologado o resultado da licitação, a UFVJM, convocará os interessados para assinatura da Ata de Registro de Preços, que terá efeito de compromisso de fornecimento nas condições estabelecidas; 13.3 Constarão da Ata de Registro de Preços ­ ARP, todas as informações necessárias à: a) Identificação do processo; b) Caracterização do objeto; c) Identificação das empresas; d) Preços ofertados pelas classificadas, item a item; e) Direitos e responsabilidades das partes.
+
+9
+
+13.4 A ARP será lavrada em tantas vias quantas forem as empresas classificadas; 13.5 É obrigatória a assinatura da ARP pelas partes envolvidas, no prazo máximo de 10 (dez) dias úteis a contar da convocação da UFVJM, aplicando-se, em caso de descumprimento, o disposto no Parágrafo Segundo, do art. 64, da Lei 8666/93. 14 DO CONTRATO E DO EMPENHO
+
+14.1 Quando da necessidade dos serviços, a licitante vencedora será convocada a assinar Contrato de Prestação de Serviços (Minuta no Anexo I), sendo observado as condições já estabelecidas na Ata de Registro de Preços; 14.1.1. Assim que convocada, a licitante vencedora terá o prazo de 5 (cinco) dias úteis para estar assinando o Contrato. 14.2 A Nota de Empenho será encaminhada ao 1° classificado para cada item da Ata de Registro de Preços, quando da necessidade da prestação do serviço, assim que as partes assinarem o Contrato. 15 DOS ANEXOS 15.1 Fazem parte dessa contratação todos os anexos que compõem este presente Processo Licitatório, a saber:      16 Anexo I ­ Modelo de apresentação de proposta; Anexo II ­ Termo de Referência e seus anexos; Anexo III ­ Declaração de Elaboração Independente de Proposta; Anexo IV ­ Minuta do Contrato; Anexo V ­ Minuta da Ata de Registro de Preços. DA PRESTAÇÃO DOS SERVIÇOS 16.1 A licitante vencedora deverá executar fielmente os serviços conforme as especificações deste Edital e seus anexos; 16.1.1. Quaisquer notificações, encaminhamento de documentos ou esclarecimentos devem ser destinados à Divisão de Tecnologia da Informação da UFVJM . 16.2 O prazo de execução será definido na ordem de serviço. No caso de descumprimento, o licitante será notificado extrajudicialmente, pelas vias administrativas, para que em 72 (setenta e duas) horas, contados da data de recebimento da notificação, faça inicie a realização do serviço ou venha apresentar, justificativa de impossibilidade de cumprir o compromisso contratual. Em ambos os casos, fica desde já estabelecido que a UFVJM, poderá a seu critério rescindir o Contrato e cancelar a Nota de Empenho, convocando o segundo colocado, sem entretanto, alterar o direito da UFVJM em promover cobrança administrativa na forma da Lei 8.666/93: multa, inscrição no SICAF e promover cobrança judicial e apuração das perdas e danos na forma da lei. 16.3 A licitante vencedora se obriga a cumprir plenamente o previsto no artigo 71 da lei 8666/93 e suas alterações posteriores. 16.4 A Divisão de Tecnologia da Informação da UFVJM irá gerenciar as prestações de serviços decorrentes deste Sistema de Registro de Preços, sendo responsável por: 16.3.1. Solicitar a execução dos serviços, a medida que forem necessários; 16.3.3. Conferir os serviços prestados para liberação das Notas Fiscais/Faturas ao Setor de Pagamento; 16.3.4. Fiscalizar todo o processo, buscando garantir que os serviços sejam realizados em conformidade com as especificações deste Edital e seus anexos. 17 DAS CONDIÇÕES DE ENTREGA E RECEBIMENTO DO OBJETO DA LICITAÇÃO 17.1 O serviço somente será recebido após análise do produto, observadas as especificações contidas neste Edital e Anexos, devidamente certificado pela Divisão de Tecnologia da Informação/UFVJM. 17.2 Executado o Contrato, o seu objeto será recebido:
+
+10
+
+17.2.1. Provisoriamente, pelos responsáveis por seu acompanhamento e fiscalização, mediante termo circunstanciado, assinado pelas partes em até 15(quinze) dias da comunicação escrita do Contrato. 17.2.2. Definitivamente, por servidor ou Comissão designada pela autoridade competente, mediante termo circunstanciado, assinado pelas partes, após o decurso do prazo da observação, ou vistoria que comprove a adequação do objeto aos termos contratuais, observado o disposto no art. 69, da Lei 8.666/93. 17.3 O recebimento provisório ou definitivo não exclui a responsabilidade civil pela solidez e segurança do serviço, nem ético-profissional pela perfeita execução do Contrato, dentro dos limites estabelecidos pela Lei ou pelo Contrato; 17.4 Os ensaios, testes e demais provas exigidos por normas técnicas oficiais para a boa execução do objeto do Contrato correm por conta do contratado; 17.5 A Administração rejeitará, no todo ou em parte o serviço ou fornecimento executado em desacordo com o Contrato. 17.6 Havendo rejeição dos serviços pela UFVJM, serão observadas os procedimentos descritos no Termo de Referência, em anexo.
+
+18
+
+DO PAGAMENTO 18.1 O pagamento será efetuado mensalmente, mediante apresentação de Nota Fiscal/Fatura correspondente aos serviços efetivamente executados. 18.2 As medições serão submetidos à aprovação do representante da Divisão de Tecnologia da Informação da UFVJM, designado para acompanhar e fiscalizar a execução dos serviços; 18.2.1 No caso de reprovação, a CONTRATADA será notificada para as necessárias correções, com as informações que motivaram a rejeição, contando-se os prazos estabelecidos para pagamento a partir da data de reapresentação; 18.2.2 Ocorrendo aprovação, observando as correções necessárias, quando ocorridas, a Divisão atestará o documento fiscal, encaminhado-o, portanto, para o pagamento. 18.3 O pagamento será creditado em nome da CONTRATADA, mediante ordem bancária indicada na proposta, devendo para isso ficar explicitado o nome do banco, da agência, da localidade e do número da conta-corrente que deverá ser efetivado o crédito o qual ocorrerá até 10º (décimo) dia útil subsequente ao adimplemento da obrigação, desde que atendidas as exigências deste Edital e o disposto no item 8.8 da Instrução Normativa nº 05, de 21/07/95, do Ministério da Administração Federal e Reforma do Estado 18.3.1 - O atraso na entrega dos documentos de cobrança implicará prorrogação do vencimento em tantos dias úteis quantos forem os dias de atraso. 18.4 A Nota Fiscal/Fatura terá que ser emitida, obrigatoriamente, com o número de inscrição no CNPJ apresentado para a Habilitação, não se admitindo Notas Fiscais/Faturas emitidas com outros CNPJ's, mesmo aqueles de filiais ou matriz; 18.5 Conforme disposto no item 8.8 da Instrução Normativa nº 05, de 21/07/95, do Ministério da Administração Federal e Reforma do Estado, será feita, pela UFVJM, a consulta junto ao SICAF (Sistema de Cadastramento Unificado de Fornecedores), previamente à contratação a ser feito para a LICITANTE VENCEDORA, a qual deverá manter este seu Cadastro atualizado, durante a vigência da ARP;
+
+18.5.1 Constatada a situação de irregularidade junto ao SICAF, a contratada será advertida, por escrito, para que no prazo de 10 (dez) dias úteis, regularize sua situação, ou no mesmo prazo apresente sua defesa, sob pena de rescisão do contrato. 18.5.2 O prazo descrito no item 18.5.1 poderá ser prorrogado a critério da administração. 18.5.3 Caso a contratada, não regularize sua situação junto ao SICAF, ou apresente defesa, no prazo descrito no item 18.5.1 será providenciada a abertura de processo administrativo visando a aplicação das penalidades cabíveis. 18.6 No pagamento serão observadas as retenções, de acordo com a legislação e normas vigentes, no âmbito da União, Estado e Município; 18.7 Poderá ser deduzido da Nota Fiscal/Fatura o valor de multa aplicada;
+
+11
+
+18.8
+
+Nenhum pagamento será efetuado à LICITANTE VENCEDORA enquanto pendente de liquidação ou qualquer obrigação financeira que lhe for imposta, em virtude de penalidade ou inadimplência. DA REVISÃO DOS PREÇOS
+
+19
+
+19.1 A revisão dos preços dar-se-á, para a manutenção do equilíbrio econômico-financeiro da Ata, ou a qualquer tempo, em decorrência de eventual redução daqueles praticados no mercado, ou de fato, que eleve o custo dos serviços ou bens registrados, cabendo à UFVJM promover negociações junto aos fornecedores, conforme determinação do artigo 12, do Decreto nº 3.931, de 19 de setembro de 2001; 19.2 Quando o preço inicialmente registrado, por motivo superveniente, tornar-se superior ao preço praticado no mercado, a UFVJM deverá: 19.2.1 Convocar o fornecedor visando a negociação para redução de preços e sua adequação ao praticado pelo mercado. 19.2.1.1 Frustrada a negociação, o fornecedor será liberado do compromisso assumido. 19.2.2 A revisão dos preços deverá ser devidamente justificada e acompanhada de documentos comprobatórios, a qual deverá ser aceita pela UFVJM ou pela empresa/ contratada;
+
+19.3 Quando o preço de mercado tornar-se superior aos preços registrados e o fornecedor, mediante requerimento devidamente comprovado, não puder cumprir o compromisso, a UFVJM poderá: 19.3.1 Liberar o fornecedor do compromisso assumido, sem aplicação da penalidade, confirmando a veracidade dos motivos e comprovantes apresentados, e se a comunicação ocorrer antes do pedido de fornecimento; 19.3.2 Não havendo êxito nas negociações, a UFVJM revogará a Ata de Registro de Preços, adotando as medidas cabíveis para obtenção da contratação mais vantajosa. 20 DAS PENALIDADES 20.1 No caso de inadimplência ou inexecução total ou parcial do compromisso assumido com a Universidade Federal dos Vales do Jequitinhonha e Mucuri ­ UFVJM, garantida a prévia defesa, aplicar-se á, as seguintes sanções: 20.1.1 Advertência, que será notificada por meio de ofício, mediante contra-recibo do represetante legal da Contratada estabelecendo-se o prazo de 05 (cinco) dias úteis para que a empresa licitante apresente justificativas do atraso, que só serão aceitas meidante crivo da administração; 20.1.2 Multa no percentual correspondente a 0,3% (zero vírgula três por cento), por descumprimento das obrigações assumidas incidente sobre o valor dos serviços não prestados, até a data do efetivo adimplemento, observado o limite de 30 (trinta) dias; 20.1.2.1 A multa moratória será aplicada a partir do 2 (segundo) dia útil da inadimplência, contado da data definida para o regular cumprimento da obrigação. 20.1.3 Multa de 10% (dez por cento) sobre o valor dos serviços não prestados, no caso de inexecução total ou parcial do objeto contratado, recolhida no prazo de 15 (quinze) dias corridos, contados da comunicação oficial, sem embargo de indenização dos prejuízos porventura causados a UFVJM pela não execução parcial ou total do contrato. 20.1.3.1 Decorridos 30 (dias) corridos sem que o contratado tenha iniciado a prestação da obrigação assumida, estará caracterizada a inexecução contratual, ensejando a sua rescisão. 20.1.3.2 A aplicação de multa por inexecução contratual independe da multa moratória eventualmente aplicada ou em fase de aplicação, sendo aplicável cumulativamente. 20.1.4 Suspensão do direito de licitar e de contratar com a Administração Pública, pelo prazo de até 05 (cinco) anos, garantido o direito prévio da citação e da ampla defesa, enquanto perdurar os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade. Do mesmo modo, o licitante que convocado dentro do prazo de validade da sua proposta, não celebrar o contrato, deixar de entregar a documentação exigida para o certame ou apresentar documentação falsa, ensejar o retardamento da execução do seu objeto, não mantiver a
+o
+
+12
+
+proposta, falhar ou fraudar na execução do objeto pactuado, comportar-se de modo inidôneo ou cometer fraude fiscal. 20.2 As sanções previstas nos subitens 20.1.1 e 20.1.4 deste item poderão ser aplicadas juntamente com as dos subitens 20.1.2 e 20.1.3, facultada a defesa prévia do interessado, no respectivo processo, no prazo de 05 (cinco) dias úteis. 20.3 Se a multa for de valor superior ao valor da garantia prestada, além da perda desta, responderá a empresa vencedora pela sua diferença, a qual será descontada dos pagamentos devidos pela Administração ou, quando for o caso, cobrada judicialmente. 20.4 As penalidades serão obrigatoriamente registradas no SICAF, e no caso de suspensão de licitar, o licitante deverá ser descredenciado por igual período, sem prejuízo das multas previstas no Edital e das demais cominações legais. 21 DAS DISPOSIÇÕES GERAIS 21.1 A participação neste certame implica na aceitação de todas as condições estabelecidas neste Edital, bem como no Decreto 5.450/2005, Decreto 3.931/2001, Decreto 7.174/2010 e IN 004/2008 do MPOG, Lei 8.248/91 e Lei 8.666/93. 21.2 A presente Licitação somente poderá vir a ser revogada por razões de interesse público, decorrentes de fato superveniente devidamente comprovado, ou anulada no todo ou em parte, por ilegalidade de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente fundamentado; 21.3 O Objeto da presente Licitação poderá sofrer acréscimos ou supressões, conforme previsto no Parágrafo 1º, do Art. 65 da Lei 8.666/93 e Parágrafo 2º, inciso II do Art. 65. da Lei 9648/98; 21.4 O Pregoeiro, no interesse da Administração, poderá relevar omissões puramente formais observadas na documentação e Proposta, desde que não contrariem a Legislação vigente e não comprometa a lisura da Licitação, sendo possível a promoção de diligência destinada a esclarecer ou a complementar a instrução do processo; 21.5 Ocorrendo, em qualquer hipótese, a negativa do fornecimento do Objeto desta licitação por parte da LICITANTE VENCEDORA, o mesmo poderá ser adjudicado às Licitantes remanescentes, na ordem de classificação e de acordo com as Propostas apresentadas, sem prejuízo às demais sanções previstas em lei; 21.6 Quaisquer esclarecimentos sobre dúvidas eventualmente suscitadas, relativas às orientações contidas no presente Edital, poderão ser solicitadas, por escrito, ao pregoeiro, exclusivamente por meio eletrônico via internet, através do e-mail: natalia.santos@ufvjm.edu.br; 21.7 No caso de ocorrência de feriado nacional, estadual ou municipal, ou de falta de expediente na Instituição, no dia previsto para a Abertura da Sessão Pública, o ato ficará automaticamente transferido para o primeiro dia útil seguinte, no mesmo horário; 21.8 As Licitantes arcarão com todos os custos decorrentes da elaboração e apresentação das propostas, independente da condução ou resultado do Processo Licitatório; 21.9 Na contagem dos prazos estabelecidos neste Edital excluir-se-á o dia do início e se incluirá o do vencimento; 21.10 Os casos omissos serão resolvidos com base na Lei nº 10.520/2002 e Decreto 5.450/2005, nos regulamentos que vierem a ser adotados e, ainda, nas normas técnicas gerais ou especiais aplicáveis. Fica eleito o Foro da Justiça Federal, Seção Judiciária de Minas, em Sete Lagoas, para dirimir qualquer controvérsia não resolvida entre as partes.
+
+21.11
+
+Diamantina, 29 de novembro de 2010
+
+Natália Helena dos Santos Pregoeiro Oficial ­ UFVJM
+
+13
+
+ANEXO I MODELO DE PROPOSTA DE PREÇOS PROPOSTA DE PREÇOS COM RELAÇÃO DOS SERVIÇOS A DIVISÃO DE LICITAÇÕES UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI - UFVJM Ref: PREGÃO ELETRÔNICO Nº 070/2010 SISTEMA DE REGISTRO DE PREÇOS Prezados Senhores Estamos cotando os serviços dos itens a seguir relacionados, com vista ao seu fornecimento a essa Universidade, de acordo com o disposto na Lei no. 8.666, de 21 de junho de 1993. PARA O ITEM 01
+
+Item
+
+DESCRIÇÃO
+
+QUANT.
+
+UNID.
+
+PREÇO UNITÁRIO
+
+01
+
+Prestação de serviços técnicos especializados na área de tecnologia da informação, compreendendo o desenvolvimento, manutenção corretiva, adaptativa, evolutiva ou perfectiva de sistemas de informação e portais; e documentação de sistemas de informação, por intermédio das atividades, de acordo com as especificações, padrões técnicos de desempenho e qualidade estabelecidos pela Contratante, mediante ordens de serviço dimensionadas pela técnica de contagem de Pontos por Função Brutos ­ PFB, pagas pelo quantitativo mensal de resultados recebidos e homologados, acompanhadas da respectiva documentação prevista pela Contratante, no modelo de Centro de Solução de Desenvolvimento de Software, na forma de serviços continuados.
+
+5000
+
+Ponto Função
+
+PARA O ITEM 02
+
+Item
+
+DESCRIÇÃO
+
+QUANT.
+
+UNID.
+
+PREÇO UNITÁRIO
+
+02
+
+Contratação de empresa para prestação dos serviços especializados em Contagem de Ponto de Função, para aferição do dimensionamento de atividades e/ou serviços a serem executados pela empresa contratada do Item I
+
+5000 Ponto Função
+
+Razão social: Banco: Praça de pagamento: Fone: Fax: Agência:
+
+CNPJ: Conta: Contato: e-mail:
+
+14
+
+Validade da proposta: Local de entrega dos serviços: Prazo de garantia: Especificações Complementares: (se necessário) Nome, qualificação, CI e CPF do responsável pela assinatura da ARP: Declaração: Os preços mantidos na proposta escrita e naqueles que porventura vierem a ser ofertados através de lances verbais, estão incluídos todos os encargos, impostos e fretes, que se fizerem indispensáveis à perfeita execução dos serviços objeto da licitação.
+
+15
+
+ANEXO II
+
+TERMO DE REFERÊNCIA Sistema de Registro de Preço
+
+Serviços de Desenvolvimento de sistemas de informação e portais; manutenção corretiva, adaptativa, evolutiva, perfectiva e
+
+documentação e serviços especializados de mensurações de sistemas de informação.
+
+1.
+
+APRESENTAÇÃO
+1.1. Este Termo de Referência ­ TR tem como objetivo definir condições para a contratação de pessoa jurídica especializada na prestação de serviços de desenvolvimento de sistemas, com experiência comprovada na concepção, modelagem e construção, além de manutenção e sustentação, na modalidade de Centro de Solução de Desenvolvimento de Software, incluindo a elaboração de artefatos documentais, capacitação dos usuários para utilização dos sistemas e transferência de tecnologia para a UFVJM e contratação de pessoa jurídica especializada em mensuração de sistemas de informação. Os sistemas existentes deverão ser assumidos, como estão para execução de manutenções e sustentação.
+
+2.
+
+OBJETO
+2.1. O objeto desta contratação está dividido em 02 (dois) itens:
+
+Item I: Prestação de serviços técnicos especializados na área de tecnologia da informação, compreendendo o desenvolvimento, manutenção corretiva, adaptativa, evolutiva ou perfectiva de sistemas de informação e portais; e documentação de sistemas de informação, por intermédio das atividades, de acordo com as especificações, padrões técnicos de desempenho e qualidade estabelecidos pela Contratante, mediante ordens de serviço dimensionadas pela técnica de contagem de Pontos por Função Brutos ­ PFB, pagas pelo quantitativo mensal de resultados recebidos e homologados, acompanhadas da respectiva documentação prevista pela Contratante, no modelo de Centro de Solução de Desenvolvimento de Software, na forma de serviços continuados. O quantitativo foi estimado em 5.000 (cinco mil)
+
+16
+
+PFB, sem garantia de consumo mínimo. O prazo será de 12 (doze) meses, podendo ser renovado por iguais e sucessivos períodos, até o limite previsto em lei. Item II: Contratação de empresa para prestação dos serviços especializados em Contagem de Ponto de Função, para aferição do dimensionamento de atividades e/ou serviços a serem executados pela empresa contratada do Item I. O quantitativo foi estimado em 5.000 (cinco mil).
+2.2. Especificações preliminares: 2.2.1. A métrica para estimativa de tamanho de software, a ser utilizada neste contrato, é
+
+Pontos de Função (Function Points), normatizada no Manual de Práticas e Contagens versão 4.3 (Counting Practices Manual - Release 4.3), publicado pelo IFPUG (International Function Point Users Group).
+2.2.2. O regime de Centro de solução de Desenvolvimento de Software implica no uso
+
+de uma forma sistematizada de desenvolvimento de software, apoiada em metodologia consolidada, utilizando processo controlado, repetitivo e padronizado de produção.
+2.2.3. Será usado para aferir a qualidade dos produtos entregues as práticas descritas no
+
+modelo de qualidade de processo MPS.BR (Melhoria de Processos do Software Brasileiro). O nível de maturidade será exigido a critério da contratante.
+3.
+
+FUNDAMENTO LEGAL
+3.1. A natureza dos serviços descritos neste Termo de Referência - TR é própria para que
+
+sejam contratados mediante Pregão, nos termos da Lei no 8.666, de 21/06/1993; Lei no 10.520, de 17 de julho de 2002; do Decreto no 5.450, de 31 de maio de 2005; do Decreto no 1.070, de 02 de março de 1994; IN no 02/2008 de 30 de abril de 2008, IN n.º 04/2008 de 19 de maio de 2008 e demais legislação pertinentes, bem como nas condições previstas neste TR. A Lei no 10.520/2002, Decreto no 5.450/2005 e Art 46 da Lei no 8.666/93 foram invocados para sugerir a modalidade e tipo do certame a ser realizado.
+4.
+
+REFERÊNCIAS
+4.1. Para a realização deste Termo de Referência e dos Encartes que o compõem, foram
+
+objetos de pesquisa, documentos tais como, Editais, Contratos e Termos de Referência para a contratação de Fábrica de Software, das instituições relacionadas abaixo: 1.1. MJ - Ministério da Justiça;
+
+17
+
+1.2. ELETROBRÁS - Centrais Elétricas Brasileiras S/A; 1.3. MEC ­ Ministério da Educação; 1.4. Instrução Normativa Nº 2 de 30 de abril de 2008; 1.5. Instrução Normativa Nº 4 de 19 de maio de 2008; 1.6. Instrução Normativa N° 3 de 15 de outubro de 2009 SLTI/MPOG; 1.7. Lei Nº. 8.666/1993.
+5.
+
+JUSTIFICATIVA
+5.1.
+
+Ao longo dos últimos anos a UFVJM trabalhou sem uma coordenação das ações de suas atividades fins com a área de Tecnologia da Informação (TI), propiciando dificuldade na obtenção de informações estratégicas em tempo hábil, ausência de controles sobre os processos de TI e inexistência de um quadro de pessoal efetivo especializado em Desenvolvimento de Sistemas. Como resultado disso, o número de serviços disponibilizados é insuficiente.
+
+5.2.
+
+Para que a UFVJM possa fazer uso adequado das Tecnologias da Informação, especialmente de sistemas de informação, para uso operacional e estratégico, faz-se necessário recuperar a capacidade de desenvolvimento de software para o atendimento de tais necessidades, fomentando meios de adquirir serviços de TI que desenvolvam sistemas confiáveis e seguros, e desta forma melhorar a qualidade dos processos de ensino, pesquisa e extensão.
+
+5.3.
+
+A contratação de serviços de desenvolvimento de sistemas e de serviços especializados de mensurações de sistemas de informação é um desses meios, sendo uma maneira mais rápida e eficaz da UFVJM obter sistemas de qualidade, elaborados por mão-de-obra especializada e constantemente atualizada face às inovações tecnológicas.
+
+5.4.
+
+O Processo Licitatório proposto neste TR está baseado na premissa de que os Licitantes apresentem propostas que mantenham os custos dentro de padrões normalmente aceitos pelo mercado, e que contemplem serviços elaborados com a qualidade, segurança, controle de dados e informações e uso de metodologias e técnicas consagradas na área de Engenharia de Software, compatíveis com as boas práticas desses serviços.
+
+18
+
+5.5.
+
+Desde 2008 a UFVJM tem adotado o Sistema Integrado de Gestão Acadêmica SIGA. A equipe de desenvolvimento é dividida por módulos sendo alocados atualmente dois Analistas para o módulo Ensino e um técnico de tecnologia da informação e dois Analistas para o módulo Administrativo. Não há funcionários disponíveis para os módulos Biblioteca, Bolsas, Apoio Estudantil, Recursos Humanos, Registro Diploma, Protocolo, Pós-graduação e Extensão. Os analistas executam todas as atividades do desenvolvimento, desde o projeto até a codificação e teste.
+
+5.6.
+
+Nos últimos meses, tem sido crescente a demanda de sistemas de informações e de sítios web solicitados pela UFVJM em virtude do crescimento da instituição, o que vem acarretando aumento significativo da demanda por serviços técnicos especializados em desenvolvimento e manutenção de sistemas de informações. O desenvolvimento e a manutenção evolutiva de sistemas e sítios são de suma importância para o desenvolvimento das ações da UFVJM. A ausência de sistemas informatizados em setores essenciais como Pós-graduação, Extensão e RH, somados ao crescimento da instituição pode gerar em médio prazo a incapacidade de execução das atividades dentro do prazo necessário.
+
+5.7.
+
+A execução dessa demanda de desenvolvimento possibilitará o aumento da eficiência de diversos setores da instituição. A contratação de empresa especializada e experiente na área de Tecnologia da Informação - TI apresenta-se como uma alternativa apropriada para sanar a deficiência da UFVJM na falta de um quadro próprio para atender as suas demandas de desenvolvimento e serviços especializados de mensurações de sistemas de informação.
+
+6.
+
+CARACTERÍSTICAS GERAIS DOS SERVIÇOS
+6.1.
+
+Os serviços serão executados em 2 (dois) itens, sendo que a empresa vencedora do Item I não poderá ser vencedora do Item II ou ter qualquer vínculo comercial com esta. Tal restrição visa assegurar a necessária segregação das funções de executor e fiscalizador dos serviços. Caso ocorra de uma empresa vencer os dois itens, a mesma deverá optar, por escrito, por um deles, conforme IN 02 Artigo 3º, §2º. Da mesma forma, o profissional responsável pela contagem de
+
+19
+
+pontos de função do Item I não poderá ser o mesmo profissional responsável pela mensuração dos pontos de função do Item II.
+Item I
+6.2. A medição das demandas será elaborada com base na métrica de contagem de Pontos
+
+por Função Bruto, como medida para o esforço a ser realizado, inclusive os serviços de manutenção e documentação de sistemas de informação. Esses serviços, quando se configurarem em atividades que não puderem ser medidas em Pontos por Função serão contratados por resultados, e o esforço ficará previamente estabelecido conforme Anexo H.
+6.3. No caso da Contratada identificar algum item não passível de medição deverá enviar
+
+relatório técnico à Contratante que avaliará e, se for o caso, irá estipular uma forma de medição para pagamento.
+6.4. A contagem de pontos por função realizada pela Contratada deverá ser assinada por
+
+profissional com capacitação em Análise de Pontos de Função. A comprovação será feita mediante a apresentação do certificado ou diploma em nome do profissional. apresentação do certificado IFPUG.
+6.5. A integração com outros sistemas e interoperação entre sistemas, mesmo que externos
+
+a UFVJM deverá ser realizada, sempre que tecnicamente viável, por intermédio de webservices, seguindo os padrões estabelecidos pela e-Ping - Padrões de Interoperabilidade de Governo Eletrônico (disponível em http://www.eping.e.gov.br), nos termos da IN no 04/08. Item II
+6.6. Serviço de Contagem de Pontos por Função, por meio da contagem estimada ou
+
+detalhada, para aferição do dimensionamento das atividades e/ou serviços a serem executados pela empresa contratada do Item I, em conformidade com o manual de contagem Counting Practices Manual - CPM, versão 4.3 e NESMA (Netherlands Software Metrics Users Assocation).
+7.
+
+PRAZOS DE ATENDIMENTO
+
+Item I
+7.1. O prazo para o atendimento do Item I será baseado no indicador Fator de Produtividade
+
+Mínima - FPM, que tem como objetivo adequar os prazos de elaboração dos artefatos a um valor razoável de produtividade e ajustamento do valor do preço do ponto de
+
+20
+
+função bruto em razão do esforço empregado. Fica estabelecido o seguinte fator de produtividade: 14,5 horas/PFB. Item II
+7.2. Fica estabelecido que o prazo máximo para o atendimento do Item II é de 100 PFB/dia. 8.
+
+SISTEMÁTICA DE ACOMPANHAMENTO DOS SERVIÇOS E ESTIMATIVA DE DEMANDA
+
+Item I
+8.1. Preposto Técnico 8.1.1.
+
+A Contratada designará 1 (um) profissional para atuar como Preposto Técnico, nas
+
+dependências da Contratante, com as seguintes responsabilidades:
+8.1.2.
+
+Todos os serviços deverão ser prestados nos horários normais de funcionamento,
+
+compreendidos entre 8h e 18h, de segunda a sexta, com carga horária total de 40 horas semanais.
+8.1.3.
+
+Executar a gestão geral do contrato por parte da Contratada, com a visão de todas
+
+as Ordens de Serviço ­ OS em desenvolvimento, objetivando garantir a execução dos serviços dentro dos prazos estabelecidos e atendendo todos os requisitos.
+8.1.4. 8.1.5.
+
+Responder, perante a Contratante, pela execução técnica das Ordens de Serviço. Participar periodicamente, a critério da Contratante, de reuniões de
+
+acompanhamento das atividades referentes as OS em execução, em ambiente de interesse da Contratante, com representantes da Contratante;
+8.1.6.
+
+Levar para as reuniões periódicas de acompanhamento, as situações não resolvidas
+
+em nível de gerência das OS.
+8.1.7. 8.1.8.
+
+Preposto Administrativo A Contratada designará 01 (um) profissional para atuar como Preposto
+
+Administrativo, nas dependências da Contratante, com a responsabilidade de realizar a gestão quanto aos aspectos administrativos e legais do contrato, o preposto técnico e o preposto administrativo não podem ser a mesma pessoa.
+8.1.9.
+
+Todos os serviços deverão ser prestados nos horários normais de funcionamento,
+
+compreendidos entre 8h e 18h, de segunda a sexta, com carga horária total de 40 horas semanais.
+
+21
+
+8.1.10. As demandas deverão ser encaminhadas à Contratada, por intermédio de Ordem de
+
+Serviço ­ OS elaborada pela Contratante, conforme Anexo C, documento este destinado ao controle dos serviços solicitados.
+8.1.11. A Contratada fica responsável pela manutenção dos sistemas em funcionamento,
+
+sem erros, durante toda a vigência do Contrato.
+8.2. A Contratada deverá, sem ônus para a Contratante, sempre que solicitada, fornecer
+
+todas as informações referentes à execução das OS para a Contratante.
+8.3. As OS deverão ser encaminhadas pela Contratante à Contratada por Ofício ou sistema
+
+informatizado a critério da Contratante.
+8.4. Não há previsão quanto à distribuição das solicitações de Ordens de Serviço ao longo
+
+dos meses, sendo responsabilidade da Contratada ajustar-se com vistas ao atendimento dos serviços solicitados pela Contratante de acordo com os prazos máximos estabelecidos neste TR.
+8.5. A Contratada, para cada OS recebida, deverá executar os artefatos encomendados, de
+
+acordo com os respectivos cronogramas, gerando produtos dentro dos padrões de qualidade e de compatibilidade técnica, conforme este termo de referência.
+8.6. A Contratada deverá realizar a verificação da qualidade antes da entrega dos produtos
+
+gerados para a Contratante. A Contratante também realizará a sua verificação da qualidade com vistas ao aceite dos produtos gerados pela Contratada.
+8.7. A Contratada deverá efetuar os acertos nas inconformidades encontradas pela
+
+Contratante, dentro dos prazos estabelecidos, sem ônus para a Contratante.
+8.8. A Contratante realizará a homologação de cada artefato recebido, constante na OS em
+
+no máximo 20 (vinte) dias úteis contados a partir da data da entrega do artefato.
+8.9. Caso um artefato desenvolvido pela Contratada e entregue para homologação não seja
+
+aprovado pelo Contratante, a Contratada deverá promover os ajustes necessários em um prazo correspondente a até 20% (vinte por cento) do período utilizado pela Contratada para o desenvolvimento do respectivo artefato, após a notificação da Contratante.
+8.10. Se as correções em inconformidades de um artefato, apontadas pela Contratante dentro
+
+dos prazos estabelecidos na OS gerarem retrabalho, neste ou em outros artefatos, as correções correrão por conta da Contratada.
+8.11. As OS conterão, além dos itens previstos no Anexo C, o seguinte:
+
+22
+
+8.11.1. A relação dos artefatos desejados salvo os casos em que essa informação for
+
+omitida, entende-se que devem ser produzidos todos os artefatos listados na Metodologia de Desenvolvimento.
+8.11.2. Uma estimativa da quantidade de Pontos por Função, conforme NESMA
+
+(Netherlands Software Metrics Users Assocation).
+8.11.3. O indicador Fator de Produtividade Mínima - FPM, que tem como objetivo
+
+adequar os prazos de elaboração dos artefatos a um valor razoável de produtividade e ajustamento do valor do preço do ponto de função bruto em razão do esforço empregado. 14,5 horas/PFB.
+8.12. A avaliação da qualidade dos artefatos entregues será realizada a cada entrega,
+
+Fica estabelecido o seguinte fator de produtividade:
+
+podendo motivar a recusa de artefatos. A motivação da recusa do artefato será formalizada pela Contratante.
+8.13. Para efeito de apuração de erros por PF também serão consideradas as
+
+desconformidades relacionadas aos requisitos não-funcionais especificados.
+8.14. Após a constatação, pela Contratante, de que todos os requisitos de uma OS foram
+
+atendidos, considerar-se-á entregues provisoriamente os serviços correspondentes. Depois disso, a Contratante deverá executar todos os testes necessários e manter os produtos em observação, funcionando em ambiente de produção pelo prazo de até 60 (sessenta) dias, quando se considerará a entrega definitiva.
+8.15. A inspeção e teste podem gerar a recusa de artefatos por motivo de vícios de qualidade
+
+ou por não observância dos padrões e melhores práticas adotadas pela Contratante. Em caso de recusa, o prazo efetivo de entrega do serviço não será considerado prorrogação do prazo contratual, o que poderá gerar aplicação de penalidades por atraso.
+8.16. A Contratante emitirá, após a inspeção e teste de todos os artefatos das OS entregues, o
+
+Termo de Homologação da Ordem de Serviço, que formalizará a entrega definitiva do produto.
+8.17. A emissão do Termo de Homologação da Ordem de Serviço pela Contratante não
+
+exime a Contratada da responsabilidade pela correção de erros identificados dentro do prazo de garantia do serviço.
+8.18. As demandas de manutenção e documentação de sistemas serão mensuradas com base
+
+na métrica de contagem de Pontos por Função, do IFPUG e Anexo H. As demandas de manutenção e documentação de sistema compreendem as seguintes modalidades:
+
+23
+
+8.18.1. Manutenção evolutiva: abrange a concepção e implantação de novas
+
+funcionalidades e de novos componentes em sistemas existentes na Contratante.
+8.18.2. Manutenção corretiva: contempla a identificação de pontos falhos e eliminação
+
+de defeitos de códigos de funcionalidades de sistemas. A manutenção corretiva altera o software para correção de defeito;
+8.18.3. Manutenção adaptativa: refere-se à adequação das funcionalidades dos sistemas
+
+a novas tecnologias e integração;
+8.18.4. Manutenção perfectiva: refere-se à melhoria da qualidade ou desempenho e
+
+mudanças em outros requisitos não-funcionais no sistema da Contratante;
+8.18.5. Documentação de software: execução de atividades de documentação ou de
+
+atualização de documentação do sistema da Contratante.
+8.19. Subcontratação 8.19.1. Será admitida a subcontratação do serviço de codificação de até 40% (quarenta
+
+por cento) do número de PFB solicitadas no mês, sem prejuízo das responsabilidades contratuais e legais da contratada.
+8.19.1.1. A contratada deverá informar por ofício as requisições que serão
+
+subcontratadas.
+8.19.2. Será admitida a subcontratação da fase de teste do sistema de até 100% (cem
+
+por cento) das OS solicitadas no mês, sem prejuízo das responsabilidades contratuais e legais.
+8.19.2.1. Não é necessário informar à contratante sobre subcontratação de testes. 8.19.3. Não será admitida subcontratação das demais fases do desenvolvimento. 8.19.4. A permissão da subcontratação justifica-se pelo princípio da economicidade,
+
+tendo em vista que a empresa vencedora precisará manter um custo fixo menor para entrega dos artefatos, o que colabora para a redução do custo do Ponto de Função na licitação. Conforme LEI Nº 8.666, DE 21 DE JUNHO DE 1993 Art. 72. O contratado, na execução do contrato, sem prejuízo das responsabilidades contratuais e legais, poderá subcontratar partes da obra, serviço ou fornecimento, até o limite admitido, em cada caso, pela Administração. Conforme INSTRUÇÃO NORMATIVA Nº 04 de 19 de maio de 2008. Art. 14. A Estratégia da Contratação, elaborada a partir da Análise de Viabilidade da Contratação, compreende as seguintes tarefas: ...
+
+24
+
+V - definição, pela Área de Tecnologia da Informação, das responsabilidades da contratada, que não poderá se eximir do cumprimento integral do contrato no caso de subcontratação; Item II
+8.20. A Ordem de Serviço de Mensuração será destinada exclusivamente à Contratada do
+
+Item II, para que esta proceda à realização da contagem na modalidade, estimada ou detalhada, indicada na Ordem de Serviço - OS.
+8.21. As Ordens de Serviço ­ OS, devem ser encaminhadas à Contratada por Ofício ou
+
+sistema informatizado a critério da Contratante.
+8.22. A Contratada, para cada Ordem de Serviço recebida, deverá executar os artefatos
+
+encomendados, de acordo com os respectivos cronogramas, gerando produtos dentro dos padrões de qualidade e de compatibilidade técnica, conforme as metodologias e padrões da Contratante.
+8.23. A Contratada deverá realizar a verificação da qualidade antes da entrega dos produtos
+
+gerados para a Contratante. A Contratante também realizará a sua verificação da qualidade com vistas ao aceite dos produtos gerados pela Contratada.
+8.24. A Contratada deverá efetuar os acertos nas não conformidades encontradas pela
+
+Contratante, dentro dos prazos estabelecidos no Nível de Serviço ­ NS, sem ônus para a Contratante.
+8.25. A Contratante deverá realizar a homologação de cada artefato recebido constante na
+
+Ordem de Serviço.
+8.26. Caso um artefato desenvolvido pela Contratada e entregue para homologação não seja
+
+aprovado pelo Contratante, a Contratada deverá promover os ajustes necessários em um prazo correspondente a até 20% (vinte por cento) do período utilizado para o desenvolvimento desse artefato, contado a partir da notificação da Contratante. Nesse caso poderão ser aplicadas penalidades estabelecidas contratualmente.
+8.27. Se as correções das não conformidades de um artefato, apontadas pela Contratante dentro dos prazos estabelecidos na Ordem de Serviço, gerarem retrabalho neste ou em outros artefatos, as correções correrão por conta da Contratada. 9.
+
+DIVERGÊNCIAS NA CONTAGEM
+9.1. No caso de existir divergência entre a contagem de pontos de função realizada pelas
+
+Contratadas dos Itens I e II em até 5% (cinco por cento) inclusive, prevalecerá a contagem definida pela Contratante. Se a diferença for superior a 5%, as Contratada dos Itens I e II deverão indicar um profissional do seu quadro com certificação
+
+25
+
+atualizada Certified Function Point Specialist (CFPS), para realizarem juntos a revisão das contagens e elaborarem uma proposta final para a solução do impasse.
+9.2. A existência de divergências quanto às contagens não autoriza à Contratada a onerar os
+
+prazos ou o nível de atendimento previsto neste Termo de Referência.
+9.3. Os profissionais indicados para elaborarem a revisão terão o prazo de até 5 (cinco) dias
+
+úteis, após o pedido de revisão, para indicar uma solução conjunta para o impasse.
+9.4. O prazo máximo para encaminhamento do pedido de revisão de contagem pela
+
+Contratada é de até 5 (cinco) dias úteis, após a Contratante disponibilizar a contagem.
+10. DESCRIÇÃO DOS SERVIÇOS A SEREM PRESTADOS
+
+Item I
+10.1. Os serviços de desenvolvimento de sistemas de informação podem ter como escopo: 10.1.1. Acompanhar o levantamento de requisitos, a análise dos sistemas de informação a
+
+serem desenvolvidos, a critério da Contratante;
+10.1.2. Desenvolver os sistemas de informação conforme especificações tecnológicas da
+
+Contratante;
+10.1.3. Realizar testes nos sistemas de informação desenvolvidos, visando garantir a
+
+qualidade e aderência aos requisitos do sistema;
+10.1.4. Gerar a documentação dos sistemas de informação desenvolvidos, observando os
+
+padrões da Contratante;
+10.1.5. Realizar as manutenções corretivas identificadas durante o período de garantia do
+
+sistema de informação desenvolvido;
+10.1.6. Gerar a documentação do projeto de desenvolvimento do sistema de informação,
+
+observando os padrões da Contratante;
+10.1.7. Gerenciar a execução da OS, visando garantir o cumprimento dos prazos e
+
+requisitos especificados.
+10.1.8. Os serviços de manutenção corretiva, adaptativa, evolutiva ou perfectiva e
+
+documentação de sistemas de informação serão realizados visando mantê-los em pleno funcionamento. Estes serviços abrangem:
+10.1.8.1. Gerência de Manutenção de Sistemas de Informação 10.1.8.1.1.Gerenciar a execução das demandas de sustentação dos sistemas
+
+em produção;
+
+26
+
+10.1.8.1.2.Gerenciar e controlar as atividades da equipe de sustentação de
+
+sistemas;
+10.1.8.1.3.Fazer cumprir os prazos determinados em cada OS; 10.1.8.2. Análise de Manutenção de Sistemas de Informação 10.1.8.2.1. Realizar manutenções evolutivas, corretivas, adaptativa e
+
+perfectiva nos sistemas existentes, de acordo com as especificações levantadas junto a Contratante;
+10.1.8.2.2. Atender aos padrões de qualidade, arquitetura e tecnologia da
+
+Contratante, de acordo com os critérios de qualidade elaborados pela Contratante;
+10.1.8.2.3. Elaborar e/ou atualizar documentação de sistemas que não
+
+possuam documentação, quando do interesse da Contratante;
+10.1.8.2.4. Atender aos requisitos de programação segura da Contratante. 10.1.8.3. Documentação de Sistemas de Informação 10.1.8.3.1. Elaborar manuais do usuário e do sistema; 10.1.8.3.2. Atualizar os manuais do usuário existentes após manutenções
+
+dos sistemas;
+10.1.8.3.3. Documentar as manutenções evolutiva, corretiva, adaptativa e
+
+perfectiva implementadas em sistemas existentes na Contratante, observando os padrões da Contratante;
+10.2. Metodologia de desenvolvimento e Artefatos produzidos. A Contratada deverá adotar
+
+metodologia de desenvolvimento de sistemas indicada ou aprovada pela Contratante, o conjunto de artefatos listado abaixo pretende definir a documentação necessária e os produtos que deverão ser gerados durante o desenvolvimento de sistemas, os templates para os artefatos deverão ser criados e apresentados pela assinatura do contrato e aprovados pela Contratante.
+10.2.1. Fase de Concepção 10.2.1.1. Documento de Visão 10.2.1.2. Diagrama de Caso de Uso 10.2.1.3. Mapa de Processos 10.2.1.4. Cronograma do Projeto
+
+Contratada
+
+após
+
+a
+
+27
+
+10.2.1.5. Protótipo da Interface do Usuário 10.2.1.6. Ata de Reunião 10.2.1.7. Relatório de contagem estimativa 10.2.2. Fase de Elaboração 10.2.2.1. Especificação de Caso de Uso 10.2.2.2. Especificação de Requisitos 10.2.2.3. Arquitetura de Referência 10.2.3. Fase de Construção 10.2.3.1. Diagrama de Classes 10.2.3.2. Diagrama de Sequência 10.2.3.3. Diagrama de Atividades 10.2.3.4. MER 10.2.3.5. Plano de Teste 10.2.3.6. Relatório de Execução de Testes 10.2.3.7. Código-fonte 10.2.3.8. Código-fonte de Teste de Unidade e de Integração 10.2.4. Fase de Transição 10.2.4.1. Plano de Implantação 10.2.4.2. Material de Suporte para o Usuário
+
+Item II
+10.3. Serviço de Mensuração de Sistemas consiste em: 10.3.1. Identificar e analisar as funcionalidades implementadas no sistema, funções de
+
+dados e funções transacionais, previstas na técnica de Análise de Pontos de Função.
+10.3.2. Atribuir o grau de complexidade para cada função de dados ou função
+
+transacional identificada.
+10.3.3. Atribuir a quantidade de Pontos de Função prevista na técnica de Análise de
+
+Pontos de Função.
+10.3.4. Identificar os itens não mensuráveis;
+
+28
+
+10.3.5. Identificar as características gerais do sistema, se necessário. 10.3.6. Concluir a contagem de Pontos de Função do sistema, identificando o tamanho do
+
+sistema e a quantidade de pontos de função a ser remunerada.
+
+11. MODELO DE EXECUÇÃO E AVALIAÇÃO DOS SERVIÇOS
+
+Item I
+11.1. O aceite de cada artefato produzido ficará condicionado ao atendimento dos seguintes
+
+requisitos:
+11.1.1. Conformidades com as especificações estabelecidas nos Critérios de Qualidade e
+
+após a aprovação da Contratante;
+11.1.2. Os produtos relativos à especificação de requisitos de tecnologia de informação
+
+só serão aceitos se guardarem estreita conformidade com os padrões da Contratante;
+11.1.3. No caso de não-conformidade do produto, a Contratada terá um prazo
+
+correspondente a até 20% (vinte por cento) do período utilizado para o desenvolvimento do respectivo artefato para promover as alterações solicitadas, o que não se configura como prorrogação de prazo.
+11.2. Para o aceite definitivo de uma OS, a Contratante verificará o atendimento dos
+
+seguintes requisitos:
+11.2.1. Pleno atendimento às especificações funcionais e técnicas; 11.2.2. Adequação às necessidades do usuário; 11.2.3. Total integração com os sistemas já existentes, no que couber; 11.2.4. Desempenho dos artefatos de software em nível desejável pelo usuário e
+
+requerido pela aplicação;
+11.2.5. Confiabilidade da execução do código; 11.2.6. Aplicativo livre de erros nos testes realizados; 11.2.7. Documentação completa e elaborada em português do Brasil; 11.2.8. Manual do usuário e do sistema entregue e atualizado, inclusive Ajuda do
+
+Sistema.
+11.3. Os produtos somente serão considerados aceitos caso todos os requisitos avaliados
+
+sejam aprovados e estejam em conformidade com a respectiva OS.
+
+29
+
+11.4. O modelo de execução e avaliação para os serviços do Objeto deste Termo de
+
+Referência deve obedecer às seguintes condições e exigências:
+11.4.1. O cálculo do esforço a ser realizado feito com base na métrica pontos de função
+
+brutos.
+11.4.2. O método de trabalho e os produtos gerados pela empresa Contratada devem
+
+obedecer aos critérios definidos na metodologia vigente na Contratante, obedecendo às adaptações, a serem realizadas para melhor atender às necessidades da Contratante.
+11.4.3. Os modelos de dados, as classes e demais objetos gerados deverão ser
+
+construídos ou adequados de maneira a permitir sua perfeita integração aos sistemas e sítios existentes, buscando a eliminação de redundâncias, a integridade das informações e o reuso de objetos, classes e componentes.
+11.4.4. Todas as atividades mensuradas em pontos por função brutos deverão ser
+
+concluídas dentro dos prazos estabelecidos na OS.
+11.5. Eliminar o problema detectado e disponibilizar para a Contratante as correções
+
+necessárias sem que estas comprometam qualquer outro sistema ou qualquer funcionalidade do sistema;
+11.6. Documentar as correções implementadas. 11.7. Os produtos serão recebidos e homologados pela Contratante que poderá aprová-los,
+
+mediante análise, que considerará a plena concordância dos produtos com os preceitos metodológicos vigentes na Contratante e os critérios de qualidade adotados na instituição.
+11.8. Qualquer serviço realizado, mas não aceito ou não homologado deverá ser refeito, não
+
+eximindo a empresa Contratada das penalidades e de outras sanções previstas em Edital.
+11.9. O pagamento dos produtos gerados será realizado somente após o processo de aceite e
+
+homologação divididos da seguinte forma:
+11.9.1. 11.9.2.
+
+80% (oitenta por cento) após a homologação. 20% (vinte por cento) após a validação da homologação.
+
+Item II
+11.10.
+
+A entrega do Relatório de Contagem de Pontos de Função deverá estar
+
+acompanhada do documento para formalizar a entrega do serviço, no qual a
+
+30
+
+Contratante deverá apor o seu "Recebido", datando-o, assinando-o e devolvendo uma via à Contratada.
+11.11.
+
+Após o recebimento, a Contratante procederá à avaliação do Relatório de Contagem
+
+de Pontos de Função, emitindo, ao final dessa etapa, o documento de homologação do serviço, que conterá um dos seguintes resultados possíveis:
+11.11.1. Rejeitado ­ quando o Relatório de Pontos de Função estiver em desacordo com
+
+os padrões da Contratante. Neste caso, o prazo de entrega do produto não será prorrogado, cabendo à aplicação de penalidades por atraso na entrega.
+11.11.2. Homologado com Ajustes ­ Quando houver necessidade de ajustes no Relatório
+
+de Pontos de Função entregue, a Contratante registrará no documento de homologação todos os ajustes a serem realizados e estabelecerá o prazo para que a Contratada resolva as pendências apresentadas. Caso não realize os ajustes no prazo estabelecido ou os ajustes não forem homologados, a entrega será considerada rejeitada e a Contratada está sujeita às penalidades previstas.
+11.11.3. Homologado ­ quando não forem identificados ajustes no Relatório de Pontos
+
+de Função entregue.Após a homologação bem sucedida, a Contratante emitirá o documento de aceite da Ordem de Serviço.
+11.12.
+
+Quando houver divergência entre os Relatórios de Pontos de Função dos itens I e II,
+
+a Contratante registrará no documento de homologação o valor a ser considerado, conforme disposto neste Termo de Referência, no item Divergências de Contagem.
+11.13.
+
+A emissão do documento de homologação da Ordem de Serviço, não exime a
+
+Contratada da responsabilidade pela correção dos erros identificados dentro do prazo de garantia do produto.
+12. NÍVEIS DE SERVIÇO E CONDIÇÕES DE PAGAMENTO 12.1. A Contratada deverá considerar os procedimentos de fiscalização e de gestão da
+
+qualidade do serviço previsto neste TR. O nível de serviço será acompanhado a cada OS. Caso não atenda aos requisitos previstos sofrerá glosas no pagamento devido pela Contratante, conforme Tabela de Grau de Infração do subitem 12.2.
+12.2. As condições de pagamento serão ajustadas de acordo com as infrações cometidas pela
+
+empresa Contratada na prestação dos serviços, e nas obrigações do Contrato e terá por base graus conforme relacionados na tabela a seguir, a qual servirá como referência para o fiscal do contrato: TABELA DE GRAU DE
+
+31
+
+INFRAÇÃO GRAU 01 CORRESPONDÊNCIA Advertência Glosa de 0,3% (zero vírgula três por cento), sobre o valor global dos serviços da OS. Glosa de 10% (dez por cento) sobre o valor médio mensal do Contrato.
+
+02
+
+03
+
+As glosas nos pagamentos a que se sujeita a Contratada terão como referência a tabela a seguir: TABELA DE REFERÊNCIA PARA GLOSA No DESCRIÇÃO Permitir a presença de empregado sem crachá 01 nos locais onde há prestação de serviço de interesse da Contratante. Suspender ou interromper, salvo motivo de 02 força maior ou caso fortuito, os serviços solicitados. Manter empregado sem qualificação para executar os serviços contratados. Acumular 03 (três) advertências Descumprir o prazo máximo de atendimento das OS, sem justificativa aceitável. Por ocorrência 02 Por ocorrência 01 REFERÊNCIA GRAU
+
+03
+
+Por ocorrência
+
+02
+
+04
+
+Por ocorrência
+
+02
+
+05
+
+Por ocorrência
+
+02
+
+Para os itens a seguir, deixar de:
+
+32
+
+6
+
+Zelar pelas instalações da Contratante. Substituir empregado que se conduza de modo inconveniente ou não atenda às necessidades. Efetuar o pagamento de salários, seguros,
+
+Por ocorrência
+
+02
+
+7
+
+Por dia
+
+02
+
+8
+
+encargos fiscais e sociais, bem assim quaisquer despesas diretas e/ou indiretas relacionadas à execução deste Contrato.
+
+Por ocorrência
+
+03
+
+12.3. Do resultado obtido no subitem 9.1 serão descontadas as glosas, determinando-se o
+
+valor a ser pago na OS.
+12.4. Se, após a fase de Iniciação, a Contratante decidir pela não abertura da Ordem de
+
+Serviço, a Contratada receberá o equivalente 10% (dez por cento) do total dos pontos de função estimados, por conta do esforço gasto para a geração do artefatos.
+13. DAS SANÇÕES ADMINISTRATIVAS 13.1. Pela inexecução total ou parcial do objeto, a Administração poderá, garantida a prévia
+
+defesa, aplicar à Contratada as seguintes sanções:
+13.1.1. Advertência, que será notificada por meio de ofício, mediante contra-recibo do
+
+representante legal da Contratada estabelecendo o prazo de 05 (cinco) dias úteis para que a empresa licitante apresente justificativas para o atraso, que só serão aceitas mediante crivo da administração;
+13.1.2. Multa no percentual correspondente a 0,3% (zero vírgula três por cento), por
+
+descumprimento das obrigações assumidas incidente sobre o valor dos serviços não prestados, até a data do efetivo adimplemento, observado o limite de 30 (trinta) dias;
+13.1.2.1. A multa moratória será aplicada a partir do 2 (segundo) dia útil da
+o
+
+inadimplência, contado da data definida para o regular cumprimento da obrigação.
+13.1.3. Multa de 10% (dez por cento) sobre o valor dos serviços não prestados, no caso
+
+de inexecução total ou parcial do objeto contratado, recolhida no prazo de 15 (quinze) dias corridos, contados da comunicação oficial, sem embargo de indenização dos prejuízos porventura causados a Contratante pela não execução parcial ou total do contrato.
+
+33
+
+13.1.3.1. Decorridos 30 (dias) corridos sem que o contratado tenha iniciado a
+
+prestação da obrigação assumida, estará caracterizada a inexecução contratual, ensejando a sua rescisão.
+13.1.3.2. A aplicação de multa por inexecução contratual independe da multa
+
+moratória eventualmente aplicada ou em fase de aplicação, sendo aplicável cumulativamente.
+13.1.4. Suspensão do direito de licitar e de contratar com a Administração Pública, pelo
+
+prazo de até 05 (cinco) anos, garantido o direito prévio da citação e da ampla defesa, enquanto perdurar os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade. Do mesmo modo, o licitante que convocado dentro do prazo de validade da sua proposta, não celebrar o contrato, deixar de entregar a documentação exigida para o certame ou apresentar documentação falsa, ensejar o retardamento da execução do seu objeto, não mantiver a proposta, falhar ou fraudar na execução do objeto pactuado, comportar-se de modo inidôneo ou cometer fraude fiscal.
+
+13.2. As sanções previstas nos subitens 13.1.1 e 13.1.4 deste item poderão ser aplicadas
+
+juntamente com as dos subitens 13.1.2 e 13.1.3, facultada a defesa prévia do interessado, no respectivo processo, no prazo de 05 (cinco) dias úteis.
+13.3. Se a multa for de valor superior ao valor da garantia prestada, além da perda desta,
+
+responderá a empresa vencedora pela sua diferença, a qual será descontada dos pagamentos devidos pela Administração ou, quando for o caso, cobrada judicialmente.
+13.4. As penalidades serão obrigatoriamente registradas no SICAF, e no caso de suspensão
+
+de licitar, o licitante deverá ser descredenciado por igual período, sem prejuízo das multas previstas no Edital e das demais cominações legais.
+
+14. QUALIFICAÇÃO TÉCNICA DOS PROFISSIONAIS 14.1. Os profissionais a serem envolvidos nos serviços objeto deste Termo de Referência,
+
+deverão estar capacitados nos recursos que compõem o ambiente de desenvolvimento da Contratante.
+14.2. A Contratada deverá comprovar que os profissionais envolvidos nos serviços
+
+apresentam qualificação mínima relacionada abaixo, comprovada por intermédio de contrato de trabalho, diploma, certificado ou atestado de entidade idônea em nome do profissional e da devida comprovação de que faz parte da equipe da licitante (contrato
+
+34
+
+de prestação de serviço ou relação de empregados (RE) do mês subsequente à assinatura do contrato). Os requisitos obrigatórios foram colocados para orientar a Contratada quanto ao perfil ideal para a Contratante e qualificação geral para executar os serviços. Item I
+14.2.1. Preposto Técnico
+
+Requisitos obrigatórios Curso superior completo na área de informática; Experiência em desenvolvimento de sistemas no mínimo de 2 anos; Curso de Gerenciamento de Projetos mínimo de 20 horas. Requisitos desejáveis Conhecimento do framework Miolo.
+14.2.2. Preposto Adminsitrativo
+
+Requisitos obrigatórios Curso superior incompleto em qualquer área;
+14.2.3. Gerente de Projetos
+
+Requisitos obrigatórios Curso superior em qualquer área; Experiência de no mínimo 1 ano em gerenciamento de projetos e equipes de desenvolvimento de sistemas; Certificação PMP concedida pelo PMI.
+14.2.4. Analista de Métrica
+
+Requisitos obrigatórios Curso superior completo na área de informática ou qualquer curso superior com especialização na área de informática; Certificação CFPS (Certified Function Point Specialist), concedida pelo IFPUG; Experiência de no mínimo 1 ano em contagem de pontos de função.
+14.2.5. Analista
+
+Requisitos obrigatórios
+
+35
+
+Curso superior completo na área de informática ou qualquer curso superior com especialização na área de informática; Curso de UML, com mínimo de 40 horas. Mínimo de 1 (um) ano de experiência como analista de desenvolvimento de sistemas; Mínimo de 1 (um) ano de experiência em UML.
+14.2.6. Desenvolvedor
+
+Requisitos obrigatórios Mínimo de curso superior incompleto na área de informática ou qualquer curso superior com especialização na área de informática; Mínimo de 1 (um) ano de experiência em desenvolvimento com WEB - PHP e ou JAVA Mínimo de 1 (um) ano de experiência em PostgreSQL. Requisitos desejáveis Conhecimento do framework Miolo. Experiência em leitura de modelos UML. Item II
+14.2.7. Analista de Métrica
+
+Requisitos obrigatórios Curso superior completo na área de informática ou qualquer curso superior com especialização na área de informática; Certificação CFPS (Certified Function Point Specialist), concedida pelo IFPUG; Experiência de no mínimo 1 ano em contagem de pontos de função.
+
+15. REQUISITOS DE EXIGÊNCIA TÉCNICA PARA A CONTRATADA
+
+Item I
+15.1. Requisitos de Exigência Técnica 15.1.1. Tecnologias 15.1.1.1. A empresa Licitante deverá comprovar aptidão para prestar serviços com a
+
+qualidade requerida pela Contratante, com base no uso das tecnologias de
+
+36
+
+tratamento da informação, no desenvolvimento e manutenção de sistemas, no modelo de Centro de Solução em Desenvolvimento de Software, relacionadas a seguir: PHP ou JAVA com algum framework; Webservices; camada de persistência; Uso de ferramentas específicas de teste e por tipos de testes existentes (Unitário, Integração, Funcional, Carga e Desempenho); e Prestação de serviços de desenvolvimento de sistemas.
+15.1.1.2. Comprovação de que a Licitante prestou ou está prestando, a contento,
+
+serviços técnicos de desenvolvimento e manutenção de sistemas no modelo de Fábrica de Software, mensurados por Ponto de Função, em um montante mínimo de 2.000 (Dois mil) PF's, atendendo aos padrões de qualidade, de forma satisfatória, na plataforma PHP e/ou JAVA.
+15.1.1.3. A quantidade de pontos de função solicitada, nos atestados acima
+
+relacionados, é justificável para demonstrar a capacidade do futuro fornecedor em prestar a integralidade dos serviços, nos termos do Inciso II, Artigo 30 da Lei 8.666/93;
+15.1.1.4. A Contratante busca com os requisitos de tecnologia acima identificar
+
+empresas que já possuam capacidade de utilizar adequadamente tecnologias que serão necessárias à realização dos serviços constantes do Objeto do Termo de Referência.
+15.1.1.5. Para realizar a comprovação, a empresa Licitante deve apresentar Atestado
+
+de Capacidade Técnica referente ao uso da tecnologia, do qual conste o projeto ou sistema em que foi empregada e demais informações: Nome / Email / Telefone do responsável pelos contatos técnicos do cliente - pessoa vinculada ao cliente responsável pelos contatos relativos ao projeto.
+15.1.2. Uso de Metodologia 15.1.2.1. A empresa Licitante deverá comprovar experiência no uso de Metodologia
+
+baseada em Unified Modeling Language ­ UML e no padrão de arquitetura de sistemas Model-view-controller ­ MVC no desenvolvimento e manutenção de sistemas Web.
+15.1.2.2. Para comprovar essa experiência, a empresa Licitante deve apresentar
+
+Atestado de Capacidade Técnica comprovando o uso da Metodologia, do qual conste(m) o(s) projeto(s) ou sistema(s) em que foi empregada, bem como Nome / E-mail / Telefone do responsável pelos contatos técnicos do cliente (pessoa vinculada ao cliente responsável pelos contatos relativos ao projeto).
+
+37
+
+Item II
+15.2. Requisitos de Exigência Técnica 15.2.1. Tecnologias 15.2.1.1. A empresa Licitante deverá comprovar experiência de que prestou ou está
+
+prestando serviços técnicos de contagem de Ponto de Função, em um montante mínimo de 2.000 (Dois mil) PF's , atendendo aos padrões de qualidade, de forma satisfatória.
+15.2.1.2. A quantidade de pontos de função solicitada, nos atestados acima
+
+relacionados, é justificável para demonstrar a capacidade do futuro fornecedor em prestar a integralidade dos serviços, nos termos do Inciso II, Artigo 30 da Lei 8.666/93;
+15.2.1.3. Para comprovar essa experiência, a empresa Licitante deve apresentar
+
+Atestado de Capacidade Técnica comprovando o uso da Metodologia, do qual conste(m) o(s) projeto(s) ou sistema(s) em que foi empregada, bem como Nome / E-mail / Telefone do responsável pelos contatos técnicos do cliente (pessoa vinculada ao cliente responsável pelos contatos relativos ao projeto).
+
+16. TRANSFERÊNCIA DE CONHECIMENTO E TRANSIÇÃO CONTRATUAL 16.1. A transferência de conhecimento, no uso das soluções desenvolvidas pela Contratada,
+
+deverá ser viabilizado, sem ônus adicionais para a Contratante, conforme Plano de Transferência de Conhecimento (o qual fará parte do Plano de Implantação do Sistema) fornecido pela Contratada durante a Fase de Homologação, em eventos específicos de transferência de conhecimento, preferencialmente em ambiente disponibilizado pela Contratada, e baseado em documentos técnicos e/ou manuais específicos da solução desenvolvida. O cronograma e horários dos eventos deverão ser previamente aprovados pela Contratante.
+16.2. A Contratada deverá descrever a metodologia que será utilizada para transferir
+
+conhecimento à Contratante e aos usuários finais.
+16.3. A transferência de conhecimento, direcionada para os técnicos indicados pela
+
+Contratante deverá ser focado na solução adotada, de forma que haja transferência do conhecimento da tecnologia utilizada no desenvolvimento do sistema. Ao final da transferência, técnicos da Contratante deverão estar capacitados para realizarem a instalação, a manutenção e a evolução das funcionalidades do sistema.
+
+38
+
+16.4. Em ocorrendo nova licitação, com mudança de fornecedor dos serviços, a Contratada
+
+signatária do contrato em fase de expiração, assim considerado o período dos últimos três meses de vigência, deverá repassar para a vencedora do novo certame, por intermédio de evento formal, os documentos necessários a continuidade da prestação dos serviços, bem como esclarecer dúvidas a respeito de procedimentos no relacionamento entre a Contratante e a Contratada.
+
+17. GARANTIA DOS PRODUTOS DESENVOLVIDOS
+
+Item I
+17.1. A empresa Contratada deverá apresentar garantias de funcionamento dos produtos
+
+desenvolvidos pelo período mínimo de 60 (sessenta) dias, a contar da data de seu recebimento definitivo, comprometendo-se a efetuar as necessárias correções, sem ônus adicionais para a Contratante, durante este período. Este período servirá para avaliação, por parte da Contratante, dos artefatos recebidos, quando se verificará a aderência às normas, consistência e estabilidade dos produtos entregues, não se confundindo com o período de garantia de 09 (nove) meses, previsto no subitem 17.3, em que os produtos ficarão sob garantia contra defeitos ocultos, falhas e mau funcionamento.
+17.2. Durante o período de 60 (sessenta) dias acima mencionado, qualquer defeito nos
+
+produtos ou não correspondência aos requisitos especificados deverão ser reparados sem ônus para a Contratante. A garantia deverá incluir todos os produtos desenvolvidos. As manutenções poderão ser motivadas por eventuais impropriedades detectadas nos procedimentos desenvolvidos. Neste caso, caberá uma decisão conjunta, devidamente documentada, ressaltando os aspectos positivos ou imprescindíveis que justifiquem o empreendimento. A documentação deverá ser atualizada para refletir eventuais mudanças.
+17.3. Após o aceite definitivo, a garantia dos produtos entregues será de 09 (nove) meses,
+
+prazo necessário para que um sistema alcance maturidade de uso
+
+e todas as
+
+funcionalidades possam ser testadas em ambiente de produção, com o desempenho requerido, considerando que itens como volume de dados, quantidade de transações e demais requisitos, mesmo quando submetidos a simulação, em tempo de teste e homologação, podem apresentar defeitos ocultos, em situações peculiares, a exemplo do crescimento da base de dados. Durante o período de 09 (nove) meses acima mencionado, qualquer defeito no sistema ou não correspondência aos requisitos especificados deverão ser reparados sem ônus
+
+39
+
+para o Contratante. Essa garantia deverá incluir todos os produtos desenvolvidos. As manutenções poderão ser motivadas por eventuais impropriedades detectadas nos procedimentos realizados. Neste caso, caberá uma decisão conjunta, devidamente documentada, ressaltando os aspectos positivos ou imprescindíveis que justifiquem as correções. A documentação deverá ser atualizada para refletir eventuais mudanças realizadas.
+
+18. SUPORTE TÉCNICO 18.1. O suporte técnico dos produtos deverá ser prestado durante todo o período de garantia
+
+dos produtos já entregues, mediante as condições que se seguem, sem qualquer ônus adicional para a Contratante.
+18.2. A Contratada deverá especificar a equipe encarregada do atendimento e do suporte
+
+técnico dos produtos, fornecendo nomes, telefones, fax e endereços eletrônicos (email) ou sistema para o encaminhamento de chamadas remotas da equipe da Contratante.
+18.3. O suporte técnico será efetuado mediante contato telefônico, e-mail, presencialmente
+
+no ambiente da Contratante para:
+18.3.1. Resolução de problemas e dúvidas de configuração e utilização dos produtos; 18.3.2. Correção de erros de quaisquer etapas do processo de desenvolvimento ou
+
+implantação; Diagnóstico de problemas, com a correção dos erros detectados, e também a entrega da documentação atualizada das alterações efetuadas;
+19. DIREITO AUTORAL E PROPRIEDADE INTELECTUAL 19.1. A Contratante, para todos os efeitos da aplicação da Lei no 9.609/98, que dispõe sobre
+
+a proteção da propriedade intelectual de programa de computador, e regulamentos correlatos, deverá ser o único proprietário de licença para utilização dos sistemas desenvolvidos, devendo, para tanto, a Contratada ceder a Contratante, mediante cláusula contratual:
+19.1.1. O direito de propriedade intelectual do sistema desenvolvido e das partes em
+
+desenvolvimento, de forma permanente, permitindo à Contratante a qualquer tempo distribuir, alterar e utilizar os mesmos sem limitações de licenças restritivas;
+
+40
+
+19.1.2. O projeto, suas especificações técnicas, documentação, códigos-fonte de
+
+programas, dados de identificação dos técnicos desenvolvedores e todos os produtos gerados na execução do contrato, para o caso de instrução de processo de registro do Sistema no Instituto Nacional de Propriedade Intelectual (INPI) pela Contratante;
+19.1.3. Os direitos permanentes de uso e instalação sobre todas as adequações ao
+
+sistema e atualizações corretivas ou a arquivos e rotinas a ele associadas, desenvolvidas em decorrência do Contrato, sem ônus adicionais à Contratante;
+19.2. Desta forma, todos os direitos autorais da solução, documentação, "scripts", códigos -
+
+fonte e congêneres desenvolvidos durante a execução dos produtos são da Contratante, ficando proibida a sua utilização pela Contratada sem a autorização expressa da Contratante.
+19.3. A Contratada não poderá repassar a terceiros, em nenhuma hipótese, códigos fontes;
+
+bem como qualquer informação sobre a arquitetura e/ou documentação; assim como dados e/ou metadados trafegados; produtos desenvolvidos e entregues, ficando responsável juntamente com a Contratante por manter a segurança da informação relativa aos dados e códigos durante a execução das atividades e também em período posterior ao término da execução dos produtos.
+20. LOCAL E HORÁRIO DE EXECUÇÃO DOS SERVIÇOS 20.1. Os serviços constantes do Objeto deste Termo de Referência poderão ser executados
+
+tanto nas instalações da Contratante, quanto nas instalações da Contratada, na modalidade de centro de solução de desenvolvimento de software, porém, sempre seguindo as normas internas da Contratante.
+20.2. Quando os serviços prestados nas instalações da Contratante serão executados no
+
+horário de funcionamento da Contratante, podendo haver trabalho noturno ou nos finsde-semana, em razão de aumento de demanda ou fato que o justifique, tais como antecipação de prazos de entrega por parte do usuário, implementação de rotinas que necessitem de paralisação dos serviços disponibilizados aos usuários, depuração de erros críticos entre outros.
+20.3. Caso os serviços sejam realizados fora do ambiente da Contratante serão executados
+
+com recursos da Contratada, conforme horário que definir.
+20.4. Os serviços a serem realizados aos sábados, domingos e feriados no centro de solução
+
+de desenvolvimento de software não implicarão em nenhuma forma de acréscimo ou majoração nos valores dos serviços, razão pela qual será improcedente a reivindicação
+
+41
+
+de restabelecimento de equilíbrio econômico-financeiro, bem como, horas-extras ou adicionais noturnos.
+20.5. A Contratada se obrigará a dimensionar o horário dos trabalhos de acordo com os
+
+parâmetros apontados, de modo a alcançar os resultados nos prazos previstos estabelecidos nas Ordens de Serviço.
+20.6. O deslocamento de prestador de serviço da Contratada para a realização de:
+
+planejamento, revisões, auditorias de qualidade dos produtos/artefatos e reuniões na Contratante não implicarão em nenhuma forma de acréscimo ou majoração nos valores dos serviços, bem como, nenhum tipo de pagamento correspondente a horas-extras ou adicionais noturnos. A critério da Contratante é possível que o centro de solução de desenvolvimento de software venha a funcionar em espaço físico da Contratante, mantendo-se as demais cláusulas relativas à contratação deste tipo de serviço.
+
+21. QUANTIDADE ESTIMADA DOS SERVIÇOS
+
+Item I
+21.1. Estimativa 21.1.1. A quantidade estimada para as contratações é de 5.000 pontos por função
+
+brutos.
+21.1.2. Os valores estimados estão no Anexo B.
+
+Item II
+21.2. Estimativa 21.2.1. A quantidade estimada para as contratações é de 5.000 pontos por função
+
+brutos.
+
+22. PROCEDIMENTOS BÁSICOS DE SEGURANÇA 22.1. Os procedimentos mínimos de segurança exigidos da Contratada são: 22.1.1. Credenciar junto a Contratante, seus profissionais autorizados a retirar e a
+
+entregar documentos, bem como aqueles que venham a ser designados para prestar serviços nas dependências da universidade;
+
+42
+
+22.1.2. Identificar qualquer equipamento da empresa que venha a ser instalado nas
+
+dependências da Contratante, utilizando placas de controle patrimonial, selos de segurança, etc;
+22.1.3. Fazer com que seus funcionários mantenham sigilo absoluto sobre informações,
+
+dados e documentos integrantes dos serviços a serem executados, inclusive com a assinatura de termo de responsabilidade e manutenção de sigilo próprio, semelhante ao disponível na Contratante;
+22.1.4. Observar, rigorosamente, todas as normas e procedimentos de segurança
+
+implementados no ambiente de Tecnologia da Informação da Contratante;
+22.1.5. Adotar critérios adequados para o processo seletivo dos profissionais, com o
+
+propósito de evitar a incorporação de pessoas com características e/ou antecedentes que possam comprometer a segurança ou credibilidade do Contratante;
+22.1.6. Comunicar com antecedência mínima de 3 (três) dias a Contratante qualquer
+
+ocorrência de transferência, remanejamento ou demissão, para que seja providenciada a revogação de todos os privilégios de acesso aos sistemas, informações e recursos da Contratante, porventura colocados à disposição para realização dos serviços contratados;
+22.1.7. Manter sigilo sobre todos os ativos de informações da Contratante; e da
+
+Contratada que se refiram ao Contratante.
+
+23. CRITÉRIOS DE SELEÇÃO DOS FORNECEDORES 23.1.1. A empresa vencedora do Item I não poderá ser vencedora do Item II ou ter
+
+qualquer vínculo comercial com a mesma. Caso ocorra de uma empresa vencer os dois itens, a mesma deverá optar por um deles.
+24. PLANILHA DE COMPOSIÇÃO DE PREÇO 24.1.1. Deverá ser apresentada pela licitante vencedora, em uma única via, a Planilha
+
+de Composição de Preço, nos moldes da planilha apresentada na IN nº 02/2008 SLTI/MPOG, atualizada pela IN n° 03/2009 SLTI/MPOG, conforme o ANEXO L, deste termo de referência.
+25. REPACTUAÇÃO DO PREÇO CONTRATADO
+
+43
+
+25.1.1. Será permitida, anualmente, a repactuação do preço contratado, com base na
+
+variação dos componentes do custo do contrato, na qualidade e nos preços vigentes no mercado para a prestação de serviços.
+25.1.2. A anualidade acima referida será contada a partir da data limite para
+
+apresentação das propostas constante do instrumento convocatório.
+25.1.3. As solicitações de repactuação deverão ser devidamente justificadas e
+
+acompanhadas de planilha analítica que demonstre a efetiva variação de custo ocorrida no período, cabendo à Contratada a iniciativa e o encargo dos cálculos.
+26. OUTRAS OBRIGAÇÕES DA EMPRESA CONTRATADA 26.1. A empresa Contratada deve cumprir fielmente as condições e exigências contidas neste
+
+Termo de Referência, e em especial:
+26.1.1. Executar os serviços por intermédio de profissionais qualificados, com
+
+experiência e conhecimento compatíveis com os serviços a serem realizados, conforme este TR, sujeitos à comprovação pela Contratada;
+26.1.2. Submeter as decisões e os documentos técnicos dos Projetos à aprovação da
+
+Contratante;
+26.1.3. Designar formalmente funcionários encarregados, capacitados, e aceitos pela
+
+Contratante, para supervisão permanente, durante todo o período de vigência do contrato, para representá-la técnica e administrativamente, ou fornecer informações sobre os serviços, sempre que necessário. A empresa deverá apresentar Preposto Técnico e Preposto Administrativo, a ser mantido no local dos serviços, para representá-la durante a execução do Contrato, em atenção aos Arts. 68 da Lei no 8.666/93 e art 6o do Decreto no 2.271/97;
+26.1.4. Apresentar, por ocasião da assinatura do contrato, relação nominal dos
+
+empregados, acompanhada dos documentos que os identifiquem com qualificação para a prestação dos serviços;
+26.1.5. Para a assinatura do Contrato e para toda alteração de profissionais feita durante
+
+a sua vigência, a empresa deverá comprovar o perfil e experiência mínimos exigidos dos profissionais envolvidos na execução dos serviços mediante a apresentação de diplomas, certificados e currículo, inclusive comprovação em Carteira de Trabalho e/ou outro documento contratual, devendo o Fiscal do Contrato verificar o cumprimento dos requisitos;
+26.1.6. Responder pelos encargos sociais dos seus empregados residentes e pelos
+
+equipamentos, ferramentas, fretes de materiais, transporte de pessoal, impostos,
+
+44
+
+taxas, emolumentos, administração, supervisão, seguros, etc., necessários à execução dos serviços a serem contratados;
+26.1.7. Realizar, às suas expensas, na forma da legislação aplicável, tanto na admissão
+
+como durante a vigência do contrato de trabalho de seus empregados, os exames médicos exigidos, apresentando ao Fiscal do Contrato, anualmente, os respectivos comprovantes;
+26.1.8. Manter seus empregados asseados, adequadamente trajados para o ambiente de
+
+trabalho, com trajes em bom estado de conservação e portando crachá de identificação, do mesmo tipo adotado pela Contratante, arcando com o ônus de sua confecção;
+26.1.9. Responsabilizar-se pela alimentação e transporte dos empregados que se
+
+deslocarem à Contratante para prestar serviços, uma vez que não terão vínculo empregatício com esse Órgão;
+26.1.10. Cumprir cada uma das normas regulamentadoras da Medicina e Segurança no
+
+Trabalho;
+26.1.11. Substituir, imediatamente, a critério da Contratante, o funcionário do Quadro
+
+de Pessoal que se afastar, seja por motivo de férias, licença médica, licença paternidade etc, por outro profissional que reúna as mesmas qualificações do afastado, a serem conferidas pela Fiscalização;
+26.1.12. Substituir, imediatamente, a critério da Contratante, o profissional que seja
+
+considerado inapto para os serviços a serem prestados, seja por incapacidade técnica, atitude inconveniente ou falta de urbanidade ou que venha a transgredir as normas previstas no Contrato;
+26.1.13. Responder por perdas e danos que venham a sofrer a Contratante e/ou
+
+terceiros, em razão de ação ou omissão dolosa dos seus empregados ou seus prepostos (técnico e administrativo), quando ocorrida nas suas dependências, reparando ou indenizando os prejuízos, independentemente de outras cominações contratuais ou legais a que estiver sujeita;
+26.1.14. Responder pelos encargos trabalhistas, previdenciários, fiscais e comerciais,
+
+resultantes da execução dos serviços, não transferindo à Administração a responsabilidade por seu pagamento, nem onerar o objeto do contrato;
+26.1.15. Manter, durante toda a execução do Contrato, em compatibilidade com as
+
+obrigações assumidas pela Contratada, todas as condições de habilitação e qualificação exigidas na licitação;
+
+45
+
+26.1.16. Proibir a veiculação de publicidade ou qualquer outra informação acerca do
+
+objeto do contrato, salvo se houver prévia autorização da Administração do Contratante;
+26.1.17. Reparar, corrigir, remover e reconstruir, às suas expensas, no total ou em
+
+parte, os serviços efetuados referentes ao objeto em que se verifiquem vícios, defeitos ou incorreções resultantes da execução, conforme estabelecido neste TR;
+26.1.18. Manter sigilo, sob pena de responsabilidade civil, penal e administrativa,
+
+sobre todos os assuntos de interesse da Contratante ou de terceiros, que tomar conhecimento em razão da execução do objeto do Contrato, devendo orientar seus empregados nesse sentido. Os empregados deverão assinar Termo de Manutenção de Sigilo junto à Contratada;
+26.1.19. Assumir a responsabilidade por todas as providências e obrigações
+
+estabelecidas na legislação específica de acidentes do trabalho, quando forem vítimas os seus profissionais no desempenho dos serviços ou em conexão com eles, ainda que acontecido em visita às dependências da Contratante;
+26.1.20. Comunicar por escrito qualquer anormalidade, prestando à Contratante os
+
+esclarecimentos julgados necessários;
+26.1.21. A Contratada deverá manter os seus funcionários qualificados nas
+
+metodologias, processos e tecnologias objeto do presente TR durante toda a vigência do Contrato, entendendo-se que não obstante a não exigência de valores ou horas mínimos investidos em treinamento, a Contratada deverá planejar e executar eventos de capacitação para seus funcionários, considerando também, que certamente os insumos materiais e intelectuais empregados na execução dos serviços evoluirão;
+26.1.22. Orientar e exigir de seus profissionais: 26.1.22.1.
+
+Preservar a integridade e guardar sigilo das informações de que fazem
+
+uso, bem como zelar e proteger os respectivos recursos de processamento de informações;
+26.1.22.2.
+
+Cumprir a política de segurança da informação, sob pena de incorrer nas
+
+sanções legais cabíveis;
+26.1.22.3.
+
+Não compartilhar, sob qualquer forma, informações sigilosas com
+
+outros que não tenham necessidade de conhecer.
+
+46
+
+27. OUTRAS OBRIGAÇÕES DO CONTRATANTE 27.1. A Contratante obriga-se a cumprir fielmente as condições e exigências contidas neste
+
+Termo de Referência, e em especial:
+27.1.1. Proporcionar todas as facilidades para que a empresa possa desempenhar seus
+
+serviços dentro das normas e condições contratuais.
+27.1.2. Comunicar à empresa Contratada as eventuais irregularidades observadas na
+
+execução dos serviços e/ou nos materiais entregues para adoção das providências saneadoras;
+27.1.3. Efetuar o pagamento na forma e nos prazos convencionados no Contrato;
+
+Aplicar as penalidades previstas para o caso do não cumprimento de cláusulas contratuais ou aceitar as justificativas apresentadas pela empresa.
+28. ACOMPANHAMENTO E FISCALIZAÇÃO DOS SERVIÇOS 28.1. A execução do Contrato será fiscalizada por Representante da Contratante,
+
+especialmente designado, cumprindo-lhe:
+28.1.1. Acompanhar e fiscalizar os serviços, dirimir as dúvidas que surgirem no curso
+
+da sua prestação e de tudo dar ciência à Contratada, para a fiel execução dos serviços durante toda a vigência do Contrato;
+28.1.2. Sem prejuízo da plena responsabilidade da Contratada perante à Contratante
+
+e/ou a terceiros, os serviços estarão sujeitos a mais ampla e irrestrita fiscalização, a qualquer hora e em todos os locais. A presença do servidor designado como Representante não diminuirá a responsabilidade da empresa, por quaisquer irregularidades resultantes de imperfeições técnicas, emprego de material inadequado ou de qualidade inferior, que não implicarão co-responsabilidade da Contratante ou do servidor designado para a fiscalização;
+28.1.3. Representante da Contratante poderá sustar, recusar, mandar refazer quaisquer
+
+serviços, que estejam em desacordo com as especificações técnicas, e as constantes do TR, determinando prazo para a correção de possíveis falhas ou substituições de produtos em desconformidade com o solicitado;
+28.1.4. Eventuais irregularidades de caráter urgente deverão ser comunicadas, por
+
+escrito, ao Fiscal da Contratante com os esclarecimentos julgados necessários e, as informações sobre possíveis paralisações de serviços, a apresentação de relatório técnico ou razões justificadoras a serem apreciadas e decididas pelo servidor designado;
+
+47
+
+28.1.5. As decisões e providências sugeridas pela empresa ou julgadas imprescindíveis,
+
+que ultrapassarem a competência do Fiscal designado pela Contratante, deverão ser encaminhadas à autoridade superior, para a adoção das medidas cabíveis;
+28.1.6. O Fiscal e/ou Servidor designado deverá conferir os relatórios dos serviços
+
+executados pela Contratada, por ocasião da entrega das Notas Fiscais ou Faturas, e atestar a prestação dos serviços, quando executados satisfatoriamente, para fins de pagamento; Ao Fiscal do Contrato fica assegurado o direito de exigir o cumprimento de todos os itens constantes do TR, da proposta da Contratada e das cláusulas do futuro contrato, além de solicitar a substituição de qualquer empregado da Contratada que: comprometa a perfeita execução dos serviços; crie obstáculos à fiscalização; não corresponda às técnicas ou às exigências disciplinares do Órgão; e cujo comportamento ou capacidade técnica sejam inadequados à execução dos serviços, que venha causar embaraço à fiscalização em razão de procedimentos incompatíveis com o exercício de sua função.
+29. FORMA DE PAGAMENTO 29.1. O pagamento será efetuado mensalmente, mediante apresentação de Nota Fiscal/Fatura
+
+correspondente aos serviços efetivamente executados, após o aceite e o atesto pelo Fiscal do Contrato, designado pela autoridade competente da Contratante.
+29.2. O pagamento será creditado em favor da Contratada, por meio de ordem bancária
+
+contra qualquer entidade bancária indicada na proposta, devendo para isso ficar explicitado o nome do banco, da agência, da localidade e do número da conta-corrente em que deverá ser efetivado o crédito, o qual ocorrerá até o 10o (décimo) dia útil do mês subseqüente ao adimplemento da obrigação.
+29.3. Será procedida consulta on line junto ao SICAF antes de cada pagamento a ser
+
+efetuado à empresa Contratada, cujo resultado será impresso e juntado aos autos do processo próprio, para verificação das condições de habilitação exigidas neste Termo de Referência.
+29.4. Nenhum pagamento será efetuado à licitante vencedora enquanto pendente de
+
+liquidação qualquer obrigação financeira e previdenciária, sem que isso gere direito de alteração nos preços ou compensação financeira.
+29.5. Nos casos de eventuais atrasos de pagamento, desde que a Contratada não tenha
+
+concorrido de alguma forma para tanto, fica convencionado que os encargos moratórios devidos pela Contratante, entre a data acima referida e a correspondente ao
+
+48
+
+efetivo adimplemento do serviço, serão obtidos mediante a aplicação da seguinte fórmula: EM = I x N x VP Onde: EM = Encargos Moratórios N = número de dias entre a data prevista para o pagamento e a do efetivo pagamento. VP = Valor da parcela pertinente a ser paga; TX = percentual da Taxa anual = 6% I = Índice de compensação financeira, assim apurado: I = (TX/100) 365 I = (6/100) 365 I = 0,00016438
+
+29.6. A compensação financeira prevista nesta condição será cobrada em Nota Fiscal/Fatura
+
+após a ocorrência.
+29.7. Caso haja aplicação de multa, o valor será descontado de qualquer fatura ou crédito
+
+existente na Contratante em favor da Contratada. Caso esse valor seja superior ao crédito eventualmente existente, a diferença será cobrada administrativamente, ou judicialmente, se necessário.
+29.8. Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de
+
+Pontos por Função, bem como dedução de valores relativos a penalidades, serão efetuados na última parcela de desembolso prevista.
+29.9. Nos casos em que os serviços forem prestados nas dependências da Contratante
+
+aplicar-se-á o redutor de 2,5% (dois vírgula cinco) sobre os valores devidos do pagamento. Item I
+29.10. A cada Ordem de Serviço executada e homologada será efetuado o pagamento
+
+referente a 80% (oitenta por cento) do valor total da OS, sendo que os 20% (vinte por cento) restantes serão pagos após a validação da homologação. Item II
+
+49
+
+29.11. A cada Ordem de Serviço executada e homologada será efetuado o pagamento
+
+referente ao serviço prestado após a validação da homologação.
+30. FORMALIZAÇÃO E VIGÊNCIA DO CONTRATO 30.1. Após a licitação será formalizado o contrato administrativo, estabelecendo em suas
+
+cláusulas as condições para o desenvolvimento, transferência de conhecimento e implantação dos sistemas, os direitos e obrigações entre as partes, de acordo com as normas vigentes.
+30.2. O presente contrato terá vigência por 12 (doze) meses a partir da data de sua assinatura,
+
+podendo ser renovado por iguais e sucessivos períodos, até o limite previsto em lei, após a verificação da real necessidade e com vantagens para a Administração na continuidade do contrato, nos termos do inciso II do at. 57 da Lei nº 8.666/93, podendo ser alterado, exceto no tocante a seu objeto. Será acrescido do período de garantia de 9 (nove) meses, quando o contrato continuará tendo vigência, no que couber, apenas para o fim de observância do cumprimento da garantia dos produtos entregues.
+30.3. A Contratada deverá iniciar a prestação dos serviços em até 30 (trinta) dias corridos, a
+
+partir da assinatura do Contrato.
+31. RESPONSÁVEL PELO CONTRATO E EQUIPE DE SUPERVISÃO 31.1. O titular da área de Tecnologia da Informação da Contratante será o responsável pela
+
+fiscalização, podendo designar responsável pela inspeção, avaliação, aprovação e recebimento dos artefatos e produtos e Ordens de Serviços decorrentes da entrega de itens não mensuráveis.
+31.2. A Contratante deverá designar o responsável de cada OS e sua equipe de supervisão
+
+que farão, ao longo dos trabalhos, o acompanhamento e inspeção das atividades, a avaliação, a aprovação e a entrega dos artefatos e produtos definidos no presente TR ou OS, assim como a garantia de cumprimento dos prazos, utilização da metodologia e do uso dos critérios de qualidade e de segurança requeridos.
+31.3. Poderão ser solicitados, a qualquer tempo, à Contratada, informações e esclarecimentos
+
+acerca do trabalho em andamento, bem como as necessárias correções.
+31.4. A participação de representante técnico da Contratada em reuniões de levantamento,
+
+testes, entrevistas ou outros eventos de apoio deverá ser precedida de agendamento junto ao Fiscal do contrato.
+32. DISPOSIÇÕES FINAIS
+
+50
+
+32.1. O preposto técnico deverá participar, quando convocado, de reunião presencial com a
+
+Contratante, para apresentar o andamento e a previsão de execução de atividades e OS.
+
+51
+
+ANEXO A - MODELO DE DECLARAÇÃO DE PROPRIEDADE INTELECTUAL ANEXO B - PESQUISA DE PREÇO PARA SERVIÇOS DE DESENVOLVIMENTO DE SISTEMAS DE INFORMAÇÕES BASEADOS EM PONTOS POR FUNÇÃO ANEXO C - MODELO DE ORDEM DE SERVIÇO E PRESTAÇÃO DE CONTAS PARA PRODUTOS MENSURÁVEIS POR ANÁLISE DE PONTOS POR FUNÇÃO ANEXO D - MODELO DE HOMOLOGAÇÃO DE PRODUTOS RECEBIDOS ANEXO E - METODOLOGIA DE DESENVOLVIMENTO E GERENCIAMENTO DE SISTEMAS E PROPOSTAS DE PADRONIZAÇÃO DA DTI ANEXO F - MODELO DE DECLARAÇÃO DE PLENO CONHECIMENTO E ATENDIMENTO ÀS EXIGÊNCIAS DE HABILITAÇÃO ANEXO G - MODELO DE DECLARAÇÃO DE IMPEDITIVOS ANEXO H - TABELA DE ITENS NÃO MENSURÁVEIS EM PFB ANEXO I - DESCRIÇÃO DO AMBIENTE DE DESENVOLVIMENTO DA UFVJM ANEXO J - TERMO DE SIGILO ANEXO K - ESTRUTURA ATUAL DE DESENVOLVIMENTO DA DTI ANEXO L - PLANILHA DE COMPOSIÇÃO DE PREÇO INEXISTÊNCIA DE FATOS
+
+OS ANEXOS ESTÃO DISPONIBILIZADOS EM: www.ufvjm.edu.br.
+
+52
+
+ANEXO III
+
+DECLARAÇÃO DE ELABORAÇÃO INDEPENDENTE DE PROPOSTA PREGÃO ELETRÔNICO Nº 070/2010 (Identificação completa do representante da licitante), como representante devidamente constituído de (Identificação completa da licitante) doravante denominado Licitante, para fins do disposto no item 2.1.1 do Edital do Pregão Eletrônico nº 070/2010, declara, sob as penas da lei, em especial o art. 299 do Código Penal Brasileiro, que: (a) a proposta apresentada para participar do Pregão Eletrônico nº 070/2010 foi elaborada de maneira independente pelo Licitante, e o conteúdo da proposta não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer outro participante potencial ou de fato do Pregão Eletrônico nº 070/2010, por qualquer meio ou por qualquer pessoa; (b) a intenção de apresentar a proposta elaborada para participar do Pregão Eletrônico nº 070/2010 não foi informada, discutida ou recebida de qualquer outro participante potencial ou de fato do Pregão Eletrônico nº 070/2010, por qualquer meio ou por qualquer pessoa; (c) que não tentou, por qualquer meio ou por qualquer pessoa, influir na decisão de qualquer outro participante potencial ou de fato do Pregão Eletrônico nº 070/2010 quanto a participar ou não da referida licitação; (d) que o conteúdo da proposta apresentada para participar do Pregão Eletrônico nº 070/2010 não será, no todo ou em parte, direta ou indiretamente, comunicado ou discutido com qualquer outro participante potencial ou de fato do Pregão Eletrônico nº 070/2010 antes da adjudicação do objeto da referida licitação; (e) que o conteúdo da proposta apresentada para participar do Pregão Eletrônico nº 070/2010 não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer integrante da UFVJM antes da abertura oficial das propostas; e (f) que está plenamente ciente do teor e da extensão desta declaração e que detém plenos poderes e informações para firmá-la.
+
+______________________________, em ___ de ___________________ de ________
+
+____________________________________________________ (representante legal do licitante, no âmbito da licitação, com identificação completa)
+
+53
+
+ANEXO IV
+
+CONTRATO N.º_____/2010
+
+CONTRATO QUE ENTRE SI CELEBRAM A UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI E A EMPRESA XXXXXXXXXXXX LTDA.
+
+A UNIÃO, representada pela UNIVERSIDADE FEDERAL DOS VALES DO JEQUTINHONHA E MUCURI com sede na Rua da Glória, 187, Centro, CEP 39100-000, Diamantina (MG), inscrito no CNPJ sob o nº 16.888.315/0001-57, neste ato representada pelo Reitor da UFVJM, xxxxxxxxx, brasileiro, xx, xxxxxxxxxxxx e CPF nº xxxxxxxxxxx, denominada CONTRATANTE e a Empresa XXXXXXXXXXXXXXXXXXX, estabelecida na XXXXXXXXXXXXXXXXXX, inscrita no MF/CNPJ sob o nº XXXXXXXXXXXX, neste ato representada pelo XXXXXXXXX, Sr. XXXXXXXXXXXXXXXXX, (nacionalidade), (estado civil), portador da CI nº XXXXXXXXX - SSP/XX e do CPF nº XXXXXXXXX, doravante denominada CONTRATADA, resolvem celebrar o presente Contrato, decorrente do resultado da Licitação na modalidade Pregão Eletrônico SPR nº 070/2010, do tipo menor preço por item constante do Processo nº XXXXXXXXXXX, nos termos da Lei nº 8.666, de 21 de junho de 1993, da Lei nº 10.520, de 17 de julho de 2002, Decreto nº 3.555, de 08 de agosto de 2000, Decreto n.º 5.450 de 31 de maio de 2005, IN 004 de 19 de maio de 2008, legislação correlata e demais normas que regem a matéria, mediante as cláusulas e condições a seguir estabelecidas. CLÁUSULA PRIMEIRA - DO OBJETO Item I: Prestação de serviços técnicos especializados na área de tecnologia da informação, compreendendo o desenvolvimento, manutenção corretiva, adaptativa, evolutiva ou perfectiva de sistemas de informação e portais; e documentação de sistemas de informação, por intermédio das atividades, de acordo com as especificações, padrões técnicos de desempenho e qualidade estabelecidos pela Contratante, mediante ordens de serviço dimensionadas pela técnica de contagem de Pontos por Função Brutos ­ PFB, pagas pelo quantitativo mensal de resultados recebidos e homologados, acompanhadas da respectiva documentação prevista pela Contratante, no modelo de Centro de Solução de Desenvolvimento de Software, na forma de serviços continuados. O quantitativo foi estimado em 5.000 (cinco mil) PFB, sem garantia de consumo mínimo. O prazo será de 12 (doze) meses, podendo ser renovado por iguais e sucessivos períodos, até o limite previsto em lei. Item II: Contratação de empresa para prestação dos serviços especializados em Contagem de Ponto de Função, para aferição do dimensionamento de atividades e/ou serviços a serem executados pela empresa contratada do Item I. O quantitativo foi estimado em 5.000 (cinco mil). PARÁGRAFO ÚNICO ­ São partes integrantes deste Contrato, como se nele transcritos estivessem, o Edital de Pregão Eletrônico SRP n° 070/2010, Termo de Referência e seus Anexos, Proposta da Contratada e demais peças que constituem o processo nº 2308.1982/2010-30. PARÁGRAFO SEGUNDO ­ No momento da assinatura do contrato a empresa deverá assinar também os seguintes documentos, que farão parte integrante do contrato: 1. Declaração de propriedade intelectual ­ Modelo Anexo A do TR; 2. Termo de sigilo ­ Modelo Anexo J do TR.
+
+54
+
+CLÁUSULA SEGUNDA ­ DAS ESPECIFICAÇÕES DOS SERVIÇOS 2.1 ­ Os serviços serão realizados conforme o especificado no Termo de Referência, o qual é parte integrante desse Contrato.
+
+CLÁUSULA TERCEIRA - DAS OBRIGAÇÕES DA CONTRATADA
+
+3.1 - A empresa Contratada deve cumprir fielmente as condições e exigências contidas neste Contrato, e em especial: a) Executar os serviços por intermédio de profissionais qualificados, com experiência e conhecimento compatíveis com os serviços a serem realizados, conforme descrito no TR, sujeitos à comprovação pela Contratada; b) Submeter as decisões e os documentos técnicos dos Projetos à aprovação da DTI; c) Designar formalmente funcionários encarregados, capacitados, e aceitos pela UFVJM, para supervisão permanente, durante todo o período de vigência do contrato, para representá-la técnica e administrativamente, ou fornecer informações sobre os serviços, sempre que necessário. A empresa deverá apresentar Preposto Técnico e Preposto Administrativo, a ser mantido no local dos serviços, para representá-la durante a execução do Contrato, em atenção aos Arts. 68 da Lei no 8.666/93 e art 6o do Decreto no 2.271/97; d) Apresentar, por ocasião da assinatura do contrato, relação nominal dos empregados, acompanhada dos documentos que os identifiquem, com qualificação para a prestação dos serviços; e) Para a assinatura do Contrato e para toda alteração de profissionais feita durante a sua vigência, a empresa deverá comprovar o perfil e experiência mínimos exigidos dos profissionais envolvidos na execução dos serviços mediante a apresentação de diplomas, certificados e currículo, inclusive comprovação em Carteira de Trabalho e/ou outro documento contratual, devendo o Fiscal do Contrato verificar o cumprimento dos requisitos; f) Responder pelos encargos sociais dos seus empregados residentes e pelos equipamentos, ferramentas, fretes de materiais, transporte de pessoal, impostos, taxas, emolumentos, administração, supervisão, seguros, etc., necessários à execução dos serviços a serem contratados; g) Realizar, às suas expensas, na forma da legislação aplicável, tanto na admissão como durante a vigência do contrato de trabalho de seus empregados, os exames médicos exigidos, apresentando ao Fiscal do Contrato, anualmente, os respectivos comprovantes.; h) Manter seus empregados asseados, adequadamente trajados para o ambiente de trabalho, com trajes em bom estado de conservação e portando crachá de identificação, do mesmo tipo adotado pela UFVJM, arcando com o ônus de sua confecção; i) Responsabilizar-se pela alimentação e transporte dos empregados que se deslocarem à UFVJM para prestar serviços, uma vez que não terão vínculo empregatício com esse Órgão; j) Cumprir cada uma das normas regulamentadoras da Medicina e Segurança no Trabalho; k) Substituir, imediatamente, a critério da Contratante, o funcionário do Quadro de Pessoal que se afastar, seja por motivo de férias, licença médica, licença paternidade etc, por outro profissional que reúna as mesmas qualificações do afastado, a serem conferidas pela Fiscalização. l) Substituir, imediatamente, a critério da Contratante, o profissional que seja considerado inapto para os serviços a serem prestados, seja por incapacidade técnica, atitude inconveniente ou falta de urbanidade ou que venha a transgredir as normas previstas no Contrato;
+
+55
+
+m) Responder por perdas e danos que venham a sofrer a UFVJM e/ou terceiros, em razão de ação ou omissão dolosa dos seus empregados ou seus prepostos (técnico e administrativo), quando ocorrida nas suas dependências, reparando ou indenizando os prejuízos, independentemente de outras cominações contratuais ou legais a que estiver sujeita; n) Responder pelos encargos trabalhistas, previdenciários, fiscais e comerciais, resultantes da execução dos serviços, não transferindo à Administração a responsabilidade por seu pagamento, nem onerar o objeto do contrato; o) Manter, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas pela Contratada, todas as condições de habilitação e qualificação exigidas na licitação; p) Proibir a veiculação de publicidade ou qualquer outra informação acerca do objeto do contrato, salvo se houver prévia autorização da Administração do Contratante; q) Reparar, corrigir, remover e reconstruir, às suas expensas, no total ou em parte, os serviços efetuados referentes ao objeto em que se verifiquem vícios, defeitos ou incorreções resultantes da execução, conforme estabelecido no TR; r) Manter sigilo, sob pena de responsabilidade civil, penal e administrativa, sobre todos os assuntos de interesse da Contratante ou de terceiros, que tomar conhecimento em razão da execução do objeto do Contrato, devendo orientar seus empregados nesse sentido. Os empregados deverão assinar Termo de Manutenção de Sigilo junto à Contratada; s) Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando forem vítimas os seus profissionais no desempenho dos serviços em conexão com eles, ainda que acontecido em visita às dependências da Contratante; t) Comunicar por escrito qualquer anormalidade, prestando à Contratante os esclarecimentos julgados necessários; u) A Contratada deverá manter os seus funcionários qualificados nas metodologias, processos e tecnologias objeto do contrato durante toda a vigência a sua vigência, entendendo-se que não obstante a não exigência de valores ou horas mínimos investidos em treinamento, a Contratada deverá planejar e executar eventos de capacitação para seus funcionários, considerando também, que certamente os insumos materiais e intelectuais empregados na execução dos serviços evoluirão; v) Orientar e exigir de seus profissionais: i. Preservar a integridade e guardar sigilo das informações de que fazem uso, bem como zelar e proteger os respectivos recursos de processamento de informações; ii. Cumprir a política de segurança da informação, sob pena de incorrer nas sanções legais cabíveis; iii. Não compartilhar, sob qualquer forma, informações sigilosas com outros que não tenham necessidade de conhecer.
+
+CLÁUSULA QUARTA - DAS OBRIGAÇÕES DO CONTRATANTE 4.1- A Contratante obriga-se a cumprir fielmente as condições e exigências contidas neste Contrato, e em especial: a)Proporcionar todas as facilidades para que a Contratada possa desempenhar seus serviços dentro das normas e condições contratuais; b) Comunicar à empresa Contratada as eventuais irregularidades observadas na execução dos serviços e/ou nos materiais entregues para adoção das providências saneadoras;
+
+56
+
+c) Efetuar o pagamento na forma e nos prazos convencionados neste Contrato; d) Aplicar as penalidades previstas para o caso do não cumprimento de cláusulas contratuais ou aceitar as justificativas apresentadas pela Contratada. CLÁUSULA QUINTA ­ DOS PREÇOS 5.1 - O valor global estimado do presente Contrato é de R$ xxxxxxxxxx (xxxxxxxx), e o valor mensal será calculado de acordo com os serviços executados. CLÁUSULA SEXTA ­ DO INÍCIO DOS SERVIÇOS 6.1 ­ A Contratante se obriga a iniciar a execução contratual em até 30 (trinta) dias, a partir da assinatura do contrato. CLÁUSULA SÉTIMA ­ DOS ACRÉSCIMOS E SUPRESSÕES 7.1 - A Contratada obriga-se a aceitar, nas mesmas condições contratuais, e mediante Termo Aditivo, os acréscimos ou supressões que se fizerem necessários, no montante de até 25% (vinte e cinco por cento) do valor inicial atualizado do Contrato, de acordo com o constante nos parágrafos primeiro e segundo do artigo 65, da Lei nº 8.666/93.
+
+CLÁUSULA OITAVA ­ NÍVEIS DE SERVIÇO E CONDIÇÕES DE PAGAMENTO 8.1 ­ A Contratada deverá considerar os procedimentos de fiscalização e de gestão da qualidade do serviço previsto no TR. O nível de serviço será acompanhado a cada OS. Caso não atenda aos requisitos previstos sofrerá glosas no pagamento devido pela Contratante, conforme Tabela de Grau de Infração do subitem 8.2. 8.2 - As condições de pagamento serão ajustadas de acordo com as infrações cometidas pela empresa Contratada na prestação dos serviços, e nas obrigações do Contrato e terá por base graus conforme relacionados na tabela a seguir, a qual servirá como referência para o fiscal do contrato:
+
+TABELA DE GRAU DE INFRAÇÃO
+
+GRAU 01
+
+CORRESPONDÊNCIA Advertência Glosa de 0,3% (zero vírgula três por cento), sobre o valor global dos serviços da OS. Glosa de 10% (dez por cento) sobre o valor médio mensal do Contrato.
+
+02
+
+03
+
+57
+
+8.3 - As glosas nos pagamentos a que se sujeita a Contratada terão como referência a tabela a seguir: TABELA DE REFERÊNCIA PARA GLOSA N
+o
+
+DESCRIÇÃO Permitir a presença de empregado sem crachá
+
+REFERÊNCIA
+
+GRAU
+
+01
+
+nos locais onde há prestação de serviço de interesse da UFVJM. Suspender ou interromper, salvo motivo de
+
+Por ocorrência
+
+01
+
+02
+
+força maior ou caso fortuito, os serviços solicitados. Manter empregado sem qualificação para executar os serviços contratados. Acumular 03 (três) advertências Descumprir o prazo máximo de atendimento das OS, sem justificativa aceitável.
+
+Por ocorrência
+
+02
+
+03
+
+Por ocorrência
+
+02
+
+04
+
+Por ocorrência
+
+02
+
+05
+
+Por ocorrência
+
+02
+
+Para os itens a seguir, deixar de: 6 Zelar pelas instalações da UFVJM. Substituir empregado que se conduza de modo inconveniente ou não atenda às necessidades. Efetuar o pagamento de salários, seguros, 8 encargos fiscais e sociais, bem assim quaisquer despesas diretas e/ou indiretas relacionadas à execução deste Contrato. Por ocorrência 03 Por ocorrência 02
+
+7
+
+Por dia
+
+02
+
+8.4. Do resultado obtido no subitem 9.1 do Termo de Referência serão descontadas as glosas, determinando-se o valor a ser pago na OS. 8.5. Se, após a fase de Iniciação, a Contratante decidir pela não abertura da Ordem de Serviço, a Contratada receberá o equivalente 10% (dez por cento) do total dos pontos de função estimados, por conta do esforço gasto para a geração dos artefatos.
+
+58
+
+CLÁUSULA NONA ­ DO PAGAMENTO E DA DOTAÇÃO ORÇAMENTÁRIA 9.1 O pagamento será efetuado mensalmente, mediante apresentação de Nota Fiscal/Fatura correspondente aos serviços efetivamente executados, após o aceite e o atesto pelo Fiscal do Contrato, designado pela autoridade competente da Contratante. 9.2 O pagamento será creditado em favor da Contratada, por meio de ordem bancária contra qualquer entidade bancária indicada na proposta, devendo para isso ficar explicitado o nome do banco, da agência, da localidade e do número da contao corrente em que deverá ser efetivado o crédito, o qual ocorrerá até o 10 (décimo) dia útil do mês subseqüente ao adimplemento da obrigação. 9.3 Será procedida consulta on line junto ao SICAF antes de cada pagamento a ser efetuado à empresa Contratada, cujo resultado será impresso e juntado aos autos do processo próprio, para verificação das condições de habilitação exigidas. 9.3.1 Constatada a situação de irregularidade junto ao SICAF, a contratada será advertida, por escrito, para que, no prazo de 10 (dez) dias úteis, regularize sua situação, ou no mesmo prazo apresente sua defesa, sob pena de rescisão do contrato. O prazo descrito no item 9.3.1 poderá ser prorrogado a critério da administração. Caso a contratada, não regularize sua situação junto ao SICAF, ou apresente defesa, no prazo descrito no item 9.3.1 será providenciada a abertura de processo administrativo visando a aplicação das penalidades cabíveis.
+
+9.3.2 9.3.3
+
+9.4 Nenhum pagamento será efetuado à licitante vencedora enquanto pendente de liquidação qualquer obrigação financeira e previdenciária, sem que isso gere direito de alteração nos preços ou compensação financeira. 9.5 Nos casos de eventuais atrasos de pagamento, desde que a Contratada não tenha concorrido de alguma forma para tanto, fica convencionado que os encargos moratórios devidos pela Contratante, entre a data acima referida e a correspondente ao efetivo adimplemento do serviço, serão obtidos mediante a aplicação da seguinte fórmula: EM = I x N x VP Onde: EM = Encargos Moratórios N = número de dias entre a data prevista para o pagamento e a do efetivo pagamento. VP = Valor da parcela pertinente a ser paga; TX = percentual da Taxa anual = 6% I = Índice de compensação financeira, assim apurado: I = (TX/100) 365 I = (6/100) 365 I = 0,00016438
+
+9.6 A compensação financeira prevista nesta condição será cobrada em Nota Fiscal/Fatura após a ocorrência. 9.7 Caso haja aplicação de multa, o valor será descontado de qualquer fatura ou crédito existente na Contratante em favor da Contratada. Caso esse valor seja
+
+59
+
+superior ao crédito eventualmente existente, a administrativamente, ou judicialmente, se necessário.
+
+diferença
+
+será
+
+cobrada
+
+9.8 Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de Pontos por Função, bem como dedução de valores relativos a penalidades, serão efetuados na última parcela de desembolso prevista. 9.9 Nos casos em que os serviços forem prestados nas dependências da Contratante aplicar-se-á o redutor de 2,5% (dois vírgula cinco) sobre os valores devidos do pagamento. ITEM 01 9.10 Os recursos orçamentários correrão à conta do orçamento específico, referente ao exercício de 2010, nos Programa de Trabalho, Natureza da Despesa, Fonte de Recurso, Empenho da Despesa e Planos Internos descritos abaixo: Xxxxxxxxxxx,xxxxxxxxxxxxx,xxxxxxxxxxx 9.11 A cada Ordem de Serviço executada e homologada será efetuado o pagamento referente a 80% (oitenta por cento) do valor total da OS, sendo que os 20% (vinte por cento) restantes serão pagos após a validação da homologação. ITEM 02 9.10 Os recursos orçamentários correrão à conta do orçamento específico, referente ao exercício de 2010, nos Programa de Trabalho, Natureza da Despesa, Fonte de Recurso, Empenho da Despesa e Planos Internos descritos abaixo: Xxxxxxxxxxx,xxxxxxxxxxxxx,xxxxxxxxxxx 9.11 A cada Ordem de Serviço executada e homologada será efetuado o pagamento referente ao serviço prestado após a validação da homologação.
+
+CLÁUSULA DEZ - DA REPACTUAÇÃO 10.1 - Será permitida a repactuação do valor deste Contrato, desde que observado o interrégno mínimo de 01 (um) ano, a contar da data apresentação da Proposta, devidamente fundamentada, em Planilhas de Custo e Formação de Preços, com base na variação dos componentes do custo do contrato, na qualidade e nos preços vigentes no mercado para a prestação dos serviços. 10.2 - Caberá ao Contratante verificar, anteriormente à concessão da repactuação, se os novos preços a serem contratados estão superiores aos cobrados por outras empresas que executam idêntico serviço a outros órgãos públicos, devendo as partes, se for o caso, rever os preços, adequando-os às condições iniciais do contrato. CLÁUSULA ONZE - DA MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO ­ FINANCEIRO 11.1 ­ O valor contratado poderá ser revisto antes do prazo previsto para repactuação com vistas à manutenção do equilíbrio econômico-financeiro do Contrato, na forma da alínea "d", inciso II, art. 65 da Lei nº 8.666/93, mediante solicitação formal do Contratado, obedecida a seguinte condição: 11.1.1 ­ As eventuais solicitações deverão fazer-se acompanhar de planilha analítica e documento que comprove a superveniência de fatos imprevisíveis, ou impeditivos da execução do ajustado, ou, ainda, caso de força maior, caso fortuito ou fato do príncipe, configurando álea econômica extraordinária ou extracontratual, porém de conseqüências incalculáveis, demonstrando o seu impacto nos custos do contrato.
+
+60
+
+CLÁUSULA DOZE - DO ACOMPANHAMENTO DA FISCALIZAÇÃO 12.1 - A execução do Contrato será fiscalizada por Representante da Contratante, especialmente designado, cumprindo-lhe: a) Acompanhar e fiscalizar os serviços, dirimir as dúvidas que surgirem no curso da sua prestação e de tudo dará ciência à Contratada, para a fiel execução dos serviços durante toda a vigência do Contrato; b) Sem prejuízo da plena responsabilidade da Contratada perante a UFVJM e/ou a terceiros, os serviços estarão sujeitos a mais ampla e irrestrita fiscalização, a qualquer hora e em todos os locais. A presença do servidor designado como Representante não diminuirá a responsabilidade da Contratada, por quaisquer irregularidades resultantes de imperfeições técnicas, emprego de material inadequado ou de qualidade inferior, que não implicarão co-responsabilidade da Contratante ou do servidor designado para a fiscalização; c) O Representante da Contratante poderá sustar, recusar, mandar refazer quaisquer serviços, que estejam em desacordo com as especificações técnicas, e as constantes do Termo de Referência, determinando prazo para a correção de possíveis falhas ou substituições de produtos em desconformidade com o solicitado; d) Eventuais irregularidades de caráter urgente deverão ser comunicadas, por escrito, ao Fiscal da Contratante com os esclarecimentos julgados necessários e, as informações sobre possíveis paralisações de serviços, a apresentação de relatório técnico ou razões justificadoras a serem apreciadas e decididas pelo servidor designado; e) As decisões e providências sugeridas pela Contratada ou julgadas imprescindíveis, que ultrapassarem a competência do Fiscal designado pela Contratante, deverão ser encaminhadas à autoridade superior, para a adoção das medidas cabíveis; f) O Fiscal e/ou Servidor designado deverá conferir os relatórios dos serviços executados pela Contratada, por ocasião da entrega das Notas Fiscais ou Faturas, e atestar a prestação dos serviços, quando executados satisfatoriamente, para fins de pagamento. 12.2 - Ao Fiscal do Contrato fica assegurado o direito de exigir o cumprimento de todos os itens constantes do Termo de Referência, da proposta da Contratada e das cláusulas deste contrato, além de solicitar a substituição de qualquer empregado da Contratada que: comprometa a perfeita execução dos serviços; crie obstáculos à fiscalização; não corresponda às técnicas ou às exigências disciplinares do Órgão; e cujo comportamento ou capacidade técnica sejam inadequados à execução dos serviços, que venha causar embaraço à fiscalização em razão de procedimentos incompatíveis com o exercício de sua função. 12.3 - A execução deste contrato será acompanhada e fiscalizada pelo servidor(a) ________________, designado pela Portaria nº___, de ___________ de ____.O representante da UFVJM terá poderes para fiscalizar a execução dos serviços. CLÁUSULA TREZE ­ DA GARANTIA DO CONTRATO 13.1 - A Contratada, como garantia para o cumprimento das obrigações assumidas deverá apresentar, em 72 (setenta e duas) horas após a assinatura do contrato, a importância de R$ xxxxxxxx (xxxxxxxxxxxxx), equivalente a 5 % (cinco) por cento do valor contratual, em qualquer das modalidades do § 1º do art. 56 da Lei 8.666/93. PARÁGRAFO PRIMEIRO ­ O documento referente à garantia contratual será entregue na Divisão de Contratos, para registro e guarda. PARÁGRAFO SEGUNDO - O valor da garantia permanecerá integral até o término da vigência do Contrato. A reposição de seu valor, quando for o caso, será feita em até 72 (setenta e duas) horas, contadas da data de recebimento da notificação do Contratante.
+
+61
+
+PARÁGRAFO TERCEIRO ­ O valor da garantia reverterá, integralmente, em favor do Contratante, ou pelo saldo que apresentar, no caso de rescisão contratual por culpa exclusiva da Contratada, sem prejuízo das perdas e danos porventura verificados. PARÁGRAFO QUARTO - O Contratante poderá utilizar o valor da garantia prestada para descontar os valores referentes a eventuais multas aplicadas à Contratada, bem como nos casos decorrentes de inadimplemento contratual, e de indenização por danos causados ao Patrimônio da União ou de terceiros, ocorridos nas suas dependências. PARÁGRAFO QUINTO - A garantia prestada pela Contratada será liberada ou restituída após o término da vigência ou rescisão do Contrato, desde que não haja pendências.
+
+CLÁUSULA QUATORZE ­ DA VIGÊNCIA 14.1 - O presente contrato terá vigência por 12 (doze) meses a partir da data de sua assinatura, podendo ter a sua duração prorrogada por iguais e sucessivos períodos mediante termos aditivos, até o limite de 60 (sessenta) meses, após a verificação da real necessidade e com vantagens para a Administração na continuidade do contrato, nos termos do inciso II do at. 57 da Lei nº 8.666/93, podendo ser alterado, exceto no tocante a seu objeto. Será acrescido do período de garantia de 09 (nove) meses, quando o contrato continuará tendo vigência, no que couber, apenas para o fim de observância do cumprimento da garantia dos produtos entregues. CLÁUSULA QUINZE ­ DAS SANÇÕES 15.1. Pela inexecução total ou parcial do objeto, a Administração poderá, garantida a prévia defesa, aplicar à Contratada as seguintes sanções, além das previstas nos artigos 86 a 88 da Lei nº 8.666/93: 15.1.1. Advertência, que será notificada por meio de ofício, mediante contrarecibo do representante legal da Contratada estabelecendo o prazo de 05 (cinco) dias úteis para que a empresa licitante apresente justificativas para o atraso, que só serão aceitas mediante crivo da administração; 15.1.2. Multa no percentual correspondente a 0,3% (zero vírgula três por cento), por descumprimento das obrigações assumidas incidente sobre o valor dos serviços não prestados, até a data do efetivo adimplemento, observado o limite de 30 (trinta) dias; 15.1.2.1. A multa moratória será aplicada a partir do 2º (segundo) dia útil da inadimplência, contado da data definida para o regular cumprimento da obrigação. 15.1.3. Multa de 10% (dez por cento) sobre o valor dos serviços não prestados, no caso de inexecução total ou parcial do objeto contratado, recolhida no prazo de 15 (quinze) dias corridos, contados da comunicação oficial, sem embargo de indenização dos prejuízos porventura causados à UFVJM pela não execução parcial ou total do contrato. 15.1.3.1. Decorridos 30 (dias) corridos sem que o contratado tenha iniciado a prestação da obrigação assumida, estará caracterizada a inexecução contratual, ensejando a sua rescisão. 15.1.3.2. A aplicação de multa por inexecução contratual independe da multa moratória eventualmente aplicada ou em fase de aplicação, podendo ser aplicadas cumulativamente. 15.1.4. Suspensão do direito de licitar e de contratar com a Administração Pública, pelo prazo de até 05 (cinco) anos, garantido o direito prévio da citação e da ampla defesa, enquanto perdurar os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, do mesmo modo, o licitante que convocado dentro do prazo de validade da sua proposta, não celebrar o contrato, deixar de
+
+62
+
+entregar a documentação exigida para o certame ou apresentar documentação falsa, ensejar o retardamento da execução do seu objeto, não mantiver a proposta, falhar ou fraudar na execução do objeto pactuado, comportar-se de modo inidôneo ou cometer fraude fiscal. 15.2. As sanções previstas nos subitens 15.1.1 e 15.1.4 deste item poderão ser aplicadas juntamente com as dos subitens 15.1.2 e 15.1.3, facultada a defesa prévia do interessado, no respectivo processo, no prazo de 05 (cinco) dias úteis. 15.3. Se a multa for de valor superior ao valor da garantia prestada, além da perda desta, responderá a empresa vencedora pela sua diferença, a qual será descontada dos pagamentos devidos pela Administração ou, quando for o caso, cobrada judicialmente. 15.4. As penalidades serão obrigatoriamente registradas no SICAF, e no caso de suspensão de licitar, o licitante deverá ser descredenciado por igual período, sem prejuízo das multas previstas no Edital e das demais cominações legais.
+
+CLÁUSULA DEZESSEIS ­ DA INEXECUÇÃO E DA RESCISÃO 16.1 - A inexecução total ou parcial do Contrato ensejará sua rescisão, com as conseqüências contratuais, de acordo com o disposto nos artigos 77 a 80, da Lei nº 8.666/93 e alterações posteriores. PARÁGRAFO PRIMEIRO ­ Os casos de rescisão serão formalmente motivados nos autos do processo, assegurado o contraditório e a ampla defesa. PARÁGRAFO SEGUNDO ­ A rescisão deste Contrato poderá ser: I ­ Determinada por ato unilateral e por escrito da Administração, nos casos enumerados nos incisos I a XII, XVII e XVIII do artigo 78, da Lei nº 8666/93; II ­ Amigável, por acordo entre as partes, reduzidas a termo no processo da licitação desde que haja conveniência para a Administração; III ­ Judicial, nos termos da legislação. PARÁGRAFO TERCEIRO ­ A rescisão administrativa ou amigável deverá ser precedida de autorização escrita e fundamentada da autoridade competente. PARÁGRAFO QUARTO ­ Quando a rescisão ocorrer com base nos incisos XII a XVII do artigo 78, da Lei nº 8.666/93, sem que haja culpa da Contratada, será esta ressarcida dos prejuízos regularmente comprovados que houver sofrido, tendo ainda direito a: I - devolução de garantia; II - pagamentos devidos pela execução do Contrato até a data da rescisão. PARÁGRAFO QUINTO ­ Ocorrendo impedimento, paralisação ou sustação do Contrato, o cronograma de execução será prorrogado automaticamente por igual tempo. PARÁGRAFO SEXTO ­ A rescisão por descumprimento das cláusulas contratuais acarretará a retenção dos créditos decorrentes deste Contrato, até o limite dos prejuízos causados à Contratante, além das sanções previstas neste Instrumento. CLÁUSULA DEZESSETE ­ DOS RECURSOS ADMINISTRATIVOS 17.1 - Da penalidade aplicada caberá recurso à autoridade superior àquela que aplicou a sanção, no prazo de 05 (cinco) dias úteis da notificação, ficando a sanção sobrestada até o julgamento do pleito.
+
+63
+
+CLAUSULA DEZOITO - TRANSFERÊNCIA DE CONHECIMENTO E TRANSIÇÃO CONTRATUAL 18.1. A transferência de conhecimento, no uso das soluções desenvolvidas pela Contratada, deverá ser viabilizado, sem ônus adicionais para a Contratante, conforme Plano de Transferência de Conhecimento (o qual fará parte do Plano de Implantação do Sistema) fornecido pela Contratada durante a Fase de Homologação, em eventos específicos de transferência de conhecimento, preferencialmente em ambiente disponibilizado pela Contratada, e baseado em documentos técnicos e/ou manuais específicos da solução desenvolvida. O cronograma e horários dos eventos deverão ser previamente aprovados pela Contratante. 18.2. A Contratada deverá descrever a metodologia que será utilizada para transferir conhecimento à Contratante e aos usuários finais. 18.3. A transferência de conhecimento, direcionada para os técnicos indicados pela Contratante deverá ser focado na solução adotada, de forma que haja transferência do conhecimento da tecnologia utilizada no desenvolvimento do sistema. Ao final da transferência, técnicos da Contratante deverão estar capacitados para realizarem a instalação, a manutenção e a evolução das funcionalidades do sistema. 18.4. Em ocorrendo nova licitação, com mudança de fornecedor dos serviços, a Contratada signatária do contrato em fase de expiração, assim considerado o período dos últimos três meses de vigência, deverá repassar para a vencedora do novo certame, por intermédio de evento formal, os documentos necessários a continuidade da prestação dos serviços, bem como esclarecer dúvidas a respeito de procedimentos no relacionamento entre a Contratante e a Contratada.
+
+CLAUSULA DEZENOVE - GARANTIA DOS PRODUTOS DESENVOLVIDOS ITEM 01 19.1. A empresa Contratada deverá apresentar garantias de funcionamento dos produtos desenvolvidos pelo período mínimo de 60 (sessenta) dias, a contar da data de seu recebimento definitivo, comprometendo-se a efetuar as necessárias correções, sem ônus adicionais para a Contratante, durante este período. Este período servirá para avaliação, por parte da Contratante, dos artefatos recebidos, quando se verificará a aderência às normas, consistência e estabilidade dos produtos entregues, não se confundindo com o período de garantia de 09 meses, previsto no subitem 19.3, em que os produtos ficarão sob garantia contra defeitos ocultos, falhas e mau funcionamento. 19.2. Durante o período de 60 (sessenta) dias acima mencionado, qualquer defeito nos produtos ou não correspondência aos requisitos especificados deverão ser reparados sem ônus para a Contratante. A garantia deverá incluir todos os produtos desenvolvidos. As manutenções poderão ser motivadas por eventuais impropriedades detectadas nos procedimentos desenvolvidos. Neste caso, caberá uma decisão conjunta, devidamente documentada, ressaltando os aspectos positivos ou imprescindíveis que justifiquem o empreendimento. A documentação deverá ser atualizada para refletir eventuais mudanças. 19.3. Após o aceite definitivo, a garantia dos produtos entregues será de 09 (nove) meses, prazo necessário para que um sistema alcance maturidade de uso suficiente e todas as funcionalidades possam ser testadas em ambiente de produção, com o desempenho requerido, considerando que itens como volume de dados, quantidade de transações e demais requisitos, mesmo quando submetidos a simulação, em tempo de teste e homologação, podem apresentar defeitos ocultos, em situações peculiares, a exemplo do crescimento da base de dados. 19.4. Durante o período de 09 (nove) meses acima mencionado, qualquer defeito no sistema ou não correspondência aos requisitos especificados deverão ser reparados sem ônus para o Contratante. Essa garantia deverá incluir todos os produtos desenvolvidos e todas as ferramentas utilizadas no projeto, sejam elas livres ou licenciadas. As manutenções poderão ser motivadas por eventuais impropriedades detectadas nos procedimentos realizados. Neste caso, caberá uma decisão conjunta, devidamente documentada, ressaltando os aspectos positivos ou imprescindíveis que justifiquem as correções. A documentação deverá ser atualizada para refletir eventuais mudanças realizadas.
+
+64
+
+CLAUSULA VINTE - SUPORTE TÉCNICO 21.1. O suporte técnico dos produtos deverá ser prestado durante todo o período de garantia dos produtos já entregues, mediante as condições que se seguem, sem qualquer ônus adicional para a Contratante. 21.2. A Contratada deverá especificar a equipe encarregada do atendimento e do suporte técnico dos produtos, fornecendo nomes, telefones, fax e endereços eletrônicos (email) ou sistema para o encaminhamento de chamadas remotas da equipe da Contratante. 21.3. O suporte técnico será efetuado mediante contato telefônico, e-mail e/ou presencialmente no ambiente da Contratante, a critério da Contratante, para: a) resolução de problemas e dúvidas de configuração e utilização dos produtos; b) correção de erros de quaisquer etapas do processo de desenvolvimento ou implantação; c) Diagnóstico de problemas, com a correção dos erros detectados, e também a entrega da documentação atualizada das alterações efetuadas.
+
+CLAUSULA VINTE E DOIS - DIREITO AUTORAL E PROPRIEDADE INTELECTUAL 22.1. A Contratante, para todos os efeitos da aplicação da Lei no 9.609/98, que dispõe sobre a proteção da propriedade intelectual de programa de computador, e regulamentos correlatos, deverá ser o único proprietário de licença para utilização dos sistemas desenvolvidos, devendo, para tanto, a Contratada ceder à UFVJM, mediante cláusula contratual: a) o direito de propriedade intelectual do software desenvolvido e das partes em desenvolvimento, de forma permanente, permitindo à Contratante a qualquer tempo distribuir, alterar e utilizar os mesmos sem limitações de licenças restritivas; b) o projeto, suas especificações técnicas, documentação, códigos-fonte de programas, dados de identificação dos técnicos desenvolvedores e todos os produtos gerados na execução do contrato, para o caso de instrução de processo de registro do Sistema no Instituto Nacional de Propriedade Intelectual (INPI) pela Contratante; c) os direitos permanentes de uso e instalação sobre todas as adequações ao sistema e atualizações corretivas ou a arquivos e rotinas a ele associadas, desenvolvidas em decorrência do Contrato, sem ônus adicionais à Contratante; 22.2. Desta forma, todos os direitos autorais da solução, documentação, "scripts", códigos-fonte e congêneres desenvolvidos durante a execução dos produtos são da Contratante, ficando proibida a sua utilização pela Contratada sem a autorização expressa da UFVJM. 22.3. A Contratada não poderá repassar a terceiros, em nenhuma hipótese, códigos fontes; bem como qualquer informação sobre a arquitetura e/ou documentação; assim como dados e/ou metadados trafegados; produtos desenvolvidos e entregues, ficando responsável juntamente com a Contratante por manter a segurança da informação relativa aos dados e códigos durante a execução das atividades e também em período posterior ao término da execução dos produtos.
+
+CLAUSULA VINTE E TRES - LOCAL E HORÁRIO DE EXECUÇÃO DOS SERVIÇOS 23.1. Os serviços constantes do Objeto deste Termo de Referência poderão ser executados tanto nas instalações da UFVJM, quanto nas instalações da Contratada, na modalidade de centro de solução de desenvolvimento de software, porém, sempre seguindo as normas internas do DTI. 23.2. Os serviços prestados nas instalações da UFVJM serão executados no horário de funcionamento do DTI, podendo haver trabalho noturno ou nos fins-de-semana, em razão de aumento de demanda ou fato que o justifique, tais como antecipação de prazos de entrega
+
+65
+
+por parte do usuário, implementação de rotinas que necessitem de paralisação dos serviços disponibilizados aos usuários, depuração de erros críticos entre outros. 23.3. Os serviços realizados fora do ambiente da UFVJM serão executados com recursos da Contratada, conforme horário que definir. 23.4. Os serviços a serem realizados aos sábados, domingos e feriados na centro de solução de desenvolvimento de software não implicarão em nenhuma forma de acréscimo ou majoração nos valores dos serviços, razão pela qual será improcedente a reivindicação de restabelecimento de equilíbrio econômico-financeiro, bem como, horas-extras ou adicionais noturnos. 23.5. A Contratada se obrigará a dimensionar o horário dos trabalhos de acordo com os parâmetros apontados, de modo a alcançar os resultados nos prazos previstos nas Ordens de Serviço; 23.6. O deslocamento de prestador de serviço da Contratada para a realização de: planejamento, revisões, auditorias de qualidade dos produtos/artefatos, reuniões na UFVJM não implicarão em nenhuma forma de acréscimo ou majoração nos valores dos serviços, bem como, nenhum tipo de pagamento correspondente a horas-extras ou adicionais noturnos. 23.7. A critério da Contratante, é possível que o centro de solução de desenvolvimento de software venha a funcionar em espaço físico da Contratante, mantendo-se as demais cláusulas relativas à contratação deste tipo de serviço.
+
+CLAUSULA VINTE E QUATRO - PROCEDIMENTOS BÁSICOS DE SEGURANÇA 24.1. Os procedimentos básicos mínimos de segurança exigidos da Contratada são :
+
+a) Credenciar junto à UFVJM, seus profissionais autorizados a retirar e a entregar documentos, bem como aqueles que venham a ser designados para prestar serviços nas dependências da Universidade; b) Identificar qualquer equipamento da empresa que venha a ser instalado nas dependências da UFVJM, utilizando placas de controle patrimonial, selos de segurança, etc; c) Fazer com que seus funcionários mantenham sigilo absoluto sobre informações, dados e documentos integrantes dos serviços a serem executados, inclusive com a assinatura de termo de responsabilidade e manutenção de sigilo próprio, semelhante ao disponível na UFVJM; d) Observar, rigorosamente, todas as normas e procedimentos de segurança implementados no ambiente de Tecnologia da Informação da UFVJM; e) Adotar critérios adequados para o processo seletivo dos profissionais, com o propósito de evitar a incorporação de pessoas com características e/ou antecedentes que possam comprometer a segurança ou credibilidade do Contratante; f) Comunicar com antecedência mínima de 3 (três) dias a DTI qualquer ocorrência de transferência, remanejamento ou demissão, para que seja providenciada a revogação de todos os privilégios de acesso aos sistemas, informações e recursos da UFVJM, porventura colocados à disposição para realização dos serviços contratados;
+
+g) Manter sigilo sobre todos os ativos de informações e de processos da UFVJM; e da Contratada que se refiram ao Contratante.
+
+CLÁUSULA VINTE E CINCO ­ SISTEMÁTICA DE ACOMPANHAMENTO DOS SERVIÇOS E ESTIMATIVA DE DEMANDA
+
+66
+
+ITEM 01 25.1. A Contratada designará 1 (um) profissional para atuar como Preposto Técnico, nas dependências da Contratante, com as seguintes responsabilidades: 25.1.1. Todos os serviços deverão ser prestados nos horários normais de funcionamento, compreendidos entre 8h e 18h, de segunda a sexta, com carga horária de 40 horas semanais. 25.1.2. Executar a gestão geral do contrato por parte da Contratada, com a visão de todas as Ordens de Serviço em desenvolvimento, objetivando garantir a execução dos serviços dentro dos prazos estabelecidos e atendendo todos os requisitos. 25.1.3. Responder, perante a Contratante, pela execução técnica das Ordens de Serviço. 25.1.4. Participar periodicamente, a critério da Contratante, de reuniões de acompanhamento das atividades referentes às OS em execução, em ambiente de interesse da Contratante, com representantes da Contratante; 25.1.5. Levar para as reuniões periódicas de acompanhamento, as situações não resolvidas em nível de gerência das OS. 25.2. A Contratada designará 01 (um) profissional para atuar como Preposto Administrativo, nas dependências da Contratante, com a responsabilidade de realizar a gestão quanto aos aspectos administrativos e legais do contrato. O preposto técnico e o preposto administrativo não podem ser a mesma pessoa. 25.2.1. Todos os serviços deverão ser prestados nos horários normais de funcionamento, compreendidos entre 8h e 18h, de segunda a sexta, com carga horária de 40 horas semanais. 25.2.2. As demandas deverão ser encaminhadas à Contratada, por intermédio de Ordem de Serviço ­ OS, elaboradas pela Contratante, conforme Anexo C do Termo de Referência, documento este destinado ao controle dos serviços solicitados. 25.2.3. A Contratada fica responsável pela manutenção dos sistemas em funcionamento, sem erros, durante toda a vigência do Contrato. 25.2.4. A Contratada deverá, sem ônus para a Contratante, sempre que solicitada, fornecer todas as informações referentes à execução das OS para a Contratante. 25.3. As OS deverão ser encaminhadas pela DTI à Contratada por ofício ou sistema informatizado a critério da Contratante. Não há previsão quanto à distribuição das solicitações de Ordens de Serviço ao longo dos meses, sendo responsabilidade da Contratada ajustar-se com vistas ao atendimento dos serviços solicitados pela Contratante de acordo com os prazos máximos estabelecidos no TR. A Contratada, para cada OS recebida, deverá executar os artefatos encomendados, de acordo com os respectivos cronogramas, gerando produtos dentro dos padrões de qualidade e de compatibilidade técnica, conforme especificado no Termo de Referência. 25.5.1. A Contratada deverá realizar a verificação da qualidade antes da entrega dos produtos gerados para a Contratante. A Contratante também realizará a
+
+25.4.
+
+25.5.
+
+67
+
+sua verificação da qualidade com vistas ao aceite dos produtos gerados pela Contratada. 25.5.2. A Contratada deverá efetuar os acertos nas inconformidades encontradas pela Contratante, dentro dos prazos estabelecidos, sem ônus para a Contratante. 25.5.3. A Contratante realizará a homologação de cada artefato recebido, constante na OS em no máximo 20 (vinte) dias úteis e contados a partir da data da entrega do artefato. 25.5.4. Caso um artefato desenvolvido pela Contratada e entregue para homologação não seja aprovado pelo Contratante, a Contratada deverá promover os ajustes necessários em um prazo correspondente a até 20 % (vinte por cento) do período utilizado pela Contratada para o desenvolvimento do respectivo artefato, após a notificação da Contratante. 25.5.5. Se as correções em inconformidades de um artefato, apontadas pela Contratante dentro dos prazos estabelecidos na OS gerarem retrabalho, neste ou em outros artefatos, as correções correrão por conta da Contratada. 25.6. As OS conterão, além dos itens previstos no Anexo C do TR, o seguinte: 25.6.1. A relação de todos os artefatos desejados salvo os casos em que essa informação for omitida, entende-se que devem ser produzidos todos os artefatos listados na Metodologia de Desenvolvimento. 25.6.2. Uma estimativa da quantidade de Pontos por Função, conforme NESMA (Netherlands Software Metrics Users Assocation). 25.6.3. O indicador Fator de Produtividade Mínima - FPM tem como objetivo adequar os prazos de elaboração dos artefatos a um valor razoável de produtividade e ajustamento do valor do preço do ponto de função bruto em razão do esforço empregado. Fica estabelecido o seguinte fator de produtividade: 14,5 horas/PFB. 25.7. A avaliação da qualidade dos artefatos entregues será realizada a cada entrega prevista na Ordem de Serviço, podendo motivar a recusa de artefatos. A motivação da recusa do artefato será formalizada pela Contratante. Para efeito de apuração do índice de erros por PF também serão consideradas as desconformidades relacionadas aos requisitos não-funcionais especificados. Após a constatação, pela Contratante, de que todos os requisitos de uma OS foram atendidos, considerar-se-á entregues provisoriamente os serviços correspondentes. Depois disso, a Contratante deverá executar todos os testes necessários e manter os produtos em observação, funcionando em ambiente de produção pelo prazo de até 60 (sessenta) dias, quando se considerará a entrega definitiva.
+
+25.8.
+
+25.9.
+
+25.10. A inspeção e teste podem gerar a recusa de artefatos por motivo de vícios de qualidade ou por não observância dos padrões e melhores práticas adotadas pela Contratante. Em caso de recusa, o prazo efetivo de entrega do serviço não será considerado prorrogação do prazo contratual, o que poderá gerar aplicação de penalidades por atraso. 25.11. A Contratante emitirá, após a inspeção e teste de todos os artefatos da OS entregues, o Termo de Homologação da Ordem de Serviço, que formalizará a entrega definitiva do produto.
+
+68
+
+25.12. A emissão do Termo de Homologação da Ordem de Serviço pela Contratante não exime a Contratada da responsabilidade pela correção de erros identificados dentro do prazo de garantia do serviço. 25.13. As demandas de manutenção e documentação de sistemas serão mensuradas com base na métrica de contagem de Pontos por Função, do International Function Point Users Group ­ IFPUG e Anexo H do TR. As demandas de manutenção e documentação de sistema compreendem as seguintes modalidades: Manutenção evolutiva: abrange a concepção e implantação de novas funcionalidades e de novos componentes em sistemas existentes na UFVJM. Manutenção corretiva: contempla a identificação de pontos falhos e eliminação de defeitos de códigos de funcionalidades de Sistemas. A manutenção corretiva altera o software para correção de defeito; Manutenção adaptativa: refere-se à adequação das funcionalidades dos sistemas a novas tecnologias e integração; Manutenção perfectiva: refere-se a melhoria da qualidade ou desempenho e mudanças em outros requisitos não-funcionais no sistema da Contratante; Documentação de software: execução de atividades de documentação ou de atualização de documentação do sistema da UFVJM. ITEM 02 25.1. A Ordem de Serviço de Mensuração será destinada exclusivamente à Contratada para que esta proceda à realização da contagem na modalidade, estimada ou detalhada, indicada na Ordem de Serviço ­ OS. 25.2. As Ordens de Serviço ­ OS, devem ser encaminhadas à Contratada por ofício ou sistema informatizado a critério da Contratante. 25.3. A Contratada para cada Ordem de Serviço recebida, deverá executar os artefatos encomendados, de acordo com os respectivos cronogramas, gerando produtos dentro dos padrões de qualidade de compatibilidade técnica, conforme as metodologias e padrões da Contratante. 25.4. A Contratada deverá realizar a verificação da qualidade antes da entrega dos produtos gerados para a Contratante. A Contratante também realizará a sua verificação da qualidade com vistas ao aceite dos produtos gerados pela Contratada. 25.5. A Contratada deverá efetuar os acertos nas não conformidades encontradas pela Contratante, dentro dos prazos estabelecidos no Nível de Serviço ­ NS, sem ônus para a Contratante. 25.6. A Contratante deverá realizar a homologação de cada artefato recebido constante na Ordem de Serviço. 25.7. Caso um artefato desenvolvido pela Contratada e entregue para homologação não seja aprovado pelo Contratante, a Contratada deverá promover os ajustes necessários em um prazo correspondente a até 20 % (vinte por cento) do período utilizado para o desenvolvimento desse artefato, contado a partir da notificação da Contratante. Nesse caso poderão ser aplicadas penalidades estabelecidas contratualmente. 25.8. Se as correções das não conformidades de um artefato, apontadas pela Contratante dentro dos prazos estabelecidos na Ordem de Serviço, gerarem retrabalho neste ou em outros artefatos, as correções correrão por conta da Contratada.
+
+69
+
+CLÁUSULA VINTE E SEIS ­ RESPONSÁVEL PELO CONTRATO E EQUIPE DE SUPERVISÃO 26.1. O titular da área de Tecnologia da Informação da Contratante será o responsável pela fiscalização, podendo designar responsável pela inspeção, avaliação, aprovação e recebimento dos artefatos e produtos definidos nas Ordens de Serviços decorrentes da entrega de itens não mensuráveis. 26.2. A Contratante deverá designar o responsável de cada OS e sua equipe de supervisão que farão, ao longo dos trabalhos, o acompanhamento e inspeção das atividades, a avaliação, a aprovação e a entrega dos artefatos e produtos definidos no presente Termo de Referência, oriundos da UFVJM e/ou Ordens de Serviço, assim como a garantia de cumprimento dos prazos, utilização da metodologia e do uso dos critérios de qualidade e de segurança requeridos. Poderão ser solicitados, a qualquer tempo, à Contratada, informações e esclarecimentos acerca do trabalho em andamento, bem como as necessárias correções. A participação de representante técnico da Contratada em reuniões de levantamento, testes, entrevistas ou outros eventos de apoio deverá ser precedida de agendamento junto ao Fiscal do contrato.
+
+26.3.
+
+26.4.
+
+CLÁUSULA VINTE E SETE ­ SUBCONTRATAÇÃO ITEM 01 27.1 ­ Será admitida a subcontratação do serviço de codificação de até 40% (quarenta por cento) do número de PFB solicitadas no mês, sem prejuízo das responsabilidades contratuais e legais da contratada. 27.1.1 ­ A contratada deverá informar por ofício as requisições que serão subcontratadas. 27.2 ­ Será admitida a subcontratação da fase de teste do sistema, sem prejuízo das responsabilidades contratuais e legais. 27.2.1 ­ Não é necessário informar à contratante sobre subcontratações de testes. 27.3 ­ Não será admitida subcontratação das demais fases do desenvolvimento. 27.4 - A permissão da subcontratação justifica-se pelo princípio da economicidade, tendo em vista que a empresa vencedora precisará manter um custo fixo menor para entrega dos artefatos, o que colabora para a redução do custo do Ponto de Função na licitação. Conforme LEI Nº 8.666, DE 21 DE JUNHO DE 1993 Art. 72. O contratado, na execução do contrato, sem prejuízo das responsabilidades contratuais e legais, poderá subcontratar partes da obra, serviço ou fornecimento, até o limite admitido, em cada caso, pela Administração. Conforme INSTRUÇÃO NORMATIVA Nº 04 de 19 de maio de 2008. Art. 14. A Estratégia da Contratação, elaborada a partir da Análise de Viabilidade da Contratação, compreende as seguintes tarefas: V - definição, pela Área de Tecnologia da Informação, das responsabilidades da contratada, que não poderá se eximir do cumprimento integral do contrato no caso de subcontratação;
+
+70
+
+CLÁUSULA VINTE E OITO ­ DOS CASOS OMISSOS 28.1 - A execução do presente Contrato, bem como os casos omissos, regular-se-ão pelas cláusulas contratuais e pelos preceitos de Direito Público, aplicando-lhes, supletivamente, os Princípios da Teoria Geral dos Contratos e as disposições de Direito Privado, na forma do artigo 54, da Lei nº 8.666/1993 e alterações posteriores, combinado com inciso XII do artigo 55, do referido diploma legal.
+
+CLÁUSULA VINTE E NOVE ­ DA PUBLICAÇÃO 29.1 - A Contratante providenciará a publicação deste Contrato, por extrato, no Diário Oficial da União, conforme determina o Parágrafo único, do artigo 61, da Lei nº 8.666/1993, e suas alterações. CLÁUSULA TRINTA ­ DO FORO 30.1 - As partes elegem o foro da Justiça Federal, Seção Judiciária de Sete Lagoas, com renúncia de qualquer outro, por mais privilegiado que seja, para dirimir quaisquer dúvidas que surgirem na execução do presente Instrumento. 30.2 - E, para firmeza e como prova de assim haverem, entre si, ajustado e contratado, lavrou-se o presente Termo em 3 (três) vias de igual teor e forma, para todos os fins de direito, sem rasuras ou emendas, o qual depois de lido e achado conforme, perante duas testemunhas, a todo o ato presente, vai pelas partes assinado, as quais se obrigam a cumpri-lo. Diamantina (MG),_____de xxxxxxx de 2010.
+
+CONTRATANTE __________________________________ XXXXXXXXXXXX Reitora da UFVJM TESTEMUNHAS: NOME:______________________________
+
+CONTRATADA ___________________________________ xxxxxxxxxxxxxxxx xxxxxxxxx
+
+NOME:________________________ ___ RG:_________________________________ ______________________________ CPF:________________________________ ______________________________ RG:
+
+CPF:
+
+71
+
+ANEXO V MINUTA DA ATA DE REGISTRO DE PREÇOS N° XX/2010 PROCESSO Nº 23086.000861/2010-71 PREGÃO ELETRÔNICO Nº 070/2010
+
+AOS ---- (-------------------------------) DIAS DO MÊS DE ----------------------------------- DE 2010, A UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI ­ UFVJM, AUTARQUIA FEDERAL, COM SEDE NA CIDADE DE DIAMANTINA, NA RUA DA GLÓRIA, 187, CENTRO, NESTE ATO REPRESENTADA PELO SEU PRO REITOR DE ADMINISTRAÇÃO, PROFA. CYNTHIA REGINA FONTE BOA PINTO, NOS TERMOS QUE DISPÕE O ART. 15 DA LEI FEDERAL 8.666/93 E DO DECRETO N° 3.931/2001 E A EMPRESA VENCEDORA, NESTE ATO REPRESENTADA PELO SEU REPRESENTANTE LEGAL, CLASSIFICADA NO PREGAO ELETRÔNICO SRP N° 070/2010, PROCESSO N° 23086.001982/2010-30 RESOLVEM FAZER CONSTAR OS PREÇOS DOS SERVIÇOS NO SISTEMA DE REGISTRO DE PREÇOS, IMPLANTADO PELO PROCESSO LICITATÓRIO CITADO, CONFORME HOMOLOGADO PELO PRÓ-REITOR DE ADMINISTRAÇÃO DA UFVJM, OBSERVADAS AS CONDIÇÕES ENUNCIADAS NAS CLÁUSULAS QUE SEGUEM: 01. OBJETO Item I: Prestação de serviços técnicos especializados na área de tecnologia da informação, compreendendo o desenvolvimento, manutenção corretiva, adaptativa, evolutiva ou perfectiva de sistemas de informação e portais; e documentação de sistemas de informação, por intermédio das atividades, de acordo com as especificações, padrões técnicos de desempenho e qualidade estabelecidos pela Contratante, mediante ordens de serviço dimensionadas pela técnica de contagem de Pontos por Função Brutos ­ PFB, pagas pelo quantitativo mensal de resultados recebidos e homologados, acompanhadas da respectiva documentação prevista pela Contratante, no modelo de Centro de Solução de Desenvolvimento de Software, na forma de serviços continuados. O quantitativo foi estimado em 5.000 (cinco mil) PFB, sem garantia de consumo mínimo. O prazo será de 12 (doze) meses, podendo ser renovado por iguais e sucessivos períodos, até o limite previsto em lei. Item II: Contratação de empresa para prestação dos serviços especializados em Contagem de Ponto de Função, para aferição do dimensionamento de atividades e/ou serviços a serem executados pela empresa contratada do Item I. O quantitativo foi estimado em 5.000 (cinco mil). 02. DAS AQUISIÇÕES 02.1 O compromisso será efetivado através da emissão da Nota de Empenho e Assinatura de Contrato que, obedecendo às descrições da proposta apresentada e valores que seguem: Xxxxxxxxxxxxxxxxxxxxx
+01.2 A existência deste Registro de preços não obriga a Administração a firmar as futuras contratações, sendo-lhe facultada a realização de procedimento específico para aquisição pretendida, sendo assegurado ao beneficiário desse registro a preferência de fornecimento, em igualdade de condições.
+
+02.3 A Pró-Reitoria de Administração da UFVJM, através do Setor designado, irá gerenciar as aquisições, sendo responsável por:
+
+72
+
+a) Entrar em contato com a empresa, solicitando a entrega do serviço, à medida que forem necessários; b) Providenciar a Nota de Empenho; c) Receber as Notas Fiscais/Faturas e conferir se estão de acordo com os serviços prestados. Devendo, posteriormente, encaminhá-las para pagamento; d) Fiscalizar todo o processo, buscando garantir que os serviços sejam realizados em conformidade com as especificações deste Edital e seus anexos. 03. VIGÊNCIA A presente Ata, firmada pela UFVJM e a empresa xxxxxxxxxxx, classificada no processo licitatório do SRP, terá validade de 12 (doze) meses. 04. DA VINCULAÇÃO O disposto na presente Ata deverá ser executado fielmente pelas partes, de acordo com as condições avençadas no Edital do Pregão Eletrônico para registro de Preços n° 070/2010, Processo n° 23086.001982/2010-30, observadas as disposições do Decreto n° 3.931/2001, Decreto n° 4.342/2002, Decreto n° 5.450/2005, da Lei n° 10.520/2002, Lei n° 8.666/1993 e, ainda as condições estabelecidas no Edital e seus Anexos. 05. DA OBRIGAÇÃO DE MANTER AS CONDIÇÕES DE PARTICIPAÇÃO OU HABILITAÇÃO EXIGIDAS NA LICITAÇÃO 05.1. As condições de habilitação e qualificação exigidas no Edital do Pregão Eletrônico n° 070/2010 para Registro de Preços deverão ser mantidas durante toda a vigência da presente Ata, pela empresa classificada, ficando facultado à UFVJM, a qualquer momento, exigir a apresentação de parte ou totalidade dos documentos apresentados quando daquelas fases; 05.2 Quando da entrega do serviços, a empresa deverá manter-se em regularidade fiscal e habilitação jurídica com o SICAF. 06. DO PAGAMENTO Conforme item 18 do Edital do Pregão Eletrônico nº 070/2010 e desde que atendidas as exigências do Edital e seus Anexos. 07. DA REVISÃO DOS PREÇOS Conforme item 19 do Edital do Pregão Eletrônico nº 070/2010 no Sistema de Registro de Preços para referida Ata. 08. DAS PENALIDADES No caso de inadimplência ou inexecução total ou parcial do compromisso assumido com a UFVJM, garantida a prévia defesa, aplicar-se-á as sanções previstas no item 20 do Edital do Pregão Eletrônico nº 070/2010. 09. DAS DISPOSIÇÕES GERAIS 09.1. Ocorrendo, em qualquer hipótese, a negativa do fornecimento do Objeto desta licitação por parte da LICITANTE VENCEDORA, o mesmo poderá ser adjudicado às Licitantes remanescentes, na ordem de classificação e de acordo com as Propostas apresentadas, sem prejuízo às sanções previstas em lei;
+09.2. Conforme IN 08, de 04/12/1998, art.14, ficará sob a responsabilidade do MARE a publicação, trimestralmente, na imprensa oficial dos preços registrados para orientação da Administração.
+
+09.3. Fica eleito o Foro da Justiça Federal, Seção Judiciária de Minas, em Sete Lagoas, para dirimir qualquer controvérsia não resolvida entre as partes. 09.4. Por estarem as partes acordadas com o teor da presente Ata, assinam a mesma em 03 (três) vias, de igual teor e forma.
+
+73
+
+Diamantina, xx de xxxxxxxxxxx de 2010.
+
+Representante Legal da UFVJM:
+
+_____________________________________ Profa. Cynthia Regina Fonte Boa Pinto Pró Reitor de Administração da UFVJM Empresa classificada: xxxxxxxxxxxx
+
+_____________________________________ Nome do Representante legal CPF N° : xxx.xxx.xxx-xx CI N° : xxxxxxxxxxxx
+
+74
+
+75
+
+

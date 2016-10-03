@@ -1,0 +1,831 @@
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010
+
+São Luís 2010
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 PREÂMBULO A Divisão de Licitação e Contratos do Tribunal de Justiça do Estado do Maranhão torna público que fará realizar, sob a égide da Lei nº. 10.520/02, Lei Complementar nº. 123/2006, Decreto Estadual nº. 26.645/10, e, subsidiariamente, das disposições da Lei n° 8.666, de 21 de junho de 1993 e Decreto Federal nº. 5.450/05, no dia 17 de dezembro de 2010, às 11:00 horas (horário de Brasília), através do uso de recursos de tecnologia da informação, licitação, na modalidade PREGÃO ELETRÔNICO, Tipo MENOR PREÇO, VALOR UNITÁRIO, por ITEM, para Contratação de Empresa Especializada na prestação de Serviços Técnicos de Manutenção e Desenvolvimento de Sistemas de Informação e demais serviços correlacionados , mediante as seguintes condições: 1. DA ABERTURA: 1.1. A sessão pública será realizada através do site www.comprasnet.gov.br, sendo presidida por Pregoeiro Oficial do TJ/MA, na sala da Divisão de Licitação e Contratos, situada no Prédio-anexo do Tribunal de Justiça do Estado do Maranhão, na de Nazaré, 173, Centro, São Luís-MA, CEP 65010-410, na data e horário indicados no preâmbulo; 1.2. Ocorrendo decretação de feriado ou outro fato superveniente que impeça a realização desta licitação na data acima mencionada, o evento será automaticamente transferido para o primeiro dia útil subseqüente, independentemente de nova comunicação. 2. DO OBJETO: 2.1. A presente licitação destina-se à escolha da(s) melhor(es) proposta(s) de preço(s) global(is) por lote (s), para Contratação de Empresa Especializada na prestação de Serviços Técnicos de Manutenção e Desenvolvimento de Sistemas de Informação e demais serviços correlacionados, conforme disposições deste Edital e informações constantes no ANEXO I ­ Termo de Referência. 3. DAS CONDIÇÕES PARA PARTICIPAÇÃO: 3.1. Poderão participar deste PREGÃO ELETRÔNICO as empresas que: 3.1.1. Atendam às condições deste Edital e seus Anexos, inclusive quanto à documentação e estiverem devidamente credenciadas na Secretaria de Logística e Tecnologia da Informação ­ SLTI, do Ministério do Planejamento, Orçamento e Gestão, através do Site www.comprasnet.gov.br. 3.1.1.1. A SLTI atuará como provedor do sistema eletrônico; 3.1.2. Como requisito para participarem no Pregão Eletrônico, em campo próprio do sistema eletrônico, manifestem o pleno conhecimento e atendimento às exigências de habilitação do presente Edital; 3.1.2.1. Todos os custos decorrentes da elaboração e apresentação de propostas serão de responsabilidade exclusiva do licitante, não sendo o TJ/MA, em nenhum caso, responsável pelos mesmos, inclusive, pelas transações que forem efetuadas em nome do licitante, no Sistema Eletrônico, bem como não se responsabilizará por eventual desconexão; 3.1.3. Não se encontrem em regime de recuperação judicial ou com pedido de falência, concordata, em concurso de credores, processo de insolvência;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 3.1.4 Que não estejam em processo de dissolução, liquidação ou consórcio, qualquer que seja sua constituição; 3.1.5 Empresas estrangeiras autorizadas a funcionar no país; 3.1.6. Não tenham sido declaradas inidôneas por órgão da Administração Pública, Direta ou Indireta, Federal, Estadual ou Municipal ou do Distrito Federal, por meio de ato que tenha sido publicado no Diário Oficial da União, do Estado ou do Município, enquanto perdurarem os motivos determinantes da punição; ou punidas com suspensão pelo TJ/MA. 4. DA REPRESENTAÇÃO E DO CREDENCIAMENTO: 4.1. Para participar do Pregão Eletrônico, o licitante deverá se credenciar no sistema "PREGÃO ELETRÔNICO" através do site www.comprasnet.gov.br. 4.1.1. O credenciamento far-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico; 4.1.2. O credenciamento junto ao provedor do sistema implica a responsabilidade legal do licitante ou de seu representante legal e a presunção de sua capacidade técnica para realização das transações inerentes ao Pregão Eletrônico; 4.1.3. O credenciamento do licitante, bem como a sua manutenção, dependerá de registro cadastral atualizado no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, que também será requisito obrigatório para fins de habilitação; 4.2. O uso da senha de acesso ao sistema eletrônico é de inteira e exclusiva responsabilidade do licitante, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou ao TJ/MA, responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que provocados por terceiros. 5. DO ENVIO DA PROPOSTA DE PREÇOS: 5.1. A participação no pregão eletrônico dar-se-á por meio da digitação da senha privativa do licitante e subseqüente encaminhamento da proposta de preços, NO VALOR UNITÁRIO, por ITEM, no período de 30 de novembro de 2010, até às 11:00 horas do dia 17 de DEZEMBRO de 2010 (horário de Brasília-DF), por meio do sistema eletrônico (Comprasnet); 5.1.2 Até a abertura da sessão, os licitantes poderão retirar ou substituir a proposta anteriormente apresentada; 5.2. O licitante responsabilizar-se-á por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiras suas propostas, assim como os lances inseridos durante a sessão pública; 5.3. Incumbirá ao licitante acompanhar as operações no sistema eletrônico durante a sessão pública do pregão eletrônico, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de qualquer mensagem emitida pelo sistema ou de sua desconexão; 5.4. Os itens de propostas que eventualmente contemplem objeto que não correspondam às especificações contidas no Anexo I deste Edital serão desconsideradas; 5.5. Na(s) proposta(s) final(ais) será(ão) considerada(s):
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 a) Cotação de preços com valores unitários e valores totais (com duas casas decimais), em moeda nacional, em algarismo, se possível, por extenso, observando-se as especificações necessárias indicadas no Termo de Referência, presumindo-se estar inclusos os encargos que incidam ou venham a incidir sobre o objeto licitado; b) Inclusão de todas as despesas que influam no custo, tais como: impostos, taxas, transportes, encargos fiscais e todos os ônus diretos; c) Prazo de validade da proposta de, no mínimo, 60 (sessenta) dias, a contar da data da sessão de abertura deste pregão eletrônico; d) Especificação clara e detalhada, observando-se as informações necessárias constantes do Anexo I (Termo de Referência); e) Prazo de execução dos serviços; f) Dados do licitante referente às seguintes informações: razão social, endereço, telefone/fax, número do CNPJ/MF, e-mail (se possuir) banco, agência, número da conta-corrente e praça de pagamento, facultada a apresentação destas informações quando da contratação; g) Indicação de garantia mínima de 12 (doze) meses, conforme especificado no item 4.9 do Termo de Referência (Anexo I). 5.6. Não serão admitidas alterações nas condições estabelecidas, uma vez recebidas as propostas, exceto no caso de nova disputa por meio de lances inseridos no sistema eletrônico, conforme previsto neste Edital; 5.7. Não sendo emitida a Nota de Empenho dentro do prazo de validade da proposta vencedora, esta poderá ser prorrogada por até 30 (trinta) dias, se o proponente, consultado pelo TJ/MA, assim concordar. 6. DO INÍCIO DA SESSÃO PÚBLICA: 6.1. O Pregoeiro, via sistema eletrônico, dará início à Sessão Pública, na data e horário previstos neste Edital, com a divulgação das propostas de preços recebidas, em conformidade com a condição 5.1, que por sua vez deverão estar em perfeita consonância com as especificações detalhadas do objeto do presente Edital e seus Anexos. 7. DA FORMULAÇÃO DE LANCES : 7.1. Aberta a etapa competitiva (Sessão Pública de Lances), no horário previsto no preâmbulo, os licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico, sendo o licitante imediatamente informado do seu recebimento e respectivo horário de registro e valor; 7.1.1. Assim como as propostas, os lances deverão ser ofertados pelo VALOR UNITÁRIO, por ITEM; 7.2. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado e as regras de aceitação dos mesmos; 7.3. Somente serão aceitos os lances cujos valores forem inferiores ao último lance que tenha sido anteriormente ofertado pelo licitante; 7.4. Em havendo mais de um lance de igual valor, prevalecerá aquele que for registrado em primeiro lugar. 7.5. Durante a Sessão Pública do Pregão Eletrônico, os licitantes serão informados em tempo real, do valor do menor lance registrado, vedada à identificação do seu detentor;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 7.6. A etapa de lances será encerrada mediante aviso de seu fechamento iminente aos licitantes, por meio do Sistema Eletrônico; 7.7. Nas licitações será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte (art. 44 da Lei Complementar nº. 123/06); 7.7.1. Para fins do item 9.4, entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 5% (cinco por cento) superiores à proposta mais bem classificada (art. 44, §§ 1º e 2º, da Lei Complementar nº. 123/06); 7.7.2 Ocorrendo o empate nos termos dos itens anteriores, proceder-se-á da seguinte forma (art. 45 da Lei Complementar nº. 123/06): 7.7.2.1. a microempresa ou empresa de pequeno porte mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado em seu favor o objeto licitado; 7.7.2.2. não ocorrendo a contratação da microempresa ou empresa de pequeno porte, na forma do item 9.6.1,.serão convocadas as remanescentes que porventura se enquadrem na hipótese do item 9.5.1, na ordem classificatória, para o exercício do mesmo direito; 7.7.2.3. no caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que se encontrem nos intervalos estabelecidos no item 9.4.1, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta. 7.7.3. Na hipótese da não-contratação nos termos previstos no item 9.4 e seus subitens, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame. 7.7.4. O disposto no item 9.4 e seus subitens somente se aplicará quando a melhor oferta inicial não tiver sido apresentada por microempresa ou empresa de pequeno porte. 7.7.5 No caso de pregão, a microempresa ou empresa de pequeno porte mais bem classificada será convocada para apresentar nova proposta no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão. 7.8. O Pregoeiro anunciará a(s) LICITANTE(s) VENCEDORA(s) após sua decisão acerca da aceitação do lance de menor valor ou, quando for o caso, após o procedimento, previsto na Lei Complementar Nº. 123, de 14 de dezembro de 2006;
+
+8. DO JULGAMENTO DAS PROPOSTAS: 8.1. Após o fechamento da etapa de lances, o Pregoeiro efetuará o julgamento das propostas de menor preço e poderá encaminhar pelo sistema eletrônico, contrapropostas, diretamente ao licitante que tenha apresentado o lance de menor valor, para que seja obtido preço melhor, bem como decidir sobre a sua aceitação; 8.2. Após análise e aceitação da proposta, o pregoeiro verificará a habilitação e, em seguida, anunciará o licitante vencedor; 8.3. Na hipótese da proposta ou do lance de menor valor não ser aceito ou se o licitante vencedor desatender às exigências habilitatórias, o Pregoeiro examinará a proposta ou lance
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 subseqüente, verificando a sua aceitabilidade e procedendo à sua habilitação na ordem de classificação, segundo o critério do menor preço, e assim sucessivamente até a apuração de uma proposta ou lance que atenda ao Edital, observado, no que for pertinente, os dispositivos da LC Nº. 123/06;
+
+9. DA HABILITAÇÃO: 9.1. A habilitação fiscal dos licitantes será verificada mediante consulta "on -line" ao SICAF, constatando-se a sua regularidade perante a Fazenda Nacional (Certidão de Quitação de Tributos Federais e Certidão de Dívida Ativa da União), Fazenda Estadual (Certidão Negativa), Fazenda Municipal (Certidão Negativa), Seguridade Social (Certidão Negativa de Débito), Fundo de Garantia do Tempo de Serviço ­ FGTS (Certificado de Regularidade Fiscal do FGTS), conforme aduz o artigo 29 da Lei 8.666/93; 9.1.1. A licitante deverá apresentar ainda: a) Declaração de que cumpre o disposto no inciso XXXIII do art. 7º da Constituição Federal; b) Declaração de que inexistem fatos impeditivos da sua habilitação, conforme Anexo II deste Edital; 9.2. A qualificação técnica será comprovada mediante apresentação de, no mínimo, 01 (um) Atestado de Capacidade Técnica, expedido em nome da empresa licitante, fornecido por pessoa jurídica de direito público ou privado, que comprove que a licitante executou serviços de atividades contínuas, que englobem serviços técnicos especializados no Desenvolvimento e Documentação de Sistemas de Informação, num volume igual ou superior a 2.500 pontos de função/ano, no mesmo contrato, conforme especificações constantes no Anexo I (Termo de Referência) deste Edital; 9.2.1. O atestado deve vir acompanhado do respectivo contrato de prestação de serviços com objeto compatível com o declarado no atestado, sendo obrigatório constar no contrato a referência à utilização da métrica de Pontos de Função. 9.2.2. Os documentos em língua estrangeira deverão ser traduzidos para o português, por Tradutor Juramentado, e registrados em Cartório de Registro de Títulos e Documentos. 9.3. Quanto à qualificação econômico-financeira, a empresa deverá apresentar: 9.3.1 Certidão negativa de falência ou concordata expedida pelo distribuidor da sede da pessoa jurídica, ou de execução patrimonial, expedida no domicílio da pessoa física, em data não anterior a 30 (trinta) dias da data de entrega de propostas ou que esteja dentro do prazo de validade expresso na própria certidão; 9.3.2 Balanço patrimonial do último exercício social (2009), para aferição da capacidade financeira da empresa licitante, sendo analisados os seguintes índices contábeis: 1) Índice de Liquidez Corrente (LC)> 1 LC= ATIVO CIRCULANTE > 1 PASSIVO CIRCULANTE 2) Índice de Liquidez Geral (LG)> 1
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 LG= ATIVO CIRCULANTE + REALIZÁVEL A LONGO PRAZO >1 PASSIVO CIRCULANTE + EXIGÍVEL A LONGO PRAZO 3) Grau de Endividamento (GE) < 1 GE= EXIGÍVEL TOTAL <1 PATRIMÔNIO LÍQUIDO 4) Endividamento Total (ET) < 1 ET= EXIGÍVEL TOTAL <1 ATIVO TOTAL 9.3.5. Comprovação de capital social integralizado ou patrimônio líquido não inferior a 10% do valor total anual do contrato, mediante a apresentação do balanço patrimonial de que trata o item 9.4.2, deste Edital, ou através da última alteração do Contrato Social (que compreenda alteração do capital) devidamente registrado na Junta Comercial; 9.4. As Microempresas (ME) e Empresas de Pequeno Porte (EPP), por ocasião da participação em certames licitatórios, deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição (art. 43 da LC Nº. 123/06); a) Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de 02 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for declarado o vencedor do certame, prorrogáveis por igual período, a critério da Administração Pública, para a regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa (art. 43, parágrafo 1º, da LC N.º 123/06); b) A não-regularização da documentação no prazo previsto acima, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei nº 8.666/93, sendo facultado à Administração Pública convocar os licitantes remanescentes, na ordem da classificação, para a assinatura do contrato, ou revogar a licitação (art. 43, parágrafo 2º, da LC Nº. 123/06); 9.5. Não serão aceitos protocolos de entrega ou solicitação de documentos, em substituição aos documentos requeridos neste Edital e seus Anexos; 9.6. Os documentos exigidos para habilitação, bem como a proposta vencedora ajustada ao lance, serão encaminhados ao Pregoeiro, ao final da Sessão Pública, através de fone (0**98) 32226379 ou digitalizadas (contendo a assinatura) e encaminhadas por e-mail (divlicitacao@tjma.jus.br), devendo os originais ser apresentados no prazo de 05 (cinco) dias consecutivos após a Sessão; 9.6.1. Facultativamente ao disposto na condição acima, os documentos originais poderão ser apresentados em cópias autenticadas por cartório competente, ou verificadas a autenticidade pelo Pregoeiro ou pela equipe de apoio. 10. DO ENCAMINHAMENTO DA DOCUMENTAÇÃO 10.1 A proposta ajustada ao lance final da licitante e os documentos exigidos para habilitação que não estejam contemplados no SICAF, inclusive quando houver necessidade de envio de anexos, deverão ser remetidos via fac-símile, para o número (98) 3222.6379 ou para o endereço eletrônico (divlicitacao@tjma.jus.br).
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 10.2 A proposta, os documentos e os anexos remetidos, via fac-símile ou por meio eletrônico, deverão ser encaminhados, em original, ou por cópia autenticada, no prazo máximo de 05 (cinco) dias consecutivos, contados da solicitação do Pregoeiro, na Rua Joaquim Távora, 173, Centro, São Luís/MA, CEP 65010-410; 10.3 Em se tratando de microempresa ou empresa de pequeno porte, havendo alguma restrição na comprovação fiscal, será assegurado o prazo de 02 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for declarado vencedor do certame, prorrogáveis por igual período, a critério da Administração, para a regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. 10.4 A não-regularização da documentação implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 7º da Lei nº 10.520/2002, sendo facultado à Administração convocar as licitantes remanescentes. 10.5 Se a licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se a licitante for a filial, todos os documentos deverão estar em nome da filial, exceto aqueles documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome da matriz. 11. DA IMPUGNAÇÃO, DOS ESCLARECIMENTOS E DO RECURSO ADMINISTRATIVO 11.1. Qualquer pessoa, até 03 (três) dias úteis anteriores à data fixada para a abertura da sessão pública poderá solicitar esclarecimentos referentes ao presente procedimento licitatório; 11.2. Os pedidos de esclarecimento deverão ser encaminhados ao pregoeiro, exclusivamente, por meio eletrônico, através do e-mail: divlicitacao@tjma.jus.br; 11.3 Até 02 (dois) dias úteis antes da data fixada para a sessão pública, qualquer pessoa pode impugnar o presente ato convocatório; 11.3.1. Caberá ao pregoeiro, auxiliado pelo setor responsável pela elaboração do edital, decidir sobre a impugnação no prazo de 24 (vinte quatro horas); 11.3.2. Acolhida a impugnação contra o ato convocatório, será definida e publicada nova data para a realização do certame. 11.4. Declarado do vencedor, qualquer licitante poderá manifestar, motivadamente, via sistema eletrônico e dentro do prazo fixado pelo pregoeiro, a intenção de recorrer, quando lhe será concedido prazo de 03 (três) dias para a apresentação das razões do recurso, ficando os demais licitantes, desde logo, intimados a apresentar contra-razões, em igual número de dias, que começará a correr do término do prazo do recorrente; 11.5. A falta de manifestação imediata e motivada do licitante, dentro do prazo fixado pelo pregoeiro para tal comando, importará a decadência do direito de recurso e adjudicação do objeto pelo Pregoeiro ao vencedor; 11.6.1. Intenção motivada de recorrer é aquela que identifica, objetivamente, os fatos e o direito que o licitante pretende que sejam revistos; 11.7 O recurso contra decisão do Pregoeiro não terá efeito suspensivo; 11.8. O acolhimento ao recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento; 11.9. O Pregoeiro submeterá o recurso, devidamente informado, à consideração do(a) Presidente(a) do TJ/MA, que proferirá decisão definitiva antes da homologação do procedimento;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 11.10. Os autos do processo permanecerão com vista franqueada aos interessados na Sala da Divisão de Licitação e Contratos, no endereço indicado na condição 01 deste Edital; 11.11. Decairá do direito de impugnar perante a Administração, os termos desta licitação, aquele que os aceitando sem objeção, venha apontar, depois do julgamento, falhas ou irregularidades que a viciariam, hipótese em que tal comunicação não terá efeito de recurso.
+
+12. DAS RESPONSABILIDADES DO CONTRATANTE: 12.1. São obrigações do CONTRATANTE: 12.2.Permitir ao pessoal técnico da CONTRATADA, desde que identificado e incluído na relação de técnicos autorizados, o acesso às unidades para a execução dos serviços, respeitadas as normas de segurança vigentes nas suas dependências; 12.3.Notificar a CONTRATADA quanto a defeitos ou irregularidades verificados na execução dos serviços, objeto deste Termo de Referência, bem como quanto a qualquer ocorrência relativa ao comportamento de seus técnicos, quando em atendimento, que venha a ser considerado prejudicial ou inconveniente para o TJMA; 12.4.Efetuar os pagamentos devidos à CONTRATADA, na forma convencionada, dentro do prazo previsto, desde que atendidas às formalidades necessárias, após a aceitação dos serviços faturados; 12.5.Promover a fiscalização do contrato, sob os aspectos quantitativos e qualitativos, por intermédio de profissional designado, anotando em registro próprio as falhas detectadas e exigindo as medidas corretivas necessárias, bem como acompanhar o desenvolvimento do contrato, conferir os serviços executados e atestar os documentos fiscais pertinentes, quando comprovada, a execução total, fiel e correta dos serviços, podendo ainda sustar, recusar, mandar fazer ou desfazer qualquer procedimento que não esteja de acordo com os termos contratuais; 12.6.Comunicar tempestivamente à detectadas na execução dos serviços; CONTRATADA as possíveis irregularidades
+
+12.7.Comunicar à CONTRATADA a necessidade de substituição de qualquer profissional que seja considerado inadequado para o exercício da função; 12.8.Emitir, antes da execução de qualquer serviço, sua respectiva OS, definindo claramente os requisitos técnicos, administrativos e financeiros relativos ao serviço objeto deste Projeto; 12.9.Autorizar as propostas de execução de serviços apresentadas pela CONTRATADA nas OS; 12.10.Homologar os serviços prestados de acordo com os requisitos pré-estabelecidos nas OS, atestando as respectivas faturas. 12.11.Fornecer à CONTRATADA, em tempo hábil, as informações necessárias e relevantes à consecução dos sistemas a serem desenvolvidos, bem como a documentação técnica e operacional de todos os sistemas já desenvolvidos, descritos neste Projeto; 12.12.Especificar e estabelecer normas e diretrizes para a execução dos serviços ora contratados, definindo as prioridades, regras, bem com os prazos e etapas para cumprimento das obrigações;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 12.13.Avaliar o relatório mensal das atividades executadas pela CONTRATADA; 12.14.Indicar um representante para acompanhar e fiscalizar a execução do contrato em cada local de prestação dos serviços; 13. DAS RESPONSABILIDADES DA CONTRATADA: 13.1. Entregar o objeto licitado, conforme especificações deste Edital e em consonância com a proposta de preços; 13.2.Obedecer às normas operacionais fornecidas pela CONTRATANTE; 13.3.Empregar funcionários qualificados e devidamente capacitados para execução dos serviços, conforme as definições dos serviços descritas neste Termo de Referência; 13.4.Manter seus funcionários devidamente informados das normas disciplinares do CONTRATANTE, bem como das normas de utilização e de segurança das instalações e do manuseio dos documentos; 13.5.Responsabilizar-se pelos danos causados diretamente ao CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços; 13.6.Responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura ocasionar ao TJMA ou a terceiros, durante a execução dos serviços, podendo o TJMA descontar o valor correspondente ao dano dos pagamentos devidos; 13.7.Responsabilizar-se, civil e criminalmente, pelo mau uso ou extravio dos documentos sob sua guarda; 13.8.Comunicar, por escrito, qualquer anormalidade, prestando ao TJMA os esclarecimentos julgados necessários; 13.9.Manter, durante a execução do contrato, todas as condições de habilitação e qualificação exigidas na licitação, em conformidade com art. 55, inciso XIII, da Lei 8.666, incluindo a atualização de documentos de controle da arrecadação de tributos e contribuições federais e outras legalmente exigíveis; 13.10.Indicar responsável pelo gerenciamento dos serviços, com poderes de representante legal ou preposto para tratar de todos os assuntos relacionados ao contrato junto ao TJMA, sem ônus para esta; 13.11.Atender de imediato as solicitações quanto à substituição de pessoal considerado inadequado para a prestação dos serviços, inconveniente à boa ordem ou que venha a transgredir normas disciplinares do TJMA; 13.12.Prever e prover o pessoal necessário para garantir a execução dos serviços, nos regimes contratados, sem interrupção, seja por motivo de férias, descanso, licenças e etc. 13.13.Desenvolver todos os sistemas com total aderência aos Padrões de Interoperabilidade de Governo Eletrônico e às Metodologias definidas pelo TJMA, para o serviço de Desenvolvimento e Manutenção dos Sistemas de Informação, elaborar e apresentar ao TJMA, nas datas estabelecidas nas OS, todos os produtos e relatórios de acompanhamento e de final de execução de serviços. Os relatórios deverão contemplar detalhamento das atividades desenvolvidas;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 13.14.Atender às solicitações do TJMA, de acordo com as especificações técnicas, procedimentos de controle administrativo e cronogramas físicos que venham a ser estabelecidos; 14. DO LOCAL E DO PRAZO DA PRESTAÇÃO DOS SERVIÇOS: 14.1. Os serviços serão executados nas instalações da CONTRATADA e, quando necessário, para as atividades que requerem análise de requisitos e interface com os servidores ou Magistrados deverão ser realizados em São Luís/MA; 14.2 O prazo de execução dos serviços deverão atender ao disposto no ITEM 4.6 do Termo de referência ­ ANEXO I, deste Edital. 15. DO RECEBIMENTO: 15.1. A unidade solicitante dos serviços emitirá Termo de Aceitação do Serviço no prazo definido na Ordem de Serviço, após a inspeção e teste dos artefatos entregues. 15.2. A CONTRATADA será responsável pelas atividades de homologação do sistema, supervisionada pelo solicitante do serviço, no ambiente de homologação do TJMA, com a seguinte abrangência: a. Os requisitos do Ambiente de Produção, o qual deverá ter um comportamento estável e com baixo consumo de recursos; b. Os requisitos de segurança, buscando proteger as informações de clientes, a integridade dos dados, da aplicação e do ambiente; c. Os requisitos do negócio, disponibilizando o sistema para avaliação dos usuários quanto ao atendimento dos requisitos contratados; d. O acompanhamento da execução dos testes no ambiente de homologação; e. O acompanhamento das atividades de homologação pelo usuário final. 15.3. O TJMA deverá disponibilizar um Ambiente de Teste e Homologação de sistemas, espelho do Ambiente de Produção, a fim de assegurar que o comportamento do sistema não será alterado quando transferido para o Ambiente de Produção. 15.4. O serviço será recebido definitivamente, em até 05 (cinco) dias, após a realização de testes, da verificação de conformidade do produto apresentado conforme solicitado e homologação. 15.5. Para serviços que sejam executados conforme cronograma, o recebimento será atestado, para fins de pagamento, em cada parcela, após conferência da adequação da fatura mensal aos termos contratuais e ao exigido na OS. Para o recebimento definitivo, será observado o disposto no item anterior. 16. DO CONTRATO: 16.1. O licitante vencedor deverá assinar o Contrato perante a Divisão de Licitação e Contratos, sob pena de decair do direito à contratação, sem prejuízo das sanções previstas no artigo 81 da Lei nº. 8.666/93; 16.2. O prazo para a prestação de serviço começará a correr a partir da assinatura do Contrato; 16.3. É facultado à Administração, quando o adjudicatário não assinar o Contrato, no prazo e condições estabelecidos, convocar os licitantes remanescentes, atendendo aos preços registrados, na ordem de classificação, para fazê-lo em igual prazo, independentemente da cominação prevista no artigo 81 da Lei nº. 8.666/93;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 16.4. O licitante vencedor ao assinar a Ata e o Contrato, submete-se a aceitar nas mesmas condições contratuais os acréscimos e supressões até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato ou da nota de empenho. 16.5. Para assegurar o integral cumprimento de todas as obrigações contratuais assumidas, inclusive indenização a terceiros e multas eventualmente aplicadas, a CONTRATADA se obriga a oferecer, como prestação de garantia, o valor correspondente a 5 % (cinco por cento) do valor global do Contrato. 16.5.1 Caberá a CONTRATADA optar por uma das modalidades de garantia prevista no Art. 56 da Lei n° 8.666/93. 16.5.2 A garantia será restituída a CONTRATADA após o término do Contrato com integral cumprimento de todas as obrigações contratuais. 17. DAS SANÇÕES: 17.1. Além das sanções previstas no item 4.6.2 do Termo de Referência (Anexo I), são aplicáveis à contratada em caso de inexecução parcial ou total das obrigações em relação ao objeto desta licitação, garantida a ampla defesa e o contraditório: a) Suspensão temporária do direito de licitar e impedimento de contratar com a Administração Pública, pelo prazo de até 02 (dois) anos, quando da inexecução contratual sobrevier prejuízo para a Administração; b) Declaração de inidoneidade para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação; 17.1.2.. Aquele que, convocado dentro do prazo de validade de sua proposta, não assinar o Contrato ou Ata de Registro de Preço, deixar de entregar documentação exigida no edital, apresentar documentação falsa, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, garantido o direito à ampla defesa, ficará impedido de licitar e de contratar com o poder público, e será descredenciado no SICAF, pelo prazo de até cinco anos, sem prejuízo das multas previstas em edital e no contrato e das demais cominações legais. 17.3. A penalidade de suspensão será cabível quando o licitante participar do certame e for verificada a existência de fatos que o impeçam de contratar com a administração pública. Caberá, ainda, a suspensão quando a licitante, por descumprimento de cláusula editalícia, tenha causado transtornos no desenvolvimento dos serviços da CONTRATANTE; 17.4. A penalidade estabelecida na alínea "b," do subitem 17.1, será da competência da Presidência do TJ/MA ou por agente que receba esta delegação. 18. DA RESCISÃO: 18.1. A rescisão das obrigações decorrentes do presente Pregão processar-se-á de acordo com o que estabelecem os artigos 77 a 80 da Lei nº. 8.666/93. 19. DO PAGAMENTO: 19.1. O pagamento será realizado através de Ordem Bancária, em prazo não superior a 30 (trinta) dias, contado a partir da prestação do serviço, à vista da Nota Fiscal/Fatura
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 devidamente atestada pelo setor competente do TJ/MA, conforme preleciona o art. 40, inciso XIV, alínea "a" da Lei 8.666/93; 19.2. Os serviços serão recebidos por gestor designado pelo TJMA da seguinte forma. 19.2.3. Para o desenvolvimento de novos sistemas e de novas funcionalidades : O pagamento será realizado com base nos serviços executados, no mês pela equipe técnica da CONTRATADA. A autorização do pagamento estará condicionada aos resultados obtidos após as análises realizadas de acordo com o item 4.6.2.2 do Termo de Referência. O valor a ser pago consiste na multiplicação do tamanho do sistema em pontos de função pelo valor do ponto de função estabelecido em contrato. Os serviços serão autorizados por meio de Ordens de Serviço (OS) e documentados no Relatório de Acompanhamento Técnico (RAT). 19.2.4.Para a documentação Sistemas Legados: O pagamento será realizado com base nos serviços executados no mês, pela equipe técnica da CONTRATADA, devidamente autorizadas na Ordem de Serviço e documentadas nos Relatórios de Acompanhamento da Ordem de Serviço. O custo deste serviço será equivalente a 12% do valor do ponto de função. 19.2.5.Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de pontos de função, bem como deduções de valores relativos a penalidades, serão efetuados na fatura do mês subseqüente à ocorrência do fato. 19.2.6.Todas as Ordens de Serviço deverão vir acompanhadas RAT para que o pagamento seja realizado. 19.2.7.Para Ordens de Serviço (OS), com prazos de execução que excedam 01 (um) mês, caberá à CONTRATADA, apresentar cronograma de execução para o serviço, estando os pagamentos parciais limitados ao valor da garantia contratual. 19.3. O setor competente da CONTRATANTE, Diretoria Financeira, validará as Notas Fiscais/Faturas devidamente cadastradas/registradas pelas empresas; 19.4 Nos casos de eventuais atrasos de pagamento, desde que a licitante vencedora não tenha concorrido de alguma forma para tanto, fica convencionado que os encargos moratórios devidos pelo Tribunal de Justiça do Estado do Maranhão, entre a data final prevista para o adimplemento, indicada no subitem 19.1 e a correspondente ao efetivo pagamento da Nota Fiscal/fatura, será calculado por meio da aplicação da seguinte fórmula: EM = I x N x VP, onde: EM = Encargos Moratórios; N = Número de dias entre a data final prevista para o pagamento e a do efetivo pagamento; VP = Valor da parcela em atraso; I = Índice de compensação financeira = 0,00016438, assim apurado: I = TX 365 I = 6/100 365 I = 0,00016438
+
+TX = taxa percentual anual = 6% (seis por cento). 19.5 Não será efetuado qualquer pagamento à LICITANTE enquanto houver pendência de liquidação da obrigação financeira em virtude de penalidade ou inadimplência contratual. 20. DA GARANTIA:
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 20.1. Os produtos gerados pela CONTRATADA terão garantia de 12 meses, a contar da data de aceite dos produtos. 20.2. A emissão de aceite dos serviços pelo TJMA, não exime a CONTRATADA da responsabilidade pela correção de erros porventura identificados, sem ônus adicional.
+
+21. DAS DISPOSIÇÕES GERAIS: 21.1. É facultado ao Pregoeiro, auxiliado pela Equipe de Apoio, proceder em qualquer fase da licitação, diligências destinadas a esclarecer ou a complementar a instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar originalmente da proposta; 21.1.1 É necessário que o licitante apresente o comprovante de cadastro no SIAGEM, nos termos do Anexo VI, para que a empresa vencedora do certame possa receber empenho e posterior pagamento; 21.2 Torna-se necessário que o licitante vencedor providencie seu registro junto ao SIAGEM pela entidade licitadora, para fins de pagamento; 21.3. A critério da Administração, o objeto da presente licitação poderá ser reduzido ou aumentado, de acordo com o artigo 65, § 1º, da Lei nº. 8.666/93; 21.4 A apresentação da proposta de preços implica na aceitação plena e total das condições deste Pregão, sujeitando-se o licitante às sanções previstas nos artigos 86 a 88 da Lei nº. 8.666/93; 21.5 A critério da Administração, o objeto da presente licitação poderá ser reduzido ou aumentado, de acordo com o artigo 65, § 1º, da Lei nº. 8.666/93; 21.6 A homologação do resultado desta licitação não implicará em direito à contratação; 21.7 As normas que disciplinam este pregão serão sempre interpretadas em favor da ampliação da disputa entre os interessados, sem comprometimento da segurança do futuro contrato; 21.8 Não serão levados em consideração pelo(a) Pregoeiro(a) quaisquer consultas, pedidos ou reclamações relativos ao Edital que não tenham sido formulados por escrito, devidamente protocolados ou por fax, no prazo de até 02 (dois) dias úteis antes da realização do certame; 21.9 Os casos omissos serão resolvidos pelo Pregoeiro, que decidirá com base na Lei nº. 10.520/02, Lei nº. 8.666/93, Decreto nº. 3.555/00, Decreto nº. 3.931/01, Lei Complementar nº. 123/2006 e demais legislações pertinentes; 21.10. São partes integrantes deste Edital: 21.10.1 ­ Anexo I (Termo de Referência); 21.10.1.1- Anexo I-`A' ao Termo de Referência ­ AMBIENTE DO TJMA 21.10.1.2- Anexo I-`B' AO Termo de Referência ­ GLOSSÁRIO 21.10.2 ­ Anexo II (Modelo de Declaração de Fato Superveniente Impeditivo da Habilitação); 21.10.3 ­ Anexo III (Modelo de Declaração quanto ao Cumprimento das Normas Relativas ao Trabalho do Menor); 21.10.5 ­ Anexo IV (Minuta do Contrato de Fornecimento); 21.10.6 ­ Anexo V (Modelo de Formulário de Cadastro SIAGEM);
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 21.11. Quaisquer elementos, informações e esclarecimentos relativos a esta licitação serão prestados pela Pregoeira Oficial e/ou membros da Equipe de Apoio, no Prédio-anexo do Tribunal de Justiça do Maranhão, situado à Rua Joaquim Távora, 173, Centro, São Luís/MA, CEP 65010-450, Fone: (98)3222-6379, ou pelo e-mail: divlicitacao@tjma.jus.br. São Luís, 29 de novembro de 2010.
+
+JOANNE DIAS CUNHA Pregoeiro(a) Oficial ­ TJ/MA
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 ANEXO I TERMO DE REFERÊNCIA PARA CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS EM DESENVOLVIMENTO DE SISTEMAS
+
+1.
+
+OBJETO
+
+Contratação de serviços técnicos especializados no Desenvolvimento de sistemas e novos módulos dos software atuais e a Documentação dos novos Sistemas de Informação, para atender as demandas do Tribunal de Justiça do Maranhão. 2. JUSTIFICATIVA
+
+O uso da Tecnologia da Informação, como ferramenta para a otimização das atividades administrativas, possibilitou aos órgãos da Administração Pública programar medidas que torne seus procedimentos cada vez mais rápidos, seguros, integrados, eficientes e, sobretudo, acessíveis a toda a população brasileira. O Planejamento Estratégico de Tecnologia da Informação do Poder Judiciário do Maranhão, alinhado com o Planejamento Estratégico do TJMA, visa manter os serviços de Tecnologia da Informação e Comunicação deste Tribunal, como também, atender os serviços de Tecnologia da Informação e Comunicação necessárias para prover a Modernização do Judiciário. Dentre as demandas que serão atendidas, destacam-se os sistemas processuais em desenvolvimento e as demandas futuras em relação aos sistemas de informação necessários para suprir às necessidades desta modernização. Assim, necessita-se atender às demandas em relação a sistemas de informação já existentes, como também em relação às demandas futuras, compreendendo-se nestas últimas a criação de sistemas de informações oriundas de resoluções aprovadas pelo plenário do TJMA. O TJMA possui 25 sistemas em produção. Com base na quantidade de sistemas de informações hoje implementados, cada sistema de informação tem complexidade distinta, o que pressupõe quantidades diversas de pontos de função para seu desenvolvimento. A Diretoria de Informática está trabalhando na concepção e formatação de um plano diretor de TIC ­ PDTI a partir do Planejamento Estratégico do TJMA, de forma a definir os objetivos de TIC e conceber estratégias para atingi-los. O PDTI, portanto, é um documento que estabelece ações de curto, médio e longo prazos. Os principais benefícios que se busca alcançar são: 1. A aderência da Informática aos objetivos da organização 2. A eficácia nos custos e investimentos de Informática 3 . Melhora da eficiência operacional 4. Melhora da segurança das informações e da infra-estrutura tecnológica 5. Atualização da infra-estrutura tecnológica (hardware & software) buscando: 5.1. Economias de escala, garantia de conectividade e redução de complexidade 5.2. Contínua melhoria nos níveis de serviços oferecidos 5.3. Disponibilizar as melhores soluções de Informática para o Poder Judiciário
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Com base na experiência de contratos anteriores e também com base em contratos de outros órgãos do Judiciário, na planilha abaixo, foram estimadas as quantidades previstas de pontos de função para os sistemas em produção. O objetivo da contratação, que ora se apresenta, é prover a Diretoria de Informática de serviços técnicos especializados no Desenvolvimento e Documentação de Sistemas de Informação, com repasse do conhecimento, visando futura absorção de todas essas demandas pela equipe de desenvolvedores do TJMA. O TJMA está optando pelo não parcelamento do objeto desse certame em licitações individuais distintos para validação dos sistemas, modelagem de processos e manutenção, em conformidade com a lei n. 8.666/1993, que prevê em seu artigo 23, § 1º. Com base nas informações acima e com base nos sistemas de informação implantados, projetados, previstos e nas estatísticas de crescimento e demanda anual por novos sistemas de informação, estima-se um total de 5.750 pontos de função para a presente contratação. 3. ESTIMATIVA DE CUSTO VALOR UNITÁRIO (R$) VALOR TOTAL (R$)
+
+ITEM
+
+UM
+
+QTDE
+
+DESCRIÇÃO
+
+1
+
+UN
+
+5.750
+
+Pontos de função para manutenção e desenvolvimento de sistemas de informação e demais serviços correlacionados.
+
+436,00
+
+2.507.000,00
+
+VALOR TOTAL
+
+2.507.000,00
+
+4.
+
+ESPECIFICAÇÕES TÉCNICAS DOS SERVIÇOS
+
+Os serviços a serem prestados são de natureza técnica, sob demanda, envolvendo o desenvolvimento de novos módulos nos sistemas implantados e o desenvolvimento de novos sistemas, que englobem o levantamento de requisitos, análise, projeto, implementação, testes, homologação, implantação, contemplando ainda manual dos sistemas, integração de informações, auditoria, replicação de dados, segurança e avaliação de performance de sistemas de informação. Os termos e condições descritos a seguir consideram a execução dos serviços com elevado grau de personalização, em função da heterogeneidade e complexidade do ambiente computacional, dos sistemas e serviços disponibilizados pelo TJMA para a Justiça Maranhense. Visando a obtenção de resultados satisfatórios, deverão ser adotadas no âmbito da prestação de serviços as melhores e mais atualizadas práticas na área de Tecnologia e Gestão da Informação, dentre as quais: Governança de TI, ISO 9001:2000, CMMI, MPS-BR, ITIL, COBIT, ISO 17799, ISO 20000, ISO 27001, PMBOK e UP. A adoção de Acordo de Nível Mínimo de Serviço(ANS), item 4.6 deste, servirá de instrumento de gestão das demandas e terá como principais objetivos: definição clara, precisa e inequívoca dos objetivos, produtos, prazos, custo, padrões de qualidade, métodos utilizados e responsabilidades das partes; visualização de indicadores de desempenho (previsto x realizado); melhoria do grau de
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 interação entre as partes envolvidas (CONTRATANTE e CONTRATADA); disseminação da informação relacionada aos produtos e serviços demandados; e identificação de problemas e adoção de ações preventivas e/ou corretivas em tempo hábil. A adoção de metodologias e técnicas consagradas, aliada ao uso de ferramentas automatizadas, resultará na obtenção de elevado padrão de desempenho e qualidade na prestação de serviços da contratada, além de permitir a preservação do conhecimento do negócio e sistemas do TJMA. 4.1. DETALHAMENTO DOS SERVIÇOS ­ ESPECIFICAÇÃO 4.1.1 Desenvolvimento de Sistemas de Informação: 1) Conhecimento do portfólio de sistemas e projetos; 2) Análise, modelagem e redesenho de processos de negócio, utilizando metodologias e ferramentas automatizadas; 3) Gerência, levantamento e análise de requisitos utilizando Processo Unificado, metodologias e ferramenta CASE; 4) Desenvolvimento, versionamento e testes unitário/integrado de sistemas, utilizando metodologias e ferramenta automatizada; 5) Controle de qualidade de software, com o uso de ferramentas específicas de teste de software; 6) Preparação do ambiente de desenvolvimento, testes e homologação dos sistemas; 7) Elaboração da documentação dos projetos e sistemas informatizados; 8) Integração de sistemas informatizados em plataformas heterogêneas utilizando as tecnologias de web services e XML; 9) Migração da plataforma de desenvolvimento de sistemas informatizados; 10) Administração de componentes de software; 11) Desenvolvimento de projetos de sistemas de Sites Internet e Intranet; 12) Edição e publicação de conteúdos para páginas Internet e Intranet; 13) Elaboração, revisão e homologação de documentos referentes às reuniões da área; 14) Adequação, controle, publicação e arquivamento de documentos técnicos e de sistemas/projetos; 15) Refinamento e melhoria das etapas e atividades existentes no Processo de Análise, Codificação e Testes de Sistemas; 16) Refinamento e melhoria dos artefatos dos sistemas, para atender novas situações e necessidades; 17) Refinamento e melhoria dos indicadores, promovendo um maior controle sobre as atividades de análise, codificação, testes e manutenção de sistemas; 18) Melhoria contínua nos Níveis de Serviço de Análise, codificação, testes e manutenção de sistemas; 19) Identificação de fontes de "retrabalho" que ocorrem durante as atividades de análise, codificação, testes e manutenção de sistemas; 20) Identificação das etapas que concentram maior esforço dos profissionais; 21) Implementação das "Melhorias Planejadas" e maximização dos ganhos da inovação realizada; 22) Modelagem de dados e processos utilizando ferramentas automatizadas; 23) Implantação de mecanismos de segurança, como também utilização de técnicas específicas para o desenvolvimento/produção de sistemas de informação seguros; 24) Implementação de soluções/sistemas de informação com uso de criptografia e certificado digital; 25) Administração de Dados, com suporte de ferramenta automatizada; 26) Migração de sistemas e bases de dados entre os SGBDs; 27) Customização (Tunning) de consultas (queries), objetos e serviços de banco de dados; 28) Monitoração dos serviços dos SGBDs; 29) Implementação e investigação de auditoria em logs dos SGBDs;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 30) Implementação de planos e rotinas de backups dos dados e metadados dos SGBDs; 31) Implementação de planos e rotinas de manutenção dos SGBDs; 32) Suporte ao desenvolvimento de sistemas na presença de camada de persistência para transação e contexto de dados do negócio; 33) Implementação e manutenção de planos de segurança da informação para os SGBDs; 34) Implementação e manutenção de bases OLAP; 35) Implementação e manutenção de serviços de Data Warehouse; 36) Manutenção de aplicativos; 37) Definição de arquitetura de software com base nos modelos mais modernos disponíveis no mercado; 38) Mensuração de software, utilizando Análise de Pontos de Função; 39) Desenvolvimento de projetos utilizando tecnologias de Workflow, Gerenciamento Eletrônico de Documentos, Business Intelligence; e 40) Implementação e manutenção de processos.
+
+4.2. QUALIFICAÇÃO PROFISSIONAL PARA A PRESTAÇÃO DE SERVIÇOS Os profissionais alocados para a realização dos serviços deverão ter no mínimo as qualificações abaixo solicitadas, de acordo com a Categoria de Serviço: Categoria de Serviço / Perfil Profissional
+
+Qualificação Formação: Nível Superior completo em Administração, Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática ou Engenharia da Computação; ou Curso em área afim e Pósgraduação na área Tecnologia da Informação (carga-horária mínima de 360 horas). Capacitação: Modelagem de Dados e Projeto de Banco de Dados; Processo Unificado; e Análise/Projeto Orientado a Objetos. Experiência: na área de Tecnologia da Informação; como Analista de Sistemas ou Suporte; em atividades de desenvolvimento e manutenção de sistemas; Modelagem de Dados; Administração de dados; e Elaboração e implementação de projeto de banco de dados. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle 10g; PL/SQL e Ferramentas automatizadas de gerenciamento de dados. Formação: Nível Superior completo em Administração, Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática ou Engenharia da Computação; ou Curso em área afim e Pósgraduação na área Tecnologia da Informação (carga-horária mínima de 360 horas). Capacitação: Modelagem de Dados e Projeto de Banco de Dados; Processo Unificado; e Análise/Projeto Orientado a Objetos. Experiência: na área de Tecnologia da Informação; como Analista de Sistemas ou Suporte; em atividades de desenvolvimento e manutenção de sistemas; Modelagem de Dados; Administração de dados; e Elaboração e implementação de projeto de banco de dados. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle 10g; PL/SQL e Ferramentas automatizadas de gerenciamento de dados. Formação: Nível Superior completo em Administração, Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática ou Engenharia da Computação; ou Curso em área afim e Pósgraduação na área Tecnologia da Informação (carga-horária mínima de 360 horas).
+
+Administrador de Banco de Dados Sênior
+
+Administrador de Banco de Dados Pleno
+
+Analista de Sistemas Sênior
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Capacitação: Programação ASP/HTML/Java Script/VB Script, Delphi, PHP e/ou Java ;Processo Unificado; Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos de Função; e Teste/Qualidade de Software. Experiência: na área de Tecnologia da Informação; como Analista de Sistemas; em atividades de desenvolvimento e manutenção de sistemas. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle, PL/SQL; Metodologias, ferramentas e técnicas de desenvolvimento e manutenção de sistemas; Modelagem de dados; Modelagem de processos; Modelo relacional; Programação orientada a objetos; Linguagem SQL; Ferramentas de engenharia de software assistida por computador (CASE); e Teste unitário/integrado de software. Formação: Nível Superior completo em Administração, Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática ou Engenharia da Computação; ou Curso em área afim e Pósgraduação na área Tecnologia da Informação (carga-horária mínima de 360 horas). Capacitação: Programação ASP/HTML/Java Script/VB Script, Delphi, PHP e/ou Java ;Processo Unificado; Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos de Função; e Teste/Qualidade de Software. Analista de Sistemas Pleno Experiência: na área de Tecnologia da Informação; como Analista de Sistemas; em atividades de desenvolvimento e manutenção de sistemas. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle, PL/SQL; Metodologias, ferramentas e técnicas de desenvolvimento e manutenção de sistemas; Modelagem de dados; Modelagem de processos; Modelo relacional; Programação orientada a objetos; Linguagem SQL; Ferramentas de engenharia de software assistida por computador (CASE); e Teste unitário/integrado de software Formação: Nível Médio completo. Capacitação: Programação ASP/HTML/Java Script/VB Script, Delphi, PHP e/ou Java; e Teste/Qualidade de Software. Experiência: na área de Tecnologia da Informação como Programador em atividades de codificação de programas para sistemas com arquitetura em 3 camadas. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle; Programação orientada a objetos; Linguagem SQL e PL/SQL; Ferramentas de engenharia de software assistida por computador (CASE); Teste unitário/integrado de software; Ferramenta de versionamento de programas. Formação: Nível Médio completo. Capacitação: Programação ASP/HTML/Java Script/VB Script, Delphi, PHP e/ou Java; e Teste/Qualidade de Software. Experiência: na área de Tecnologia da Informação como Programador em atividades de codificação de programas para sistemas com arquitetura em 3 camadas. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle; Programação orientada a objetos; Linguagem SQL e PL/SQL; Ferramentas de engenharia de software assistida por computador (CASE); Teste unitário/integrado de software; Ferramenta de versionamento de programas.
+
+Programador Sênior
+
+Programador Pleno
+
+4.3. METODOLOGIAS, TÉCNICAS E FERRAMENTAS 4.3.1 Desenvolvimento de Sistemas de Informação:
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 A CONTRATADA deverá fornecer, customizar e utilizar as seguintes metodologias para fins de atendimento das demandas de desenvolvimento, manutenção, documentação e avaliação de sistemas: 1) Metodologia de Gerenciamento de Projetos, tendo como referência as práticas do PMBOK (PMI), visando melhorar as ações na camada gerencial, diminuindo os riscos e aumentando as chances de sucesso na execução de projetos; 2) Metodologia de Modelagem e Redesenho de Processos, contemplando o uso de ferramentas de Workflow e Gerenciamento Eletrônico de Documentos, a fim de permitir a racionalização dos processos e o uso de recursos; 3) Metodologia(s) de Desenvolvimento, e Documentação de Sistemas, contemplando os seguintes modelos de referência: Análise Estruturada e UP (Processo Unificado); Orientação a Objetos; Transferência de Conhecimento; e Acordo de Nível de Serviço. 4) Metodologia de Estimativa de Software, utilizando como referência o Manual de Práticas e Contagem de Pontos de Função ­ CPM 4.2 ou superior (IFPUG), para fins de dimensionamento do tamanho dos sistemas e esforço necessário para realização dos serviços. 5) Metodologia de Teste de Software (Unitário e Integrado de Sistemas, Carga, Regressão, etc.), visando garantir a qualidade dos produtos gerados, diminuindo o retrabalho e o aumento dos custos de produção de sistemas; 6) Metodologia de Desenvolvimento de Sistemas a fim de melhorar a qualidade dos produtos e serviços prestados , melhorando o suporte à tomada de decisão. 4.3.3 A CONTRATADA deverá fornecer, customizar e utilizar uma ferramenta de Gerenciamento de Demandas capaz de gerar consultas e relatórios individuais e consolidados, contemplando no mínimo as seguintes informações: 1) 2) 3) 4) 5) 6) 7) 8) 9) 10) 11) 12) 13) 14) Número; Status da solicitação; Requisitante; Descrição do(s) produto(s) e/ou serviço(s); Quantidade de Pontos de função para a realização do serviço; Data prevista e efetiva de início; Data prevista e efetiva de término; Valor da ordem de serviço; Responsável pela autorização dos serviços (CONTRATANTE); Responsável pelo aceite dos serviços (CONTRATADA); Indicador gráfico do andamento da Ordem de Serviço (previsto x realizado); Quantidade de demandas por tipo e período; Indicador de desempenho por tipo de demanda e período; e Qualquer campo de dados utilizado pelo banco.
+
+4.3.3.1 A ferramenta de Gerenciamento de Demandas deverá permitir que arquivos sejam anexados, contendo informações relevantes para execução das solicitações. 4.3.4 A CONTRATADA deverá fornecer, customizar e utilizar as seguintes ferramentas automatizadas, no âmbito da prestação de serviços: Gerenciamento de Projetos; Gerenciamento de Demandas; Estimativa de Software (Pontos de Função ­ CPM 4.2 ou superior ­ IFPUG); Modelagem de Processos e Sistemas (CASE); Teste de Software; e Gerenciamento de Mudança e Configuração. 4.3.5 Os sistemas de Gerenciamento de Projetos, Gerenciamento de Demandas, Estimativa de Software, Modelagem de Processos e Sistemas, Teste de Software e Gerenciamento de Mudança e
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Configuração deverão estar disponíveis no ambiente Intranet, Internet e Extranet, a fim de garantir a disponibilização tempestiva e atualizada de informações relacionadas à prestação de serviços. 4.3.6 A liberação de acesso à ferramenta utilizada deverá observar os requisitos de segurança (uso de criptografia, identificação, controle de acesso de usuários e controle de transações para inclusão, alteração e exclusão) determinados pelo TJMA. 4.3.7 A CONTRATADA deverá declarar a propriedade e/ou apresentar cessão de direito de uso das metodologias, técnicas e ferramentas a serem utilizadas no âmbito da prestação de serviços. 4.3.8 A inclusão de componentes de software proprietários sem prévia e expressa autorização do TJMA é vedada em qualquer das etapas de desenvolvimento e/ou manutenção de sistemas. 4.3.9 A equipe técnica do TJMA poderá sugerir alterações nas metodologias, técnicas e ferramentas, as quais após análise, validação e implementação por parte da CONTRATADA, deverão ser incorporadas ao acervo técnico do TJMA, sem ônus adicional, e adotadas na execução das novas Ordens de Serviços.
+
+4.4. LOCAL DE EXECUÇÃO DOS SERVIÇOS 4.4.1 Os serviços serão executados nas instalações da CONTRATADA, e quando necessário, para as atividades que requerem análise de requisitos e interface com os servidores ou Magistrados deverão ser realizados em São Luís (MA).
+
+4.5. FORMA DE EXECUÇÃO DOS SERVIÇOS 4.5.1 O dimensionamento dos serviços de desenvolvimento e manutenção de software será realizado com base no Manual de Práticas de Contagem de Pontos de Função, versão 4.2.1, publicado pelo IFPUG - International Function Point Users Group. 4.5.2 O detalhamento dos tipos de demandas deve atender: 1) Desenvolvimento de Sistema: execução de todas as etapas do ciclo de desenvolvimento de sistemas, para fins de desenvolvimento e implantação de um novo sistema. 2) Manutenção de Sistema: a. Evolutiva: contempla o desenvolvimento e implantação de novas funcionalidades e de novos componentes em sistemas existentes. 3) Documentação de Sistema: corresponde à execução de atividades de documentação de sistemas existentes e os novos sistemas desenvolvidos pela CONTRATADA. 4.5.3 A critério do TJMA poderá ser demandada tanto a execução de todas as fases do ciclo de desenvolvimento, quanto somente alguma(s) de sua(s) fase(s)/disciplina(s). 4.5.4 A CONTRATADA deverá providenciar um link de comunicação dedicado (mínimo de 1 Mbps), entre as suas instalações e o TJMA em São Luís, arcando com todos os custos de instalação, manutenção, segurança e controle de acesso e dados, ou quaisquer outros relacionados, durante a vigência do contrato.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 4.5.5 A conexão entre as instalações da CONTRATADA e o TJMA será utilizada para troca de arquivos ou, quando autorizado pelo TJMA, para realização de testes integrados nos ambientes de desenvolvimento/teste/homologação do TJMA. 4.5.6 As interações dos profissionais da CONTRATADA (Gerentes e Gestores de projetos) com os usuários e profissionais do TJMA, para fins de recebimento das demandas dos serviços, para levantamento de pré-requisitos, ou serviço similar, ocorrerão nas instalações do TJMA, ou nas instalações dos Órgãos do Judiciário, cabendo à CONTRATADA a responsabilidade pelo deslocamento dos profissionais desta envolvidos até o local de prestação de serviços. 4.5.7 O TJMA providenciará acesso controlado para os profissionais da CONTRATADA ao ambiente de desenvolvimento, teste e homologação, incluindo bibliotecas de programas, políticas, normas, procedimentos, metodologias, bases de dados, ferramentas, de acordo com pré-requisitos definidos nas OS.
+
+4.6. PRAZO DE EXECUÇÃO DOS SERVIÇOS E APURAÇÃO DO NÍVEL MÍNIMO DE SERVIÇO (NMS) 4.6.1 Os serviços deverão ser executados de acordo com os prazos estabelecidos a seguir: Desenvolvimento de Novos Sistemas Tamanho do serviço em Pontos de Função 50 100 200 300 400 500 600 700 800 900 1000 Acima de 1000 Prazo Máximo para Atendimento da Demanda (em meses) A partir da aprovação da OS 03 A partir da aprovação da OS 04 7 dias 05 7 dias 06 7 dias 07 15 dias 07 15 dias 08 15 dias 09 15 dias 09 15 dias 10 15 dias 11 Negociável entre as partes Prazo máximo para Início do Projeto (em dias úteis)
+
+Tamanho do Serviço em Pontos de Função 50 100 200 300 400 500 600 700 800 900
+
+Documentação Prazo Máximo para Início do Atendimento da Solicitação (em dias úteis) 3 dias 3 dias 7 dias 7 dias 7 dias 15 dias 15 dias 15 dias 15 dias 15 dias
+
+Prazo Máximo para Atendimento da Demanda (em Meses) 01 01 02 02 02 02 02 03 03 03
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 1000 Acima de 1000 15 dias Negociável entre as partes 03
+
+4.6.2
+
+NÍVEL MÍNIMO DE SERVIÇO (NMS) 4.6.2.1 Os serviços prestados pela CONTRATADA estarão sujeitos a um Nível Mínimo de execução, ou seja, 97% das Ordens de Serviço(OS) mensais executadas/entregues devem seguir/obedecer os prazos estabelecidos pelo item 4.6.1. 4.6.2.2 A aferição dos Níveis Mínimos de Serviço será realizada mensalmente pela CONTRATANTE acompanhado pela CONTRATADA, através de seu representante, utilizando para isso os seguintes procedimentos:
+
+PROCEDIMENTO n 1 Descrição do procedimento
+
+o
+
+Aferição Fórmula de cálculo
+
+Atraso na Execução/Entrega da Ordem de Serviço (Aeos) Apura se houve atraso em relação à data acordada para entrega da Ordem de Serviço devidamente executada/entregue. É apurado o tempo decorrido entre o momento que a Ordem de Serviço chega à CONTRATADA e o tempo decorrido até ela ser devolvida como resolvida, conforme definido no item 4.6.1. Caso a Ordem de Serviço devidamente executada/entregue, seja entregue após o prazo acordado (data/hora), ela será considerada "em atraso". Pela CONTRATANTE, na conclusão/entrega da Ordem de Serviço por parte da CONTRATADA.
+
+I AEOS 
+
+PEE  PPE  100 PPE
+
+Onde: IAEOS = Índice de atraso na execução/entrega da Ordem de Serviço; PEE = Prazo efetivo de execução/entrega, em dias/horas; PPE = Prazo planejado de execução/entrega, em dias/horas, acordado na Ordem de Serviço, conforme tabelas do item 4.6.1.
+
+Qt OSECA   OS ( I AEOS  3%)
+QTOSECA = Quantidade de Ordens de Serviço executadas/entregues com atraso;
+
+I OSCHA 
+
+QTOSECA  100 QtOSEAM
+
+Nível de serviço esperado Penalidades
+
+IOSCHA = Percentual Ordens de Serviço com atraso na execução/entrega acima do limite aceitável; QtOSEAM = Quantidade de Ordens de Serviço executadas/entregues e aceitas no mês; IOSCHA Desejável: 0% (zero por cento) IOSCHA Aceitável: até 3% (três por cento) IOSCHA Indesejável: acima de 3% (cinco por cento) IOSCHA Desejável: nenhuma IOSCHA Aceitável: advertência, se for apurado este nível por 3 meses consecutivos IOSCHA Indesejável: penalidade de 5% (cinco por cento) no valor total da Fatura, a título de compensação à CONTRATANTE pelo atraso na
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Forma de Auditoria Periodicidade Cobertura execução das Ordens de Serviço. Em reunião mensal entre o Fiscal e o Preposto da CONTRATADA, antes da emissão da Fatura. Mensal Todas as Ordens de Serviço que foram entregues no período de referência.
+
+PROCEDIMENTO n 2 Descrição do indicador Aferição
+
+o
+
+Não-conformidades da OS na Validação do Recebimento (NC) Mede se as OS entregues estão em desacordo com o solicitado na Ordem de Serviço. Pela CONTRATANTE, na conclusão da Ordem de Serviço solicitada.
+
+I NCOS 
+
+QtNCOS  100 TPM
+
+Onde: INCOS = Índice de não-conformidades da OS; QtNCOS = Quantidade de não-conformidades aferidas na validação do recebimento da Ordem de Serviço; TPM = Tamanho do serviço, em Pontos de função.
+
+Fórmula de cálculo
+
+Qt OSNC   OS ( I NCOS  2%)
+QTOSNS = Quantidade de Ordens de Serviço com não conformidades acima do limite aceitável.
+
+I NC 
+
+QTOSNC 100 QtOSSOL
+
+Nível de serviço esperado
+
+Penalidades
+
+Forma de Auditoria Periodicidade Cobertura PROCEDIMENTO n 3 Descrição do indicador Aferição Fórmula de cálculo
+o
+
+INC = Percentual Ordens de Serviço com nível de não conformidade acima do limite aceitável; QtOSSOL = Quantidade Ordens de Serviço entregues e validadas no mês; INC Desejável: 0% (zero por cento) INC Aceitável: até 10% (dez por cento) INC Indesejável: acima de 10% (dez por cento) INC Desejável: nenhuma INC Aceitável: advertência INC Indesejável: penalidade de 2% (dois por cento) no valor da Ordem de Serviço correspondente, a título de compensação à Contratante pelo retrabalho na atividade de validação do recebimento. Em reunião mensal entre o Fiscal e o Gestor do contrato, antes da emissão da Fatura. Mensal Todas as Ordens de Serviço que foram entregues no período de referência. Defeitos/Erros Identificados Durante a Homologação (DH) Mede os defeitos/erros identificados durante a Homologação da Ordem de Serviço. Pela CONTRATANTE, na conclusão da Ordem de Serviço solicitada.
+
+I DHOS 
+
+QtDHOS  100 TPMOS
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Onde: IDHOS = Índice de defeitos/erros identificados durante a Homologação; QtDHOS = Quantidade de defeitos/erros aferidos na Homologação da Ordem de Serviço; TPMOS = Tamanho do serviço executado, em Pontos de Função.
+
+Qt OSDH   OS ( I DHOS  5%)
+QTOSDH = Quantidade de Ordens de Serviço homologadas, com defeitos/erros superiores ao limite aceitável.
+
+I DH 
+
+QTOSDH 100 QtOSSOL
+
+Nível de serviço esperado
+
+Penalidades
+
+Forma de Auditoria Periodicidade Cobertura PROCEDIMENTO n 4
+o
+
+IDH = Percentual Ordens de Serviço de Solicitação com grau de Defeitos/Erros de Homologação acima do tolerado; QtOSSOL = Quantidade Ordens de Serviço homologadas no mês; IDH Desejável: 0% (zero por cento) IDH Aceitável: até 10% (dez por cento) IDH Indesejável: acima de 10% (dez por cento) IDH Desejável: nenhuma IDH Aceitável: advertência IDH Indesejável: glosa de 5% (cinco por cento) no valor da Ordem de Serviço correspondente, a título de compensação à CONTRATANTE pelo retrabalho na atividade de validação do recebimento. Em reunião mensal entre o Fiscal e o Preposto da CONTRATADA, antes da emissão da Fatura. Mensal Todas as Ordens de Serviço solicitadas que foram homologadas e entregues no período de referência. Erros de Operação (EO) Mede as falhas ou funcionamentos irregulares identificados após implantação da nova versão do produto em produção, modificada por serviços de Manutenção Evolutiva ou Adaptativa, como também mede falhas ou funcionamentos irregulares identificados após manutenção corretiva . Pela Contratante, durante a vigência do contrato.
+
+Descrição do indicador
+
+Aferição
+
+I EO 
+Fórmula de cálculo
+
+Qt EO  100 TPF
+
+Nível de serviço esperado
+
+Penalidades
+
+Forma de Auditoria
+
+Onde: IEO = Índice de erros de operação; QtEO = Quantidade de erros de operação encontrados; TPF = Tamanho do serviço, em Pontos de Função. IEO Desejável: 0% (zero por cento) IEO Aceitável: até 10% (dez por cento) IEO Indesejável: acima de 10% (dez por cento) IEO Desejável: nenhuma IEO Aceitável: advertência IEO Indesejável: penalidade de 2% (dois por cento) no valor da Ordem de Serviço correspondente, a título de compensação à Contratante pelo impacto causado pelo mau funcionamento do resultado do serviço. Em reunião mensal entre o Fiscal e o Preposto da CONTRATADA, antes da emissão da Fatura.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Periodicidade Cobertura Mensal Todas as Ordens de Serviço de Solicitação implantadas.
+
+4.6.2.3 Os indicadores de Níveis Mínimos de Serviços estão associados às atividades específicas dos processos de gestão e resolução de problemas, estabelecendo pontos de controle para a medição. 4.6.2.4 Para cada indicador é estabelecida meta a ser atingida pela CONTRATADA e uma margem de desvio aceitável. Níveis de serviço fora desta margem serão passíveis de glosa no valor da fatura correspondente ao mês de referência, a título de compensação conforme definido na descrição dos procedimentos. 4.6.2.5 Tempos superiores aos prazos máximos estabelecidos poderão ser admitidos, quando fatos supervenientes, devidamente documentados, tenham interferido no atendimento da demanda. 4.6.2.6 O atraso no cumprimento dos prazos estabelecidos na OS resultará na aplicação das penalidades, sendo garantida ampla defesa à CONTRATADA.
+
+4.7. PENALIDADES 4.7.1 Serão aplicadas as penalidades previstas na legislação de regência e nos termos acordados no contrato a ser firmado.
+
+4.8. FORMA DE PAGAMENTO
+
+4.8.1 O pagamento será realizado em até 30 (trinta) dias, observado o recebimento. 4.8.2 Os serviços serão recebidos por gestor designado pelo TJMA da seguinte forma. 4.8.3 Para o desenvolvimento de novos sistemas e de novas funcionalidades : O pagamento
+será realizado com base nos serviços executados, no mês pela equipe técnica da CONTRATADA. A autorização do pagamento estará condicionada aos resultados obtidos após as análises realizadas de acordo com o item 4.6.2.2. O valor a ser pago consiste na multiplicação do tamanho do sistema em pontos de função pelo valor do ponto de função estabelecido em contrato. Os serviços serão autorizados por meio de Ordens de Serviço (OS) e documentados no Relatório de Acompanhamento Técnico (RAT).
+
+4.8.4 Para a documentação Sistemas Legados: O pagamento será realizado com base nos
+serviços executados no mês, pela equipe técnica da CONTRATADA, devidamente autorizadas na Ordem de Serviço e documentadas nos Relatórios de Acompanhamento da Ordem de Serviço. O custo deste serviço será equivalente a 12% do valor do ponto de função.
+
+4.8.5 Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de pontos
+de função, bem como deduções de valores relativos a penalidades, serão efetuados na fatura do mês subseqüente à ocorrência do fato.
+
+4.8.6 Todas as Ordens de Serviço deverão vir acompanhadas RAT para que o pagamento seja
+realizado.
+
+4.8.7 Para Ordens de Serviço (OS), com prazos de execução que excedam 01 (um) mês, caberá à
+CONTRATADA, apresentar cronograma de execução para o serviço, estando os pagamentos parciais limitados ao valor da garantia contratual.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 4.9. PRAZO DE GARANTIA 4.9.1 Os produtos gerados pela CONTRATADA terão garantia de 12 meses, a contar da data de aceite dos produtos. 4.9.2 A emissão de aceite dos serviços pelo TJMA, não exime a CONTRATADA da responsabilidade pela correção de erros porventura identificados, sem ônus adicional.
+
+4.10.
+
+DA EXECUÇÃO
+
+4.10.1. O início dos serviços de correção de erros ou falhas (manutenção corretiva) deverá obedecer aos tempos previstos no item 4.6.1, contados a partir do registro da ocorrência no Sistema de Controle de Demandas, a ser disponibilizado pela CONTRATADA. 4.10.2. O término dos serviços de correção de erros ou falhas deverá ocorrer no prazo máximo definido no item 4.6, contados a partir do registro da ocorrência no Sistema de Controle de Demandas, disponibilizado pela CONTRATADA. 4.10.3. A partir do aceite dos serviços pelo TJMA e após o início da prestação do serviço pela Contratada, alterações solicitadas serão tratadas como novas Ordens de Serviço. 4.10.4. A CONTRATADA deverá executar as atividades de testes relacionadas abaixo, a fim de detectar e corrigir erros potenciais ou reais, garantindo assim a funcionalidade e qualidade dos produtos gerados: a. Levantamento de informações do sistema para os testes; b. Planejamento dos Testes: consiste em elaborar Estratégia de Testes, Cenário de Testes, Roteiro de Testes e Casos de Testes; c. Implementação de Roteiros de Testes e Casos de Testes; d. Geração da Massa de Testes; e. Execução dos Testes; f. Evidenciação dos Testes; g. Registro de Ocorrências dos Testes; h. Avaliação e Validação dos Testes; i. Fornecimento de informações de controle e acompanhamento da execução dos serviços de testes, como parte do serviço que está sendo executado. 4.10.5. A CONTRATADA deverá codificar os programas e produzir os artefatos mencionados na OS, de acordo com os padrões definidos pelo TJMA. 4.11. DO RECEBIMENTO 4.11.1. A unidade solicitante dos serviços emitirá Termo de Aceitação do Serviço no prazo definido na Ordem de Serviço, após a inspeção e teste dos artefatos entregues. 4.11.2. A CONTRATADA será responsável pelas atividades de homologação do sistema, supervisionada pelo solicitante do serviço, no ambiente de homologação do TJMA, com a seguinte abrangência: f. Os requisitos do Ambiente de Produção, o qual deverá ter um comportamento estável e com baixo consumo de recursos; g. Os requisitos de segurança, buscando proteger as informações de clientes, a integridade dos dados, da aplicação e do ambiente; h. Os requisitos do negócio, disponibilizando o sistema para avaliação dos usuários quanto ao atendimento dos requisitos contratados;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 i. j. O acompanhamento da execução dos testes no ambiente de homologação; O acompanhamento das atividades de homologação pelo usuário final.
+
+4.11.3. O TJMA deverá disponibilizar um Ambiente de Teste e Homologação de sistemas, espelho do Ambiente de Produção, a fim de assegurar que o comportamento do sistema não será alterado quando transferido para o Ambiente de Produção. 4.11.4 O serviço será recebido definitivamente, em até 05 (cinco) dias, após a realização de testes, da verificação de conformidade do produto apresentado conforme solicitado e homologação. 4.11.5 Para serviços que sejam executados conforme cronograma, o recebimento será atestado, para fins de pagamento, em cada parcela, após conferência da adequação da fatura mensal aos termos contratuais e ao exigido na OS. Para o recebimento definitivo, será observado o disposto no item anterior.
+
+4.12. DA FISCALIZAÇÃO
+
+4.12.1. As não-conformidades identificadas durante a inspeção dos serviços contratados serão corrigidas pela CONTRATADA, sem ônus para o TJMA, mantendo a consistência da documentação correspondente. 4.12.2. A fiscalização pode gerar a recusa de artefatos por motivo de vícios de qualidade ou por não observância dos padrões adotados pelo TJMA.
+
+4.13. PROCEDIMENTO PARA ESTIMATIVA DE DEMANDAS (DESENVOLVIMENTO) 4.13.1. Os serviços demandados, por meio de Ordem de Serviço, poderão contemplar uma ou mais fases do ciclo de desenvolvimento e manutenção de sistemas. 4.13.2. Os serviços serão dimensionados em pontos de função, de acordo com as regras estabelecidas na versão mais recente do manual do IFPUG - International Function Point Users Group, instituição internacional que é referencia para mensuração de pontos de função para desenvolvimento de sistemas de informação, cuja metodologia é amplamente utilizada no Governo Federal. 4.13.3. A contagem de pontos de função correspondente à prestação de serviços será realizada pela CONTRATADA e aprovada pelo CONTRATANTE, antes do início da prestação de serviços (Contagem Estimativa), o mesmo valendo para a conclusão de cada fase do ciclo de desenvolvimento de sistemas (Contagem Final). A Contagem Estimativa deverá levar em consideração as técnicas de contagem indicativa e estimativa definidas pelo IFPUG - International Function Point Users Group. A diferença de cálculo dos serviços, em pontos de função, prevista e realizada deverá ser objeto de Ordem de Serviço Complementar, a fim de garantir o equilíbrio entre os serviços efetivamente prestados e o respectivo pagamento. 4.13.4. A CONTRATADA e o TJMA deverão adorar os critérios abaixo para fins de mensuração dos serviços a serem prestados, em pontos de função: Tipo de Serviço Desenvolvimento de novos sistemas Fórmula PF Novo * Fator de Ajuste
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Manutenção Evolutiva (PF Incluído *0,8 + (PF Alterado * 0,6) + (PF Excluído * 0,4) * Fator de Ajuste)
+
+Legenda:
+
+PF Novo ­ Ponto de Função Novo PF Incluído ­ Pondo de Função Incluído PF Alterado - Pondo de Função Alterado PF Aplicativo - Pondo de Função Aplicativo PF Excluído - Pondo de Função Excluído
+
+4.13.5. Entende-se por PF a quantidade de pontos de função apurada pela aplicação da técnica de Análise de Pontos de Função IFPUG. 4.13.6. Deverá ser adotado o valor 1 (um) para o Fator de Ajuste, no dimensionamento de todos os projetos. 4.13.7. Deverão ser adotados os seguintes valores para fins de apuração de equivalência de atividades não mensuráveis pela técnica de Análise de Pontos de Função. Fator de Equivalência 0,04
+
+Item Layout de Telas ou Arquivos: alterações de layout de telas ou arquivos, sem alteração de funcionalidades. Campos e Variáveis: inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem alteração de funcionalidade. Mensagens: alteração de mensagens de retorno ao usuário. Menus: inclusão, alteração ou exclusão de menu ou help (tela de ajuda). Dados Hard Coded: inclusão, alteração ou exclusão de dados pertencentes a listas na tela ou tabelas físicas.
+
+Base de Cálculo Qtde. de itens de layout alterados
+
+Qtde. de campos
+
+0,08
+
+Qtde. de mensagens Qtde. de telas incluídas ou alteradas Qtde. de telas Qtde. de dados Inclusão de tabela Alteração de tabela Exclusão de tabela Inclusão de funcionalidade Alteração de funcionalidade
+
+0,04 0,1 0,02 0,04 1,00 0,60 0,40 0,30 0,20
+
+Code Table: inclusão, alteração ou exclusão de tabelas e respectivas funcionalidades.
+
+Exclusão de funcionalidade 0,10 Nota: A quantidade de pontos de função será obtido pela multiplicação do item "Base de Cálculo" pelo "Fator de Equivalência".
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 4.13.8. A CONTRATADA obriga-se a fornecer, customizar e utilizar ferramenta de Registro e Controle de Contagem de Pontos de Função para uso na gestão dos serviços demandados pelo TJMA. 4.13.9. A ferramenta de contagem de pontos de função deverá permitir o registro dos pontos função contados pelos especialistas; a classificação da complexidade dos elementos identificados contagem; a totalização de pontos de função; o cálculo do fator de ajuste e o cálculo dos pontos função ajustados; armazenamento do histórico dos pontos de função contados; e a emissão relatórios das operações efetuadas. de na de de
+
+4.13.10. No caso de divergências superiores a 10 % entre a contagem realizada pela CONTRATADA e o TJMA, ambos deverão realizar nova contagem em conjunto para sanar as divergências. 4.13.11. CONTRATANTE se compromete a efetuar o pagamento da diferença de contagem de pontos de função, realizada antes do início da execução da Ordem de Serviço e após a conclusão de cada fase contratada, desde que devidamente comprovado e justificado pela CONTRATADA, e certificado pela CONTRATANTE.
+
+5.
+
+ORDENS DE SERVIÇO
+
+5.1 Todo e qualquer serviço somente será executado pela CONTRATADA mediante uma Ordem de Serviço ­ OS autorizada pelo Gestor do TJMA, conforme modelo constante no Anexo II.
+
+5.2 O TJMA poderá recusar a proposta de execução da CONTRATADA. Neste caso, a CONTRATADA deverá revisar a proposta, encaminhando nova documentação para validação do solicitante.
+
+6.
+
+PROPRIEDADE INTELECTUAL
+
+6.1. A CONTRATADA deverá entregar ao TJMA toda e qualquer documentação gerada em função da prestação de serviços, objeto deste Termo de Referência. 6.2. A CONTRATADA cederá ao TJMA, em caráter definitivo, o direito patrimonial e a propriedade intelectual dos sistemas desenvolvidos e dos resultados gerados durante a vigência do contrato. Entende-se por resultados quaisquer estudos, relatórios, especificações, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, diagramas, fontes dos códigos dos programas em qualquer mídia, páginas na Intranet e Internet e documentação didática em papel ou em mídia eletrônica. 6.3. A CONTRATADA fica proibida de comercializar os produtos relativos ao objeto da prestação dos serviços. 7. SIGILO
+
+7.1 A CONTRATADA será expressamente responsabilizada quanto à manutenção de sigilo absoluto sobre quaisquer dados, informações, códigos-fonte, artefatos, contidos em quaisquer documentos e em quaisquer mídias, de que venha a ter conhecimento durante a execução dos trabalhos, não podendo, sob qualquer pretexto divulgar, reproduzir ou utilizar, sob pena de lei, independentemente da classificação de sigilo conferida pelo TJMA a tais documentos.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 7.2 A CONTRATADA não poderá divulgar quaisquer informações a que tenha acesso em virtude dos trabalhos a serem executados ou de que tenha tomado conhecimento em decorrência da execução do objeto, sem autorização, por escrito, do TJMA.
+
+8. 8.1.
+
+OBRIGAÇÕES DA CONTRATADA Obedecer às normas operacionais fornecidas pela CONTRATANTE;
+
+8.2. Empregar funcionários qualificados e devidamente capacitados para execução dos serviços, conforme as definições dos serviços descritas neste Termo de Referência; 8.3. Manter seus funcionários devidamente informados das normas disciplinares do CONTRATANTE, bem como das normas de utilização e de segurança das instalações e do manuseio dos documentos; 8.4. Responsabilizar-se pelos danos causados diretamente ao CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços; 8.5. Responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura ocasionar ao TJMA ou a terceiros, durante a execução dos serviços, podendo o TJMA descontar o valor correspondente ao dano dos pagamentos devidos; 8.6. Responsabilizar-se, civil e criminalmente, pelo mau uso ou extravio dos documentos sob sua guarda; 8.7. Comunicar, por escrito, qualquer anormalidade, prestando ao TJMA os esclarecimentos julgados necessários; 8.8. Manter, durante a execução do contrato, todas as condições de habilitação e qualificação exigidas na licitação, em conformidade com art. 55, inciso XIII, da Lei 8.666, incluindo a atualização de documentos de controle da arrecadação de tributos e contribuições federais e outras legalmente exigíveis; 8.9. Indicar responsável pelo gerenciamento dos serviços, com poderes de representante legal ou preposto para tratar de todos os assuntos relacionados ao contrato junto ao TJMA, sem ônus para esta; 8.10. Atender de imediato as solicitações quanto à substituição de pessoal considerado inadequado para a prestação dos serviços, inconveniente à boa ordem ou que venha a transgredir normas disciplinares do TJMA; 8.11. Prever e prover o pessoal necessário para garantir a execução dos serviços, nos regimes contratados, sem interrupção, seja por motivo de férias, descanso, licenças e etc. 8.12. Desenvolver todos os sistemas com total aderência aos Padrões de Interoperabilidade de Governo Eletrônico e às Metodologias definidas pelo TJMA, para o serviço de Desenvolvimento e Manutenção dos Sistemas de Informação, elaborar e apresentar ao TJMA, nas datas estabelecidas nas OS, todos os produtos e relatórios de acompanhamento e de final de execução de serviços. Os relatórios deverão contemplar detalhamento das atividades desenvolvidas; 8.13. Atender às solicitações do TJMA, de acordo com as especificações técnicas, procedimentos de controle administrativo e cronogramas físicos que venham a ser estabelecidos;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 9. OBRIGAÇÕES DO CONTRATANTE
+
+9.1. Permitir ao pessoal técnico da CONTRATADA, desde que identificado e incluído na relação de técnicos autorizados, o acesso às unidades para a execução dos serviços, respeitadas as normas de segurança vigentes nas suas dependências; 9.2. Notificar a CONTRATADA quanto a defeitos ou irregularidades verificados na execução dos serviços, objeto deste Termo de Referência, bem como quanto a qualquer ocorrência relativa ao comportamento de seus técnicos, quando em atendimento, que venha a ser considerado prejudicial ou inconveniente para o TJMA; 9.3. Efetuar os pagamentos devidos à CONTRATADA, na forma convencionada, dentro do prazo previsto, desde que atendidas às formalidades necessárias, após a aceitação dos serviços faturados; 9.4. Promover a fiscalização do contrato, sob os aspectos quantitativos e qualitativos, por intermédio de profissional designado, anotando em registro próprio as falhas detectadas e exigindo as medidas corretivas necessárias, bem como acompanhar o desenvolvimento do contrato, conferir os serviços executados e atestar os documentos fiscais pertinentes, quando comprovada, a execução total, fiel e correta dos serviços, podendo ainda sustar, recusar, mandar fazer ou desfazer qualquer procedimento que não esteja de acordo com os termos contratuais; 9.5. Comunicar tempestivamente à CONTRATADA as possíveis irregularidades detectadas na execução dos serviços; 9.6. Comunicar à CONTRATADA a necessidade de substituição de qualquer profissional que seja considerado inadequado para o exercício da função; 9.7. Emitir, antes da execução de qualquer serviço, sua respectiva OS, definindo claramente os requisitos técnicos, administrativos e financeiros relativos ao serviço objeto deste Projeto; 9.8. Autorizar as propostas de execução de serviços apresentadas pela CONTRATADA nas OS;
+
+9.9. Homologar os serviços prestados de acordo com os requisitos pré-estabelecidos nas OS, atestando as respectivas faturas. 9.10. Fornecer à CONTRATADA, em tempo hábil, as informações necessárias e relevantes à consecução dos sistemas a serem desenvolvidos, bem como a documentação técnica e operacional de todos os sistemas já desenvolvidos, descritos neste Projeto; 9.11. Especificar e estabelecer normas e diretrizes para a execução dos serviços ora contratados, definindo as prioridades, regras, bem com os prazos e etapas para cumprimento das obrigações; 9.12. Avaliar o relatório mensal das atividades executadas pela CONTRATADA;
+
+9.13. Indicar um representante para acompanhar e fiscalizar a execução do contrato em cada local de prestação dos serviços;
+
+10.
+
+VIGÊNCIA E PRAZO PARA ASSINATURA DO CONTRATO
+
+10.1. O contrato de prestação de serviços terá vigência de 12 (doze) meses, contados a partir da data de sua assinatura, podendo ser renovado nos termos da Lei. 11. GARANTIA CONTRATUAL
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 11.1. Para assegurar o integral cumprimento de todas as obrigações contratuais assumidas, inclusive indenização a terceiros e multas eventualmente aplicadas, a CONTRATADA se obriga a oferecer, como prestação de garantia, o valor correspondente a 5 % (cinco por cento) do valor global do Contrato. 11.2. A garantia será restituída a CONTRATADA após o término do Contrato com integral cumprimento de todas as obrigações contratuais. 11.3. Caberá a CONTRATADA optar por uma das modalidades de garantia prevista no Art. 56 da Lei n° 8.666/93.
+
+12.
+
+DO GESTOR DESIGNADO PELO TJMA
+
+12.1 O TJMA designará gestor responsável pelo acompanhamento e fiscalização da execução dos serviços, o qual compete dirimir eventuais dúvidas que surgirem no curso da execução do contrato, nos termos do art. 67, da Lei nº 8.666, de 1993; 12.2 Sem prejuízo da plena responsabilidade da CONTRATADA perante o TJMA ou a terceiros, os serviços estarão sujeitos a mais ampla e irrestrita fiscalização, a qualquer hora, e a presença do servidor designado como Gestor do Contrato não diminuirá a sua responsabilidade contratual.
+
+13.
+
+REPRESENTANTE TÉCNICO-ADMINISTRATIVO DA CONTRATADA
+
+13.1 A CONTRATADA deverá indicar um responsável pela gestão dos serviços contratados e um substituto, os quais serão submetidos à apreciação do TJMA, antes da sua efetiva alocação no âmbito da prestação de serviços, sem ônus adicional para a CONTRATANTE. 13.2 Na gestão da prestação de serviços, o responsável indicado pela CONTRATADA deverá: a. acompanhar a execução das Ordens de Serviços; b. assegurar que as políticas, normas e procedimentos do CONTRATANTE sejam respeitados e acatados pelos profissionais da CONTRATADA; c. alocar os profissionais necessários para atendimento das Ordens de Serviços tempestivamente, para fins de cumprimento dos prazos de início e fim, além do atendimento dos padrões de qualidade previamente estabelecidos; d. informar ao Gestor da CONTRATANTE eventuais problemas que possam impedir o bom andamento dos serviços; e. elaborar documentos referentes ao andamento da execução das Ordens de Serviços; e f. executar os procedimentos administrativos relativos aos recursos alocados para execução dos serviços contratados. 14. DOCUMENTAÇÃO DE HABILITAÇÃO
+
+14.1 A licitante deverá comprovar experiência na prestação de serviços compatíveis em características, quantidades e prazos de acordo com o objeto do contrato. 14.2 Os documentos em língua estrangeira deverão ser traduzidos para o português, por Tradutor Juramentado, e registrados em Cartório de Registro de Títulos e Documentos. 14.3 O atestado de capacidade deverá comprovar que a licitante executou serviços de atividades contínuas, que englobem serviços técnicos especializados no Desenvolvimento e Documentação de Sistemas de Informação, num volume igual ou superior a 2.500 pontos de função/ano, no mesmo contrato.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 14.4 O atestado deve vir acompanhado do respectivo contrato de prestação de serviço com objeto compatível com o declarado no atestado, sendo obrigatório constar no contrato a referência à utilização da métrica de Pontos de Função.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 ANEXO I-`A' AO TERMO DE REFERÊNCIA ­ AMBIENTE DO TJMA
+
+AMBIENTE COMPUTACIONAL DO TJMA  Sistemas Operacionais: MS Windows XP, MS Windows 2003 Server, RED Hat Linux, Debian Linux.  Linguagens de Desenvolvimento / Softwares utilizados: JAVA, JAVAScript, PHP, HTML, XML, CSS, SQL ANSI, JSP, AJAX, Delphi e DHTML.          FRAMEWORK : SGBD: Oracle 10g ou superior, My-SQL 4x ou superior, SQL Server 2005, Postgre SQL 8.3 Servidor de Aplicação: Tomcat, Jboss Utilização de padrões de interoperabilidade: e-ping Servidor Web: Apache Servidor de Correio Eletrônico: Exchange Server 2003 Sistema de Diretório: Microsoft Active Directory Sistema de Arquivos: Microsoft Windows 2003 Sistema de Armazenamento: Storage Area Network (SAN) composta por equipamentos da EMC, ADIC, Sun e Storagetek.   Equipamentos ativos de rede: Extreme Networks Ferramentas de Apoio ao Desenvolvimento: MS Office 2003, Internet Explorer, MS Project 2007, Oracle Designer 2000, Eclipse, MySQL Query Browser.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 ANEXO I-`B' AO TERMO DE REFERÊNCIA ­ GLOSSÁRIO BS 7799 ­ BS 7799 Security Standard BI (Business Inteligence) - "Inteligência de negócios", refere-se ao processo de coleta, organização, análise, compartilhamento e monitoração de informações que oferecem suporte a gestão de negócios CMM (Capability Maturity Model) ­ Modelo de Potencialidade de Maturidade para software. CMMi (Capability Maturity Model Integration) - Modelo de Potencialidade de Maturidade para sistemas. TJMA ­ Tribunal de Justiça do Maranhão COBIT (Control Objectives for Information and related Technology) - Controle de Objetivos relacionados a Informação e Tecnologia . DATA WAREHOUSE (DW) - (ou armazém de dados, ou depósito de dados no Brasil) é um sistema de computaçaõ utilizado para armazenar informações relativas às atividades de uma organização em banco de dados de forma consolidada. O desenho da base de dados favorece os relatórios, a análise de grandes volumes de dados e a obtenção de informações estratégicas que podem facilitar a tomada de decisão. DATA MART (entreposto ou bazar de dados) é sub-conjunto de dados de um DATA WAREHOUSE (armazém de dados). Geralmente são dados referentes a um assunto em especial (ex: Vendas, Estoque, Controladoria) ou diferentes níveis de sumarização (ex: Vendas Anual, Vendas Mensal, Vendas 5 anos), que focalizam uma ou mais áreas específicas. Seus dados são obtidos do DW, desnormalizados e indexados para suportar intensa pesquisa. DSS (Decision Support Systems) - Um conjunto de programas e dados necessários para permitir a análise e a tomada de decisão em uma organização. Esse tipo de sistema contém um banco de dados, uma base de conhecimentos sobre a área em questão, uma "linguagem" utilizada para formular problemas e questões e um programa de modelagem para testar decisões alternativas. ETL (Extract Transform Load (Extração, Transformação e Carga) - processo de extrair dados de um sistema (um banco de dados), transformá-los de alguma forma e inseri-los em outro banco de dados especial, o DATA WAREHOUSE (DW). ISO 9000 - Sistema de gestão de qualidade em ambientes de produção (Conjunto de normas de gestão da Qualidade ­ ISO 9001, 9002,...). ISO/IEC 17799 ­ Parte 1 da BS 7799 como norma ISO. ISO/IEC 27001 ­ Information security management systems. Guidelines for information security risk management. ITIL ( Information Technology Library) ­ Biblioteca de Informação Tecnológica. LAN - Grupo de computadores e outros dispositivos dispersos por uma área relativamente limitada e interligados por um link de comunicação que permite a qualquer dispositivo interagir com qualquer outro equipamento da rede. MPS-BR - Melhoria de Processo do Software Brasileiro. NBR-ISO/IEC 1779 - equivalente brasileira da ISO/IEC 17799.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 OLAP (Online Analytical Processing) - sistema de banco de dados relacional capaz de tratar consultas mais complexas que aquelas tratadas por bancos de dados relacionais padrão, através do acesso multidimensional aos dados (exibição dos dados através de diferentes critérios), da capacidade de cálculo intensivo e de técnicas de indexação especializadas. OLTP (Online Transaction Processing) - Processamento de transações em tempo-real. Sistemas que se encarregam de registrar todas as transações contidas em uma determinada operação organizacional. PL/SQL - Extensão da linguagem padrão SQL para o SGBD Oracle da Oracle Corporation. PMI - Project Management Institute ­ Instituto da Gerência de Projeto. PMP ­ Project Management Professional ­ Profissional de Gerência de Projetos. PMBOK - Project Management Body of Knowledge - Conhecimento da Estrutura de Gerência de Projetos. POSTGRE/POSTGRESQL - SGBD (Sistema Gerenciador de Bancos de Dados) de código aberto. UML ­ Unified Modeling Language. UP ­ Unified Process - processos da UML ­ Unified Modeling Language. WAN- rede de comunicação que interliga áreas geograficamente separadas. WOKFLOW- Um conjunto de programas que auxilia o acompanhamento e o gerenciamento de todas as atividades de um projeto, do início ao fim.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010
+
+ANEXO II
+
+DECLARAÇÃO DE INEXISTÊNCIA DE FATO SUPERVENIENTE IMPEDITIVO DA HABILITAÇÃO (razão social da empresa)__________________________________________, inscrita no CNPJ sob o n.º __________________, sediada ___________(endereço completo) ____________, declara, sob as penalidades da lei, que até a presente data inexistem fatos impeditivos para sua habilitação no Pregão Eletrônico n.º XX/2009, estando ciente da obrigatoriedade de declarar ocorrências posteriores. São Luís (MA), ..... de ............. de 2009. ___________________________________________ Nome e número da identidade do declarante (Representante Legal) Carimbo CNPJ
+
+Obs.: Estas declarações deverá ser preenchida em papel timbrado da empresa proponente e assinada pelo(s) seu(s) representante(s) legal(is) ou procurador devidamente habilitado.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 ANEXO III
+
+DECLARAÇÃO DE MENOR
+
+(razão social da empresa)__________________________________________, inscrita no CNPJ sob o n.º __________________, sediada ___________(endereço completo) ____________, por intermédio de seu representante legal, o(a) Sr.(a) ________________________, infra-assinado, portador(a) da Carteira de Identidade n.º ____________________ e do CPF n.º ________________________, para fins de habilitação no Pregão Eletrônico n.º XX/2009, realizado através do Processo Administrativo n.º XXXXXXX/2009-TJ/MA, declara, expressamente, que, em observância ao disposto no inciso XXXIII do artigo 7º da Constituição Federal, cumpre a "proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos".
+
+São Luís (MA), ..... de ............. de 2009.
+
+___________________________________________ Nome e número da identidade do declarante (Representante Legal) Carimbo CNPJ
+
+Obs.: Esta declaração deverá ser preenchida em papel timbrado da empresa proponente e assinada pelo(s) seu(s) representante(s) legal(is) ou procurador devidamente habilitado.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 ANEXO IV MINUTA DE CONTRATO CONTRATO DE PRESTAÇÃO DE SERVIÇOS N.º___/10
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS, QUE ENTRE SI CELEBRAM O TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO E A EMPRESA XXXXXXXXX.
+
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO , com sede na cidade de São Luís, Estado do Maranhão, situado à Av. Pedro II, s/n.º, Centro, Palácio "Clóvis Bevilácqua", Cadastro Nacional de Pessoa Jurídica - CNPJ sob o n.º 05.288.790/0001-76, neste ato representado pelo seu presidente, DES. JAMIL DE MIRANDA GEDEON NETO, brasileiro, casado, residente e domiciliado na cidade de São Luís/MA, portador da carteira de identidade n.º 96152798-6 SSP/MA e do CPF n.º 153.098.863-20, neste ato denominado CONTRATANTE, de outro e a EMPRESA ________________, CNPJ N.º ________, sediada na Rua _________________________, neste ato representada pelo Sr. ________________, portador da Carteira de Identidade n.º ___________, doravante denominada CONTRATADA, tendo em vista o que consta o Processo Administrativo n.º 18.893/10, decorrente da licitação na modalidade Pregão Eletrônico n.º XX/10,- Menor Preço, por Item, e em observância ao disposto na Lei n.º 8.666/93, de 21 de junho de 1993, têm entre si justo e contratado o que segue:
+
+CLÁUSULA PRIMEIRA - DO OBJETO DO CONTRATO 1.1. Este contrato tem por objeto a Contratação de Empresa Especializada na prestação de Serviços Técnicos de Manutenção e Desenvolvimento de Sistemas de Informação e demais serviços correlacionados, conforme especificações, valores e quantidades indicadas abaixo: CLÁUSULA SEGUNDA ­ DA VIGÊNCIA 2.1. O presente contrato terá validade de 12 (doze) meses, a partir da data de sua assinatura, podendo ser prorrogado, desde que haja interesse da Administração e aceitação da parte, conforme dispõe o inciso II do art. 57, da Lei 8.666/93, e observados os requisitos da Lei. 2.2. O encerramento da vigência contratual não prejudica a manutenção das obrigações das partes, no que se refere aos bens/serviços em garantia, nos termos da cláusula décima deste instrumento. CLÁUSULA TERCEIRA ­ DAS ESPECIFICAÇÕES TÉCNICAS DOS SERVIÇOS 3.1.Desenvolvimento de Sistemas de Informação: 1) Conhecimento do portfólio de sistemas e projetos; 2) Análise, modelagem e redesenho de processos de negócio, utilizando metodologias e ferramentas automatizadas; 3) Gerência, levantamento e análise de requisitos utilizando Processo Unificado, metodologias e ferramenta CASE; 4) Desenvolvimento, versionamento e testes unitário/integrado de sistemas, utilizando metodologias e ferramenta automatizada;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 5) Controle de qualidade de software, com o uso de ferramentas específicas de teste de software; 6) Preparação do ambiente de desenvolvimento, testes e homologação dos sistemas; 7) Elaboração da documentação dos projetos e sistemas informatizados; 8) Integração de sistemas informatizados em plataformas heterogêneas utilizando as tecnologias de web services e XML; 9) Migração da plataforma de desenvolvimento de sistemas informatizados; 10) Administração de componentes de software; 11) Desenvolvimento de projetos de sistemas de Sites Internet e Intranet; 12) Edição e publicação de conteúdos para páginas Internet e Intranet; 13) Elaboração, revisão e homologação de documentos referentes às reuniões da área; 14) Adequação, controle, publicação e arquivamento de documentos técnicos e de sistemas/projetos; 15) Refinamento e melhoria das etapas e atividades existentes no Processo de Análise, Codificação e Testes de Sistemas; 16) Refinamento e melhoria dos artefatos dos sistemas, para atender novas situações e necessidades; 17) Refinamento e melhoria dos indicadores, promovendo um maior controle sobre as atividades de análise, codificação, testes e manutenção de sistemas; 18) Melhoria contínua nos Níveis de Serviço de Análise, codificação, testes e manutenção de sistemas; 19) Identificação de fontes de "retrabalho" que ocorrem du rante as atividades de análise, codificação, testes e manutenção de sistemas; 20) Identificação das etapas que concentram maior esforço dos profissionais; 21) Implementação das "Melhorias Planejadas" e maximização dos ganhos da inovação realizada; 22) Modelagem de dados e processos utilizando ferramentas automatizadas; 23) Implantação de mecanismos de segurança, como também utilização de técnicas específicas para o desenvolvimento/produção de sistemas de informação seguros; 24) Implementação de soluções/sistemas de informação com uso de criptografia e certificado digital; 25) Administração de Dados, com suporte de ferramenta automatizada; 26) Migração de sistemas e bases de dados entre os SGBDs; 27) Customização (Tunning) de consultas (queries), objetos e serviços de banco de dados; 28) Monitoração dos serviços dos SGBDs; 29) Implementação e investigação de auditoria em logs dos SGBDs; 30) Implementação de planos e rotinas de backups dos dados e metadados dos SGBDs; 31) Implementação de planos e rotinas de manutenção dos SGBDs; 32) Suporte ao desenvolvimento de sistemas na presença de camada de persistência para transação e contexto de dados do negócio; 33) Implementação e manutenção de planos de segurança da informação para os SGBDs; 34) Implementação e manutenção de bases OLAP; 35) Implementação e manutenção de serviços de Data Warehouse; 36) Manutenção de aplicativos; 37) Definição de arquitetura de software com base nos modelos mais modernos disponíveis no mercado; 38) Mensuração de software, utilizando Análise de Pontos de Função; 39) Desenvolvimento de projetos utilizando tecnologias de Workflow, Gerenciamento Eletrônico de Documentos, Business Intelligence; e 40) Implementação e manutenção de processos.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 CLÁUSULA QUARTA ­ DA QUALIFICAÇÃO PROFISSIONAL PARA A PRESTAÇÃO DE SERVIÇOS Os profissionais alocados para a realização dos serviços deverão ter no mínimo as qualificações abaixo solicitadas, de acordo com a Categoria de Serviço:
+
+Categoria de Serviço / Perfil Profissional
+
+Qualificação Formação: Nível Superior completo em Administração, Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática ou Engenharia da Computação; ou Curso em área afim e Pósgraduação na área Tecnologia da Informação (carga-horária mínima de 360 horas). Capacitação: Modelagem de Dados e Projeto de Banco de Dados; Processo Unificado; e Análise/Projeto Orientado a Objetos. Experiência: na área de Tecnologia da Informação; como Analista de Sistemas ou Suporte; em atividades de desenvolvimento e manutenção de sistemas; Modelagem de Dados; Administração de dados; e Elaboração e implementação de projeto de banco de dados. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle 10g; PL/SQL e Ferramentas automatizadas de gerenciamento de dados. Formação: Nível Superior completo em Administração, Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática ou Engenharia da Computação; ou Curso em área afim e Pósgraduação na área Tecnologia da Informação (carga-horária mínima de 360 horas). Capacitação: Modelagem de Dados e Projeto de Banco de Dados; Processo Unificado; e Análise/Projeto Orientado a Objetos. Experiência: na área de Tecnologia da Informação; como Analista de Sistemas ou Suporte; em atividades de desenvolvimento e manutenção de sistemas; Modelagem de Dados; Administração de dados; e Elaboração e implementação de projeto de banco de dados. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle 10g; PL/SQL e Ferramentas automatizadas de gerenciamento de dados. Formação: Nível Superior completo em Administração, Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática ou Engenharia da Computação; ou Curso em área afim e Pósgraduação na área Tecnologia da Informação (carga-horária mínima de 360 horas). Capacitação: Programação ASP/HTML/Java Script/VB Script, Delphi, PHP e/ou Java ;Processo Unificado; Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos de Função; e Teste/Qualidade de Software. Experiência: na área de Tecnologia da Informação; como Analista de Sistemas; em atividades de desenvolvimento e manutenção de sistemas. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle, PL/SQL; Metodologias, ferramentas e técnicas de desenvolvimento e manutenção de sistemas; Modelagem de dados; Modelagem de processos; Modelo relacional; Programação orientada a objetos; Linguagem SQL; Ferramentas de engenharia de software assistida por computador (CASE); e Teste unitário/integrado de software.
+
+Administrador de Banco de Dados Sênior
+
+Administrador de Banco de Dados Pleno
+
+Analista de Sistemas Sênior
+
+Analista de Sistemas Pleno
+
+Formação: Nível Superior completo em Administração, Análise de Sistemas, Ciência da Computação, Processamento de Dados, Sistemas de Informação, Informática ou Engenharia da Computação; ou Curso em área afim e Pós-
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 graduação na área Tecnologia da Informação (carga-horária mínima de 360 horas).
+
+Capacitação: Programação ASP/HTML/Java Script/VB Script, Delphi, PHP e/ou Java ;Processo Unificado; Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos de Função; e Teste/Qualidade de Software. Experiência: na área de Tecnologia da Informação; como Analista de Sistemas; em atividades de desenvolvimento e manutenção de sistemas. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle, PL/SQL; Metodologias, ferramentas e técnicas de desenvolvimento e manutenção de sistemas; Modelagem de dados; Modelagem de processos; Modelo relacional; Programação orientada a objetos; Linguagem SQL; Ferramentas de engenharia de software assistida por computador (CASE); e Teste unitário/integrado de software Formação: Nível Médio completo. Capacitação: Programação ASP/HTML/Java Script/VB Script, Delphi, PHP e/ou Java; e Teste/Qualidade de Software. Experiência: na área de Tecnologia da Informação como Programador em atividades de codificação de programas para sistemas com arquitetura em 3 camadas. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle; Programação orientada a objetos; Linguagem SQL e PL/SQL; Ferramentas de engenharia de software assistida por computador (CASE); Teste unitário/integrado de software; Ferramenta de versionamento de programas. Formação: Nível Médio completo. Capacitação: Programação ASP/HTML/Java Script/VB Script, Delphi, PHP e/ou Java; e Teste/Qualidade de Software. Experiência: na área de Tecnologia da Informação como Programador em atividades de codificação de programas para sistemas com arquitetura em 3 camadas. Conhecimento: Sistema Operacional Windows, Unix, Linux e/ou BSD; Desenvolvimento de Aplicações WEB; Banco de Dados SQL Server e Oracle; Programação orientada a objetos; Linguagem SQL e PL/SQL; Ferramentas de engenharia de software assistida por computador (CASE); Teste unitário/integrado de software; Ferramenta de versionamento de programas.
+
+Programador Sênior
+
+Programador Pleno
+
+CLÁUSULA QUINTA- DAS METODOLOGIAS, TÉCNICAS E FERRAMENTAS 5.1.Desenvolvimento de Sistemas de Informação: A CONTRATADA deverá fornecer, customizar e utilizar as seguintes metodologias para fins de atendimento das demandas de desenvolvimento, manutenção, documentação e avaliação de sistemas: 1)Metodologia de Gerenciamento de Projetos, tendo como referência as práticas do PMBOK (PMI), visando melhorar as ações na camada gerencial, diminuindo os riscos e aumentando as chances de sucesso na execução de projetos; 2)Metodologia de Modelagem e Redesenho de Processos, contemplando o uso de ferramentas de Workflow e Gerenciamento Eletrônico de Documentos, a fim de permitir a racionalização dos processos e o uso de recursos;
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 3)Metodologia(s) de Desenvolvimento, e Documentação de Sistemas, contemplando os seguintes modelos de referência: Análise Estruturada e UP (Processo Unificado); Orientação a Objetos; Transferência de Conhecimento; e Acordo de Nível de Serviço. 4)Metodologia de Estimativa de Software, utilizando como referência o Manual de Práticas e Contagem de Pontos de Função ­ CPM 4.2 ou superior (IFPUG), para fins de dimensionamento do tamanho dos sistemas e esforço necessário para realização dos serviços. 5)Metodologia de Teste de Software (Unitário e Integrado de Sistemas, Carga, Regressão, etc.), visando garantir a qualidade dos produtos gerados, diminuindo o retrabalho e o aumento dos custos de produção de sistemas; 6)Metodologia de Desenvolvimento de Sistemas a fim de melhorar a qualidade dos produtos e serviços prestados , melhorando o suporte à tomada de decisão. 5.1.2. A CONTRATADA deverá fornecer, customizar e utilizar uma ferramenta de Gerenciamento de Demandas capaz de gerar consultas e relatórios individuais e consolidados, contemplando no mínimo as seguintes informações: 1) 2) 3) 4) 5) 6) 7) 8) 9) 10) 11) 12) 13) 14) Número; Status da solicitação; Requisitante; Descrição do(s) produto(s) e/ou serviço(s); Quantidade de Pontos de função para a realização do serviço; Data prevista e efetiva de início; Data prevista e efetiva de término; Valor da ordem de serviço; Responsável pela autorização dos serviços (CONTRATANTE); Responsável pelo aceite dos serviços (CONTRATADA); Indicador gráfico do andamento da Ordem de Serviço (previsto x realizado); Quantidade de demandas por tipo e período; Indicador de desempenho por tipo de demanda e período; e Qualquer campo de dados utilizado pelo banco.
+
+5.1.2.1.A ferramenta de Gerenciamento de Demandas deverá permitir que arquivos sejam anexados, contendo informações relevantes para execução das solicitações. 5.1.3. A CONTRATADA deverá fornecer, customizar e utilizar as seguintes ferramentas automatizadas, no âmbito da prestação de serviços: Gerenciamento de Projetos; Gerenciamento de Demandas; Estimativa de Software (Pontos de Função ­ CPM 4.2 ou superior ­ IFPUG); Modelagem de Processos e Sistemas (CASE); Teste de Software; e Gerenciamento de Mudança e Configuração. 5.1.4.Os sistemas de Gerenciamento de Projetos, Gerenciamento de Demandas, Estimativa de Software, Modelagem de Processos e Sistemas, Teste de Software e Gerenciamento de Mudança e Configuração deverão estar disponíveis no ambiente Intranet, Internet e Extranet, a fim de garantir a disponibilização tempestiva e atualizada de informações relacionadas à prestação de serviços. 5.1.5.A liberação de acesso à ferramenta utilizada deverá observar os requisitos de segurança (uso de criptografia, identificação, controle de acesso de usuários e controle de transações para inclusão, alteração e exclusão) determinados pelo TJMA. 5.1.6. A CONTRATADA deverá declarar a propriedade e/ou apresentar cessão de direito de uso das metodologias, técnicas e ferramentas a serem utilizadas no âmbito da prestação de serviços.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 5.1.7.A inclusão de componentes de software proprietários sem prévia e expressa autorização do TJMA é vedada em qualquer das etapas de desenvolvimento e/ou manutenção de sistemas. 5.1.8.A equipe técnica do TJMA poderá sugerir alterações nas metodologias, técnicas e ferramentas, as quais após análise, validação e implementação por parte da CONTRATADA, deverão ser incorporadas ao acervo técnico do TJMA, sem ônus adicional, e adotadas na execução das novas Ordens de Serviços.
+
+CLÁUSULA SEXTA- DO LOCAL DE EXECUÇÃO DOS SERVIÇOS 6.1.Os serviços serão executados nas instalações da CONTRATADA, e quando necessário, para as atividades que requerem análise de requisitos e interface com os servidores ou Magistrados deverão ser realizados em São Luís (MA).
+
+CLÁUSULA SÉTIMA- DA FORMA DE EXECUÇÃO DE SERVIÇOS 7.1. O dimensionamento dos serviços de desenvolvimento e manutenção de software será realizado com base no Manual de Práticas de Contagem de Pontos de Função, versão 4.2.1, publicado pelo IFPUG - International Function Point Users Group. 7.2.O detalhamento dos tipos de demandas deve atender: 1) Desenvolvimento de Sistema: execução de todas as etapas do ciclo de desenvolvimento de sistemas, para fins de desenvolvimento e implantação de um novo sistema. 2) Manutenção de Sistema: a. Evolutiva: contempla o desenvolvimento e implantação de novas funcionalidades e de novos componentes em sistemas existentes. 3) Documentação de Sistema: corresponde à execução de atividades de documentação de sistemas existentes e os novos sistemas desenvolvidos pela CONTRATADA. 7.3. A critério do TJMA poderá ser demandada tanto a execução de todas as fases do ciclo de desenvolvimento, quanto somente alguma(s) de sua(s) fase(s)/disciplina(s). 7.4. A CONTRATADA deverá providenciar um link de comunicação dedicado (mínimo de 1 Mbps), entre as suas instalações e o TJMA em São Luís, arcando com todos os custos de instalação, manutenção, segurança e controle de acesso e dados, ou quaisquer outros relacionados, durante a vigência do contrato. 7.5. A conexão entre as instalações da CONTRATADA e o TJMA será utilizada para troca de arquivos ou, quando autorizado pelo TJMA, para realização de testes integrados nos ambientes de desenvolvimento/teste/homologação do TJMA. 7.6. As interações dos profissionais da CONTRATADA (Gerentes e Gestores de projetos) com os usuários e profissionais do TJMA, para fins de recebimento das demandas dos serviços, para levantamento de pré-requisitos, ou serviço similar, ocorrerão nas instalações do TJMA, ou nas instalações dos Órgãos do Judiciário, cabendo à CONTRATADA a responsabilidade pelo deslocamento dos profissionais desta envolvidos até o local de prestação de serviços.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 7.7. O TJMA providenciará acesso controlado para os profissionais da CONTRATADA ao ambiente de desenvolvimento, teste e homologação, incluindo bibliotecas de programas, políticas, normas, procedimentos, metodologias, bases de dados, ferramentas, de acordo com pré-requisitos definidos nas OS.
+
+CLÁUSULA OITAVA- DO PRAZO DE EXECUÇÃO DOS SERVIÇOS E APURAÇÃO DO NÍVEL MÍNIMO DE SERVIÇO (NMS) 8.1.Os serviços deverão ser executados de acordo com os prazos estabelecidos a seguir: Desenvolvimento de Novos Sistemas Tamanho do serviço em Pontos de Função 50 100 200 300 400 500 600 700 800 900 1000 Acima de 1000 Prazo Máximo para Atendimento da Demanda (em meses) A partir da aprovação da OS 03 A partir da aprovação da OS 04 7 dias 05 7 dias 06 7 dias 07 15 dias 07 15 dias 08 15 dias 09 15 dias 09 15 dias 10 15 dias 11 Negociável entre as partes Prazo máximo para Início do Projeto (em dias úteis)
+
+Tamanho do Serviço em Pontos de Função 50 100 200 300 400 500 600 700 800 900 1000 Acima de 1000
+
+Documentação Prazo Máximo para Início Prazo Máximo para do Atendimento da Atendimento da Demanda Solicitação (em dias úteis) (em Meses) 3 dias 01 3 dias 01 7 dias 02 7 dias 02 7 dias 02 15 dias 02 15 dias 02 15 dias 03 15 dias 03 15 dias 03 15 dias 03 Negociável entre as partes
+
+CLÁUSULA NONA- DO NÍVEL MÍNIMO DE SERVIÇO (NMS)
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 9.1.Os serviços prestados pela CONTRATADA estarão sujeitos a um Nível Mínimo de execução, ou seja, 97% das Ordens de Serviço(OS) mensais executadas/entregues devem seguir/obedecer os prazos estabelecidos na Cláusula Oitava. 9.2. A aferição dos Níveis Mínimos de Serviço será realizada mensalmente pela CONTRATANTE acompanhado pela CONTRATADA, através de seu representante, utilizando para isso os seguintes procedimentos:
+
+PROCEDIMENTO n 1 Descrição do procedimento
+
+o
+
+Aferição Fórmula de cálculo
+
+Atraso na Execução/Entrega da Ordem de Serviço (Aeos) Apura se houve atraso em relação à data acordada para entrega da Ordem de Serviço devidamente executada/entregue. É apurado o tempo decorrido entre o momento que a Ordem de Serviço chega à CONTRATADA e o tempo decorrido até ela ser devolvida como resolvida, conforme definido no item 4.6.1. Caso a Ordem de Serviço devidamente executada/entregue, seja entregue após o prazo acordado (data/hora), ela será considerada "em atraso". Pela CONTRATANTE, na conclusão/entrega da Ordem de Serviço por parte da CONTRATADA.
+
+I AEOS 
+
+PEE  PPE  100 PPE
+
+Onde: IAEOS = Índice de atraso na execução/entrega da Ordem de Serviço; PEE = Prazo efetivo de execução/entrega, em dias/horas; PPE = Prazo planejado de execução/entrega, em dias/horas, acordado na Ordem de Serviço, conforme tabelas do item 4.6.1.
+
+Qt OSECA   OS ( I AEOS  3%)
+QTOSECA = Quantidade de Ordens de Serviço executadas/entregues com atraso;
+
+I OSCHA 
+
+QTOSECA  100 QtOSEAM
+
+IOSCHA = Percentual Ordens de Serviço com atraso na execução/entrega acima do limite aceitável; QtOSEAM = Quantidade de Ordens de Serviço executadas/entregues e aceitas no mês; Nível de serviço esperado IOSCHA Desejável: 0% (zero por cento) IOSCHA Aceitável: até 3% (três por cento) IOSCHA Indesejável: acima de 3% (cinco por cento) IOSCHA Desejável: nenhuma Penalidades IOSCHA Aceitável: advertência, se for apurado este nível por 3 meses consecutivos IOSCHA Indesejável: penalidade de 5% (cinco por cento) no valor total da Fatura, a título de compensação à CONTRATANTE pelo atraso na execução das Ordens de Serviço. Forma de Auditoria Em reunião mensal entre o Fiscal e o Preposto da CONTRATADA, antes da emissão da Fatura.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Periodicidade Cobertura
+o
+
+Mensal Todas as Ordens de Serviço que foram entregues no período de referência. Não-conformidades da OS na Validação do Recebimento (NC) Mede se as OS entregues estão em desacordo com o solicitado na Ordem de Serviço. Pela CONTRATANTE, na conclusão da Ordem de Serviço solicitada.
+
+PROCEDIMENTO n 2 Descrição do indicador Aferição
+
+I NCOS 
+
+QtNCOS  100 TPM
+
+Onde: INCOS = Índice de não-conformidades da OS; QtNCOS = Quantidade de não-conformidades aferidas na validação do recebimento da Ordem de Serviço; TPM = Tamanho do serviço, em Pontos de função.
+
+Fórmula de cálculo
+
+Qt OSNC   OS ( I NCOS  2%)
+QTOSNS = Quantidade de Ordens de Serviço com não conformidades acima do limite aceitável.
+
+I NC 
+
+QTOSNC 100 QtOSSOL
+
+Nível de serviço esperado
+
+Penalidades
+
+Forma de Auditoria Periodicidade Cobertura
+
+INC = Percentual Ordens de Serviço com nível de não conformidade acima do limite aceitável; QtOSSOL = Quantidade Ordens de Serviço entregues e validadas no mês; INC Desejável: 0% (zero por cento) INC Aceitável: até 10% (dez por cento) INC Indesejável: acima de 10% (dez por cento) INC Desejável: nenhuma INC Aceitável: advertência INC Indesejável: penalidade de 2% (dois por cento) no valor da Ordem de Serviço correspondente, a título de compensação à Contratante pelo retrabalho na atividade de validação do recebimento. Em reunião mensal entre o Fiscal e o Gestor do contrato, antes da emissão da Fatura. Mensal Todas as Ordens de Serviço que foram entregues no período de referência.
+
+PROCEDIMENTO n 3 Descrição do indicador Aferição
+
+o
+
+Defeitos/Erros Identificados Durante a Homologação (DH) Mede os defeitos/erros identificados durante a Homologação da Ordem de Serviço. Pela CONTRATANTE, na conclusão da Ordem de Serviço solicitada.
+
+I DHOS 
+Fórmula de cálculo
+
+QtDHOS  100 TPMOS
+
+Onde: IDHOS = Índice de defeitos/erros identificados durante a Homologação; QtDHOS = Quantidade de defeitos/erros aferidos na Homologação da
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Ordem de Serviço; TPMOS = Tamanho do serviço executado, em Pontos de Função.
+
+Qt OSDH   OS ( I DHOS  5%)
+QTOSDH = Quantidade de Ordens de Serviço homologadas, com defeitos/erros superiores ao limite aceitável.
+
+I DH 
+
+QTOSDH 100 QtOSSOL
+
+Nível de serviço esperado
+
+Penalidades
+
+Forma de Auditoria Periodicidade Cobertura
+o
+
+IDH = Percentual Ordens de Serviço de Solicitação com grau de Defeitos/Erros de Homologação acima do tolerado; QtOSSOL = Quantidade Ordens de Serviço homologadas no mês; IDH Desejável: 0% (zero por cento) IDH Aceitável: até 10% (dez por cento) IDH Indesejável: acima de 10% (dez por cento) IDH Desejável: nenhuma IDH Aceitável: advertência IDH Indesejável: glosa de 5% (cinco por cento) no valor da Ordem de Serviço correspondente, a título de compensação à CONTRATANTE pelo retrabalho na atividade de validação do recebimento. Em reunião mensal entre o Fiscal e o Preposto da CONTRATADA, antes da emissão da Fatura. Mensal Todas as Ordens de Serviço solicitadas que foram homologadas e entregues no período de referência. Erros de Operação (EO) Mede as falhas ou funcionamentos irregulares identificados após implantação da nova versão do produto em produção, modificada por serviços de Manutenção Evolutiva ou Adaptativa, como também mede falhas ou funcionamentos irregulares identificados após manutenção corretiva . Pela Contratante, durante a vigência do contrato.
+
+PROCEDIMENTO n 4
+
+Descrição do indicador
+
+Aferição
+
+I EO 
+Fórmula de cálculo
+
+Qt EO  100 TPF
+
+Nível de serviço esperado
+
+Penalidades
+
+Forma de Auditoria Periodicidade Cobertura
+
+Onde: IEO = Índice de erros de operação; QtEO = Quantidade de erros de operação encontrados; TPF = Tamanho do serviço, em Pontos de Função. IEO Desejável: 0% (zero por cento) IEO Aceitável: até 10% (dez por cento) IEO Indesejável: acima de 10% (dez por cento) IEO Desejável: nenhuma IEO Aceitável: advertência IEO Indesejável: penalidade de 2% (dois por cento) no valor da Ordem de Serviço correspondente, a título de compensação à Contratante pelo impacto causado pelo mau funcionamento do resultado do serviço. Em reunião mensal entre o Fiscal e o Preposto da CONTRATADA, antes da emissão da Fatura. Mensal Todas as Ordens de Serviço de Solicitação implantadas.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010
+
+9.3. Os indicadores de Níveis Mínimos de Serviços estão associados às atividades específicas dos processos de gestão e resolução de problemas, estabelecendo pontos de controle para a medição. 9.4. Para cada indicador é estabelecida meta a ser atingida pela CONTRATADA e uma margem de desvio aceitável. Níveis de serviço fora desta margem serão passíveis de glosa no valor da fatura correspondente ao mês de referência, a título de compensação conforme definido na descrição dos procedimentos. 9.5. Tempos superiores aos prazos máximos estabelecidos poderão ser admitidos, quando fatos supervenientes, devidamente documentados, tenham interferido no atendimento da demanda. 9.6. O atraso no cumprimento dos prazos estabelecidos na OS resultará na aplicação das penalidades, sendo garantida ampla defesa à CONTRATADA.
+
+CLÁUSULA DÉCIMA ­ DO PRAZO DE GARANTIA 10.1. Os produtos gerados pela CONTRATADA terão garantia de 12 meses, a contar da data de aceite dos produtos. 10.2. A emissão de aceite dos serviços pelo TJMA, não exime a CONTRATADA da responsabilidade pela correção de erros porventura identificados, sem ônus adicional.
+
+CLÁUSULA DÉCIMA PRIMEIRA- DA EXECUÇÃO 11.1. O início dos serviços de correção de erros ou falhas (manutenção corretiva) deverá obedecer aos tempos previstos na Cláusula Oitava, contados a partir do registro da ocorrência no Sistema de Controle de Demandas, a ser disponibilizado pela CONTRATADA. 11.2. O término dos serviços de correção de erros ou falhas deverá ocorrer no prazo máximo definido na Cláusula Oitava, contados a partir do registro da ocorrência no Sistema de Controle de Demandas, disponibilizado pela CONTRATADA. 11.3. A partir do aceite dos serviços pelo TJMA e após o início da prestação do serviço pela Contratada, alterações solicitadas serão tratadas como novas Ordens de Serviço. 11.4. A CONTRATADA deverá executar as atividades de testes relacionadas abaixo, a fim de detectar e corrigir erros potenciais ou reais, garantindo assim a funcionalidade e qualidade dos produtos gerados: a) Levantamento de informações do sistema para os testes; b) Planejamento dos Testes: consiste em elaborar Estratégia de Testes, Cenário de Testes, Roteiro de Testes e Casos de Testes; c) Implementação de Roteiros de Testes e Casos de Testes; d) Geração da Massa de Testes; e) Execução dos Testes; f) Evidenciação dos Testes; g) Registro de Ocorrências dos Testes; h) Avaliação e Validação dos Testes; i) Fornecimento de informações de controle e acompanhamento da execução dos serviços de testes, como parte do serviço que está sendo executado.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 11.5. A CONTRATADA deverá codificar os programas e produzir os artefatos mencionados na OS, de acordo com os padrões definidos pelo TJMA. CLÁUSULA DÉCIMA SEGUNDA- DO RECEBIMENTO 12.1. A unidade solicitante dos serviços emitirá Termo de Aceitação do Serviço no prazo definido na Ordem de Serviço, após a inspeção e teste dos artefatos entregues. 12.2. A CONTRATADA será responsável pelas atividades de homologação do sistema, supervisionada pelo solicitante do serviço, no ambiente de homologação do TJMA, com a seguinte abrangência: a) Os requisitos do Ambiente de Produção, o qual deverá ter um comportamento estável e com baixo consumo de recursos; b) Os requisitos de segurança, buscando proteger as informações de clientes, a integridade dos dados, da aplicação e do ambiente; c) Os requisitos do negócio, disponibilizando o sistema para avaliação dos usuários quanto ao atendimento dos requisitos contratados; d) O acompanhamento da execução dos testes no ambiente de homologação; e) O acompanhamento das atividades de homologação pelo usuário final.
+
+12.3. O TJMA deverá disponibilizar um Ambiente de Teste e Homologação de sistemas, espelho do Ambiente de Produção, a fim de assegurar que o comportamento do sistema não será alterado quando transferido para o Ambiente de Produção. 12.4. O serviço será recebido definitivamente, em até 05 (cinco) dias, após a realização de testes, da verificação de conformidade do produto apresentado conforme solicitado e homologação. 12.5. Para serviços que sejam executados conforme cronograma, o recebimento será atestado, para fins de pagamento, em cada parcela, após conferência da adequação da fatura mensal aos termos contratuais e ao exigido na OS. Para o recebimento definitivo, será observado o disposto no item anterior. CLÁUSULA DÉCIMA TERCEIRA- DA FISCALIZAÇÃO 13.1. As não-conformidades identificadas durante a inspeção dos serviços contratados serão corrigidas pela CONTRATADA, sem ônus para o TJMA, mantendo a consistência da documentação correspondente. 13.2. A fiscalização pode gerar a recusa de artefatos por motivo de vícios de qualidade ou por não observância dos padrões adotados pelo TJMA.
+
+CLÁUSULA DÉCIMA QUARTA ­ DO PROCEDIMENTO PARA ESTIMATIVA DE DEMANDAS (DESENVOLVIMENTO) 14.1. Os serviços demandados, por meio de Ordem de Serviço, poderão contemplar uma ou mais fases do ciclo de desenvolvimento e manutenção de sistemas. 14.2. Os serviços serão dimensionados em pontos de função, de acordo com as regras estabelecidas na versão mais recente do manual do IFPUG - International Function Point Users Group, instituição
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 internacional que é referencia para mensuração de pontos de função para desenvolvimento de sistemas de informação, cuja metodologia é amplamente utilizada no Governo Federal. 14.3. A contagem de pontos de função correspondente à prestação de serviços será realizada pela CONTRATADA e aprovada pelo CONTRATANTE, antes do início da prestação de serviços (Contagem Estimativa), o mesmo valendo para a conclusão de cada fase do ciclo de desenvolvimento de sistemas (Contagem Final). A Contagem Estimativa deverá levar em consideração as técnicas de contagem indicativa e estimativa definidas pelo IFPUG - International Function Point Users Group. A diferença de cálculo dos serviços, em pontos de função, prevista e realizada deverá ser objeto de Ordem de Serviço Complementar, a fim de garantir o equilíbrio entre os serviços efetivamente prestados e o respectivo pagamento. 14.4. A CONTRATADA e o TJMA deverão adorar os critérios abaixo para fins de mensuração dos serviços a serem prestados, em pontos de função: Tipo de Serviço Desenvolvimento de novos sistemas Manutenção Evolutiva Legenda: Fórmula PF Novo * Fator de Ajuste
+
+(PF Incluído *0,8 + (PF Alterado * 0,6) + (PF Excluído * 0,4) * Fator de Ajuste) PF Novo ­ Ponto de Função Novo PF Incluído ­ Pondo de Função Incluído PF Alterado - Pondo de Função Alterado PF Aplicativo - Pondo de Função Aplicativo PF Excluído - Pondo de Função Excluído
+
+14.5. Entende-se por PF a quantidade de pontos de função apurada pela aplicação da técnica de Análise de Pontos de Função IFPUG. 14.6. Deverá ser adotado o valor 1 (um) para o Fator de Ajuste, no dimensionamento de todos os projetos. 14.7. Deverão ser adotados os seguintes valores para fins de apuração de equivalência de atividades não mensuráveis pela técnica de Análise de Pontos de Função.
+
+Item Layout de Telas ou Arquivos: alterações de layout de telas ou arquivos, sem alteração de funcionalidades. Campos e Variáveis: inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem alteração de funcionalidade. Mensagens: alteração de mensagens de retorno ao usuário. Menus: inclusão, alteração ou exclusão de menu ou help (tela de ajuda). Dados Hard Coded: inclusão, alteração ou exclusão de dados pertencentes a listas na tela
+
+Base de Cálculo Qtde. de itens de layout alterados
+
+Fator de Equivalência 0,04
+
+Qtde. de campos
+
+0,08
+
+Qtde. de mensagens Qtde. de telas incluídas ou alteradas Qtde. de telas Qtde. de dados
+
+0,04 0,1 0,02 0,04
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 ou tabelas físicas. Inclusão de tabela Alteração de tabela Code Table: inclusão, alteração ou exclusão de tabelas e respectivas funcionalidades. Exclusão de tabela Inclusão de funcionalidade Alteração de funcionalidade 1,00 0,60 0,40 0,30 0,20
+
+Exclusão de funcionalidade 0,10 Nota: A quantidade de pontos de função será obtido pela multiplicação do item "Base de Cálculo" pelo "Fator de Equivalência".
+
+14.8. A CONTRATADA obriga-se a fornecer, customizar e utilizar ferramenta de Registro e Controle de Contagem de Pontos de Função para uso na gestão dos serviços demandados pelo TJMA. 14.9. A ferramenta de contagem de pontos de função deverá permitir o registro dos pontos de função contados pelos especialistas; a classificação da complexidade dos elementos identificados na contagem; a totalização de pontos de função; o cálculo do fator de ajuste e o cálculo dos pontos de função ajustados; armazenamento do histórico dos pontos de função contados; e a emissão de relatórios das operações efetuadas. 14.10. No caso de divergências superiores a 10 % entre a contagem realizada pela CONTRATADA e o TJMA, ambos deverão realizar nova contagem em conjunto para sanar as divergências. 14.11. CONTRATANTE se compromete a efetuar o pagamento da diferença de contagem de pontos de função, realizada antes do início da execução da Ordem de Serviço e após a conclusão de cada fase contratada, desde que devidamente comprovado e justificado pela CONTRATADA, e certificado pela CONTRATANTE. CLÁUSULA DÉCIMA QUINTA- DAS ORDENS DE SERVIÇO 15.1. Todo e qualquer serviço somente será executado pela CONTRATADA mediante uma Ordem de Serviço ­ OS autorizada pelo Gestor do TJMA. 15.2. O TJMA poderá recusar a proposta de execução da CONTRATADA. Neste caso, a CONTRATADA deverá revisar a proposta, encaminhando nova documentação para validação do solicitante. CLÁUSULA DÉCIMA SEXTA- DA PROPRIEDADE INTELECTUAL 16.1. A CONTRATADA deverá entregar ao TJMA toda e qualquer documentação gerada em função da prestação de serviços, objeto deste Termo de Referência. 16.2. A CONTRATADA cederá ao TJMA, em caráter definitivo, o direito patrimonial e a propriedade intelectual dos sistemas desenvolvidos e dos resultados gerados durante a vigência do contrato. Entende-se por resultados quaisquer estudos, relatórios, especificações, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, diagramas, fontes dos códigos dos programas em qualquer mídia, páginas na Intranet e Internet e documentação didática em papel ou em mídia eletrônica.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 16.3. A CONTRATADA fica proibida de comercializar os produtos relativos ao objeto da prestação dos serviços. CLÁUSULA DÉCIMA SÉTIMA ­ DO SIGILO 17.1. A CONTRATADA será expressamente responsabilizada quanto à manutenção de sigilo absoluto sobre quaisquer dados, informações, códigos-fonte, artefatos, contidos em quaisquer documentos e em quaisquer mídias, de que venha a ter conhecimento durante a execução dos trabalhos, não podendo, sob qualquer pretexto divulgar, reproduzir ou utilizar, sob pena de lei, independentemente da classificação de sigilo conferida pelo TJMA a tais documentos.
+
+17.2. A CONTRATADA não poderá divulgar quaisquer informações a que tenha acesso em virtude dos trabalhos a serem executados ou de que tenha tomado conhecimento em decorrência da execução do objeto, sem autorização, por escrito, do TJMA. CLÁUSULA DÉCIMA OITAVA ­ DAS OBRIGAÇÕES DA CONTRATANTE 18.1. O CONTRATANTE, através da Diretoria de Informática, obriga-se a: 18.2. Permitir ao pessoal técnico da CONTRATADA, desde que identificado e incluído na relação de técnicos autorizados, o acesso às unidades para a execução dos serviços, respeitadas as normas de segurança vigentes nas suas dependências; 18.3. Notificar a CONTRATADA quanto a defeitos ou irregularidades verificados na execução dos serviços, objeto deste Termo de Referência, bem como quanto a qualquer ocorrência relativa ao comportamento de seus técnicos, quando em atendimento, que venha a ser considerado prejudicial ou inconveniente para o TJMA; 18.4. Efetuar os pagamentos devidos à CONTRATADA, na forma convencionada, dentro do prazo previsto, desde que atendidas às formalidades necessárias, após a aceitação dos serviços faturados; 18.5. Promover a fiscalização do contrato, sob os aspectos quantitativos e qualitativos, por intermédio de profissional designado, anotando em registro próprio as falhas detectadas e exigindo as medidas corretivas necessárias, bem como acompanhar o desenvolvimento do contrato, conferir os serviços executados e atestar os documentos fiscais pertinentes, quando comprovada, a execução total, fiel e correta dos serviços, podendo ainda sustar, recusar, mandar fazer ou desfazer qualquer procedimento que não esteja de acordo com os termos contratuais; 18.6. Comunicar tempestivamente à CONTRATADA as possíveis irregularidades detectadas na execução dos serviços; 18.7. Comunicar à CONTRATADA a necessidade de substituição de qualquer profissional que seja considerado inadequado para o exercício da função; 18.8. Emitir, antes da execução de qualquer serviço, sua respectiva OS, definindo claramente os requisitos técnicos, administrativos e financeiros relativos ao serviço objeto deste Projeto; 18.9. Autorizar as propostas de execução de serviços apresentadas pela CONTRATADA nas OS; 18.10. Homologar os serviços prestados de acordo com os requisitos pré-estabelecidos nas OS, atestando as respectivas faturas.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 18.11. Fornecer à CONTRATADA, em tempo hábil, as informações necessárias e relevantes à consecução dos sistemas a serem desenvolvidos, bem como a documentação técnica e operacional de todos os sistemas já desenvolvidos, descritos neste Projeto; 18.12. Especificar e estabelecer normas e diretrizes para a execução dos serviços ora contratados, definindo as prioridades, regras, bem com os prazos e etapas para cumprimento das obrigações; 18.13. Avaliar o relatório mensal das atividades executadas pela CONTRATADA; 18.14.Indicar um representante para acompanhar e fiscalizar a execução do contrato em cada local de prestação dos serviços; CLÁUSULA DÉCIMA NONA ­ DAS OBRIGAÇÕES DA CONTRATADA 19.1. Entregar o objeto licitado, conforme especificações deste Edital e em consonância com a proposta de preços; 19.2. Obedecer às normas operacionais fornecidas pela CONTRATANTE; 19.3. Empregar funcionários qualificados e devidamente capacitados para execução dos serviços, conforme as definições dos serviços descritas neste Termo de Referência; 19.4.Manter seus funcionários devidamente informados das normas disciplinares do CONTRATANTE, bem como das normas de utilização e de segurança das instalações e do manuseio dos documentos; 19.5.Responsabilizar-se pelos danos causados diretamente ao CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços; 19.6.Responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura ocasionar ao TJMA ou a terceiros, durante a execução dos serviços, podendo o TJMA descontar o valor correspondente ao dano dos pagamentos devidos; 19.7.Responsabilizar-se, civil e criminalmente, pelo mau uso ou extravio dos documentos sob sua guarda; 19.8.Comunicar, por escrito, qualquer anormalidade, prestando ao TJMA os esclarecimentos julgados necessários; 19.9.Manter, durante a execução do contrato, todas as condições de habilitação e qualificação exigidas na licitação, em conformidade com art. 55, inciso XIII, da Lei 8.666, incluindo a atualização de documentos de controle da arrecadação de tributos e contribuições federais e outras legalmente exigíveis; 19.10.Indicar responsável pelo gerenciamento dos serviços, com poderes de representante legal ou preposto para tratar de todos os assuntos relacionados ao contrato junto ao TJMA, sem ônus para esta; 19.11.Atender de imediato as solicitações quanto à substituição de pessoal considerado inadequado para a prestação dos serviços, inconveniente à boa ordem ou que venha a transgredir normas disciplinares do TJMA; 19.12.Prever e prover o pessoal necessário para garantir a execução dos serviços, nos regimes contratados, sem interrupção, seja por motivo de férias, descanso, licenças e etc. 19.13.Desenvolver todos os sistemas com total aderência aos Padrões de Interoperabilidade de Governo Eletrônico e às Metodologias definidas pelo TJMA, para o serviço de Desenvolvimento e
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 Manutenção dos Sistemas de Informação, elaborar e apresentar ao TJMA, nas datas estabelecidas nas OS, todos os produtos e relatórios de acompanhamento e de final de execução de serviços. Os relatórios deverão contemplar detalhamento das atividades desenvolvidas; 19.14.Atender às solicitações do TJMA, de acordo com as especificações técnicas, procedimentos de controle administrativo e cronogramas físicos que venham a ser estabelecidos;
+
+CLÁUSULA VIGÉSIMA ­ DA GARANTIA CONTRATUAL 20.1. Para assegurar o integral cumprimento de todas as obrigações contratuais assumidas, inclusive indenização a terceiros e multas eventualmente aplicadas, a CONTRATADA se obriga a oferecer, como prestação de garantia, o valor correspondente a 5 % (cinco por cento) do valor global do Contrato. 20.2. A garantia será restituída a CONTRATADA após o término do Contrato com integral cumprimento de todas as obrigações contratuais. 20.3. Caberá a CONTRATADA optar por uma das modalidades de garantia prevista no Art. 56 da Lei n° 8.666/93.
+
+CLÁUSULA VIGÉSIMA PRIMEIRA CONTRATADA
+
+-
+
+REPRESENTANTE
+
+TÉCNICO-ADMINISTRATIVO
+
+DA
+
+21.1. A CONTRATADA deverá indicar um responsável pela gestão dos serviços contratados e um substituto, os quais serão submetidos à apreciação do TJMA, antes da sua efetiva alocação no âmbito da prestação de serviços, sem ônus adicional para a CONTRATANTE. 21.2. Na gestão da prestação de serviços, o responsável indicado pela CONTRATADA deverá: a. acompanhar a execução das Ordens de Serviços; b. assegurar que as políticas, normas e procedimentos do CONTRATANTE sejam respeitados e acatados pelos profissionais da CONTRATADA; c. alocar os profissionais necessários para atendimento das Ordens de Serviços tempestivamente, para fins de cumprimento dos prazos de início e fim, além do atendimento dos padrões de qualidade previamente estabelecidos; d. informar ao Gestor da CONTRATANTE eventuais problemas que possam impedir o bom andamento dos serviços; e. elaborar documentos referentes ao andamento da execução das Ordens de Serviços; e f. executar os procedimentos administrativos relativos aos recursos alocados para execução dos serviços contratados.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 CLÁUSULA VIGÉSIMA SEGUNDA - DO PAGAMENTO 22.1. A CONTRATANTE efetuará os pagamentos à CONTRATADA no valor de R$ __________, de acordo com Nota de Empenho nº. _____; 22.2. O pagamento será efetivado após atestado definitivo da nota fiscal, através de Ordem Bancária para a conta corrente da CONTRATADA, Agência ____, Conta Corrente _______ , Banco ________ ; 22.3. O pagamento somente será efetivado após comprovada a documentação atualizada exigida na habilitação; 22.4. Por ocasião do pagamento, serão efetuadas as retenções determinadas em lei. 22.5. Nos casos de eventuais atrasos de pagamento, desde que a licitante vencedora não tenha concorrido de alguma forma para tanto, fica convencionado que os encargos moratórios devidos pelo Tribunal de Justiça do Estado do Maranhão, entre a data final prevista para o adimplemento, indicada no subitem 22.1 e a correspondente ao efetivo pagamento da Nota Fiscal/fatura, será calculado por meio da aplicação da seguinte fórmula: EM = I x N x VP, onde: EM = Encargos Moratórios; N = Número de dias entre a data final prevista para o pagamento e a do efetivo pagamento; VP = Valor da parcela em atraso; I = Índice de compensação financeira = 0,00016438, assim apurado: I = TX 365 I = 6/100 365 I = 0,00016438
+
+TX = taxa percentual anual = 6% (seis por cento). 22.6. Não será efetuado qualquer pagamento à CONTRATADA enquanto houver pendência de liquidação da obrigação financeira em virtude de penalidade ou inadimplência contratual. CLÁUSULA VIGÉSIMA TERCEIRA - DAS CONDIÇÕES E FORMA DE PAGAMENTO 23.1. Após o recebimento definitivo, a CONTRATADA enviará a Nota Fiscal, conforme Lei n.º 8.441/06 e Decreto n.º 22.513/06, sem rasuras, a Diretoria Financeira, situada na Av. Pedro II, s/nº, Centro, nesta cidade, acompanhada do Termo de Recebimento Definitivo. 23.2. Os serviços serão recebidos por gestor designado pelo TJMA da seguinte forma. 23.3. Para o desenvolvimento de novos sistemas e de novas funcionalidades : O pagamento será realizado com base nos serviços executados, no mês pela equipe técnica da CONTRATADA. A autorização do pagamento estará condicionada aos resultados obtidos após as análises realizadas de acordo com o item 4.6.2.2 do Termo de Referência. O valor a ser pago consiste na multiplicação do tamanho do sistema em pontos de função pelo valor do ponto de função estabelecido em contrato. Os serviços serão autorizados por meio de Ordens de Serviço (OS) e documentados no Relatório de Acompanhamento Técnico (RAT). 23.4. Para a documentação Sistemas Legados: O pagamento será realizado com base nos serviços executados no mês, pela equipe técnica da CONTRATADA, devidamente autorizadas na Ordem de Serviço e documentadas nos Relatórios de Acompanhamento da Ordem de Serviço. O custo deste serviço será equivalente a 12% do valor do ponto de função.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 23.5.Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de pontos de função, bem como deduções de valores relativos a penalidades, serão efetuados na fatura do mês subseqüente à ocorrência do fato. 23.6.Todas as Ordens de Serviço deverão vir acompanhadas RAT para que o pagamento seja realizado. 23.7.Para Ordens de Serviço (OS), com prazos de execução que excedam 01 (um) mês, caberá à CONTRATADA, apresentar cronograma de execução para o serviço, estando os pagamentos parciais limitados ao valor da garantia contratual. 23.8. O setor competente da entidade licitadora, Diretoria Financeira, validará as Notas Fiscais/Faturas devidamente cadastradas/registradas pelas empresas. CLÁUSULA VIGÉSIMA QUARTA ­ DA REVISÃO DE PREÇOS 24.1. Os preços permanecerão, em regra, invariáveis pelo período contratual, salvo quando houver disciplinamento diverso oriundo da legislação vigente; 24.2. Quando o preço, por motivo superveniente, tornar-se superior ao preço praticado no mercado o Tribunal convocará a CONTRATADA visando à negociação para redução de preços e sua adequação ao praticado pelo mercado; 24.3. Frustrada a negociação, o fornecedor será liberado do compromisso assumido. CLÁUSULA VIGÉSIMA QUINTA - DO FISCAL DO CONTRATO 25.1. A fiscalização do contrato será feita por servidor designado pela Divisão de Informática e Automação do Tribunal de Justiça do Estado do Maranhão, que fiscalizará a contratação, determinando o que for necessário à regularização das faltas ou defeitos observados (art. 67, §§ 1º e 2º da Lei nº. 8.666/93) e comunicará a autoridade superior, quando necessário para as providências devidas. CLÁUSULA VIGÉSIMA SEXTA - DAS SANÇÕES CONTRATUAIS 26.1. Além das sanções previstas na Cláusula Nona deste Contrato, são aplicáveis à contratada em caso de inexecução parcial ou total das obrigações em relação ao objeto desta licitação, garantida a ampla defesa e o contraditório: a) Suspensão temporária do direito de licitar e impedimento de contratar com a Administração Pública, pelo prazo de até 02 (dois) anos, quando da inexecução contratual sobrevier prejuízo para a Administração; b) Declaração de inidoneidade para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação; 26.1.2 Aquele que, convocado dentro do prazo de validade de sua proposta, não assinar o Contrato ou Ata de Registro de Preço, deixar de entregar documentação exigida no edital, apresentar documentação falsa, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, garantido o direito à ampla defesa, ficará impedido de licitar e de contratar com o poder público, e será descredenciado no SICAF, pelo prazo de até cinco anos, sem prejuízo das multas previstas em edital e no contrato e das demais cominações legais.
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 26.3. A penalidade de suspensão será cabível quando o licitante participar do certame e for verificada a existência de fatos que o impeçam de contratar com a administração pública. Caberá, ainda, a suspensão quando a licitante, por descumprimento de cláusula editalícia, tenha causado transtornos no desenvolvimento dos serviços da CONTRATANTE; 26.4. A penalidade estabelecida na alínea "b," do subitem 26.1, será da competência da Presidência do TJ/MA ou por agente que receba esta delegação.
+
+CLÁUSULA VIGÉSIMA SÉTIMA - DA RESCISÃO CONTRATUAL 27.1. Poderão ser motivos de rescisão contratual as hipóteses elencadas no art. 78 da Lei n.º 8.666/93; 27.2. Caso o CONTRATANTE não se utilize da prerrogativa de rescindir o contrato, a seu exclusivo critério, poderá suspender a sua execução e/ou sustar o pagamento das faturas, até que a CONTRATADA cumpra integralmente a condição contratual infringida, sem prejuízo da incidência das sanções previstas no Contratol, na Lei n.º 8.666/93 e no Código de Defesa o Consumidor (Lei n.º 8.078/90); 27.3. A rescisão poderá ser unilateral, amigável (resilição) ou judicial, nos termos e condições previstas no art. 79 da Lei n.º 8.666/93; 27.4. A CONTRATADA reconhece os direitos da Administração nos casos de rescisão previstas nos arts. 77 a 80 da Lei 8.666/93; 27.5. O contrato poderá ser rescindido, garantida a prévia defesa, no prazo de 05 (cinco) dias consecutivos, a contar do recebimento da notificação, nas seguintes hipóteses: I ­ Pela Administração, quando: a)A CONTRATADA não cumprir as exigências contidas no Edital da Licitação e no presente Contrato; b)A CONTRATADA der causa à rescisão administrativa por um dos motivos elencados no art. 78 da Lei nº 8.666/93; c) Por razões de interesse público, devidamente fundamentadas, na forma do inciso XII, do art. 78 da Lei nº. 8.666/93; II ­ Pela CONTRATADA, quando mediante solicitação por escrito, comprovar estar impossibilitado de cumprir as exigências deste instrumento contratual. CLÁUSULA VIGÉSIMA OITAVA - DO VALOR E DOTAÇÃO ORÇAMENTÁRIA 28.1. O valor total para o fornecimento do objeto deste Contrato é de R$ ______________, incluído no mesmo todas as despesas e custos, diretos e indiretos, incidentes sobre o objeto fornecido, conforme Nota de Empenho nº. XXXXXXXX. 28.2. Os recursos orçamentários para atender ao pagamento do objeto deste Contrato correrão à Dotação Orçamentária seguinte: UNIDADE GESTORA PROJETO ATIVIDADE NATUREZA DE DESPESA ITEM DE DESPESA
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 FONTE DE RECURSOS
+
+CLÁUSULA VIGÉSIMA NONA - DA PUBLICAÇÃO 29.1. O CONTRATANTE providenciará a publicação de forma resumida deste Contrato, na Imprensa Oficial, em obediência ao disposto no § único do artigo 61 da Lei nº. 8.666/93. CLÁUSULA TRIGÉSIMA - DO FORO 30.1. Elegem as partes contratantes o Foro desta cidade, para dirimir todas e quaisquer controvérsias oriundas deste Contrato, renunciando expressamente a qualquer outro, por mais privilegiado que seja. E, por assim estarem justas e contratadas as partes, por seus representantes legais, assinam o presente Contrato perante as testemunhas abaixo-assinadas a tudo presente.
+
+São Luís, xxx de xxxxxx de 2010.
+
+P/CONTRATANTE:
+
+DES. JAMIL DE MIRANDA GEDEON NETO Presidente do Tribunal de Justiça do Maranhão
+
+P/CONTRATADA:
+
+SR. ______________________________ Representante da Empresa
+
+TESTEMUNHAS: NOME :___________________ RG Nº: ___________________
+
+NOME: _______________________ RG Nº: _______________________
+
+Proc. nº. 18.893/10-TJ Fls. n.º ____________ Servidor: __________
+ESTADO DO MARANHÃO PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA
+
+PREGÃO ELETRÔNICO Nº. 61/2010 ANEXO V FORMULÁRIO DE CADASTRO SIAGEM
+
+CNPJ: RAZÃO SOCIAL: NOME FANTASIA: CAPITAL SOCIAL: DATA INCORPORAÇÃO: INSC. ESTADUAL: INSC. MUNICIPAL: CNPJ DA EMPRESA MATRIZ: É REPRESENTANTE: ENDEREÇO: BAIRRO: CEP: CIDADE: ESTADO: UF: TEL: REGISTRO PROFISSIONAL DO RESP. TÉCNICO ENTIDADE FISCALIZADORA: INSCRIÇÃO DA ENTIDADE: REGISTRO NA JUNTA COMERCIAL DO ESTADO COMPETENTE: Nº REGISTRO DATA DO REGISTRO SÓCIOS DA EMPRESA RAZÃO SOCIAL/NOME: (SE HOUVER MAIS DE CNPJ/CPF: UM INDICAR) PARTICIPAÇÃO SOCIETÁRIA: PARTICIPANTES DA NOME: ADMINISTRAÇÃO DA CPF: EMPRESA (SE HOUVER CARGO: MAIS DE UM INDICAR) DOCUMENTAÇÃO CÉDULA DE IDENTIDADE E CPF DOS SÓCIOS; EXIGIDA: CONTRATO SOCIAL E SUAS ALTERAÇÕES; CNPJ (ATUALIZADO);
+
+TEL:
+
+OBS: CADASTRO OBRIGATÓRIO PARA QUE A EMPRESA VENCEDORA DO CERTAME POSSA RECEBER EMPENHO E POSTERIORMENTE PAGAMENTO.
+
+

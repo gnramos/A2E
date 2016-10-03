@@ -1,0 +1,1258 @@
+MINISTÉRIO DA FAZENDA Secretaria Executiva Subsecretaria de Planejamento, Orçamento e Administração Coordenação-Geral de Recursos Logísticos
+
+EDITAL DE PREGÃO ELETRÔNICO No 28/2010
+PROCESSO No 10167.000979/2010-57 A Coordenação Geral de Recursos Logísticos do Ministério da Fazenda, por intermédio de seu Pregoeiro, designado pela Portaria no 107, de 17 de junho de 2009, torna público, para conhecimento dos interessados, que fará realizar licitação, sob a modalidade de PREGÃO ELETRÔNICO, para REGISTRO DE PREÇOS, do tipo MENOR PREÇO POR LOTE, que se regerá pelas disposições da Lei no 10.520, de 17/07/2002, dos Decretos no 5.450, de 31 de maio de 2005, no 3.784, de 06 de abril de 2001, no 3.931, de 19 de setembro de 2001 e no 4.342, de 23 de agosto de 2002; da Lei no 8.666, de 21 de junho de 1993, no que couber, da Instrução Normativa no 05, de 21 de julho de 1995, do extinto Ministério da Administração Federal e Reforma do Estado ­ MARE, da Lei Complementar No 123, de 14 de dezembro de 2006,
+
+Decreto nrº 7.174, de 12 de maio de 2010 da presidência da república e demais legislações pertinentes e, ainda, pelo estabelecido no presente Edital e seus Anexos.
+1 DO OBJETO
+
+1.1 Contratação de empresa para prestação de Serviços Técnicos para o desenvolvimento e manutenção de sistemas de informação, sítios e portais na forma de serviços continuados, conforme as especificações e condições estabelecidas no Termo de Referência.
+
+2
+
+DA ABERTURA
+
+2.1 A abertura da presente licitação dar-se-á em sessão pública, por meio do Sistema Eletrônico COMPRASNET (comunicação pela Internet), dirigida pelo Pregoeiro, a ser realizada conforme indicado abaixo: I I ­ DATA DA ABERTURA: 08/09/2010; II ­ HORA DA ABERTURA: 10:00 horas (Horário de Brasília); III ­ LOCAL: www.comprasnet.gov.br (Endereço Eletrônico); IV ­ UASG: 170016 ­ Coordenação-Geral de Recursos Logísticos do Ministério da Fazenda; V ­ RECEBIMENTO DA PROPOSTA ELETRÔNICA: a partir da data de disponibilização do Edital, até o horário previsto para a abertura da Sessão Eletrônica.
+
+3
+
+DAS CONDIÇÕES PARA PARTICIPAÇÃO NA LICITAÇÃO
+
+3.1 Poderão participar da presente licitação as interessadas que estiverem credenciadas no Sistema de Cadastramento Unificado de Fornecedores - SICAF, nos termos do Decreto nO 5.450, de 31 de maio de 2005, bem como atendam a todas as exigências constantes deste Edital.
+1
+
+3.2 O credenciamento no SICAF poderá ser realizado pela interessada em qualquer unidade de cadastramento dos órgãos/entidades da Presidência da República, dos Ministérios, das Autarquias e das Fundações que integram o Sistema de Serviços Gerais - SISG, localizadas nas Unidades da Federação, apresentando a documentação discriminada na IN MARE nO 05, de 21 de julho de 1995 até o terceiro dia útil anterior à data prevista para o recebimento da proposta de preço e dos documentos de habilitação. 3.3 No caso de atualização do cadastro e/ou habilitação parcial, porém ainda não constante no SICAF, a interessada deverá comprovar, na sessão do Pregão, o cumprimento desta exigência. Fica esclarecido que a contratação somente se efetivará no caso de o cadastramento e habilitação parcial ser efetivado pelo Ministério do Planejamento, Orçamento e Gestão ­MP. 3.4 Não poderão participar da presente licitação as interessadas que se encontrem em processo de falência, dissolução ou estejam cumprindo suspensão temporária de participação em licitação e impedimento de contratar com a Administração ou tenham sido declaradas inidôneas para licitar ou contratar com a Administração Pública, bem como licitantes que se apresentem constituídas na forma de empresas em consórcio.
+
+4
+
+DA REPRESENTAÇÃO E DO CREDENCIAMENTO
+
+4.1 O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico, no sítio www.comprasnet.gov.br. 4.2 O credenciamento da licitante dependerá de registro cadastral atualizado no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF. 4.3 O credenciamento junto ao provedor do sistema implica na responsabilidade legal da licitante ou de seu representante legal e na presunção de sua capacidade técnica para realização das transações inerentes ao Pregão Eletrônico. 4.4 As licitantes ou seus representantes legais deverão estar previamente credenciados junto ao Órgão provedor. A perda da senha ou a quebra de sigilo deverão ser comunicadas imediatamente ao provedor do sistema, para imediato bloqueio de acesso. 4.5 O uso da senha de acesso pela licitante é de sua exclusiva responsabilidade, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou ao Ministério da Fazenda, responsabilidade por eventuais danos decorrentes do uso indevido da senha, mesmo que por terceiros.
+
+5
+
+DO ENVIO DA PROPOSTA DE PREÇOS
+
+5.1 A licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiras sua proposta e lances. 5.2 Incumbirá a licitante acompanhar as operações no sistema eletrônico durante a sessão pública do pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão. 5.3 A participação na Licitação dar-se-á por meio da digitação da senha privativa da licitante e subseqüente encaminhamento da proposta eletrônica. 5.4 Como requisito para a participação na Licitação a licitante deverá manifestar, em campo próprio do sistema eletrônico, que cumpre plenamente os requisitos de habilitação e que sua proposta está em conformidade com as exigências deste Edital.
+2
+
+5.5 Todos os valores, preços e custos da proposta terão como expressão monetária a moeda corrente nacional. 5.6 A licitante deverá dar oferta firme e precisa, sem alternativas de preços ou qualquer outra condição que induza o julgamento a ter mais de um resultado. 5.7 Em caso de divergência entre os valores unitários e totais, serão considerados os primeiros, e, entre os expressos em algarismos e por extenso, será considerado este último. 5.8 Nos preços propostos deverão estar contidos todos os custos diretos e indiretos, inclusive tributos incidentes, taxa de administração, equipamentos, serviços, encargos sociais, trabalhistas, seguros, lucro e outros necessários ao cumprimento integral do objeto deste Edital. 5.9 Serão desclassificadas as Propostas que não atenderem às exigências contidas neste Edital, sejam omissas ou apresentem irregularidades, ou defeitos capazes de dificultar o julgamento, bem como aquelas que se opuserem a quaisquer dispositivos legais vigentes. 5.10 5.11 6 Não se considerará qualquer oferta de vantagem não prevista neste Edital. Em nenhuma hipótese será recebida proposta fora do prazo estabelecido. DA DIVULGAÇÃO DAS PROPOSTAS DE PREÇOS
+
+6.1 A partir das 10 horas do dia 08/09/2010 terá início a sessão pública do Pregão Eletrônico, com a divulgação das propostas eletrônicas recebidas e seus respectivos valores por item e início da etapa de lances. 7 DA FORMULAÇÃO DE LANCES
+
+7.1 Iniciada a etapa competitiva, as licitantes poderão encaminhar lances contemplando valores por item, exclusivamente por meio do sistema eletrônico, sendo a licitante imediatamente informada do seu recebimento e respectivo horário de registro e valor. 7.2 As licitantes poderão ofertar lances sucessivos, observando o horário fixado e as regras de aceitação dos mesmos. 7.3 Só serão aceitos os lances cujos valores forem inferiores ao último lance que tenha sido anteriormente registrado no sistema. 7.4 Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado primeiramente. 7.5 Durante o transcurso da sessão pública, as licitantes serão informadas, em tempo real, do valor do menor lance registrado que tenha sido apresentado pelas demais licitantes, vedada a identificação do detentor do lance. 7.6 No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico poderá permanecer acessível as licitantes para o envio de lances. 7.6.1 O Pregoeiro, quando possível, dará continuidade à sua atuação no certame, sem prejuízo dos atos realizados. 7.6.2 Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do Pregão será suspensa e terá reinício somente após comunicação expressa do Pregoeiro aos participantes. 7.7 A etapa de lances da sessão pública será encerrada por decisão do Pregoeiro.
+3
+
+7.7.1 O sistema eletrônico encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até 30 (trinta) minutos, aleatoriamente determinado, findo o qual será automaticamente encerrado o recebimento de lances. 7.8 Após o encerramento de etapa de lances, será assegurada, como critério de desempate, preferência na contratação para as microempresas e empresas de pequeno porte, nos termos do art. 44 da Lei Complementar No 123, de 14 de dezembro de 2006. 7.8.1 Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam 5% (cinco por cento) superiores à proposta mais bem classificada. 7.9 Para efeito do disposto no item 7.8, proceder-se-á da seguinte forma:
+
+7.9.1 O Pregoeiro encaminhará, pelo sistema eletrônico, mensagem à licitante melhor classificada, para verificar se esta é microempresa ou empresa de pequeno porte; 7.9.2 Caso não seja, o Pregoeiro encaminhará, também pelo sistema eletrônico, mensagem à todas as participantes que ofertaram preço superior em até 5% do menor lance, interpelando se elas se enquadram na condição de microempresa ou empresa de pequeno porte, e que não estão incluídas na vedação constante do § 4o, do artigo 3o da referida Lei Complementar. 7.9.2.1 A microempresa ou empresa que pequeno porte mais bem classificada será convocada para, em querendo, apresentar nova proposta de preço inferior àquela considerada primeira classificada. Não aceitando, serão chamadas as empresas remanescentes, que se enquadrem no disposto no subitem 7.8.1. 7.10 A declaração descrita no subitem 7.9, vincula à empresa ao seu conteúdo, e caso inverídica, sujeita a empresa às sanções previstas em lei. 7.11 Os demais procedimentos adotados serão adotados de acordo com o disposto nos art. 44 e 45 da referida Lei Complementar. 7.12 Terminado este procedimento, o Pregoeiro poderá encaminhar, pelo sistema eletrônico, contraproposta diretamente à licitante que tenha ofertado o lance de menor valor, para que seja obtido preço melhor, bem como decidir sobre sua aceitação. 8 DO JULGAMENTO DAS PROPOSTAS DE PREÇOS
+
+8.1 Encerrada a etapa de lances e ordenadas às ofertas, pelo critério de Menor Preço Global Por Lote, o Pregoeiro examinará, imediatamente, a aceitabilidade, quanto ao objeto e valor apresentado pela primeira classificada, decidindo motivadamente a respeito. 8.2 Se a oferta de menor preço não for aceitável, o Pregoeiro examinará as ofertas subseqüentes, na ordem de classificação, até a apuração de uma proposta que atenda a todas as exigências deste Edital.
+
+8.3 Ocorrendo a situação a que se refere o subitem anterior, o Pregoeiro poderá negociar com a licitante para que seja obtido melhor preço . 9 DA PROPOSTA DEFINITIVA
+
+9.1 Encerrada a etapa competitiva, a licitante classificada em primeiro lugar deverá formular e encaminhar de imediato, no prazo máximo de 2 horas, sua proposta definitiva por meio
+4
+
+do fax no (61) 3412-5664, com posterior encaminhamento do original no prazo máximo de 3 (três) dias úteis, conforme modelo constante do Anexo III deste Edital. 9.1.1 O percentual de desconto ofertado sobre a proposta original antes da apresentação dos lances, deverá ser distribuído proporcionalmente sobre todos os preços apresentados. 9.2 A proposta definitiva deverá conter:
+
+I - dados da licitante: nome e/ou razão social, endereço completo, telefone, fax e endereço eletrônico, informações bancárias (nome e número de banco, agência e conta-corrente) e o número da inscrição no Cadastro Nacional de Pessoas Jurídicas ­ CNPJ; II - prazo de validade que não poderá ser inferior a 60 (sessenta) dias; III - declaração de total concordância com os termos deste Edital. 9.3 Em caso de divergência entre os valores unitários e totais serão considerados os primeiros, e, entre os expressos em algarismos e por extenso, será considerado este último. 9.4 Todos os valores, preços e custos da proposta terão como expressão monetária a moeda corrente nacional. 9.5 Os preços propostos serão de exclusiva responsabilidade da licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de erro, omissão ou qualquer outro pretexto. 9.6 Nos preços propostos deverão estar contidos todos os custos diretos e indiretos, inclusive tributos incidentes, taxa de administração, equipamentos, serviços, encargos sociais, trabalhistas, seguros, lucro e outros necessários ao cumprimento integral do objeto deste Edital. 9.7 Serão desclassificadas as Propostas que não atenderem às exigências contidas neste Edital, sejam omissas ou apresentem irregularidades, ou defeitos capazes de dificultar o julgamento, bem como aquelas que se opuserem a quaisquer dispositivos legais vigentes, que ofertarem preços superiores aos praticados no mercado ou manifestamente inexeqüíveis. 9.8 A licitante deverá dar oferta firme e precisa, sem alternativas de preços ou qualquer outra condição que induza o julgamento a ter mais de um resultado. 9.9 9.10 Não se considerará qualquer oferta de vantagem não prevista neste Edital. Em nenhuma hipótese será recebida proposta fora do prazo estabelecido.
+
+9.11 O CNPJ indicado na proposta de preço e da habilitação deverá ser do mesmo estabelecimento da empresa que efetivamente vai executar os serviços objeto desta licitação. 10 DA HABILITAÇÃO E CLASSIFICAÇÃO FINAL
+
+10.1 Preliminarmente, será confirmada a regularidade do cadastramento e a habilitação parcial da licitante no SICAF, bem como sua situação financeira, por meio de consulta "on line". 10.1.1 Procedida a consulta, será impressa declaração demonstrativa da situação da licitante (Anexo V da IN MARE no 05/95) a qual será juntada ao processo de licitação e informado o resultado às demais licitantes, pelo Pregoeiro. 10.2 A licitante vencedora do certame que não estiver regularmente habilitada no SICAF deverá apresentar, durante a sessão pública, até duas (2) horas após o encerramento da etapa de lances, a seguinte documentação, por meio do fax no (61) 34125664, com posterior
+5
+
+encaminhamento dos documentos originais ou cópias autenticadas no prazo de até três (3) dias úteis da solicitação, no endereço SAS Qd. 6 Bl. "O" Ed. Órgãos Centrais, sala 613: I - HABILITAÇÃO JURÍDICA: a) registro comercial, no caso de empresa individual; b) ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, em se tratando de sociedades comerciais, e, no caso de sociedades por ações, acompanhado da documentação de eleição dos seus administradores; c) decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. II ­ REGULARIDADE FISCAL: a) prova de inscrição no Cadastro Nacional de Pessoas Jurídicas -CNPJ; b) prova de inscrição no cadastro de contribuintes estadual ou municipal, se houver, relativo ao domicílio ou sede do licitante, pertinente ao seu ramo de atividade; c) prova de regularidade para com a Fazenda Nacional, conforme Decreto no 6.106, de 2007, que será efetuada mediante apresentação de: I ­ certidão específica, emitida pela Secretaria da Receita Federal do Brasil ­RFB, quanto às contribuições sociais previstas nas alíneas "a", "b" e "c" do parágrafo único do art. 11 da Lei n o 8.212, de 24 de julho de 1991, às contribuições instituídas a título de substituição e às contribuições devidas, por lei, a terceiros, inclusive inscritas em dívida ativa do Instituto Nacional do Seguro Social ­ INSS, por ele administradas; II. certidão conjunta, emitida pela Secretaria da Receita Federal do Brasil- RFB e a ProcuradoriaGeral da Fazenda Nacional ­PGFN, quanto aos demais tributos federais e à divida ativa da União, por ela administrados. d) prova de regularidade relativa à Seguridade Social (INSS) e ao Fundo de Garantia por Tempo de Serviço (FGTS), demonstrando situação regular no cumprimento dos encargos sociais instituídos por lei. III ­ QUALIFICAÇÃO ECONÔMICO-FINANCEIRA a) balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, que comprovem a boa situação financeira da empresa, vedada a sua substituição por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais quando encerrado há mais de três (3) meses da data de apresentação da proposta; b) certidão negativa de falência ou concordata expedida pelo distribuidor da sede da pessoa jurídica, ou de execução patrimonial, expedida no domicílio da pessoa física. c) comprovante de possuir índices contábeis de: Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC), maiores que 1 (um). A licitante que possuir valor igual ou menor que 1 (um) em qualquer dos índices contábeis acima deverá comprovar, por meio de registro na Junta Comercial ou do último balanço publicado, que possui patrimônio líquido, no mínimo, igual a 10% sobre o valor estimado global do item que a licitante deseja participar. d) os dados deverão se referir à data da apresentação da proposta, na forma da Lei, admitida a atualização para esta data através de índices oficiais.
+6
+
+e) os índices contábeis serão calculados mediante a aplicação das seguintes fórmulas:
+
+I - LIQUIDEZ GERAL: LG = ATIVO CIRCULANTE + REALIZÁVEL A LONGO PRAZO PASSIVO CIRCULANTE + EXIGÍVEL A LONGO PRAZO
+
+II - SOLVÊNCIA GERAL: SG = III - LIQUIDEZ CORRENTE: LC = 10.3 ATIVO TOTAL PASSIVO CIRCULANTE + EXIGÍVEL A LONGO PRAZO
+
+ATIVO CIRCULANTE PASSIVO CIRCULANTE Além dos documentos mencionados, e necessário ainda apresentar:
+
+I. Atestado de Capacidade Técnica fornecido por pessoa jurídica de direito público ou privado que comprove que a licitante executou ou está executando, a contento, serviços técnicos de desenvolvimento e manutenção evolutiva de sistemas de informação, sítios e portais, no modelo de Fábrica de Software, na quantidade de, no mínimo, 5.000 (cinco mil) Pontos de Função Brutos (PFB) em tecnologia JAVA; a) com vistas a permitir a comparação e somatório de atestados, serão considerados apenas PFB (não ajustados); b) no caso de atestados emitidos por empresa da iniciativa privada, não serão considerados aqueles emitidos por empresas pertencentes ao mesmo grupo empresarial da licitante. Serão considerados como pertencentes ao mesmo grupo empresarial, empresas controladas ou controladoras da licitante, ou que tenha pelo menos uma mesma pessoa física ou jurídica que seja sócio da empresa emitente e da licitante; c) os atestados apresentados deverão conter, preferencialmente, as seguintes informações: Tipo de Informação 1. Identificação do(s) Projeto(s)
+2. Informações sobre o uso do modelo 3. Descrição sucinta do(s) Projeto (s)
+
+4. Informações técnicas do(s) software (s) desenvolvido (s) 5. Dados do responsável pelas informações
+
+6. Informações do Órgão Público/Empresa que emitiu o atestado e assinatura
+
+Conteúdo Nome do Projeto; Número de Pontos de Função Brutos (não ajustados). Constando a informação sobre o uso do modelo de Fábrica de Software. Constando a identificação dos projetos, com descrições sucintas, contendo as etapas de Ciclo de Desenvolvimento/Manutenção evolutiva executadas e a utilização de metodologia formal. Constando a plataforma tecnológica e o Banco de Dados utilizados. Nome/ e-mail/telefone para contatos (pessoa vinculada ao cliente responsável pelos contatos relativos ao(s) projeto (s)). Nome comercial/CNPJ/Endereço/Telefone/ Assinatura do representante legal do Órgão Público/Empresa
+
+10.4 Os documentos exigidos para habilitação deverão ser enviados, no prazo máximo de 2 horas, por meio do fax nO (61) 3412-5664, com posterior encaminhamento dos originais ou cópias autenticadas, no prazo máximo de 3(três) dias úteis. 10.5 A Administração poderá utilizar os sítios oficiais de órgãos e entidades emissores de certidões, para comprovação da regularidade das licitantes. 10.6 Não serão aceitos protocolos de entrega ou solicitação de documentos em substituição aos exigidos neste Edital.
+7
+
+10.7 Em nenhum caso será concedida prorrogação para a apresentação de documentos de habilitação que não forem enviados no prazo estabelecido. 10.8 Os documentos relacionados neste Edital referir-se-ão sempre ao domicílio da empresa cadastrada no SICAF. 10.9 Os documentos necessários à participação na presente licitação, deverão ser apresentados no idioma oficial do Brasil, admitida a nomenclatura técnica específica. 10.9.1 Quaisquer documentos apresentados em língua estrangeira, deverão ser traduzidos para o idioma oficial do Brasil. 10.10 O CNPJ indicado nos documentos de habilitação e na proposta de preços deverá ser do mesmo estabelecimento que efetivamente executará os serviços. 10.11 A etapa de habilitação compreenderá a verificação e análise dos documentos de habilitação da licitante que tenha apresentado o menor preço na etapa de lances, relativamente ao atendimento das exigências constantes deste Edital. 10.12 Será inabilitada a licitante que não atender as exigências contidas neste Edital.
+
+10.13 Se a licitante desatender às exigências habilitatórias, o Pregoeiro examinará a oferta subseqüente, verificando a sua aceitabilidade e procedendo à habilitação da licitante, na ordem de classificação, e assim sucessivamente, até a apuração de uma proposta que atenda ao Edital. 10.14 A indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativas à sessão pública desta licitação constarão de ata divulgada no sistema eletrônico, sem prejuízo das demais formas de publicidade previstas na legislação pertinente. 10.15 Ao final da sessão, na hipótese de inexistência de recursos, o pregoeiro promoverá a adjudicação do objeto da licitação à licitante vencedora, com posterior encaminhamento do processo para homologação pelo Coordenador-Geral de Recursos Logísticos. 10.16 Na hipótese de existência de recursos, o processo será encaminhado ao Coordenador-Geral de Recursos Logísticos para julgamento e, em caso de improvimento, adjudicação do objeto à licitante vencedora e homologação da licitação. 10.17 No julgamento da licitação, o Pregoeiro poderá sanar erros ou falhas que não alterem a substância das propostas, dos documentos de habilitação e sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todas as licitantes, atribuindo-lhes validade e eficácia para fins de habilitação e classificação. 11 DOS ESCLARECIMENTOS E DA IMPUGNAÇÃO AO EDITAL
+
+11.1 Até 2 (dois) dias úteis antes da data fixada para abertura da sessão pública, qualquer pessoa poderá impugnar o ato convocatório do Pregão. 11.2 Caberá ao Pregoeiro, auxiliado pela área competente, decidir sobre a petição no prazo de até 24 (vinte e quatro) horas. 11.3 Acolhida a petição contra o ato convocatório, será designada nova data para a realização da licitação. 11.4 As impugnações deverão ser manifestadas por escrito, dirigidas ao Pregoeiro, protocolizado o original, nos dias úteis, no horário de 9 às 12h e 14 às 17h, no Setor de
+8
+
+Autarquias Sul, Quadra 06, Bloco "O", 60 andar do Edifício Órgãos Centrais do Ministério da Fazenda, Brasília-DF, telefones (61) 3412-5651/3412-5642 ou fax nO (61) 3412-5664. 11.5 Até 3 (três) dias úteis antes da data fixada para abertura da sessão pública, poderão ser solicitados esclarecimentos sobre a licitação, devendo os pedidos serem enviados por meio eletrônico para o endereço cpl.df.cogrl@fazenda.gov.br, telefones (61) 3412-5651/3412-5642. 12 DOS RECURSOS ADMINISTRATIVOS 12.1 Os procedimentos para interposição de recursos, compreendida a manifestação prévia da licitante durante a sessão pública, o encaminhamento de memoriais e de eventuais contrarazões pelas demais licitantes, serão realizados exclusivamente no âmbito do sistema eletrônico, em formulários próprios. 12.2 O encaminhamento de memoriais deverá ocorrer no prazo de até três dias, ficando as demais licitantes desde logo intimadas para apresentar contra-razões em igual número de dias, que começarão a correr do término do prazo da recorrente, sendo-lhes assegurada vista dos autos. 12.3 A falta de manifestação imediata e motivada da licitante importará a decadência do direito de recurso. 12.4 O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 12.5 Julgados os recursos, o Coordenador-Geral de Recursos Logísticos procederá a adjudicação do objeto à licitante vencedora e homologará a licitação. 12.6 Não serão conhecidos os recursos interpostos após o encerramento da sessão, nem serão recebidas as petições de contra-razões apresentadas intempestivamente ou em desacordo com o disposto no subitem 12.1 deste Edital. 13 OBRIGAÇÕES DA CONTRATANTE
+
+13.1 A Contratante obriga-se a cumprir fielmente as condições e exigências contidas no Termo de Referência, e em especial: a) Proporcionar todas as facilidades para que a Prestadora de Serviço possa desempenhar seus serviços dentro das normas e condições contratuais; Comunicar à Prestadora de Serviço as eventuais irregularidades observadas na execução dos serviços e/ou nos produtos entregues, para adoção das providências saneadoras; Efetuar o pagamento na forma e no prazo convencionado em Contrato;
+
+b)
+
+c)
+
+d)
+
+Aplicar as penalidades previstas contratualmente para o caso do não cumprimento de cláusulas contratuais ou aceitar as justificativas apresentadas pela Prestadora de Serviço.
+
+14
+
+OBRIGAÇÕES DA CONTRATADA
+
+14.1 Fornecer produtos conforme especificações, quantidades, prazos e demais condições estabelecidas no Contrato, Edital, Anexos e Ordens de Serviço; 14.2 Adaptar-se a mudanças, quando da evolução da arquitetura, dos aspectos
+9
+
+metodológicos e da estrutura da Contratante especificados neste Termo de Referência, sem que isso implique acréscimo nos preços contratados e sem quaisquer custos adicionais para a Contratante. Para isso deverá implementar em seu ambiente as evoluções tecnológicas necessárias para a execução plena dos serviços contratados; 14.3 Dimensionar, por etapas, o esforço dos serviços necessários para a fabricação dos produtos, não cabendo, posteriormente, acréscimos nos preços contratados por conta de eventuais desconhecimentos das condições previstas no Contrato, Edital e seus Anexos; 14.4 Arregimentar profissionais especializados com conhecimento e experiência nas diversas áreas de tecnologia da informação inerentes ao objeto de cada Ordem de Serviço emitida. A Contratante reserva-se o direito de solicitar a qualquer momento as comprovações que se fizerem necessárias para verificação da especialização e experiência dos profissionais alocados; 14.5 Substituir, sempre que exigido pelo Gestor do Contrato, no prazo máximo de 30 (trinta) dias, qualquer um dos seus profissionais, cuja qualificação, atuação, permanência ou comportamento forem julgados prejudiciais, inconvenientes ou insatisfatórios à disciplina do órgão ou ao interesse do serviço público, decorrente da execução do serviço; 14.6 Adotar critérios adequados para o processo seletivo dos profissionais, com o propósito de evitar a incorporação de pessoas com características e/ou antecedentes que possam comprometer a segurança ou credibilidade da Contratante; 14.7 Responsabilizar-se integralmente pela sua equipe técnica, primando pela qualidade, desempenho, eficiência e produtividade, visando à execução dos trabalhos durante toda a vigência do Contrato, dentro dos prazos e condições estipulados, sob pena de ser considerada infração passível de aplicação de penalidades previstas contratualmente, caso os prazos e condições não sejam cumpridos; 14.8 Manter seus profissionais adequadamente trajados para o ambiente de trabalho na Contratante, com trajes em bom estado de conservação e portando crachá de identificação da Prestadora de Serviço, arcando com o ônus de sua confecção; 14.9 Responder por quaisquer prejuízos que seus profissionais causarem ao patrimônio da Contratante ou a terceiros, por ocasião da prestação dos serviços, procedendo imediatamente aos reparos ou indenizações cabíveis e assumindo o ônus decorrente; 14.10 Prestar as informações e os esclarecimentos que venham a ser solicitados pelos técnicos da Contratante referente a qualquer problema detectado ou ao andamento de atividades; 14.11 Utilizar as melhores práticas, capacidade técnica, materiais, equipamentos, recursos humanos e supervisão técnica e administrativa, para garantir a qualidade do serviço e o atendimento às especificações contidas no Contrato, Edital e seus Anexos; 14.12 Comunicar formal e imediatamente ao Gestor do Contrato, todas as ocorrências anormais ou de comprometimento da execução do serviço contratado; 14.13 Arcar com os salários e todos os encargos sociais trabalhistas, tributos de qualquer espécie que venham a ser devidos em decorrência da execução do serviço contratado, bem como custos relativos ao deslocamento e estada de seus profissionais, caso exista; 14.14 Manter sigilo, sob pena de responsabilidade civil, penal e administrativa, sobre todo e qualquer assunto de interesse da Contratante ou de terceiros de que tomar conhecimento em razão da execução do objeto do Contrato, respeitando todos os critérios estabelecidos, aplicáveis aos dados, informações e as regras de negócios, devendo orientar seus profissionais nesse sentido;
+10
+
+14.15 Garantir a qualidade dos produtos em suas características operacionais, de manutenção a novos ambientes e assegurar que esses sejam eficientes quanto ao desempenho e consumo de hardwares e softwares, de acordo com os requisitos definidos para os produtos; 14.16 Reparar, corrigir, remover e reconstruir, às suas expensas, no total ou em parte, os serviços efetuados referentes ao objeto em que se verifiquem vícios, defeitos ou incorreções resultantes da má execução; 14.17 Identificar qualquer equipamento de sua posse que venha a ser instalado nas dependências da Contratante, utilizando placas de controle patrimonial, selos de segurança, etc.; Cumprir as normas regulamentadoras da Medicina e Segurança no Trabalho; 14.18 Manter-se, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas na licitação; 14.19 Proibir a veiculação de publicidade ou qualquer outra informação acerca do objeto do Contrato, salvo se houver prévia autorização da Contratante.
+
+15
+
+DO PREÇO E DO REAJUSTE
+
+15.1 Os preços inerentes a execução do contrato serão os apresentados na proposta da licitante vencedora, que constarão do contrato e incluirão todas as despesas legais ou adicionais. 15.2 Os preços contratados serão fixos e irreajustáveis pelo período de um ano.
+
+15.3 Os preços contratados poderão ser reajustados, mediante negociação entre as partes e a formalização do pedido pela adjudicatária, tendo como limite máximo a variação do IGP/DI/FGV ocorrida nos últimos 12 (doze) meses, a contar da data da assinatura do Contrato ou do último reajuste. 15.4 A alegação de esquecimento por parte da adjudicatária quanto ao direito de propor reajuste não será aceita como justificativa para pedido de efeito retroativo à data a que legalmente faria jus, se não a requerer dentro do primeiro mês de aniversário do Contrato, responsabilizandose a adjudicatária pela própria inércia.
+
+16
+
+DOTAÇÃO ORÇAMENTÁRIA
+
+16.1 As despesas com a execução do contrato correrão à conta da seguinte Dotação Orçamentária: 25.000 - Ministério da Fazenda; Categoria Econômica: 339039 ­ Serviços Terceiros - Pessoa Jurídica; Orçamento Geral da União, para o exercício de 2010. 17 DO PAGAMENTO
+
+17.1 O pagamento será efetuado relativo a cada fase e, no caso dos serviços de Fábrica de Software, deve-se considerar ainda o pagamento relativo a cada etapa, e cada pagamento somente ocorrerá mediante recebimento definitivo pelo Gestor do Contrato dos produtos previstos para aquela fase ou etapa; 17.2 No caso da prestação de serviços referentes à Modelagem de Sistemas o valor será pago por OS será calculado pela multiplicação da quantidade de horas efetivamente trabalhas e formalmente comprovadas pela Prestadora de Serviço e aceitas pela Contratante pelo valor da hora de trabalho. Não será admitido o pagamento parcial por produto referente à determinada OS; 17.3 No caso da prestação de serviços referentes à fase de Fábrica de Software o valor a ser pago será calculado mediante a aplicação do percentual estabelecido na Tabela de Percentual
+11
+
+de Pagamento por Etapa (TPPE), pela multiplicação do Valor Unitário do Ponto de Função Bruto (VUPFB), ajustado pelos fatores de ajuste constantes na Tabela de Pontuação Tecnologia (PT) e Pontuação Tipo de Demanda (PTD), pelo quantitativo verificado na Análise de Ponto de Função Bruto (APFB) do produto: Pagamento = (VUPFB x APFB) * percentual de cada etapa * PT * PTD Etapa I II III IV V VI VII Nome da Etapa Levantamento de Requisitos Análise e Projeto Construção Homologação Implantação Transferência de Conhecimento Estabilização Percentual 20% 20% 30% 15% 5% 10% Pontuação Tecnologia (PT) 1 0,83
+
+Plataformas Tecnológicas Plataforma JAVA, JEE e J2ME. Plataforma Microsoft Windows DNA -Tecnologia Microsoft VB 6 Microsoft VB. NET, ASP, ASP.Net, C#.net, HTML, Zope Plone, LUMIS, XML, PHP, Pyton e JavaScript C#.Net,ASP.Net, Joomla, XML. Plataforma Delphi e PL/SQL Tipo de Demanda Desenvolvimento de novas funcionalidades Adequação de funcionalidades simples) / Manutenção Evolutiva Manutenção Corretiva (manutenções
+
+0,62
+
+0,83 Pontuação Tipo de Demanda (PTD) 1 0,80 0,00
+
+17.4 Os pagamentos serão glosados de acordo com as diferenças decorrentes entre as contagens de PFB e penalidades imputadas à Prestadora de Serviço durante a execução do Contrato; 17.5 Não será pago qualquer tipo de adicional a título de diárias, passagens, locomoção, alimentação, encargos e quaisquer outros não previstos no Contrato, Edital e seus Anexos. 17.6 O pagamento será efetuado pela Coordenação-Geral de Recursos Logísticos, em moeda corrente, por meio de Ordem Bancária, até o 5o (quinto) dia útil, a partir da data de ateste da Nota Fiscal/Fatura. 17.7 A Nota Fiscal/Fatura deverá ser emitida pela própria Contratada, obrigatoriamente com o número de inscrição do CNPJ apresentado nos documentos de habilitação e da proposta e na Ata de Registro de Preços, não se admitindo Notas Fiscais/Faturas emitidas com outros CNPJ´s, mesmo aqueles de filiais ou da matriz.
+12
+
+17.8 Executados os serviços a CONTRATANTE pagará à Contratada o valor correspondente aos serviços demandados e concluídos, após a Fiscalização atestar a sua conclusão. 17.9 Quando do pagamento à CONTRATADA, será feita a verificação de sua regularidade junto ao SICAF. 17.10 Constatada a situação de irregularidade da CONTRATADA junto ao SICAF, será a mesma advertida, por escrito, no sentido de que regularize sua situação junto a tal Sistema ou apresente sua defesa. 17.11 Não será efetuado qualquer pagamento à CONTRATADA enquanto houver pendência de liquidação de obrigação financeira, em virtude de penalidade ou inadimplência contratual. 17.12 A critério da CONTRATANTE, poderão ser utilizados os pagamentos devidos para cobrir possíveis despesas com multas, indenizações ou outras de responsabilidade da CONTRATADA. 17.13 Serão retidos na fonte os tributos e contribuições sobre os pagamentos efetuados, utilizando-se as alíquotas previstas nas Instruções Normativas SRF nº 480, de 15/12/2004 e nº 539, de 25/04/2005. 18 DAS MULTAS E SANÇÕES ADMINISTRATIVAS
+
+18.1. Com fundamento no art. 7º da Lei nº 10.520/2002 e nos artigos 86 e 87 da Lei no 8.666/1993, a CONTRATADA ficará sujeita, no caso de atraso injustificado, assim considerado pela Administração, execução parcial ou inexecução da obrigação, sem prejuízo das responsabilidades civil e criminal, assegurada a prévia e ampla defesa, às seguintes penalidades: I. Advertência ou multa, observado o quadro abaixo: TABELA DE REFERÊNCIA PARA MULTA / POR PROJETO DESCRIÇÃO a.1) a.2) Descumprir item contratual Suspender ou interromper, salvo motivo de força maior ou caso fortuito, os serviços solicitados, sem comunicação formal à STN Manter empregado sem qualificação para executar os serviços contratados Acumular 3 (três) advertências a.4) Deixar de substituir empregado conforme dispõem exigências estabelecidas no Termo de Referência Índice de Descumprimento de Cronograma -IDC maior que 0 (zero) e menor ou igual a 0,03 Índice de Descumprimento de Cronograma -IDC maior que 0,03
+13
+
+REFERÊNCIA Por ocorrência
+
+PENALIDADE Advertência Multa de 0,5% sobre o valor da etapa do projeto Multa de 0,5% sobre o valor da etapa do projeto Multa de 0,5% sobre o valor médio da etapa dos projetos envolvidos Multa de 0,1% sobre o valor da etapa do projeto Advertência Multa de ((IDC / 3) * valor da etapa do projeto), limitado ao valor da etapa
+
+Por ocorrência
+
+a.3)
+
+Por ocorrência Por ocorrência
+
+Por dia Por etapa do projeto Por etapa do projeto
+
+a.5) a.6)
+
+a.7)
+
+a.8)
+
+Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,03 e menor ou igual a 0,05 Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,05 e menor ou igual a 0,15
+
+Por etapa do projeto
+
+Advertência Multa de 2% do valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência. Multa de 5% do valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência Advertência Multa de 2% do valor da etapa de Estabilização do projeto Advertência Multa de 2% valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência. Multa de 5% valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência Advertência Multa de 2% valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência.
+
+a.9)
+
+Por etapa do projeto
+
+a.10)
+
+Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,15 Índice de Descumprimento de Prazo de Chamados Técnicos -IDPCT maior que 0,1 e menor ou igual a 0,3 Índice de Descumprimento de Prazo de Chamados Técnicos -IDPCT maior que 0,3 Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,05 e menor ou igual a 0,1 Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,1 e menor ou igual a 0,2 Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,2
+
+Por etapa do projeto
+
+Por aferição
+
+a.11)
+
+Por aferição
+
+a.12)
+
+Por etapa
+
+a.13)
+
+a.14)
+
+Por etapa
+
+a.15)
+
+Por etapa
+
+a.16)
+
+Índice de Desconformidade de Qualidade de Produto -IDQP maior que 0,3 e menor ou igual a 0,5 Índice de Desconformidade de Qualidade de Produto -IDQP maior que 0,5
+
+Por etapa
+
+a.17)
+
+Por etapa
+
+II. Multa de 0,03% ao dia sobre o valor total anual estimado, no caso de atraso injustificado para atendimento dos prazos estabelecidos pela Administração para apresentação de documentos ou para devolução de instrumentos contratuais e seus aditivos, se for o caso; III. Multa de 2% sobre o valor total anual estimado, no caso de inexecução parcial da obrigação assumida; IV. Multa de 5% sobre o valor total anual estimado, no caso de inexecução total da obrigação assumida; V. Suspensão temporária do direito de participar de licitação e impedimento de contratar com o Ministério da Fazenda, pelo prazo de até 2 (dois) anos; e VI.Declaração de inidoneidade para licitar ou contratar com a Administração Pública.
+
+14
+
+18.2 O valor da multa, aplicada após o regular processo administrativo, será descontado de pagamentos eventualmente devidos pelo CONTRATANTE à CONTRATADA ou cobrado judicialmente; 18.3 As sanções previstas nas alíneas "a", "e" e "f" desta cláusula poderão ser aplicadas, cumulativamente ou não, à pena de multa; e 18.4 As penalidades previstas nas alíneas "e" e "f" desta cláusula também poderão ser aplicadas à CONTRATADA que tenha sofrido condenação definitiva por fraudar recolhimento de tributos, praticar ato ilícito visando a frustrar os objetivos de licitação ou demonstrar não possuir idoneidade para contratar com a Administração. 19 DA FORMALIZAÇÃO DA ATA DE REGISTRO DE PREÇOS
+
+19.1 Homologada a licitação será formalizada a Ata de Registro de Preços com as licitantes classificadas em primeiro lugar, em cada item. 19.2 A Licitante vencedora será convocada para, no prazo de cinco dias úteis, contados da ciência da convocação, assinar a Ata de Registro de Preços. Em caso de recusa injustificada, serlhe-á aplicado o disposto no subitem 18.2 deste Edital. 19.2.1 No ato da convocação será informado o preço unitário de cada item, que constará da Ata. 19.3 Se a Licitante vencedora não assinar a Ata de Registro de Preços no prazo estabelecido, o Pregoeiro convocará as licitantes remanescentes, na ordem de classificação, para fazê-lo em igual prazo, atendidos os requisitos determinados neste Edital, independentemente da cominação prevista no item 18 deste Edital. 20 DOS USUÁRIOS DA ATA DE REGISTRO DE PREÇOS
+
+20.1 Durante sua vigência, a Ata de Registro de Preços poderá ser utilizada por qualquer órgão ou entidade da Administração que não tenha participado desta licitação, mediante prévia consulta à Coordenação-Geral de Recursos Logísticos do Ministério da Fazenda, e desde que devidamente comprovada a vantagem, não podendo exceder, por órgão ou entidade, a 100% (cem por cento) dos quantitativos registrados. 20.2 Caberá às licitantes beneficiárias da Ata de Registro de Preços, observadas as condições estabelecidas, optarem pela aceitação ou não do fornecimento, independentemente dos quantitativos registrados na Ata e desde que esse fornecimento não prejudique as obrigações assumidas. 20.3 No caso de a licitante registrada para cada item, atingir o limite de fornecimento estabelecido na Ata de Registro de Preços, será indicada a segunda e assim sucessivamente, podendo ser indicadas mais de uma ao mesmo tempo, quando o quantitativo do pedido for superior a capacidade da licitante indicada.
+
+21
+
+DA VIGÊNCIA DA ATA DE REGISTRO DE PREÇOS
+
+21.1 O prazo de vigência da Ata de Registro de Preços decorrente desta Licitação, será de 12 (doze) meses, a contar da homologação da licitação.
+
+22
+
+DA RESCISÃO DO CONTRATO
+
+22.1 O contrato poderá ser rescindido pelos motivos especificados nos artigos 77 e 78, da Lei nO 8.666, de 21 de junho de 1993 e nas formas previstas no art. 79, da mesma lei.
+15
+
+23
+
+DAS DISPOSIÇÕES GERAIS
+
+23.1 Não serão permitidos quaisquer adendos, acréscimos ou retificações aos documentos e propostas depois de apresentados, ressalvado o disposto no subitem 23.2 deste Edital. 23.2 Poderão ser solicitados de qualquer licitante, informações, documentos ou esclarecimentos complementares, a critério do Pregoeiro, quando em uso da faculdade prevista no § 30 do artigo 43 da Lei nO 8.666, de 21 de junho de 1993. 23.3 Nenhuma indenização será devida às licitantes pela elaboração de propostas e/ou apresentação de documentos relativos ao presente Edital. 23.4 Na contagem dos prazos estabelecidos, excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-se-ão os dias consecutivos, exceto quando for explicitamente disposto em contrário. Os prazos referidos só se iniciam e vencem em dia de expediente na COGRL. 23.5 Na hipótese de não haver expediente no dia útil marcado para início da sessão pública da presente licitação, ficará esta transferida para o primeiro dia útil subseqüente. 23.6 A COGRL poderá revogar a presente licitação por razões de interesse público decorrente de fato superveniente devidamente comprovado, ou anulá-la por ilegalidade de ofício ou provocação de terceiros, mediante parecer escrito e devidamente fundamentado, não cabendo às licitantes direito a indenização. 23.7 No caso de alteração deste Edital, no curso do prazo estabelecido para o recebimento das propostas e dos documentos de habilitação, este prazo será reaberto, exceto quando, inquestionavelmente, a alteração não afetar a formulação das propostas. 23.8 O Pregoeiro poderá desclassificar proponentes por ato fundamentado, sem direito à indenização ou ressarcimento e sem prejuízo de outras sanções cabíveis, caso comprove qualquer fato que desabone a idoneidade financeira, capacidade técnica ou administrativa desses proponentes. 23.9 As licitantes são responsáveis pela fidelidade e legitimidade das informações e dos documentos apresentados em qualquer fase da licitação. 23.10 A apresentação de declaração falsa relativa ao cumprimento dos requisitos de habilitação e proposta sujeitará a licitante as penalidades estabelecidas neste Edital, conforme disposto no §30, do Art. 21, do Decreto nO 5.450, de 31 de maio de 2005. 23.11 Após apresentação da proposta, não caberá desistência, salvo por motivo justo decorrente de fato superveniente e aceito pelo Pregoeiro. 23.12 A Contratada ficará obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessários, até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato. 23.13 Cópia do Edital e seus Anexos, serão disponibilizados na INTERNET por meio do sítio www.comprasnet.gov.br. 23.14 Os casos omissos serão resolvidos pelo Coordenador-Geral de Recursos Logísticos do Ministério da Fazenda. 23.15 Para dirimir as questões oriundas do presente Edital e futuro contrato, será competente o foro da Justiça Federal - Seção Judiciária do Distrito Federal.
+16
+
+23.16
+
+São parte integrante deste Edital os anexos abaixo relacionados:
+
+Anexo I ­ Termo de Referência; Anexo II ­ Declaração de Elaboração Independente de Proposta Anexo III ­ Minuta da Ata de Registro de Preços Anexo IV ­ Minuta de Contrato.
+
+Brasília, 23 de agosto de 2010.
+
+................................................... MÁRIO FERREIRA ALVES Pregoeiro da Coordenação-Geral de Recursos Logísticos
+
+17
+
+MINISTÉRIO DA FAZENDA Secretaria Executiva Subsecretaria de Planejamento, Orçamento e Administração Coordenação-Geral de Recursos Logísticos
+
+ANEXO I DO PREGÃO ELETRÔNICO NO 28/2010 TERMO DE REFERÊNCIA 1. DO OBJETO Contratação de empresa para prestação de Serviços Técnicos para o desenvolvimento e manutenção de sistemas de informação, sítios e portais na forma de serviços continuados, conforme as especificações e condições estabelecidas neste Termo de Referência. As demandas serão encaminhadas mediante Ordens de Serviço (OS). Esse serviço será estruturado em fases, quais sejam: Modelagem de Sistemas e Fábrica de Software. Para a primeira fase, Modelagem de sistemas, as Ordens de Serviço serão dimensionadas por horas de trabalho, pagas por produto aceito, e para a segunda fase, Fábrica de Software, as Ordens de Serviço serão dimensionadas pela técnica de contagem de Pontos por Função Brutos ­ PFB, pagas por produto aceito e homologado. O quantitativo estimado está descrito conforme quadro abaixo. As fases do serviço poderão ser contratadas de maneira independente e isolada, a critério da Contratante. A contratação de serviços referentes à fase de Modelagem de Sistemas não obriga ou vincula a Contratante a contratar serviços referentes à fase de Fábrica de Software. A contratação de serviços referentes à fase de Fábrica de Software não depende e não está condicionada à contratação de serviços referentes à fase de Modelagem de Sistemas. A fase de Fábrica de Software será estruturada em etapas, conforme descritas nesse Termo de Referência, e poderão, de maneira análoga às fases do serviço, ser contratadas de maneira independente, a critério da Contratante. O prazo da prestação de serviço será de 12 (doze) meses, podendo ser prorrogado por iguais e sucessivos períodos até o limite de 60 (sessenta) meses. O quadro abaixo deverá ser observado:
+
+SERVIÇO
+
+FASE
+
+QTDE ANUAL ESTIMADA
+
+UNIDADE DE MEDIDA
+
+DESCRIÇÃO
+
+VALOR UNITÁRIO MÁXIMO ADMITIDO (R$)
+
+VALOR TOTAL ANUAL ESTIMADO MÁXIMO ADMITIDO (R$)
+
+1
+
+Modelage m de sistemas Fábrica de software
+
+1.000
+
+5.000
+
+Secretaria do Tesouro Nacional - STN Prestação de serviços técnicos de consultoria Horas de Trabalho em modelagem de sistemas de informação Prestação de serviços Pontos de Função técnicos de Fábrica de Brutos Software. Prestação de serviços técnicos de consultoria em modelagem de sistemas de informação Prestação de serviços técnicos de Fábrica de Software.
+
+156,77
+
+156.770,00
+
+634,77
+
+3.173.850,00
+
+Subsecretaria de Planejamento, Orçamento e Administração - SPOA Modelage m de sistemas Fábrica de software 1.500 Horas de Trabalho
+156,77 235.155,00
+
+2
+
+4.500
+
+Pontos de Função Brutos
+
+634,77
+
+2.856.465,00
+
+Procuradoria-Geral da Fazenda Nacional - PGFN
+
+18
+
+3
+
+Modelage m de sistemas Fábrica de software
+
+5.000
+
+Horas de Trabalho
+
+5.000
+
+Pontos de Função Brutos
+
+Prestação de serviços técnicos de consultoria em modelagem de sistemas de informação Prestação de serviços técnicos de Fábrica de Software.
+
+156,77
+
+783.850,00
+
+634,77
+
+3.173.850,00
+
+2. DISPOSIÇÕES INICIAIS 2.1. Considerar-se-á, para efeitos desta contratação, os sistemas de informação, sítios e portais, bem como os artefatos gerados em cada etapa, como produtos requeridos pela Contratante à Prestadora de Serviço; 2.2. A métrica a ser utilizada para a estimativa de tamanho dos produtos é Pontos de Função Brutos (PFB) não ajustados, normatizada no Manual de Práticas e Contagens versão 4.2 (Counting Practices Manual -Release 4.2), ou posterior, publicado pelo IFPUG (International Function Point Users Group), e disponibilizado no Brasil pelo BFPUG (Brazilian Function Points Users Group); 2.3. Será utilizado o instrumento de Ordem de Serviço (OS) como ferramenta de demanda à Prestadora de Serviço. Servirá também para o acompanhamento e homologação dos serviços prestados; 2.4. Entende-se por Projeto, uma ou um conjunto de Ordens de Serviço composto por uma OS principal e outras adicionais; 2.5. Não há previsão quanto à distribuição das solicitações de OS ao longo dos meses, sendo responsabilidade da Prestadora de Serviço ajustar-se com vistas ao atendimento dos serviços solicitados pela Contratante de acordo com os prazos e condições estabelecidos neste Termo de Referência; 2.6. O cumprimento de indicadores de qualidade e desempenho será exigido para garantir a entrega dos produtos dentro de critérios de qualidade pré-definidos neste Termo de Referência.
+
+3. ESCOPO Os produtos a serem desenvolvidos pela Prestadora de Serviço e entregues à Contratante, deverão apresentar os seguintes elementos: a) integrar com as bases de dados informatizadas existentes no ambiente da Contratante. Essas bases são alimentadas por sistemas internos e de terceiros, as quais poderão ser aferidas quando da visita técnica. As bases de dados pertencem aos sistemas corporativos desta Secretaria e são gerenciadas pelo Banco de Dados Oracle 10G, MySQL 5.0 e PostgreSQL 8.3 ou versões superiores desses bancos. Deverá ser evitada a redundância de dados na base de dados corporativa; b) oferecer sistemas modulares, quando necessário; c) utilizar os recursos tecnológicos existentes no mercado, a depender de demanda formulada por ocasião da Ordem de Serviço. Os recursos tecnológicos deverão ser aqueles necessários para a fabricação dos produtos de forma a atender as especificidades de cada demanda, utilizando-se como premissa a arquitetura, o ambiente tecnológico descrito neste Termo de Referência, considerando, também, suas evoluções e aprimoramentos. Devem ser empregadas tecnologias como GED/ECM, certificação digital, computação móvel, CBS ­ Computação Baseada em Servidor, Data Warehouse, Workflow, arquitetura orientada a serviços, dentre outras; d) estar de acordo com as normas de acessibilidade previstas no Decreto nº 5.296 de 2/12/2004, para Internet e Intranet;
+19
+
+e) ter por referência a cartilha de usabilidade de sítios e portais do Governo Federal, disponível no sítio www.governoeletronico.gov.br. f) utilizar para o desenvolvimento e manutenção dos produtos, as boas práticas definidas no PMBOK, ITIL, CMMI, MPS-BR, NBR ISO/IEC 17799, ISO/IEC 15408, ISO/IEC 20.000, ISO/IEC 12207, ISO/IEC 15504 e ISO/IEC 14143, ISO/IEC 25000, ISO/IEC 9126-1, dentre outros pertinentes.
+
+4. FORMA DA PRESTAÇÃO DE SERVIÇO 4.1. Forma de Execução 4.1.1. A Prestadora de Serviço deverá entregar os produtos requeridos pela Contratante conforme especificidades, quantidades, prazos e demais condições estabelecidas neste Termo de Referência; 4.1.2. O modelo de prestação de serviço será por solicitação, ou seja, a Prestadora de Serviço receberá da Contratante uma Ordem de Serviço para a elaboração dos produtos; 4.1.3. Nesse modelo de contratação não se caracteriza a subordinação direta e nem pessoalidade visto que: a. não se requer a exclusividade, pois não há óbice ao compartilhamento de qualquer profissional com outros contratos que porventura a Prestadora de Serviço possua; b. não haverá controle de freqüência ou de número de horas de presença nas dependências da Contratante; c. não haverá qualquer relação de subordinação jurídica entre os profissionais da equipe da Prestadora de Serviço e a Contratante. 4.1.4. A prestação de serviço não é baseada em posto de trabalho; 4.1.5. A prestação de serviço deverá ser iniciada em até 30 (trinta) dias, a contar da assinatura do Contrato; 4.1.6. A Prestadora de Serviço deverá disponibilizar, em até 30 (trinta) dias, a contar da assinatura do Contrato, um sistema WEB que forneça informação detalhada do andamento da execução dos serviços demandados. O acesso a estas informações deve ser protegido por senha e conexão segura ou outro método equivalente. O sistema deverá fornecer funcionalidades para calcular os Indicadores de Qualidade e Desempenho. Este sistema será submetido à avaliação da equipe técnica da Contratante, que poderá, a qualquer tempo, solicitar ajustes e/ou modificações de forma a adequá-lo às suas necessidades; 4.1.7. A Prestadora de Serviço deverá disponibilizar, em até 30 (trinta) dias, a contar da assinatura do Contrato, um sistema WEB para abertura, acompanhamento e fechamento dos chamados técnicos. O sistema deverá fornecer funcionalidades para calcular os Indicadores de Qualidade e Desempenho. Este sistema será submetido à avaliação da equipe técnica da Contratante, que poderá, a qualquer tempo, solicitar ajustes e/ou modificações de forma a adequá-lo às suas necessidades; a. O sistema deverá manter, para cada chamado: identificação do projeto, OS relacionada, etapa, data e hora de abertura do chamado, início e término do atendimento, identificação do problema, solução adotada para o saneamento, técnicos responsáveis e outras informações pertinentes; b. O sistema deverá ter funcionalidade de consulta consolidada e detalhada das informações mantidas; c. O acesso ao sistema deverá ser protegido, no mínimo, por senha;
+20
+
+d. O sistema, bem como a base de dados, deverá ser instalado no ambiente da Contratante, que terá acesso irrestrito às informações mantidas pelo sistema; 4.1.8. A Contratante, por meio da sua área funcional responsável por Tecnológica da Informação, disponibilizará sua equipe técnica para participar e acompanhar todas as etapas dos serviços em execução; 4.1.9. Os produtos deverão ser elaborados, fabricados ou evoluídos de maneira a permitir sua perfeita integração aos sistemas de informação, sítios e portais existentes no ambiente da Contratante, buscando a eliminação de redundâncias, a integridade das informações e o reuso de objetos, classes e componentes. 4.2. Arquitetura a ser utilizada Na fabricação dos produtos, a Prestadora de Serviço deverá observar as especificações a seguir indicadas: 4.2.1. Desenvolver sobre o paradigma de orientação a objetos, quando a arquitetura de implementação assim o permitir; 4.2.2. Nos casos de implementação da plataforma JAVA, utilizar arquitetura J2EE e a framework da Contratante, que poderá ser conhecida quando da visita técnica; 4.2.3. Utilizar a arquitetura MVC (Model-View-Controller); 4.2.4. Quando for pertinente, utilizar padrões de implementação Gof (Gang Of Four) e/ou J2EE Patterns; 4.2.5. Funcionar utilizando LAN e WAN sob protocolo TCP/IP; 4.2.6. Armazenar informações originadas do sistema de informação, sítio ou portal em base de dados local para acompanhamento, consistência, integridade referencial e histórico; 4.2.7. Todo sistema de informação, sítio ou portal a ser desenvolvido em plataforma WEB, deverá utilizar os recursos de Single Sign-on; 4.2.8. Construir os componentes da camada de persistência de forma independente dos recursos específicos do banco de dados, garantindo o perfeito funcionamento do sistema de informação, sítio ou portal em caso de mudança do SGBD da Contratante durante o período de estabilização; 4.2.9. Os componentes de negócio desenvolvidos serão, na maioria dos casos, de uso comum em qualquer sistema de informação, sítio ou portal; 4.2.10. Funcionar utilizando, no mínimo, navegadores Internet Explorer (Microsoft) e Firefox (Mozila), nas versões em uso na Contratante; 4.2.11. Todo sistema de informação, sítio ou portal a ser desenvolvido em plataforma WEB, deverá utilizar os recursos de autenticação do middleware de controle de acesso da Contratante; 4.2.12. A Prestadora de Serviço deverá seguir integralmente os padrões definidos e utilizados pela Contratante para estrutura de pacotes, nomenclaturas de classes, numeração das versões, telas, leiaute web e administração de dados na fabricação do sistema de informação, sítio ou portal. Os padrões poderão ser conhecidos quando da visita técnica; 4.2.13. A Contratante poderá, a qualquer tempo, e dentro de suas conveniências técnicas, modificar a arquitetura tecnológica aqui descritas. 4.3. Aspectos Metodológicos
+
+21
+
+4.3.1. A Prestadora de Serviço poderá aplicar metodologia de desenvolvimento de software própria, desde que gere os artefatos exigidos no Anexo C do Termo de Referência; 4.3.2. Modelo de Equipe ­ a Prestadora de Serviço deverá especificar o papel de cada profissional envolvido; 4.3.3. Modelo de Documentação ­ a Prestadora de Serviço deverá utilizar técnica de modelagem orientada a objetos, usando notação UML (Unified Modeling Language), a qual servirá para complementar a documentação do sistema de informação, sítio ou portal. Para esta função, deverá ser utilizado a ferramenta Enterprise Architect, com geração de documentação na notação UML 2.0, ou superior; 4.3.4. Modelo de Dados ­ para esta função, a Contratante utiliza a ferramenta Power Design; 4.3.5. Acompanhamento das tarefas do projeto ­ planejamento e registro do acompanhamento, controle e distribuição das tarefas entre os membros da equipe com informes semanais da sua situação. Para esta função, a Contratante utiliza o software para gerenciamento de projetos MS Project; 4.3.6. Sistema para controle de Versões, Modelos e Componentes ­ para esta função, a Contratante utiliza a ferramenta SVN -SubVersion; 4.3.7. Padrões de implementação -Validação dos padrões de implementação Gof (Gang Of Four) e/ou JEE Patterns que serão utilizados na produção de código-fonte; 4.3.8. Padrões de Nomenclaturas - deverão ser utilizados os padrões de nomenclaturas para os objetos de banco de dados e codificação, definidos pela Contratante; 4.3.9. Outras fases da metodologia ­ Testes dos componentes desenvolvidos e concluídos em seu ambiente devem ser efetuados antes de serem encaminhados à Contratante para homologação e validação, com a respectiva documentação completa de configuração dos produtos; 4.3.10. Para os subitens 4.3.4, 4.3.5 e 4.3.6, a Prestadora de Serviço deverá utilizar preferencialmente os softwares relacionados pela Contratante. Caso não seja possível, poderá utilizar outros softwares desde que os artefatos finais gerados e entregues sejam compatíveis e integráveis com os softwares do ambiente da Contratante. Entenda-se por "compatíveis e integráveis" os artefatos entregues que não requeiram intervenção manual para ajustes, adequações e/ou configurações por parte dos técnicos da Contratante, para torná-los acabados e prontos para utilização; 4.3.11. Modelo de Classes ­ deverão ser utilizadas as classes já existentes e definidas pela Contratante. Novas classes deverão ser submetidas à avaliação por parte da equipe técnica da Contratante; 4.3.12. O sistema de informação, sítio ou portal a ser desenvolvido deverá seguir diretrizes de segurança, inclusive as estabelecidas na política e normas estabelecidas pela Contratante; 4.3.13. A integração com outro sistema de informação, sítio ou portal e interoperação entre esses, mesmo que externos à Contratante, deverá ser realizada, sempre que tecnicamente viável, por intermédio de WebServices, seguindo os padrões estabelecidos pelos Padrões de Interoperabilidade de Governo Eletrônico (e-Ping), disponível em http://www.eping.e.gov.br ), nos termos da IN nº 04/2008; Os manuais do sistema de informação, sítio e portal a serem desenvolvidos ou evoluídos deverão estar de acordo com os padrões de editoração adotados pela Contratante, os quais poderão ser conhecidos quando da visita técnica. Os manuais e demais documentos originados nas etapas de construção, deverão ainda ser atualizados permanentemente pela Prestadora de Serviço até o encerramento da Etapa de Estabilização.
+
+22
+
+4.4. Ambiente Computacional da Contratante 4.4.1. Para atender às demandas dos serviços, a Prestadora de Serviço deverá tornar disponível, em suas instalações, ambiente compatível com a necessidade de requisitos, análise, projeto e Construção de sistema de informação, sítio ou portal nas diversas áreas de tecnologia da informação, bem como ambiente de testes. Assim os produtos deverão ser compatíveis ainda com as seguintes características: a. Sistemas Operacionais: MS Windows 2000 Server, MS Windows 2003 Server, UnixSolaris 10, Red Hat Linux Enterprise 5, Debian 5 ­ Lenny, MS Windows XP, MS Windows Vista e MS Windows 7; Linguagens de Desenvolvimento / Softwares utilizados: JAVA, JAVAScript, HTML, Oracle, PL/SQL, Suíte Borland Application LifeCycle, PHP, ASP, MS-Visual Basic.Net, DELPHI, C#.Net,ASP.Net, Joomla, XML; SGBD: Banco de Dados Oracle 10G, My-SQL 5.0 e PostgreSQL 8.3 e MS SQL Server 2000; Servidor de Aplicação: JBoss 4.3, JBoss ESB 4.3, Apache e IIS.
+
+b.
+
+c. d.
+
+5. VIGÊNCIA 5.1. O período de vigência do Contrato deverá ser de 12 (doze) meses, a contar de sua assinatura, podendo ser prorrogado por iguais e sucessivos períodos até o limite de 60 (sessenta) meses;
+
+5.2.
+
+Na hipótese de eventual prorrogação do Contrato, nos termos da Lei, poderá ser admitido o reajuste de preços para a manutenção do equilíbrio econômico-financeiro da contratação, observadas as condições estabelecidas em Contrato.
+
+6. Gestão da Prestação de Serviços 6.1. Papéis e Responsabilidades A execução do serviço almejado pressupõe a existência dos seguintes papéis e responsabilidades: Patrocinador do Projeto: é o servidor formalmente designado pela Contratante, responsável por representar seus interesses no contexto da presente prestação de serviço, pela aprovação da necessidade, dos objetivos e, por fim, pela negociação das ações necessárias para a melhoria da Governança de TI; Gestor do Contrato da Contratante: é o servidor formalmente designado pela Contratante, responsável pelo acompanhamento e pela fiscalização da execução contratual e, ainda, pela verificação dos resultados pretendidos e pelo recebimento definitivo dos produtos; Líder Técnico: é o profissional da Contratante envolvido diretamente no recebimento dos produtos e na prestação de serviço. É responsável pelo acompanhamento das atividades previstas nas Ordens de Serviço, acompanhamento técnico-operacional e de chamados, bem como pelo fornecimento de subsídios necessários à atestação dos
+23
+
+produtos e serviços. O líder técnico pode ser apoiado por equipe técnica da Contratante; Interlocutor da Prestadora de Serviço: profissional indicado pela Prestadora de Serviço, responsável pela coordenação operacional da execução do serviço contratado e pela interlocução com o Gestor do Contrato da Contratante. Os requisitos de qualificação técnica desse profissional estão especificados no Anexo B do Termo de Referência; Gerente de Projeto: profissional indicado pela Prestadora de Serviço para representá-la tecnicamente e responder pela coordenação operacional das atividades previstas nos projetos, de forma a solucionar qualquer dúvida, conflito ou desvio técnicos que possa comprometer a execução das Ordens de Serviços (OS) e do Plano de Desenvolvimento de Sistema (PDS). Os requisitos de qualificação técnica desse profissional estão especificados no Anexo B do Termo de Referência; Equipe Técnica da Prestadora de Serviço: são os profissionais envolvidos diretamente na prestação dos serviços e execução das etapas. Serão os responsáveis por desempenhar atividades sob sua competência. Os requisitos de qualificação técnica desses profissionais estão especificados no Anexo B do Termo de Referência; 6.2. Iniciação do Serviço 6.2.1. Reunião de Alinhamento de Expectativas
+
+6.2.1.1.
+
+Deverá ser realizada uma reunião de alinhamento com o objetivo de identificar as expectativas, nivelar os entendimentos acerca das condições estabelecidas no Contrato, Edital e seus Anexos, e esclarecer possíveis dúvidas acerca da execução dos serviços; Deverão participar dessa reunião, no mínimo, o Gestor do Contrato da Contratante, membro(s) da equipe técnica da Contratante e Interlocutor da Prestadora de Serviço; A reunião realizar-se-á na sede da Contratante em até 48 (quarenta e oito) horas após a assinatura do Contrato, conforme agendamento efetuado pelo Gestor do Contrato; Nessa reunião a Prestadora de Serviço deverá apresentar oficialmente seu Interlocutor e fornecer as respectivas comprovações acerca dos requisitos de qualificação exigidos no Anexo B do Termo de Referência; A Prestadora de Serviço deverá apresentar à Contratante o seu modelo e infra-estrutura de fabricação de software antes do início da execução dos serviços contratados; A Contratante poderá, a qualquer momento, realizar inspeção técnica nas dependências da Prestadora de Serviço para verificar o andamento dos trabalhos solicitados e analisar conformidades definidas neste Termo de Referência; A Prestadora de Serviço cumprirá as instruções complementares da Contratante quanto à execução e horário de realização do serviço, permanência e circulação de seu(s) técnico(s) nas dependências da Contratante;
+
+6.2.1.2.
+
+6.2.1.3.
+
+6.2.1.4.
+
+6.2.1.5.
+
+6.2.1.6.
+
+6.2.1.7.
+
+6.2.2. Confidencialidade da Informação e Propriedade Intelectual
+
+6.2.2.1.
+
+A Prestadora de Serviço deverá manter sigilo, sob pena de responsabilidade
+24
+
+civil, penal e administrativa, sobre todo e qualquer assunto de interesse da Contratante ou de terceiros de que tomar conhecimento em razão da execução do Contrato, respeitando todos os critérios estabelecidos, aplicáveis aos dados, informações, regras de negócios, documentos, entre outros pertinentes; 6.2.2.2. A presente contratação implica em necessidade de cessão de direitos autorais dos produtos entregues. Sendo assim, todos os produtos desenvolvidos pela Prestadora de Serviço deverão ser entregues à Contratante, que terá o direito de propriedade sobre os produtos, sendo vedada qualquer comercialização por parte da prestadora; A Contratante, para todos os efeitos da aplicação da Lei nº. 9.609/98, que dispõe sobre a proteção da propriedade intelectual de programa de computador, e regulamentos correlatos, é o único proprietário dos produtos entregues pela Prestadora de Serviço; A Contratante terá o direito de propriedade intelectual dos produtos, bem como dos artefatos gerados nas etapas de fabricação, de forma permanente, permitindo a mesma, a qualquer tempo, distribuir, alterar e utilizar os produtos sem limitações de licenças restritivas;
+
+6.2.2.3.
+
+6.2.2.4.
+
+6.3. Planejamento da Execução 6.3.1. A Contratante irá elaborar Plano de Demandas (PD) semestral objetivando apresentar à Prestadora de Serviço suas expectativas de fabricação de sistema de informação, sítio ou portal durante o período de vigência contratual, que poderá ser revistos periodicamente a critério da contratante; 6.3.2. A execução do Contrato seguirá uma metodologia de trabalho baseada no conceito de Delegação de Responsabilidades. À Contratante caberá a definição das demandas e a gestão qualitativa dos resultados a serem obtidos por meio das atividades desenvolvidas dentro dos prazos e produtos acordados. À Prestadora de Serviço caberá a responsabilidade pela execução operacional dos serviços, por meio do gerenciamento dos seus recursos humanos e técnicos. 6.4. Execução do Serviço
+
+6.4.1. Local da Execução 6.4.1.1. O serviço deverá ser prestado preferencialmente por Fábrica de Software certificada (CMM/CMMi/MPS-Br), ou unidade que execute os processos com os mesmos níveis de qualidade e desempenho da Fábrica certificada; Os serviços referentes à fase de Modelagem de Sistemas de informação deverão ser realizados nas dependências da Contratante; Os serviços referentes à fase Fábrica de Software deverão ser estruturados em etapas e realizados conforme descritos na tabela abaixo:
+
+6.4.1.2. 6.4.1.3.
+
+Etapa I II III
+
+Nome da Etapa Levantamento de Requisitos Análise e Projeto Construção
+25
+
+Local da Prestação do Serviço Dependências da Contratante ou naquelas por ela indicada Dependências da Prestadora de Serviço Dependências da Prestadora
+
+de Serviço IV V VI VII Homologação Implantação Transferência de Conhecimento Estabilização Dependências da Contratante ou naquelas por ela indicada Dependências da Contratante ou naquelas por ela indicada Dependências da Contratante ou naquelas por ela indicada Dependências da Contratante ou naquelas por ela indicada
+
+6.4.2. Encaminhamento e Controle das Solicitações a. Todo e qualquer serviço somente será executado mediante uma Ordem de Serviço (OS) emitida pela Contratante. As OS's serão definidas e contemplarão os serviços, as fases, as etapas, o detalhamento dos serviços, as atividades previstas, os padrões a serem seguidos, bem como demais informações técnicas necessárias para a execução dos serviços por parte da Prestadora de Serviço; Os serviços serão autorizados pela Contratante dentro do quantitativo de horas e de pontos de função brutos disponíveis contratualmente. Depois de identificadas as demandas, o Gestor do Contrato encaminhará a OS para a Prestadora de Serviço, bem como demais documentos técnicos necessários para análise da demanda; Para o caso dos serviços referentes à fase de Fábrica de Software a Contratante definirá quais etapas serão objeto da OS, uma vez que existirão demandas que não necessitarão da execução de todas as etapas definidas neste Termo de Referência. A Prestadora de Serviço será remunerada pelas etapas definidas na OS, de acordo com os percentuais estabelecidos na Tabela de Percentual de Pagamento por Etapa (TPPE); Cada demanda da Contratante deverá ser construída atendendo às especificações recebidas, de acordo com a arquitetura, aspectos metodológicos, estrutura, padrões, melhores práticas, entre outros especificados neste Termo de Referência e na OS; Após a análise da OS emitida, a Prestadora de Serviço deverá apresentar à Contratante, em um prazo de, no máximo, 15 (quinze) dias, a contar da data de entrega da OS, o Plano de Desenvolvimento de Software (PDS); A Prestadora de Serviço deverá especificar detalhadamente no PDS todas as atividades necessárias para o pleno desenvolvimento dos produtos, considerando as informações descritas na OS. O PDS será considerado parte integrante da OS; A Contratante verificará a aderência do PDS apresentado com as especificidades indicadas na OS. Caso o PDS seja reprovado, a Prestadora de Serviço deverá apresentar novo plano aderente à OS, em um prazo adicional de até 5 (cinco) dias, a contar da comunicação da reprovação, podendo, neste caso, serem aplicadas penalidades previstas contratualmente; Ocorrendo a aprovação do PDS e mantido o interesse da Contratante, o início da execução do serviço ocorrerá após autorização do Gestor do Contrato. Qualquer alteração nas definições descritas na OS deverá gerar uma nova ordem a ser preenchida indicando que se trata de uma OS adicional, fazendo referência à anterior que originou os serviços;
+26
+
+b.
+
+c.
+
+d.
+
+e.
+
+f.
+
+g.
+
+h.
+
+i.
+
+A Prestadora de Serviço, para cada OS recebida, deverá gerar os produtos encomendados, de acordo com os respectivos cronogramas e dentro dos padrões de qualidade e de compatibilidade técnica, conforme as definições especificadas neste Termo de Referência; Toda OS deverá ser gerenciada por profissional Professional Management Project (PMP) indicado pela Prestadora de Serviço que deverá atender aos requisitos de qualificação estabelecidos no Anexo B do Termo de Referência; Todo serviço demandado pela Contratante deverá ter seu prazo de execução estimado pela Prestadora de Serviço; Poderá haver ajustes no prazo estimado em função de pedido devidamente justificado feito pela Prestadora de Serviço e aceito pela Contratante; Todo serviço referente à fase de Modelagem de Sistemas demandado pela Contratante deverá ser estimado pela Prestadora de Serviço em termos de horas de trabalho. Essa contagem poderá ser validada pela Contratante; Na execução do serviço referente à fase de Modelagem de Sistemas deverá fazer o registro formal em "Atas de Reunião" de todas as reuniões de trabalho realizadas nas dependências da Contratante para execução do serviço solicitado, colhendo a assinatura do representante da Contratante; Na conclusão da execução do serviço referente à fase de Modelagem de Sistemas deverá ser realizada uma contagem da quantidade de horas efetivamente trabalhadas e formalmente comprovadas pela Prestadora de Serviço. Essa contagem poderá ser validada pela Contratante; Todo serviço referente à fase de Fábrica de Software demandado pela Contratada deverá sofrer uma Contagem Inicial de Pontos de Função Brutos (CIPFB) realizada pela Prestadora de Serviço. Essa contagem poderá ser validada pela Contratante; Poderão existir outras contagens de pontos de função no decorrer da execução dos serviços, caso seja verificada a necessidade pela Contratante; Na conclusão da execução do serviço, deverá ser realizada uma Contagem Final de Pontos de Função Brutos (CFPFB) pela Prestadora de Serviço para aferir a quantidade de pontos efetivos do sistema de informação, sítio ou portal desenvolvido. Essa contagem poderá ser validada pela Contratante; Caso haja divergência entre as contagens efetuadas pela Contratada e pela Prestadora de Serviço superior a 2%, deverá ocorrer uma análise para identificar os pontos divergentes; Caso a divergência seja igual ou inferior a 2%, prevalecerá a menor contagem; Deverão ser realizadas reuniões periódicas entre o Gestor do Contrato e Gerentes de Projetos da Prestadora de Serviço para avaliação da execução das OS's emitidas; Caso o sistema de informação, sítio ou portal demandado pela Contratada e apresentado pela Prestadora de Serviço não esteja aderente com as especificações definidas, esse deverá retornar à linha de fabricação para efetuar os acertos necessários, passando novamente pela verificação de
+27
+
+j.
+
+k. l. m.
+
+n.
+
+o.
+
+p.
+
+q.
+
+r.
+
+s.
+
+t. u.
+
+v.
+
+sua aderência; w. A Prestadora de Serviço deverá apresentar, mensalmente e quando solicitado pelo Gestor do Contrato, Relatório de Progresso da OS (RPOS) onde deverá informar o andamento consolidado da OS, suas atividades previstas e executadas, alterações, medidas corretivas tomadas, dentre outras informações pertinentes. Havendo incidentes que prejudiquem o andamento da OS, estes devem ser informados imediatamente, independente do prazo para entrega do RPOS; A Prestadora de Serviço deverá apresentar ao final de todas as reuniões realizadas na Contratada, Ata de Reunião (AR) indicando o objetivo, participantes, exposições dos assuntos e respectivas conclusões, prazos, pendências e outras informações pertinentes;
+
+x.
+
+6.4.3. Acompanhamento e Fiscalização dos Serviços A execução do Contrato será acompanhada e fiscalizada pelo Gestor do Contrato da Contratante, especialmente designado, cumprindo-lhe: a. Acompanhar e fiscalizar os serviços, dirimir as dúvidas que surgirem no curso da prestação para a fiel execução dos serviços durante toda a vigência do Contrato; b. Sem prejuízo da plena responsabilidade da Prestadora de Serviço perante a Contratante e/ou a terceiros, os serviços estarão sujeitos a mais ampla e irrestrita fiscalização, a qualquer hora e em todos os locais. A presença do Gestor não diminuirá a responsabilidade da Prestadora de Serviço por quaisquer irregularidades resultantes de imperfeições técnicas, emprego de material inadequado ou de qualidade inferior, que não implicarão coresponsabilidade da Contratante; c. O Gestor da Contratante poderá aprovar, recusar, solicitar correção de quaisquer serviços que estejam em desacordo com as especificações técnicas e as constantes do Contrato, Edital e seus Anexos, determinando prazo para a correção de possíveis falhas ou substituições de produtos em desconformidade com o solicitado, dentro das condições estabelecidas contratualmente; d. Eventuais irregularidades de caráter urgente deverão ser comunicadas, por escrito, ao Gestor da Contratante com os esclarecimentos necessários, as informações sobre possíveis paralisações de serviços, uma proposta de plano para recuperação de cronograma dos projetos afetados e a apresentação de relatório técnico ou razões justificadoras a serem apreciadas e decididas pela Contratante; e. As decisões e providências sugeridas pela Prestadora de Serviço ou julgadas imprescindíveis, que ultrapassarem a competência do Gestor do Contrato, deverão ser encaminhadas à autoridade superior, para a adoção das medidas cabíveis; f. O Gestor do Contrato deverá conferir os documentos entregues pela Prestadora de Serviço e, por ocasião da entrega das Notas Fiscais ou
+28
+
+Faturas, atestar ou recusar a prestação dos serviços, quando executados satisfatória ou insatisfatoriamente, para fins de pagamento; g. Ao Gestor do Contrato fica assegurado o direito de exigir o cumprimento de todos os itens constantes do Contrato, Edital e seus Anexos e Proposta da Prestadora de Serviço; h. A Contratante deverá designar um responsável técnico para cada OS e sua equipe de supervisão que farão, ao longo dos trabalhos, a inspeção das atividades, a avaliação, a aprovação e a entrega dos produtos definidos neste Termo de Referência, assim como o acompanhamento do cumprimento das condições técnicas e critérios de qualidade, desempenho e de segurança requeridos; i. O Gestor do Contrato acompanhará e fiscalizará a execução dos serviços contratados, registrando todas as ocorrências e encaminhando as notificações necessárias à Prestadora de Serviço para imediata correção das irregularidades detectadas; j. Ao Gestor do Contrato fica assegurado o direito de exigir o cumprimento de todos os itens do Contrato, Edital e seus Anexos e Proposta da Prestadora de Serviço;
+
+6.4.4. Entrega, Avaliação e Recebimento a. A Contratante emitirá Termo de Recebimento Provisório referente a cada artefato ou produto entregue pela Prestadora de Serviço; (i) Os artefatos ou produtos gerados pela Prestadora de Serviço deverão ser entregues para análise da Contratante conforme datas definidas no PDS. Caso sejam reprovados, a Prestadora de Serviço deverá, após a notificação da Contratante, realizar os ajustes necessários para torná-los aderentes às especificações técnicas em um prazo adicional de até 10% do período definido no PDS para a entrega das etapas, sem prejuízo de aplicação de penalidades previstas contratualmente; (ii) A Contratante realizará a avaliação dos artefatos e produtos entregues conforme prazo especificado no item 7.1, contado a partir da data da entrega da etapa pela Prestadora de Serviço; b. O Gestor do Contrato emitirá Termo de Recebimento Definitivo referente a cada artefato ou produto. Isso ocorrerá após avaliação de conformidade, verificação de que tais produtos e artefatos estão de acordo com as especificações técnicas estabelecidas na OS, PDS e demais condições contratuais; O Gestor do Contrato emitirá Termo de Recusa em caso de verificação de erros ou impropriedades impeditivos de recebimento dos artefatos e produtos. A Prestadora de Serviço deverá promover as correções necessárias dentro do prazo máximo estabelecido para a entrega. Caso esse prazo já tenha sido extrapolado, a Prestadora de Serviço sujeitar-se-á às penalidades previstas contratualmente; Os artefatos e produtos poderão ser provisoriamente recebidos pela Contratante, a seu critério, quando contiver erros ou impropriedades de pequena monta que não sejam considerados impeditivos de recebimento;
+29
+
+c.
+
+d.
+
+e.
+
+No caso dos serviços referentes à fase de Fábrica de Software, o recebimento definitivo dos produtos referentes à etapa de "Construção" deverá ser realizado por produto homologado pela Contratante; No caso dos serviços referentes à fase de Fábrica de Software, o recebimento definitivo dos produtos referentes à etapa de "Implantação" deverá ser realizado após a implantação no ambiente de produção da Contratante e verificação do pleno funcionamento de cada produto homologado; No caso dos serviços referentes à fase de Fábrica de Software, o recebimento definitivo dos produtos referentes à etapa de "Transferência de Conhecimento" deverá ser realizado depois de atendidas as condições estabelecidas no subitem 6.5.1; No caso dos serviços referentes à fase Fábrica de Software, o recebimento definitivo dos produtos referentes à etapa "Estabilização" deverá ser realizado depois de encerrados todos os chamados abertos na etapa.
+
+f.
+
+g.
+
+h.
+
+6.5.
+
+Encerramento do Serviço
+
+6.5.1. Transferência de Conhecimento a. No caso de dos serviços referentes à fase de Fábrica de Software haverá a necessidade de repasse dos conhecimentos utilizados para o desenvolvimento e manutenção dos produtos entregues à Contratante pela Prestadora de Serviço; No caso de dos serviços referentes à fase de Fábrica de Software a Prestadora de Serviço deverá repassar os conhecimentos relacionados com as técnicas empregadas na fabricação do sistema de informação, sítio ou portal, bem como nas manutenções efetuadas. Entende-se por repasse de conhecimento, as explicações técnicas feitas de forma detalhada visando demonstrar aos técnicos da Contratante as formas, funcionalidades, requisitos, classes, configurações, dependências e outras utilizadas na construção ou manutenção dos produtos. A Contratante reserva-se o direito de solicitar tantas informações quantas forem necessárias, inclusive treinamentos para os usuários; A Prestadora de Serviço deverá apresentar o Relatório de Transferência de Conhecimento (RTC), onde deverão estar descritas todas as atividades realizadas, conteúdo, métodos, aplicabilidades, participantes, bem como demais informações pertinentes;
+
+b.
+
+c.
+
+6.5.2. Estabilização a. No caso de dos serviços referentes à fase de Fábrica de Software a Prestadora de Serviço responderá pela reparação dos danos causados por defeitos relativos ao serviço prestado, comprometendo-se a efetuar as necessárias manutenções corretivas, sem ônus adicionais para a Contratante, até 180 (cento e oitenta) dias após o recebimento da implantação. Por isso deverá prezar pelo desempenho e qualidade dos produtos entregues, garantindo que os produtos contemplem os requisitos mínimos de qualidade e desempenho exigidos neste Termo de Referência; A identificação e a comunicação formal de defeito dos produtos deverão ser efetuadas dentro do período de estabilização, devendo a correção ser realizada ainda que a conclusão do serviço extrapole o período de estabilização ou de vigência do Contrato;
+30
+
+b.
+
+c.
+
+Em casos de emergência a Contratante poderá efetuar alterações nos códigos-fonte de qualquer produto, sem prejuízo de sua estabilização, desde que sejam estritamente necessárias para assegurar o seu pleno funcionamento. Para tanto, quaisquer alterações efetuadas deverão ser comunicadas à Prestadora de Serviço até o terceiro dia útil subseqüente da alteração. A Contratante deverá manter cópias de segurança do código original para análise posterior.
+
+6.6.
+
+Chamados Técnicos
+
+6.6.1. Durante as etapas de Homologação e Estabilização, as não conformidades encontradas serão registradas na ferramenta descrita no item 4.1.7 como chamados técnicos de correção. Em caso de indisponibilidade da ferramenta, os chamados serão enviados por e-mail (ou outra forma de comunicação eletrônica) ao Gerente de Projetos da Prestadora de Serviço, ou pessoa designada por este, sem prejuízo à apuração dos indicadores; 6.6.2. Os chamados técnicos de correção contemplam a identificação de pontos falhos e eliminação de defeitos de códigos de funcionalidades, destinados a recolocar o sistema de informação, sítio ou portal em seu pleno estado de funcionamento, removendo definitivamente os defeitos apresentados; 6.6.3. Deverão ser atendidos em dias úteis (segunda-feira a sexta-feira), em horário de 8 (oito) às 18 (dezoito) horas, por profissionais especializados; 6.6.4. O atendimento aos chamados técnicos deverá ser feito nas dependências da Contratante sempre que a natureza do serviço exigir a presença de técnicos especializados; 6.6.5. O chamado técnico será considerado fechado após atendimento e apresentação de solução definitiva dentro das condições e prazos estabelecidos na severidade do chamado aberto; 6.6.6. Para que ocorra o fechamento dos chamados, a Prestadora de Serviço deverá fornecer em detalhes, e por escrito, as informações técnicas acerca da solução do problema detectado; 6.6.7. Cada chamado técnico aberto será avaliado individualmente pela equipe técnica da Contratante. Serão considerados, no mínimo, os seguintes critérios para efeito de avaliação do serviço prestado: a. Disponibilidade conforme períodos e horários exigidos;
+
+b. Agilidade, cortesia e presteza no atendimento dos chamados técnicos; c. Eficiência das soluções definitivas apresentadas;
+
+d. Eficiência no desenvolvimento dos requisitos adaptativos, perfectivos e evolutivos solicitados pela Contratante; e. Atendimento às demais exigências contratuais;
+
+6.6.8. O chamado técnico será considerado atendido após o fechamento pela equipe técnica da Contratante; 6.6.9. O atendimento aos chamados técnicos de correção deverá seguir os prazos estabelecidos na Tabela de Prazos de Atendimento (TPA) apresentados a seguir, contabilizados a partir da abertura do chamado:
+31
+
+Serviço
+
+Chamados Técnicos de Correção Prazo para Retorno do Comportamento Adequado do sistema de informação, sítio ou portal Em até 2 (duas) horas. Comportamento Inadequado do Sistema, Sítio ou Portal Prazo para Solução Definitiva da Origem do Problema Em até 24 (vinte e quatro) horas. Em até 48 (quarenta e oito) horas. Em até 72 (setenta e duas) horas.
+
+Severidade
+
+Ocorrência
+
+ALTA
+
+MÉDIA
+
+Em até 8 (oito) horas.
+
+BAIXA
+
+Em até 24 (vinte e quatro) horas.
+
+Legenda: ALTA ­ Incidente que afete a disponibilidade do sistema de informação, sítio ou portal e/ou comprometimento grave de funcionalidade, ou de dados ou de ambiente. MÉDIA ­ Incidente que não afeta a disponibilidade do sistema de informação, sítio ou portal, porém apresenta problemas que compromete funcionalidade, de dados ou de ambiente. BAIXA ­ Incidente do sistema de informação, sítio ou portal de pequeno ou nenhum comprometimento de funcionalidade, de dados ou de ambiente. 6.6.10. As falhas provocadas pela operação normal do sistema de informação, sítio ou portal e comportamentos que estejam em desacordo com os requisitos estabelecidos ou com as especificações definidas são consideradas incidentes. 6.6.11. Serão considerados para efeitos dos prazos: a. Prazo de Retorno para Comportamento Adequado: Tempo decorrido entre a abertura do chamado efetuado pela equipe técnica da Contratante e a recolocação do sistema de informação, sítio ou portal em estado de funcionamento adequado; b. Prazo de Solução Definitiva: Tempo decorrido entre a abertura do chamado efetuado pela equipe técnica da Contratante e a efetiva solução do incidente tornando o sistema de informação, sítio ou portal em seu pleno estado de funcionamento; c. Os prazos mencionados nos itens "a" e "b" serão considerados apenas se houver aceite pela equipe técnica da Contratante. Não ocorrendo o aceite, a solução apresentada será desconsiderada e os prazos continuarão correndo; 6.6.12. A correção dos erros e desconformidades do sistema de informação, sítio ou portal compreenderá as atividades de diagnóstico, análise e implantação de nova versão corrigida, se for o caso;
+32
+
+6.6.13. Todas as decisões e entendimentos que impliquem em modificações das Ordens de Serviço e do Plano de Desenvolvimento de Software, bem como dos produtos entregues, deverão ser prévia e formalmente autorizados pelo Gestor do Contrato com a emissão de OS adicional, com aditamento ao respectivo PDS, se for o caso; 6.6.14. Se as correções de desconformidades dos produtos apontadas pela Contratante dentro dos prazos estabelecidos na OS gerarem retrabalho, neste ou em outros produtos, as correções correrão por conta da Prestadora de Serviço; 6.6.15. Por necessidade excepcional de serviço, a Contratante também poderá solicitar a escalação de chamado para níveis superiores de severidade. Nesse caso, a escalação deverá ser justificada e os prazos dos chamados passarão a contar do início novamente; 6.6.16. Caso seja excedido o prazo de atendimento de um chamado, este será considerado não atendido dentro do prazo e iniciar-se-á nova contagem de prazo correspondente à severidade do chamado. Cada novo descumprimento de prazo no mesmo chamado será contabilizado como um chamado não atendido dentro do prazo e considerado no Indicador de Descumprimento de Prazos (IDP); 6.6.17. A cada apuração do Indicador de Descumprimento de Prazos, havendo quebra no indicador, o Gestor do Contrato emitirá notificação à Prestadora de Serviço, que terá prazo máximo de 5 (cinco) dias, a contar do recebimento da notificação para apresentar as justificativas para as falhas verificadas; 6.6.18. Caso não haja manifestação dentro desse prazo ou caso A Contratante entenda serem improcedentes as justificativas apresentadas, será iniciado processo de aplicação de penalidades previstas; 6.7. Reunião de Validação das Expectativas
+
+6.7.1. Da mesma forma como ocorrido na iniciação da prestação de serviço, deverá ser realizada uma reunião com o objetivo de verificar se as expectativas do Contrato foram alcançadas, de identificar possíveis ocorrências não desejáveis e de consolidar lições aprendidas; 6.7.2. Deverão participar dessa reunião, no mínimo, o Gestor do Contrato, membro(s) da equipe técnica da Contratante e Interlocutor da Prestadora de Serviço; 6.7.3. A reunião realizar-se-á em até 15 (quinze) dias corridos e contados para o encerramento da vigência do Contrato, conforme agendamento efetuado pelo Gestor do Contrato. 7. PRAZOS E PAGAMENTO 7.1. Prazos
+
+7.1.1. Deverão ser definidos pela Prestadora de Serviço no documento Plano de Desenvolvimento de Software (PDS), prazos para a conclusão e entrega dos produtos, que deverão ser avaliados pela Contratante, respeitando as condições e etapas estabelecidas neste Termo de Referência e as constantes na Ordem de Serviço; 7.1.2. Caso a Contratante demande, em um único momento, duas ou mais OS, a Prestadora de Serviço deverá entregar os produtos na medida em que forem sendo construídos ou de acordo com as prioridades estabelecidas pela Contratante; 7.1.3. A data para a Homologação e Implantação de cada produto deverá ser definida pela Contratante;
+33
+
+7.1.4. O prazo utilizado pela Contratante para a etapa de Homologação dos produtos será de no máximo 15% do prazo da execução da OS, respeitando-se o período mínimo de 5 (cinco) dias úteis; 7.1.5. O prazo utilizado pela Contratante para a avaliação e aceite dos artefatos das demais etapas será de no máximo 15% (quinze por cento) do prazo da execução da etapa, respeitando-se o período mínimo de 5 (cinco) dias úteis; 7.1.6. A Transferência de Conhecimento deverá ser iniciada em 24 (vinte e quatro) horas após a etapa de Implantação de cada produto; 7.1.7. A etapa de Estabilização deverá ser iniciada em 24 (vinte e quatro) horas após o produto entrar em produção. Nesse caso a Contratante comunicará à Prestadora de Serviço, com 10 (dez) dias de antecedência, a data em que o produto entrará em produção.
+
+7.2.
+
+Pagamento
+
+7.2.1. O pagamento será efetuado relativo a cada fase e, no caso dos serviços de Fábrica de Software, deve-se considerar ainda o pagamento relativo a cada etapa, e cada pagamento somente ocorrerá mediante recebimento definitivo pelo Gestor do Contrato dos produtos previstos para aquela fase ou etapa; 7.2.2. No caso da prestação de serviços referentes à Modelagem de Sistemas o valor será pago por OS será calculado pela multiplicação da quantidade de horas efetivamente trabalhas e formalmente comprovadas pela Prestadora de Serviço e aceitas pela Contratante pelo valor da hora de trabalho. Não será admitido o pagamento parcial por produto referente à determinada OS; 7.2.3. No caso da prestação de serviços referentes à fase de Fábrica de Software o valor a ser pago será calculado mediante a aplicação do percentual estabelecido na Tabela de Percentual de Pagamento por Etapa (TPPE), pela multiplicação do Valor Unitário do Ponto de Função Bruto (VUPFB), ajustado pelos fatores de ajuste constantes na Tabela de Pontuação Tecnologia (PT) e Pontuação Tipo de Demanda (PTD), pelo quantitativo verificado na Análise de Ponto de Função Bruto (APFB) do produto:
+
+Pagamento = (VUPFB x APFB) * percentual de cada etapa * PT * PTD Etapa I II III IV V VI VII Nome da Etapa Levantamento de Requisitos Análise e Projeto Construção Homologação Implantação Transferência de Conhecimento Estabilização
+34
+
+Percentual 20% 20% 30% 15% 5% 10%
+
+Plataformas Tecnológicas Plataforma JAVA, JEE e J2ME. Plataforma Microsoft Windows DNA -Tecnologia Microsoft VB 6 Microsoft VB. NET, ASP, ASP.Net, C#.net, HTML, Zope Plone, LUMIS, XML, PHP, Pyton e JavaScript C#.Net,ASP.Net, Joomla, XML. Plataforma Delphi e PL/SQL
+
+Pontuação Tecnologia (PT) 1 0,83
+
+0,62
+
+0,83
+
+Tipo de Demanda Desenvolvimento de novas funcionalidades Adequação de funcionalidades simples) / Manutenção Evolutiva Manutenção Corretiva (manutenções
+
+Pontuação Tipo de Demanda (PTD) 1 0,80 0,00
+
+7.2.4. Os pagamentos serão glosados de acordo com as diferenças decorrentes entre as contagens de PFB e penalidades imputadas à Prestadora de Serviço durante a execução do Contrato; 7.2.5. Não será pago qualquer tipo de adicional a título de diárias, passagens, locomoção, alimentação, encargos e quaisquer outros não previstos no Contrato, Edital e seus Anexos.
+
+8. OBRIGAÇÕES DA PRESTADORA DE SERVIÇO
+
+8.1. 8.2.
+
+Fornecer produtos conforme especificações, quantidades, prazos e demais condições estabelecidas no Contrato, Edital, Anexos e Ordens de Serviço; Adaptar-se a mudanças, quando da evolução da arquitetura, dos aspectos metodológicos e da estrutura da Contratante especificados neste Termo de Referência, sem que isso implique acréscimo nos preços contratados e sem quaisquer custos adicionais para a Contratante. Para isso deverá implementar em seu ambiente as evoluções tecnológicas necessárias para a execução plena dos serviços contratados; Dimensionar, por etapas, o esforço dos serviços necessários para a fabricação dos
+35
+
+8.3.
+
+produtos, não cabendo, posteriormente, acréscimos nos preços contratados por conta de eventuais desconhecimentos das condições previstas no Contrato, Edital e seus Anexos; 8.4. Arregimentar profissionais especializados com conhecimento e experiência nas diversas áreas de tecnologia da informação inerentes ao objeto de cada Ordem de Serviço emitida. A Contratante reserva-se o direito de solicitar a qualquer momento as comprovações que se fizerem necessárias para verificação da especialização e experiência dos profissionais alocados; Substituir, sempre que exigido pelo Gestor do Contrato, no prazo máximo de 30 (trinta) dias, qualquer um dos seus profissionais, cuja qualificação, atuação, permanência ou comportamento forem julgados prejudiciais, inconvenientes ou insatisfatórios à disciplina do órgão ou ao interesse do serviço público, decorrente da execução do serviço; Adotar critérios adequados para o processo seletivo dos profissionais, com o propósito de evitar a incorporação de pessoas com características e/ou antecedentes que possam comprometer a segurança ou credibilidade da Contratante; Responsabilizar-se integralmente pela sua equipe técnica, primando pela qualidade, desempenho, eficiência e produtividade, visando à execução dos trabalhos durante toda a vigência do Contrato, dentro dos prazos e condições estipulados, sob pena de ser considerada infração passível de aplicação de penalidades previstas contratualmente, caso os prazos e condições não sejam cumpridos; Manter seus profissionais adequadamente trajados para o ambiente de trabalho na Contratante, com trajes em bom estado de conservação e portando crachá de identificação da Prestadora de Serviço, arcando com o ônus de sua confecção; Responder por quaisquer prejuízos que seus profissionais causarem ao patrimônio da Contratante ou a terceiros, por ocasião da prestação dos serviços, procedendo imediatamente aos reparos ou indenizações cabíveis e assumindo o ônus decorrente; Prestar as informações e os esclarecimentos que venham a ser solicitados pelos técnicos da Contratante referente a qualquer problema detectado ou ao andamento de atividades; Utilizar as melhores práticas, capacidade técnica, materiais, equipamentos, recursos humanos e supervisão técnica e administrativa, para garantir a qualidade do serviço e o atendimento às especificações contidas no Contrato, Edital e seus Anexos; Comunicar formal e imediatamente ao Gestor do Contrato, todas as ocorrências anormais ou de comprometimento da execução do serviço contratado; Arcar com os salários e todos os encargos sociais trabalhistas, tributos de qualquer espécie que venham a ser devidos em decorrência da execução do serviço contratado, bem como custos relativos ao deslocamento e estada de seus profissionais, caso exista; Manter sigilo, sob pena de responsabilidade civil, penal e administrativa, sobre todo e qualquer assunto de interesse da Contratante ou de terceiros de que tomar conhecimento em razão da execução do objeto do Contrato, respeitando todos os critérios estabelecidos, aplicáveis aos dados, informações e as regras de negócios, devendo orientar seus profissionais nesse sentido; Garantir a qualidade dos produtos em suas características operacionais, de manutenção a novos ambientes e assegurar que esses sejam eficientes quanto ao desempenho e consumo de hardwares e softwares, de acordo com os requisitos
+36
+
+8.5.
+
+8.6.
+
+8.7.
+
+8.8.
+
+8.9.
+
+8.10.
+
+8.11.
+
+8.12. 8.13.
+
+8.14.
+
+8.15.
+
+definidos para os produtos; 8.16. Reparar, corrigir, remover e reconstruir, às suas expensas, no total ou em parte, os serviços efetuados referentes ao objeto em que se verifiquem vícios, defeitos ou incorreções resultantes da má execução; Identificar qualquer equipamento de sua posse que venha a ser instalado nas dependências da Contratante, utilizando placas de controle patrimonial, selos de segurança, etc.; Cumprir as normas regulamentadoras da Medicina e Segurança no Trabalho; Manter-se, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas na licitação; Proibir a veiculação de publicidade ou qualquer outra informação acerca do objeto do Contrato, salvo se houver prévia autorização da Contratante.
+
+8.17.
+
+8.18. 8.19.
+
+8.20.
+
+9. DOCUMENTAÇÃO EXIGIDA
+
+9.1. 9.2.
+
+Declaração de capacidade técnica para prestação de serviços de desenvolvimento de sistemas seguindo um processo de gerência de engenharia de software; A Contratante pretende assegurar que a qualidade dos serviços e produtos entregues a ela atenda aos requisitos estabelecidos e utilizados internamente por sua área de tecnologia. Desta forma, exige que o processo de software padrão da Prestadora de Serviço inclua processo de gerência e de engenharia de software. Esses processos devem ser integrados perfazendo um conjunto coerente e consistente. A Prestadora de Serviço que possui uma padronização de seus processos explorará práticas eficazes de engenharia podendo assim, trazer benefícios na qualidade dos processos e produtos entregues. Com essa padronização A Contratante poderá monitorar, no mínimo, os seguintes processos da Prestadora de Serviço: processos gerenciais e técnicos básicos bem definidos; possibilidade de avaliação do processo; ferramentas e metodologias padronizadas; medições iniciais de desempenho; inspeção e auditorias rotineiras; testes padronizados; gerência de configuração e evolução controlada dos processos técnicos e gerenciais básicos, permitindo assim um maior controle dos produtos entregues; Termo de Confidencialidade da Informação. Este documento deverá ser entregue quando da assinatura do Contrato, conforme modelo constante daquele documento e seus anexos.
+
+9.3.
+
+10. INDICADORES DE QUALIDADE E DESEMPENHO 10.1. Os serviços deverão atender a níveis de qualidade e de cumprimento de prazos, estabelecidos pelos seguintes indicadores:
+
+INDICADOR nº 1 Descrição do Indicador
+
+Índice de Descumprimento de Cronograma (IDC) referente aos serviços relacionados à fase de Modelagem de Sistemas Apura se houve atraso em relação à data acordada para entrega de produtos relativos a uma determinada OS. É apurada a quantidade de dias entre a data planejada para entrega dos produtos e a data efetiva de seu recebimento pela Contratante.
+37
+
+Aferição
+
+Fórmula de Cálculo
+
+Pelo Líder Técnico da Contratante, no recebimento dos produtos relativos a uma determinada OS entregues pela Prestadora de Serviço, com o auxílio do sistema descrito no item 4.1.6. IDC = QDANJ / PPE (QDANJ ­ Quantidade de Dias de Atraso Não Justificado; PPE ­ Prazo Planejado) Reunião entre o Gestor do Contrato e o Interlocutor da Prestadora de Serviço, antes da emissão da fatura. No recebimento dos produtos relativos a uma determinada OS Aplica-se aos serviços prestados relativos à fase de Modelagem de Sistemas. Índice de Descumprimento de Cronograma (IDC) referente aos serviços relacionados à fase de Fábrica de Software Apura se houve atraso em relação à data acordada para entrega das etapas de cada OS devidamente executadas/entregues. É apurada a quantidade de dias entre a data planejada para entrega dos produtos de uma etapa e a data efetiva de seu recebimento pela Contratante. Pelo Líder Técnico da Contratante, no recebimento da etapa por parte da Prestadora de Serviço com o auxílio do sistema descrito no item 4.1.6. IDC = QDANJ / PPE (QDANJ ­ Quantidade de Dias de Atraso Não Justificado; PPE ­ Prazo Planejado para a Etapa) Reunião entre o Gestor do Contrato e o Interlocutor da Prestadora de Serviço, antes da emissão da fatura. No recebimento de cada etapa da fase de serviço "Fábrica de Software" relativo a uma determinada OS Aplica-se às seguintes etapas de um Projeto relativo a uma determinada OS: Levantamento de Requisitos; Análise e Projeto; Construção; Implantação; e Transferência de Conhecimento. Índice de Descumprimento de Prazo de Chamados Técnicos (IDPCT) referente aos serviços relativos à fase de Fábrica de Software Apura se houve descumprimento dos prazos de atendimento dos chamados abertos para cada Projeto durante as etapas de Homologação e Estabilização. É apurada, por Projeto, a quantidade de chamados não atendidos no prazo estabelecido na tabela TPA em relação ao total de chamados abertos na etapa. Pelo Líder Técnico da Contratante, no final da etapa por meio do sistema de controle de chamados descrito no item 4.1.7. IDPCT = QCNAP / TCAE (QCNAP ­ Quantidade de Chamados Não Atendidos no Prazo; TCAE ­ Total de Chamados Abertos na Etapa) Reunião entre o Gestor do Contrato e o Interlocutor da Prestadora de Serviço, antes da emissão da fatura. No recebimento de cada etapa Aplica-se às seguintes etapas de um Projeto: Homologação e Estabilização. Índice de Descumprimento de Prazo de Chamados Técnicos (IDPCT) referente aos serviços relativos à fase de Fábrica de Software
+38
+
+Forma de Auditoria Periodicidade Cobertura
+
+INDICADOR nº 2 Descrição do Indicador
+
+Aferição
+
+Fórmula de Cálculo
+
+Forma de Auditoria Periodicidade Cobertura
+
+INDICADOR nº 3
+
+Descrição do Indicador
+
+Aferição Fórmula de Cálculo
+
+Forma de Auditoria Periodicidade Cobertura
+
+INDICADOR nº 4
+
+Descrição do Indicador
+
+Aferição Fórmula de Cálculo
+
+Apura se houve descumprimento dos prazos de atendimento dos chamados abertos para cada Projeto durante a estabilização. É apurada, por Projeto, a quantidade de chamados não atendidos no prazo estabelecido na tabela TPA em relação ao total de chamados no mês. Pelo Líder Técnico da Contratante, por meio do sistema de controle de chamados descrito no item 4.1.7. IDPCT = QCNAP / TCAM (QCNAP ­ Quantidade de Chamados Não Atendidos no Prazo; TCAM ­ Total de Chamados Abertos no Mês) Reunião mensal entre o Gestor do Contrato e o Interlocutor da Prestadora de Serviço. Mensal Aplica-se à Estabilização de cada Projeto Índice de Desconformidade de Qualidade Funcional (IDQF) referente aos serviços relativos à fase de Fábrica de Software Apura a taxa de defeitos / erros identificados durante as etapas de Homologação e Estabilização em função do tamanho do Projeto em Pontos por Função. Pelo Líder Técnico da Contratante, no final da etapa por meio do sistema de controle de chamados descrito no item 4.1.7. IDQF = QTDI / TPFB (QTDI ­ Quantidade Total de Defeitos / Erros Identificados; TPFB ­ Total de Pontos por Função Brutos do Projeto) Reunião entre o Gestor do Contrato e o Interlocutor da Prestadora de Serviço, antes da emissão da fatura. No recebimento de cada etapa Aplica-se às seguintes etapas de um Projeto: Homologação e Estabilização. Índice de Desconformidade de Qualidade de Produto (IDQP) referente aos serviços relativos à fase de Fábrica de Software Apura a taxa de não conformidades identificada nos produtos de uma determinada etapa, considerando, no mínimo, a Tabela de Desconformidades, bem como outras não conformidades, por exemplo, definidas pelo SEI ou MPS-Br. Esta tabela constitui-se de uma lista de verificação dos requisitos mínimos de aceitação de cada produto, atribuindo-se um grau de severidade para cada item. Os graus de severidade são: Baixo (peso 1), Médio (peso 2) e Alto (peso 3). Pelo Líder Técnico da Contratante, durante a validação dos produtos de cada etapa do Projeto. IDQP = (QNCI * PS) / (PPE * TPFB) (QNCI ­ Quantidade de Não Conformidades Identificadas; PS ­ Peso da Severidade; PPE ­ Percentual do Pagamento da Etapa; TPFB ­ Total de Pontos por Função Brutos do Projeto) Reunião entre o Gestor do Contrato e o Interlocutor da Prestadora de Serviço, antes da emissão da fatura. No recebimento de cada etapa Aplica-se a todas as etapas de um Projeto
+
+Forma de Auditoria Periodicidade Cobertura
+
+INDICADOR nº 5 Descrição do Indicador Aferição
+
+Fórmula de Cálculo Forma de Auditoria Periodicidade Cobertura
+
+INDICADOR nº 6 Descrição do Indicador
+
+Aferição Fórmula de Cálculo
+
+Forma de Auditoria Periodicidade Cobertura
+
+39
+
+11. OBRIGAÇÕES DA CONTRATANTE 11.1. A Contratante obriga-se a cumprir fielmente as condições e exigências contidas neste Termo de Referência, e em especial:
+
+11.1.1. Proporcionar todas as facilidades para que a Prestadora de Serviço possa desempenhar seus serviços dentro das normas e condições contratuais;
+
+11.1.2. Comunicar à Prestadora de Serviço as eventuais irregularidades observadas na execução dos serviços e/ou nos produtos entregues, para adoção das providências saneadoras;
+
+11.1.3. Efetuar o pagamento na forma e no prazo convencionado em Contrato;
+
+11.1.4. Aplicar as penalidades previstas contratualmente para o caso do não cumprimento de cláusulas contratuais ou aceitar as justificativas apresentadas pela Prestadora de Serviço.
+
+40
+
+ANEXO A - DETALHAMENTO DO(S) SERVIÇO(S)
+
+1. Contagem de Pontos de Função Brutos 1.1. A métrica a ser utilizada para a estimativa de tamanho dos produtos é Pontos de Função Brutos (PFB) não ajustados, normatizada no Manual de Práticas e Contagens versão 4.2 (Counting Practices Manual -Release 4.2), ou versão posterior, publicado pelo IFPUG (International Function Point Users Group)e disponibilizado no Brasil pelo BFPUG (Brazilian Function Points Users Group);
+
+1.2. Não constitui obrigação da Contratante solicitar serviços de forma mensal, parcial ou total do montante contratado de PFB, nem qualquer observância de periodicidade e freqüência. A Prestadora de Serviço deverá se nortear com o Plano de Demandas entregue pela Coordenação-Geral de Sistemas e Tecnologia da Informação;
+
+1.3. Como não há previsão quanto à distribuição das Ordens de Serviço ao longo da vigência contratual, cabe à Prestadora de Serviço ajustar-se com vistas ao atendimento dos serviços solicitados pela Contratante;
+
+1.4. Serão considerados os seguintes prazos máximos, em dias corridos, por quantidade de PFB:
+
+Tamanho do Sistema, Sítio ou Portal por Ponto de Função Bruto Menor ou igual a 50 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400
+
+Prazo máximo em dias corridos para conclusão do serviço 87 108 135 153 168 180 192 201 210 219 225 291 300 309 315
+41
+
+Início do Serviço Imediato após aprovação do PDS pela Contratante.
+
+1500 1600 1700 1800 1900 2000
+
+321 330 336 342 348 354
+
+1.5.
+
+A quantidade de PFB e o prazo máximo de execução definidos numa OS poderão ser redimensionados, com a possibilidade de exclusão de tarefas não realizadas, inclusão de novas tarefas ou ajustes referentes à complexidades, não identificadas no momento da emissão da OS e elaboração do PDS, desde que as partes estejam de comum acordo e devidamente justificadas em ata de reunião. Neste caso, serão aditados em OS adicional os valores redimensionados e prazos; O redimensionamento só poderá ser pactuado com antecedência de, no mínimo, 15 (quinze) dias corridos antes da data de conclusão das atividades relacionadas na OS e no PDS. Nos Planos com prazo igual ou inferior a 30 (trinta) dias corridos, esse prazo será de, no máximo, 5 (cinco) dias úteis; Para as OS com contagens iniciais superiores a 2.000 (dois mil) PFB, os prazos serão acordados entre as partes, levando-se em consideração a proporcionalidade dos prazos máximos relacionados na tabela acima; Os prazos máximos serão utilizados apenas como referência para o estabelecimento das entregas dos produtos requeridos. O prazo de cada atividade ou serviço solicitado será formalizado no PDS; O descumprimento do prazo definido no PDS estará sujeito à aplicação de penalidades previstas contratualmente. Não será considerado descumprimento de prazo, o atraso motivado por falta de disponibilidade de recursos humanos ou infra-estrutura da Contratante. Serão avaliadas as situações em que comprovadamente for demonstrado que a Prestadora de Serviço não foi a causadora do atraso da entrega dos produtos; Não serão considerados nas contagens os componentes desenvolvidos pela Contratante, utilizados e/ou referenciados nos sistemas, sítios e portais desenvolvidos, nem os componentes já fabricados pela Prestadora de Serviço pagos em outras OS; Não serão admitidos e nem homologados os produtos mal elaborados e ineficientes, que venham a onerar a contagem dos pontos de função brutos; A contagem de pontos por função, quando realizada pela Prestadora de Serviço, deverá ser assinada por profissional com certificação Certified Function Points Specialist (CFPS), emitida por instituição qualificada e autorizada para este fim; Os Arquivos de Interface Externa (AIE) deverão ser contados conforme determina a métrica estabelecida neste Termo de Referência, porém não serão considerados para remuneração à Prestadora de Serviço sempre que para sua inclusão, alteração ou exclusão forem utilizados componentes já desenvolvidos pela Prestadora de Serviço ou fornecidos pela Contratante; Para registro da contagem de pontos por função de uma OS, a Prestadora de Serviço utilizará a planilha fornecida pela Contratante. Esta planilha conterá a listagem com nomes de todas as Funções de Dados (ALIs e AIEs) e Funções Transacionais (EEs, CEs, SEs) relacionadas ao projeto. Além disso deverá ser apresentado o detalhamento que define sua complexidade. Ou seja, para Funções de Dados, o nome dos registros de dados e os itens de dados que os compõem; para as Funções Transacionais, o nome de arquivos referenciados e nome de itens de dados. Para efeitos dos prazos de entrega dos produtos, o PDS terá como parâmetros para sua elaboração um indicador denominado Fator de Produtividade Mínima (FPM), expresso
+42
+
+1.6.
+
+1.7.
+
+1.8.
+
+1.9.
+
+1.10.
+
+1.11. 1.12.
+
+1.13.
+
+1.14.
+
+1.15.
+
+em horas/PFB; 1.16. O indicador FPM tem como objetivo adequar os prazos de elaboração dos produtos a um valor razoável de produtividade e ajustamento do valor do preço do PFB em razão do esforço empregado em cada uma das tecnologias abaixo descritas. Ficam estabelecidos os seguintes fatores de produtividade:
+
+Plataformas Tecnológicas Plataforma JAVA, JEE e J2ME. Plataforma Microsoft Windows DNA Tecnologia Microsoft VB 6 Microsoft VB. NET, ASP, ASP.Net, C#.net, HTML, Zope, Plone, LUMIS, XML, PHP, Pyton e JavaScript, C#.Net,ASP.Net, Joomla, XML e Ajax. Plataforma Delphi e PL/SQL 1.17.
+
+Produtividade 14,5 horas/PFB 12,0 horas/PFB
+
+9,0 horas/PFB
+
+12,0 horas/PFB
+
+A Contratante disponibiliza no Anexo C do Termo de Referência, juntamente com sua Metodologia de Desenvolvimento de Sistemas (MDS), o Guia de Contagem de Pontos por Função complementar ao manual do IFPUG, que esclarecerá a forma de contagem das OS que apresentarem cenários dúbios ou omissos no manual do IFPUB, bem como detalhará o processo a ser utilizado nas contagens evolutivas e de início de projeto.
+
+43
+
+ANEXO B - QUALIFICAÇÃO TÉCNICA E PERFIL DOS PROFISSIONAIS
+
+1. Apresentação Os profissionais a serem envolvidos nos serviços objeto deste Termo de Referência, deverão estar capacitados nos recursos que compõem o ambiente de desenvolvimento da Contratante. A Prestadora de Serviço deverá comprovar que os profissionais envolvidos nos serviços apresentam qualificação mínima relacionada abaixo, comprovada por intermédio de contrato de trabalho, diploma, certificado ou atestado de instituição, em nome do profissional, e da devida comprovação de que faz parte da equipe da Prestadora de Serviço relação de empregados (RE). Todos os profissionais da Prestadora de Serviço alocados para esta contratação deverão ter vínculo empregatício baseado na CLT, não sendo admissível nenhum outro vínculo empregatício, tais como: Cooperados, PJ e CLT Flexível. Os requisitos foram definidos para orientar a Prestadora de Serviço quanto ao perfil ideal para a Contratante e qualificação geral para executar os serviços, bem como mitigar problemas da alta rotatividade de profissionais. A Contratante reserva-se o direito de solicitar as comprovações referentes à qualificação dos profissionais e ao vínculo empregatício a qualquer momento da execução da prestação dos serviços, sob pena de aplicação das penalidades previstas. 2. Gerente de Projetos Requisitos Obrigatórios a) Curso superior completo que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada em gerenciamento de projetos de desenvolvimento de software baseada em metodologia de Processo Unificado ou similar; c) Certificação Project Management Professional (PMP) em vigor emitida pelo Project Management Institute (PMI); d) Conhecimento de contagem de pontos de função; e) f) Conhecimento dos princípios que regem os modelos desenvolvimento de software (CMM e/ou ISO 15504); Conhecimento em Engenharia de Software; de maturidade em
+
+g) Conhecimento técnico da língua inglesa. 3. Analista de Sistemas Requisitos Obrigatórios
+
+a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada em análise de sistemas; c) Experiência comprovada em ciclo de produção baseada em metodologia de Processo Unificado ou similar; d) Experiência comprovada em análise e modelagem de dados utilizando linguagem própria para modelagem;
+44
+
+e) Experiência comprovada como desenvolvedor Java ou PHP; f) Conhecimento de contagem de pontos de função; g) Conhecimento em modelagem de processos de negócio ou O&M; h) Conhecimento técnico da língua inglesa. 4. Analista de Dados Requisitos Obrigatórios
+
+a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada na área de administração de dados; c) Experiência comprovada na criação, execução, verificação e validação de scripts de banco de dados; Criação de Stored Procedures, Triggers e rotinas para o DTS ­ Data Transformations Services; d) Conhecimento em ferramenta de modelagem de dados relacional e modelagem Orientada a Objetos; e) Conhecimento em levantamento e exploração de dados de sistemas legados, mapeamento de entidades e atributos, criação de dicionário de dados; f) Conhecimento na condução de projetos de Datawarehouse e DataMart; g) Conhecimento em organização de métodos de trabalho; h) Conhecimento técnico da língua inglesa. 5. Projetista Requisitos Obrigatórios
+
+a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada em ciclo de produção baseada em metodologia de Processo Unificado ou similar; c) Conhecimento em análise e modelagem de dados utilizando linguagem própria para modelagem; d) Experiência comprovada em desenvolvimento com Java-J2EE, utilizando Enterprise Java Beans ­ EJB; e) Experiência comprovada em desenvolvimento com WEB -JSP; f) Experiência comprovada em modelagem UML e Processo Unificado, especialmente na área de projeto físico, incluindo:   Experiência na utilização de "Padrões de Projeto" (DAO, Facade, Delegate e outros); Experiência na elaboração de diagramas de seqüência de projeto, diagramas de colaboração entre classes, diagramas de distribuição de componentes e diagramas de classes. Experiência na construção de aplicações que utilizem o Framework de Persistência Hibernate;
+45
+
+
+
+g) Experiência comprovada com o Servidor de Aplicações JBoss; h) Experiência comprovada em desenvolvimento de aplicações com arquitetura de Webservices; i) Possuir ao menos uma das certificações JAVA: SCJP ­ Sun Certified Java­ Programmer, SCJD -Sun Certified Java Developer, SCWCD -Sun Certified Web Component Developer, SCBCD -Sun Certified Business Component Developer ou SCDJWS -Sun Certified Developer for Java Web Services; Experiência comprovada em desenvolvimento PHP (para projetos em PHP);
+
+j)
+
+k) Conhecimento técnico da língua inglesa.
+
+6. Analista Desenvolvedor Requisitos Obrigatórios
+
+a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada em desenvolvimento com WEB ­JSP ou WEB-PHP; c) Experiência comprovada em leitura de modelos UML, que utilizem a metodologia de Processo Unificado ou similar. d) Experiência comprovada em desenvolvimento com Java-J2EE; e) Possuir ao menos uma das certificações JAVA: SCJP ­ Sun Certified Java Programmer, SCJD -Sun Certified Java Developer, SCWCD -Sun Certified Web Component Developer, SCBCD -Sun Certified Business Component Developer ou SCDJWS -Sun Certified Developer for Java Web Services; f) Conhecimento técnico da língua inglesa.
+
+7. Projetista de Interface Requisitos Obrigatórios
+
+a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada na construção de portais e sítios WEB que utilizem as linguagens HTML e Javascript; c) Experiência comprovada na utilização de ferramentas para construção de páginas WEB; d) Experiência comprovada com ferramentas para construção dinâmica de páginas Web, como PHP, ASP ou JSP; e) Experiência comprovada em desenvolvimento com a API JAVA/SWING; f) Conhecimento na leitura de modelos UML, que utilizem a metodologia de Processo Unificado ou similar;
+
+g) Conhecimento técnico da língua inglesa.
+
+46
+
+8. Administrador de Dados Requisitos Obrigatórios
+
+a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada em ferramenta de modelagem de dados relacional e modelagem Orientada a Objetos; c) Experiência comprovada em levantamento e exploração de dados de sistemas legados, mapeamento de entidades e atributos, criação de dicionário de dados; d) Experiência comprovada na área de administração de dados; e) Conhecimento técnico da língua inglesa.
+
+9. Analista de Testes Requisitos Obrigatórios
+
+a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada como analista de testes; c) Experiência comprovada como desenvolvedor Java ou PHP; d) Conhecimento nas metodologias e técnicas de teste (testes de caixa-preta, de caixabranca, de unidade, de integração, de componente, de sistema etc.). e) Conhecimento técnico da língua inglesa.
+
+10. Interlocutor Requisitos Obrigatórios a) Curso superior completo que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada em projetos de desenvolvimento e gerenciamento de sistemas baseado em métodos reconhecidos pelo mercado; c) Conhecimento de contagem de pontos de função; d) Conhecimento em organização de métodos de trabalho; e) Conhecimento da Lei de Licitações da Administração Pública e outras complementares.
+
+47
+
+ANEXO C ­ METODOLOGIA DE DESENVOLVIMENTO 1. Fases e Etapas do Processo de Desenvolvimento de Sistemas x Percentuais de Esforço Etapas do Processo de Desenvolvimento I II III IV V VI VII
+
+Fases do Serviço Modelagem de Sistemas Fábrica de Software
+
+Nome da Etapa
+
+Percentual de Esforço Não se aplica 20% 20% 30% 15% 5% 10%
+
+Levantamento de Requisitos Análise e Projeto Construção Homologação Implantação Transferência de Conhecimento Estabilização
+
+2. Produtos/artefatos a ser gerados por Fase e Etapa:
+
+Fase
+
+Etapa
+
+Produtos/artefatos a ser gerados (1) Identificação dos processos (2) Diagrama de atividades dos processos (3) Descrição das atividades (4) Identificação de insumos e produtos das atividades (5) Modelo de dados ­ preliminar (6) Identificação dos temas (modulo) (7) Identificação e Relação dos casos de uso de negocio agrupados por tema em forma de arvore (8) Descrição dos objetivos e requisitos dos temas (módulos) (9) Identificação de tabelas utilizadas pelos temas (módulos) (10) Ordem de precedência dos módulos (11) Quantidade de PF dos módulos (12) Quantidade de PF do sistema (13) Termo de aceite da modelagem (1) Documento de Visão do Projeto (2) Descrição Casos de Uso Negócio (3) Especificação de requisitos não funcionais (4) Identificação e descrição Casos de Uso Realização (5) Protótipo de tela no caso de uso de realização (6) Especificação de regras de negocio (7) Termo de aceite do Levantamento de Requisitos (1) Diagrama de Seqüência dos casos de
+48
+
+Modelagem de Sistemas
+
+-
+
+Fábrica de Software
+
+Levantamento de Requisitos
+
+Análise e Projeto
+
+Construção
+
+Homologação
+
+Implantação
+
+Transferência de Conhecimento Todas as Fases Observações: Todos os blocos
+
+realização (2) Diagrama Colaboração dos casos de realização (3) Diagrama de Classes (4) Modelo de dados de análise (5) Arquitetura de SW (6) Termo de aceite da analise e projeto (1) Diagrama Hierárquico do Sistema (Detalhado) e/ou Diagrama de Pacotes (2) Modelo de Dados Físico (3) Produto de SW (4) Plano de Teste Funcional e não Funcional (5) Comprovante de Teste (6) Checklist de teste (7) Termo de aceite da construção (1) Termo de aceite da homologação (1) Disponibilização da solução na Produção (2) Preparação do ambiente PD (3) Preparação dos dados PD (4) Elaboração de documentação de ambiente (5) Termo de aceite da implantação (1) Elaboração de material de capacitação (2) Termo de aceite da capacitação (1) PDS (Plano de Desenvolvimento do Software)
+
+1) A geração de produtos/artefatos poderá ser excepcionalizada pela Contratante, a seu critério, considerando questões tais como o tamanho do projeto, a complexidade, a natureza, etc.
+
+3. Descrição dos Tipos de Demanda ­ Fase de Fábrica de Software
+
+4. Desenvolvimento de novas funcionalidades
+
+Refere-se à criação de novas funcionalidades de softwares do tipo: nova transação, novo relatório, novo módulo, novo subsistema, novo sistema, novos sites ou páginas dinâmicas ou ainda ao desenvolvimento de software já implantado em outra linguagem de programação.. 5. Adequação de funcionalidades (manutenções simples) / Manutenção Evolutiva Refere-se à alteração das características de funcionalidades de software já codificado, desde que não caracterizado como manutenção corretiva. Classifica-se em: (1) Adequações Perfectivas - representam alterações no software para melhorar desempenho, facilidade de manutenção e outros atributos de um software. - e (2) Adequações Adaptativas - correspondem às mudanças no software direcionadas à necessidade de acomodar modificações no ambiente de sistemas de software (alterações arquiteturais, tecnológicas, de regras de negócio ou ainda de requisitos técnicos).
+
+49
+
+Nota 1: Além de adequações perfectivas e adaptativas existe a preventiva. Esta última é de responsabilidade da PRESTADORA DE SERVIÇO, que a realiza sem ônus para a Contratante e sem a necessidade de solicitação formal da Contratante. Nota 2: Serão consideradas preventivas, manutenções que visam evitar falhas e interrupções em serviços em execução (ex.: Migração de versão de banco de dados, compiladores, servidor web e de aplicação, sistema operacional, estrutura de componentes de sistemas, redundância de código). Nota 3: Caso a análise de impacto indique risco de comprometimento das atividades dos usuários, a Contratante terá que ser informada.
+
+6. Manutenção Corretiva Consiste na correção de defeitos encontrados nos produtos de software ou soluções desenvolvidos pela PRESTADORA DE SERVIÇO, com a respectiva atualização da documentação relacionada. Para fins deste contrato, entenda-se por defeito o funcionamento inadequado de sistemas incluindo, entre outra coisas:           Funcionamento do sistema em desacordo com a especificação; Erros de recuperação e/ou consolidação de dados; Erros em cargas ou extrações; Erros de cálculo; Erros no conteúdo de sistemas ou sites; Problemas na arquitetura do sistema; Baixa performance do sistema em relação aos níveis de serviço estabelecidos para demanda; Funcionamento descontínuo do sistema; Recusa de usuários; Outros defeitos identificados e reconhecidos como tal pelas partes.
+
+7. Processo de Estruturação das Demandas de Software O Processo de Estruturação de Software engloba as seguintes macroatividades: (1) Emitir Solicitação Formal de Serviço, isto é, classificar a demanda por tipo; delimitar o escopo da demanda; elaborar e emitir Ordem de Serviço (OS). Responsável: Contratante. (2) Elaborar Plano de Desenvolvimento de Software (PDS), isto é, detalhar o escopo; definir os principais produtos a serem gerados; estimar número de pontos de função, se for o caso; definir atividades a serem executadas; definir responsáveis; estabelecer os principais pontos de controle; definir data prevista para início do atendimento; calcular preço e data estimada de término com base na quantidade de horas estimadas para realização do trabalho, no caso de serviços relativos à fase de Modelagem de Sistemas; calcular preço e data estimada de término com base na quantidade de pontos de função, no caso de serviços relativos à fase de Fábrica de Software. Responsável: Prestadora de Serviço. 8. Processo de Avaliação dos Produtos A avaliação de produtos engloba as seguintes macroatividades:
+
+50
+
+(1) Receber produto, isto é, receber os documentos em meio digital, armazená-los em diretório apropriado e emitir Termo de Recebimento Provisório. Responsável: Contratante. (2) Avaliar os produtos tecnicamente, isto é, verificar se os requisitos foram atendidos, se a documentação está tecnicamente correta e completa. Responsável: Contratante. (3) Emitir Termo de Recebimento Definitivo ou Termo de Recusa, isto é, emitir posicionamento de aceite ou recusa de produto recebido, emitido justificativa em caso de recusa. Responsável: Contratante. (4) Encerrar a solicitação de serviço. Responsável: Contratante. 9. Condições Contratuais de Atendimento 10. Responsabilidade DA PRESTADORA DE SERVIÇO: executar as atividades, gerar e entregar o(s) o(s) produto (s) e/ou artefato(s). DA CONTRATANTE: fornecer as informações necessárias à elaboração do(s) artefato(s) e emitir termo de aceite dos produtos e/ou artefatos. 11. Requisitos gerais a serem observados 1) A Contratante deverá indicar na "Ordem de Serviço (OS)" as Fases e Etapas do processo de software a serem executados; 2) A decisão da Contratante por contratação de uma Fase ou Etapa do processo de software referente a um determinado projeto, que necessariamente ocorrerá por meio da emissão de uma OS, não gera obrigação da mesma para contratação de outras Fases ou Etapas relativos ao mesmo projeto; 3) Uma OS poderá englobar Fases e/ou Etapas do processo de software referente a um determinado projeto que a Contratante julgar convenientes e necessários; 4) Será entendido como concluído a Fase e ou Etapa que tiver todos os seus produtos, serviços e macroatividades recebidos/prestados, avaliados e formalmente aprovados pela Contratante; 5) O pagamento será efetuado relativo a cada Fase ou Etapa, e somente ocorrerá mediante recebimento definitivo pelo Gestor do Contrato; 6) O valor será pago a será calculado conforme regras estabelecidas nos Itens 7.2.2 e 7.2.3 deste Termo de Referência; 7) Não serão objeto de faturamento produtos ou serviços gerados sem prévia, expressa e formal solicitação por parte da Contratante. Da mesma forma, não serão aceitos produtos ou serviços prestados em desacordo com este contrato ou com as condições estabelecidas na OS; 8) A PRESTADORA DE SERVIÇO terá que corrigir, sem ônus para a Contratante, qualquer defeito identificado nos produtos de software, ambiente de produção, processos, rotinas de produção ou documentação por ela desenvolvidos ou executados. Entenda-se por defeito o funcionamento inadequado de sistemas incluindo, entre outra coisas: (1) Funcionamento do sistema em desacordo com a especificação; (2) Erros de recuperação e/ou consolidação de dados; (3) Erros em cargas ou extrações; (4) Erros de cálculo; (5) Erros no conteúdo de sistemas ou sites; (6) Problemas na arquitetura do sistema; (7) Baixa performance do sistema
+51
+
+em relação aos níveis de serviço estabelecidos para demanda; (8) Funcionamento descontínuo do sistema; (9) Recusa de usuários; Outros defeitos identificados e reconhecidos como tal pelas partes. 9) São quesitos importantes de qualidade: a busca pela integração dos sistemas existentes; e a observância aos padrões tecnológicos e processuais definidos pela Contratante. A Prestadora de Serviço terá que garantir a integração racional das soluções (conforme acordado entre as partes) e terá que utilizar, sempre que possível, os padrões tecnológicos e os processos definidos pela Contratante. 10) Deve-se integrar ao máximo as soluções, para isso, a PRESTADORA DE SERVIÇO, terá que utilizar, preferencialmente, um banco de dados padrão para o desenvolvimento de soluções para a Contratante. 11) Deve-se evitar a duplicação de dados entre os sistemas da Contratante, para isso, a PRESTADORA DE SERVIÇO, terá que: gerar o modelo de dados de todos os sistemas da Contratante que estão sob sua responsabilidade; analisar possíveis problemas de duplicação de informação; propor melhorias possíveis; garantir que os novos sistemas não apresentarão este tipo de problema. 12) A PRESTADORA DE SERVIÇO deverá realizar serviço de administração de dados e administração de banco de dados dos sistemas que estão sob sua responsabilidade, exceto para os casos em que existir orientação `contrária', por parte da Contratante. 13) As aplicações deverão ser integradas, padronizadas e portáveis, desenvolvidas preferencialmente em ambiente WEB, com o uso de tecnologias acordadas entre as partes.
+
+52
+
+Guia de Contagem APF SUMÁRIO
+
+1. INTRODUÇÃO....................................................................................................................... 54 2. TIPOS DE CONTAGEM ......................................................................................................... 54 a. CONTAGEM DETALHADA DE PONTOS DE FUNÇÃO ......................................................... 54 b. CONTAGEM ESTIMATIVA DE PONTOS DE FUNÇÃO ......................................................... 54 c. A CONTAGEM INDICATIVA DE PONTOS DE FUNÇÃO ....................................................... 55 3. APLICAÇÃO DOS TIPOS DE CONTAGEM PARA DESENVOLVIMENTO DE NOVAS FUNCIONALIDADES E MANUTENÇÕES EVOLUTIVAS ............................................................. 55 4. CONTAGEM PARA MANUTENÇÕES EVOLUTIVAS DECORRENTES DE ALTERAÇÃO DE REQUISITOS FUNCIONAIS EM FUNÇÕES DE DADOS OU PROCESSOS ELEMENTARES .... 55 5. CONTAGEM PARA MANUTENÇÕES EVOLUTIVAS EM FUNÇÕES DE DADOS OU PROCESSOS ELEMENTARES NÃO DECORRENTES DE ALTERAÇÃO DE REQUISITOS FUNCIONAIS................................................................................................................................ 56 6. CONTAGEM PARA MANUTENÇÕES EVOLUTIVAS EM FUNCIONALIDADES NÃO RECONHECIDAS PELO CPM ...................................................................................................... 56 7. CONTAGEM PARA APURAÇÕES ESPECIAIS...................................................................... 56 8. OUTROS CENÁRIOS (CASOS DE CONTAGEM) ................................................................. 56 a. CENÁRIO 1 ­ DADOS DE CÓDIGO ...................................................................................... 57 b. CENÁRIO 2 ­ DISPONIBILIZAÇÃO DE RELATÓRIOS EM MAIS DE UM FORMATO ........... 57 c. CENÁRIO 3 ­ RECUPERAÇÃO E ATUALIZAÇÃO DE DADOS DE OUTROS SISTEMAS UTILIZANDO TECNOLOGIAS ESPECÍFICAS .............................................................................. 58 9. GLOSSÁRIO.......................................................................................................................... 58
+
+53
+
+INTRODUÇÃO A Análise de Pontos de Função (APF) é uma técnica padronizada pela International Funcion Point Users Group ­ IFPUG (www.ifpug.org) ­ que visa medir o desenvolvimento e manutenção de software em termos significativos para os seus usuários, com base na visão de negócio. O ponto de função é a unidade utilizada para tal fim e busca em um único número ponderar os requisitos funcionais de armazenamento e processamento de uma aplicação ou projeto. As regras, procedimentos e práticas de contagem estão definidos no Counting Practices Manual ­ CPM ­ em sua versão 4.3.1. Na medida em que a técnica se baseia na visão do usuário e também em aspectos de sua aplicação que demandam uma interpretação das regras e procedimentos, o próprio manual de contagem recomenda que haja um Guia Local de Contagem com as interpretações locais dessas regras gerais. A finalidade deste documento é cumprir esse papel, facilitando o uso da técnica de análise de pontos de função dentro do contexto de desenvolvimento e manutenção de sistemas específicos do Ministério da Fazenda. Portanto, funciona como um complemento ao CPM. O princípio é fornecer uma referência local comum que torne mais prática a aplicação dos conceitos e regras definidos pelo IFPUG com a sua exemplificação em situações peculiares ao Ministério da Fazenda e também oriente quanto à contagem nas situações em que o IFPUG ainda não oferece orientação prática ou objetiva. Este documento está sujeito a novas atualizações sempre que necessário, mediante acordo com aqueles fornecedores cujos contratos estejam associados ao guia, caso as mudanças se apliquem a eles e não impliquem alterações contratuais. TIPOS DE CONTAGEM A NESMA (Netherlands Software Metrics Users Association) é uma associação de usuários de métricas que tem indicado alternativas de contagem, utilizando a APF, de forma a possibilitar medir de forma mais acurada alguns escopos em que a APF não tem se mostrado eficaz. Neste contexto, encontram-se as estimativas de novos desenvolvimentos quando realizadas em estágios iniciais de seu ciclo de vida, e as contagens relativas a manutenções evolutivas. Os tipos de contagem preceituados pela NESMA são os seguintes: CONTAGEM DETALHADA DE PONTOS DE FUNÇÃO A contagem detalhada é a contagem usual de pontos de função conforme padrão do IFPUG. É realizada da seguinte forma: i. Determinam-se todas as funções de todos os tipos (ALI, AIE, EE, SE, CE) ii. iii. Determina-se a complexidade de cada função (Baixa, Média, Alta) Calcula-se o total de pontos de função não ajustados
+
+Após a conclusão da etapa de requisitos, apenas este tipo de contagem é admitido.
+
+CONTAGEM ESTIMATIVA DE PONTOS DE FUNÇÃO A contagem estimativa é realizada da seguinte forma: i. Determinam-se todas as funções de todos os tipos (ALI, AIE, EE, SE, CE)
+
+54
+
+ii.
+
+Toda função do tipo dado (ALI, AIE) tem sua complexidade funcional fixada como Baixa, e toda função transacional (EE, SE, CE) é fixada como de complexidade média
+
+iii.
+
+Calcula-se o total de pontos de função não ajustados
+
+Logo, a única diferença em relação à contagem usual de pontos de função é que a complexidade funcional não é determinada individualmente para cada função, mas predefinida para todas elas. Este tipo de contagem é admitido na etapa de confecção da Ordem de Serviço.
+
+A CONTAGEM INDICATIVA DE PONTOS DE FUNÇÃO A contagem indicativa é realizada da seguinte forma: 6. Determina-se a quantidade das funções do tipo dado (ALIs e AIEs) 7. Calcula-se o total de pontos de função não ajustados da aplicação da seguinte forma: tamanho indicativo (pf) = 35 x número de ALIs + 15 x número de AIEs Portanto esta estimativa é baseada somente na quantidade de arquivos lógicos existentes (ALIs e AIEs) A contagem indicativa é baseada na premissa de que existem aproximadamente três EEs (para adicionar, alterar, e excluir dados do ALI), duas SEs, e uma CE na média para cada ALI, e aproximadamente uma SE e uma CE para cada AIE. Este tipo de contagem é admitido apenas na estimativa de um portfólio de projetos, não sendo admitida para um projeto específico. APLICAÇÃO DOS TIPOS DE CONTAGEM PARA DESENVOLVIMENTO DE NOVAS FUNCIONALIDADES E MANUTENÇÕES EVOLUTIVAS Para projetos de novo desenvolvimento são admitidos, no âmbito do Ministério da Fazenda, os 3 (três) tipos de contagem de pontos de função, conforme os padrões estabelecidos pela NESMA e o estágio do ciclo de vida em que o projeto se encontrar: detalhada, estimativa e indicativa. Para manutenções evolutivas em que se aplicar esses tipos de contagem será aplicada apenas a contagem detalhada.
+
+CONTAGEM PARA MANUTENÇÕES EVOLUTIVAS DECORRENTES DE ALTERAÇÃO DE REQUISITOS FUNCIONAIS EM FUNÇÕES DE DADOS OU PROCESSOS ELEMENTARES Neste caso a contagem será feita integralmente. Quando se tratar de manutenção de páginas web estáticas disponibilizadas por meio de um publicador, será considerada como a disponibilização de um dado presente em uma tabela. Será atribuído a essa funcionalidade o total de 0,375 pontos de função (3 x 0,125). Os índices aplicados às contagens nesse Guia não excluem as pontuações previstas em contratos ou editais, referentes às etapas do projeto de desenvolvimento, à tecnologia ou ainda ao tipo de demanda. Ou seja, desse guia decorre apenas a quantidade de pontos de função
+55
+
+considerada para a demanda. Para fins de faturamento ainda se devem aplicar as pontuações citadas, onde couberem. CONTAGEM PARA MANUTENÇÕES EVOLUTIVAS EM FUNÇÕES DE DADOS OU PROCESSOS ELEMENTARES NÃO DECORRENTES DE ALTERAÇÃO DE REQUISITOS FUNCIONAIS Neste caso a contagem dessa alteração será feita multiplicando-se o total de pontos de função da funcionalidade por 0,125. Exemplo 1: "O usuário solicitou que uma determinada informação já existente em um relatório seja exibida em negrito. Supondo que esse relatório seja uma saída externa de complexidade alta, ele contabiliza 7 pontos de função. Porém a alteração contribuiria apenas com 7 x 0,125 para o tamanho do projeto, isto é 0,875 pontos de função. " Quando se tratar de manutenção para garantir a usabilidade de uma funcionalidade decorrente de mudança de requisitos arquiteturais, a contagem será feita multiplicando-se o total de pontos de função da funcionalidade por 0,4. Exemplo2: O usuário solicita que uma funcionalidade que antes só funcionava para um determinado navegador web passe a funcionar também para outros. Supondo que seja uma entrada externa de complexidade alta, essa contabiliza 6 pontos de função. Porém a alteração contribuiria apenas com 6 x 0,4 para o tamanho do projeto, isto é 2,4 pontos de função. CONTAGEM PARA MANUTENÇÕES EVOLUTIVAS EM FUNCIONALIDADES NÃO RECONHECIDAS PELO CPM À exceção de dados de código qualquer solicitação de alteração em funcionalidade não reconhecida como processo elementar ou função de dado será contada como 0,2 pontos de função por solicitação. Exemplo: O usuário solicitou numa mesma Ordem de Serviço: (i) que o menu do sistema seja mudado de vertical para horizontal, e (ii) que numa determinada página seja posto um link para outra página (considerando-se que essa página não seja disponibilizada via publicador). Para o conjunto das alterações será considerado apenas o total de 0,2 pontos de função, ainda que envolva mais de uma ação por parte do desenvolvedor.
+
+CONTAGEM PARA APURAÇÕES ESPECIAIS Quando o usuário solicitar funcionalidade para alteração de dados em um conjunto de tabelas ou relatórios cuja execução será feita apenas uma vez (não serão disponibilizados como funcionalidades do sistema), para fins de contagem, considera-se essa funcionalidade dentro da fronteira da aplicação instalada, porém a contagem será feita multiplicando-se o total de pontos de função associado à funcionalidade por 0,2. OUTROS CENÁRIOS (CASOS DE CONTAGEM) Neste item estão descritos os cenários comumente encontrados durante a análise de pontos de função para os quais o IFPUG ainda não oferece orientação prática ou objetiva. As
+56
+
+contagens realizadas no âmbito do Ministério da Fazenda devem estar em conformidade com as definições firmadas para cada um dos cenários descritos. CENÁRIO 1 ­ DADOS DE CÓDIGO Conceito "Dados de Código" (code data) fornecem uma lista de valores válidos que um atributo descritivo pode ter. Tipicamente os atributos dos Dados de Códigos são Códigos, Descrição e/ou outros atributos padrão descrevendo o código. São uma implementação de requisitos técnicos e não devem influenciar o tamanho funcional da aplicação, apesar de poderem representar até metade do modelo de dados em terceira forma normal. Exemplo: abreviação comum, data inicial, data final, dados de trilha de auditoria etc.
+
+Abordagem Não se contam as tabelas que são "Dados de Código" (code data) como ALIs ou AIEs e nem as transações e telas que operam exclusivamente sobre estes dados (exemplo: CRUD). Estas tabelas somente serão consideradas "dados de referência" e, portanto, contadas se possuírem atributos que são determinantes na definição de regras de negócio. Para tal, essas regras de negócio não devem basear-se apenas no código do registro, mas devem ser parametrizadas por atributos deste registro.
+
+Exemplo Um cadastro de municípios pode possuir diversos atributos (código, título, data de inclusão, data de alteração, etc.), mas se não houver atributos que definem regras de negócio, não serão contadas funções transacionais ou de dados para este cadastro. CENÁRIO 2 ­ DISPONIBILIZAÇÃO DE RELATÓRIOS EM MAIS DE UM FORMATO Conceito Uma aplicação precisa gerar relatórios em mais de um formato (Ex.: TXT, HTML, PDF, XLS, etc.) Abordagem Se um sistema tem como requisito gerar relatórios em vários formatos, os relatórios para todos os formatos serão considerados como saída ou consulta externa, caso seja apenas uma simples recuperação de dados ou informações de controle, e serão contabilizados como um processo elementar apenas, desde que para todos os formatos de relatório sejam válidos os seguintes requisitos, na visão do usuário: i. Possuem a mesma lógica de processamento; ii. Possuem o mesmo conjunto de itens de dados; iii. Possuem os mesmos arquivos referenciados. As implementações diferenciadas decorrentes das variantes tecnológicas para os diversos formatos de relatório requeridos pelo usuário não serão consideradas alterações nas lógicas de processamento.
+57
+
+Exemplo O sistema A possui um relatório de credores, que exibe o total de credores ao final. Possui ainda o requisito de que este relatório seja gerado em 2 (dois) formatos diferentes: PDF e XLS. Considerando-se que as condições "i", "ii" e "iii" acima estejam satisfeitas, seria contabilizada apenas uma saída externa pela possibilidade de gerar relatórios em PDF e XLS. CENÁRIO 3 ­ RECUPERAÇÃO E ATUALIZAÇÃO DE DADOS DE OUTROS SISTEMAS UTILIZANDO TECNOLOGIAS ESPECÍFICAS Conceito Uma aplicação precisa usar dados mantidos por outra aplicação ou enviar dados para essa aplicação Abordagem 1) Se um sistema (A) tem como requisito acessar dados mantidos em outro sistema (B) há um AIE presente na contagem dos PFs de A independente da forma como o acesso é feito (seja via tabela do banco de dados, web-service, broker, view ou qualquer outro middleware). Este AIE terá tantos Tipos de Registro e tantos Itens de Dados quantos forem reconhecidos pelo usuário.
+
+2) Se um sistema (A) tem como requisito enviar dados para outra aplicação (B) e uma funcionalidade da aplicação B os processa para manter um arquivo lógico, as funcionalidades de A e B não se confundem. Independente da forma como o acesso é feito (seja via web-service, broker, view ou qualquer outro middleware): i. ii. iii. O arquivo mantido em B não será considerado referenciado em A. Cada funcionalidade será identificada na fronteira da sua aplicação, conforme critérios para identificação de um processo elementar. Os itens de dados que trafegam na fronteira das aplicações serão considerados na apuração da complexidade de cada funcionalidade na fronteira da respectiva aplicação.
+
+GLOSSÁRIO Apuração Especial ­ Processo elementar desenvolvido para solução de uma demanda eventual, o qual não contribui para o aumento do tamanho da aplicação em pontos de função. Pode tratar-se de alteração de valores em registros de um Arquivo lógico interno ou da produção de uma consulta/relatório. O usuário recebe como produto apenas o resultado da execução do procedimento, não tendo mais acesso à funcionalidade após a sua execução. A apuração especial quando altera dados é semelhante às funções de conversão, porém não está associada a um projeto específico. Por outro lado, quando fornece informação ao usuário, normalmente isso é feito por meio da geração de arquivo físico (TXT, XLS, PDF, HTML etc). Arquivo lógico interno - Um arquivo lógico interno (ALI) é um grupo de dados logicamente relacionados ou informações de controle, reconhecido pelo usuário, mantido dentro da fronteira da aplicação sendo medida. A intenção primária de um ALI é armazenar dados mantidos através de um ou mais processos elementares da aplicação que está sendo medida. CPM - Manual de Práticas de contagem do IFPUG.
+58
+
+Função de Dados. Uma função de dados representa a funcionalidade fornecida ao usuário para satisfazer seus requisitos de armazenamento de dados internos e externos. Uma função de dados é um arquivo lógico interno (ALI) ou um arquivo de interface externa (AIE). Processo Elementar. Um processo elementar é a menor unidade de atividade que é significativa para os usuários. Pode ser classificada como Entrada Externa, Consulta Externa ou Saída Externa.
+
+59
+
+MINISTÉRIO DA FAZENDA Secretaria Executiva Subsecretaria de Planejamento, Orçamento e Administração. Coordenação-Geral de Recursos Logísticos
+
+Anexo II do Pregão Eletrônico COGRL No 28/2010
+
+Modelo de apresentação de Proposta
+
+SERVI ÇO
+
+FASE
+
+QTDE ANUAL ESTIMADA
+
+UNIDADE DE MEDIDA
+
+DESCRIÇÃO
+
+VALOR UNITÁRIO (R$)
+
+VALOR TOTAL ANUAL (R$)
+
+Modelagem de sistemas 1 Fábrica de software
+
+7500
+
+Horas de Trabalho
+
+14500
+
+Pontos de Função Brutos
+
+Prestação de serviços técnicos de consultoria em modelagem de sistemas de informação Prestação de serviços técnicos de Fábrica de Software.
+
+60
+
+MINISTÉRIO DA FAZENDA Secretaria Executiva Subsecretaria de Planejamento, Orçamento e Administração. Coordenação-Geral de Recursos Logísticos
+
+ANEXO III ­ MODELO DE DECLARAÇÃO INDEPENDENTE DE PROPOSTA
+PREGÃO COGRL 28/2010.
+............................................................................. , como representante devidamente (representante da licitante) constituído da empresa ...................................................................................................................... (identificação completa da licitante, inclusive CNPJ) O doravante denominada Licitante, para fins do disposto no Edital de Pregão N XX/2010, declara, sob as penas da lei, em especial o art. 299 do Código Penal Brasileiro, que: (a) a proposta apresentada para participar do Pregão em epígrafe foi elabora de maneira independente pela Licitante, e o conteúdo da proposta não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer outro participante potencial ou de fato da presente licitação por qualquer meio ou qualquer pessoa; (b) a intenção de apresentar a proposta elaborada para participar desta licitação não foi informada, discutida ou recebida de qualquer outro participante potencial ou de fato desta licitação, por qualquer meio ou por qualquer pessoa. (c) que não tentou, por qualquer meio ou por qualquer pessoa, influir na decisão de qualquer outro participante potencial ou de fato deste pregão quanto a participar ou não da referida licitação. (d) que o conteúdo da proposta apresentada para participar deste pregão não será, no todo ou em parte, direta ou indiretamente, comunicado ou discutido com qualquer outro participante potencial ou de fato da licitação antes da adjudicação do objeto da referida licitação. (e) que o conteúdo da proposta apresentada para participar deste Pregão, não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer integrante da Coordenação Geral de Recursos Logísticos do Ministério da Fazenda, antes da abertura oficial das propostas. (f) que está plenamente ciente do teor e da extensão desta declaração e que detém plenos poderes e informações para firmá-la.
+
+____________________, em ______ de ______________de 2010.
+
+............................................................................................... Representante legal da licitante, com identificação completa
+
+61
+
+MINISTÉRIO DA FAZENDA Secretaria Executiva Subsecretaria de Planejamento, Orçamento e Administração Coordenação-Geral de Recursos Logísticos
+
+ANEXO IV DO EDITAL DE PREGÃO ELETRÔNICO COGRL/MF No 28/2010
+
+MINUTA DE ATA DE REGISTRO DE PREÇOS Aos ......... dias do mês de ..............de 2009, na sede da Coordenação ­ Geral de Recursos Logísticos do Ministério da Fazenda, inscrita no CNPJ no 00.394.460/0439-75, situada no setor de Autarquias Sul, Quadra 06, Bloco "O", 7° andar Edifício Órgãos Centrais, em Brasília ­ DF, de um lado a União, por intermédio da Coordenação­Geral de Recursos Logísticos, neste ato representado pelo Sr. Erasmo Veríssimo de Castro Sampaio, no uso das atribuições que lhe confere o inciso "I" do parágrafo primeiro, do artigo 94, do Regimento Interno da Secretaria Executiva do Ministério da Fazenda, aprovado pela Portaria MF no 207, de 4 de março de 2010, em seqüência designada simplesmente CONTRATANTE , e de outro lado, a Empresa.................................., inscrita no CNPJ/MF sob o no....................................., estabelecida na.........................................., neste ato representado por......................................., portador da Carteira de Identidade no.........................., expedida pela .....................e do CPF no....................................., em face da classificação das propostas apresentadas no Pregão para Registro de Preços No..................., RESOLVEM registrar os preços para eventual aquisição do material constante do Anexo I do Edital do Pregão No.................., nos termos da Lei no 10.520, de 17 de julho de 2002, dos Decretos no 3.555, de 08 de agosto de 2000, 3.693 , de 20 de dezembro de 2000, 3.784, de 06 de abril de 2001, no 3.931, de 19 de setembro de 2001 e no 4.342, de 23 de agosto de 2002, que regulamentam a modalidade do Pregão e o Sistema de Registro de Preços, e no que couber a Lei no 8.666, de 21 de junho de 1993 e demais normas legais aplicáveis, elaborado de acordo com a minuta examinada pela Douta Procuradoria da Fazenda Nacional no Distrito Federal, "ex-vi" do disposto no artigo 38, parágrafo único da Lei no 8.666/93, de 21 de junho de 1993, e no art. 13, inciso III, alínea "e", do Decreto-Lei no 147, de 03 de fevereiro de 1967, e autorizado por despacho do Coordenador de Suprimento da Coordenação-Geral de Recursos Logísticos do Ministério da Fazenda, em conformidade com o disposto no art. 61, da Lei no 8.666/93, exarado no Processo No.................................., mediante as Cláusulas e condições seguintes: CLÁUSULA PRIMEIRA ­ DO OBJETO Registro de Preços para eventual prestação de serviços técnicos de desenvolvimento e manutenção de sistemas de informação, sítios e portais na forma de serviços continuados, conforme condições estabelecidas no edital e seus anexos. CLÁUSULA SEGUNDA ­ DA VALIDADE DE PREÇOS A presente Ata de Registro de Preços terá validade de 12 (doze) meses, a partir da homologação.
+62
+
+PARÁGRAFO ÚNICO Durante o prazo de validade desta Ata de Registro de Preços, a Coordenação-Geral de Recursos Logísticos do Ministério da Fazenda não será obrigada a adquirir o material referido na Cláusula Primeira exclusivamente pelo Sistema de Registro de Preços, podendo fazê-lo através de outra licitação quando julgar conveniente, sem que caiba recurso ou indenização de qualquer espécie às empresas detentoras, ou cancelar esta Ata, na ocorrência de alguma das hipóteses legalmente previstas para tanto, garantido às detentoras, neste caso, o contraditório e a ampla defesa. CLÁUSULA TERCEIRA ­ DA UTILIZAÇÃO DA ATA DE REGISTRO DE PREÇOS Durante sua vigência, a presente Ata poderá ser utilizada por qualquer órgão ou entidade da Administração que não tenha participado do certame licitatório, mediante manifestação de interesse junto a Coordenação-Geral de Recursos Logísticos do Ministério da Fazenda, para que esta autorize e indique os possíveis fornecedores e respectivos preços a serem praticados, obedecendo a ordem de classificação. CLÁUSULA QUARTA ­ DO PAGAMENTO Em todos os fornecimentos, o pagamento será efetuado por crédito bancário, até o 5o (quinto) dia útil da apresentação da nota fiscal/fatura, devidamente atestada pelo setor responsável pelo recebimento. CLÁUSULA QUINTA ­ DA AUTORIZAÇÃO DOS SERVIÇOS Cada serviço deverá ser efetuado mediante encaminhamento ao fornecedor da Autorização de Serviços, juntamente com a Nota de Empenho do órgão solicitante e Contrato. PARÁGRAFO PRIMEIRO A empresa fornecedora, quando do recebimento da Autorização de Serviço emitida pelo órgão solicitante, deverá colocar, na cópia que necessariamente a acompanhar, a data e hora em que recebeu, além da identificação de quem a recebeu. PARÁGRAFO SEGUNDO Cópia da Autorização de Serviço, referida no § anterior, deverá ser devolvida ao órgão requisitante, afim de ser anexada ao processo correspondente. PARÁGRAFO TERCEIRO O fornecedor ficará obrigado a atender todos os pedidos efetuados durante a vigência desta Ata, mesmo que a entrega deles decorrente estiver prevista para data posterior à do seu vencimento. CLÁUSULA SEXTA ­ DAS PENALIDADES
+
+Com fundamento no art. 7º da Lei nº 10.520/2002 e nos artigos 8.666/1993, a CONTRATADA ficará sujeita, no caso de atraso considerado pela Administração, execução parcial ou inexecução prejuízo das responsabilidades civil e criminal, assegurada a prévia seguintes penalidades: a) Advertência ou multa, observado o quadro abaixo:
+63
+
+86 e 87 da Lei nº injustificado, assim da obrigação, sem e ampla defesa, às
+
+TABELA DE REFERÊNCIA PARA MULTA / POR PROJETO DESCRIÇÃO a.1) a.2) Descumprir item contratual Suspender ou interromper, salvo motivo de força maior ou caso fortuito, os serviços solicitados, sem comunicação formal à STN Manter empregado sem qualificação para executar os serviços contratados Acumular 3 (três) advertências a.4) Deixar de substituir empregado conforme dispõem exigências estabelecidas no Termo de Referência Índice de Descumprimento de Cronograma -IDC maior que 0 (zero) e menor ou igual a 0,03 Por dia REFERÊNCIA Por ocorrência PENALIDADE Advertência Multa de 0,5% sobre o valor da etapa do projeto Multa de 0,5% sobre o valor da etapa do projeto Multa de 0,5% sobre o valor médio da etapa dos projetos envolvidos Multa de 0,1% sobre o valor da etapa do projeto
+
+Por ocorrência
+
+a.3)
+
+Por ocorrência Por ocorrência
+
+a.5) a.6)
+
+Por etapa do projeto
+
+Advertência Multa de ((IDC / 3) * valor da etapa do projeto), limitado ao valor da etapa Advertência Multa de 2% do valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência. Multa de 5% do valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência Advertência Multa de 2% do valor da etapa de Estabilização do projeto Advertência Multa de 2% valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência. Multa de 5% valor da etapa do projeto, considerando-se o item
+
+a.7)
+
+Índice de Descumprimento de Cronograma -IDC maior que 0,03 Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,03 e menor ou igual a 0,05 Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,05 e menor ou igual a 0,15
+
+Por etapa do projeto Por etapa do projeto
+
+a.8)
+
+a.9)
+
+Por etapa do projeto
+
+a.10)
+
+Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,15 Índice de Descumprimento de Prazo de Chamados Técnicos -IDPCT maior que 0,1 e menor ou igual a 0,3 Índice de Descumprimento de Prazo de Chamados Técnicos -IDPCT maior que 0,3 Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,05 e menor ou igual a 0,1 Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,1 e menor ou igual a 0,2 Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,2
+64
+
+Por etapa do projeto
+
+Por aferição
+
+a.11)
+
+Por aferição
+
+a.12)
+
+Por etapa
+
+a.13)
+
+a.14)
+
+Por etapa
+
+Por etapa
+
+a.15)
+
+7.2.2 do Termo de Referência Índice de Desconformidade de Qualidade de Produto -IDQP maior que 0,3 e menor ou igual a 0,5 Índice de Desconformidade de Qualidade de Produto -IDQP maior que 0,5
+
+Por etapa
+
+Advertência Multa de 2% valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência.
+
+a.16)
+
+a.17)
+
+Por etapa
+
+b) Multa de 0,03% ao dia sobre o valor total anual estimado, no caso de atraso injustificado para atendimento dos prazos estabelecidos pela Administração para apresentação de documentos ou para devolução de instrumentos contratuais e seus aditivos, se for o caso; c) Multa de 2% sobre o valor total anual estimado, no caso de inexecução parcial da obrigação assumida; d) Multa de 5% sobre o valor total anual estimado, no caso de inexecução total da obrigação assumida; e) Suspensão temporária do direito de participar de licitação e impedimento de contratar com o Ministério da Fazenda, pelo prazo de até 2 (dois) anos; e f) Declaração de inidoneidade para licitar ou contratar com a Administração Pública.
+PARÁGRAFO PRIMEIRO
+
+O valor da multa, aplicada após o regular processo administrativo, será descontado de pagamentos eventualmente devidos pelo CONTRATANTE à CONTRATADA ou cobrado judicialmente;
+PARÁGRAFO SEGUNDO
+
+As sanções previstas nas alíneas "a", "e" e "f" desta cláusula poderão ser aplicadas, cumulativamente ou não, à pena de multa; e
+PARÁGRAFO TERCEIRO
+
+As penalidades previstas nas alíneas "e" e "f" desta cláusula também poderão ser aplicadas à CONTRATADA que tenha sofrido condenação definitiva por fraudar recolhimento de tributos, praticar ato ilícito visando a frustrar os objetivos de licitação ou demonstrar não possuir idoneidade para contratar com a Administração.
+CLÁUSULA SÉTIMA ­ DO CANCELAMENTO DO REGISTRO DE PREÇOS O fornecedor poderá ter o seu registro de preços cancelado em Ata:
+
+65
+
+PARÁGRAFO PRIMEIRO - Pela Administração, quando: a) descumprir as obrigações da Ata de Registro de Preços; b) não retirar a respectiva Nota de Empenho ou instrumento equivalente, no prazo estabelecido pela Administração, sem justificativa aceitável; c) não aceitar reduzir o preço registrado, caso este se torne superior aos praticados no mercado; d) por razões de interesse público, devidamente justificadas pela Administração; e) der causa a rescisão administrativa decorrente da presente Ata de Registro de Preços. PARÁGRAFO SEGUNDO - Pelo fornecedor, quando: a) mediante solicitação por escrito, comprovar estar impossibilitado de cumprir as exigências desta Ata de Registro de Preços. b) A comunicação do cancelamento dos preços registrados será feita por escrito, entregue pessoalmente ou por correspondência, com aviso de recebimento, juntando-se comprovante aos autos em ambos os casos. c) No caso de ser ignorado, incerto ou inacessível o endereço do Fornecedor, a comunicação será feita por publicação no Diário Oficial da União, considerando-se cancelado(s) o(s) preço(s) no dia subseqüente à publicação. CLÁUSULA NONA ­ DA AUTORIZAÇÃO PARA AQUISIÇÃO E EMISSÃO DAS ORDENS DE FORNECIMENTO As aquisições do objeto da presente Ata de Registro de Preço serão autorizadas, caso a caso, pela Coordenação-Geral de Recursos Logísticos do Ministério da Fazenda ou, na hipótese prevista na Cláusula Terceira, pelo órgão requisitante. PARÁGRAFO ÚNICO A emissão das Autorizações de Fornecimento, sua retificação ou cancelamento, total ou parcial, serão igualmente autorizadas pela Coordenação-Geral de Recursos Logísticos do Ministério da Fazenda ou pelo órgão requisitante ao qual tenha sido facultada à utilização desta Ata de Registro de Preços. CLÁUSULA DÉCIMA ­ DAS DISPOSIÇÕES FINAIS Integram esta Ata, o Edital do Pregão para Registro de Preços no XX/2010 e a proposta da empresa classificada em primeiro lugar, de acordo com o quadro abaixo: Item Descrição Unidade Fornec. Qtd Média Unitário Total
+
+66
+
+Os casos omissos serão resolvidos de acordo com a Lei no 10.250, de 17 de julho de 2002, decretos no 3.555, de 08 de agosto de 2000, no 3.931,de 19 de setembro de 2001 com alterações do Decreto no 4.342, de 23 de agosto de 2002 e, no que couber, com a Lei no 8.666, de 21 de junho de 1993.
+
+CLÁUSULA DÉCIMA SEGUNDA ­ DO FORO Fica eleito o Foro da Justiça Federal, da Seção Judiciária do Distrito Federal., para dirimir quaisquer questões decorrentes da utilização da presente Ata de Registro de Preços, que não possam ser resolvidas administrativamente.
+
+Coordenador de Suprimentos da COGRL
+
+Representante da Empresa Licitante Vencedora
+
+TESTEMUNHAS: 1ª _________________________________ Nome: CPF : RG :
+
+2ª ________________________________ Nome: CPF: RG:
+
+67
+
+MINISTÉRIO DA FAZENDA Secretaria Executiva Subsecretaria de Planejamento, Orçamento e Administração Coordenação-Geral de Recursos Logísticos
+
+ANEXO V DO EDITAL DE PREGÃO ELETRÔNICO COGRL/MF no 28/2010
+CONTRATO Nº XXX/XXXX, DE PRESTAÇÃO DE SERVIÇOS TÉCNICOS PARA O DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS DE INFORMAÇÃO, SÍTIOS E PORTAIS NA FORMA DE SERVIÇOS CONTINUADOS, QUE ENTRE SI CELEBRAM A UNIÃO E A EMPRESA ..................................................... (Pregão Eletrônico Nº XXX/2010 -Processo n° XXXXXX).
+
+Aos XXXX dias do mês de XXXXX do ano de dois mil e dez (xx/xx/2010), na sede da Coordenação Geral de Recursos Logísticos do Ministério da Fazenda, CNPJ nº 00.394.460/0439-75, situada no Setor de Autarquias Sul, Quadra 06, Bloco "O", 6º andar do Edifício Órgãos Centrais/MF, em Brasília-DF, de um lado a União, por intermédio da Coordenação Geral de Recursos Logísticos, neste ato representada pelo XXXXXXXXXXXXXXXXXXXXXXXX, Sr. XXXXXXXXXXXXXXXXXXXXX, no uso da atribuição que lhe confere a XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX, designada simplesmente CONTRATANTE, outro lado, a empresa ......................, com sede no ......................, CNPJ ....................., telefone ..................., FAX ......................, neste ato representada por seu ......................., Sr. ............................, RG .....................e CPF ........................., doravante denominada CONTRATADA, tem entre si justo e celebram por força do presente instrumento, elaborado de acordo com a minuta examinada pela Procuradoria Regional da Fazenda Nacional da 1ª Região, "ex-vi" do disposto no artigo 38, parágrafo único da Lei nº 8.666, de 21 de junho de 1993, e no artigo 13, inciso III, alínea "e", do Decreto-Lei nº 147, de 03 de fevereiro de 1967, com o artigo 5º, inciso IV, do Decreto nº 93.237, de 08 de setembro de 1986, e autorizado por despacho da Coordenadora de Suprimentos da Coordenação Geral de Recursos Logísticos do Ministério da Fazenda, exarado à fl. XX do processo MF nº XXXXXXXXXX, o presente Contrato, observadas as disposições da Lei nº 8.666, de 21 de junho de 1993, mediante as seguintes cláusulas e condições.
+
+CLÁUSULA PRIMEIRA ­ DO OBJETO O objeto do presente Contrato é a prestação de serviços técnicos para o desenvolvimento e manutenção de sistemas de informação, sítios e portais na forma de serviços continuados.
+68
+
+PARÁGRAFO PRIMEIRO - DA DOCUMENTAÇÃO COMPLEMENTAR A execução dos serviços obedecerá ao estipulado neste Contrato, bem como às disposições constantes dos documentos adiante enumerados, que integram o Processo MF nº XXXXXXXXXXX, e que, independentemente de transcrição, fazem parte integrante e complementar deste Contrato, no que não o contrariarem: I ­ Edital de Pregão XXXXXX COGRL/MF nº XXX/2010, de XX de XXXXXX de 2010; II ­ Normas, instruções e regulamentos baixados pelo Ministério da Fazenda; III ­ proposta e documentos que a acompanham, firmados pela Contratada em XX de XXXXX de 2010, e apresentados à Contratante, contendo o preço e demais especificações inerentes aos servioçs; todos assinados ou rubricados pela Contratada; e IV ­ Termo de Referência, especificações técnicas e demais elementos pertinentes.
+
+CLÁUSULA SEGUNDA ­ DO REGIME DE EXECUÇÃO O objeto do presente instrumento será executado por empreitada por preço unitário, em conformidade com o disposto na Lei nº 8.666/1993. CLÁUSULA TERCEIRA ­ DAS OBRIGAÇÕES DA CONTRATANTE I. Designar gestor para acompanhamento e fiscalização deste Contrato;
+
+II. Promover o acompanhamento e a fiscalização desta contratação, sob os aspectos quantitativo e qualitativo, anotando em registro próprio as falhas detectadas, comunicando as ocorrências de quaisquer fatos que exijam medidas corretivas por parte da CONTRATADA; III. Prestar as informações e os esclarecimentos que venham a ser solicitados pela CONTRATADA; IV. Proporcionar todas as facilidades para que a CONTRATADA possa desempenhar seus serviços dentro das normas e condições contratuais; V. Comunicar à CONTRATADA as eventuais irregularidades observadas na execução dos serviços e/ou nos produtos entregues, para adoção das providências saneadoras; VI. Permitir, durante a vigência do Contrato, o acesso dos representantes ou prepostos da CONTRATADA ao local de prestação de serviços, desde que devidamente identificados e acompanhados por representante do CONTRATANTE; VII. Notificar a CONTRATADA, por escrito, sobre toda e qualquer irregularidade constatada na execução dos serviços; e VIII. Efetuar o pagamento à CONTRATADA de acordo com as condições estabelecidas neste Contrato.
+
+69
+
+CLÁUSULA QUARTA ­ DAS OBRIGAÇÕES DA CONTRATADA I. Executar os serviços contratados em conformidade com as especificações, prazos e demais condições estabelecidas no Termo de Referência e nas Ordens de Serviço; II. Comunicar imediatamente ao CONTRATANTE, por escrito, qualquer irregularidade que comprometa ou inviabilize a realização dos serviços; III. Apresentar os documentos fiscais de cobrança em conformidade com o estabelecido neste Contrato; IV. Comunicar, por escrito, eventual atraso ou paralisação na execução do objeto, apresentando razões justificadoras, que serão objeto de apreciação pelo CONTRATANTE; V. Manter sigilo, sob pena de responsabilidade, sobre todo e qualquer assunto de interesse do CONTRATANTE, ou de terceiros de que tomar conhecimento em razão da execução do objeto deste Contrato, devendo orientar seus empregados nesse sentido; VI. Responsabilizar-se por todo e qualquer acidente do trabalho, dano ou prejuízo causado ao patrimônio do CONTRATANTE ou de terceiros, decorrente da execução do serviço contratado; VII. Manter, durante toda a execução do Contrato, as condições de habilitação e qualificação exigidas na licitação; VIII. IX. Indicar formalmente preposto visando a estabelecer contatos com o gestor deste Contrato; Cumprir as demais obrigações estabelecidas no Termo de Referência.
+
+CLÁUSULA QUINTA ­ DO VALOR O valor total anual estimado do Contrato é de R$ __________ (________), observado o Anexo I ao Contrato. CLÁUSULA SEXTA ­ DO RECEBIMENTO O objeto deste Contrato será recebido da seguinte forma: I. Provisoriamente, no ato da entrega de cada etapa, pela Coordenação de Sistemas e Tecnologia de Informação da STN, para posterior conferência de sua conformidade com o Contrato. Caso não haja qualquer impropriedade explícita, será atestado esse recebimento; II. Definitivamente, por etapa, observado o prazo para avaliação e aceite especificado no item 7.1 do Termo de Referência, por servidor ou comissão designada pelo CONTRATANTE, mediante termo circunstanciado, assinado pelas partes, após avaliação de conformidade e verificação de que os artefatos estão de acordo com as especificações técnicas estabelecidas na Ordem de Serviço e no Plano de Desenvolvimento de Sistema e observadas as demais condições contratuais. PARÁGRAFO PRIMEIRO Caso sejam constatadas inadequações, falhas ou incorreções na execução, fica a CONTRATADA obrigada a efetuar as correções necessárias, sem ônus para o CONTRATANTE.
+70
+
+PARÁGRAFO SEGUNDO O recebimento provisório ou definitivo não exclui as responsabilidades civil e penal da CONTRATADA.
+
+CLÁUSULA SÉTIMA ­ DO PAGAMENTO O pagamento será efetuado relativo a cada fase e, no caso dos serviços de Fábrica de Software, deve-se considerar ainda o pagamento relativo a cada etapa, e cada pagamento somente ocorrerá mediante recebimento definitivo pelo Gestor do Contrato dos produtos previstos para aquela fase ou etapa. No caso da prestação de serviços referentes à Modelagem de Sistemas o valor será pago por OS será calculado pela multiplicação da quantidade de horas efetivamente trabalhas e formalmente comprovadas pela Prestadora de Serviço e aceitas pela Contratante pelo valor da hora de trabalho. Não será admitido o pagamento parcial por produto referente à determinada OS No caso da prestação de serviços referentes à fase de Fábrica de Software o valor a ser pago será calculado mediante a aplicação do percentual estabelecido na Tabela de Percentual de Pagamento por Etapa (TPPE), pela multiplicação do Valor Unitário do Ponto de Função Bruto (VUPFB), ajustado pelos fatores de ajuste constantes na Tabela de Pontuação Tecnologia (PT) e Pontuação Tipo de Demanda (PTD), pelo quantitativo verificado na Análise de Ponto de Função Bruto (APFB) do produto: Pagamento = (VUPFB x APFB) * percentual de cada etapa * PT * PTD Etapa I II III IV V VI VII Nome da Etapa Levantamento de Requisitos Análise e Projeto Construção Homologação Implantação Transferência de Conhecimento Estabilização Percentual 20% 20% 30%
+
+15% 5% 10% Pontuação Tecnologia (PT) 1 0,83
+
+Plataformas Tecnológicas Plataforma JAVA, JEE e J2ME. Plataforma Microsoft Windows DNA -Tecnologia Microsoft VB 6 Microsoft VB. NET, ASP, ASP.Net, C#.net, HTML, Zope Plone, LUMIS, XML, PHP, Pyton e JavaScript C#.Net,ASP.Net, Joomla, XML. Plataforma Delphi e PL/SQL
+
+0,62
+
+0,83
+
+71
+
+Tipo de Demanda Desenvolvimento de novas funcionalidades Adequação de funcionalidades simples) / Manutenção Evolutiva Manutenção Corretiva (manutenções
+
+Pontuação Tipo de Demanda (PTD) 1 0,80 0,00
+
+Os pagamentos serão glosados de acordo com as diferenças decorrentes entre as contagens de PFB e penalidades imputadas à Prestadora de Serviço durante a execução do Contrato. Não será pago qualquer tipo de adicional a título de diárias, passagens, locomoção, alimentação, encargos e quaisquer outros não previstos no Contrato, Edital e seus Anexos. PARÁGRAFO PRIMEIRO A CONTRATADA não poderá apresentar nota fiscal/fatura com CNPJ diverso do qualificado no preâmbulo do Contrato. PARÁGRAFO SEGUNDO A nota fiscal/fatura apresentada em desacordo com o estabelecido no Edital, na nota de empenho, no Contrato ou com qualquer circunstância que desaconselhe o pagamento será devolvida à CONTRATADA e nesse caso o prazo previsto na Cláusula Sétima será interrompido. A contagem do prazo previsto para pagamento será iniciada a partir da respectiva regularização. PARÁGRAFO TERCEIRO Nenhum pagamento será efetuado à CONTRATADA enquanto pendente de liquidação qualquer obrigação. Esse fato não será gerador de direito a reajustamento de preços ou à atualização monetária.
+
+CLÁUSULA OITAVA ­ DA ATUALIZAÇÃO MONETÁRIA Ocorrendo atraso no pagamento, e desde que não tenha concorrido de alguma forma a CONTRATADA, haverá incidência de atualização monetária sobre o valor devido, pela variação acumulada do Índice Geral de Preços - Disponibilidade Interna (IGP/DI), coluna 2, publicado pela Fundação Getúlio Vargas (FGV), ocorrida entre a data final prevista para pagamento e a data de sua efetiva realização.
+
+CLÁUSULA NONA ­ DA VIGÊNCIA O presente Contrato terá vigência de 12 (doze) meses, a contar da assinatura, podendo ser prorrogado por iguais e sucessivos períodos até o limite de 60 (sessenta) meses.
+
+CLÁUSULA DÉCIMA ­ DO REAJUSTE Os preços contratados poderão ser reajustados, mediante negociação entre as partes e a
+72
+
+formalização do pedido pela CONTRATADA, tendo como limite máximo a variação do IGP/DI/FGV ocorrida nos últimos 12 (doze) meses, a contar da assinatura do Contrato ou do último reajuste. PARÁGRAFO ÚNICO A alegação de esquecimento por parte da CONTRATADA quanto ao direito de propor reajuste não será aceita como justificativa para pedido de efeito retroativo à data a que legalmente faria jus, se não a requerer dentro do primeiro mês de aniversário do Contrato, responsabilizando-se a CONTRATADA pela própria inércia.
+
+CLÁUSULA DÉCIMA PRIMEIRA ­ DAS SANÇÕES Com fundamento no art. 7º da Lei nº 10.520/2002 e nos artigos 86 e 87 da Lei nº 8.666/1993, a CONTRATADA ficará sujeita, no caso de atraso injustificado, assim considerado pela Administração, execução parcial ou inexecução da obrigação, sem prejuízo das responsabilidades civil e criminal, assegurada a prévia e ampla defesa, às seguintes penalidades: I. Advertência ou multa, observado o quadro abaixo:
+
+TABELA DE REFERÊNCIA PARA MULTA / POR PROJETO DESCRIÇÃO a.1) Descumprir item contratual Suspender ou interromper, salvo motivo de força maior ou caso fortuito, os serviços solicitados, sem comunicação formal à STN Manter empregado sem qualificação para executar os serviços contratados Acumular 3 (três) advertências Deixar de substituir empregado conforme dispõem exigências estabelecidas no Termo de Referência Índice de Descumprimento de Cronograma -IDC maior que 0 (zero) e menor ou igual a 0,03 Índice de Descumprimento de Cronograma -IDC maior que 0,03 Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,03 e menor ou igual a 0,05 Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,05 e menor ou igual a 0,15
+73
+
+REFERÊNCIA Por ocorrência
+
+PENALIDADE Advertência Multa de 0,5% sobre o valor da etapa do projeto Multa de 0,5% sobre o valor da etapa do projeto Multa de 0,5% sobre o valor médio da etapa dos projetos envolvidos Multa de 0,1% sobre o valor da etapa do projeto
+
+a.2)
+
+Por ocorrência
+
+a.3) a.4)
+
+Por ocorrência Por ocorrência
+
+a.5)
+
+Por dia
+
+a.6)
+
+Por etapa do projeto
+
+Advertência Multa de ((IDC / 3) * valor da etapa do projeto), limitado ao valor da etapa Advertência Multa de 2% do valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência.
+
+a.7)
+
+Por etapa do projeto Por etapa do projeto
+
+a.8)
+
+a.9)
+
+Por etapa do projeto
+
+a.10)
+
+Índice de Descumprimento de Prazo de Chamados Técnicos ­ IDPCT maior que 0,15 Índice de Descumprimento de Prazo de Chamados Técnicos -IDPCT maior que 0,1 e menor ou igual a 0,3 Índice de Descumprimento de Prazo de Chamados Técnicos -IDPCT maior que 0,3 Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,05 e menor ou igual a 0,1 Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,1 e menor ou igual a 0,2
+
+Por etapa do projeto
+
+Multa de 5% do valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência Advertência Multa de 2% do valor da etapa de Estabilização do projeto Advertência Multa de 2% valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência. Multa de 5% valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência Advertência Multa de 2% valor da etapa do projeto, considerando-se o item 7.2.2 do Termo de Referência.
+
+a.11)
+
+Por aferição
+
+a.12)
+
+Por aferição
+
+a.13)
+
+Por etapa
+
+a.14)
+
+Por etapa
+
+a.15)
+
+Índice de Desconformidade de Qualidade Funcional ­ IDQF maior que 0,2 Índice de Desconformidade de Qualidade de Produto - IDQP maior que 0,3 e menor ou igual a 0,5 Índice de Desconformidade de Qualidade de Produto - IDQP maior que 0,5
+
+Por etapa
+
+a.16)
+
+Por etapa
+
+a.17)
+
+Por etapa
+
+II. Multa de 0,03% ao dia sobre o valor total anual estimado, no caso de atraso injustificado para atendimento dos prazos estabelecidos pela Administração para apresentação de documentos ou para devolução de instrumentos contratuais e seus aditivos, se for o caso; III. Multa de 2% sobre o valor total anual estimado, no caso de inexecução parcial da obrigação assumida; IV. Multa de 5% sobre o valor total anual estimado, no caso de inexecução total da obrigação assumida; V. Suspensão temporária do direito de participar de licitação e impedimento de contratar com o Ministério da Fazenda, pelo prazo de até 2 (dois) anos; e VI. Declaração de inidoneidade para licitar ou contratar com a Administração Pública.
+
+PARÁGRAFO PRIMEIRO O valor da multa, aplicada após o regular processo administrativo, será descontado de pagamentos eventualmente devidos pelo CONTRATANTE à CONTRATADA ou cobrado judicialmente.
+
+74
+
+PARÁGRAFO SEGUNDO As sanções previstas nas alíneas "a", "e" e "f" desta cláusula poderão ser aplicadas, cumulativamente ou não, à pena de multa. PARÁGRAFO TERCEIRO As penalidades previstas nas alíneas "e" e "f" desta cláusula também poderão ser aplicadas à CONTRATADA que tenha sofrido condenação definitiva por fraudar recolhimento de tributos, praticar ato ilícito visando a frustrar os objetivos de licitação ou demonstrar não possuir idoneidade para contratar com a Administração. CLÁUSULA DÉCIMA SEGUNDA ­ DOS RECURSOS ORÇAMENTÁRIOS A despesa decorrente deste Contrato correrá à conta do Programa de Trabalho: XXXXXXXXXXXXXX ­ XXXXXXXXXXXXXXXXXXXXXX, Natureza da Despesa: XXXXXX ­ XXXXXXXXXX, consignado ao CONTRATANTE no Orçamento Geral da União de 2010, tendo sido emitida a Nota de Empenho nº ................., datada do dia __/__/____.
+
+CLÁUSULA DÉCIMA TERCEIRA ­ DA GARANTIA A CONTRATADA presta garantia de execução do Contrato no valor de R$ (_), na modalidade __________, correspondente a 5% do valor total anual estimado do Contrato, tendo como beneficiário o CONTRATANTE. PARÁGRAFO PRIMEIRO A garantia referida nesta Cláusula somente será liberada em até 90 (noventa) dias após o recebimento definitivo e, quando em dinheiro, atualizado monetariamente, de acordo com os critérios estabelecidos pela instituição bancária em que for realizado o depósito. PARÁGRAFO SEGUNDO Aditado o Contrato ou alterado o seu valor ou reduzido o valor da garantia em razão de aplicação de qualquer penalidade, fica a CONTRATADA obrigada a apresentar garantia complementar ou substituí-la, no mesmo percentual e modalidades constantes desta Cláusula.
+
+CLÁUSULA DÉCIMA QUARTA ­ DA RESCISÃO O inadimplemento de cláusula estabelecida neste Contrato, por parte da CONTRATADA, assegurará ao CONTRATANTE o direito de rescindi-lo, mediante notificação, com prova de recebimento.
+
+CLÁUSULA DÉCIMA QUINTA Além de outras hipóteses expressamente previstas no artigo 78 da Lei nº 8.666/1993, constituem motivos para a rescisão deste Contrato: I. Atraso injustificado na execução dos serviços, bem como a sua paralisação sem justa causa e prévia comunicação ao CONTRATANTE; II. O cometimento reiterado de falhas comprovadas por meio de registro próprio efetuado pelo
+75
+
+representante do CONTRATANTE. PARÁGRAFO ÚNICO Nos casos em que a CONTRATADA sofrer processos de fusão, cisão ou incorporação, será admitida a continuação desta contratação desde que a execução do Contrato não seja afetada e que a CONTRATADA mantenha o fiel cumprimento dos termos contratuais e as condições de habilitação.
+
+CLÁUSULA DÉCIMA SEXTA Ao CONTRATANTE é reconhecido o direito de rescisão administrativa, nos termos do artigo 79, inciso I, da Lei nº 8.666/1993, aplicando-se, no que couber, as disposições dos parágrafos primeiro e segundo do mesmo artigo, bem como as do artigo 80.
+
+CLÁUSULA DÉCIMA SÉTIMA ­ DA LEGISLAÇÃO APLICÁVEL Aplicam-se à execução do presente Contrato a Lei nº 8.666, de 21 de junho de 1993, e demais normas legais pertinentes. CLÁUSULA DÉCIMA OITAVA ­ DO ACOMPANHAMENTO O CONTRATANTE nomeará um gestor titular e um substituto para executar a fiscalização do Contrato. As ocorrências e as deficiências serão registradas em relatório, cuja cópia será encaminhada à CONTRATADA, objetivando a imediata correção das irregularidades apontadas.
+
+CLÁUSULA DÉCIMA NONA A existência e a atuação da fiscalização em nada restringem a responsabilidade, única, integral e exclusiva da CONTRATADA, no que concerne à execução do objeto contratado. CLÁUSULA VIGÉSIMA ­ DO FORO Para dirimir eventuais conflitos oriundos do presente Contrato, é competente o foro de Brasília -Distrito Federal. CLÁUSULA VIGÉSIMA PRIMEIRA ­ DA PUBLICIDADE O extrato do presente Contrato será publicado no Diário Oficial da União, Seção 3, conforme dispõe o artigo 61, parágrafo único, da Lei nº 8.666/1993. Justas e contratadas, as partes assinam o presente instrumento em 2 (duas) vias de igual forma e teor. Brasília-DF, de de 2010. Pelo CONTRATANTE Pela CONTRATADA
+
+76
+
+ANEXO I AO CONTRATO Nº XXX/XXXX, DE PRESTAÇÃO DE SERVIÇOS TÉCNICOS PARA O DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS DE INFORMAÇÃO, SÍTIOS E PORTAIS NA FORMA DE SERVIÇOS CONTINUADOS, QUE ENTRE SI CELEBRAM A UNIÃO E A EMPRESA .................................................. (Pregão Eletrônico Nº XXX/2010 -Processo n° XXXXXX)
+
+PROPOSTA DE PREÇOS
+
+77
+
+ANEXO II AO CONTRATO Nº XXX/XXXX, DE PRESTAÇÃO DE SERVIÇOS TÉCNICOS PARA O DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS DE INFORMAÇÃO, SÍTIOS E PORTAIS NA FORMA DE SERVIÇOS CONTINUADOS, QUE ENTRE SI CELEBRAM A UNIÃO E A EMPRESA .................................................. (Pregão Eletrônico Nº XXX/2010 -Processo n°XXXXXX)
+
+TERMO DE CONFIDENCIALIDADE DA INFORMAÇÃO
+
+MINISTÉRIO DA FAZENDA, com sede em Brasília-DF, inscrito no CNPJ, e .......................NOME DA EMPRESA...................., pessoa jurídica com sede na ..........................., inscrita no CNPJ/MF ..............................., e sempre que em conjunto referidas como PARTES para efeitos deste TERMO DE CONFIDENCIALIDADE DA INFORMAÇÃO, doravante denominado simplesmente TERMO, e, CONSIDERANDO que, em razão do atendimento à exigência do Contrato STN Nº ..., celebrado pelas PARTES, doravante denominado CONTRATO, cujo objeto é a .............................................................., mediante condições estabelecidas pela STN; CONSIDERANDO que o presente TERMO vem para regular o uso dos dados, regras de negócio, documentos, informações, sejam elas escritas ou verbais ou de qualquer outro modo apresentada, tangível ou intangível, entre outras, doravante denominadas simplesmente de INFORMAÇÕES, que a ...........NOME DA EMPRESA............. tiver acesso em virtude da execução contratual; CONSIDERANDO a necessidade de manter sigilo e confidencialidade, sob pena de responsabilidade civil, penal e administrativa, sobre todo e qualquer assunto de interesse da STN de que a ...........NOME DA EMPRESA............. tomar conhecimento em razão da execução do CONTRATO, respeitando todos os critérios estabelecidos aplicáveis às INFORMAÇÕES; A STN estabelece o presente TERMO mediante as cláusulas e condições a seguir: CLÁUSULA PRIMEIRA ­ DO OBJETO O objeto deste TERMO é prover a necessária e adequada proteção às INFORMAÇÕES da STN, principalmente aquelas classificadas como CONFIDENCIAIS, em razão da execução do CONTRATO celebrado entre as PARTES.
+
+CLÁUSULA SEGUNDA -DAS INFORMAÇÕES CONFIDENCIAIS a) As estipulações e obrigações constantes do presente instrumento serão aplicadas a todas e quaisquer INFORMAÇÕES reveladas pela STN; b) A ...........NOME DA EMPRESA............. se obriga a manter o mais absoluto sigilo e confidencialidade com relação a todas e quaisquer INFORMAÇÕES que venham a ser fornecidas pela STN, a partir da data de assinatura deste TERMO, devendo ser tratadas como INFORMAÇÕES CONFIDENCIAIS, salvo aquelas prévia e formalmente classificadas com
+78
+
+tratamento diferenciado pela STN; c) A ...........NOME DA EMPRESA............. se obriga a não revelar, reproduzir, utilizar ou dar conhecimento, em hipótese alguma, a terceiros, bem como a não permitir que nenhum de seus diretores, empregados e/ou prepostos faça uso das INFORMAÇÕES da STN; d) A STN, com base nos princípios instituídos na Segurança da Informação, zelará para que as INFORMAÇÕES que receber e tiver conhecimento sejam tratadas conforme a natureza de classificação informada pela ...........NOME DA EMPRESA.............. CLÁUSULA TERCEIRA ­ DAS LIMITAÇÕES DA CONFIDENCIALIDADE a) As INFORMAÇÕES que: obrigações constantes deste TERMO não serão aplicadas às
+
+a1) Sejam comprovadamente de domínio público no momento da revelação ou após a revelação, exceto se isso ocorrer em decorrência de ato ou omissão das PARTES; a2) Tenham sido comprovadas e legitimamente recebidas de terceiros, estranhos ao presente TERMO; a3) Sejam reveladas em razão de requisição judicial ou outra determinação válida do Governo, somente até a extensão de tais ordens, desde que as PARTES cumpram qualquer medida de proteção pertinente e tenham sido notificadas sobre a existência de tal ordem, previamente e por escrito, dando a esta, na medida do possível, tempo hábil para pleitear medidas de proteção que julgar cabíveis.
+
+CLÁUSULA QUARTA ­ DAS OBRIGAÇÕES ADICIONAIS a) A ...........NOME DA EMPRESA............. se compromete a utilizar as INFORMAÇÕES reveladas exclusivamente para os propósitos da execução do CONTRATO; b) A ...........NOME DA EMPRESA............. se compromete a não efetuar qualquer cópia das INFORMAÇÕES sem o consentimento prévio e expresso da STN; b1) O consentimento mencionado na alínea "b", entretanto, será dispensado para cópias, reproduções ou duplicações para uso interno das PARTES; c) A ...........NOME DA EMPRESA............. se compromete a cientificar seus diretores, empregados e/ou prepostos da existência deste TERMO e da natureza confidencial das INFORMAÇÕES da STN; d) A ...........NOME DA EMPRESA............. deve tomar todas as medidas necessárias à proteção das INFORMAÇÕES da STN, bem como evitar e prevenir a revelação a terceiros, exceto se devidamente autorizado por escrito pela STN; e) Cada PARTE permanecerá como única proprietária de todas e quaisquer INFORMAÇÕES eventualmente reveladas à outra parte em função da execução do CONTRATO; f) O presente TERMO não implica a concessão, pela parte reveladora à parte receptora, de nenhuma licença ou qualquer outro direito, explícito ou implícito, em relação a qualquer direito de patente, direito de edição ou qualquer outro direito relativo à propriedade intelectual; f1) Os produtos gerados na execução do CONTRATO, bem como as INFORMAÇÕES repassadas à ...........NOME DA EMPRESA............., são única e exclusiva propriedade intelectual da STN; g) A ...........NOME DA EMPRESA............. firmará acordos por escrito com seus empregados e consultores ligados direta ou indiretamente ao CONTRATO, cujos termos sejam
+79
+
+suficientes a garantir o cumprimento de todas as disposições do presente instrumento; h) A ...........NOME DA EMPRESA............. obriga-se a não tomar qualquer medida com vistas a obter, para si ou para terceiros, os direitos de propriedade intelectual relativos aos produtos gerados e às INFORMAÇÕES que venham a ser reveladas durante a execução do CONTRATO. CLÁUSULA QUINTA ­ DO RETORNO DE INFORMAÇÕES Todas as INFORMAÇÕES reveladas pelas PARTES permanecem como propriedade exclusiva da parte reveladora, devendo a esta retornar imediatamente assim que por ela requerido, bem como todas e quaisquer cópias eventualmente existentes. CLÁUSULA SEXTA ­ DA VIGÊNCIA O presente TERMO tem natureza irrevogável e irretratável, permanecendo em vigor desde a data de sua assinatura até 5 (cinco) anos após o término do Contrato. CLÁUSULA SÉTIMA ­ DAS PENALIDADES A quebra do sigilo e/ou da confidencialidade, devidamente comprovada, possibilitará a imediata aplicação de penalidades previstas conforme disposições contratuais e legislações em vigor que tratam desse assunto, podendo até culminar na rescisão do CONTRATO firmado entre as PARTES. Neste caso, a ...........NOME DA EMPRESA............., estará sujeita, por ação ou omissão, ao pagamento ou recomposição de todas as perdas e danos sofridos pela STN, inclusive as de ordem moral, bem como as de responsabilidades civil e criminal, as quais serão apuradas em regular processo administrativo ou judicial. CLÁUSULA OITAVA -DAS DISPOSIÇÕES GERAIS a) Este TERMO constitui vínculo indissociável ao CONTRATO, que é parte independente e regulatória deste instrumento; b) O presente TERMO constitui acordo entre as PARTES, relativamente ao tratamento de INFORMAÇÕES, principalmente as CONFIDENCIAIS, aplicando-se a todos e quaisquer acordos futuros, declarações, entendimentos e negociações escritas ou verbais, empreendidas pelas PARTES em ações feitas direta ou indiretamente; c) Surgindo divergências quanto à interpretação do pactuado neste TERMO ou quanto à execução das obrigações dele decorrentes, ou constatando-se nele a existência de lacunas, solucionarão as PARTES tais divergências, de acordo com os princípios da legalidade, da eqüidade, da razoabilidade, da economicidade, da boa fé, e, as preencherão com estipulações que deverão corresponder e resguardar as INFORMAÇÕES da STN; d) O disposto no presente TERMO prevalecerá sempre em caso de dúvida, salvo expressa determinação em contrário, sobre eventuais disposições constantes de outros instrumentos legais conexos relativos à confidencialidade de INFORMAÇÕES; e) A omissão ou tolerância das PARTES, em exigir o estrito cumprimento das condições estabelecidas neste instrumento, não constituirá novação ou renúncia, nem afetará os direitos, que poderão ser exercidos a qualquer tempo.
+
+CLÁUSULA NONA -DO FORO a) A STN elege o foro de Brasília-DF, para dirimir quaisquer dúvidas originadas
+80
+
+do presente TERMO, com renúncia expressa a qualquer outro, por mais privilegiado que seja. E, por assim estarem justas e estabelecidas as condições, é assinado o presente TERMO DE CONFIDENCIALIDADE DA INFORMAÇÃO, pela ...........NOME DA EMPRESA............., sendo em 2 (duas) vias de igual teor e um só efeito.
+
+Brasília, __________ de ____________ de 2010.
+
+_____________________________ Nome Diretor ...........NOME DA EMPRESA..............
+
+81
+
+MINISTÉRIO DA FAZENDA Secretaria Executiva Subsecretaria de Planejamento, Orçamento e Administração Coordenação-Geral de Recursos Logísticos
+
+ANEXO VI DO EDITAL DE PREGÃO ELETRÔNICO COGRL/MF Nº 28/2010
+
+MODELO DE AUTORIZAÇÃO DE SERVIÇOS Autorizo a empresa.........................., adjudicada na Ata de Registro de Preços no ----------- a fornecer os serviços abaixo enumerados, a Coordenação Geral de Recursos Logísticos do Ministério da Fazenda, no.................................., nas condições previstas no Edital e seus anexos. ITEM 01 02 DESCRIÇÃO UNIDADE QUANT. VALOR
+
+Brasília/DF,_____ de _____________ de 2010.
+
+82
+
+

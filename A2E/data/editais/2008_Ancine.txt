@@ -1,0 +1,990 @@
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44
+
+ANEXO I
+
+PROJETO BÁSICO PARA CONTRATAÇÃO DE SERVIÇOS DE TI ­ ASPECTOS GERAIS AOS ITENS:
+· I ­ Serviços de desenvolvimento, manutenção e documentação de Sistemas de Informação · II ­ Serviços de Métrica de Software
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+ÍNDICE
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. Contextualização e Justificativa.............................................................................................. 3 Tipo de Licitação ­ Concorrência ­ "Técnica e Preço"........................................................... 4 Participação na Licitação........................................................................................................ 4 Objeto ..................................................................................................................................... 5 Detalhamento do objeto ­ Orientações gerais ....................................................................... 5 Quantitativo estimado de serviços.......................................................................................... 5 Benefícios esperados com a contratação............................................................................... 6 Subcontratação dos serviços.................................................................................................. 6 Visita técnica da Proponente .................................................................................................. 7 Recursos operacionais da ANCINE........................................................................................ 7 Proposta técnica ­ Considerações relevantes ....................................................................... 8 Proposta comercial ­ Considerações relevantes ................................................................. 11 Planilhas de custo ­ Requisitos............................................................................................ 11 Supervisão e controle dos serviços ...................................................................................... 12 Sanções administrativas ....................................................................................................... 12 Obrigações da ANCINE ........................................................................................................ 13 Obrigações das empresas contratadas ................................................................................ 13 Vigência do contrato ............................................................................................................. 16 Fluxo para entrega dos serviços prestados.......................................................................... 16 Procedimentos básicos de segurança.................................................................................. 17 Propriedade intelectual ......................................................................................................... 18 Garantia ................................................................................................................................ 18 Endereço para a realização dos serviços............................................................................. 19
+
+2 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+
+1. CONTEXTUALIZAÇÃO E JUSTIFICATIVA A Agência Nacional do Cinema ­ ANCINE é uma autarquia especial, com autonomia administrativa e financeira, sede e foro no Distrito Federal e escritório central no Rio de Janeiro. A ANCINE é um órgão de fomento, regulação e fiscalização da indústria cinematográfica e videofonográfica e, entre outros, seus objetivos são: estimular o desenvolvimento dessa indústria, promover a integração das atividades governamentais e a elas relacionadas, aumentar a competitividade do setor, promover a auto-sustentabilidade e articulação dos vários elos de sua cadeia produtiva, estimular a universalização do acesso às obras cinematográficas e videofonográficas, especialmente as nacionais, e garantir a participação diversificada das obras estrangeiras no mercado brasileiro. Para atendimento dos seus objetivos institucionais, a ANCINE necessita de um ambiente de tecnologia da informação que dê suporte às diversas áreas finalísticas e administrativas de forma a suprir à demanda por um emprego mais intensivo da TI em seus processos de trabalho. O que compreende a criação de novos sistemas de informação e a manutenção de sistemas já existentes para implementação de melhorias e adaptações ou correção de falhas. Com esta percepção, em 2004, foi elaborado o Planejamento Estratégico de Tecnologia da Informação ­ PETI. Neste contexto, foram identificadas diversas demandas de desenvolvimento de sistemas de informação para os anos seguintes. Essas demandas somadas a outras, surgidas em virtude da existência de nova legislação e/ou estruturação dos processos de trabalho, são priorizadas pelo Comitê de Gestão da Informação ­ CGI, que é composto por diversas áreas estratégicas da ANCINE e coordenado pelo Núcleo de Gestão da Informação. A ANCINE não dispõe, em seu quadro próprio, de profissionais para desempenhar as funções de desenvolvimento e manutenção de sistemas de informação, em atendimento às demandas priorizadas, e por isso torna-se necessária a contratação de prestação desses tipos de serviços. Em contratações anteriores, a ANCINE, seguindo as orientações dos órgãos de controle, optou por realizar a contratação de serviços de desenvolvimento de sistemas de forma fracionada, em que um contrato tinha como objeto o projeto (análise) do sistema (Fábrica de projetos), outro tinha como objeto o desenvolvimento (Fábrica de software) e outro, a sustentação dos sistemas de informação. Este modelo dá margem a que empresas distintas executem partes interdependentes do ciclo de vida de desenvolvimento de software, e foi o que aconteceu na ANCINE. Entretanto, esta alternativa se mostrou pouco eficaz, de difícil controle e com maiores riscos de insucesso dos projetos, principalmente porque problemas na execução de um contrato impactam significativamente a execução do outro. Pretende-se com esta contratação, em que todas as atividades relacionadas à construção de um sistema de informação estarão sob a responsabilidade de uma mesma contratada, melhorar os mecanismos de controle da execução do contrato, aperfeiçoar a metodologia de desenvolvimento da ANCINE e obter melhores resultados finais. Cabe salientar que estão previstos serviços de suporte à avaliação e ao controle da execução do ciclo de desenvolvimento de software, como é o caso do serviço de
+
+3 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+métrica de software relativa aos sistemas em desenvolvimento, sistemas em produção e manutenção de sistemas, por meio da Análise de Pontos de Função, para o correto dimensionamento dos serviços de desenvolvimento contratados. Esses serviços de suporte serão realizados, obrigatoriamente, por empresa distinta da que irá executar os serviços de desenvolvimento. Com a contratação dos serviços de métrica de software supra mencionado, o dimensionamento dos serviços contratados poderá ser realizado de forma mais confiável. A execução deste serviço por parte da contratada será realizado com a supervisão de servidores da ANCINE capacitados na técnica de Análise de Pontos por Função. Desta forma, a nova contratação visa a substituir os atuais contratos que se referem ao desenvolvimento e à manutenção de sistemas de informação na ANCINE e a suprir a lacuna deixada pelo cancelamento, ocorrido no ano de 2007, do edital referente à prestação de serviços de "fábrica de projetos". 2. TIPO DE LICITAÇÃO ­ CONCORRÊNCIA ­ "TÉCNICA E PREÇO" 2.1. A licitação se enquadra na modalidade de Concorrência e o critério de julgamento será do tipo "Técnica e Preço" visto que envolve a realização de serviços cuja natureza está em conformidade com o que determinam os art. 45 e 46 da Lei nº. 8.666/93. Sendo observada a necessidade de avaliação das empresas concorrentes, quanto à apresentação de documentação que indiquem a melhor técnica e menor preço. 3. PARTICIPAÇÃO NA LICITAÇÃO 3.1. As empresas arcarão com todos os custos decorrentes da elaboração e da apresentação de suas propostas e da participação no processo licitatório. 3.2. Não será admitida nesta licitação a participação de empresas: a. Concordatárias ou em processo de falência, em recuperação judicial, sob concurso de credores, em dissolução ou em liquidação; b. Que estejam com os direitos, de licitar e contratar com a ANCINE, suspensos, ou que tenham sido declaradas inidôneas pela Administração Pública; c. Que estejam constituídas sob a forma de cooperativa, ou reunidas em consórcio; d. Cujo(s) sócio(s) ou dirigente(s) seja(m) empregado(s) da ANCINE, cônjuge ou companheiro(a) nos termos da lei. 3.3. Considerando a divisão dos serviços ora licitados em 02 (dois) itens e as características das atividades a serem desenvolvidas previstas para cada item, existe o impedimento de assunção, por uma mesma empresa, dos itens I e II. 3.4. A premissa definida no subitem 3.3 tem o objetivo de resguardar a lisura na prestação dos serviços descritos nos objetos deste projeto e de evitar que empresas que participem do processo de desenvolvimento e manutenção dos aplicativos, sejam responsáveis pela validação da medição dos sistemas desenvolvidos e das manutenções realizadas.
+
+4 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+4. OBJETO 4.1. Contratação de serviços técnicos especializados na área de tecnologia da informação divididos em 2 itens conforme relacionado abaixo, e de acordo com as especificações e requisitos constantes deste documento e demais anexos: 4.1.1. Item I ­ Desenvolvimento, manutenção e documentação de sistemas de informação 4.1.1.1. Contratação de empresa para prestação de serviços especializados de desenvolvimento, manutenção e documentação de Sistemas de Informação que tenham como arquitetura predominante Tecnologia WEB (Internet/Intranet), englobando ainda aplicações cliente/servidor, portais internet, intranet e extranet e a integração entre estas aplicações. 4.1.1.2. Os serviços devem ser executados em conformidade com a Metodologia de Desenvolvimento de Sistemas e demais documentos de padrões utilizados na ANCINE e aplicando os procedimentos necessários à garantia da qualidade para desenvolvimento de sistemas. Observação: A elaboração de documentação referente aos serviços de desenvolvimento ou manutenção realizados pela CONTRATADA é obrigatória, sem custo adicional à ANCINE e deve estar em conformidade com o estabelecido pela metodologia de desenvolvimento de sistemas. 4.1.2. Item II ­ Métrica de software 4.1.2.1. Contratação de empresa para prestação dos serviços especializados de mensuração de serviços de manutenção corretiva, adaptativa, evolutiva e de desenvolvimento de sistemas novos, validação de medições, coleta de dados, geração de análise de indicadores e, suporte à aplicação de técnicas de mensuração. 5. DETALHAMENTO DO OBJETO ­ ORIENTAÇÕES GERAIS 5.1. Os itens do objeto a serem contratados estão descritos de forma detalhada nos Anexos II e III do Edital. 6. QUANTITATIVO ESTIMADO DE SERVIÇOS 6.1. Estimativa para o item I - serviços de desenvolvimento, manutenção e documentação de sistemas de informação. 6.1.1. O volume total estimado de serviços de desenvolvimento, manutenção e documentação de sistemas de informação é de 5.000 (cinco mil) Pontos de Função por vigência anual do contrato, sendo 1.500 pontos referentes a serviços de manutenção e 3.500 pontos de função referentes a desenvolvimento de projetos. 6.1.2. A estimativa para os serviços de manutenção, que envolvem as manutenções corretivas e evolutivas de pequeno volume e a documentação de sistema já em produção, foi realizada com base em análise histórica de execuções anuais a partir do segundo semestre do ano de 2004. 6.1.3. A estimativa para o desenvolvimento de projetos, que corresponde ao desenvolvimento de novos sistemas ou de novas versões de sistemas existentes e ainda a manutenções evolutivas de maior volume, foi realizada considerando-se demandas oriundas do PETI realizado em 2004 e ainda não atendidas, demandas
+
+5 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+já sinalizadas na primeira fase do Planejamento Estratégico que vem sendo elaborado pela ANCINE e que refletem alterações ocorridas em diversos instrumentos normativos da Agência. 6.2. Estimativa para o Item II - serviços de medição de software 6.2.1. O volume total estimado de serviços de medição de software será de 2.000 (duas mil) Horas por vigência anual do contrato. 6.3. Os serviços contratados serão implementados gradativamente, de acordo com as necessidades da ANCINE, não ficando esta obrigada a utilizar o total de pontos de função ou de horas estimados para esta contratação. 6.4. A solicitação para o uso dos pontos de função ou das horas previstos será feita de modo formalizado, junto às empresas contratadas, sempre na quantidade identificada como necessária, por parte da ANCINE. 7. BENEFÍCIOS ESPERADOS COM A CONTRATAÇÃO 7.1. Os serviços de desenvolvimento, manutenção e documentação de sistemas de informação e métrica de software irão apoiar a operação da ANCINE sendo esperados os seguintes benefícios com a presente contratação: a) Agilidade no atendimento a demanda de desenvolvimento e manutenção de sistemas; b) Maior produtividade e qualidade no processo de desenvolvimento de sistemas; c) Melhor dimensionamento dos serviços e geração de base histórica que possibilite melhoria do processo realizado; d) Emprego mais intensivo da TI nos processos de trabalho da Agência de forma a melhorar a atuação das unidades organizacionais, em especial: o subsidiar a execução das atividades de regulação, fomento e fiscalização e prover melhoria e otimização dos processos operacionais da organização, tais como: registro, controle, fiscalização, arrecadação, fomento, gestão interna e disseminação de informação (Portal Ancine); prover o monitoramento das informações sobre as transações do mercado cinematográfico e videofonográfico, nos diversos segmentos (produção, distribuição, exibição e difusão), possibilitando ampla caracterização e avaliação do setor; viabilizar o intercâmbio de informações com os demais órgãos e instituições governamentais (CVM, SRF, Banco do Brasil, etc) de forma padronizada utilizando tecnologia de webservices e XML. garantir o correto cumprimento automatizada e segura; da legislação vigente de forma
+
+o
+
+o
+
+o o
+
+propiciar, por meio da tecnologia web, o aumento da transparência e a eficiência no processo de comunicação, respeitando o caráter de sigilo das informações.
+
+8. SUBCONTRATAÇÃO DOS SERVIÇOS 8.1. Considerando que a complexidade dos serviços para alguns projetos podem estar além da capacidade da Contratada em oferecer soluções, requerendo a 6 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+intervenção de serviços especializados por intermédio de parcerias estratégicas, os serviços definidos neste projeto básico poderão ser subcontratados, desde que a subcontratação não ultrapasse 15% (quinze por cento) do total do contrato, mantidas todas as premissas de qualidade e atendimento pela empresa SUBCONTRATADA. 8.2. O ato da subcontratação, caso seja necessário, deverá ser comunicado antecipada e formalmente ao gestor do contrato, que juntamente com a Gerência de Tecnologia da Informação avaliará e dará ciência à empresa CONTRATADA. 9. VISITA TÉCNICA DA PROPONENTE 9.1. A visita técnica ao escritório central da ANCINE, na cidade do Rio de Janeiro/RJ, objetivando tomar conhecimento dos equipamentos e do ambiente operacional utilizado, será marcada previamente com a Gerência de Tecnologia da Informação da ANCINE, por meio dos telefones (0**21) 2240-7373, e será realizada com antecedência mínima de cinco dias úteis à data estabelecida para abertura da licitação. 10. RECURSOS OPERACIONAIS DA ANCINE 10.1. Ambientes para execução dos serviços a. Ambiente de Desenvolvimento: Ambiente de desenvolvimento e manutenção das aplicações. O seu funcionamento tem por base o controle de versão de produtos por meio de ferramenta especifica do tipo CVS; b. Ambiente de Homologação: Ambiente que permite os testes necessários por parte do gestor da aplicação para o seu devido aceite. O seu funcionamento tem por base a não edição de arquivos para correção neste ambiente, pois todo processo de correção deve ocorrer no Ambiente Padrão de Desenvolvimento; c. Ambiente de Produção: Ambiente que hospeda as aplicações em produção na ANCINE. O seu funcionamento tem por base a hospedagem somente das aplicações homologadas pela Gerência de Tecnologia da Informação; d. Estações de Trabalho de Desenvolvimento: Estações de trabalho para o profissional de desenvolvimento, disponibilizada com as ferramentas padrões da ANCINE para desenvolvimento de sistemas. 10.2. Recursos operacionais de software 10.2.1. A ANCINE adota para seu grupo de ambientes as ferramentas relacionadas a seguir, para o desenvolvimento e manutenção dos seus sistemas de informações: a) Sistema Operacional: Windows 2000/2003, Linux (Fedora e Red Hat). b) Protoloco: TCP/IP c) Ferramentas de Desenvolvimento: Cold Fusion, Delphi, Visual Basic, Crystal Reports, HTML, Eclipse, Java (JSP, J2EE, EJB), JavaScript, ASP, Macromedia Studio, Macromedia Dreamweaver, Macromedia Flash, Publique (CGI-Lua). d) Frameworks: Struts, Hibernate, DisplayTag, Velocity, Tag Lybrary e) Ferramentas de Editoração: Corel Draw, PhotoShop e PageMaker 7 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+f) Servidor de aplicação: Tomcat, JBoss, APACHE e IIS.
+
+g) Banco de Dados: Oracle 9i e Oracle 10g (PL/SQL), SQL Server 2000 e SQL Server 2008 (SQL) e MySQL h) Ferramentas CASE: Suite Rational, ERWIN, MS-Visio e Dia i) j) Ferramentas de Planejamento: MS-Project e Gantt Ferramenta de Backup: BrightStor ArcServe 11.1
+
+11. PROPOSTA TÉCNICA E DOCUMENTAÇÃO PARA FINS DE HABILITAÇÃO­ CONSIDERAÇÕES
+RELEVANTES
+
+11.1. Exigências técnicas 11.1.1. A proposta técnica deverá ser elaborada considerando os itens passíveis de pontuação, previstos no Anexo V ­ Proposta técnica - Itens Pontuáveis deste projeto básico; 11.1.2. Os documentos apresentados deverão estar vinculados ao mesmo CNPJ apresentado na fase de habilitação, seja o da matriz ou da filial, e que também será utilizado na celebração do contrato; 11.1.3. Os documentos apresentados na proposta técnica, emitidos em idioma estrangeiro, deverão ser apresentados devidamente traduzidos para a língua portuguesa, por tradutor juramentado e registrado no Cartório de Títulos e Documentos; 11.1.4. A proposta técnica apresentada pelos interessados deverá ser: numerada, encadernada em 01(uma) única via, datada, digitada em computador, sem emendas, rasuras ou entrelinhas, na língua portuguesa (Brasil), em linguagem clara e objetiva e que não dificulte a exata compreensão do seu enunciado, assinada por quem de direito e rubricada em todas as suas folhas e anexos, e com menção ao número do edital da licitação. 11.1.5. O questionário constante no Anexo V ­ Proposta técnica - Itens pontuáveis deve estar devidamente preenchido e com os respectivos documentos comprobatórios, conforme previsto no mesmo anexo, referentes ao(s) itens ao(s) qual(is) está concorrendo. a) A omissão da resposta de qualquer dos itens pontuáveis ou da falta dos documentos comprobatórios tais como encartes, informações técnicas, certificados, atestados, ou documentos que comprovem a veracidade da informação, implicará no não recebimento dos pontos relativos ao item avaliado; b) Ao critério da ANCINE serão realizadas visitas às empresas proponentes ou pesquisa junto às empresas emissoras de atestados, certificados ou licença a fim de verificar e validar as informações fornecidas. 11.2. Documentação da Habilitação: 11.2.1. Documentos que devem compor o Envelope nº 1 da habilitação das empresas concorrentes: a. Declaração para as empresas concorrentes ao serviços do Item I confirmando que disponibilizará, em até 30 (trinta) dias após a data de
+
+8 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+assinatura do contrato, Fábrica de Software própria, com as seguintes características técnicas mínimas: 1. Hardware: Compatível com o existente na ANCINE em número suficiente para atender as Solicitações de Atendimento emitidas para execução nas dependências da empresa contratada; 2. Software: Plataforma compatível com os recursos de software necessários ao desenvolvimento dos serviços do Item I desta contratação especificados no Item 10 ­ Recursos operacionais da ANCINE, deste projeto básico. Observação: A declaração de que trata este item deverá também conter compromisso de manter o ambiente operacional da Fábrica de Software sempre compatível com os recursos de hardware e software necessários ao desenvolvimento dos serviços do Item I. b. Apresentação de atestado(s)/certidão(ões)/declaração(ões) fornecido(s) por pessoa(s) jurídica(s) de direito público ou privado, comprovando ter a empresa desempenhado, em um ou mais atestados, de forma satisfatória e atividade compatível com o objeto a que está concorrendo. Entende-se por atividade compatível: 1. Para o Item I do Objeto: a prestação de serviços que comprovem experiência na execução de serviços de desenvolvimento e/ou manutenção de sistemas de informação, de no mínimo 3.000 (três mil) pontos de função ou 45.000 (quarenta e cinco mil) horas, somados os contratos. 2. Para o Item II do Objeto: a prestação de serviços que comprovem experiência na medição de sistemas em desenvolvimento, sistemas em produção, manutenção de sistemas, validação de medições, coleta de dados, geração e análise de indicadores e, suporte à aplicação de técnicas de medição, com no mínimo 1.000 horas. c. Apresentação de declaração ou parecer técnico que dispõe de aparelhamento e pessoal técnico adequado para atender às necessidades da ANCINE em seu escritório central, no Rio de Janeiro. d. A empresa deverá apresentar declaração, devidamente assinada pelo representante legal, sob as penalidades previstas em lei, de que: 1. Os documentos que compõem o Edital foram colocados à disposição e que tomou conhecimento de todas as informações, condições locais e grau de dificuldade dos serviços a serem executados; 2. Não se encontra declarada inidônea para licitar ou contratar com órgãos das Administrações Públicas Federal, Estaduais, Municipais e do Distrito Federal; 3. Inexiste fato superveniente impeditivo de sua habilitação; 4. Não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre, nem menor de 16 anos em qualquer trabalho, salvo na condição de aprendiz, a partir de 14 anos em cumprimento do disposto
+
+9 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+no art. 7º, XXXIII, da Constituição Federal (trabalho de menores de idade). 11.2.2. Documentos adicionais que devem compor a documentação de habilitação das empresas concorrentes: a. Declaração de que possui e utiliza metodologia própria de gerenciamento de projetos e que a utilizará na prestação dos serviços à ANCINE para o caso de não utilizar o guia do PMBoK para gerenciamento de projetos. 11.3. Avaliação das Propostas técnicas 11.3.1. A avaliação consistirá, preliminarmente, na verificação do atendimento à descrição dos objetos, da documentação exigida no item 11 deste projeto básico e na Pontuação Técnica, constante no Anexo V ­ Proposta Técnica ­ Itens Pontuáveis; a) Serão desclassificadas as propostas que não atingirem o mínimo de 55% (cinqüenta e cinco por cento) do total de pontos possíveis para o para o item
+
+I;
+b) Por ato interno da Comissão de Licitação, será elaborado relatório circunstanciado contendo os fundamentos das eventuais desclassificações e indicação da Pontuação Técnica, por item, obtida pelas demais empresas. 11.3.2. A pontuação técnica de cada licitante será determinada levando em conta os fatores ­ qualidade, desempenho, compatibilidade e suporte de serviços ­ e parâmetros estabelecidos no Anexo V ­ Proposta Técnica ­ Itens Pontuáveis deste projeto básico. 11.3.3. Obtidas as pontuações referentes aos fatores, a Pontuação Técnica das propostas associadas a cada item do objeto será calculada de acordo com a seguinte fórmula: PT = (FC +FQ + FD + FS) Onde: PT = Pontuação Técnica, FC = Pontuação total do fator Compatibilidade FQ = Pontuação total do fator Qualidade FD = Pontuação total do fator Desempenho FS = Pontuação total do fator Suporte 11.3.4. A comissão informará o resultado da avaliação das propostas técnicas, bem como a data/horário de abertura dos envelopes da proposta comercial, com a indicação dos nomes das empresas classificadas e das desclassificadas, por meio de publicação no Diário Oficial da União - DOU, abrindo-se o prazo legal para recursos administrativos. 11.3.5. Em hipótese alguma será aceita a entrega de documentação complementar.
+
+10 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+12. PROPOSTA COMERCIAL ­ CONSIDERAÇÕES RELEVANTES 12.1. Exigências técnicas 12.1.1. As empresas interessadas deverão apresentar propostas comerciais individualizadas, para cada objeto no qual pretenda concorrer, conforme modelo oferecido pela ANCINE, Anexo VI, em uma única via, deve ser editada em computador, sem emendas, ressalvas, rasuras ou entrelinhas em suas partes essenciais, rubricadas em todas as suas folhas, contendo os seguintes elementos: a) Identificação do proponente, com data e assinatura por quem de direito, e menção ao número desta Concorrência e item no qual está concorrendo; b) Valor unitário do Ponto de função ou da Hora de serviço por Objeto, em Real (R$), expresso em algarismos e por extenso, nele incluídos todos os impostos, taxas, mão de obra, salários, encargos sociais e trabalhistas, contribuições previdenciárias, hospedagens e viagens de seus empregados, e todas as demais obrigações e despesas de qualquer natureza necessárias à perfeita execução dos serviços constantes nos objetos desta licitação; c) Prazo de validade da proposta, não inferior a 60 (sessenta) dias, contados a partir da data de sua apresentação; d) A proposta comercial deverá conter, exclusivamente, as condições comerciais ofertadas pelo licitante, isto é, as especificações/referências de ordem técnica deverão ser indicadas somente na proposta técnica. 12.2. Avaliação da Proposta Comercial 12.2.1. A verificação e/ou avaliação para fins de julgamento, dar-se-á com base nas informações constantes da Proposta Comercial ­ Anexo VI, da empresa, nos termos do item 11, levando-se em consideração o seu valor global. 12.2.2. A proposta comercial estará automaticamente desclassificada quando: a) Não atender aos requisitos deste projeto básico e do edital; b) Apresentar preços baseados em outras propostas, oferecimento de redução sobre a de menor valor; inclusive com o
+
+c) O preço for considerado excessivo ou manifestamente inexeqüível, assim considerado aquele que não venha a ter demonstrado sua viabilidade por meio de documentação que comprove que os custos de insumos são coerentes com os de mercado; d) Oferecer propostas alternativas. e) Caso todas as propostas sejam desclassificadas, a Comissão poderá fixar às empresas o prazo de 08 (oito) dias úteis para a apresentação de outras propostas, afastada(s) a(s) causa(s) da desclassificação. f) Nesse caso, o prazo de validade das propostas será de 60 (sessenta) dias, contados da nova data fixada para a apresentação.
+
+13. PLANILHAS DE CUSTO ­ REQUISITOS 13.1. A(s) empresa(s) vencedora(s) deverá(ão) obrigatoriamente apresentar, como condição para assinatura do contrato, a Planilha de Composição de Preço, 11 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+conforme modelo do Anexo VII, devidamente preenchida e assinada por quem de direito. 13.2. O Anexo VII servirá apenas como modelo, devendo a licitante efetuar as alterações que julgar necessárias, já que a planilha tem caráter informativo, servindo para demonstrar possíveis variações de custos/insumos no curso da execução contratual e será utilizada como base em eventuais repactuações ou revisões de preços, sendo, portanto, de exclusiva responsabilidade da licitante dimensionar e equacionar os componentes do preço ofertado, inclusive encargos trabalhistas, sociais e tributos incidentes, não podendo a empresa contratada alegar posteriormente desconhecimento de fatos ou erros no preenchimento da planilha, como fundamento para solicitar reeqüilíbrio econômico-financeiro da proposta/contrato. 13.3. Eventuais discrepâncias entre percentuais/valores informados na planilha de composição de preço, Anexo VII, e aqueles decorrentes da legislação específica ou convenções coletivas vigentes serão tomadas como erro formal, de modo que eventuais prejuízos serão suportados pela proponente, que continua obrigada a cumprir a legislação vigente e as normas aplicáveis. 13.4. Os itens da planilha em branco ou declarados com valor zero serão desconsiderados como elemento de formação dos custos e, como conseqüência, não caberá negociação futura envolvendo tais componentes; os efeitos financeiros negativos decorrentes dessa desconsideração terão que ser absorvidos pelos demais itens da planilha, desde que não se configure a corrosão da exeqüibilidade da proposta. 14. SUPERVISÃO E CONTROLE DOS SERVIÇOS 14.1. A execução dos Contratos será fiscalizada por Representante da ANCINE, especialmente designado, cumprindo-lhe: a) Registrar as ocorrências relacionadas com a execução dos serviços, determinando junto às empresas CONTRATADAS o que for necessário à regularização das falhas ou defeitos observados. b) Analisar todos os documentos exigidos para o devido atesto da Gerência de Tecnologia da Informação na Nota Fiscal de Serviços e Fatura referente aos serviços realizados pelas empresas CONTRATADAS. c) Encaminhar à unidade responsável o(s) eventual(ais) recurso(s) das empresas CONTRATADAS, acerca da aplicação de penalidades, com vistas à sua apreciação. 14.2. A ANCINE poderá exigir o afastamento de qualquer profissional ou representante das empresas CONTRATADAS que venha causar embaraço à fiscalização do contrato, ou em razão de procedimentos ou atitudes incompatíveis com o exercício de suas funções. 15. SANÇÕES ADMINISTRATIVAS 15.1. Em caso de atraso injustificado no cumprimento de prazos previstos, inexecução total ou parcial do Contrato, ou execução em desacordo com as especificações, por dolo ou culpa exclusiva da CONTRATADA, ficará esta sujeita às seguintes penalidades, garantida a prévia defesa no prazo de 5 (cinco) dias úteis contados
+
+12 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+da notificação pela ANCINE, sem prejuízo da aplicação do disposto nos artigos 86 e 87 da Lei 8.666/93: a) Advertência por escrito; b) Multa, equivalente a 1%(um por cento) ao dia e até o máximo de 20%, calculada sobre o valor total das obrigações efetuadas com atraso; c) Multas a serem aplicadas na forma descrita no Anexo VIII ­ Avaliação do serviço prestado e Penalidades, deste projeto básico; d) Suspensão temporária do direito de participar de licitações e contratar com a ANCINE, por um período não superior a dois anos; 15.2. As sanções previstas, nas alíneas "a", "b" e "c", poderão ser aplicadas juntamente com a da alínea "d", facultada a defesa prévia do interessado no respectivo processo, no prazo de 5 (cinco) dias úteis. 15.3. A multa aplicada após regular processo administrativo será descontada dos pagamentos eventualmente devidos pela Administração ou ainda, quando for o caso, cobrada judicialmente. 15.4. Da sanção aplicada caberá recurso, no prazo de 5 (cinco) dias úteis da notificação, à autoridade superior àquela que aplicou a sanção, nos termos do artigo 109, da Lei n°. 8.666/93. 15.5. A autoridade competente poderá, motivadamente e presentes razões de interesse público, atribuir ao recurso interposto eficácia suspensiva. 16. OBRIGAÇÕES DA ANCINE 16.1. São obrigações contratuais da ANCINE: 16.1.1. Exercer o efetivo acompanhamento da execução do contrato; 16.1.2. Prestar informações, esclarecimentos necessários e proporcionar condições ­ no que lhe couber - para que a CONTRATADA possa executar os serviços objeto do Contrato; 16.1.3. Emitir, antes da execução de qualquer serviço, a competente Ordem de Serviço ­ OS, definindo claramente os requisitos técnicos, administrativos e financeiros relativos ao serviço objeto da contratação. 16.1.4. Autorizar as propostas de execução de serviços apresentadas pela(s) contratada(s) nas OS. 16.1.5. Homologar os serviços prestados constantes das ordens de serviço, após a aferição da aderência às especificações e da qualidade dos serviços, atestando as respectivas faturas. 16.1.6. Notificar, por escrito, a CONTRATADA a ocorrência de eventuais não conformidades no curso da execução dos serviços, fixando prazo para sua correção. 17. OBRIGAÇÕES DAS EMPRESAS CONTRATADAS 17.1. Além das outras condições e exigências estabelecidas neste Projeto Básico, são obrigações das CONTRATADAS:
+
+13 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+17.1.1. Iniciar a prestação dos serviços em até 30 (trinta) dias corridos a contar da data da assinatura do Contrato; 17.1.2. Manter, durante a execução do Contrato, todas as condições de habilitação e classificação verificadas na licitação.; 17.1.3. Quando os serviços forem executados nas instalações da ANCINE, manter na ANCINE um Preposto que atuará como seu representante principal, e será responsável pelo acompanhamento da execução do Contrato por parte da CONTRATADA, tendo como atribuições, entre outras relativas à adequada execução do Contrato, participar de reuniões, zelar pela qualidade dos serviços prestados e pelo bom desempenho dos profissionais da CONTRATADA. 17.1.4. Prover e gerir infra-estrutura própria de hardware e software, bem como recursos físicos necessários à execução dos serviços contratados, no caso em que os serviços sejam prestados nas dependências da CONTRATADA. Entendese por infra-estrutura de hardware e software, todo hardware e licenças dos softwares necessários para a realização do serviço. 17.1.5. Solicitar autorização prévia da ANCINE antes de utilizar recursos de softwares que necessitem de aquisição de licença de uso; 17.1.6. Solicitar autorização prévia da ANCINE para incorporar, nos serviços entregues, componentes de software que não sejam de propriedade da ANCINE; 17.1.7. Utilizar recursos de terceiros somente quando devidamente autorizados ou licenciados pelo detentor dos direitos; 17.1.8. Garantir que todas as entregas efetuadas estejam compatíveis e totalmente aderentes aos produtos utilizados pela ANCINE, cabendo à ANCINE tomar ciência e autorizar o uso de ferramentas, cuja versão seja diferente daquelas previstas e em uso na Agência. 17.1.9. A ANCINE terá ampla liberdade de atualizar as versões dos sistemas operacionais, linguagens de desenvolvimento ou ferramentas de apoio ao desenvolvimento (de sua propriedade ou de seu direito de uso), segundo sua necessidade e conveniência administrativa, cabendo, nestes casos, à CONTRATADA manter a compatibilidade, evoluindo e adaptando-se à respectiva mudança, às suas expensas, sem quaisquer custos adicionais para a ANCINE. 17.1.10. Adquirir e operacionalizar as ferramentas e tecnologias adotadas pela ANCINE, em seu ambiente, incluindo as versões "cliente", às suas expensas e sem quaisquer custos para ANCINE. 17.1.11. Adotar procedimentos no seu ambiente de desenvolvimento, que garantam a segurança das informações e a continuidade das operações, em conformidade com os parâmetros da NBR-ISO/IEC 17.799, e manter documentação atualizada de sua Política de Segurança de Informações. 17.1.12. Promover o repasse de conhecimento aos novos profissionais da CONTRATADA, em caso de substituição dos responsáveis pela execução de serviços em andamento, evitando o prejuízo à continuidade e qualidade dos serviços; 17.1.13. Repassar todo o conhecimento adquirido ou produzido na execução dos serviços para os técnicos da ANCINE;
+
+14 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+17.1.14. Assegurar a transferência de conhecimentos adquiridos ou produzidos, relativamente a serviços em andamento, para outra CONTRATADA da ANCINE, nos termos que venham a ser por esta definidos, no caso em que a ANCINE determine a passagem de serviços em andamento, a fim de garantir a continuidade dos serviços; 17.1.15. Garantir a execução dos serviços sem interrupção, substituindo, caso necessário, sem ônus para a ANCINE, qualquer profissional que estiver em gozo de férias, auxílio doença, auxílio maternidade ou qualquer outro benefício legal / regulamentar, por outro de mesma qualificação ou superior; 17.1.16. Capacitar às suas expensas, sempre que necessário, os profissionais envolvidos na execução dos serviços; 17.1.17. Disponibilizar, caso seja demandado pela ANCINE, suas dependências e seu ambiente de hardware e software para que sejam efetuadas análises e auditorias técnica e / ou de segurança. 17.1.18. Prestar as informações e esclarecimentos solicitados, em no máximo 2 (dois) dias úteis, a contar da solicitação feita pelo GESTOR DO CONTRATO DA ANCINE. 17.1.19. Selecionar e alocar, na prestação dos serviços contratados, profissionais em conformidade com as exigências dos serviços a serem realizados, e com os perfis adequados; 17.1.20. Apresentar à ANCINE, sempre que solicitado, a comprovação da experiência e da formação dos profissionais designados para atuar na execução dos serviços. 17.1.21. Substituir imediatamente o profissional que seja considerado inapto para os serviços a serem prestados, seja por incapacidade técnica, atitude inconveniente ou falta de urbanidade ou que venha a transgredir as normas disciplinares ou ao código de ética da ANCINE; 17.1.22. Assumir a responsabilidade por todos os encargos fiscais, previdenciários e obrigações previstas na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria; 17.1.23. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando forem vítimas os seus profissionais no desempenho dos serviços ou em conexão com eles, ainda que acontecido nas dependências da ANCINE; 17.1.24. Reportar à Gerência de Tecnologia da Informação quaisquer anormalidades, erros e irregularidades observados no desenvolvimento dos serviços contratados, causados por ações dos profissionais contratados, de servidores públicos ou de terceiros; 17.1.25. Manter os seus profissionais informados quanto às normas disciplinares da ANCINE, exigindo sua fiel observância, especialmente quanto à utilização e segurança das instalações; 17.1.26. Manter os seus profissionais convenientemente trajados e identificados por crachás, onde esteja claramente indicado estarem a serviço da ANCINE;
+
+15 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+17.1.27. Responsabilizar-se pelos danos causados diretamente à ANCINE ou a terceiros decorrentes de sua culpa ou dolo quando da execução dos serviços, não excluindo ou reduzindo essa responsabilidade à fiscalização e/ou ao acompanhamento realizados pela ANCINE; 17.1.28. Indenizar os prejuízos e reparar os danos causados à ANCINE e a terceiros por seus profissionais na execução do Contrato. 17.1.29. Apresentar a relação dos profissionais que serão alocados aos serviços desta contratação para anuência prévia da ANCINE, com vista a verificar o cumprimento do previsto nos Anexos II e III deste edital. 17.1.30. Assegurar que os profissionais alocados aos serviços desta contratação tenham dedicação exclusiva durante o desenvolvimento das atividades sob sua responsabilidade. 18. VIGÊNCIA DO CONTRATO 18.1. Os contratos, decorrentes deste projeto básico, terão duração de 12 (doze) meses, podendo ser prorrogados por iguais períodos, até o limite de 60 (sessenta) meses. 18.2. Os contratos terão vigência na data de suas assinaturas, com prazo máximo para início da execução dos serviços em 30 (trinta) dias corridos, contados da assinatura do contrato. 19. FLUXO PARA ENTREGA DOS SERVIÇOS PRESTADOS 19.1. O fluxo a ser seguido pela CONTRATADA e pela ANCINE, quanto à homologação e entrega dos serviços de métrica de software e de desenvolvimento, manutenção e documentação de sistemas de informação deverá seguir os seguintes critérios: a) Quando o serviço for colocado em homologação pela CONTRATADA, deve ser entregue para ANCINE três vias do Anexo IX - Termo de recebimento do serviço. Uma via será devolvida à CONTRATADA com a assinatura de recebido. A partir desta data começa a contar o prazo de homologação do serviço. b) Caso para a homologação seja necessária reunião com profissionais da contratada, esta deverá ser informada e caso a CONTRATADA falte à reunião por qualquer motivo, o prazo de homologação se renova automaticamente. c) Caso o serviço seja de desenvolvimento ou manutenção de sistema de informação, após a homologação, a ANCINE tomará as providências para disponibilizar o serviço no servidor de produção, devendo contar integralmente com o auxílio da CONTRATADA para tanto. d) Após homologado o serviço, ou, no caso de serviço de desenvolvimento ou manutenção de sistemas, após a implantação bem sucedida no servidor de produção será assinado o termo de recebimento do serviço, efetivando a execução do serviço. e) Decorrido o prazo de homologação do serviço sem um posicionamento da ANCINE, a empresa CONTRATADA deve formalizar de Ofício à Gerência de
+
+16 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+Tecnologia da Informação, informando o atraso na homologação, cabendo a esta avaliar e se for o caso, homologar o serviço por decurso de prazo. f) O último dia para entrega de serviços homologados para faturamento será o dia 21 de cada mês.
+
+g) A CONTRATADA compromete-se a entregar os artefatos à medida que os mesmos forem sendo elaborados de forma a não comprometer os prazos de homologação da ANCINE. h) Para os serviços de manutenção corretiva a CONTRATADA deverá atualizar as mudanças efetuadas na documentação existente, não estando obrigada a elaborar novos artefatos de documentação. i) As não-conformidades identificadas durante a homologação e implantação dos artefatos resultantes do serviço serão corrigidas pela CONTRATADA, sem ônus para a ANCINE. Caso seja identificada alguma não-conformidade, será considerado novo prazo de homologação, sendo este contado a partir da data de entrega do serviço com as não-conformidades corrigidas.
+
+j)
+
+20. PROCEDIMENTOS BÁSICOS DE SEGURANÇA 20.1. Os procedimentos básicos mínimos de segurança exigidos das empresas CONTRATADAS são: a) Credenciar junto a ANCINE, seus profissionais autorizados a retirar e a entregar documentos, bem como daqueles que venham a ser designados para prestar serviços nas dependências da ANCINE. b) Identificar qualquer equipamento da CONTRATADA que venha a ser instalado nas dependências da ANCINE, utilizando placas de controle patrimonial, selos de segurança, etc. c) Manter sigilo absoluto sobre informações, dados e documentos integrantes dos serviços a serem executados na ANCINE. d) Abster-se, qualquer que seja a hipótese, de veicular publicidade ou qualquer outra informação acerca das atividades objeto do projeto básico, sem prévia autorização. e) Observar, rigorosamente, todas as normas e procedimentos de segurança implementados no ambiente de Tecnologia da Informação - TI da ANCINE. f) Adotar critérios adequados para o processo seletivo dos profissionais, com o propósito de evitar a incorporação de pessoas com características e/ou antecedentes que possam comprometer a segurança ou credibilidade da ANCINE.
+
+g) Comunicar com antecedência mínima de 3 (três) dias ao Representante da ANCINE qualquer ocorrência de transferência, remanejamento ou demissão, para que seja providenciada a revogação de todos os privilégios de acesso aos sistemas, informações e recursos da Agência. h) Manter sigilo sobre todos os ativos de informações e de processos da ANCINE.
+
+17 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+21. PROPRIEDADE INTELECTUAL 21.1. A CONTRATADA cederá à ANCINE, o direito patrimonial e a propriedade intelectual em caráter definitivo dos sistemas desenvolvidos e resultados produzidos em conseqüência desta licitação, entendendo-se por resultados quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, diagramas, fontes dos códigos dos programas em qualquer mídia, páginas na Intranet e Internet e documentação didática em papel ou em mídia eletrônica. 21.2. A CONTRATADA fica proibida de veicular e comercializar os produtos gerados relativos ao objeto da prestação dos serviços, salvo se houver a prévia autorização por escrito da ANCINE. 22. GARANTIA 22.1. A garantia para os serviços prestados será obrigatória, e seu prazo será de 1 (um) ano, a contar da data do recebimento dos serviços pela ANCINE. 22.2. Durante o prazo de garantia, todos os eventuais erros ou falhas identificados deverão ser corrigidos pela CONTRATADA, sem ônus para a ANCINE, mesmo em se tratando de softwares e outros ARTEFATOS já considerados aceitos pela ANCINE. 22.3. O direito da ANCINE à garantia de um serviço cessará caso o software ou o ARTEFATO envolvido neste serviço seja alterado pela ANCINE ou por outros FORNECEDORES, a serviço da ANCINE. Caso a própria CONTRATADA realize manutenções no software ou no ARTEFATO, permanece o direito da ANCINE à garantia. 22.4. O prazo de garantia deverá ser respeitado pela CONTRATADA mesmo após o término do prazo de vigência do Contrato. 22.5. Para a contratação, será exigida garantia correspondente a 5% (cinco por cento) do valor da contratação 22.5.1. A garantia deverá ser apresentada no prazo de até 10 dias, contados da assinatura do instrumento contratual, em uma das modalidades previstas no § 1° do artigo 56 da Lei 8.666/93. 22.5.2. O proponente que optar pela apresentação de garantia sob a forma de caução em dinheiro, deverá fazê-lo por meio de depósito caucionado em banco a ser indicado pela ANCINE. 22.5.3. A garantia deverá ter o seu valor proporcionalmente complementado, quando ocorrer modificação no valor total do contrato ou quando ocorrer sua utilização para cobertura de eventuais multas aplicadas. 22.5.4. A garantia de execução somente será restituída pela ANCINE após
+
+cumprimento integral de todas as obrigações contratuais assumidas.
+
+18 de 19
+
+Secretaria de Gestão Interna Gerência de Tecnologia da Informação
+23. ENDEREÇO PARA A REALIZAÇÃO DOS SERVIÇOS 23.1. O endereço para execução dos serviços, quando os mesmos tiverem de ser realizados nas dependências da ANCINE, é o abaixo indicado ou, em caso de mudança, o que for oportunamente indicado: · Agência Nacional do Cinema ­ Escritório Central Av. Graça Aranha, 35 - Centro Rio de Janeiro - RJ CEP: 20030-002 24. DA RESPONSABILIDADE PELO PROJETO BÁSICO (TERMO DE REFERÊNCIA) Este Projeto Básico foi elaborado pelo servidor abaixo assinado, no uso de suas atribuições legais e profissionais, estando em consonância com as disposições legais e normativas aplicáveis sendo objeto de exame e, no caso de concordância, aprovação pelo Secretário de Gestão Interna da ANCINE. Em 07 de maio de 2008 SÉRGIO AUGUSTO SANTOS DE MORAES Analista Técnico SYLMARA CAMPOS PINHO Analista Técnico
+
+De acordo. Considerando-se a necessidade da contratação e que a especificação do objeto e demais condições descritas atendem integralmente a necessidade dessa Gerência de Tecnologia da Informação, encaminhe-se para apreciação do Sr. Secretário de Gestão.
+
+FABIANO DE CASTRO E CASTRO Gerente de Tecnologia da Informação Em ____________________ 1. Aprovo o presente Projeto Básico. 2. Encaminhe-se à PGE para análise.
+
+CARLOS FREDERICO RIBEIRO GONÇALVES Secretário de Gestão Interna Em ___________________
+
+19 de 19
+
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44
+
+ANEXO II Projeto Básico - Item I - Serviços de desenvolvimento, manutenção e documentação de sistemas de informação
+
+1
+
+ÍNDICE 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. Introdução .............................................................................................................. 3 Detalhamento dos serviços .................................................................................... 3 Métodos e Processos para execução dos serviços ................................................ 4 Fluxo de Execução dos serviços ............................................................................ 9 Medição e remuneração dos serviços .................................................................. 10 Treinamento ......................................................................................................... 15 Garantia dos serviços........................................................................................... 16 Padrões de desenvolvimento da ANCINE ............................................................ 16 Local de execução dos serviços........................................................................... 17 Prazo de atendimento .......................................................................................... 17 Atendimento emergencial ..................................................................................... 19 Equipe técnica necessária para a prestação dos serviços.................................... 20 Perfis Profissionais............................................................................................... 20 Tabela de Referência Salarial .............................................................................. 24
+
+2
+
+1. INTRODUÇÃO 1.1. Este anexo tem por objetivo detalhar os serviços previstos no Item I do objeto do Projeto Básico (anexo I). 1.2. O item I refere-se à contratação da prestação de serviços técnicos especializados na área de tecnologia da informação compreendendo o desenvolvimento, a manutenção e a documentação de sistemas de informação, a serem executados de forma continuada e por demanda visando a dar sustentação aos processos de negócio da ANCINE de acordo com as necessidades indicadas pelo Comitê de Gestão da informação ­ CGI. 2. DETALHAMENTO DOS SERVIÇOS 2.1. O serviço a ser contratado abrange todas as fases do processo de desenvolvimento de sistemas, desde o levantamento de requisitos até sua disponibilização em ambiente de produção, e deve ser executado de acordo com normas, procedimentos e técnicas adotadas pela ANCINE e de acordo com as melhores práticas contidas no modelo CMMI (Capability Maturity Model Integrated) e MPS/BR (Melhoria de Processos do Software Brasileiro). 2.2. Poderão ser contratados os serviços abaixo, sendo que a contratação corresponderá ao todo de uma ou mais fases do ciclo de vida do projeto, de acordo com a Metodologia de Desenvolvimento de Sistemas utilizada pela ANCINE, observando os percentuais de esforço previstos para cada fase. 2.3. Serviços de Desenvolvimento de Novos Sistemas de Informação 2.3.1. Correspondem ao desenvolvimento de novos sistemas de informação, a partir de especificações estabelecidas ou validadas pela ANCINE e em conformidade com a sua Metodologia de Desenvolvimento de Sistemas, aplicando os procedimentos necessários à garantia da qualidade para desenvolvimento de sistemas. 2.4. Serviços de Manutenção de Sistemas de Informação 2.4.1. São modificações em sistemas já existentes, em produção, com o objetivo de prevenção, correção de falhas, implementação de melhorias ou adaptações, classificadas conforme abaixo: 2.4.1.1. Manutenção Corretiva - Consiste na correção de defeitos em sistemas em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento do sistema e quaisquer desvios em relação aos requisitos aprovados pelo Gestor. a) Os custos de manutenção corretiva são de responsabilidade da CONTRATADA, durante o período de garantia do sistema. 2.4.1.2. Manutenção Adaptativa - Adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e SGBD, que não impliquem em inserção, alteração ou exclusão de funcionalidades. 2.4.1.3. Manutenção Evolutiva - Corresponde a inclusão, alteração e exclusão de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio e/ou demandas legais.
+
+3
+
+2.5. Serviços de Documentação de Sistemas 2.5.1. Os serviços de documentação a serem contratados referem-se apenas a sistemas já implantados e em ambiente de produção e correspondem à produção e/ou atualização dos documentos abaixo: · · Documento de Visão do Sistema; Especificação de Requisitos de Software: Casos de Uso (Modelo de Casos de Uso e Especificações Suplementares), Diagrama de Seqüência ou de Colaboração, Diagrama de Classes; Modelo de Arquitetura de Software Modelo de Dados; Dicionário de Dados; Manual de Produção: Contagem do Sistema em APF.
+
+· · · · ·
+
+2.6. A elaboração de documentação referente aos serviços de desenvolvimento ou manutenção realizados pela CONTRATADA é obrigatória e sem custo adicional à ANCINE e devem estar em conformidade com o estabelecido pela Metodologia de Desenvolvimento de Sistemas da ANCINE. 2.7. A ANCINE se reserva ao direito de substituir ou alterar a estrutura de qualquer um dos documentos de sua MDS ou de qualquer outro documento de padrão, a exemplo do documento de "Padrões para Modelagem de Base de Dados", e "Padrão de Projeto de Arquitetura de Software", devendo a CONTRATADA adotar o novo padrão estabelecido. 2.7.1. Para os documentos já entregues, irá prevalecer o padrão em vigor quando da contratação. 2.7.2. Para os documentos ainda não entregues o padrão a ser adotado será aquele indicado pela ANCINE. 2.8. A ANCINE se reserva ao direito de incluir novos documentos, sempre que julgar necessário ajustes em sua metodologia de desenvolvimento. 3. MÉTODOS E PROCESSOS PARA EXECUÇÃO DOS SERVIÇOS 3.1. Classificação do Serviço como Projeto 3.1.1. Todo serviço de Desenvolvimento de Novos Sistemas, será classificado como projeto, independente do seu tamanho em pontos de função. 3.1.2. Também são considerados como Projeto, todos os Serviços de Manutenção que apresentarem em sua medição (item 4) um tamanho igual ou maior que 105 pontos de função ou esforço maior do que 2 meses. 3.1.3. A ANCINE se reserva o direito de alterar os valores limites para classificação do serviço de manutenção como projeto a qualquer tempo. 3.2. Realização de Testes 3.2.1. A ANCINE exigirá a execução de Teste Unitário sobre o produto de software construído pela empresa contratada, baseado no Plano de Testes a ser elaborado pela CONTRATADA.
+
+4
+
+3.2.1.1. Entende-se como Teste Unitário aquele realizado sobre um componente de software isoladamente, que deve abranger pelo menos as técnicas de teste Caixa Preta e Caixa Branca. 3.2.1.2. A CONTRATADA deve entregar junto com os artefatos construídos toda a documentação contendo as evidências de teste, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado pela contratada. Essa auditoria será realizada pela ANCINE ou por empresa por ela designada. 3.2.2. A ANCINE exigirá a execução de Teste Integrado sobre o produto de software construído pela empresa contratada, baseado no Plano de testes a ser elaborado pela Contratada. 3.2.2.1. Entende-se como Teste Integrado aquele realizado por meio da navegação de forma progressiva e ordenada pelas telas ou estruturas internas do software onde seus elementos são combinados e testados para avaliação das suas interações. 3.2.2.2. A CONTRATADA deve entregar junto com os artefatos construídos toda a documentação contendo o mapeamento da navegação interna realizada e demais evidências do teste integrado, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado pela contratada. Essa auditoria será realizada pela ANCINE ou por empresa por ela designada. 3.2.3. A ANCINE poderá realizar auditoria sobre o código-fonte entregue pela CONTRATADA, a ser executada pela própria ANCINE ou por empresa por ela designada. Para isso, utilizará como insumos: o código-fonte, a especificação de programas, o modelo de arquitetura de solução e os padrões de codificação definidos. 3.3. Metodologia de desenvolvimento de sistemas 3.3.1. A metodologia de desenvolvimento de sistemas ­ MDS utilizada pela ANCINE é aderente ao paradigma de desenvolvimento de software do mercado, Análise Orientada a Objeto. 3.3.2. A MDS da ANCINE prevê a entrega de artefatos obrigatórios, considerados partes integrantes dos serviços executados pela CONTRATADA, relacionados no item 3.3.8. 3.3.3. O modelo de desenvolvimento da CONTRATADA deverá suportar, para a prestação de serviços objeto deste CONTRATO, o ciclo de desenvolvimento de sistemas e a metodologia definida pela ANCINE com a produção e entrega de todos os artefatos estabelecidos. 3.3.4. A metodologia adotada pela ANCINE, bem como os modelos de artefatos, será entregue, em definitivo, quando da assinatura do CONTRATO e poderá ser alterada a qualquer momento, a critério da ANCINE. 3.3.4.1. Durante o período de realização do certame tais documentos estarão à disposição das licitantes para conhecimento prévio e avaliação em ambiente específico na ANCINE, como forma de subsidiar na formação e elaboração das propostas. 3.3.5. Os processos/artefatos definidos na metodologia da ANCINE poderão sofrer atualizações a critério a ANCINE, no sentido de provê melhorias no processo de desenvolvimento de sistemas de informação.
+
+5
+
+3.3.6. No caso de alteração da metodologia vigente, incluindo-se a distribuição de esforço, a CONTRATADA se obriga a adaptar-se, no prazo máximo de 30 dias corridos, a partir da comunicação formal pela ANCINE, adotando-a em todos os novos projetos e/ou serviços contratados a partir de então, segundo a conveniência da ANCINE. 3.3.6.1. No ato da comunicação formal, prevista no item 3.3.6 acima, a ANCINE disponibilizará a nova versão da metodologia em conjunto com os modelos de artefatos. 3.3.7. As fases e os percentuais abaixo referem-se à distribuição de esforço atualmente adotados pela ANCINE para a contratação de serviços de acordo com a metodologia vigente. Fase da Metodologia Solicitação Iniciação Anteprojeto Concepção Elaboração Construção Testes Implantação Analista de Sistema Sênior Analista de Sistema Pleno 58 % Programador Sênior Programador Pleno Analista de Sistemas Sênior 20 % 7% 10% Analista de Sistemas Sênior 5% Perfil Mínimo Alocado Percentual de Esforço
+
+Distribuição de esforço ­ metodologia de desenvolvimento de sistemas 3.3.7.1. Para contratação somente das atividades de programação ou fase de construção, o percentual a ser aplicado equivale a 22% (vinte e dois por cento) do total de esforço previsto para o projeto. 3.3.8. Artefatos a serem entregues pela CONTRATADA resultantes da execução dos serviços 3.3.8.1. Lista de artefatos a serem entregues na execução dos serviços de desenvolvimento de sistemas de informação referente à documentação do projeto: a. Anteprojeto: Documento que delimita o escopo do projeto em questão. Este documento identifica as informações que servirão de base para desenvolver um entendimento comum do escopo entre as partes envolvidas. Identifica os gestores do sistema, o público-alvo, a descrição macro dos problemas e objetivos do negócio, e em linhas gerais os requisitos funcionais e não-funcionais do projeto. Contém a relação de produtos e subprodutos que serão entregues e seus respectivos prazos de entrega. Além disso, apresenta uma estimativa inicial de tamanho e custo do projeto por meio da Análise por Pontos de Função.
+
+6
+
+b. Plano do Projeto: Define uma visão de todo o processo de atividades de desenvolvimento do sistema de informação e infra-estrutura no que diz respeito às fases e iterações necessárias para a implementação e implantação do software. c. Visão do Projeto (Artefato de Visão): Define as necessidades do projeto, bem como os atores envolvidos no mesmo. d. Plano de Riscos: Documento descritivo que contém a matriz de probabilidade e magnitude dos riscos que envolvem o projeto e as contingências necessárias para mitigar as ameaças que podem comprometer os objetivos do Projeto. e. Cronograma do Projeto (WBS): Este artefato apresenta o cronograma do projeto, bem como as funcionalidades que deverão ser consideradas no mesmo. f. Planilha APF: Apresenta a planilha contendo o resultado da estimativa ou da contagem detalhada da Análise de Ponto de Função.
+
+g. Termo de Recebimento: Apresenta o termo de aceite de entregas parciais referentes ao serviço (Anexo IX). h. Termo de Aceite: Apresenta o aceite definitivo do serviço (entrega total). i. Plano de Homologação: Descreve o plano de homologação do sistema.
+
+3.3.8.2. Lista de artefatos a serem entregues na execução dos serviços de desenvolvimento de sistemas de informação referente à documentação do sistema de informação: a. Modelo de Caso de Negócio: Identifica todos dos casos de uso de negócio que fazem parte do escopo do projeto. b. Modelo de Domínio: Engloba os Diagramas de Objetos e de Classe (Nível Conceitual). c. Modelo de arquitetura de Sistema ou Solução: Apresenta a arquitetura proposta para o sistema ou solução (deve ser considerada a arquitetura padrão dos sistemas da ANCINE). d. Glossário: Identifica os termos técnicos do projeto; e. Modelo de Caso de Uso ou Modelo Funcional: Faz uma descrição abrangente das funções do projeto, demonstrando a estrutura do modelo em pacotes, casos de uso e atores. O artefato demonstra a estrutura de pacotes de forma hierárquica; f. Especificação de Caso de Uso: Descreve os objetivos e as atividades que serão desenvolvidas no caso de uso.
+
+g. Especificação das Regras de Negócio: Descreve as regras de negócios dos casos de uso. h. Modelo de Análise e Projeto: Descreve os procedimentos e os resultados da subfase de Análise e Projeto. i. j. Modelo de Interface (Protótipo): Descreve o protótipo do Software. Diagramas UML: Diagramas referentes à UML: atividades, seqüência, estados, colaboração, componentes, integração.
+
+7
+
+k. Projeto de Banco de Dados: Representa todos os quesitos relativos ao banco de dados (modelo entidade-relacional e dicionários de dados). l. Especificação de Componente: Documento que identifica o componente, a versão do componente, sistemas e módulos que o utilizam, ambiente e pré-requisito para sua utilização, finalidade, parâmetros de entrada e saída e objetos utilizados.
+
+m. Componentes/ Códigos-Fontes: Componentes e programas do software (códigos-Fonte, sub-rotinas, componentes e scripts de carga). n. Plano de Teste: Documento que identifica todos os cenários ou casos de uso que serão testados e quais testes serão realizados. Para cada tipo de teste, são listadas as técnicas utilizadas e a estimativa de esforço. o. Planilha de teste: Apresenta os resultados dos testes do sistema. p. Plano de Implantação: Documento contendo todas as atividades operacionais necessárias à implantação do sistema, identificando-se atividades, responsáveis, prazos, recursos e interdependências. q. Plano de Treinamento: Documento descritivo do objetivo, do escopo do treinamento, do cronograma de execução, dos recursos e materiais necessários e da expectativa do quantitativo de participantes. r. Manual do Usuário: Descreve usualmente todo o processo de execução do sistema (Material para treinamento de clientes / usuários).
+
+s. Laudo de Avaliação da Qualidade: Documento emitido pela equipe de Controle de Qualidade da CONTRATADA indicando que os artefatos entregues passou pela avaliação de qualidade. 3.3.8.3. Para cada serviço ou projeto contratado poderá ser definido, entre a ANCINE e a empresa CONTRATADA, o nível de documentação exigido para sua execução. 3.3.8.4. Para os serviços de manutenção corretiva de sistemas de informação deverão ser entregues os artefatos relacionados abaixo: a. Especificação das Regras de Negócio: Descreve as regras de negócios alteradas ou implementadas em virtude da correção; b. Projeto de Banco de Dados: Representa todos os quesitos relativos ao Banco de Dados (modelo entidade e relacionamento); c. Componentes/ Códigos-Fontes: Descreve os componentes e programas do Software (códigos-fonte, sub-rotinas, componentes e scripts de carga). d. Termo de Aceite: Apresenta o termo de homologação da correção (Anexo IX). e. Demais Documentações Atualizadas: Demais documentações do sistema de informação, caso existam. 3.3.8.5. Todos os artefatos entregues para a ANCINE decorrentes da execução de um projeto deverão ter um Laudo de Avaliação da Qualidade assinado pela equipe de Controle de Qualidade da CONTRATADA. a) A equipe de controle de qualidade deve ser distinta daquela responsável pelo serviço executado e o custo da avaliação deve estar embutido no custo do ponto de função, não cabendo remuneração adicional.
+
+8
+
+3.3.8.6. Os serviços de desenvolvimento e manutenção de sistemas, solicitados pela ANCINE à CONTRATADA, estarão, obrigatoriamente, sob a liderança técnica da CONTRATADA, seguindo preferencialmente as orientações do PMBok (Project Management Body of Knowledge) do PMI (Project Management INSTITUTE), PARA GERENCIAMENTO DE PROJETOS. a) Caso a CONTRATADA não utilize o guia do PMBOk, deverá utilizar sua própria metodologia de gerenciamento de projetos na prestação de serviços à ANCINE. Neste caso a CONTRATADA fica obrigada a cumprir condição para a contratação, conforme previsto no subitem 11.2.2 do Projeto Básico.
+
+4. FLUXO DE EXECUÇÃO DOS SERVIÇOS 4.1.1. Para a contratação dos serviços, a ANCINE encaminhará para a CONTRATADA uma Solicitação de Atendimento ­ Anexo X e demais documentos de apoio que julgar necessário. 4.1.2. A CONTRATADA deverá encaminhar à Gerência de Tecnologia da Informação, no prazo máximo de 10 (dez) dias úteis do recebimento da Solicitação de Atendimento ­ Anexo X, um Anteprojeto - Anexo XI para cada serviço. 4.1.2.1. No caso de Solicitação de Atendimento referente à manutenção corretiva, o prazo para encaminhar o Anteprojeto deverá estar contemplado no prazo máximo de atendimento estabelecido na tabela de prazos de atendimento constante do item 9 deste anexo para esta categoria de serviço. 4.1.3. A execução do serviço somente poderá ser realizada, após a aprovação do Anteprojeto - Anexo XI pela ANCINE. 4.1.4. A solicitação para início da execução dos serviços ocorrerá por meio de Ordem de Serviço (OS) ­ Anexo IV, assinada por profissional da ANCINE, formalmente designado para isso. 4.1.5. A Ordem de Serviço descreve o serviço a ser executado, visando autorizar seu início, delimitar o prazo, identificar os artefatos a serem entregues e seus respectivos desembolsos. 4.1.6. O método de trabalho e os produtos gerados pela CONTRATADA devem obedecer aos critérios definidos na metodologia vigente na ANCINE e demais documentos de padrões, de acordo com as adaptações acordadas para melhor atender às necessidades. 4.1.7. Para projetos, deverão ser emitidas quantas Ordens de Serviço forem necessárias durante o seu desenvolvimento, levando em consideração as definições contidas no Anteprojeto. 4.1.8. A soma do(s) volume(s) e do(s) valor(es) estimados para desembolso das previsões de entrega nunca poderá ser superior ou inferior ao volume e valor total estimado para os serviços contratados. 4.1.9. O Termo de Recebimento ­ Anexo IX será o instrumento utilizado para entregas parciais, e o Termo de Aceite o instrumento utilizado após homologação e implantação, quando couber, dos artefatos gerados, caracterizando o final do serviço objeto da OS.
+
+9
+
+4.1.10. Para identificar a conformidade dos serviços entregues pela CONTRATADA o Termo de Recebimento será classificado pela ANCINE, considerando os seguintes critérios: a. Rejeitado - quando o(s) artefato(s) entregue(s) não for(em) aceito(s) pela ANCINE sujeitando-se a CONTRATADA às penalidades estabelecidas para o caso. b. Recebido - quando o(s) artefato(s) entregue(s) for(em) recebidos integralmente pela ANCINE, não cabendo nenhum ajuste. c. Recebido com ajustes - quando o(s) artefato(s) entregue(s) for(em) recebido(s), entretanto, a ANCINE apresentará à CONTRATADA uma relação de ajustes a serem realizados, com prazo para adequação e reapresentação. 4.1.11. Caso não realize integralmente os ajustes no prazo estabelecido, o artefato ou conjunto de artefatos será considerado Rejeitado e a empresa estará sujeita às penalidades previstas para o caso. 4.1.12. Finalizados todos os ajustes por parte da CONTRATADA, a ANCINE após homologação emitirá o Termo de Recebimento. 4.1.13. Quando todas as entregas forem recebidas, homologadas e implantadas, a ANCINE emitirá o Termo de Aceite. 4.1.14. Os serviços somente serão considerados como finalizados, após a assinatura do Termo de Aceite, por parte da área demandante da ANCINE. 4.1.15. A verificação da qualidade dos serviços prestados e a conformidade dos artefatos/produtos entregues poderão ser realizadas por empresa designada pela ANCINE, contratada para este fim.
+
+5. MEDIÇÃO E REMUNERAÇÃO DOS SERVIÇOS 5.1. Os serviços realizados serão medidos utilizando-se da técnica de Análise em Pontos de Função de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.2.1, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org). 5.2. A ANCINE adotará a técnica definida pela NESMA (Netherlands Software Metrics Users Association) para a realização de contagens por tipo estimada e indicativa. 5.3. A utilização de novas versões do Manual (CPM) ficará a critério da ANCINE, que, mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA. 5.4. A ANCINE adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste, em todos os serviços. 5.5. Mesmo no caso de ser utilizada uma nova versão do Manual (CPM), o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um), cabendo sua revisão somente quando da renovação do CONTRATO entre a ANCINE e a empresa CONTRATADA. 5.6. A ANCINE adota a seguir, Tabela de Itens Não Passíveis de Medição para calcular o esforço de atividades que não são passíveis de serem medidas pela técnica de Análise de Pontos de Função.
+
+10
+
+Item Não Mensurável
+
+Qtde de itens
+
+Qtde PF 0,2
+
+Total de Esforço
+
+Observação
+
+Alterações referentes aos layouts de telas, tais como: Mudança de posição de campos em telas, em relatórios ou em layout de arquivos, sem que haja alteração em elementos de dados, arquivos referenciados ou informações de controle. Inclusão, alteração ou exclusão de logotipo da empresa; Divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. Atualização de rótulos de dados sem que haja mudança de funcionalidade. Alterações referentes a Campos e Variáveis: Inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem que tenha havido mudança na funcionalidade. Padronização de nomenclatura de campos e variáveis em programas e tabelas. Alterações de texto de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. Alterações referentes à alteração, Altera criação ou exclusão de telas para: ção e/ou Adição ou reestruturação de menus criaçã de navegação estáticos; o de Adição ou reestruturação de Ajuda tela (help estático); Criação, alteração ou exclusão de Exclus ão de páginas estáticas. tela Alterações referentes à inclusão, alteração ou exclusão de dados pertencentes a listas (combobox) ou tabelas físicas. Alterações referentes à alteração dos valores dos parâmetros (estáticos), sem que a lógica de processamento tenha sido alterada.
+
+Qtde PF corresponde a cada 5 itens. Total de esforço = (Qtde de itens / 5)*Qtde PF
+
+0,4
+
+0,2
+
+0,5
+
+0,1
+
+0,2
+
+0,1
+
+11
+
+Alterações referentes à criação de mais de uma camada de apresentação (diferente), desde que sejam as mesmas funcionalidades com padrões visuais distintos.
+
+0,2
+
+Qdte de itens é a qtde de PF da respectiva funcionalida de Qdte de itens é a qtde de dias necessários
+
+SERVIÇOS DE ATENDIMENTO - contempla a necessidade de execução de tarefas temporárias, não passíveis de serem pontuadas, como por exemplo: análise de demandas, execução de teste a pedido do usuário/Gestor, rotina de clean up etc. * Deverá ser considerado 1 recurso por dia, sendo 8 horas o esforço diário gasto. O quantitativo de dias é de responsabilidade do líder do projeto ANCINE, que deverá justificar nesse campo. Alterações referentes à criação, alteração e exclusão de tabelas CODE TABLE, e respectivas funcionalidades, de sistemas em produção (não se aplica ao desenvolvimento de novos sistemas nem às atividades de "popular" a tabela), sendo previstas as seguintes atividades e seus percentuais de ponto de função: Inclusão de tabela e funcionalidades; Alteração da tabela e funcionalidades; Excluir tabela e funcionalidades; Inclusão de funcionalidade; Alteração de funcionalidade;
+
+0,5
+
+2,7 1,3
+
+0,6 0,3 0,3 0,3
+
+Exclusão de funcionalidade. Tabela de itens não passiveis de medição
+
+5.7. No caso da CONTRATADA identificar algum item não passível de medição e que não conste da referida tabela deverá enviar relatório técnico à ANCINE que avaliará e, se for o caso, incluirá o novo item na tabela. 5.8. Ao término da execução do Serviço deverá ser efetuada recontagem dos pontos de função visando confirmar a estimativa inicial. Em caso de variações de tamanho, para mais ou para menos e após consenso entre as partes, a diferença financeira será considerada nos desembolsos pendentes. 5.9. Caso haja divergência entre a contagem final de PONTOS DE FUNÇÃO da ANCINE e a da CONTRATADA, fica estabelecido que os responsáveis pela contagem, da ANCINE e da CONTRATADA, deverão se reunir no sentido de eliminar as diferenças. Permanecendo a divergência, fica estabelecido que a ANCINE definirá a contagem que prevalecerá.
+
+12
+
+5.10. Qualquer decisão de projeto ­ incluindo a manutenção de requisitos (alteração da Especificação de Requisitos) ­ que implique em aumento do número de PONTOS DE FUNÇÃO deverá ser aprovada pela ANCINE. 5.11. No caso da impossibilidade de remuneração dos serviços em pontos de função, o esforço necessário será calculado com base na estimativa de horas de esforço para execução do serviço, devendo ser acordado entre a CONTRATANTE e a CONTRATADA. 5.12. Os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite dos serviços, serão por conta da CONTRATADA. 5.13. O pagamento será efetuado mediante fatura relativa aos serviços efetivamente realizados em cada mês, apurados ao final destes. Não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. O pagamento somente será efetuado após o ateste do gestor da ANCINE, por meio do Termo de Aceite do Serviço. 5.14. Os pagamentos serão efetuados pela ANCINE, por meio de Ordem Bancária, em até 10 (dez) dias úteis contados a partir do atesto da Nota Fiscal pelo Gestor do Contrato. 5.15. Formas de contagem por categoria de serviço 5.16. O tamanho dos projetos/serviços será calculado tomando-se por base as definições do item de medição dos serviços, constante neste anexo. 5.17. A utilização dos diversos tipos de contagem e obtenção do custo do projeto/serviço está demonstrada na tabela abaixo. TIPO DE SERVIÇO TIPO DE CONTAGEM Indicativa Estimada Não se aplica Na fase de levantame nto inicial dos requisitos Detalhad a SIM, a partir do detalhame nto dos requisitos e SEMPRE deverá ser realizada ao final da implantaç ão para determina ro "baseline". SIM, a partir do detalhame nto dos requisitos e SEMPRE ITENS NÃO MENSURÁ VEIS SIM, para CODE TABLE e camada de apresentaçã o adicional. CUSTO DO SERVIÇO
+
+Desenvolvimen to de Sistemas
+
+O custo do serviço será de: 100% do valor de um PF, vezes a quantidade de PF da(s) fase(s) contratada(s), mais o total de esforço para "itens não mensuráveis"
+
+Manutenção Evolutiva Não se aplica
+
+Na fase de levantame nto inicial dos requisitos
+
+SIM, para todos os itens da tabela.
+
+Para todos os projetos/serviço s de manutenção evolutiva, serão aplicadas as regras abaixo,
+
+13
+
+deverá ser realizada ao final da implantaç ão para determina ro "baseline".
+
+independente do tamanho: Funcionalidade s INCLUIDAS serão remuneradas em 100% do valor do ponto de função vezes a quantidade de PF da(s) fase(s) contratada(s); Funcionalidade s ALTERADAS - serão remuneradas em 50% do valor do ponto de função vezes a quantidade de PF da(s) fase(s) contratada(s) e terão sua produtividade reduzida em 50%; Funcionalidade s EXCLUIDAS serão remuneradas em 25% do valor do ponto de função vezes a quantidade de PF da(s) fase(s) contratada(s) e terão sua produtividade reduzida em 75%. Em todos os casos, além dos valores em pontos de função, deverá
+
+14
+
+Documentação de Sistemas
+
+SIM, para estimar o tamanho do serviço.
+
+SIM, se houver subsídios.
+
+SIM, se houver subsídios.
+
+Não se aplica
+
+Manutenção Adaptativa
+
+Não se aplica
+
+Não se aplica
+
+SIM, para determina ro tamanho do serviço a ser contratado .
+
+SIM, para CODE TABLE e camada de apresentaçã o adicional.
+
+Manutenção corretiva fora da garantia
+
+Não se aplica
+
+Não se aplica
+
+SIM, para determina ro tamanho da correção e estabelec er novo "baseline".
+
+SIM, para todos os itens da tabela.
+
+Manutenção corretiva na garantia
+
+Não se aplica
+
+Não se aplica
+
+SIM, para Não se determina aplica ro tamanho da correção e estabelec er novo "baseline"
+
+ser somado total de esforço para "itens não mensuráveis" O custo do serviço será: 10% do valor do custo de um PF, vezes a quantidade de PF do serviço. O custo do serviço será: 49% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de esforço para "itens não mensuráveis". O custo do serviço será: 10% do valor do custo de um PF, vezes a quantidade de PF do serviço, mais o total de esforço para "itens não mensuráveis". Não se aplica.
+
+6. TREINAMENTO 6.1. O treinamento no uso da nova solução deverá ser viabilizado conforme Plano de Treinamento (o qual fará parte do Plano de Implantação do Sistema) fornecido pela Contratada durante a Fase de Homologação, em eventos específicos de capacitação, preferencialmente no ambiente da CONTRATANTE, e baseado em documentos técnicos e/ou manuais específicos (cujo custo deverá estar incluso
+
+15
+
+nos valores ofertados pela licitante). O cronograma e horários dos treinamentos deverão ser previamente aprovados pela CONTRATANTE. 6.2. A contratada deverá descrever a metodologia, a carga horária e o conteúdo programático do treinamento a ser ministrado aos técnicos da CONTRATANTE e/ou da contratada, por esta designada, e a usuários finais. 6.3. O treinamento, a ser ministrado aos usuários finais, deverá focalizar a parte operacional do sistema, com todas as suas funcionalidades, devendo ter carga horária necessária a vencer todo o conteúdo e tirar dúvidas dos treinandos, inclusive por um período de 30 (trinta) dias após a conclusão do treinamento. 6.4. O treinamento direcionado para os técnicos da CONTRATANTE ou de outra contratada, designada pela ANCINE, deverá ser focado na solução adotada de forma que haja transferência do conhecimento da tecnologia utilizada no desenvolvimento do sistema e também na utilização do mesmo (treinamento do usuário final). Ao final do treinamento, técnicos que participaram do treinamento deverão estar capacitados para realizarem a instalação, a manutenção e a evolução das funcionalidades do sistema. 7. GARANTIA DOS SERVIÇOS 7.1. A garantia para os serviços prestados será obrigatória, e seu prazo será de no mínimo 1 (um) ano, a contar da data do recebimento dos serviços pela ANCINE. 7.2. Durante o prazo de garantia, todos os eventuais erros ou falhas identificados deverão ser corrigidos pela CONTRATADA, sem ônus para a ANCINE, mesmo em se tratando de softwares e outros ARTEFATOS já considerados aceitos pela ANCINE. 7.3. O direito da ANCINE à garantia de um serviço cessará caso o software ou o ARTEFATO envolvido neste serviço seja alterado pela ANCINE ou por outros FORNECEDORES, a serviço da ANCINE. Caso a própria CONTRATADA realize manutenções no software ou no ARTEFATO, permanece o direito da ANCINE à garantia. 7.4. O prazo de garantia deverá ser respeitado pela CONTRATADA mesmo após o término do prazo de vigência do Contrato. 7.5. O prazo máximo para correção de defeitos não poderá ser maior que 20% (vinte por cento) do prazo definido no cronograma de desenvolvimento do sistema de informação. 7.6. O desrespeito ao prazo acima estabelecido fica sujeito à advertência e multa nos termos definidos no Projeto Básico. 8. PADRÕES DE DESENVOLVIMENTO DA ANCINE 8.1. A CONTRATADA se compromete a obedecer todas as normas, padrões, processos e procedimentos referentes ao Desenvolvimento de Sistemas de Informação definidos pela ANCINE, devendo: 8.1.1. Manter consistentes e atualizados todos os artefatos produzidos e/ou alterados durante a execução dos serviços contratados; 8.1.2. Manter consistência entre os modelos de dados desenvolvidos e o modelo de dados corporativos da ANCINE;
+
+16
+
+9. LOCAL DE EXECUÇÃO DOS SERVIÇOS 9.1. Os serviços decorrentes deste projeto básico, exceto aqueles referentes às fases de construção e teste, deverão ser executados, preferencialmente, nas instalações e com recursos de desenvolvimento da ANCINE, na cidade do Rio de Janeiro-RJ. 9.2. Os serviços referentes às fases de construção e teste deverão ser executados nas instalações e com recursos de desenvolvimento da empresa CONTRATADA na cidade do Rio de Janeiro-RJ. 9.3. Ao critério da ANCINE, em situações em que julgar mais conveniente, esta poderá estabelecer o local de execução dos serviços, instalações da ANCINE ou da empresa CONTRATADA, de forma distinta da apresentada nos itens 8.1 e 8.2. 9.4. A ANCINE disponibilizará local de trabalho e infra-estrutura de hardware e software quando os serviços forem executados em suas dependências, conforme descrito no Item 10 ­ Recursos operacionais da ANCINE do Projeto Básico, sendo observados os horários de expediente da ANCINE para execução destes serviços. 10. PRAZO DE ATENDIMENTO 10.1. A CONTRATADA deverá observar os prazos para atendimento dos tipos de serviços, conforme tabela abaixo. 10.2. Os prazos máximos estabelecidos contemplam a execução de todas as fases definidas na Metodologia de Desenvolvimento da ANCINE. TABELA DE PRAZOS DE ATENDIMENTO DE SERVIÇOS CATEGORIA DO SERVIÇO CRITICID TIPO DE ADE OCORRÊNCIA PRAZO PRAZO PRAZO PARA MÁXIMO P/ MÁXIMO P/ EXECUÇÃO SOLUÇÃO SOLUÇÃO DO SERVIÇO DO DA CAUSA PROBLEMA DO (em horas PROBLEMA corridas) (em horas corridas) 2 HORAS 4 HORAS 10 HORAS
+
+ALTA MÉDIA MANUTENÇÃO CORRETIVA BAIXA
+
+FUNCIONAMEN TO INADEQUADO OU EM DESACORDO COM OS REQUISITOS DO SOFTWARE EM PRODUÇÃO
+
+24 HORAS
+
+DEMANDA EMERGENCIAL OU LEGAL DE MANUTENÇÃO EVOLUTIVA OU DESENVOLVIM ENTO DE
+
+DEMANDA EMERGENCIAL
+
+Definido pela ANCINE
+
+17
+
+NOVOS SISTEMAS MANUTENÇÃO ADAPTATIVA NECESSIDADE DE EVOLUÇÃO, ADEQUAÇÃO OU DESENVOLVIM ENTO DE NOVO SISTEMA De acordo com a tabela de prazos
+
+MANUTENÇÃO EVOLUTIVA OU DESENVOLVIM ENTO DE NOVOS SISTEMAS
+
+De acordo com a tabela de prazos
+
+10.3. Os prazos máximos (em meses corridos) de entrega a serem observados para os serviços de desenvolvimento de sistemas de informação demandados nunca poderão ser superiores ao percentual contratado multiplicado pelos prazos estabelecidos na fórmula a seguir, arredondando-se o resultado para o inteiro imediatamente superior: Cálculo do Prazo = J X ( ( ( T X P ) / 168 ) ) k Sendo: Tamanho do Projeto ( T ) 50 <= T < 300 Pontos de Função 300 <= T < 1000 Pontos de Função 1000 <= T < 3000 Pontos de Função Onde: T = Tamanho do Projeto; J = Variável interna definida com base em experiência de outros entes públicos; P = Aplicação do fator de redução na produtividade definida pela CONTRATADA; k = Constante do COCOMO II definida com base na experiência de outros entes públicos. 10.4. A fórmula acima utiliza o modelo COCOMO II e o Fator de Produtividade referenciado é aquele pelo qual a empresa contratada foi pontuada quando do certame licitatório; 10.5. A CONTRATADA deverá apresentar à ANCINE, para validação e aceite, proposta de prazo para execução de todos os serviços, baseados na produtividade pela qual foi pontuada; 10.6. No caso de contagens que identificarem tamanho do serviço inferior a 50 (cinqüenta) pontos de função, o prazo máximo será calculado multiplicando-se o número de pontos de função por 1,68 (um vírgula sessenta e oito), dividindo-se o J 2 2,5 3 P 0,50 * Fator Produtividade 0,75 * Fator Produtividade 1,00 * Fator Produtividade 0,31888 k
+
+18
+
+resultado por 30, arredondando-se o resultado para o inteiro imediatamente superior. 10.7. A CONTRATADA poderá solicitar, ainda, um prazo adicional, quando justificada e comprovada a necessidade, em função de complexidade do serviço a ser executado, ficando a critério da ANCINE, aceitar ou não as justificativas e o novo prazo apresentado pela CONTRATADA. a. O prazo adicional deverá ser solicitado em até 1 (um) dia útil após o recebimento da Solicitação de Atendimento ­ Anexo X e, no caso de aceito pela ANCINE, será adicionado ao prazo total do serviço ou projeto contratado; b. Caso a justificativa não atenda à ANCINE, prevalecerá o prazo inicialmente estipulado; c. A solicitação de prazo adicional para atendimento não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação pela ANCINE, ficam mantidas as condições estipuladas para o serviço;
+
+d. Caso o prazo de execução proposto pela CONTRATADA não atenda às necessidades da ANCINE novos prazos deverão ser apresentados.
+
+11. ATENDIMENTO EMERGENCIAL 11.1. Entende-se por atendimento emergencial aqueles destinados à solução de funcionamento inadequado ou em desacordo com os requisitos do software em produção. 11.2. Para atendimento a estes tipos de serviço, a CONTRATADA deverá disponibilizar estrutura de atendimento 24 x 7. 11.3. Os serviços de manutenção corretiva deverão ser realizados no prazo máximo previsto na tabela de prazo de atendimento dos serviços, contabilizado a partir do acionamento pela ANCINE. 11.4. Caso seja constatada a impossibilidade de cumprimento do prazo estabelecido, em decorrência da abrangência do problema, a CONTRATADA deverá apresentar justificativa e o novo prazo proposto, submetendo-o à ANCINE para aprovação, em até 01(uma) hora, sem gerar qualquer impacto ao atendimento. 11.5. Caso a proposta seja negada, o prazo estabelecido pela ANCINE deverá ser mantido, ficando a CONTRATADA sujeita às penalidades previstas pelo não cumprimento. 11.6. No prazo estipulado para o serviço, a CONTRATADA deverá executar todas as atividades previstas abaixo, bem como apresentar à ANCINE todas as ações de contingência realizadas, no caso de existir: Diagnosticar o problema; Analisar o escopo e criticidade do problema; Identificar as alternativas de solução; Eliminar o problema detectado e disponibilizar para a ANCINE as correções necessárias sem que estas comprometam qualquer outro sistema ou qualquer funcionalidade do sistema. · Documentar as correções implementadas. · · · ·
+
+19
+
+12. EQUIPE TÉCNICA NECESSÁRIA PARA A PRESTAÇÃO DOS SERVIÇOS 12.1. A Empresa CONTRATADA se compromete a alocar, em todos os serviços contratados pela ANCINE, profissionais com perfis e qualificações adequados, mantendo ao longo da vigência do contrato todas as condições que apresentaram em sua habilitação e qualificação no processo licitatório. 12.2. A qualificação dos profissionais deverá ser comprovada por meio da apresentação de seus currículos, no ato da assinatura do Contrato e quando solicitada pela ANCINE. 12.3. A CONTRATADA deverá selecionar, designar e manter profissionais cuja qualificação esteja em conformidade com os tipos de serviços descritos nas Solicitações de Atendimento - Anexo X, observando o certificado apropriado emitido pelos fabricantes da linguagem, ferramenta ou tecnologia, sempre que a atividade a ser executada assim o exigir. 12.4. A CONTRATADA deverá alocar profissionais especialistas e certificados na linguagem, ferramenta, tecnologia ou processo sempre que a ANCINE solicitar. 12.5. A CONTRATADA se compromete a garantir a alocação de profissionais devidamente capacitados para solucionar problemas relacionados à prestação de serviços e ocorrências nos sistemas, incluindo os que exijam a presença física nas dependências da ANCINE. 12.6. Os profissionais a serem envolvidos, para a execução dos serviços referentes ao desenvolvimento de sistemas de informação, deverão estar capacitados nos recursos que compõem o ambiente de desenvolvimento da ANCINE, descritos no Item 10 ­ Recursos operacionais da ANCINE do Projeto Básico. 12.7. A CONTRATADA se compromete a dispor de profissionais com o perfil exigido pela ANCINE, conforme descrito no item 13 a seguir. 12.8. Durante a execução do contrato deve ser observada a indicação do perfil mínimo que deve ser alocado para cada fase do projeto de desenvolvimento conforme apresentado no quadro de distribuição de esforço constante no item 3.3.7 deste Anexo. 12.9. A CONTRATADA deverá manter Coordenador de Projeto (preposto), às suas expensas, nas dependências da ANCINE, no horário de 9:00h às 18:00h para executar a coordenação dos serviços e gestão administrativa do contrato. 13. PERFIS PROFISSIONAIS 13.1. Coordenador de Projeto (preposto) 13.1.1. 13.1.2. O Coordenador de Projeto será responsável pelo atendimento, acompanhamento, controle e execução dos serviços contratados. Perfil profissional do Coordenador de Projeto: a) Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação ou formação de nível superior em qualquer área com curso de pós-graduação lato sensu (especialização) na área de informática; b) Experiência de, no mínimo, 08 anos em atividades de desenvolvimento de sistemas de informação;
+
+20
+
+c) Experiência de, no mínimo, 03 anos em coordenação, acompanhamento e controle da execução da prestação de serviços terceirizados de desenvolvimento e manutenção de sistemas; d) Experiência em ciclo de produção baseada em metodologia Unified Processs ou similar; e) Conhecimento em análise e modelagem de dados; f) Possuir certificação em gerência de projetos ­ PMP.
+
+13.2. Gerente de Projetos 13.2.1. O Gerente de Projetos terá a responsabilidade pelo pleno gerenciamento do projeto ou serviço contratado, controle e entrega no tempo definido pela ANCINE, mantendo a consistência e atualização das informações na ferramenta de gerência de projetos. Perfil Profissional do Gerente de Projetos: a) Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação, ou formação de nível superior em qualquer área com curso de pós-graduação lato sensu (especialização) na área de informática; b) Experiência de, no mínimo, 08 anos em atividades de desenvolvimento de sistemas de informação; c) Experiência em ciclo de produção baseada em metodologia Unified Process ou similar; d) Conhecimento em análise e modelagem de dados; e) Experiência mínima de 3 anos em gerenciamento de projetos e equipes de desenvolvimento de sistemas, registrada nos últimos 06 anos. f) Possuir certificação em gerência de projetos ­ PMP.
+
+13.2.2.
+
+13.3. Analista de Sistemas (Pleno) 13.3.1. Tem a responsabilidade de realizar atividades relacionadas a análise e design (modelagem) do sistema, conforme as definições da arquitetura da solução e a metodologia de desenvolvimento de sistemas utilizada, mantendo a consistência e atualização das informações nas ferramentas de análise e design. Perfil Profissional do Analista de Sistemas a) Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação, ou formação de nível superior em qualquer área com curso de pós-graduação lato sensu (especialização) na área de informática; b) Experiência em análise e desenvolvimento de sistemas de informações; c) Experiência em ciclo de produção baseada em metodologia UP ou similar; d) Conhecimento em análise e modelagem de dados utilizando UML;
+
+13.3.2.
+
+21
+
+e) Experiência de, no mínimo, 5 anos desenvolvimento/manutenção de software. 13.4. Analista de Sistemas (Sênior) 13.4.1.
+
+em
+
+atividades
+
+de
+
+Tem a responsabilidade de realizar a análise e design (modelagem) do sistema, conforme as definições da arquitetura da solução e a metodologia de desenvolvimento de sistemas utilizada, mantendo a consistência e atualização das informações nas ferramentas de análise e design, de acordo com sua especialidade de atuação. Perfil Profissional do Analista de Sistemas a) Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação, ou formação de nível superior em qualquer área com curso de pós-graduação lato sensu (especialização) na área de informática; b) Experiência em análise e desenvolvimento de sistemas de informações; c) Experiência em ciclo de produção baseada em metodologia UP ou similar; d) Conhecimento em análise e modelagem de dados utilizando UML; e) Experiência de, no mínimo, 8 anos desenvolvimento/manutenção de software. em atividades de
+
+13.4.2.
+
+13.4.2.1. Analista de Sistemas ­ Especialidade: Analista de requisitos a) Experiência em atividades de levantamento, especificação e gerência de requisitos, em especificação de casos de uso e modelagem de processos de negócio. b) Conhecimento profundo em Metodologias de Projeto de Sistemas. Domínio nas metodologias RUP. Desejável certificação da metodologia PMI. Desejável conhecimento de CMMI. 13.4.2.2. Analista de Sistemas ­ Especialidade: Analista de qualidade de software a) Experiência em avaliação de conformidade de artefatos de software, bem como em elaboração e validação de modelos de processos de negócio. b) Experiência em elaboração de Planos de Teste, Casos de Teste e Relatórios de Teste. c) Conhecimento profundo em Metodologias de Projeto de Sistemas, Metodologia e Instrumentos de Quality Assurance. Desejável certificação da metodologia PMI. Desejável conhecimento de CMMI. 13.4.2.3. Analista de Sistemas ­ Especialidade: Analista de Configuração e Mudanças a) Experiência em atividades de Gerência de Configuração e Mudanças. b) Conhecimento em ferramentas de versionamento tais como CVS, Rational ClearCase ou similares.
+
+22
+
+13.5. Programador (Pleno) 13.5.1. 13.5.2. Tem a responsabilidade de implementar códigos executáveis e testar seus funcionamentos, identificando e corrigindo possíveis exceções e erros. Perfil Profissional do Programador a) Curso de 2º grau completo; b) Experiência de, no mínimo 3 anos em programação de sistemas de informações; c) Conhecimento e experiência na linguagem, banco de dados e outras tecnologias utilizadas na OS correspondente. 13.6. Programador (Sênior) 13.6.1. 13.6.2. Tem a responsabilidade de implementar códigos executáveis e testar seus funcionamentos, identificando e corrigindo possíveis exceções e erros. Perfil Profissional do Programador a) Formação de nível superior em qualquer área ou cursando nível superior na área de informática; b) Experiência de, no mínimo 5 anos em programação de sistemas de informações; c) Conhecimento e experiência na linguagem, banco de dados e outras tecnologias utilizadas na OS correspondente. 13.7. Web Designer 13.7.1. Tem a responsabilidade de implementar as interfaces web dos sistemas de informação, mantendo a conformidade dos sistemas com os padrões da ANCINE ou por ela adotada, de usabilidade, navegabilidade e operabilidade dos sistemas. Perfil Profissional do Web Designer a) Curso de 2º grau completo; b) Experiência em criação de páginas e sítios web; c) Experiência em designer de interface de sistemas web; d) Experiência de no mínimo 12 meses na função, nos últimos 3 anos. e) Conhecimento e experiência na linguagem, banco de dados e outras tecnologias utilizadas na OS correspondente. 13.8. Documentador 13.8.1. Tem a responsabilidade de realizar os serviços de documentação de sistemas de informação, seguindo os modelos de documentos especificados na metodologia de desenvolvimento de software da ANCINE. Perfil Profissional do Documentador a) Curso de 2º grau completo;
+
+13.7.2.
+
+13.8.2.
+
+23
+
+b) Experiência em documentação de sistemas de informação; c) Experiência no processo RUP; d) Experiência em documentação de sistemas orientados a objetos; e) Experiência em documentação de sistemas com UML; f) Experiência de no mínimo 12 meses na função, nos últimos 3 anos.
+
+14. TABELA DE REFERÊNCIA SALARIAL 14.1. Pesquisa de Mercado 14.1.1. A pesquisa de mercado apresentada (Tabela 1) contempla a média de salários para os perfis descritos disponibilizada em sites especializados em pesquisas salariais ­ RH Info (www.rhinfo.com.br) e Datafolha (datafolha.folha.uol.com.br) ­ e os salários praticados em contratação realizada em 2008 pela Agência Nacional de Saúde Suplementar ­ ANS, entidade da Administração Pública Federal de natureza similar a da Ancine. Em ambos os casos, para as descrições das atividades que não eram equivalentes foi adotado o critério de similaridade entre as funções desempenhadas. 14.1.2. A pesquisa de salários disponibilizada pela RH Info é de abrangência nacional com predominância de São Paulo e Rio de Janeiro e teve sua última atualização em março de 2008. A pesquisa, realizada pelo Datafolha, tem como objetivo principal a divulgação das médias estatísticas, conforme salários pagos por empresas privadas de médio e grande porte com sede ou filial na cidade de São Paulo e região metropolitana, e teve sua última atualização em junho de 2008. Tabela 1 ­ Pesquisa de Mercado Categoria de Serviço Pretendida no Edital Coodenador de Projetos Gerência de Projetos (Nível Sênior) Análise de Sistemas (Nível Sênior) Análise de Sistemas (Nível Pleno) Programador (Nível Sênior) Programador (Nível Pleno) Web Designer Documentador Fontes de Pesquisa RH Info1 9.992,79 9.992,79 5.065,52 5.461,35 3.097,33 2.310,77 1.563,60 Datafolha2 9.807,00 9.807,00 7.232,00 5.451,00 5.176,00 3.360,00 2.721,00 ANS3 7.499,36 7.499,36 6.409,92 5.707,68 5.202,56 4.299,68 3.655,52 -
+
+1 Fonte: www.rhinfo.com.br (atualização em março de 2008), 2 datafolha.folha.uol.com.br (atualização em junho de 2008), 3Agência Nacional de Saúde Suplementar ­ ANS (contrato de prestação de serviços de TI firmado em 2008).
+
+14.2. Tabela de Referência: Valores-Base 14.2.1. A prática de remuneração compatível com níveis de mercado é essencial para a retenção de bons profissionais. As licitantes poderão considerar os valores da tabela 2, abaixo, como referência para a remuneração dos profissionais alocados ao futuro contrato com a ANCINE, comprovada posteriormente nas respectivas carteiras de trabalho.
+
+24
+
+14.2.2. A tabela de referência salarial (Tabela 2) foi definida a partir da média dos valores constantes na Tabela 1, que representam os valores médios de mercado obtidos por meio de duas empresas especializadas em pesquisa salarial de abrangência nacional e o valor praticado em contrato de entidade pública do governo federal com valores atualizados, uma vez que o contrato foi assinado no ano de 2008. A necessidade de referência a valores efetivamente praticados e atuais justifica-se tendo em vista que o salário pago aos profissionais alocados ao contrato impacta na taxa de rotatividade destes profissionais e que é de interesse da ANCINE que essa taxa seja a mais baixa possível, o que favorece a uma maior qualidade do serviço prestado. 14.2.3. Os valores constantes das tabelas não incluem margem de lucro/remuneração da empresa, nem os custos relativos a encargos sociais, benefícios trabalhistas (como auxílio-creche, vale transporte, auxílio-alimentação, treinamento e reciclagem), despesas administrativas e de gerenciamento do contrato, encargos tributários, e outras despesas operacionais ou comerciais incidentes na prestação dos serviços. 14.2.4. Cabe salientar que a definição de uma tabela de referência pela ANCINE não impõe à(s) licitante(s) a sua adoção. Entretanto, a(s) licitante(s) deverá(ão) observar os valores vigentes no mercado para as categorias profissionais, podendo-se desclassificar propostas que apresentem valor simbólico ou irrisório. 14.2.5. O edital valorizará, como um dos indicadores da qualidade técnica da licitante, o compromisso da empresa de adotar a tabela de referência da ANCINE (Tabela 2) como piso salarial da equipe que prestará os serviços nas instalações da CONTRATANTE. O edital estabelecerá faixas de pontuação conforme a quantidade de perfis profissionais remunerados, no mínimo, com os valores definidos na tabela de referência. 14.2.6. Em licitação realizada no exercício de 2006, a prática de utilização de tabela de referência foi utilizada com sucesso pela Advocacia Geral da União ­ AGU. O presente projeto básico parte do mesmo princípio exposto pela AGU e apresenta uma tabela de remuneração que servirá como simples referência para que as licitantes elaborem suas estratégias para o certame, adotando-a no todo, em parte ou desconsiderando-a. 14.2.7. Em 29 de novembro de 2005, em reunião extraordinária da 2ª Câmara, o TCU, baseado em análise da 2ª Diretoria Técnica da 6ª SECEX, aprovou o Acórdão 2.376/2005. Ao examinar idêntico quesito de pontuação na Concorrência AGU 03/2005 o TCU entendeu no referido acórdão que "não se vislumbra irregularidade na previsão desse quesito de pontuação, porque, no presente, caso, se trata de quesito de pontuação da proposta técnica somente, valorando, de forma razoável e moderada, a proposta que se utilizar (no todo ou em parte) da tabela de referência (elaborada, a priori, de forma objetiva e fundamentada, com vistas a refletir os preços médios praticados no mercado), que pode ou não ser adotada pela licitante, sem incorrer no seu alijamento do certame. Destarte, não se vislumbra que essa previsão esteja fixando remuneração mínima a profissionais contratados e, por conseguinte, esteja estabelecendo mínimos."
+
+25
+
+Tabela 2 - Referência Salarial Categoria de Serviço Coordenador de Projeto (preposto) Gerência de Projetos Análise de Sistemas (Nível Sênior) Análise de Sistemas (Nível Pleno) Programador (Nível Sênior) Programador (Nível Pleno) Web Designer ­ 2 anos Documentador Fonte: Média dos salários apresentados na Tabela 1. Referência Salarial 9.099,72 9.099,72 6.235,81 5.579,34 5.279,97 3.585,67 2.895,76 1.563,60
+
+14.3. A(s) Licitante(s) deverá(ão) explicitar os respectivos salários e encargos por meio da planilha de composição de preços, conforme Anexo VII ­ Planilha de Composição de Preços.
+
+26
+
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44
+
+ANEXO III Projeto Básico - Item II ­ Serviços de Métrica de Software
+
+Página 1 de 13
+
+ÍNDICE 1. 2. 3. 4. 5. Introdução............................................................................................................... 3 Detalhamento dos serviços ..................................................................................... 3 Execução dos serviços ........................................................................................... 9 Medição e remuneração dos serviços..................................................................... 9 Artefatos a serem entregues pela CONTRATADA resultantes da execução dos serviços................................................................................................................. 10 6. Garantia dos serviços de medição de software ..................................................... 11 7. Local de execução dos serviços............................................................................ 11 8. Prazo de atendimento de serviços de medição ..................................................... 11 9. Equipe técnica necessária para prestação dos serviços ....................................... 12 10. Perfis Profissionais................................................................................................ 12
+
+Página 2 de 13
+
+1. INTRODUÇÃO 1.1. Este tem por objetivo detalhar os serviços previstos no Item II do objeto do Projeto Básico (Anexo I). 1.2. O item II refere-se à contratação da prestação de serviços especializados de medição de sistemas em desenvolvimento, sistemas em produção, manutenção de sistema em produção, validação de medições, coleta de dados, geração e análise de indicadores e, suporte à aplicação de técnicas de medição, para atendimento à Gerência de Tecnologia da Informação da ANCINE, em um total estimado de 2.000 (duas mil) horas, durante a vigência do contrato. 2. DETALHAMENTO DOS SERVIÇOS 2.1. Poderão ser contratados os serviços abaixo, sempre em conformidade com a Metodologia de Desenvolvimento de Sistemas utilizada pela ANCINE. 2.1.1. Serviços relativos à medição de novos sistemas 2.1.1.1. Consideram-se como serviços relativos à medição de novos sistemas: a) Identificação das funcionalidades previstas para atendimento da necessidade do usuário no sistema aplicativo que será desenvolvido. b) Definição do método de contagem a ser utilizado, baseado no grau de informações recebido. c) Análise das funcionalidades, identificando as funções de dados e transacionais, prevista pela técnica de Análise de Pontos de Função. d) Atribuição do grau de complexidade para cada função de dados, ou transacional, identificada. e) Atribuição da quantidade de Pontos de Função prevista na técnica. f) Análise e identificação das características gerais do sistema, quando se tratar de contagem detalhada de Pontos de Função.
+
+g) Conclusão da contagem de Pontos de Função, com atualização da base histórica de contagens e emissão de documento contendo o resultado do serviço prestado. 2.1.2. Serviços relativos à medição de manutenção de sistemas em produção 2.1.2.1. Consideram-se como serviços relativos à medição de manutenção de Sistemas em produção: a) Identificação das funcionalidades modificadas. b) Definição do método de contagem a ser utilizado, baseado no grau de informações recebido.
+
+Página 3 de 13
+
+c) Identificação e análise das funcionalidades modificadas, funções de dados e funções transacionais, previstas na técnica de Análise de Pontos de Função. d) Atribuição do grau de complexidade para cada função de dados ou transacional, identificada. e) Atribuição da quantidade de Pontos de Função prevista, conforme a técnica de Análise de Pontos de Função. f) Revisão das características gerais do sistema, quando se tratar de contagem detalhada de Pontos de Função.
+
+g) Conclusão da contagem de Pontos de Função, com a atualização da base histórica de contagens e emissão de documento contendo o resultado do serviço prestado. 2.1.3. Serviços relativos à medição de sistemas em produção 2.1.3.1. Consideram-se como serviços relativos à medição de sistemas em produção: a) Identificação e análise das funcionalidades implementadas no sistema, funções de dados e funções transacionais, previstas na técnica de Análise de Pontos de Função. b) Atribuição do grau de complexidade para cada função de dados ou função transacional, identificada. c) Atribuição da quantidade de Pontos de Função prevista na técnica de Análise de Pontos de Função. d) Identificação das características gerais do sistema, se necessário. e) Conclusão da contagem de Pontos de Função do sistema, com a inclusão dos resultados na base histórica de contagens. 2.1.4. Serviços relativos à validação de medições 2.1.4.1. Consideram-se como serviços relativos à validação de medições: a) Identificação do uso do método de contagem apropriado. b) Validação da aplicação adequada das regras previstas no método de contagem utilizado. c) Emissão de laudo de validação. 2.1.5. Serviços relativos à coleta de dados, geração e análise de indicadores 2.1.5.1. Consideram-se como serviços relativos à coleta de dados, geração e análise de indicadores: a) Coleta de dados sobre projetos, sistemas e serviços medidos; b) Avaliação dos dados coletados, adotando as melhores práticas existentes no mercado;
+Página 4 de 13
+
+c) Geração de indicadores que auxiliem a ANCINE na melhoria da gestão dos projetos e serviços; d) Análise dos indicadores gerados visando auxiliar a ANCINE na definição de ações que possam melhorar a produtividade e qualidade do seu processo de desenvolvimento de sistemas. 2.1.6. Serviços relativos ao suporte à aplicação de técnicas de medição 2.1.6.1. Consideram-se como serviços relativos ao suporte à aplicação de técnicas de medição: a) Esclarecimento de dúvidas e orientação na aplicação das técnicas de medição utilizadas pela ANCINE; b) Refinamento do processo de métricas adotado pela ANCINE; c) Esclarecimento de dúvidas e orientação do processo de geração e utilização de indicadores, inclusive quanto à criação de base de dados para esta finalidade; d) Propor melhorias no processo de avaliação/revisão das estimativas de esforço para projetos e serviços da ANCINE, sempre utilizando melhores práticas de mercado. 2.1.7. Serviço de criação e manutenção de base de dados históricos 2.1.7.1. Consideram-se como serviços relativos à criação e manutenção de base de dados históricos a criação e manutenção de base de dados histórica que possibilite a geração de indicadores solicitados pela ANCINE e o armazenamento de todos os resultados dos serviços prestados, com versionamento de contagens realizadas. 2.2. Os serviços realizados serão medidos utilizando-se da técnica de Análise em Pontos de Função de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.2.1, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org). 2.3. A ANCINE adotará a técnica definida pela NESMA (Netherlands Software Metrics Users Association) para a realização de contagens por tipo estimada e indicativa. 2.4. A utilização de novas versões do Manual (CPM) ficará a critério da ANCINE, que, mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA. 2.5. A ANCINE adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste, em todos os serviços. 2.6. Mesmo no caso de ser utilizada uma nova versão do Manual (CPM), o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um), cabendo sua revisão somente quando da renovação do CONTRATO entre a ANCINE e a empresa CONTRATADA. 2.7. Nos casos em que a técnica de Análise de Pontos de Função não reconhece o serviço a ser mensurado como aplicável, a CONTRATADA deverá adotar, para realização de estimativas de esforço a Tabela de Itens Não Passiveis de Medição, apresentada a seguir.
+Página 5 de 13
+
+2.8. No caso da CONTRATADA identificar algum item, não passível de medição, que não conste da referida tabela, deverá ser enviado relatório técnico à ANCINE que avaliará e, se for o caso, incluirá o novo item na tabela. Item Não Mensurável Alterações referentes aos layouts de telas, tais como: Mudança de posição de campos em telas, em relatórios ou em layout de arquivos, sem que haja alteração em elementos de dados, arquivos referenciados ou informações de controle. Inclusão, alteração ou exclusão de logotipo da empresa; Divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. Atualização de rótulos de dados sem que haja mudança de funcionalidade. Alterações referentes a Campos e Variáveis: Inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem que tenha havido mudança na funcionalidade. Padronização de nomenclatura de campos e variáveis em programas e tabelas. Alterações de texto de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. Alterações referentes à alteração, Alter criação ou exclusão de telas para: ação e/ou Adição ou reestruturação de menus criaç de navegação estáticos; ão Adição ou reestruturação de Ajuda de (help estático); tela Criação, alteração ou exclusão de Excl páginas estáticas. usão de tela 0,2 0,4 Qtde de itens Qtde PF 0,2 Total de Esforço Observação Qtde PF corresponde a cada 5 itens. Total de esforço = (Qtde de itens / 5)*Qtde PF
+
+0,5
+
+0,1
+
+Página 6 de 13
+
+Alterações referentes à inclusão, alteração ou exclusão de dados pertencentes a listas (combobox) ou tabelas físicas. Alterações referentes à alteração dos valores dos parâmetros (estáticos), sem que a lógica de processamento tenha sido alterada. Alterações referentes à criação de mais de uma camada de apresentação (diferente), desde que sejam as mesmas funcionalidades com padrões visuais distintos.
+
+0,2
+
+0,1
+
+0,2
+
+Qdte de itens é a qtde de PF da respectiva funcionalida de Qdte de itens é a qtde de dias necessários
+
+SERVIÇOS DE ATENDIMENTO - contempla a necessidade de execução de tarefas temporárias, não passíveis de serem pontuadas, como por exemplo: análise de demandas, execução de teste a pedido do usuário/Gestor, rotina de clean up etc. * Deverá ser considerado 1 recurso por dia, sendo 8 horas o esforço diário gasto. O quantitativo de dias é de responsabilidade do líder do projeto ANCINE, que deverá justificar nesse campo. Alterações referentes à criação, alteração e exclusão de tabelas CODE TABLE, e respectivas funcionalidades, de sistemas em produção (não se aplica ao desenvolvimento de novos sistemas nem às atividades de "popular" a tabela), sendo previstas as seguintes atividades e seus percentuais de ponto de função: Inclusão de tabela e funcionalidades Alteração da tabela e funcionalidades Excluir tabela e funcionalidades Inclusão de funcionalidade;
+
+0,5
+
+2,7 1,3
+
+0,6 0,3 0,3 0,3
+
+Alteração de funcionalidade; Exclusão de funcionalidade. Tabela de itens não passíveis de medição
+
+2.9. A tabela a seguir demonstra as contagens que deverão ser realizadas pela CONTRATADA:
+Página 7 de 13
+
+TIPO DE SERVIÇO INDICATIVA Desenvolvimento Não se de Sistemas aplica
+
+TIPO DE CONTAGEM ESTIMADA Na fase de levantamento inicial dos requisitos DETALHADA SIM, a partir do detalhamento dos requisitos e SEMPRE deverá ser realizada ao final da implantação para determinar o "baseline". SIM, a partir do detalhamento dos requisitos e SEMPRE deverá ser realizada ao final da implantação para determinar o "baseline". SIM, se houver subsídios
+
+ITENS NÃO MENSURÁVEI S SIM, para CODE TABLE e CAMADA de apresentação adicional
+
+Manutenção Evolutiva
+
+Não se aplica
+
+Na fase de levantamento inicial dos requisitos
+
+SIM, para todos os itens da tabela.
+
+Documentação de Sistemas
+
+SIM, para estimar o tamanho do serviço Não se aplica
+
+SIM, se houver subsídios
+
+Não se aplica
+
+Manutenção Adaptativa
+
+Não se aplica
+
+SIM, para determinar o tamanho do serviço a ser contratado.
+
+SIM, para CODE TABLE e CAMADA de apresentação adicional. Não se aplica
+
+Manutenção Corretiva na Garantia
+
+Não se aplica
+
+Não se aplica
+
+SIM, para determinar o tamanho da correção e estabelecer novo "baseline". SIM, para determinar o tamanho da correção e estabelecer novo "baseline".
+
+Manutenção Não se Corretiva Fora da aplica Garantia Tabela de tipos de contagens
+
+Não se aplica
+
+SIM, para todos os itens da tabela.
+
+Página 8 de 13
+
+3. EXECUÇÃO DOS SERVIÇOS 3.1. A solicitação para início da execução dos serviços de medição ocorrerá por meio de Ordem de Serviço (OS) ­ Anexo IV, assinada por profissional da ANCINE, formalmente designado para isso. 3.2. Nos casos em que a Ordem de Serviço, for cancelada por solicitação da ANCINE, o trabalho já executado deverá ser medido e pago pela ANCINE. 3.3. Para cálculo do prazo de entrega do serviço, as datas de previsão de entrega, volumes e valores deverão ser utilizadas as regras especificadas no item 4-Medição e Remuneração dos Serviços, considerando o fator de produtividade para o qual a empresa foi contratada. 3.4. Não deverão ser estabelecidas previsões de entrega e/ou desembolsos quando não puderem ser claramente identificados e validados os artefatos e produtos correspondentes. 3.5. Somente serão executados os serviços aprovados pela Gerência de Tecnologia da Informação. 3.6. Os serviços de medição somente serão considerados como finalizados, após a assinatura do Termo de Recebimento do Serviço - Anexo IX, por parte da Gerência de Tecnologia da Informação. 3.7. Caso seja detectada alguma não-conformidade no atendimento do serviço, a ANCINE deverá recusar o atendimento, cabendo a CONTRATADA realizar os ajustes necessários de imediato. 3.8. As correções no serviço entregue pela CONTRATADA, no caso da ANCINE detectar alguma falha, inconsistência ou incorreção, deverão ser efetuadas sem qualquer tipo de ônus para a ANCINE. 3.9. Os serviços relativos à Coleta de Dados, Geração e Análise de Indicadores são inerentes ao processo de contagem e deverão ser fornecidos à ANCINE conforme estabelecido neste Projeto Básico. 4. MEDIÇÃO E REMUNERAÇÃO DOS SERVIÇOS 4.1. Os esforços, referente aos serviços de medição e validação da medição de software realizadas pela CONTRATADA, serão mensurados, de acordo com a seguinte fórmula: ETC = (QCTC / P) X 8 Onde: ETC = Esforço por Tipo de Contagem = tempo gasto para realizar o serviço; QCTC = Quantidade de PF Contados por Tipo de Contagem = volume dos serviços executados por tipo de contagem; P = Produtividade = produtividade/dia por tipo de contagem informada na proposta técnica; 8 = Total de horas referente ao esforço diário.
+
+Página 9 de 13
+
+Exemplo: ETC = (500 (QCTC) / 150 (P)) X 8 ETC = 26,66 horas
+
+Esforço Total (ET) =  ETC realizados 4.2. Os tipos de contagem a serem considerados para a utilização da fórmula são os descritos na tabela abaixo. Tipo de Contagem Contagem Detalhada Validação de Contagem Detalhada Contagem Estimada Validação de Contagem Estimada Contagem Indicativa Validação de Contagem Indicativa
+
+4.3. Na execução de serviços relativos à contagem e validação de contagem em que seja identificado qualquer requisito não mensurável em APF será considerado como esforço, para o total de requisitos não mensuráveis identificados, o equivalente a 1 (uma) hora de trabalho por Solicitação de Atendimento ­ Anexo X. 4.4. Os serviços relativos a Suporte à Aplicação de Técnicas de Medição serão mensurados por meio de planilha de horas realizadas. 5. ARTEFATOS A SEREM ENTREGUES PELA CONTRATADA RESULTANTES DA EXECUÇÃO
+DOS SERVIÇOS
+
+5.1.
+
+Os artefatos a serem entregues referentes aos serviços de medição de software devem seguir as especificações da Metodologia de Desenvolvimento de Software da ANCINE. Devendo apresentar no mínimo os seguintes documentos: a. Estimativa APF: Apresenta a planilha contendo o resultado da Estimativa da Análise de Ponto de Função. b. Resultado APF: Apresenta a planilha contendo o resultado da Análise de Ponto de Função; c. Guia de Produtividade: Indica a produtividade em relação a um determinado ponto de função, por cada perfil profissional.
+
+Página 10 de 13
+
+6. GARANTIA DOS SERVIÇOS DE MEDIÇÃO DE SOFTWARE 6.1. A CONTRATADA garante o serviço prestado no período pelo qual foi pontuada na qualificação técnica desta licitação, contados a partir da emissão do Termo de Recebimento do Serviço de cada serviço, mesmo após a finalização do CONTRATO, cabendo-lhe toda a recontagem, atualização das bases históricas, emissão de novos documentos, bem como os demais serviços descritos no item 2.1 deste documento, sem ônus para a ANCINE. 6.2. O direito da ANCINE à garantia cessará caso os ARTEFATOS de medição sejam alterados pela ANCINE, ou por outros FORNECEDORES, a serviço da ANCINE. 7. LOCAL DE EXECUÇÃO DOS SERVIÇOS 7.1. Os serviços de métrica de software poderão ser executados, nas dependências da CONTRATADA ou nas instalações da CONTRATANTE no Rio de Janeiro-RJ, a critério da ANCINE, de acordo com a necessidade verificada. 7.2. A ANCINE disponibilizará local de trabalho e infra-estrutura de hardware e software quando os serviços forem executados em suas dependências, conforme descrito no Item 10 ­ Recursos operacionais da ANCINE do Projeto Básico, sendo observados os horários de expediente da ANCINE para execução destes serviços. 8. PRAZO DE ATENDIMENTO DE SERVIÇOS DE MEDIÇÃO 8.1. A CONTRATADA deverá iniciar a execução do serviço imediatamente após a recepção e aceite dos artefatos do sistema a ser medido, disponibilizados pela ANCINE. 8.2. Os prazos de entrega a serem observados para execução dos serviços, resultantes da fórmula a seguir, serão passíveis de arredondamento caso a ANCINE assim defina no momento da assinatura da Proposta de Anteprojeto, Anexo XI. Cálculo de Prazo em Dias: T / P Onde: T = Tamanho do Projeto em pontos de função; P= Produtividade declarada pela CONTRATADA em sua proposta técnica. A produtividade é estabelecida em PF/dia, sendo consideradas 8 horas por dia. Exemplo: Tamanho do Projeto = 500 pontos de função Produtividade = 150 pontos de função por 8 horas; 1. Prazo = (500 / 150) 2. Prazo = 3,33 dias ou 27 horas
+Página 11 de 13
+
+8.3. A CONTRATADA contará com o prazo máximo de 1 (um) dia útil, a partir da data de recebimento para realizar a validação da Solicitação de Atendimento, solicitar ajustes, esclarecimentos adicionais ou sugerir a modificação das especificações, bem como para solicitar a revisão da contagem do tamanho da demanda. 8.4. A CONTRATADA poderá solicitar, ainda, um prazo adicional, quando justificada e comprovada a necessidade, em função de complexidade do serviço a ser executado, ficando a critério da ANCINE, aceitar ou não as justificativas e o novo prazo apresentado pela CONTRATADA; 8.5. O prazo adicional deverá ser solicitado em até 1 (um) dia útil após o recebimento da Solicitação de Atendimento ­ Anexo X, e no caso de aceito pela ANCINE, será adicionado ao prazo total do serviço ou projeto contratado; 8.6. Caso a justificativa não atenda à ANCINE prevalecerá o prazo inicialmente estipulado; 8.7. A solicitação de prazo adicional para atendimento não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação pela ANCINE, ficam mantidas as condições estipuladas para o serviço;
+
+8.8. Caso o prazo de execução proposto pela CONTRATADA não atenda às necessidades da ANCINE novos prazos deverão ser apresentados.
+
+9. EQUIPE TÉCNICA NECESSÁRIA PARA PRESTAÇÃO DOS SERVIÇOS 9.1. A Empresa CONTRATADA se compromete a alocar, em todos os serviços contratados pela ANCINE, profissionais com perfis e qualificações adequados, mantendo ao longo da vigência do contrato todas as condições que apresentaram em sua habilitação e qualificação no processo licitatório; 9.2. A qualificação dos profissionais deverá ser comprovada por meio da apresentação dos currículos dos profissionais e dos certificados especificados, no ato da assinatura do Contrato e quando solicitada pela ANCINE; 9.3. A CONTRATADA se compromete a garantir a alocação de profissionais devidamente capacitados para solucionar problemas relacionados à prestação de serviços, incluindo os que exijam a presença física nas dependências da ANCINE; 9.4. A CONTRATADA se compromete a dispor de profissionais com o perfil exigido pela ANCINE, conforme descrito no item 10 a seguir: 10. PERFIS PROFISSIONAIS 10.1. Supervisor do contrato 10.1.1. O supervisor do contrato deverá atuar como representante da CONTRATADA junto à ANCINE, e será responsável pelo acompanhamento da execução do CONTRATO e dos serviços contratados, tendo como atribuições, entre outras relativas à adequada execução do contrato, participar de reuniões quando solicitado,
+
+Página 12 de 13
+
+zelar pela qualidade dos serviços prestados e pelo bom desempenho dos profissionais da CONTRATADA. 10.1.2. Perfil profissional do supervisor do contrato a) Curso superior completo na área de informática ou formação de nível superior com curso de extensão na área de informática; b) Experiência de, no mínimo, 3 anos em Gerenciamento de Projetos; 10.2. Analista certificado em Análise de Pontos de Função 10.2.1. O profissional certificado em Análise de Pontos de Função - CFPS deverá garantir e responder à ANCINE pela correta aplicação da técnica em APF. 10.2.2. Perfil profissional do analista de sistemas ­ Especialista em medição de software a) Curso superior completo na área de informática; b) Experiência em análise e desenvolvimento de sistemas de informações; c) Experiência em ciclo de produção baseada em metodologia UP ou similar; d) Experiência de pelo menos 2 anos realizando contagem de software; e) Certificado em Análise de Pontos de Função ­ CFPS, a pelo menos 1 (um) ano.
+
+Página 13 de 13
+
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44 ANEXO V ­ Proposta Técnica ­ Itens Pontuáveis 1. DA PROPOSTA TÉCNICA 1.1. A Proposta Técnica a ser apresentada pelo Licitante deverá ser composta pelos seguintes documentos: Índice elaborado pelo Licitante; Planilha de Pontuação Técnica preenchida pelo Licitante, conforme modelos e instruções constantes neste anexo; Documentos comprobatórios dos itens de Pontuação Técnica, com prazo de validade em vigor na data de publicação do Edital, conforme modo de comprovação estabelecido para cada item. 1.2. A Proposta Técnica deverá estar encadernada e ter suas páginas numeradas. 1.3. Os atestados deverão ser emitidos: a) por empresas privadas brasileiras ou órgãos ou entidades da Administração Pública direta ou indireta; e b) em papel timbrado do Atestante, devendo conter nome, cargo/função, CPF, dados do documento de identidade e o telefone e e-mail de contato do seu representante, ou qualquer outra forma de que a ANCINE possa se valer para estabelecer contato. 1.4. Durante a análise das propostas, a ANCINE poderá convocar as empresas Licitantes para quaisquer esclarecimentos adicionais, as quais deverão atender às solicitações no prazo máximo de 24 (vinte e quatro) horas após sua comunicação formal (todas as comunicações e esclarecimentos deverão ser feitos por escrito). 1.5. A ANCINE se reserva o direito de confirmar as informações prestadas nos atestados. 1.6. A ANCINE se reserva o direito de realizar diligências, para comprovação da veracidade das declarações apresentadas. 1.7. Cada fator de pontuação ­ Qualidade, Desempenho, Compatibilidade e Suporte de Serviços ­ busca agregar valor aos serviços, por intermédio da seleção de empresa que tenha potencial de garantir melhores condições técnicas para executar os serviços a serem desenvolvidos.
+
+1 de 17
+
+2. PROPOSTA TÉCNICA DO ITEM I ­ SERVIÇOS DE DESENVOLVIMENTO, MANUTENÇÃO E
+DOCUMENTAÇÃO DE SISTEMAS DE INFORMAÇÃO
+
+2.1. Os fatores serão avaliados observando-se: a) Qualidade (FQ): · A certificação de qualidade dos processos de trabalho da licitante valorizada segundo: CMMI (Capability Maturity Model Integration) ou MPS.BR (Melhoria de Processo do Software Brasileiro), uma vez que estes modelos reúnem diretrizes e boas práticas que devem ser incorporadas pelas empresas em seus processos, auxiliando na garantia da qualidade dos produtos e serviços na área de TI; e certificação NBR ISO na área de Tecnologia de Informação relacionada a desenvolvimento ou manutenção de softwares, o que mostra que a empresa se preocupa em estabelecer um padrão de qualidade e de compromisso com a melhoria contínua dos serviços e produtos e com o prazo e a satisfação de seus clientes. · A prática de níveis de remuneração compatíveis com o mercado, que permita a atração e retenção de profissionais qualificados durante a execução do contrato. b) Desempenho (FD): · O histórico de sucesso técnico e empresarial da licitante é valorizado segundo a execução, bem sucedida, de serviços similares ao objeto licitado. · A produtividade acima da média, dimensionada em horas/pontos de função, na prestação dos serviços técnicos de desenvolvimento e manutenção de sistemas. Esse critério busca identificar empresas que têm capacidade de se organizar de modo a oferecer maior rapidez na elaboração de artefatos de desenvolvimento de sistemas reduzindo o tempo necessário para executar serviços dessa natureza. c) Compatibilidade (FC): · A experiência da licitante na plataforma tecnológica da ANCINE segundo os atestados de capacidade técnica fornecidos pelos clientes da candidata. Esse critério é relevante, pois a futura contratada deverá assumir atividades já em andamento, baseadas fortemente nos itens de tecnologia associados a este fator. d) Suporte de Serviços (FS): · A aderência técnica da licitante aos padrões da plataforma tecnológica da ANCINE segundo a certificação da licitante como parceira dos provedores destes padrões. A capacidade da futura contratada em se articular com fornecedores de soluções em uso na ANCINE é fator que favorece a mitigação de riscos de interrupção de serviços prestados pela ANCINE, baseados nas tecnologias indicadas. Presume-se que da parceria resulte oferecimento de soluções adequadas ao ambiente da ANCINE.
+
+2 de 17
+
+2.2. Quadro resumo ­ Critérios de pontuação técnica ­ Item I Fator de pontuação QUALIDADE Itens FQ1 FQ2 FQ3 DESEMPENHO FD1 FD2 FD3 FD4 COMPATIBILIDADE FC1 FC2 FC3 FC4 FC5 FC6 FC7 SUPORTE A SERVIÇOS Total de pontos possíveis FS1 FS2 Pontuação Pontuação máxima do item máxima do fator 200 50 100 50 56 56 40 78 45 20 10 30 20 10 10 30 30 635 635 60 145 230 % 7,87 15,75 7,87 8,82 8,82 6,30 12,28 7,09 3,15 1,58 4,72 3,15 1,58 1,58 4,72 4,72 100
+
+3 de 17
+
+2.3. Critérios de Pontuação Técnica ­ Item I FQ.QUALIDADE Item FQ1. ISO Certificação ISO 9001:2000 (ou posterior) de Desenvolvimento de Software ou Manutenção de Software ou Fábrica de Software (ou variação terminológica dos termos anteriores) emitido por organismo credenciado. FQ2. CMMI e MPS.BR ­ no território nacional Avaliação no modelo CMMI, preparada por avaliador líder autorizado pelo SEI (Software Engineering Institute) válida. OU Avaliação do MPS.BR assinado por um avaliador líder credenciado pelo SOFTEX (Associação para Promoção da Excelência do Software Brasileiro) válida. Avaliação CMMI nível 2 ou Avaliação MPS.BR nível F Detalhes Pontos 50 Pontuação máxima 50 Pontuação da empresa ( ) Nº da página da proposta: _______ Modo de comprovação Apresentação de cópia autenticada do certificado.
+
+80
+
+100
+
+(
+
+)
+
+Nº da página da proposta: _______ Avaliação CMMI nível 3, 4, ou 5 Ou Avaliação MPS.BR nível E, D, C, B ou A Mais de 25% abaixo da tabela de referência salarial constante no Anexo II do edital.
+
+100
+
+Apresentação de cópia autenticada do documento ou relatório de avaliação será considerado APENAS 1 (um) documento de avaliação para comprovação da pontuação em somente um dos critérios de pontuação deste item Q2.
+
+FQ3. Nível de remuneração Percentual em que será adotada a tabela de referência salarial constante no Anexo II do
+
+0
+
+50
+
+(
+
+)
+
+Nº da página da proposta:
+
+Declaração da licitante definindo em que percentual será adotada a tabela de referência apresentada como valor
+
+4 de 17
+
+edital como valor mínimo de remuneração para todos os perfis profissionais designados para execução dos serviços.
+
+De 25% a 12,6% abaixo da 15 tabela de referência salarial constante no Anexo II do edital. Até 12,5% abaixo da tabela de referência salarial constante no Anexo II do edital. 30
+
+_______
+
+mínimo de remuneração para todos os perfis profissionais em consonância com a proposta de preços. Atenção! Será desclassificada a licitante que formular proposta de preços divergente da declaração apresentada para efeito de pontuação do item FQ3 A compatibilidade entre a declaração e a proposta de preços será verificada na etapa "Exame da Admissibilidade da Proposta de Preços".
+
+50 Adota nível de remuneração igual ou superior à tabela de referência salarial constante no Anexo II do edital para todos os perfis profissionais
+
+FD. DESEMPENHO Item Critério Pontos Pontuação máxima Pontuação da empresa Modo de comprovação
+
+5 de 17
+
+FD1. Experiência de serviços prestados utilizando modelo fábrica de software Experiência na execução de serviços de desenvolvimento e/ou manutenção de software utilizando metodologia baseada no Processo Unificado (UP), em projetos maiores que 200 PF ou 3.000 horas, em modelo de Fábrica de Software.
+
+Serviço prestado
+
+56
+
+56
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+FD2. Experiência de serviços prestados com projetos de no mínimo 500 PF Experiência na execução de serviços de desenvolvimento e/ou manutenção de software utilizando metodologia baseada no Processo Unificado (UP) em projetos de no mínimo 500 PF ou 7.500 horas.
+
+Serviço prestado
+
+56
+
+56
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+FD3. Experiência na utilização de APF Experiência na execução de serviços de desenvolvimento e/ou manutenção de software utilizando como métrica para dimensionamento de serviço a Análise de Pontos por Função (APF).
+
+Serviço prestado
+
+40
+
+40
+
+(
+
+)
+
+Atestados de capacidade técnica fornecidos por clientes da licitante, contendo, obrigatoriamente: a) descrição do trabalho realizado e a quantidade de horas técnicas/pontos de função executadas; b) declaração de que foram atendidas as expectativas do cliente quanto à qualidade dos produtos ou serviços; c) declaração de que foram atendidas as expectativas do cliente quanto ao cumprimento de cronogramas pactuados. Os atestados deverão estar acompanhados de cópia do respectivo contrato.
+
+6 de 17
+
+FD4. Produtividade em pontos de função Taxa de entrega ou produtividade (quantidade de horas de trabalho para a produção de um ponto de função ­ horas/pf) para o desenvolvimento e/ou manutenção de sistemas de informação. A empresa será pontuada de acordo com a produtividade apresentada para cada tipo de tecnologia definida. A produtividade mínima exigida na execução dos serviços é a prevista no ANEXO XVIII. A empresa licitante será pontuada pelo número de horas reduzidas em relação à produtividade mínima definida pela ANCINE para as tecnologias abaixo: Tecnologia Java JSP Crystal reports PL/SQL Produtividade 15 h/PF 13 h/PF 9 h/PF 9 h/PF
+
+Java
+
+5 pontos por hora reduzida
+
+5
+
+40
+
+(
+
+)
+
+Nº da página da proposta: _______ 3 18 ( )
+
+JSP
+
+3 pontos por hora reduzida 3 pontos por hora reduzida 2 pontos por hora reduzida
+
+Nº da página da proposta: _______ 3 12 ( ) Nº da página da proposta: _______ 2 8 ( ) Nº da página da proposta: _______
+
+Crystal reports
+
+Atestados de capacidade técnica fornecidos por clientes da licitante, contendo, obrigatoriamente: a) Nome dos projetos elaborados e o nível de produtividade alcançada em horas/pontos de função; b) declaração de que foram atendidas as expectativas do cliente quanto à qualidade dos produtos ou serviços; Os atestados deverão estar acompanhados de cópia do respectivo contrato.
+
+PL/SQL
+
+Atenção: A produtividade mínima será utilizada para cálculo dos prazos máximos dos serviços contratados, os quais se não cumpridos poderão acarretar sanções para a contratada. Em caso de pontuação neste fator, a produtividade utilizada no cálculo de prazo será aquela que recebeu pontuação.
+
+7 de 17
+
+FC. COMPATIBILIDADE Item FC1. Compatibilidade com JAVA Apresentação de atestado que comprove a experiência da empresa licitante em projetos de desenvolvimento e/ou manutenção de software com tamanho de no mínimo 200 PF ou 3.000 horas utilizando JAVA, padrão J2EE. Critério Serviço prestado Pontos 45 Pontuação máxima 45 Pontuação da empresa ( ) Nº da página da proposta: _______ Modo de comprovação Atestados de capacidade técnica fornecidos por clientes da licitante, contendo, obrigatoriamente: a) descrição do trabalho realizado descrevendo a ferramenta/tecnologia utilizada, ou no caso do item FC5, relacionando os diagramas utilizados; b) declaração de que foram atendidas as expectativas do cliente quanto à qualidade dos produtos ou serviços; c) declaração de que foram atendidas as expectativas do cliente quanto ao cumprimento de cronogramas pactuados. Os atestados deverão estar acompanhados de cópia do respectivo
+
+FC2. Compatibilidade com JSP Apresentação de atestado que comprove a experiência da empresa licitante em projetos de desenvolvimento e/ou manutenção de software com tamanho de no mínimo 200 PF ou 3.000 horas utilizando JSP (Java Server Pages) envolvendo acesso a banco de dados relacional.
+
+Serviço prestado
+
+20
+
+20
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+FC3. Compatibilidade com SQL Server Apresentação de atestado que comprove a experiência da empresa licitante em projetos de
+
+Serviço prestado
+
+10
+
+10
+
+(
+
+)
+
+Nº da página da proposta:
+
+8 de 17
+
+desenvolvimento e/ou manutenção de software com tamanho de no mínimo 200 PF ou 3.000 horas utilizando SGBD MS SQL Server.
+
+_______
+
+contrato.
+
+FC4. Compatibilidade com ORACLE Apresentação de atestado que comprove a experiência da empresa licitante em projetos de desenvolvimento e/ou manutenção de software com tamanho de no mínimo 200 PF ou 3.000 horas utilizando SGBD Oracle.
+
+Serviço prestado
+
+30
+
+30
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+FC5. Compatibilidade com UML Apresentação de atestado que comprove a experiência da empresa licitante em projetos de desenvolvimento e/ou manutenção de sistemas com tamanho de no mínimo 200 PF ou 3.000 horas utilizando no mínimo 3 (três) dos seguintes diagramas da UML ­ Unified Model Language: a) Diagrama de classes b) Diagrama de seqüência c) Diagrama de componentes d) Diagrama de transição de estados e) Diagrama de Implantação
+
+Serviço prestado
+
+20
+
+20
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+9 de 17
+
+FC6. Compatibilidade com XML Apresentação de atestado que comprove a experiência da empresa licitante em projetos de desenvolvimento e/ou manutenção de sistemas que utilizem XML ou XSL padrão W3C.
+
+Serviço prestado
+
+10
+
+10
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+FC7. Compatibilidade com WebServices Apresentação de atestado que comprove a experiência da empresa licitante em projetos de desenvolvimento e/ou manutenção de sistemas que utilizem Web Services.
+
+Serviço prestado
+
+10
+
+10
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+10 de 17
+
+FS. SUPORTE A SERVIÇOS Item FS1. Parceria com a Oracle Critério Declaração de parceria Pontos 30 Pontuação máxima 30 Pontuação da empresa ( ) Nº da página da proposta: _______ FS2. Parceria com a Sun Microsystems Declaração de parceria 30 30 ( ) Contrato ou declaração do fabricante Nº da página da proposta: _______ Modo de comprovação Contrato ou declaração do fabricante
+
+11 de 17
+
+2. PROPOSTA TÉCNICA DO ITEM II ­ MÉTRICA DE SOFTWARE 2.1. Os fatores serão avaliados observando-se: a) Qualidade (FQ): · Valoriza a afiliação no International Function Point Users Group - IFPUG b) Desempenho (FD): · O histórico de sucesso técnico e empresarial da licitante é valorizado segundo a execução, bem sucedida, de serviços similares ao objeto licitado. · A produtividade dimensionada em pontos de função/dia na prestação dos serviços técnicos de contagem de pontos de função. c) Compatibilidade (FC): · A experiência da licitante nos tipos de serviços relacionados no projeto básico segundo os atestados de capacidade técnica fornecidos pelos clientes da candidata. d) Suporte de Serviços (FS): · A experiência da licitante no suporte à técnica de medição de esforço COCOMO II e em outras técnicas de medição de tamanho de software. 2.2. Quadro resumo ­ Critérios de pontuação técnica ­ ITEM II Itens FQ1 FD1 FD2 FC1 FC2 FC3 SUPORTE A SERVIÇOS Total de pontos possíveis FS1 FS2 Pontuação Pontuação máxima do item máxima do fator 40 40 162 50 112 40 40 40 40 38 400 400 78 120 % 10 12,5 28 10 10 10 10 9,5 100
+
+Fator de pontuação QUALIDADE DESEMPENHO COMPATIBILIDADE
+
+12 de 17
+
+2.3.
+
+Critérios de Pontuação Técnica
+
+FQ.QUALIDADE Item FQ1. Comprovou ser afiliada ou membro do IFPUG (International Function Point Users Group) na categoria corporação (Corporate Membership ou Affiliate II Membership). Detalhes Pontos 40 Pontuação máxima 40 Pontuação1 da empresa ( ) Nº da página da proposta: _______ Modo de comprovação Certificado ou declaração de certificação emitido pelo IFPUG
+
+FD. DESEMPENHO Item FD1. Experiência na prestação de serviços de métrica para dimensionamento de desenvolvimento e manutenção de sistemas, utilizando APF (Análise de Pontos de Função), nas seguintes tecnologias: Critério Web Pontos 30 Pontuação máxima 50 Pontuação da empresa ( ) Nº da página da proposta: _______ GED 10 Modo de comprovação Atestados de capacidade técnica fornecidos por clientes da licitante, contendo, obrigatoriamente: a) descrição do trabalho realizado e a quantidade de horas técnicas/pontos de função executadas; b) declaração de que foram atendidas as
+
+Workflow
+
+10
+
+1
+
+Além da pontuação obtida pela empresa, deverá ser apresentado o número da página da proposta em que consta o documento de comprovação do item.
+
+13 de 17
+
+expectativas do cliente quanto à qualidade dos produtos ou serviços; c) declaração de que foram atendidas as expectativas do cliente quanto ao cumprimento de cronogramas pactuados. Os atestados deverão estar acompanhados de cópia do respectivo contrato. FD2. Produtividade Taxa de entrega ou produtividade (quantidade de pontos de função produzidos/validados por dia - 8 horas). A empresa será pontuada de acordo com a produtividade apresentada para cada tipo de contagem definida. A produtividade mínima exigida na execução dos serviços é a prevista no ANEXO XVIII. A empresa licitante será pontuada pelo número de pontos de função acrescidos em relação à produtividade mínima definida pela ANCINE para os tipos de contagem abaixo: Tipo de Contagem Detalhada PRODUZIDA Detalhada VALIDADA Estimada PRODUZIDA Produtividade 200 PF/Dia 250 PF/Dia 300 PF/Dia Contagem detalhada produzida 200 PF/dia 4 pontos a cada 15 PF acrescidos 250 PF/dia 4 pontos a cada 15 PF acrescidos 300 PF/dia 2 pontos a cada 15 PF acrescidos 300 PF/dia 2 pontos a cada 15 PF acrescidos 0 4 32 ( ) Declaração da Licitante de que efetuará essa produtividade com a ANCINE e atestados de capacidade técnica fornecidos por clientes da licitante, contendo, obrigatoriamente: a) descrição do trabalho realizado e a quantidade de horas técnicas/pontos de função executadas; b) declaração de que foram atendidas as expectativas do cliente quanto à qualidade dos produtos ou serviços; c) declaração de que foram atendidas as expectativas do cliente
+
+Nº da página da proposta: _______ 32 ( )
+
+Contagem detalhada validada Contagem Estimada produzida Contagem Estimada validada
+
+0 4
+
+Nº da página da proposta: _______ 16 ( ) Nº da página da proposta: _______ 16 ( ) Nº da página da proposta: _______
+
+0 2
+
+0 2
+
+14 de 17
+
+Estimada VALIDADA Indicativa PRODUZIDA Indicativa VALIDADA
+
+300 PF/Dia 300 PF/Dia 300 PF/Dia
+
+Contagem indicativa produzida Contagem indicativa validada
+
+300 PF/dia 1 pontos a cada 15 PF acrescidos 300 PF/dia 1 pontos a cada 15 PF acrescidos
+
+0 1
+
+8
+
+(
+
+)
+
+quanto ao cumprimento de cronogramas pactuados. Os atestados deverão estar acompanhados de cópia do respectivo contrato.
+
+Nº da página da proposta: _______ 8 ( ) Nº da página da proposta: _______
+
+Atenção: A produtividade mínima apresentada pela ANCINE será utilizada para cálculo do esforço para remuneração e cálculo do prazo máximo de entrega dos serviços contratados, os quais se não cumpridos poderão acarretar sanções para a contratada. Em caso de pontuação neste fator, a produtividade utilizada no cálculo de esforço e prazo será aquela que recebeu pontuação.
+
+0 1
+
+FC. COMPATIBILIDADE Item Critério Pontos Pontuação máxima Pontuação da empresa Modo de comprovação
+
+15 de 17
+
+FC1. Comprovou experiência na prestação de serviços de quantificação de tamanho de sistemas de informação, utilizando a métrica de pontos de função, em projetos de, no mínimo 500 PF.
+
+40
+
+40
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+FC2. Geração e Análise de Indicadores em ambiente de Desenvolvimento de Sistemas para empresa com mais de 3.000 (três mil) pontos de Função.
+
+40
+
+40
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+Atestados de capacidade técnica fornecidos por clientes da licitante, contendo, obrigatoriamente: a) descrição do trabalho realizado; b) declaração de que foram atendidas as expectativas do cliente quanto à qualidade dos produtos ou serviços; c) declaração de que foram atendidas as expectativas do cliente quanto ao cumprimento de cronogramas pactuados. Os atestados deverão estar acompanhados de cópia do respectivo contrato.
+
+FC3. Implantação do Processo de Métricas em ambiente de Desenvolvimento de Sistemas para empresa com mais de 3.000 (três mil) pontos de Função.
+
+40
+
+40
+
+(
+
+)
+
+Nº da página da proposta: _______
+
+FS. SUPORTE A SERVIÇOS Item Critério Pontos Pontuação máxima Pontuação da empresa Modo de comprovação
+
+16 de 17
+
+FS1. Suporte à técnica de medição de esforço COCOMO II NESMA COSMIC FFP Use Case Function Point
+
+40
+
+40
+
+(
+
+)
+
+Nº da página da proposta: _______ 18 10 10 38 ( )
+
+FS2. Suporte a outras técnicas de medição de tamanho de software (COSMIC FFP, Use Case Function Point, NESMA)
+
+Nº da página da proposta: _______
+
+Atestados de capacidade técnica fornecidos por clientes da licitante, contendo, obrigatoriamente: a) descrição do trabalho realizado; b) declaração de que foram atendidas as expectativas do cliente quanto à qualidade dos produtos ou serviços; c) declaração de que foram atendidas as expectativas do cliente quanto ao cumprimento de cronogramas pactuados. Os atestados deverão estar acompanhados de cópia do respectivo contrato.
+
+17 de 17
+
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44 Anexo VI ­ Proposta Comercial Observações: 1) O presente modelo deverá ser apresentado em papel timbrado da licitante. 2) Deverá ser selecionado apenas um objeto por proposta. PROPOSTA COMERCIAL 1. EMPRESA LICITANTE 1.1 Nome / Razão Social: 1.2 CNPJ: 1.3 Endereço completo: 1.4 Telefone: 1.5 FAX: 1.6 E-mail: 2. OBJETO ( ) Item I ­ Serviços de desenvolvimento, manutenção e documentação de sistemas de informação Pontos de Função / 12 meses 5.000 Valor unitário / Ponto de Função R$ VALOR GLOBAL ESTIMADO R$
+
+( ) Item II ­ Serviços de medição de software Horas estimadas / 12 meses 2.000 Valor unitário / hora R$ VALOR GLOBAL ESTIMADO R$
+
+PREÇO GLOBAL: R$.................................. (valor por extenso) VALIDADE DA PROPOSTA: ................. (prazo por extenso) dias. (não inferior a 60 dias). DECLARAMOS que nos preços propostos estão incluídos impostos, taxas mão de obra, salários, encargos sociais e trabalhistas, contribuições previdenciárias, hospedagens e viagens de seus empregados, e todas as demais obrigações e despesas de qualquer natureza necessárias à perfeita execução dos serviços objeto desta licitação. Local e data _____________________________________ Assinatura do representante legal da empresa Nome:
+
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44 Anexo VIII ­ Avaliação do serviço prestado e Penalidades 1. Avaliação do serviço prestado pela CONTRATADA A avaliação do serviço prestado pelas empresas contratadas pela ANCINE será realizada da seguinte forma: 1.1. Periodicidade trimestral - serão avaliados os serviços prestados nos três meses que antecedem a avaliação. 1.2. Avaliação do nível do atendimento dos serviços contratados, por meio de verificação dos itens referentes a níveis de qualidade, pontualidade, desempenho, continuidade, preservação do patrimônio e observância a normas internas da ANCINE. 1.3. Cada avaliação insatisfatória, em relação aos itens observados, acarreta uma pontuação, conforme descrito no item 2 deste anexo, que vai sendo somada formando o Total de Pontos Perdidos (TPP) que será utilizado para o cálculo do Valor Total da Avaliação (VTA) por meio da seguinte fórmula: VTA = 100 ­ (  TPP) Onde: VTA = Valor total da avaliação; TPP = Total de pontos perdidos. 1.4. Sempre que VTA for menor que 90 a empresa contratada receberá uma penalidade conforme as seguintes regras: 1.4.1. Se VTA for maior ou igual a 70 e menor que 90 a empresa contratada receberá advertência. 1.4.2. Se VTA for maior ou igual a 60 e menor que 70, será cobrada multa de 5% (cinco por cento) sobre o valor faturado no mês de sua aplicação. 1.4.3. Se VTA for maior ou igual a 40 e menor que 60, será cobrada multa de 10% (dez por cento) sobre o valor faturado no mês de sua aplicação. 1.4.4. Se VTA for menor que 40 será cobrada multa de 15% (quinze por cento) sobre o valor faturado no mês de sua aplicação. 1.5. Sempre que a empresa contratada acumular duas advertências consecutivas, receberá multa conforme previsto no item 1.4.2 acima. 1.6. Recebendo quatro multas consecutivas no decorrer da execução contratual, independentemente dos motivos da aplicação, a CONTRATANTE poderá aplicar as demais sanções previstas no presente Projeto Básico e Edital. 2. Itens de Avaliação do serviço prestado pela CONTRATADA a. Qualidade: Trimestralmente será feito o acompanhamento da qualidade da prestação dos serviços desta contratação, no que se referes aos objetos I e II:
+
+desenvolvimento, manutenção e documentação de sistemas de informação e métrica de software. Descrição da Avaliação Resultado da Avaliação
+
+Caso ocorra registro de reclamação referente ao serviço Será perdido 1 (um) ponto na prestado, será considerada uma avaliação insatisfatória avaliação trimestral para cada para cada caso de reclamação registrada e reclamação registrada. devidamente justificada. Quando identificada ausência de técnico que venha Será perdido 1 (um) ponto na comprometer a qualidade do serviço o fato será avaliação trimestral, para cada devidamente comunicado à empresa contratada. Se avaliação insatisfatória. ocorrer esta comunicação, será considerada uma avaliação insatisfatória para cada ocorrência comunicada. Quando identificadas não-conformidades nos artefatos Será perdido 1 (um) ponto na ou produtos entregues indicado pelo Termo de avaliação trimestral, para cada Recebimento caracterizado como "Aceito com ajustes" avaliação insatisfatória. será considerada uma avaliação insatisfatória para cada item em não-conformidade. Quando ocorrer rejeição de artefatos ou produtos Será perdido 5 (cinco) pontos entregues, indicada pelo Termo de Recebimento na avaliação trimestral, para caracterizado como "Rejeitado", será considerada uma cada avaliação insatisfatória. avaliação insatisfatória para cada item rejeitado. b. Pontualidade: Trimestralmente será realizada comparação entre a quantidade de horas ou pontos de função requisitados em relação à quantidade de horas ou pontos de função realizados, em cada uma das Solicitações de Atendimento ou Anteprojeto. Descrição da Avaliação Resultado da Avaliação
+
+Se constatado descumprimento dos prazos previstos Será perdido 1 (um) ponto na para atendimento, sem justificativa da empresa, será avaliação trimestral, para cada considerada uma avaliação insatisfatória para cada atendimento fora do prazo Solicitação de Atendimento ou Anteprojeto. sem justificativa da empresa. Se constatada existência de erros em sistemas de Será perdido 1 (um) ponto na informação ou em qualquer outro serviço entregue, será avaliação trimestral, para cada definido, em conjunto com a empresa contratada, a avaliação insatisfatória. correção necessária e o prazo para sua conclusão. Caso a correção do erro identificado não seja realizada dentro do prazo estabelecido, será considerada uma avaliação insatisfatória para cada ocorrência de erro. Trimestralmente será feito acompanhamento em cada Será perdido 1 (um) ponto na um dos Anteprojetos para os quais tenha sido avaliação trimestral, para cada especificado cronograma. Se em cada um dos avaliação insatisfatória. cronogramas as datas estabelecidas não tiverem sido cumpridas sem justificativa adequada, será considerada uma avaliação insatisfatória para cada ocorrência.
+
+Quando solicitados informações ou esclarecimentos, e a Será perdido 1 (um) ponto na contratada não responder em 48 horas no máximo, será avaliação trimestral, para cada considerada uma avaliação insatisfatória para cada avaliação insatisfatória. ocorrência.
+
+c. Desempenho: Trimestralmente será acompanhada a quantidade de profissionais devolvidos pela ANCINE, em função do desempenho inadequado nas atividades dos serviços contratados e a quantidade de pedidos de capacitação para os profissionais em serviço na ANCINE não atendidos. Descrição da Avaliação Resultado da Avaliação
+
+Se ocorrer devolução de profissional, será considerada Será perdido 5 (cinco) ponto uma avaliação insatisfatória para cada profissional na avaliação trimestral para devolvido. cada avaliação insatisfatória. Se ocorrer o não atendimento de pedido de capacitação Será perdido 5 (cinco) ponto o para os profissionais em serviço na ANCINE será na avaliação trimestral, para considerado uma avaliação insatisfatória para cada caso cada avaliação insatisfatória. verificado.
+
+d. Continuidade: Trimestralmente será verificada a quantidade de profissionais afastados em definitivo ou substituídos pela(s) empresa(s) contratada(s), por qualquer que seja o motivo, exceto os casos de devolução por parte da ANCINE. Descrição da Avaliação Resultado da Avaliação
+
+Se ocorrer o afastamento ou a substituição de Será perdido 2 (dois) pontos profissional, será considerada uma avaliação na avaliação trimestral para insatisfatória para cada ocorrência. cada avaliação insatisfatória. Se ocorrer o afastamento definitivo ou devolução de profissionais alocados aos serviços desta contratação, será definido, em conjunto com a empresa contratada, prazo para substituição dos mesmos. Prazo a ser estabelecido será de no máximo 15 (quinze) dias corridos, a contar da data de desligamento do profissional a ser substituído. Não será aplicada esta avaliação quando não for solicitada a substituição por parte da ANCINE. Se a substituição não for realizada dentro do prazo estabelecido, será considerada uma avaliação insatisfatória para cada ocorrência. Será perdido 1 (um) ponto perdido na avaliação trimestral para cada avaliação insatisfatória.
+
+e. Preservação do patrimônio: Trimestralmente será verificada a ocorrência de danos ao patrimônio da ANCINE sobre uso da empresa, a fim de verificar a incidência de danos causados por profissionais alocados na execução dos serviços especificados no Projeto Básico e seus anexos. Descrição da Avaliação Resultado da Avaliação
+
+Se ocorrer registro de incidência, será considerada uma Será perdido 1 (um) ponto na avaliação insatisfatória para cada caso identificado e avaliação trimestral para cada notificado, devendo a empresa contratada providenciar avaliação insatisfatória. os devidos ressarcimentos.
+
+f.
+
+Observância às Normas Internas: Trimestralmente será acompanhada a incidência de reclamações sobre comportamento inadequado ou desobediência às normas internas da ANCINE por parte dos profissionais das empresas contratadas para execução dos serviços. Descrição da Avaliação Resultado da Avaliação
+
+Se ocorrer registro de incidência, será considerada uma Será perdido 1 (um) ponto na avaliação insatisfatória para cada caso identificado e avaliação trimestral, para cada notificado à empresa contratada. avaliação insatisfatória.
+
+3. Observações 3.1. Nos 3 (três) primeiros meses de contrato os itens de verificação da qualidade da prestação do serviço será realizada e o Valor Total da Avaliação (VTA) será apurado, entretanto, para esta primeira avaliação não será aplicada advertência ou multa no caso da contratada não alcançar o VTA mínimo previsto neste anexo. Este período inicial de 3 (três) meses será considerado como período de adaptação da CONTRATADA. 3.2. A cada 6 (seis) meses de vigência do contrato será efetuada uma avaliação dos itens que devem ser verificados e dos limites em vigor pra o VTA. Se identificada a necessidade de alguma alteração, esta poderá ser realizada a critério da ANCINE.
+
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44 ANEXO XII ­ GLOSSÁRIO
+
+Arquitetura de Software: Descrição dos subsistemas e componentes de um sistema de software e das relações entre eles. Subsistemas e componentes são tipicamente especificados em diferentes visões para mostrar as propriedades funcionais e não funcionais relevantes de sistema de software. É um dos resultados da atividade de desenvolvimento de software. Artefato: Qualquer item criado como parte da definição, manutenção ou utilização de um processo de desenvolvimento ou manutenção de sistemas de informação. Inclui, entre outros, descrições de processo, planos, procedimentos, especificações, projeto de arquitetura, projeto detalhado, código, documentação para o usuário. Artefatos podem ou não ser entregues a um cliente ou usuário final. Baseline: Conjunto de especificações ou produtos de trabalho que foram formalmente revistos e acordados, e que servem como base para os futuros desenvolvimentos, podendo ser alterados apenas a partir de procedimentos de controle de mudanças. [IEEE STD 610] CFPS: Certified Function Point Specialist: é a certificação conferida pelo International Function Point Users Group. É possível confirmar se uma pessoa detém a certificação CFPS através de consulta ao IFPUG, enviando um e-mail a ifpug@ifpug.org. A certificação é a garantia de que o profissional entende e utiliza corretamente as regras do IFPUG para a contagem de pontos de função. Ciclo de Vida de Projeto: Consiste no conjunto de fases. É um esquema de processo de desenvolvimento, identificando as principais fases, a ordem de realização e a interação entre as mesmas. CMM: Capability Maturity Model - Modelo para avaliação da maturidade dos processos de software de uma organização e para identificação das práticas chave que são requeridas para aumentar a maturidade desses processos. O CMM prevê cinco níveis de maturidade: inicial, repetível, definido, gerenciado e otimizando. CMMI: Modelo para avaliação e melhoria da maturidade dos processos de uma organização, criado pelo Software Engineering Institute - SEI da Carnegie Mellon University como uma integração e evolução dos seguintes três modelos: SW-CMM ­ Capability Maturity Model for Software; SECM-EIA 731 ­ System Engineering Capability Model, e IPDCMM ­ Integrated Product Development CMM. [http://www.sei.cmu.edu/cmm/cmm.html] A versão 1.0 foi lançada em agosto de 2000, com plano do SEI de aposentar os três modelos precursores em 2003. O CMMI é um modelo alinhado com a Norma ISO/IEC 15504 e é apresentado em duas representações: uma por estágio (como o CMM) e outra contínua (semelhante à ISO/IEC15504). COCOMO: (Constructive Cost Model)® [COCOMOII] ­ Modelo desenvolvido para estimar o esforço de desenvolvimento, prazos e tamanho da equipe para projetos de software. Utiliza equações desenvolvidas por Boehm (BARRY,1981) para prever o número de programadores-mês e o tempo de desenvolvimento; podem ser calculados usando medidas de linhas de código ou Pontos de Função. Devem ser realizados ajustes nas equações a fim de representar as influências sobre os atributos, hardware e software durante o ciclo de vida do projeto. Componentes: Uma das partes que constituem um produto ou sistema. Parte física substituível de um sistema, que encapsula a implementação e realiza um conjunto de interfaces. Configuração: Relação entre versões de um objeto composto, ou seja, configuração é uma instância do sistema composta da união de uma versão específica de cada objeto
+
+1
+
+componente. Arranjo de um sistema computacional ou de seus componentes como definidos pelo seu número, natureza e interconexão de suas partes constituintes. Conformidade: Um estado de concordância entre a qualidade real produzida e a qualidade alvo (desejada ou planejada). Contagem Detalhada: Fornece a quantidade de pontos de função do sistema, obtida a partir do grau de complexidade das funções levantadas. Pode ser utilizada em qualquer fase de desenvolvimento, desde que se possuam detalhes do processo e do modelo de dados, como descrição de telas e relatórios ou um protótipo do sistema. Contagem Estimada: Fornece um valor estimado da quantidade de pontos de função do sistema proposto sem a precisão do grau de complexidade das funções. Pode ser usada na fase inicial da proposta de desenvolvimento, quando não se têm detalhes do processo, mas somente informações preliminares e o modelo de dados. Contagem Indicativa: Fornece um valor indicativo da quantidade de pontos de função do sistema proposto sem conhecer detalhes do modelo nem do processo. Pode ser usada na fase inicial da proposta de desenvolvimento, quando não se conhece detalhes do processo , mas se têm um modelo preliminar de dados. Defeito: Um problema em uma aplicação que, se não corrigido, pode provocar falha ou geração de resultados incorretos. A ausência de funcionalidade que foi especificada e solicitada também é considerada defeito. Descumprimento de requisitos previstos para o uso do produto. É a falta de conformidade que se observa em um produto quando determinada característica da qualidade é comparada com suas especificações. Desenvolvimento de Sistemas. Ato ou efeito de desenvolver um conjunto de rotinas, aplicando conhecimento, recomendações e regras definidas que interfaceiam entre as instruções do programa e base de dados na qual todos os itens de dados podem ser interligados. Projetar, implementar e implantar sistemas de software. Design: É a parte do processo de desenvolvimento de sistema que visa definir o modelo a ser seguido na implementação. Documentação de Sistemas: Um importante instrumento a ser utilizado, visando manter histórico do projeto em todo o seu ciclo de vida, bem como demonstra sua importância como elemento integrante da qualidade do produto a ser entregue ao cliente. A documentação é uma ferramenta de auxílio a ser utilizada no momento de sua necessidade por todas as pessoas envolvidas com o sistema, precisa, para cumprir este papel, ser elaborada ao final de cada fase determinada pela metodologia adotada na organização para desenvolver seu sistema, bem como necessita ser atualizada sempre que houver uma modificação. Escopo: Aspectos e funções que devam ser incluídos no produto ou serviço. Trabalho que deve ser feito com a finalidade de entregar um produto de acordo com os aspectos e as funções especificadas. Especificação: Documento que estabelece os requisitos com os quais o produto ou serviço tem de estar conforme. Gerenciamento de Configuração: Processo de aplicação de procedimentos administrativos e técnicos, por todo o CICLO DE VIDA de software, destinado a identificar e definir os itens de software que fazem parte da LINHA DE BASE (BASELINE) deste sistema; controlar as modificações e liberações dos itens; registrar e apresentar a situação dos itens e dos pedidos de modificação; garantir a completeza, a consistência e a correção dos itens; e controlar o armazenamento, a manipulação e a distribuição dos itens. [ISO 12207] Interface: Pontos ou áreas onde existe uma relação entre: Partes de estruturas, sistemas ou componentes; Programas, procedimentos ou atividades, e onde se exige compatibilidade física e/ou funcional. É um meio de comunicação ou de transmissão de informações. É um termo bastante genérico, que pode ser usado em relação a uma interface gráfica, que facilita o uso de um programa, a uma porta de transmissão de dados,
+
+2
+
+como, por exemplo, as interfaces IDE da placa mãe, que permitem a troca de dados entre o processador e os discos rígidos, as interfaces seriais e paralelas, que permitem a conexão de mouses e impressoras, entre outros dispositivos, ou ainda a um joystick ou teclado, que novamente formam um tipo de interface entre o usuário e o programa ou jogo que está sendo executado. ISO 9001: Norma internacional da série ISO 9000. Modelo para garantia da qualidade em projetos, desenvolvimento, produção, instalação e serviços associados. Itens Não Passíveis de Medição. Itens do serviço que não podem ter seu esforço medido por meio de pontos de função. Metodologia de Desenvolvimento de Sistemas: Metodologia implementada na ANCINE que estabelece as fases, disciplinas e atividades do ciclo de vida de projetos de sistemas de informação, visando orientar os técnicos no desenvolvimento e manutenção de sistemas. Não-Conformidade. Descumprimento de requisitos especificados. NESMA: Netherland Software Metrics Association-Netherlands Function Point Users Group­ (NESMA, 2005). Além do IFPUG, o NESMA também promove o uso de pontos de função e publica o seu próprio manual de contagem complacente com o manual do IFPUG. O manual da NESMA apresenta três tipos de contagens por pontos de função: a contagem indicativa de ponto de função, a contagem estimada de ponto de função e a contagem detalhada de pontos de função. Padrão: Compromisso documentado, utilizado em comum e repetidas vezes pelas pessoas relacionadas com um determinado trabalho. Padrões: Material de referência a ser fornecido pela ANCINE, destinado a definir, realizar, conservar ou reproduzir os procedimentos, produtos e serviços. Planejamento: Processo que envolve tomada de decisões e avaliação prévia de cada decisão, de um conjunto de decisões inter-relacionadas. Processo de estabelecer objetivos a serem atingidos no futuro. Plano: Conjunto de métodos e medidas para a execução de um empreendimento; o plano estabelece o que deve ser feito para realizar uma meta. PMBOK Project Management Body of Knowledge® ­ Conhecimento do Corpo de Gerenciamento de Projeto. Identifica o subconjunto de conhecimentos sobre a profissão que é consenso, sendo aplicáveis para a maior parte dos projetos na maior parte do tempo, além de prover um vocabulário único para a profissão, padronizando seus termos. Também é usado como referência básica para os exames de certificação do PMI que é responsável pela sua publicação. PMI: Instituto de Gerenciamento de Projetos® (PMI) é uma organização visionária e a primeira defensora, no mundo, da profissão de administrador de gerente de projetos. O PMI prepara padrão para indústrias, conduz pesquisas, promove educação, certificação e trocas de oportunidades profissionais, designada a fortalecer e promover a estabilidade da profissão. PMP: Project Management Professional (PMP®) ­ Um Profissional da Gerência de Projeto ­ contem curso de especialização e experiência, concordando em aderir a um código de conduta profissional e aprovação para avaliar e medir objetivamente o conhecimento da gerência de projeto. Além disso, um certificado PMP deve estar sempre atualizado com o risco de perda da certificação. Pontos de Função: Unidade de medida da técnica Análise de Pontos de Função (APF) largamente utilizada pela indústria de software - que oferece uma medida funcional de tamanho de software e de serviços (tanto de desenvolvimento como de manutenção de software), a partir da perspectiva do usuário. O processo de cálculo de PONTOS DE FUNÇÃO está contido no Function Point Counting Practices Manual (CPM) publicado e comercializado pelo IFPUG (www.ifpug.org) ­ International Function Point Users Group, versão 4.2, porém a parte do Manual referente à determinação do fator de ajuste da
+
+3
+
+contagem não será utilizada pela ANCINE (serão utilizados PONTOS DE FUNÇÃO não ajustados). A adoção de versões futuras do manual é prerrogativa da ANCINE. Mesmo no caso de ser utilizada uma nova versão do Manual esta será utilizada sem a parte referente à determinação do fator de ajuste da contagem. Produto: São todos os artefatos desenvolvimento/manutenção de sistemas. gerados durante o processo de
+
+Projeto: Trata-se de um empreendimento não repetitivo, caracterizado por uma seqüência clara e lógica de eventos, com início, meio e fim, que se destina a atingir um objetivo claro e definido, sendo conduzido por pessoas dentro de parâmetros pré-definidos de tempo, custo, recursos envolvidos e qualidade. Rastreabilidade: Capacidade de investigar o histórico, a aplicação ou a localização de um item ou de uma atividade (ou itens ou atividades semelhantes) por meio de informações devidamente registradas. Regras de Negócio: É uma sentença que define ou restringe algum aspecto do negócio que será suportado pela solução ou serviço contratado. Requisitante: Pessoa ou grupo que demandou o serviço e que é responsável por avaliá-lo. Requisito: Um requisito descreve uma condição ou capacidade à qual um sistema deve se adaptar, seja ela derivada diretamente de necessidades dos usuários ou declarada em um contrato, um padrão, uma especificação ou outro documento formalmente imposto. UP: Unified Process ­ Processo Unificado. Modelo de processo de desenvolvimento de sistemas iterativo e incremental que oferece uma abordagem baseada em disciplinas para atribuir tarefas e responsabilidades no desenvolvimento de sistemas. SGBD: Sistema Gerenciador de Banco de Dados. Teste de Integração: Técnica sistemática para a construção da estrutura de programa, realizando-se ao mesmo tempo, testes para descobrir erros associados a interfaces. O objetivo é, a partir dos módulos testados no nível de unidade, construir a estrutura de programa que foi determinada pelo projeto. O teste de integração cuida das questões associadas aos duplos problemas da verificação e construção de programas. UML Unified Modeling Language ­ Linguagem de Modelagem Unificada: A UML é uma linguagem de modelagem visual, padronizada internacionalmente pela OMG, voltada para especificar, visualizar, construir e documentar artefatos de um processo de desenvolvimento de sistemas. Validação: Confirmação, por exame e fornecimento de evidência objetiva, de que os requisitos específicos para um uso pretendido são atendidos. Informações cuja veracidade pode ser comprovada com base em fatos obtidos por meio da observação, medição, ensaios ou outros meios constituem evidência objetiva. WEB: Termo usado para se referir às redes de computadores. O termo WWW significa "Word Wide Web", ou larga rede mundial e é naturalmente usado com relação à Internet. Workflow: Workflow é a automação de processos de negócio, onde as atividades são passadas de um participante para o outro de acordo com um conjunto de regras definido. O conceito de Workflow foi concebido de acordo com a noção de processos. Permite que processos possam ser passadas de uma pessoa para outra de acordo com algumas regras. O gerenciamento de workflow possui um conjunto de ferramentas para administração de monitoramento, para controlar aplicações clientes do workflow, as aplicações invocadas, ferramentas de processos dentre outras.
+
+4
+
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44 ANEXO XIV ­ ESTIMATIVA DO VALOR ANUAL DA CONTRATAÇÃO 1. Estimativa do Valor Anual da Contratação 1.1. O valor global anual estimado da contratação é de até R$ 5.123.710,40 (cinco milhões, cento e vinte e três mil, setecentos e dez reais e quarenta centavos) sendo: 1.1.1. até R$ 4.886.535,91 (quatro milhões, oitocentos e oitenta e seis mil, quinhentos e trinta e cinco reais e noventa e um centavos) anuais, relativo à prestação de serviços, conforme detalhado no item I; 1.1.2. até R$ 237.174,49 (duzentos e trinta e sete mil, cento e setenta e quatro reais e quarenta e nove centavos) anuais, relativo à prestação de serviços, conforme detalhado no item II. ITEM I ­ DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS Pontos de Função Valor unitário / ponto VALOR GLOBAL estimados/12 meses de função ESTIMADO 5.000 ITEM II ­ MÉTRICA Horas Estimadas/12 meses 2.000 Valor unitário / hora R$ 118,59 VALOR GLOBAL ESTIMADO R$ 237.174,49 R$ 977,31 R$ 4.886.535,91
+
+VALOR GLOBAL ESTIMADO (ITENS I e II)
+
+R$ 5.123.710,40
+
+1.1.3. Para a obtenção dos valores acima, foi tomada como base pesquisa de mercado realizada por intermédio de consulta a empresas especializadas em prestação de serviços de informática, obtendo-se a média dos preços de Ponto de Função e o valor médio de horas de serviços técnicos. 1.1.4. Os valores unitários apresentados acima correspondem aos valores unitários máximos admitidos para a contratação dos serviços pela Ancine em atendimento ao disposto no art. 40, inc. X, da Lei 8.666/93.
+
+CONCORRÊNCIA N.º 001/2008 TIPO: TÉCNICA E PREÇO PROCESSO N.º 01580.016736/2008-44 ANEXO XVIII ­ TABELAS DE PRODUTIVIDADE MÍNIMA
+
+1. A tabela 1 abaixo apresenta as taxas de produtividade mínima para execução dos serviços de desenvolvimento e manutenção de sistemas na ANCINE por tecnologia. A taxa indica a quantidade de horas de trabalho para a produção de um ponto de função ­ horas/PF.
+
+Desenvolvimento e manutenção de sistemas Tecnologia Produtividade Mínima Java 15 h/PF ASP (Vbscript e Javascript) 10 h/PF PHP 11 h/PF JSP 13 h/PF HTML 7 h/PF Cold Fusion 11 h/PF Delphi 9 h/PF Crystal reports 9 h/PF PL/SQL 9 h/PF Visual Basic 9 h/PF
+
+Tabela 1
+2. A tabela 2 abaixo apresenta a taxa de produtividade mínima para execução dos serviços de contagem de pontos de função por tipo de contagem realizada. A taxa indica a quantidade de pontos de função produzidos/validados por dia (8 horas).
+
+Medição Tipo de Contagem Detalhada PRODUZIDA Detalhada VALIDADA Estimada PRODUZIDA Estimada VALIDADA Indicativa PRODUZIDA Indicativa VALIDADA
+
+Produtividade mínima 200 PF/Dia 250 PF/Dia 300 PF/Dia 300 PF/Dia 300 PF/Dia 300 PF/Dia
+
+Tabela 2
+
+

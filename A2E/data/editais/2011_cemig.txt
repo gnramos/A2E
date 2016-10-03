@@ -1,0 +1,996 @@
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+CEMIG GERAÇÃO E TRANSMISSÃO S.A. ­ CEMIG GT CEMIG DISTRIBUIÇÃO S.A. ­ CEMIG D EDITAL DE LICITAÇÃO PREGÃO ELETRÔNICO MS/CS 500-H01792
+
+A CEMIG GERAÇÃO E TRANSMISSÃO S.A. - CEMIG GT, com sede na cidade de Belo Horizonte/MG, na Avenida Barbacena, 1200, 12º Andar, Ala B1, CNPJ/MF nº 06.981.176/0001-58 e a CEMIG DISTRIBUIÇÃO S.A. - CEMIG D, com sede na cidade de Belo Horizonte/MG, na Avenida Barbacena, 1200, 17º Andar, Ala A1, CNPJ/MF nº 06.981.180/0001-16, doravante denominadas CONTRATANTES, através da Gerência de Contratação de Serviços e Soluções Integradas - MS/CS, torna público que fará realizar licitação na modalidade Pregão Eletrônico, do tipo Menor Preço, objetivando a contratação de 10.000 (dez mil) pontos de função, podendo chegar a 20.000 (vinte mil) pontos de função, para execução dos serviços de manutenção e desenvolvimento de softwares, conforme descritos no ANEXO VI (Escopo dos Serviços) da minuta de Contrato, na data, hora e local indicados no item 1.3 deste Edital, que será regida pela Lei Estadual nº 14.167, de 10/01/2002, pelo Decreto Estadual nº 44.786, de 18/04/2008, pela Decreto Federal nº 4.358, de 05/09/2002, pela Lei Federal nº 10.520, de 17/07/2002, e, subsidiariamente, pela Lei Federal nº 8.666, de 21/06/1993, e suas respectivas alterações, as condições do presente Edital e os anexos que o integram. CEMIG GERAÇÃO E TRANSMISSÃO S.A. - CEMIG GT, CNPJ/MF 06.981.176/0001-58, com o percentual de 20% (vinte por cento) do valor total da Contratação; CEMIG DISTRIBUIÇÃO S.A. - CEMIG D, CNPJ/MF 06.981.180/0001-16, com o percentual de 80% (oitenta por cento) do valor total da Contratação.
+
+1. INFORMAÇÕES BÁSICAS 1.1. Objeto: Contratação de 10.000 (dez mil) pontos de função, podendo chegar a 20.000 (vinte mil) pontos de função, para execução dos serviços de manutenção e desenvolvimento de softwares, conforme descrito no ANEXO VI (Escopo dos Serviços) da minuta de Contrato. 1.2. Pregoeiro e Equipe de Apoio: Os trabalhos serão conduzidos por empregados da CEMIG, Pregoeiro e Equipe de Apoio, designados através do ato administrativo de 22/10/2010, publicado no Diário Oficial de Minas Gerais, em 27/10/2010, ou o que suceder. 1.3 Abertura: A abertura da presente licitação dar-se-á em sessão pública a ser realizada conforme indicado abaixo, de acordo com a legislação mencionada no preâmbulo deste Edital. Todas as referências de tempo no Edital, no aviso e durante a sessão pública, observarão, obrigatoriamente, o horário oficial de Brasília ­ DF e, dessa forma, serão registradas no sistema eletrônico e na documentação relativa ao certame. Regime de Execução: Empreitada por preço unitário Data da realização do Pregão: 01/02/2011 Prazo para Envio de Propostas: até as 09:00 horas do dia 01/02/2011
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 1 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Horário de abertura da sessão pública: 09:30 horas Local: http://compras.cemig.com.br/ 1.4. Prazo de Contratação: O prazo de contratação será conforme estabelecido na Cláusula Quarta da Minuta de Contrato ­ ANEXO C.
+
+1.5. Reajustamento de Preços: O reajustamento dos preços irá ocorrer conforme estabelecido na Clausula Sexta da minuta de Contrato ­ ANEXO C. 1.7. Retirada do Edital: A baixa do edital de licitação poderá ser feita gratuitamente por meio do endereço eletrônico http://compras.cemig.com.br - Portal Eletrônico de Compras CEMIG. 1.8. Solicitação de Esclarecimento ou Impugnação: Qualquer pessoa, inclusive licitante, poderá impugnar ou solicitar esclarecimentos e providências sobre o presente edital até o quinto dia após a publicação do aviso deste edital, contado na forma do parágrafo único do artigo 10 do Decreto Estadual nº 44.786/08. 1.8.1. Os esclarecimentos e providências poderão ser solicitados através do fax (31) 3506-2356. 1.8.2. As impugnações deverão ser, obrigatoriamente, formalizadas por escrito, devidamente assinadas, e protocoladas na CEMIG, até às 17 horas, na Av. Barbacena, 1200 - Bairro Santo Agostinho - Belo Horizonte ­ MG, em até o quinto dia após a publicação do aviso deste edital. 1.8.3. Os questionamentos serão respondidos e disponibilizados a todos os interessados. O inteiro teor do pedido formulado, bem como da resposta estarão disponíveis no Portal Eletrônico de Compras da CEMIG 1.8.3.1. Os participantes deverão consultar diariamente o Portal Eletrônico de Compras da CEMIG para verificação de inclusão de adendos e/ou esclarecimentos neste Edital, especialmente no dia anterior à sua realização. 1.8.3.2. É de exclusiva responsabilidade do interessado a obtenção de Adendos e/ou Esclarecimentos, não podendo alegar desconhecimento em relação às informações disponibilizadas relativas ao Edital.
+
+2. GERAL 2.1. A não apresentação, no momento próprio, de qualquer documento exigido neste Edital, implicará rejeição da proposta da interessada ou sua desclassificação, se for o caso. 2.2. Observado o disposto no item anterior, as CONTRATANTES reservam-se o direito de solicitar informações complementares ou esclarecimentos relativos às propostas e aos documentos de habilitação apresentados, bem como exigir a exibição do documento original caso haja dúvida quanto à autenticidade da cópia. A falta ou insuficiência do atendimento dessa solicitação excluirá a interessada do processo. 2.3. A autoridade competente das CONTRATANTES poderá anular esta licitação, por ilegalidade, ou revogá-la por razões de interesse público decorrente de fato
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 2 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+superveniente devidamente comprovado, pertinente e suficiente para justificar o ato revogatório. 2.4. Nenhuma empresa participante deste processo de seleção pode ignorar a legislação no que diz respeito aos efeitos da execução do Contrato pela proponente vencedora.
+
+2.5. A Cemig se reserva o direito de aumentar ou diminuir em até 25% (vinte e cinco por cento), as quantidades, sem qualquer modificação nos preços unitários cotados ou das demais cláusulas e condições. 2.6. É facultado ao Pregoeiro ou à Autoridade Superior, em qualquer fase do julgamento, promover diligência destinada a esclarecer ou complementar a instrução do processo e a aferição do ofertado, bem como solicitar a órgãos competentes a elaboração de pareceres técnicos destinados a fundamentar as decisões. 2.7. O Pregoeiro poderá disciplinar o intervalo máximo de tempo para formulação de lances e o percentual ou valor de redução mínimo entre os lances a serem observados em cada lance;
+
+2.8. O Pregoeiro, no interesse das CONTRATANTES, poderá relevar omissões puramente formais observadas na documentação e proposta, desde que não contrariem a legislação vigente e não comprometam a lisura da licitação; 2.9. Após a abertura da sessão pública do pregão, é vedado ao proponente retirar sua proposta ou parte dela. 2.10. É vedada a subcontratação total ou parcial do objeto deste pregão. 2.11. A inobservância do proponente quanto às regras estabelecidas na documentação desta licitação poderá, conforme o caso, constituir motivo para anulação da adjudicação que lhe for feita.
+
+3. CREDENCIAMENTO 3.1. O credenciamento implica a posse de chave e senha eletrônica de acesso ao sistema eletrônico do Portal Eletrônico de Compras da CEMIG. 3.2. O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, cujo uso é de responsabilidade exclusiva do licitante (incluindo qualquer transação efetuada diretamente ou por seu representante) não cabendo às CONTRATANTES ou ao Coordenador do Sistema responsabilidade por eventuais danos decorrentes de uso indevido do acesso ao portal, ainda que por terceiros. 3.2.1. Para efeitos jurídicos deste edital, considera-se equivalente à assinatura, o registro da senha e a chave de identificação pessoal da licitante. 3.3. O credenciamento do licitante no sistema eletrônico implica a sua responsabilidade legal ou a de seu representante legal pelos atos praticados e a presunção de capacidade técnica para a realização das transações inerentes ao pregão eletrônico, sob pena da aplicação das sanções previstas neste edital e em lei. 3.4. A empresa que estiver regularmente cadastrada na CEMIG e ainda não esteja credenciada no Portal Eletrônico de Compras CEMIG, deverá providenciar o envio do "Termo de Responsabilidade para Credenciamento de Acesso ao Portal Eletrônico de
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 3 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Compras da CEMIG" ao coordenador do sistema, devidamente preenchido e assinado por seu responsável legal, com firma reconhecida e acompanhado de cópia autenticada do respectivo estatuto ou contrato social em vigor, no qual estejam expressos os poderes para exercer direitos e assumir obrigações em decorrência de tal investidura. 3.4.1. Caso a empresa ainda não seja cadastrada na CEMIG, deverá providenciar seu cadastramento antes de solicitar seu credenciamento;
+
+3.4.2. Para participar do certame, os interessados deverão estar credenciados junto ao Coordenador do Sistema, no prazo mínimo de 3 (três) dias úteis antes da data estabelecida para a realização do pregão. 3.4.3. Coordenador do Sistema: Gerência de Planejamento do Suprimento, Cadastro e Gestão do Mercado Fornecedor ­ MS/PG, situada na Avenida Barbacena, 1200 ­ Recepção/Térreo ­ Bairro Santo Agostinho ­ CEP: 30.190-131 ­ BH ­ MG. 3.5. As informações complementares para credenciamento poderão ser obtidas no sítio http://compras.cemig.com.br - Portal Eletrônico de Compras CEMIG ou por meio do endereço eletrônico: cadastrodefornecedores@cemig.com.br.
+
+4. CONDIÇÕES PARA PARTICIPAÇÃO 4.1. Poderão participar deste certame as empresas nacionais que atenderem às seguintes condições: 4.1.1. Estarem cadastradas junto a CEMIG, na data de realização do Pregão, no grupo de mercadoria 0605 ­ INF - DESENVOLVIMENTO SISTEMA DE INFORMÁTICA; 4.1.2. Estarem credenciadas junto ao coordenador do sistema; 4.1.3. Atenderem a todas as exigências constantes deste Edital e seus Anexos; 4.1.4. Não serem empresas que se enquadrem nas seguintes situações: a) que estejam sob regime de falência, requerida ou decretada, sob processo de dissolução, liquidação e suspensas do direito de licitar e contratar com a CEMIG; que tenham sido declaradas inidôneas por quaisquer órgãos / entidades públicas federal, estadual ou municipal; penalizadas na forma do Art. 12, da Lei Estadual nº 14.167/2002, do Art. 7º da Lei Federal nº 10.520/02 e do Art. 87, Incisos III e IV, da Lei nº 8.666/93; que estejam reunidas em consórcio ainda que sejam controladoras, coligadas ou subsidiárias.
+
+b)
+
+c)
+
+d)
+
+NOTA: Não será permitida a participação neste Edital de mais de uma empresa que tenha os mesmos sócios/controladores.
+
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009
+
+Página 4 de 16
+
+Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+5. HABILITAÇÃO 5.1. DOCUMENTAÇÃO PARA EMISSÃO DO CERTIFICADO DE REGISTRO CADASTRAL ­ CRC 5.1.1 Habilitação Jurídica 5.1.1.1 Registro Comercial, no caso de empresário; 5.1.1.2 Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, em se tratando de sociedades empresariais, e, no caso de sociedades por ações, acompanhado de documento de eleição de seus administradores, devidamente registrado na Junta Comercial e publicado; 5.1.1.3 Inscrição do ato constitutivo, no caso de sociedades civis, acompanhada de prova de diretoria em exercício; 5.1.1.4 Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. 5.1.2. Regularidade Fiscal 5.1.2.1 Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ); 5.1.2.2 Prova de inscrição no Cadastro de Contribuintes Estadual ou Municipal, relativo à sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual, ou outra equivalente, na forma da Lei; 5.1.2.3 Prova de regularidade perante a Fazenda Pública Federal, Estadual e Municipal do domicílio ou sede do licitante, ou outra equivalente, na forma da Lei; 5.1.2.3.1 A prova de regularidade para com a Fazenda Federal deve ser feita mediante a apresentação de Certidão Conjunta de Débitos relativos a Tributos Federais e à Divida Ativa da União, fornecida pela Secretaria da Receita Federal ou pela Procuradoria-Geral da Fazenda Nacional.
+
+5.1.2.4 Prova de regularidade perante o Fundo de Garantia por Tempo de Serviço ­ FGTS, através da apresentação do CRS ­ Certificado de Regularidade de Situação, fornecido pela Caixa Econômica Federal, ou outra equivalente, na forma da Lei; 5.1.2.5 Prova de regularidade perante o Instituto Nacional de Seguro Social ­ INSS, através da Certidão Negativa de Débito (CND), expedida pelo INSS, ou outra equivalente, na forma da Lei. Notas: a) Os documentos de habilitação previstos neste item deverão ser apresentados em original, cópia autenticada ou publicação na imprensa oficial, ou emitidas
+
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009
+
+Página 5 de 16
+
+Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+pela INTERNET, em conformidade com o inciso I, do Artigo 35, da Lei nº 10.522/2002. b) Os documentos deverão estar dentro do prazo de suas respectivas validades. Aqueles que não possuírem expressamente prazo de validade somente serão aceitos quando expedidos até 06 (seis) meses antecedentes à data de sua apresentação. c) As micro e pequenas empresas deverão apresentar toda a documentação exigida neste item, mesmo que apresente alguma restrição, conforme disposição do artigo 43, da Lei Complementar 123/06. 5.1.3 Qualificação Econômico-Financeira 5.1.3.1 Balanço Patrimonial do último exercício, contendo os desdobramentos do Ativo e do Passivo Circulantes, do Realizável e do Exigível a Longo Prazo, do Ativo Permanente e do Patrimônio Líquido, acompanhado da respectiva Demonstração do Resultado. 5.1.3.2 Para as Sociedades Anônimas, deverá ser apresentada cópia da publicação das demonstrações financeiras no Diário Oficial. 5.1.3.3 Para as Sociedades por Cotas de Responsabilidade Limitada, é indispensável a indicação do número de registro do Livro Diário, do número das páginas em que se acham transcritas as demonstrações financeiras e do número de registro do Livro Diário na repartição competente (Junta Comercial ou Cartório de Registro Civil das Pessoas Jurídicas). 5.1.3.4 Em se tratando de empresas sujeitas à tributação do imposto de renda com base no lucro real, deverá ser apresentada Declaração assinada pelo(s) representante(s) legal(s) de que se enquadra na Instrução Normativa RFB n° 787, de 19 de novembro de 2007, até o final do mês de junho do ano corrente. A partir do mês julho do ano corrente deverá apresentar a Escrituração Contábil Digital (ECD) transmitida ao Sistema Público de Escrituração Digital (Sped), por meio do Recibo de Entrega de Livro Digital e o Requerimento de Autenticação de Livro Digital junto às Juntas Comerciais nacionais. 5.1.3.5 Comprovação da existência de Patrimônio Líquido mínimo de R$275.000,00 (duzentos e setenta e cinco mil reais), a ser apurado com base no balanço do último exercício. 5.1.3.6 Certidão negativa de Pedido de Falência, requerida ou decretada, expedida pelo distribuidor da Sede da empresa proponente. A Certidão deverá estar dentro do prazo de sua validade.
+
+5.1.4 Qualificação Técnica 5.1.4.1. Comprovação de aptidão para desempenho de atividade pertinente e compatível com o objeto licitado, mediante apresentação de atestado(s) emitido(s) por pessoa jurídica de direito público ou privado, devidamente registrado na entidade profissional competente, se houver, para a qual tenha prestado serviços que constituem o objeto desta licitação;
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 6 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+5.1.4.2. Declaração das instalações, do aparelhamento e do pessoal técnico adequado e disponível para a realização dos serviços; 5.1.4.3. A CONTRATANTE reserva-se o direito de conferir as informações prestadas por meio de consultas e visitas às empresas emitentes dos atestados. 5.1.5. Declaração 5.1.5.1. As empresas licitantes deverão apresentar, obrigatoriamente, declaração conforme modelo ­ ANEXO D, de que não emprega menores de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre, e menores de 16 (dezesseis) anos, em qualquer trabalho, para efeito do disposto no inciso V, do artigo 27 e inciso XVIII, do artigo 78 da Lei 8.666, de 21/06/1993, salvo na condição de aprendiz a partir de 14(quatorze) anos na forma da Lei, em papel timbrado, datada e assinada pelo representante legal da empresa.
+
+5.2
+
+DOCUMENTAÇÃO COMPLEMENTAR ESPECÍFICA PARA EXECUÇÃO DO OBJETO ORA LICITADO - NÃO EXIGIDA PARA EMISSÃO DO CRC. 5.2.1. DOCUMENTOS TÉCNICOS Conforme instruções contidas no Roteiro de Utilização do Portal Eletrônico de Compras da Cemig ­ ANEXO E, anexar no sistema, selecionando em Tipo de Documentos a opção "Documento Técnico" os seguintes documentos: 5.2.1.1. Proposta Comercial (em conformidade com o ANEXO B).
+
+5.2.2. DOCUMENTOS HABILITATÓRIOS Conforme instruções contidas no Roteiro de Utilização do Portal Eletrônico de Compras da Cemig ­ ANEXO E, a licitante deverá, obrigatoriamente, anexar no sistema, selecionando em Tipo de Documentos a opção "Documento Habilitação" os seguintes documentos: 5.2.2.1. Atestado(s) de capacidade técnica, emitido(s) por pessoa jurídica de direito público ou privado, comprovando experiência nos itens abaixo, para a qual tenha prestado serviços que constituem o objeto desta licitação: a) Realização de serviços de desenvolvimento de sistemas com base no padrão de gerenciamento de projetos definido pelo PMI (Project Management Institute), de acordo com o Project Management Body of Knowledge (PMBOK®); b) Experiência no desenvolvimento de software e na utilização de métricas para dimensionamento de tamanho de software, mediante a apresentação de atestados de capacidade técnica que comprovem a construção de pelo menos 5.000 (cinco mil) pontos de função em um mesmo projeto: Desenvolvimento de sistemas utilizando o SGBD SQL Server;
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 7 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Ambientes de programação: V.B., V.B. Script, HTML, Java Script, ASP, dot Net, Java, C++, J2EE, XI; Gerenciador: Windows 2000 ou 2003, IIS, MTS; Experiência em desenvolvimento de sistemas que tenham integração com SAP, CRM (CCS); Metodologias: Unified Modeling Language (UML), modelagem de caso de uso, Ponto de função (IFPUG). Observação: Cada atestado de capacidade técnica apresentado deverá conter as seguintes informações: - Cumprimento do prazo de entrega contratado; - Cumprimento, declarado em nível satisfatório, de todas as exigências técnicas solicitadas para a prestação de serviços; - Declaração do ambiente tecnológico do sistema; - Nome do técnico participante se for o caso. 5.2.2.1. Apresentar certificado ou documento comprobatório de que está em processo de certificação CMMI ou MpsBR. NOTA: Qualquer documento anexado que não tenha sido solicitado neste edital será desconsiderado. 5.3. Apresentação dos Documentos para Emissão do Certificado de Registro Cadastral - CRC 5.3.1. A documentação para emissão do Certificado de Registro Cadastral ­ CRC será composta pelos documentos exigidos no subitem 5.1, não devendo conter qualquer outro dado ou informação; 5.3.2. Endereço para apresentação: Gerência de Planejamento do Suprimento, Cadastro e Gestão do Mercado Fornecedor - MS/PG Avenida Barbacena, 1200 - Recepção/Térreo - Bairro Santo Agostinho 30.190-131 ­ Belo Horizonte ­ Minas Gerais Horário: 9h às 17h; Prazo mínimo para apresentação: 03 (três) dias úteis antes da data estabelecida para realização do pregão. 5.3.3. Os documentos poderão ser apresentados no original, por qualquer processo de cópia, desde que autenticada na forma da lei, ou publicação em órgão da Imprensa Oficial, quando cabível; 5.3.4. A CONTRATANTE se reserva o direito de exigir a apresentação do documento original caso haja dúvida quanto à autenticidade de sua cópia, podendo, para tanto, abrir prazo de dois dias; 5.3.5. Estarão dispensadas da apresentação dos documentos exigidos no subitem 5.1, as empresas que possuírem o Certificado de Registro Cadastral - CRC em
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 8 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+vigência, com todas as certidões atualizadas e que conste do respectivo Cadastro o Patrimônio Líquido mínimo exigido neste Edital. 5.3.6. Os documentos exigidos no subitem 5.2 deverão, obrigatoriamente, ser apresentados pela licitante, sob pena de desclassificação da proposta comercial ou inabilitação do licitante. 6. SESSÃO DO PREGÃO 6.1. Abertura da Sessão 6.1.1 Para participar do pregão eletrônico, a licitante deverá declarar, em campo próprio do sistema eletrônico, que: 6.1.1.1. cumpre plenamente os requisitos de habilitação e que sua proposta está em conformidade com as exigências do instrumento convocatório. 6.1.1.2. não emprega menores de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre, e menores de 16 (dezesseis) anos, em qualquer trabalho, para efeito do disposto no inciso V, do artigo 27 e inciso XVIII, do artigo 78 da Lei 8.666, de 21/06/1993, salvo na condição de aprendiz a partir de 14(quatorze) anos na forma da Lei. 6.1.1.3. não adota relação trabalhista caracterizando trabalho forçado ou análogo a trabalho escravo, para fins do disposto nas Leis n º 9.777, de 30/12/1998, nº 10803, de 11/12/2003 e Lei Complementar nº 75, de 20/05/93; 6.1.1.4. se enquadra na condição de microempresa/empresa de pequeno porte nos termos da legislação vigente, para fins do beneficio previsto no Art. 44 e 45 da Lei Complementar 123/06, se for o caso; 6.1.1.5 A declaração falsa relativa ao cumprimento dos requisitos de habilitação e proposta, bem como do disposto nos subitens 6.1.1.2, 6.1.1.3 e 6.1.1.4, sujeitará a licitante às sanções previstas neste Edital. 6.1.2. A Licitante responsabilizar-se-á formalmente pelas transações efetuadas em seu nome, assumindo como firmes e verdadeiras suas propostas e lances, inclusive os atos praticados diretamente ou por seus representantes. 6.1.2.1. Até o horário previsto para término do Envio de Propostas, as empresas poderão retirar ou substituir a proposta anteriormente apresentada. 6.1.2.2. Após o horário previsto para termino do Envio de Propostas, é vetado ao licitante retirar sua proposta ou parte dela.
+
+6.2. Classificação das Propostas Comerciais 6.2.1. O Pregoeiro analisará as propostas comerciais apresentadas, verificando o atendimento a todas as especificações estabelecidas neste Edital e seus Anexos, sendo imediatamente desclassificadas as propostas apresentadas:
+
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009
+
+Página 9 de 16
+
+Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+6.2.1.1. Em desacordo ou de modo diverso das orientações e exigências contidas neste Edital; 6.2.1.2. Com preços simbólicos, irrisórios, de valor zero, não consoantes aos praticados no mercado, excessivo, inexeqüíveis ou incompatíveis com os preços de insumos e salários de mercado, acrescidos dos respectivos encargos; 6.2.1.3. Com divergências que tenham intenções comprovadamente dolosas, indo de encontro à isonomia entre os proponentes ou causando qualquer prejuízo às CONTRATANTES, o que poderá implicar, além da desclassificação da proposta, a suspensão do fornecedor do cadastro da CEMIG. 6.2.2. As propostas não desclassificadas serão selecionadas para a etapa de lances, com observância dos seguintes critérios: 6.2.2.1. O Pregoeiro classificará o autor da proposta de menor preço unitário (equalizado); 6.2.2.2. Qualquer combinação que possa configurar a formação de cartel, ou ajuste que deixe evidenciada a tentativa de frustrar o caráter competitivo do Pregão, conferirá às CONTRATANTES o direito de restringir a participação das empresas envolvidas, inclusive excluindo-as do certame, se for o caso, podendo as CONTRATANTES, a seu livre arbítrio e se entenderem ser possível, aproveitar dentre essas envolvidas aquela que tiver apresentado proposta de menor valor. 6.3. Etapa de Lances 6.3.1. Após a fase de abertura e classificação das propostas, o sistema divulgará os preços recebidos sem informar a sua autoria. As empresas classificadas serão convidadas a apresentar lances, observados o horário estabelecido e as regras de sua aceitação constantes no Edital. 6.3.2. Durante o transcurso da sessão pública, serão divulgadas, em tempo real, todas as mensagens trocadas no chat do sistema, inclusive valor e horário do menor lance registrado apresentado pelos licitantes, vedada a identificação do licitante. 6.3.3. Os lances serão, obrigatoriamente, por meio do sistema eletrônico, sendo a licitante imediatamente informada do seu recebimento e respectivo horário de registro. 6.3.4. As empresas poderão fazer lances sucessivos, observado o horário fixado e as regras de aceitação dos mesmos. 6.3.5. Só serão aceitos os lances cujos valores forem inferiores ao último lance que tenha sido anteriormente registrado no sistema. 6.3.6. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar. 6.3.7. Caso os licitantes não realizem lances, permanecerão os valores das propostas eletrônicas apresentadas, para efeito da classificação final.
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 10 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+6.3.8. No caso de desconexão do pregoeiro, no decorrer da etapa de lances, se o sistema eletrônico permanecer acessível às empresas, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados. 6.3.9. Quando a desconexão do pregoeiro persistir por tempo superior a 10 (dez) minutos ou caso ocorra a paralisação do sistema, a sessão do pregão eletrônico será suspensa automaticamente pelo sistema. O pregoeiro, quando possível, dará continuidade à sua atuação no certame, sem prejuízo dos atos realizados. Não sendo possível ao pregoeiro dar continuidade à sua atuação, a sessão terá reinício somente após publicação no Portal de Compras da Cemig. 6.3.10. A critério da CONTRATANTE, o encerramento da sessão de lances será efetuado pelo pregoeiro, mediante aviso de fechamento iminente, após o que transcorrerá período de tempo de 05 (cinco) até 30 (trinta) minutos, aleatoriamente determinado pelo sistema eletrônico, findo o qual será automaticamente encerrada a recepção de lances. 6.4. Não Realização de Lances 6.4.1. Caso as licitantes não realizem lances, será encerrada a etapa competitiva, permanecendo os valores das propostas comerciais apresentadas, ordenadas, exclusivamente, pelo critério de menor preço, observados os critérios previstos nos artigos 44 e 45 da Lei Complementar nº 123/06. 6.4.2. No caso de empate entre duas ou mais propostas, em que as licitantes não tenham ofertado lance, será realizado, obrigatoriamente, sorteio. As licitantes serão convocadas através do "Chat" para o sorteio presencial, em local/data/horário a ser definido pelo pregoeiro. 6.4.3. Será verificada a conformidade entre a proposta eletrônica de menor preço e o valor estimado para a contratação, hipótese em que o Pregoeiro negociará diretamente com as licitantes para que seja obtido preço melhor. 6.5. Julgamento 6.5.1. O critério de julgamento será o de menor preço unitário e será promovido em conformidade com o disposto neste Edital. 6.5.2 Encerrada a etapa de lances, classificando-se em primeiro lugar empresa de grande ou de médio porte, será observado o disposto nos artigos 44 e 45 da Lei Complementar nº 123/06, conforme segue: a) Identificar-se-ão as propostas ofertadas por microempresas ou empresas de pequeno porte que se encontrarem até 5% (cinco por cento) superiores à primeira classificada, desde que a licitante tenha declarado no Portal Eletrônico de Compras da Cemig, o seu enquadramento na condição de microempresa ou empresa de pequeno porte, no momento do envio de sua proposta comercial; b) A microempresa ou empresa de pequeno porte mais bem classificada, se enquadrada na condição descrita na alínea "a" deste subitem, poderá apresentar proposta de preço inferior àquela classificada em primeiro lugar, no prazo de 5 (cinco) minutos, controlado pelo pregoeiro, situação em que
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 11 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+passará à condição de primeira colocada; c) A não apresentação de proposta no prazo estipulado na alínea "b" deste subitem implicará na decadência do direito conferido pela Lei Complementar 123/06, sendo convocadas as empresas remanescentes que se enquadrem na condição descrita na alínea "a" deste subitem, pela ordem de classificação, para exercício do mesmo direito; d) Caso haja equivalência de valores entre as propostas de 2 (duas) ou mais micro ou pequena empresas, que se encontrem no percentual descrito na alínea "b" deste subitem, haverá sorteio para estabelecer quem apresentará, primeiramente, nova proposta, nos termos do artigo 45, inciso III, da referida Lei; e) Na hipótese de não ser adjudicado o objeto à microempresa ou empresa de pequeno porte enquadrada na condição descrita na alínea "a", o objeto licitado será adjudicado em favor da proposta originalmente classificada em primeiro lugar; f) Apurada a melhor proposta que atenda ao edital, o Pregoeiro deverá encaminhar contraproposta, pelo sistema eletrônico, diretamente ao licitante que tenha apresentado o menor valor, para que seja obtido um melhor preço, bem como decidir sobre sua aceitação;
+
+g) Em havendo apenas uma oferta e desde que atenda a todos os termos do edital, sendo seu preço compatível com o valor estimado da contratação, esta poderá ser aceita; h) Sendo aceitável a oferta de menor preço, o sistema informará quem é o proponente que a detém e, para fins de comprovação de sua aceitabilidade, deverão ser apresentados os seguintes documentos: h.1) proposta comercial com os valores atualizados obtidos no Pregão e planilha de custos, se exigível, e documentos exigidos para a emissão do CRC, com data de validade vencida, via fax 31-3506-2356 ou e-mail a ser informado pelo Pregoeiro, no prazo de 30 (trinta) minutos, com possibilidade de prorrogação por até igual período a critério do pregoeiro, com posterior encaminhamento do original ou cópia autenticada no prazo máximo de 2 (dois) dias úteis, para o seguinte endereço: Gerência de Contratação de Serviços e Soluções Integradas ­ MS/CS, Avenida Barbacena, nº. 1200 ­ 8º/A2 Santo Agostinho - Belo Horizonte - Minas Gerais - 30190-131; h.2) caso o licitante seja microempresa ou empresa de pequeno porte e esteja com alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de 02 (dois) dias úteis para regularização da documentação, pagamento ou parcelamento de débito e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. No caso de ocorrência da hipótese prevista nesta alínea, serão observados os seguintes pontos: h.2.1.) O prazo para regularização da documentação será contado a partir da convocação do pregoeiro por meio do chat do pregão, e poderá ser prorrogável por igual período, a critério do órgão licitante;
+Página 12 de 16 Rev.i
+
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+h.2.2.)
+
+A não regularização da documentação no prazo estipulado implicará decadência do direito à contratação, sem prejuízo das sanções legais cabíveis.
+
+6.5.3
+
+Se a proposta ou lance de menor valor não for aceitável, ou se o a licitante desatender às exigências para habilitação, o pregoeiro examinará as ofertas subseqüentes, na ordem de classificação, verificando a sua aceitabilidade e procedendo à verificação do seu ofertante, até a seleção de proposta que atenda ao edital. A proposta comercial atualizada deverá estar conforme o Anexo B ­ Modelo de Carta-Proposta. Serão desclassificadas as propostas apresentadas de modo diverso das orientações contidas neste Edital. Constatado o atendimento pleno às exigências do Edital, será declarado o proponente vencedor, sendo-lhe adjudicado o objeto para o qual apresentou preço mais vantajoso para a CONTRATANTE. Em nenhuma hipótese será concedido prazo adicional para apresentação ou complementação dos documentos. Quando todas as licitantes forem inabilitadas ou todas as propostas forem desclassificadas, o Pregoeiro poderá fixar às licitantes, o prazo de 08 (oito) dias úteis para reinscrição, no Portal Eletrônico de Compras da Cemig, da proposta comercial e respectivas documentações solicitadas, escoimadas das causas que as inabilitaram e/ou desclassificaram. O sistema gerará ata circunstanciada, na qual estarão registrados todos os atos do procedimento e as ocorrências relevantes.
+
+6.5.4
+
+6.5.5
+
+6.5.6
+
+6.5.7
+
+6.5.8
+
+6.5.9
+
+6.6. Recurso 6.6.1. Após o pregoeiro declarar o vencedor, qualquer licitante terá o prazo de 10 (dez) minutos para manifestar motivadamente, por meio eletrônico, em campo próprio, a intenção de recorrer, cuja síntese será lavrada em ata, sendo concedido o prazo de 3 (três) dias úteis para apresentação das razões de recurso, ficando os demais licitantes desde logo intimados a apresentar contra-razões em igual número de dias, que começarão a correr do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos autos. 6.6.1.1. Caso as licitantes manifestem desinteresse de interpor recursos, o sistema registrará a opção em ata e encerrara o prazo recursal independente de ter transcorrido os 10 (dez) minutos acima citado
+
+6.6.2. Não serão conhecidos os recursos interpostos após os respectivos prazos legais, bem como os que forem enviados por fax ou e-mail. 6.6.3. A falta de manifestação imediata e motivada do licitante importará decadência do direito de recurso e a adjudicação do objeto da licitação pelo pregoeiro ao vencedor, na própria sessão.
+
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009
+
+Página 13 de 16
+
+Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+6.6.4. Os recursos deverão ser decididos no prazo de 5 (cinco) dias úteis e seu acolhimento importará na invalidação apenas dos atos insuscetíveis de aproveitamento. 6.6.5. A decisão em grau de recurso será definitiva e dela dar-se-á conhecimento aos interessados, através de divulgação/comunicação, que será disponibilizada no Portal Eletrônico de Compras CEMIG. 6.6.6 Qualquer recurso contra decisões do pregoeiro não terá efeito suspensivo, exceto quando manifestamente protelatório ou quando puder ser por ele prolatada de plano.
+
+6.6.7. O procedimento para manifestação de intenção de interpor recurso encontra-se descrito no ANEXO E.
+
+6.7. Adjudicação e homologação 6.7.1. Inexistindo manifestação recursal, o Pregoeiro adjudicará o objeto da licitação ao licitante vencedor, com a posterior homologação do resultado pela Autoridade Competente. 6.7.2. À vista do relatório do Pregoeiro, o resultado da licitação será submetido à consideração da autoridade competente, para fins de homologação. 6.7.3. Decididos os recursos porventura interpostos, e constatada a regularidade dos atos procedimentais, a Autoridade Competente adjudicará o objeto ao licitante vencedor e homologará o procedimento licitatório. 6.7.4. A ata circunstanciada estará disponível para consulta no sítio http://compras.cemig.com.br - Portal Eletrônico de Compras da CEMIG, assim que o processo for homologado. 7. CONTRATO 7.1. Após a homologação do Pregão pela Autoridade Competente, a licitante vencedora será convocada a assinar o contrato nos termos da minuta ­ ANEXO C, deste Edital, no prazo de 05 (cinco) dias após a notificação das CONTRATANTES, devendo apresentar, também neste prazo, o Certificado de Regularidade da Situação do FGTS, a Certidão Negativa de Débito do INSS/CND e a Certidão Negativa de Falência, requerida ou decretada. 7.1.1. Se a adjudicatória recusar-se a assinar o Contrato, injustificadamente, decairá do direito à contratação, caso em que a sessão será retomada e as demais licitantes chamadas a fazê-lo na ordem de classificação, sem prejuízo da aplicação das sanções cabíveis. 7.1.2. Previamente à assinatura do Contrato as CONTRATANTES realizarão consulta para aferir possível proibição de a empresa adjudicatária contratar com o Poder Público. 7.1.3. Em havendo documentação vencida, as CONTRATANTES realizarão consulta à Internet para expedição das certidões. Na hipótese de as certidões emitidas pela Internet estarem também vencidas, as CONTRATANTES notificarão a empresa
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 14 de 16 Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+adjudicatária para que, no prazo de 2 (dois) dias úteis, contado da notificação, apresente a documentação atualizada. 7.1.4. Quando a adjudicatária não apresentar situação regular no ato da assinatura do Contrato será convocada outra licitante, observada a ordem de classificação, para celebrar o Contrato, e assim sucessivamente, sem prejuízo da aplicação das sanções cabíveis.
+
+8. SANÇÕES 8.1. O Licitante que apresentar documentação falsa; ensejar o retardamento da execução do objeto do certame; não mantiver a proposta; fraudar a execução do Contrato; cometer fraude fiscal; deixar de apresentar documentação exigida para o certame e deixar de comportar-se de modo idôneo, ficará impedido de licitar e contratar com o Estado e, se for o caso, será descredenciado do Cadastro Geral de Fornecedores da CEMIG e do Estado de Minas Gerais, nos termos do artigo 12 da Lei Estadual 14.167/2002, pelo prazo de até 05 (cinco) anos, sem prejuízo das multas previstas no Edital, no Contrato e das demais cominações legais. 8.2. A recusa da adjudicatária em assinar o Contrato, no prazo estabelecido no item 7.1, caracterizará o descumprimento integral da obrigação assumida, sujeitando-a à multa de 10% (dez por cento) do valor total a contratar, sem prejuízo das demais penalidades previstas neste Edital e na Lei Estadual nº 14.164 de 10/02/2002. 8.3. As penalidades previstas nos itens 8.1 e 8.2 poderão ser aplicadas juntamente com as constantes do item 1.1 da Cláusula Décima Segunda do Contrato, garantida a defesa prévia do interessado, no respectivo processo, no prazo de 2 (dois) dias úteis.
+
+9. REVOGAÇÃO E ANULAÇÃO DA LICITAÇÃO 9.1. A autoridade competente para aprovar a realização do pregão poderá revogar a licitação por razões de interesse público, derivadas de fato superveniente devidamente comprovado, pertinente e suficiente para justificar tal conduta, devendo anulá-la por ilegalidade, de ofício ou por provocação de qualquer pessoa, mediante ato escrito e fundamentado. 9.2. A anulação do procedimento licitatório induz à do Contrato. 9.3. No caso de revogação ou anulação da presente licitação, ficam assegurados o contraditório e a ampla defesa.
+
+10. PAGAMENTO 10.1 Os pagamentos serão quitados pelas CONTRATANTES no prazo de 30 (trinta) dias após a apresentação e aceite das faturas pelas CONTRATANTES, conforme Cláusula Quinta da minuta do Contrato ­ ANEXO C.
+
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009
+
+Página 15 de 16
+
+Rev.i
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+11. RECEBIMENTO DO OBJETO 11.1 Os recebimentos provisório e definitivo serão realizados na forma do artigo 73, inciso I da Lei nº 8.666/93 e respectivas alterações, observadas as demais condições previstas neste item para o recebimento dos serviços. 12. INFORMAÇÕES GERAIS 12.1. Quando da celebração de termos aditivos ao Contrato, será exigida da Contratada a documentação citada no item 7.1. 12.2. O foro competente para dirimir quaisquer controvérsias oriundas do presente Pregão será o da Comarca de Belo Horizonte ­ MG, com renúncia expressa a qualquer outro, por mais privilegiado que seja. 12.3. A licitante deverá acompanhar as operações no endereço eletrônico durante o processo licitatório, responsabilizando-se pelo ônus decorrente da perda de negócio diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão. 13. ANEXOS QUE INTEGRAM ESTE EDITAL ANEXO A ­ Condições Gerais para Apresentação das Propostas; ANEXO B ­ Modelo de Carta-Proposta; ANEXO C ­ Minuta do Contrato e seus Anexos; ANEXO D ­ Modelo de Declaração de que não emprega menor; ANEXO E ­ Roteiro de Utilização do Sistema no Portal Eletrônico de Compra da CEMIG; ANEXO F ­ Termo de Referência. Nota: Em complemento às informações do ANEXO E "Roteiro de Utilização do Sistema no Portal Eletrônico de Compras da CEMIG", estão disponíveis na Internet (endereço:
+
+ftp://ftp2.cemig.com.br/licitaserv), alguns filmes com demonstrações básicas do funcionamento do Portal de Eletrônico de Compras da CEMIG. Tais filmes são meramente ilustrativos e servem apenas como uma referência básica para a utilização do Portal, não devendo ser tomados como substitutos do ANEXO E "Roteiro de Utilização do Sistema no Portal Eletrônico de Compras da CEMIG". Prevalecerá o que estiver estabelecido neste edital caso haja alguma divergência entre o que ele contém e as informações nos filmes da Internet.
+
+Belo Horizonte, 17 de janeiro de 2011.
+
+ORIGINAL ASSINADO POR
+
+Ivanilson Alencar Maciel Gerente de Contratação de Serviços e Soluções Integradas, em exercício.
+Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P -12823/2009-13240/2009 Página 16 de 16 Rev.i
+
+ANEXO A
+Condições Gerais para Apresentação das Propostas
+
+CONDIÇÕES GERAIS PARA APRESENTAÇÃO DAS PROPOSTAS 1. CONDIÇÕES GERAIS
+
+1.1. A simples apresentação de proposta importa irrestrita e irrevogável aceitação das condições da Licitação e dos termos deste Edital, por parte das participantes. 1.2. A não apresentação, no momento próprio, de qualquer documento exigido neste Edital, implicará a rejeição da proposta da interessada ou em sua desqualificação, se for o caso. 1.3. Observado o disposto no item anterior, as CONTRATANTES reservam-se o direito de solicitar esclarecimentos ou informações complementares relativos às propostas e aos documentos de habilitação apresentados, bem como exigir a exibição do documento original, caso haja dúvida quanto à autenticidade da cópia. A falta ou insuficiência do atendimento dessa solicitação excluirá a interessada do processo seletivo. 1.4. Os elementos contidos neste Edital são meramente informativos e, em conseqüência, não significam obrigação contratual por parte das CONTRATANTES que, por razões de ordem legal, reservam-se o direito de modificá-los, devendo divulgar às empresas interessadas as alterações processadas, pela mesma forma em que se deu o texto original, reabrindo-se o prazo inicialmente estabelecido, exceto quando, inquestionavelmente, a alteração não afetar a formulação das propostas. 1.4.1 As alterações promovidas serão publicadas da mesma forma como se deu a publicação original. 1.5. Até a celebração do Contrato, as CONTRATANTES reservam-se o direito de, a seu exclusivo critério, revogar a licitação por interesse público decorrente de fato superveniente devidamente comprovado, ou anulá-la por ilegalidade, de ofício ou mediante provocação de terceiros, bem como cancelar a adjudicação e desclassificar a proposta vencedora, se tomar conhecimento de fato, anterior ou posterior ao julgamento, que demonstre dolo ou má fé da licitante, ou que comprometa a sua idoneidade técnica, financeira ou administrativa, sem que destas decisões possam resultar, em qualquer caso, reclamações ou direito à indenização de espécie alguma, assegurados o direito ao contraditório e a ampla defesa. 1.6. Nenhuma empresa participante deste processo de seleção pode ignorar a legislação no que diz respeito aos efeitos da execução do Contrato pela proponente vencedora. 1.7. Para manifestar-se nas fases do procedimento licitatório, o representante único da empresa participante deverá identificar-se com cédula de identidade e documentação apropriada, nos termos do item 3 do Edital.
+
+2.
+
+ELABORAÇÃO E APRESENTAÇÃO DA PROPOSTA COMERCIAL
+
+2.1. A proposta deverá ser redigida em português, datilografada com clareza ou impressa por processo eletrônico, sem emendas, rasuras, borrões, acréscimos ou entrelinhas, em papel timbrado ou com carimbo padronizado da PROPONENTE, de acordo com as descrições e quantitativos dos serviços, seguindo obrigatoriamente todas as especificações e observações constantes do Edital.
+Pareceres: JR/TA-8271/2007-P-11473/-13111/2009 Página 1/2
+Rev.d
+
+ANEXO A
+Condições Gerais para Apresentação das Propostas
+
+2.2. A proposta deverá conter, ainda, e obrigatoriamente, as seguintes informações: - razão social; - CNPJ (nº); - valor unitário por ponto de função para o período de 24 (vinte e quatro) meses em algarismo e por extenso; - prazo de validade da proposta: 60 (sessenta) dias; - qualificação do representante legal da Proponente. 2.3. Todas as páginas da proposta deverão ser rubricadas, sendo que a última deverá ser obrigatoriamente datada e assinada pelo representante legal da licitante, devidamente qualificado. Quando apresentada em cópia, deverá estar devidamente autenticada na forma da lei. 2.4. Em nenhuma hipótese será concedido prazo adicional para apresentação ou complementação dos documentos ou permitida a sua retificação, salvo em diligenciamento ou quando o procedimento o exigir. 2.5. A Carta-Proposta deverá ser apresentada em 01(uma) via em conformidade com o modelo constante do ANEXO B do presente Edital. 2.6 As CONTRATANTES não pagarão nenhum outro valor além do preço contratado, cabendo à PROPONENTE considerar todos os custos diretos e indiretos, necessários à completa e perfeita realização dos serviços objeto desta licitação, tais como: despesas com mão-de-obra, encargos de natureza trabalhista, previdenciária, fiscal, alimentação, hospedagem, transporte da equipe da PROPONENTE, materiais, equipamentos, frete, seguros, tributos e contribuições parafiscais assim como lucro, razão pela qual não serão considerados pleitos de acréscimos após a abertura da proposta. 2.6.1 Para fins de formulação de sua proposta a PROPONENTE deverá pautar-se, desde já, assim como, considerar como futura obrigação contratual, o cumprimento dos princípios éticos de conduta profissional contidos na "Declaração de Princípios Éticos e Código de Conduta Profissional", a qual pode ser obtida no seguinte endereço eletrônico: www.cemig.com.br- link Ética Pública.
+
+2.7. A proposta deverá apresentar preços correntes de mercado, com no máximo duas casas decimais, ex.: R$0,00, sem quaisquer acréscimos em virtude de expectativa inflacionária ou de custo financeiro. 2.8. O prazo de validade da proposta deverá ser de 60 (sessenta) dias, a contar da data limite de sua apresentação. 2.9. Não serão admitidas propostas e/ou documentação enviadas por via postal, fax, e-mail.
+
+Pareceres: JR/TA-8271/2007-P-11473/-13111/2009
+
+Página 2/2
+
+Rev.d
+
+ANEXO B
+Modelo de Carta-Proposta
+
+MODELO DE CARTA-PROPOSTA CEMIG GERAÇÃO E TRANSMISSÃO S.A. ­ CEMIG GT E CEMIG DISTRIBUIÇÃO S.A. ­ CEMIG D Assunto: Processo de Licitação nº: MS/CS 500-H01792 Objeto: _____________________________ Prezados Senhores: Após tomarmos conhecimento de todos os documentos deste Edital de Licitação, submetemos à apreciação das CONTRATANTES a nossa proposta de nº ________. Certificamos que todos os documentos foram examinados, e que assumimos total responsabilidade por quaisquer erros ou omissões na preparação desta proposta. Confirmamos a disponibilidade de equipamentos e equipe técnica necessária à execução dos serviços. O preço unitário por ponto de função para a completa execução dos serviços é de R$_________ (____________________), para o período de 24 (vinte e quatro) meses. Data: ___ / ___ / ____
+
+No caso de adjudicação do objeto licitado, concordamos em assinar o Contrato no prazo estabelecido pelas CONTRATANTES. Declaramos:  aceitar integralmente as regras deste Pregão, bem como a legislação a que ela está subordinada;  não adota relação trabalhista caracterizando trabalho forçado ou análogo a trabalho escravo, para fins do disposto nas Leis n º 9.777, de 30/12/1998, nº 10803, de 11/12/2003 e Lei Complementar nº 75, de 20/05/93;  conhecer o volume de serviços a serem executados, bem como possuir equipe técnica qualificada que atenda à perfeita prestação dos serviços objeto desta contratação. As condições apresentadas nesta proposta serão mantidas por um período de 60 (sessenta) dias, a contar da data de sua apresentação. Caso seja declarado vencedor, a pessoa indicada para assinatura do instrumento contratual é: NOME COMPLETO: ...................................................... CARGO/QUALIFICAÇÃO: ............................................... CPF OU IDENTIDADE:.................................................... _________________________________________________________________ Assinatura do representante legal da Proponente (devidamente qualificado) Razão Social: CNPJ/MF: Endereço: CEP: Telefone: FAX:
+Pareceres: JR/TA: 10632/2007 - P ­ 13111/2009 Página 1/1
+Rev.d
+
+ANEXO C
+Minuta de Contrato
+
+Nº __________ - 510 __________ - 530
+
+TERMO DE CONTRATO QUE ENTRE SI CELEBRAM A CEMIG GERAÇÃO E TRANSMISSÃO S.A. - CEMIG GT, CEMIG DISTRIBUIÇÃO S.A. - CEMIG D E .....................
+
+CEMIG GERAÇÃO E TRANSMISSÃO S.A. - CEMIG GT, com sede em Belo Horizonte/MG, na Avenida Barbacena, 1200, 12º andar, Ala B1, CNPJ/MF 06.981.176/0001-58, e a CEMIG DISTRIBUIÇÃO S.A. - CEMIG D, com sede em Belo Horizonte/MG, na Avenida Barbacena, 1200, 17º andar, Ala A1, CNPJ/MF 06.981.180/0001-16, doravante denominadas CONTRATANTES, neste ato representadas por ....................................., ................................, CPF ............................. e .............................................., ............................., CPF ................................ e ------------------------------------- com sede em ............................., na ............................. CNPJ/MF ............................, doravante denominada CONTRATADA, neste ato representadas por ................................., ..................., CPF ............................., celebram o presente CONTRATO, mediante as seguintes Cláusulas e condições:
+
+DO OBJETO CLÁUSULA PRIMEIRA Constitui objeto deste CONTRATO o fornecimento, pela CONTRATADA, às CONTRATANTES, em regime de preço unitário, de 10.000 (dez mil) pontos de função para execução dos serviços de manutenção e desenvolvimento de softwares, conforme estabelecido no ANEXO VI, deste instrumento.
+
+DO FUNDAMENTO LEGAL CLÁUSULA SEGUNDA O presente CONTRATO decorre do Processo Administrativo de Licitação, na modalidade Pregão Eletrônico nº MS/CS 500-H01792, e reger-se-á pela Lei Estadual nº 14.167, de 10/01/2002, pelo Decreto Estadual nº 44.786, de 18/04/2008, e subsidiariamente pelas Leis Federais n.ºs 10.520, de 17/07/2002, e 8.666, de 21/06/1993, e suas alterações posteriores, pelas condições do Edital e seus anexos, a ele integrando os seguintes documentos dos quais a CONTRATADA declara ter pleno conhecimento: a) ANEXO I - Relatório de Investigação e Análise de Acidente do Trabalho com Empregado Contratado; b) ANEXO II - Relatório Mensal de Acidentes do Trabalho e Horas Trabalhadas; c) ANEXO III - Comunicação de Incidente de Saúde e Segurança ­ CIS; d) ANEXO IV - Documentos a serem obrigatoriamente apresentados para liberação dos pagamentos e instruções para a emissão das notas fiscais/faturas; e) ANEXO V - Declaração de Princípios Éticos e Código de Conduta Profissional (disponível no seguinte endereço eletrônico: www.cemig.com.br- link Ética Pública); f) ANEXO VI - Escopo dos Serviços; g) Proposta da CONTRATADA de ....../....../......;
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 1/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+Parágrafo Primeiro - Ocorrendo divergência entre o estipulado nos documentos mencionados no "caput" desta cláusula e o presente Contrato, prevalecerão as disposições contratuais, seguindo-se os demais documentos, na mesma ordem em que se encontram mencionados. Parágrafo Segundo - A CONTRATADA obriga-se a manter, durante o prazo de execução do Contrato, em compatibilidade com as obrigações ora assumidas, todas as condições de habilitação e qualificação exigidas na licitação, facultando-se às CONTRATANTES o direito de exigir, a qualquer tempo, a comprovação desta condição.
+
+DA DOTAÇÃO ORÇAMENTÁRIA E DO PROVISIONAMENTO CLÁUSULA TERCEIRA Os recursos destinados ao custeio das despesas decorrentes deste CONTRATO estão previstos no Orçamento Anual de Custeio de 2010 e 2011 da Gerência de Aplicações de Tecnologia da Informação ­ TI/AP, devidamente provisionados, através da Requisição de Compra nº 10052403.
+
+DO PRAZO DE VIGÊNCIA CLÁUSULA QUARTA Este CONTRATO vigorará pelo período de 24 (vinte e quatro) meses, contados a partir da data de sua assinatura, podendo ser prorrogado por interesse das CONTRATANTES, pelo período de 24 (vinte e quatro) meses, até o prazo máximo de 48 (quarenta e oito) meses, mediante termo aditivo, formalizado com antecedência mínima de 90 (noventa) dias de seu término, podendo, ainda, ser rescindido a qualquer tempo mediante acordo das partes.
+
+DO PREÇO E CONDIÇÕES DE PAGAMENTO CLÁUSULA QUINTA Pela execução dos serviços ora contratados, as CONTRATANTES pagarão à CONTRATADA, conforme medição, com base no valor unitário de R$______ (________), por ponto de função, no prazo de 30 (trinta) dias, conforme abaixo, mediante apresentação e aceite da nota fiscal/fatura, através de crédito em conta corrente, valendo como comprovante de quitação o documento de confirmação enviado pelo banco as CONTRATANTES: R$......... (.......), referente a 20% (vinte por cento) do valor da contratação ­ Contrato Nº .......... ­ CEMIG GERAÇÃO E TRANSMISSÃO S.A. - CEMIG GT; R$......... (.......), referente a 80% (oitenta por cento) do valor da contratação ­ Contrato Nº .......... ­ CEMIG DISTRIBUIÇÃO S.A. - CEMIG D. Parágrafo Primeiro: As faturas/notas fiscais deverão ser emitidas com a expressa indicação do número do CONTRATO, a descrição do evento a que se referem, local da efetiva prestação dos serviços, destaque dos impostos incidentes e eventuais deduções e ou retenções legais, e apresentadas impreterivelmente até o
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Página 2/19 ­ CT:________________ ­ CRD ou CRCA:
+
+ANEXO C
+Minuta de Contrato
+
+vigésimo quinto dia do mês da execução dos serviços, juntamente com os documentos que comprovem os recolhimentos dos encargos sociais e tributários legalmente exigidos, conforme relação constante do ANEXO IV, sob pena de não liberação dos pagamentos. Parágrafo Segundo: Os pagamentos estão sujeitos às seguintes deduções e ou retenções: 1 2 tributos, taxas e outros encargos incidentes na fonte; retenções e ou deduções determinadas por lei ou contratualmente previstas.
+
+Parágrafo Terceiro: O preço referido no Caput desta Cláusula inclui todos os custos diretos e indiretos necessários à completa e perfeita execução dos serviços, tais como as despesas com mão-de-obra e os encargos de natureza trabalhista, previdenciária, fiscal e de seguros, tributos e contribuições parafiscais, assim como o lucro, razão pela qual nenhum outro valor será devido pelas CONTRATANTES em decorrência da execução dos serviços contratados. Parágrafo Quarto: As Notas Fiscais/Faturas deverão ser encaminhados pela CONTRATADA para a Gerência de Aplicações de Tecnologia da Informação ­ TI/AP, na Avenida Barbacena, 1200, 3º andar, ala A2, CEP 30190-131, Bairro Santo Agostinho, Belo Horizonte/MG, emitidas em nome da: CEMIG GERAÇÃO E TRANSMISSÃO S.A. ­ CEMIG GT, Avenida Barbacena 12º andar, ala B1, Bairro Santo Agostinho, CNPJ/MF nº 06.981.176/0001-58, Inscrição Estadual nº 062.322131.0098. E CEMIG DISTRIBUIÇÃO S.A. ­ CEMIG D, Avenida Barbacena, 1200, 17º andar, ala A1, Bairro Santo Agostinho, CNPJ/MF nº 06.981.180/0001-16, Inscrição Estadual nº 062.322136-0087. Parágrafo Quinto: Caso o faturamento seja feito em desacordo com os termos do CONTRATO, as Notas Fiscais/Fatura poderão ficar retidas pela Gerência de Aplicações de Tecnologia da Informação ­ TI/AP, responsável pela administração do CONTRATO, aguardando-se a chegada da documentação em ordem. O novo vencimento será contado, de acordo com a condição de pagamento estipulada no Caput desta Cláusula, a partir do protocolo do último documento entregue. Fica desde já ajustado que a liberação do pagamento das Faturas/Notas Fiscais correspondentes ao último mês em que os serviços forem executados, estará condicionada à plena e cabal comprovação do cumprimento de todas as obrigações trabalhistas, previdenciárias, securitárias, tributárias e outras a que estiver sujeita a CONTRATADA. Fica vedada à CONTRATADA a emissão de duplicatas para a cobrança de quaisquer valores que venham a ser devidos em razão do CONTRATO. Sem prejuízo de qualquer outra disposição contratual, vindo as CONTRATANTES a responderem por qualquer ação ou reclamação proposta por empregados da CONTRATADA, pessoas a seu serviço ou qualquer
+Página 3/19 ­ CT:________________ ­ CRD ou CRCA:
+
+Parágrafo Sexto:
+
+Parágrafo Sétimo:
+
+Parágrafo Oitavo:
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+terceiro em decorrência dos serviços prestados as CONTRATANTES, estas estarão expressamente autorizadas pela CONTRATADA para, mediante simples notificação escrita, reter e utilizar os créditos de titularidade da mesma, até o montante necessário ao pagamento integral da obrigação exigida, incluindo custas, despesas processuais e honorários advocatícios. Parágrafo Nono: Os valores retidos e não utilizados pelas CONTRATANTES serão devolvidos à CONTRATADA, sem qualquer atualização, no prazo de 05 (cinco) dias úteis após a extinção da ação ou reclamação.
+
+Parágrafo Décimo: O pagamento das faturas não significa a sua aprovação definitiva pelas CONTRATANTES. Todo pagamento que vier a ser considerado contratualmente indevido será descontado de pagamentos devidos à CONTRATADA, ou dela cobrado.
+
+DO REAJUSTE CLÁUSULA SEXTA Os preços dos serviços, expressos no "caput" da Cláusula Quinta, poderão ser reajustados, para mais ou para menos, limitado à variação obtida pelo Índice IGP-M/FGV, desde que solicitados, por escrito, com antecedência mínima de 30 (trinta) dias do início de sua vigência, pela CONTRATADA. Para o primeiro reajuste o prazo de 12 (doze) meses será o período entre a data de apresentação da proposta e a do aniversário do CONTRATO. Para os demais reajustes o prazo de 12 (doze) meses será contado da data de vigência do último reajuste. A correspondência deverá ser enviada ao seguinte endereço: GERÊNCIA DE APLICAÇÕES DE TECNOLOGIA DA INFORMAÇÃO AVENIDA BARBACENA, Nº 1200, 3º ANDAR, ALA A2, SANTO AGOSTINHO CEP: 30190-131 ­ BELO HORIZONTE - MG
+
+DO ATRASO DE PAGAMENTO CLÁUSULA SÉTIMA 1.1. Os pagamentos efetuados com atraso, por responsabilidade exclusiva das CONTRATANTES, serão acrescidos de juros de mora de 0,5% (zero vírgula cinco por cento) ao mês, calculados "pro rata tempore", entre a data do vencimento e a da efetiva liberação. A CONTRATADA deverá promover a cobrança dos juros de mora previstos nesta Cláusula, no prazo máximo de 60 (sessenta) dias após a data do pagamento da fatura/nota fiscal, sob pena de se haver como plenamente quitado o respectivo débito.
+
+1.2.
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 4/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+OBRIGAÇÕES DAS PARTES CLÁUSULA OITAVA 1.1. Além das demais obrigações previstas no CONTRATO e no Escopo dos Serviços, compete às CONTRATANTES assegurarem o acesso dos empregados da CONTRATADA em suas dependências, nos locais de realização dos serviços. 1.2. Além das demais obrigações previstas no CONTRATO e no Escopo dos Serviços, compete à CONTRATADA: 1.2.1. executar os serviços contratados dentro dos padrões de qualidade, quantidade e segurança, exigidos, em estrita observância às condições definidas no CONTRATO e de acordo com as instruções recebidas das CONTRATANTES, através de profissionais legalmente habilitados, em quantidade compatível com os serviços, diligenciando no sentido de que os trabalhos sejam conduzidos segundo a melhor técnica aplicável, observando os prazos programados pela sua realização; observar a programação dos serviços elaborada CONTRATANTES e suas eventuais alterações; pela Administração das
+
+1.2.2.
+
+1.2.3.
+
+reparar ou refazer, exclusivamente às suas expensas, os serviços inadequadamente executados, sanando todos os problemas dentro dos prazos estipulados pelas CONTRATANTES; empregar pessoal em número e qualificação compatíveis com a perfeita execução dos serviços, mantendo-os uniformizados, portando credenciais e os Equipamentos de Proteção Individual - EPI's necessários, conforme definido na "NR-6 ­ Equipamentos de Proteção Individual - Portaria n.º 3.214, de 08 de junho de 1978 ";
+
+1.2.4.
+
+1.2.5. credenciar junto às CONTRATANTES, para fins de cadastramento e identificação, todo o seu pessoal designado para a prestação dos serviços objeto deste CONTRATO, sob pena de não lhe ser permitido o acesso às instalações das CONTRATANTES, arcando a CONTRATADA com os ônus daí decorrentes. Quando o empregado for desligado dos serviços objeto deste CONTRATO, deverá ser descredenciado imediatamente perante as CONTRATANTES; 1.2.5.1. a não observância do disposto nesse item implicará responsabilização da CONTRATADA pelos prejuízos causados 1.2.6. apresentar às CONTRATANTES, antes do início dos serviços e mensalmente, relação nominal dos empregados que trabalharão durante o mês, indicando nomes, cargos e número das respectivas Carteiras de Trabalho e Previdência Social - CTPS, devendo, ainda, atualizar a relação toda vez que houver alteração na equipe de trabalho; credenciar 01 (um) representante junto às CONTRATANTES, que deverá possuir o conhecimento e capacidade profissional necessários, bem como ter autonomia e autoridade para resolver qualquer assunto relacionado com os serviços contratados, verificar o bom andamento dos mesmos, zelar pela disciplina da(s) equipe(s) e pelo seu aprimoramento;
+
+1.2.7.
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 5/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+1.2.7.1 seguir o dimensionamento para este profissional estabelecido no escopo dos serviços; 1.2.8 apresentar às CONTRATANTES, antes do início dos serviços: 1.2.8.1 declaração, devidamente assinada por profissional habilitado em segurança do trabalho com registro no Ministério do Trabalho e Emprego, atestando que os empregados alocados aos serviços objeto do presente CONTRATO foram treinados em segurança do trabalho, abrangendo, no mínimo, os seguintes tópicos: conceitos básicos de segurança; EPI's e EPC's; análise de Riscos; ato e condição insegura. 1.2.9. responsabilizar-se pelo bom comportamento de seu pessoal, quando da execução dos serviços, comprometendo-se a afastar qualquer empregado, cuja presença seja considerada inconveniente aos interesses dos serviços, a critério das CONTRATANTES; 1.2.9.1 a eventual substituição de empregado, nos termos do item anterior não acarretará qualquer ônus adicional para as CONTRATANTES, suportando a CONTRATADA quaisquer encargos ou responsabilidades trabalhistas ou previdenciárias relativas aos empregados substituídos ou afastados; 1.2.10. observar as disposições legais que regulam o exercício de sua atividade, como empresa legalmente habilitada para a prestação dos serviços objeto deste CONTRATO; 1.2.11 cumprir rigorosamente as exigências da legislação tributária, fiscal, trabalhista, previdenciária, de seguro, higiene e saúde do trabalho, assumindo todas as obrigações e encargos legais inerentes e respondendo integralmente pelos ônus resultantes das infrações cometidas; 1.2.11.1 além das obrigações acima, a CONTRATADA deverá cumprir as instruções e medidas de segurança que forem determinadas, por escrito, pelas CONTRATANTES; 1.2.11.2 cumprir todos os princípios éticos de conduta profissional, conforme ANEXO V - Declaração de Princípios Éticos e Código de Conduta Profissional das CONTRATANTES. 1.2.12. manter rigoroso controle da jornada de trabalho de seus empregados, respeitando sempre o limite legal, bem como os intervalos interjornada e intrajornada, previstos na legislação trabalhista; 1.2.13. contratar todos os seguros a que estiver obrigada pelas leis brasileiras, em qualquer tempo, sem qualquer ônus para as CONTRATANTES;
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 6/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+1.2.14 solicitar a presença imediata do responsável pela fiscalização das CONTRATANTES em caso de acidentes durante a execução dos serviços, que ocasionem ou não danos pessoais ou materiais em bens das CONTRATANTES ou de terceiros; 1.2.15 caso ocorra acidente Grave ou Fatal a CONTRATADA deverá: 1.2.15.1 comunicar, imediatamente, ao órgão nomeado na Cláusula Quinta do CONTRATO; 1.2.15.2 comunicar, imediatamente, à autoridade policial, em caso de acidente fatal; 1.2.15.3 comunicar, ao INSS, no primeiro dia útil após a ocorrência e através de formulário próprio Comunicação de Acidente de Trabalho ­ CAT; 1.2.15.4 enviar de imediato ou no primeiro dia útil subseqüente, para o órgão nomeado na Cláusula Quinta do CONTRATO, via fax, o formulário Comunicação de Incidentes de Saúde e Segurança ­ CIS ­ ANEXO III, devidamente preenchido; 1.2.15.5 apresentar, obrigatoriamente, até 30 (trinta) dias após o acidente, o Relatório de Investigação e Análise de Acidente do Trabalho com Empregado Contratado ­ ANEXO I, nos casos de constituição de Comissão de Investigação. A investigação de acidentes graves e ou fatais envolvendo empregados da CONTRATADA em instalações das CONTRATANTES será conduzida por comissão, que terá entre seus membros, obrigatoriamente, 2 (dois) representantes dos empregados, sendo 1 (um) da CIPA das CONTRATANTES e outro da CIPA da CONTRATADA, 1.2.15.5.1 inexistindo CIPA da CONTRATADA no local de execução dos serviços, integrará a comissão o gerente ou encarregado da turma envolvida no acidente; 1.2.15.5.2 competirá as CONTRATANTES formalizarem a criação da comissão de que trata o item anterior; 1.2.16 responsabilizar-se totalmente pelo ônus decorrente de infrações às leis de segurança no trabalho;
+
+1.2.17. preencher mensalmente o Relatório Mensal de Acidentes do Trabalho e Horas Trabalhadas ­ ANEXO II, havendo ou não acidentes, e enviar para o órgão nomeado no Parágrafo Quarto da Cláusula Quinta do CONTRATO, juntamente com os documentos para liberação do pagamento das notas fiscais/faturas. Caso tenham ocorrido acidentes, estes deverão ser relacionados, independente de sua gravidade. 1.2.18. responsabilizar-se pelo transporte de acesso e circulação do seu pessoal nas áreas de serviços, assumindo integralmente os custos decorrentes do fornecimento de valetransporte, tornado obrigatório pela Lei n.º 7.619/87; 1.2.19. emitir obrigatoriamente, nota fiscal específica, conforme determina a legislação vigente, para toda e qualquer movimentação de materiais e equipamentos pela CONTRATADA, seja a partir do local onde os trabalhos são executados, de estabelecimentos próprios, das CONTRATANTES ou de terceiros;
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Página 7/19 ­ CT:________________ ­ CRD ou CRCA:
+
+ANEXO C
+Minuta de Contrato
+
+1.2.19.1 a inobservância do disposto no item anterior sujeitará a CONTRATADA ao ônus resultante da infração cometida, cabendo-lhe exclusiva responsabilidade pelo seu integral pagamento e recolhimento no prazo legal; 1.2.20. fornecer materiais, equipamentos, ferramentas e utensílios necessários à perfeita execução dos serviços; 1.2.21. identificar todos os equipamentos, ferramentas e utensílios de sua propriedade, de forma a não serem confundidas com similares de propriedade das CONTRATANTES; 1.2.22 assumir todas as responsabilidades e tomar as medidas necessárias ao atendimento dos seus empregados, acidentados ou com mal súbito; 1.2.23. manter nos locais de trabalho, nos termos da Instrução Normativa nº 03, de 29/08/97, do Ministério do Trabalho, para fiscalização por parte das autoridades competentes: 1.2.23.1. registro dos empregados, contendo o CONTRATO de trabalho e a identificação do cargo para o qual o trabalhador foi contratado, bem como os exames médicos admissionais e periódicos dos empregados; 1.2.23.2 quadro de horário de trabalho e das atividades dos empregados. 1.2.24. obedecer, no que couber, o estabelecido nas Normas Regulamentadoras da "Portaria n.º 3.214, de 08 de junho de 1978".
+
+DOS IMPOSTOS E ENCARGOS CLAUSULA NONA 1.1. Todos os tributos e encargos de natureza fiscal e tributária, que incidam ou venham a incidir sobre os serviços objeto do CONTRATO, serão de exclusiva responsabilidade da CONTRATADA. 1.2. A CONTRATADA promoverá as diligências necessárias e procederá aos recolhimentos e pagamentos de tais tributos e contribuições nos prazos legais. Caso as CONTRATANTES tenham que realizar algum procedimento dessa natureza, promoverá o respectivo reembolso, a ela devido, em qualquer pagamento a ser feito à CONTRATADA.
+
+DO INADIMPLEMENTO CONTRATUAL, DA RESCISÃO E DAS PENALIDADES CLÁUSULA DÉCIMA Constituem causas de inadimplemento de CONTRATO: 1.1. o não cumprimento ou o cumprimento irregular de quaisquer de suas cláusulas ou condições; 2.2. no caso de ficar comprovado a culpa ou dolo, da CONTRATADA em acidentes de trabalho, envolvendo seus empregados; 2.3. a dissolução judicial, a insolvência civil, a decretação de falência ou qualquer alteração social da CONTRATADA que prejudique a sua capacidade de executar fielmente este CONTRATO;
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Página 8/19 ­ CT:________________ ­ CRD ou CRCA:
+
+ANEXO C
+Minuta de Contrato
+
+2.4. a não-renovação do cadastro ou o não-atendimento de qualquer condição nele exigida; 2.5. os demais motivos previstos no art. 78 da Lei nº 8.666/93. CLÁUSULA DÉCIMA PRIMEIRA A ocorrência de qualquer dos motivos previstos na Cláusula anterior ensejará as seguintes providências pela parte prejudicada: 1.1. os fatos, ações ou omissões caracterizadores do inadimplemento contratual serão comunicados à parte infratora por escrito, ao mesmo tempo em que serão solicitados os esclarecimentos e as justificativas pertinentes, que deverão ser encaminhados à outra parte no prazo máximo de 05 (cinco) dias úteis; sanadas as irregularidades ou aceitas as justificativas apresentadas, considerar-se-á como cessado o motivo da rescisão; permanecendo desatendida a condição contratual infringida, ficará plenamente caracterizada a inadimplência da parte infratora, após notificação escrita da parte prejudicada.
+
+1.2. 1.3.
+
+CLÁUSULA DÉCIMA SEGUNDA Uma vez caracterizado o inadimplemento contratual, nos termos da antecedente, a parte prejudicada ficará autorizada a aplicar à parte infratora as penalidades previstas neste capítulo, e a promover a rescisão do CONTRATO, nas condições que se seguem: 1.1 Caracterizado o inadimplemento pela CONTRATADA, poderão as CONTRATANTES: a) aplicar-lhe a penalidade de advertência escrita; b) aplicar-lhe multa de 0,33% (zero vírgula trinta e três por cento) ao dia sobre o valor mensal do CONTRATO, enquanto perdurar a irregularidade, após notificação escrita à CONTRATADA, até o limite de 10% (dez por cento) do valor mensal dos serviços, a ser recolhida no prazo máximo de 15(quinze) dias corridos, contados da data da comunicação formal; c) aplicar-lhe multa de 10% (dez por cento) sobre o valor total do CONTRATO na hipótese de rescisão; d) rescindir o CONTRATO, mediante simples notificação escrita; f) aplicar-lhe a penalidade de suspensão do Cadastro de Fornecedores da CEMIG pelo prazo de até 05 (cinco) anos e de Declaração de inidoneidade para contratar com a Administração Pública, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, conforme determinado em processo administrativo próprio. 1.2 A multa referida no item 1.1, letra "b", será descontada de qualquer fatura ou crédito existente nas CONTRATANTES, em favor da CONTRATADA ou cobrada judicialmente. 1.3 A penalidade da Declaração de inidoneidade para contratar com a Administração Pública é de competência do Sr. Secretário de Estado de Planejamento e Gestão do Estado de Minas Gerais, facultada a defesa do interessado no respectivo processo, no prazo de 10 (dez) dias da abertura de vista, podendo a reabilitação ser requerida após 02 (dois) anos de sua aplicação.
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 9/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+2. Caracterizado o inadimplemento pelas CONTRATANTES, poderá a CONTRATADA rescindir o CONTRATO, através de procedimento judicial próprio, incorrendo as CONTRATANTES, neste caso, em multa de 10% (dez por cento) sobre o valor total dos serviços.
+
+PAGAMENTO DE MULTAS E PENALIDADES CLÁUSULA DÉCIMA TERCEIRA Fica desde já ajustado que todos e quaisquer valores que vierem a ser imputados à CONTRATADA, a título de multas ou penalidades em decorrência da execução dos serviços, bem como qualquer obrigação definida neste CONTRATO como de sua responsabilidade, que por eventual determinação judicial ou administrativa venha a ser paga pelas CONTRATANTES, revestem-se das características de liquidez e certeza, para efeitos de execução judicial, nos termos do art. 586 do CPC. Parágrafo Primeiro: Para assegurar o cumprimento de obrigações definidas neste CONTRATO como de responsabilidade da CONTRATADA, as CONTRATANTES poderão reter parcelas de pagamentos contratuais ou eventuais créditos de sua titularidade, mediante simples notificação escrita à CONTRATADA. Parágrafo Segundo: As multas e penalidades previstas neste CONTRATO não têm caráter compensatório, sendo que o seu pagamento não exime a CONTRATADA quanto à responsabilidade pela reparação de eventuais danos, perdas ou prejuízos causados às CONTRATANTES por atos ou omissões de sua responsabilidade.
+
+INDENIZAÇÕES EM AÇÕES JUDICIAIS CLÁUSULA DÉCIMA QUARTA A CONTRATADA obriga-se a responder por todas e quaisquer ações judiciais, reivindicações ou reclamações de seus empregados, sendo, em quaisquer circunstâncias, nesse particular, considerada como única e exclusiva empregadora e responsável por qualquer ônus que as CONTRATANTES venham a arcar em qualquer época, decorrente de tais ações, reivindicações ou reclamações. Parágrafo Único: Fica a CONTRATADA obrigada a comunicar às CONTRATANTES no prazo de 24 (vinte e quatro) horas após o recebimento da notificação/citação, de qualquer reclamação trabalhista ajuizada por seus empregados, decorrentes dos serviços objeto deste CONTRATO.
+
+CLÁUSULA DÉCIMA QUINTA Caso as CONTRATANTES venham a ser condenadas judicialmente a pagar indenizações decorrentes de ações trabalhistas ajuizadas por empregados da CONTRATADA relativas aos serviços objeto deste CONTRATO, fica a CONTRATADA e seus Diretores, assim designados no Contrato ou Estatuto Social respectivo, civilmente responsáveis pelo ressarcimento às CONTRATANTES dos gastos por esta incorridos, os quais serão descontados dos pagamentos devidos a CONTRATADA ou cobrados da forma que mais convier a CONTRATANTES.
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Página 10/19 ­ CT:________________ ­ CRD ou CRCA:
+
+ANEXO C
+Minuta de Contrato
+
+RESPONSABILIDADE POR DANOS E OBRIGAÇÕES NÃO CUMPRIDAS CLÁUSULA DÉCIMA SEXTA A CONTRATADA responderá por todos e quaisquer danos provocados diretamente às CONTRATANTES ou a terceiros na execução deste CONTRATO, decorrentes de atos ou omissões de sua responsabilidade, a qual não poderá ser excluída ou atenuada em função da fiscalização ou do acompanhamento exercido pelas CONTRATANTES, obrigando-se, a todo e qualquer tempo, a ressarci-los integralmente, sem prejuízo das multas e demais penalidades previstas no presente instrumento. Parágrafo Primeiro - Para os efeitos desta Cláusula, danos significam todo e qualquer ônus, despesa, custo ou obrigação que venham a ser assumidos pelas CONTRATANTES em decorrência do não cumprimento, pela CONTRATADA ou de seus subcontratados, de obrigações a ele atribuídas contratualmente ou por força de disposição legal, incluindo, mas não se limitando, pagamentos ou ressarcimentos efetuados pelas CONTRATANTES a terceiros, multas, penalidades, emolumentos, taxas, tributos, despesas processuais, honorários advocatícios e outros. Parágrafo Segundo - Se qualquer reclamação relacionada ao ressarcimento de danos ou ao cumprimento de obrigações definidas contratualmente como de responsabilidade da CONTRATADA for apresentada ou chegar ao conhecimento das CONTRATANTES, estas notificarão a CONTRATADA por escrito para que tome as providências necessárias à sua solução, diretamente, quando possível, a qual ficará obrigada a entregar às CONTRATANTES a devida comprovação do acordo, acerto, pagamento ou medida administrativa ou judicial que entender de direito, conforme o caso, no prazo que lhe for assinado. As providências administrativas ou judiciais tomadas pela CONTRATADA não a eximem das responsabilidades assumidas perante as CONTRATANTES, nos termos desta Cláusula. Parágrafo Terceiro - Fica desde já entendido que quaisquer despesas que venham a ser incorridas ou exigidas das CONTRATANTES, nos termos desta Cláusula, deverão ser pagas pela CONTRATADA, independentemente do tempo em que ocorrerem, mediante a adoção das seguintes providências, até o limite necessário ao seu pleno ressarcimento: a) notificação escrita que as CONTRATANTES expedirem, no prazo assinado na notificação; b) dedução de créditos da CONTRATADA, pelos serviços prestados; c) medida judicial apropriada, a critério das CONTRATANTES.
+
+DA CESSÃO CLÁUSULA DÉCIMA SÉTIMA É vedado à CONTRATADA ceder a terceiros, ainda que parcialmente, os direitos e obrigações decorrentes deste CONTRATO.
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Página 11/19 ­ CT:________________ ­ CRD ou CRCA:
+
+ANEXO C
+Minuta de Contrato
+
+DA FISCALIZAÇÃO CLAUSULA DÉCIMA OITAVA 1.1 As CONTRATANTES poderão exercer ampla fiscalização sobre os serviços contratados, por intermédio de prepostos seus, devidamente credenciados, aos quais a CONTRATADA deverá facilitar o exercício de suas funções. 1.2 A presença da fiscalização das CONTRATANTES não elimina nem atenua as responsabilidades da CONTRATADA quanto à qualidade dos serviços prestados e cumprimento de suas obrigações contratuais e legais. 1.3 A fiscalização das CONTRATANTES poderá solicitar à CONTRATADA a substituição de qualquer material ou equipamento cujo uso considere prejudicial à boa conservação de seus pertences, equipamentos ou instalações, ou ainda, que não atendam as necessidades. 1.4 A fiscalização das CONTRATANTES poderá suspender a execução total ou parcial dos serviços quando houver riscos à segurança dos empregados da contratada e/ou terceiros.
+
+DA CONFIDENCIALIDADE CLÁUSULA DÉCIMA NONA A CONTRATADA se obriga por seus sócios, diretores, gerentes, empregados e prepostos, a manter absoluto sigilo dos dados e informações a que tiver acesso em decorrência dos serviços prestados, durante a execução e após o encerramento deste contrato, respondendo integralmente perante as CONTRATANTES e terceiros pelos danos que decorrem dos atos ou omissões de sua responsabilidade, sem prejuízo das demais sanções contratuais e legais cabíveis, inclusive criminais. Parágrafo Primeiro: A obrigação de sigilo não se aplica a informações que: a. tenham sido ou sejam publicadas, ou sejam ou se tornem de domínio público, desde que tal publicação ou publicidade não tenha sido ocasionada por culpa ou interferência da CONTRATADA; b. estejam na posse legítima da CONTRATADA antes de sua divulgação pelas CONTRATANTES; c. posteriormente à divulgação aqui tratada, sejam obtidas ou possam ter sido obtidas legalmente de um terceiro com direitos legítimos para divulgação da informação sem quaisquer restrições para tal; d. tenham sido independentemente desenvolvidas pela CONTRATADA juntamente com terceiros que não tiveram acesso ou conhecimento de tais Informações; e. sejam requisitadas por determinação judicial ou governamental competente, desde que a CONTRATADA comunique previamente às CONTRATANTES a existência de tal determinação. Parágrafo Segundo: O não cumprimento da obrigação de sigilo de que trata esta cláusula sujeitará a contratada ao pagamento da multa de 10% do valor total atualizado do presente contrato, a critério exclusivo das CONTRATANTES, e mediante simples notificação escrita destas, sem prejuízo das demais sanções e indenizações devidas. A CONTRATADA declara aceitar que a obrigação aqui prevista permanecerá válida mesmo após o encerramento do Contrato.
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Página 12/19 ­ CT:________________ ­ CRD ou CRCA:
+
+ANEXO C
+Minuta de Contrato
+
+DA NOVAÇÃO E RENÚNCIA DE DIREITOS CLÁUSULA VIGÉSIMA O não exercício, pelas partes, dos direitos que lhes são atribuídos neste CONTRATO não será considerado novação ou renúncia.
+
+DA SOLIDARIEDADE CLÁUSULA VIGÉSIMA PRIMEIRA As relações obrigacionais prevista no presente CONTRATO são estabelecidas entre a CONTRATADA e cada uma das empresas CONTRATANTES separadamente. As empresas CONTRATANTES que são partes do presente CONTRATO não serão solidariamente, nem tampouco subsidiariamente responsáveis por qualquer inadimplemento de obrigações contratuais causado por qualquer uma das demais empresas CONTRATANTES. Cada empresa CONTRATANTE será responsável única e exclusivamente por suas próprias obrigações sob o CONTRATO.
+
+DO VALOR DO CONTRATO CLÁUSULA VIGÉSIMA SEGUNDA Para efeitos legais, o presente CONTRATO tem o valor global de R$___________ (_______________), sendo cada uma das CONTRATANTES responsável apenas na proporção estabelecida na Cláusula Quinta.
+
+DA PUBLICAÇÃO CLÁUSULA VIGÉSIMA TERCEIRA Como condição de eficácia do presente CONTRATO, as CONTRATANTES promoverão a publicação de seu extrato na Imprensa Oficial.
+
+DO FORO CLÁUSULA VIGÉSIMA TERCEIRA O foro deste CONTRATO é o da Comarca de Belo Horizonte, com a exclusão de qualquer outro.
+
+E por assim haverem ajustado, as partes firmam este instrumento, em 2 (duas) vias de igual teor e forma, para o mesmo efeito legal, na presença das testemunhas abaixo nomeadas e assinadas.
+
+Belo Horizonte, ____ de __________ de _____.
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Página 13/19 ­ CT:________________ ­ CRD ou CRCA:
+
+ANEXO C
+Minuta de Contrato
+
+CEMIG GERAÇÃO E TRANSMISSÃO S.A. ­ CEMIG GT CEMIG DISTRIBUIÇÃO S.A. ­ CEMIG D ______________________________ Nome ______________________________ Nome
+
+CONTRATADA _____________________________ ______________________________
+
+Testemunhas
+
+______________________________ Nome ­ Nº Pessoal:
+
+______________________________ Nome ­ Nº Pessoal:
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 14/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+ANEXO I
+
+RELATÓRIO DE INVESTIGAÇÃO E ANÁLISE DE ACIDENTE DO TRABALHO COM EMPREGADO CONTRATADO
+EMPRESA:_____________________________________________Nº CONTRATO:_____________
+
+1-IDENTIFICAÇÃO DOS COMPONENTES DA COMISSÃO: NOME:__________________________________________________________________________ EMPRESA:_______________________________________________________________________ CARGO OU FUNÇÃO:______________________________________________________________
+
+2-IDENTIFICAÇÃO DO ACIDENTADO NOME: _______________________________________ESTADO CIVIL:______________________ ENDEREÇO COMPLETO: ___________________________________________________________ SEXO: ____________IDADE: ____________Nº DE DEPENDENTES:_________________________ FUNÇÃO:_______________ TEMPO NA FUNÇÃO: ________ TEMPO NA EMPRESA:___________ DATA DE ADMISSÃO: ___________ESCOLARIDADE: ____________________________________ TREINAMENTO (S) RECEBIDO (S): ___________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ LESÃO(ES) SOFRIDA (S):___________________________________________________________ _________________________________________________________________________________ TEMPO PREVISTO DE AFASTAMENTO: _______________________________________________ 3-IDENTIFICAÇÃO DO ACIDENTE DATA: ______ DIA DA SEMANA: ____________ HORA: ____________ LOCAL:________________ TAREFA: ________________________________________________________________________ ÓRGÃO GESTOR­CONTRATANTES: _________________________________________________ TIPO DE ACIDENTE: ______________________________________________________________ DESCRIÇÃO DETALHADA: __________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________
+Página 15/19 ­ CT:________________ ­ CRD ou CRCA:
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+COMPONENTES DA EQUIPE: NOME: ________________________________________IDADE:__________FUNÇÃO:__________ DATA DE ADMISSÃO: ______________TEMPO NA FUNÇÃO: _____________________________ TEMPO NA EMPRESA: _____________ESCOLARIDADE: ________________________________ TREINAMENTOS RECEBIDOS: ______________________________________________________
+
+4-CAUSAS APURADAS: ____________________________________________________________ _________________________________________________________________________________ 5-DEMAIS CONSEQUÊNCIAS: _______________________________________________________ _________________________________________________________________________________ 6-CONCLUSÕES: _________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ 7-MEDIDAS PROPOSTAS: __________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ 8-PLANO DE AÇÃO COM PRAZOS E RESPONSÁVEIS: __________________________________ _________________________________________________________________________________
+
+DATA:
+
+ASSINATURAS DE TODOS OS COMPONENTES DA COMISSÃO ____________________________________________ NOME _____________________________________________ NOME:
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 16/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+ANEXO II RELATÓRIO MENSAL DE ACIDENTES DO TRABALHO E HORAS TRABALHADAS EMPRESA CONTRATADA: ___________________________________________________ CÓDIGO FORNECEDOR: _____________________________Nº CONTRATO:__________ REFERÊNCIA (MÊS/ANO): ________________ Nº DE EMPREGADOS ALOCADOS NESTE CONTRATO: ___________________________ TOTAL DE HORAS TRABALHADAS NO MÊS: ___SENDO: NORMAIS: ____EXTRAS: ____ ASSINALAR NO QUADRADO SE NÃO HOUVE ACIDENTES NO MÊS: PREENCHER O RELATÓRIO ABAIXO NO CASO DE ACIDENTES INDEPENDENTE DE SUA GRAVIDADE. CONSTITUIU NOME (S) DO(S) COMISSÃO DATA LOCAL LESÃO(ES) ACIDENTADO(S) SIM NÃO
+
+DATA:
+
+__________________________________________________________________ ASSINATURA DO REPRESENTANTE LEGAL DA EMPRESA
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 17/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+Comunicação de Incidente de Saúde e Segurança ­ CIS Nº SMART: Data: Hora: Prédio: Unid. Organizacional: Diretoria:
+
+ANEXO III
+
+Dados Acidente
+
+Local:
+
+Cidade:
+
+Descrição Acidente:
+
+Nº de Pessoal:
+
+Nome Empregado:
+
+Cód. Empreiteira: Com Empregado/Empreiteira
+
+Nome Empreiteira:
+
+Nome Acidentado Empreiteira:
+
+Unid.Organizacional:
+
+Função:
+
+Descrição da Lesão:
+
+Dias Perdidos: Tipo Acidente: Natureza: Espécie Acid. Impessoal ­ 10: Fonte Lesão ­ 35: Cond. Ambiental Inseg. ­ 60: Prej. Material ­ 80: Nº Pessoal Condutor:
+
+Dias Debitados: Atividade: Conseqüência Lesão: Tipo Acid. Pessoal ­ 20: Fator Pessoal Inseg. ­ 40: Natureza Lesão ­ 70:
+
+Custo: Tipo Atividade: Função GRIDIS: Agente Acidente ­ 30: Ato Inseguro ­ 50: Localização Lesão ­ 75:
+
+Nome Empregado:
+
+Com Veículos
+
+Nº Veículo:
+
+Zona:
+
+Natureza:
+
+Custo:
+
+Cond. Credenciado:
+
+Ação Condutor:
+
+Nome: Com Prest. Serviços
+
+Idade:
+
+Unid. Organizacional:
+
+Descrição Lesão:
+
+Atividade:
+
+Natureza:
+
+Custo:
+
+Nº Pessoal: Com Estagiários
+
+Nome Estagiário:
+
+Descrição Lesão:
+
+Atividade:
+
+Natureza:
+
+Custo:
+
+Nome
+
+Sexo
+
+Idade
+
+Unid.Organizacional:
+
+Com Terceiros
+
+Agente Causador
+
+Tipo Acidente
+
+Cond. Amb. Inseguro:
+
+Atividade:
+
+Causa:
+
+Lesão:
+
+Nível Tensão:
+
+Natureza:
+
+Custo:
+
+Unid.Organizacional: Sem Vítimas
+
+Área Ocorrência:
+
+Custo:
+
+Material Danificado:
+
+Preparado por:
+
+Nº de Pessoal:
+
+Aprovado por:
+
+Nº de Pessoal:
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+Página 18/19 ­ CT:________________ ­ CRD ou CRCA:
+
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+ANEXO C
+Minuta de Contrato
+
+ANEXO IV
+DOCUMENTOS A SEREM OBRIGATORIAMENTE APRESENTADOS PARA LIBERAÇÃO DOS PAGAMENTOS E INSTRUÇÕES PARA A EMISSÃO DAS NOTAS FISCAIS/FATURAS CONTRATOS QUE TENHAM POR OBJETO A PRESTAÇÃO DE SERVIÇOS NAS INSTALAÇÕES DAS CONTRATANTES, NOS TERMOS DA INSTRUÇÃO NORMATIVA RFB Nº 971, DE 13 DE NOVEMBRO DE 2009. 1. DOCUMENTOS: a. cópia autenticada da guia de arrecadação, devidamente quitada, comprobatória do recolhimento do ISS relativo à nota fiscal anterior, perante o município da prestação do serviço, ou, retenção na fonte, pelas CONTRATANTES, observada a legislação municipal específica; a1. em se tratando de prestação de serviços no município de Belo Horizonte, as CONTRATANTES farão a retenção na fonte, de acordo com a Lei Municipal nº 8.648, de 30/12/2002, devendo ser observado a alínea "a", do item 2 ­ Instruções para Emissão das Notas Fiscais/Faturas; b. cópia autenticada da Guia de Recolhimento ao Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social ­ GFIP, com a respectiva folha de pagamento, e o comprovante de entrega; c. cópia autenticada da guia de recolhimento rescisório do FGTS e informações à previdência Social ­ GRFP, com o comprovante de entrega; d. apólice de seguro contra acidente ( no primeiro faturamento); e. o relatório citado no ANEXO II, devidamente preenchido, havendo ou não acidentes no mês; f. os relatórios citados nos ANEXOS I e III, devidamente preenchido, quando ocorrer acidente grave ou fatal;
+
+2. INSTRUÇÕES PARA EMISSÃO DAS NOTAS FISCAIS/FATURAS a. destacar o ISS nos termos da legislação específica do município da prestação dos serviços no caso de retenção na fonte, pelas CONTRATANTES. b. tratando-se de prestação de serviços no município de Belo Horizonte, destacar o ISS, que será retido e recolhido pelas CONTRATANTES, nos termos da Lei nº 8.648, de 30/12/2002; c. destacar a retenção para a Seguridade Social, nos termos da Instrução Normativa RFB Nº 971, de 13 de novembro de 2009, publicada no DOU de 17 de novembro de 2009; d. tratando-se de prestação de serviços em áreas insalubres e perigosas, deverá ser emitida nota fiscal/fatura específica destacando-se a base de cálculo para aplicação do percentual adicional da retenção relativa aos segurados envolvidos, nos termos da Instrução Normativa RFB Nº 971, de 13 de novembro de 2009, publicada no DOU de 17 de novembro de 2009;
+
+e. indicar o número do contrato e a descrição do evento a que corresponder o pagamento; f.
+a nota fiscal/fatura deve ser apresentada, impreterivelmente, até o dia 25 (vinte e cinco) do mês da execução dos serviços, sob pena de, não o fazendo, o contratado(a) arcar com os ônus decorrentes de multas incidentes pelo não-recolhimento, pelas CONTRATANTES, na data aprazada, da retenção para a Seguridade Social.
+Página 19/19 ­ CT:________________ ­ CRD ou CRCA:
+GERÊNCIA DE CONTRATAÇÃO DE SERVIÇOS E SOLUÇÕES INTEGRADAS ­ MS/CS
+
+Pareceres JR/TA-8271/2007-P -11473/2008 -13111/2009-13003/2009
+Rev.e
+
+ANEXO D
+DECLARAÇÃO
+
+MODELO "A": EMPREGADOR PESSOA JURÍDICA DECLARAÇÃO Ref.: (identificação da licitação)
+
+.............................................., inscrito no CNPJ nº ............., por intermédio de seu representante legal o(a) Sr.(ª)....................., portador(a) da Carteira de Identidade nº .................................. e do CPF nº ....................., DECLARA, para fins do disposto no inciso V do art. 27 da Lei nº 8.666, de 21 de junho de 1993, acrescido pela Lei nº 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega menor de dezesseis anos. Ressalva: emprega menor, a partir de quatorze anos, na condição de aprendiz ( ).
+
+__________________________________________ (data) __________________________________________ (representante legal)
+
+Observação: em caso afirmativo, assinalar a ressalva acima.
+
+MODELO "B": EMPREGADOR PESSOA FÍSICA DECLARAÇÃO
+
+Ref.: (identificação da licitação)
+
+......................................................, portador(a) da Carteira de Identidade nº .................................. e do CPF nº ....................., DECLARA, para fins do disposto no inciso V do art. 27 da Lei nº 8.666, de 21 de junho de 1993, acrescido pela Lei nº 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega menor de dezesseis anos. Ressalva: emprega menor, a partir de quatorze anos, na condição de aprendiz ( ).
+
+___________________________________________ (data) ___________________________________________ (nome) Observação: em caso afirmativo, assinalar a ressalva acima.
+
+Rev.a
+
+Página 1/1
+
+Instrumento redigido conforme Pareceres JR/TA-8271/2007-P de 25/06/2007 e JR/TA-11473/2008 de 26/06/2008
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+PAP PEC ­ ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS DA CEMIG INSCREVER PROPOSTA COMERCIAL
+
+HOME
+1) 2) Acessar o sistema; Pesquisar e identificar o Edital em que deseja inscrever proposta comercial, utilizando uma das seguintes opções, conforme abaixo: a) Na Caixa de Tarefas, expandir a tarefa Apresentar Proposta; i) Clicar sobre o Número do Processo desejado;
+
+ii) Sistema, automaticamente o direcionará para a Aba Proposta, para inscrição da proposta comercial; b) No menu esquerdo do sistema, clicar em Pesquisar Edital; i) Definir os critérios de consulta e clicar em Confirmar;
+
+ii) Identificar o processo e clicar em Visualizar; iii) Clicar em Inscrever Proposta Comercial; Notas: - Caso tenha sido exigido no Edital um Grupo de Mercadoria em que sua empresa não esteja cadastrada na Cemig a tarefa Apresentar Proposta e o botão Inscrever Proposta, ambos detalhados acima, não estarão disponíveis no sistema. Neste caso, regularizar a situação juntamente ao cadastro de fornecedores da Cemig. - Mesmo após a regularização da situação juntamente ao cadastro de fornecedores da Cemig, o sistema continuará não exibindo a tarefa Apresentar Proposta, descrita acima. Neste caso, seguir as seguintes instruções após a regularização das pendências cadastrais: Clicar em Consultar Edital no menu esquerdo do sistema; Pesquisar o Edital utilizando os filtros exibidos; Clicar em Consultar; Clicar na lupa exibida na coluna Visualizar;
+
+Página 1 de 9 Rev.b
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+Clicar na aba Proposta; Clicar no botão Inscrever Proposta Comercial; Seguir as demais instruções a partir do passo 3 deste documento;
+
+PROPOSTA
+3) Para não cotar o lote exibido: a) Clicar no botão Não Cotar Este Lote; 4) Para cotar o Lote exibido: a) Em Valor Unitário, digitar o valor da proposta comercial, em conformidade com o modelo de Carta Proposta, anexo ao Edital (ATENÇÃO: FAVOR REGISTRAR O PREÇO UNITÁRIO, POR PONTO DE FUNÇÃO, PARA O PERÍODO DE 24 MESES); b) Clicar no botão Calcular; c) Conferir o valor no campo Total; d) Clicar em Prosseguir, caso o processo possua somente um lote; e) Clicar em Cotar Próximo Lote, caso o processo possua mais de um lote para cotar; i. A tabela Lotes Cotados exibirá um resumo das opções cadastradas para cada lote (cotado ou não cotado); ii. Caso seja necessário alterar valor de uma proposta registrada ou o status de um lote, utilize o botão Alterar, disponível na tabela Lotes Cotados; 5) Fazer as seguintes declarações no sistema: a) Sua empresa se enquadra no conceito de MICROEMPRESA ou EMPRESA DE PEQUENO PORTE, nos termos da Lei Complementar 123/2006, para efeito de preferência nos processos de licitação pública?; b) A proponente, por intermédio do seu representante legal, responsável por todas as transações efetuadas no sistema, assumindo como firmes e verdadeiras, declara: para fins do disposto no inciso V do art. 27 da Lei nº 8.666, de 21 de junho de 1993, acrescido pela Lei nº 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno,
+
+Página 2 de 9 Rev.b
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+perigoso ou insalubre e não emprega menor de dezesseis anos. Ressalva: emprega menor, a partir de quatorze anos, na condição de aprendiz. para fins do disposto nas Leis n º 9.777, de 30/12/1998, nº 10803,de 11/12/2003 e Lei Complementar nº 75, de 20/05/93, que não adota relação trabalhista caracterizando trabalho forçado ou análogo a trabalho escravo. que concorda com todos os termos e condições que regem esta licitação, bem como atende plenamente todos os requisitos de habilitação e demais condições exigidas neste Edital. c) Selecionar Sim / Não e clicar em Prosseguir; 6) Caso no Edital o Pregoeiro não tenha exigido o upload de Documentos Técnicos e / ou Documentos de Habilitação, pule para o passo 8; 7) Caso no Edital o Pregoeiro tenha exigido o upload de Documentos Técnicos e / ou Documentos de Habilitação, seguir os seguintes passos: a) Em Título do Documento, digitar o título do documento; b) Em Tipo de Documento, selecionar: i. Documento Técnico para documentos que serão disponibilizados para visualização do pregoeiro somente durante o exame de conformidade; ii. Documentos Habilitação para documentos que serão disponibilizados para visualização do pregoeiro somente durante a fase de habilitação; NOTA: A Administração não se responsabiliza por documentos anexados com tipo errado, podendo o proponente ser desclassificado por este motivo; iii. iv. v. vi. vii. Em Arquivo, clicar em Procurar para localizar o documento a ser anexado; Após localizá-lo, clicar em Abrir; Clicar em Upload; Conferir os documentos anexados na tabela Visualizar Documentos; Clicar em Prosseguir;
+
+Nota: Somente serão aceitos arquivos eletrônicos com as extensões indicadas no portal de compras. Arquivos compactados (extensão .zip) podem ser enviados, desde que inseridos neles não haja arquivos cuja
+
+Página 3 de 9 Rev.b
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+extensão não seja permitida pelo sistema. Qualquer documento anexado que não tenha sido solicitado neste edital será desconsiderado. 8) O sistema exibirá a mensagem: "Esta é a última tela de preenchimento da proposta. Deseja realmente finalizá-la?"; a) Clicar em Sim / Não. i) Quando clicado em Não, sistema não registrará a proposta até o proponente conhecer e comprovar que atenda a todas as exigências de habilitação previstas no Edital. ii) Quando clicado em Sim, sistema exibirá a seguinte mensagem: "Proposta Finalizada com sucesso!" 9) Na Aba Proposta, as seguintes informações / funcionalidades poderão ser visualizadas / utilizadas: a) Botão Requisitos Exigidos: Requisitos necessários para os grupos do edital; b) Situação Cadastral: Situação cadastral do Proponente na Cemig; c) Histórico: Histórico detalhado do cadastramento da proposta comercial do Proponente; d) Excluir: Botão que permite a exclusão da proposta comercial registrada pelo Proponente; e) Campo Informações do Processo: Dados gerais do processo de licitação; f) Campo Etapa de Registro de Proposta: Resumo dos lotes cotados e não cotados, com os respectivos valores atualizados; g) Campo Etapa de Registro das Condições da Proposta: Condição cadastrada, informando se a empresa enquadra-se no conceito de MICROEMPRESA ou EMPRESA DE PEQUENO PORTE, nos termos da Lei Complementar 123/2006; h) Campo Etapa de Upload de Documentos: Permite visualizar os documentos anexados; 10) Após a conclusão do registro de uma proposta comercial, sua alteração, seja nos valores, condições ou documentos anexados, não é permitida. Caso seja necessário, esta deverá ser excluída e recadastrada. a) Caso seja necessário excluir uma proposta, siga os seguintes passos: i) Na Aba Proposta, clicar em Excluir;
+
+ii) O sistema exibirá a mensagem: "Confirma a exclusão da Proposta?"; iii) Clicar em Sim;
+
+Página 4 de 9 Rev.b
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+iv) O sistema exibirá a mensagem: "Proposta excluída com sucesso!"; v) Clicar em Ok; vi) Para reinscrevê-la, se for o caso, repita os passos 2 a 8;
+
+ACOMPANHAR A SESSÃO PÚBLICA
+
+HOME
+11) Caso tenha acessado o sistema ANTES da efetiva abertura da sessão pública pelo Pregoeiro, pesquisar e identificar o Edital em que deseja acompanhar até a etapa de lances, utilizando uma das seguintes opções: a) Após vencida a Data Limite Apres. Propostas, o sistema exibirá a tarefa Aguardar a Abertura Sessão Pública na Caixa de Tarefas; i) Expandir a tarefa e clicar sobre o Número do Processo desejado;
+
+ii) Após a abertura da sessão pública, sistema automaticamente o direcionará para a Aba Conformidade; b) No menu esquerdo do sistema, clicar em Pesquisar Edital; i) Definir os critérios de consulta e clicar em Confirmar;
+
+ii) Identificar o processo e clicar em Visualizar; iii) Após a abertura da sessão pública, sistema automaticamente o direcionará para a Aba Conformidade; 12) Caso tenha acessado o sistema APÓS a efetiva abertura da sessão pública pelo Pregoeiro, pesquisar e identificar o Edital em que deseja acompanhar até a etapa de lances, utilizando uma das seguintes opções: a) Expandir as tarefas disponíveis na Caixa de Tarefas, visando identificar a tarefa em que o pregão eletrônico se encontra; i) Após localizá-lo, clicar sobre o Número do Processo desejado;
+
+ii) Sistema, automaticamente o direcionará para fase atual do processo; b) No menu esquerdo do sistema, clicar em Pesquisar Edital; i) Definir os critérios de consulta e clicar em Confirmar;
+
+Página 5 de 9 Rev.b
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+ii) Identificar o processo e clicar em Visualizar; iii) Clicar na última Aba disponível (fase atual do processo); 13) Após logado no sistema e localizado na tela do Pregão Eletrônico em que esteja participando, sempre que ocorrer o início de uma nova fase, o sistema, automaticamente, atualizará sua tela; 14) Todas as operações realizadas pelo Pregoeiro serão registradas no chat. Você saberá em qual fase encontrase o pregão e, no momento da abertura da fase de lances, você visualizará a mensagem de que a fase foi aberta; 15) Caso seja necessário trocar informações on-line com o Pregoeiro, utilize o chat; a) Digitar a mensagem no campo texto; b) Clicar no botão Enviar; c) Mensagem será automaticamente gravada no chat;
+
+CONFORMIDADE
+16) Acompanhar no chat as mensagens do sistema e do Pregoeiro;
+
+LANCES
+17) Automaticamente, após o comando do Pregoeiro para abrir a etapa de lances, sistema disponibilizará campo específico para que estes possam ser registrados; a) Em Valor Unitário, digitar o valor do lance, em conformidade com o modelo de Carta Proposta, anexo ao Edital (ATENÇÃO: FAVOR REGISTRAR O PREÇO UNITÁRIO, POR PONTO DE FUNÇÃO, PARA O PERÍODO DE 24 MESES); b) Clicar no botão Calcular; c) Conferir o valor no campo Valor Total; d) Clicar em Enviar Lance; e) O sistema exibirá a mensagem: "Melhor lance aceito: R$ _________"; f) Clicar em Ok; g) Repetir a operação quantas vezes forem necessárias.
+Página 6 de 9 Rev.b
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+Nota: Não será aceito em hipótese nenhuma, tanto na fase de lances como no tempo randômico, o envio de lances pelo campo de mensagens do sistema (chat). 18) Automaticamente após o comando do Pregoeiro para fechar a etapa de lances, sistema inibirá o campo, impedindo que novos lances sejam registrados; 19) Após o início do tempo randômico pelo Pregoeiro, repetir o passo 17 para registrar novos lances;
+
+NEGOCIAÇÃO
+20) Acompanhar no chat a convocação do Pregoeiro para negociação; 21) Caso sua empresa seja convocada, sistema disponibilizará campo específico para que nova proposta seja registrada; 22) Para registrar uma nova proposta, repetir o passo 17; 23) Após o encerramento da etapa de negociação, clicar na Aba Habilitação;
+
+HABILITAÇÃO
+24) Acompanhar no chat as mensagens do sistema e do Pregoeiro;
+
+VENCEDOR
+25) Acompanhar no chat as mensagens do sistema e do Pregoeiro;
+
+RECURSO
+26) Automaticamente, após o comando do Pregoeiro para iniciar o prazo recursal, sistema exibirá pop-up para o proponente, com as seguintes opções: a) Clicar em Desistir; b) Digitar o texto do recurso e clicar em Enviar;
+
+Página 7 de 9 Rev.b
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+i)
+
+O sistema exibirá a mensagem: "Razões do recurso interpostas com sucesso. Aguardar término do prazo recursal para que elas sejam exibidas no chat";
+
+27) Atente-se para as seguintes informações durante o prazo recursal: a) Caso o windows esteja bloqueando pop-up, opção acima não será exibida. Neste caso, para
+interpor recurso, você deverá clicar no botão Enviar Recurso.
+
+b) O prazo para interpor as razões para recurso é de 10 minutos; c) Durante o prazo recursal, o chat é fechado para o Pregoeiro e para os proponentes; d) Caso todos os proponentes registrem no sistema que não desejam interpor razões para recurso por meio do botão Desistir, este será encerrado automaticamente pelo sistema, sem ser necessário aguardar o prazo de 10 minutos; e) O Pregoeiro poderá acatar ou não as razões interpostas para recurso, sendo que qualquer decisão será registrada no chat;
+
+ADJUDICAÇÃO
+28) Acompanhar no chat as mensagens do sistema e do Pregoeiro; 29) Após a adjudicação, o Pregoeiro encerrará a sessão do pregão.
+
+Outras Funcionalidades:
+ Em qualquer momento durante a execução da sessão pública, o Pregoeiro pode: Reabrir uma Fase:  A razão será registrada no chat e, após o comando do Pregoeiro, automaticamente, o sistema o direcionará para a fase reaberta; Paralisar / Continuar Lotes:  Quando um processo possuir mais de um lote, o sistema permitirá que os lotes estejam em fases diferentes. Caso esta funcionalidade seja utilizada, automaticamente, o sistema o direcionará para aba ativa. Suspender e retomar a sessão:
+Página 8 de 9 Rev.b
+
+ANEXO E
+ROTEIRO DE UTILIZAÇÃO DO PORTAL DE COMPRAS
+
+ Caso tenha acessado o sistema ANTES da efetiva retomada da sessão pública pelo Pregoeiro, pesquisar e identificar o Edital em que deseja participar, utilizando uma das seguintes opções: 1. Acessar o processo utilizando a tarefa Aguardar Retomada da Sessão; a) b) Expandir a tarefa e clicar sobre o Número do Processo desejado; Clicar na última aba exibida à direita (representa a fase em que o processo foi suspenso) e acompanhar a retomada da sessão pelo Pregoeiro no chat; 2. No menu esquerdo do sistema, clicar em Pesquisar Edital; a) b) c) Definir os critérios de consulta e clicar em Confirmar; Identificar o processo e clicar em Visualizar; Clicar na última aba exibida à direita (representa a fase em que o processo foi suspenso) e acompanhar a retomada da sessão pelo Pregoeiro no chat;  Caso tenha acessado no sistema APÓS a efetiva abertura retomada da sessão pública pelo Pregoeiro, pesquisar e identificar o Edital em que deseja participar, utilizando uma das seguintes opções: 1. Expandir as tarefas disponíveis na Caixa de Tarefas, visando identificar a tarefa em que o pregão eletrônico se encontra; a) b) 2. Após localizá-lo, clicar sobre o Número do Processo desejado; Sistema, automaticamente o direcionará para fase atual do processo;
+
+No menu esquerdo do sistema, clicar em Pesquisar Edital; a) b)
+c)
+
+Definir os critérios de consulta e clicar em Confirmar; Identificar o processo e clicar em Visualizar; Clicar na última aba exibida à direita (representa a fase em que o processo foi suspenso).
+
+
+
+Para uma melhor compreensão das funcionalidades do novo Portal de Compras da Cemig, acesse o link http://sa-corp-intra3/PEC/ExibeAvisoPortal.aspx?Codigo=1 e visualize os filmes de demonstração de utilização do sistema.
+
+Página 9 de 9 Rev.b
+
+ANEXO F
+Termo de Referência
+
+CEMIG DISTRIBUIÇÃO S.A. ­ CEMIG D CEMIG GERAÇÃO E TRANSMISSÃO S.A ­ CEMIG GT
+
+TERMO DE REFERÊNCIA
+
+PROCESSO: PREGÃO ELETRÔNICO MS/CS 500-H01792
+
+FINALIDADE: Contratação de 10.000 (dez mil) pontos de função, podendo chegar a 20.000 (vinte mil) pontos de função, para execução dos serviços de manutenção e desenvolvimento de softwares.
+
+CRITÉRIO DE CLASSIFICAÇÃO: O critério de classificação das propostas será o atendimento a todos os requisitos técnicos e comerciais estabelecidos neste Edital, incluindo seus Anexos.
+
+CRITÉRIO DE JULGAMENTO: O critério de aceitação das propostas será pelo menor preço unitário por ponto de função equalizado, considerando os preços praticados no mercado, em conformidade com as especificações do objeto acima relacionado.
+
+PRAZO DE EXECUÇÃO: Conforme estabelecido na Cláusula Quarta da Minuta de Contrato - ANEXO C do Edital.
+
+METODOLOGIA DE EXECUÇÃO DO SERVIÇO: Os serviços serão executados de acordo com a especificação constante do edital.
+
+Belo Horizonte, 17 de janeiro de 2011. Francisco José Moreira Couto - 047297 - MS/CS ­ Pregoeiro
+
+ORIGINAL ASSINADO POR
+
+De acordo:
+
+________________________________ Ivanilson Alencar Maciel
+
+Rev.a
+
+Página 1/1 Pareceres: JR/TA 8271/2007, 11473/2008, 12556/2009P e 12823/2009
+
+DECLARAÇÃO DE PRINCÍPIOS ÉTICOS E CÓDIGO DE CONDUTA PROFISSIONAL - ANEXO V
+
+CLASSIFICAÇÃO: RESERVADO, ATÉ A PUBLICAÇÃO DO EDITAL PÚBLICO, APÓS A PUBLICAÇÃO DO EDITAL
+
+SUMÁRIO 1) 2) 3) Introdução Objetivos e Aplicação Nossa Declaração de Princípios Éticos e Nossas Responsabilidades: PRINCÍPIO Nº 1: Compromisso com a Saúde e Segurança PRINCÍPIO Nº 2: Compromisso com o Cliente PRINCÍPIO Nº 3: Cumprimento da Lei e Compromisso com as Melhores Práticas de Governança PRINCÍPIO Nº 4: Integridade Profissional PRINCÍPIO Nº 5: Meio Ambiente e Responsabilidade Social PRINCÍPIO Nº 6: Obediência a Normas e Instruções Internas PRINCÍPIO Nº 7: Preservação da Imagem Institucional e da Marca Cemig PRINCÍPIO Nº 8: Proteção do Patrimônio PRINCÍPIO Nº 9: Relacionamento com a Sociedade e com a Imprensa PRINCÍPIO Nº 10: Relacionamento com Fornecedores e Contratados PRINCÍPIO Nº 11: Utilização Adequada de Informações e dos Recursos e Meios de Informática Glossário PRINCÍPIO Nº 1: COMPROMISSO COM A SAÚDE E SEGURANÇA A Cemig prioriza a saúde e segurança do pessoal próprio, de prestadores de serviço, de empreiteiros e de terceiros. Em suas atividades procura estar alinhada com a prevenção de acidentes e incidentes, através do desenvolvimento de técnicas e da implantação de sistemas que assegurem a efetividade de suas ações. O QUE É: A Cemig considera como fundamental a adoção e a manutenção de boas práticas de segurança do trabalho, de forma a assegurar a integridade e a saúde de empregados, empreiteiros, contratados e de terceiros. As ações de prevenção de acidentes e promoção da saúde fazem parte de suas metas institucionais. Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: incorporar em nossas atividades diárias a necessidade de qualidade nas condições de trabalho, de saúde e segurança; obedecer à legislação relativa à saúde e à segurança do trabalho, aos princípios da Política de Segurança do Trabalho da Cemig e às normas internas; disponibilizar e exigir o uso adequado dos equipamentos de proteção individuais e coletivos; acompanhar e fiscalizar o cumprimento das regras em relação aos trabalhadores sob regime de mão-de-obra temporária e as contratações externas, que envolvam responsabilidades solidárias para a Cemig. buscar soluções para as situações que possam representar riscos à segurança de terceiros. Não devemos: ser omissos quanto a quaisquer aspectos que digam respeito à segurança do trabalho; aceitar a execução de qualquer atividade em condição de falta de segurança; se pressionados, deveremos recorrer às nossas gerências. Responsabilidades adicionais dos gerentes: buscar assegurar um ambiente em que o empregado possa exercer os direitos estabelecidos pela Política de Segurança do Trabalho; contribuir para o desenvolvimento contínuo das práticas seguras para cada tarefa. 3 NOSSA DECLARAÇÃO RESPONSABILIDADES DE PRINCÍPIOS ÉTICOS E NOSSAS
+
+possibilitar atendimento com segurança, conforto e economia, através de uma estrutura adequada e satisfatória; oferecer orientações à conservação de energia como critério para a prestação de um serviço responsável; incentivar a inovação tecnológica e assegurar a utilização das tecnologias mais adequadas aos processos da Cemig, visando maior competitividade e a otimização dos resultados operacionais. PRINCÍPIO Nº 3: CUMPRIMENTO DA LEI E COMPROMISSO COM AS MELHORES PRÁTICAS DE GOVERNANÇA A Cemig conduz seus negócios e atividades de forma a agregar valor a seus investimentos e à Empresa, mantendo uma atuação coerente com a lei. Considera os requisitos da boa governança corporativa e prioriza uma relação de confiança, integridade e respeito com acionistas, investidores, clientes, empregados, fornecedores, sociedade e Governo. Na elaboração de seus relatórios prevalecem a clareza, a fidelidade, a objetividade e a pontualidade das informações. O QUE É: A Cemig trabalha no sentido de garantir ganhos econômico-financeiros e de imagem, cumprindo sua função empresarial e social. Estabelece como premissa na realização de suas atividades o cumprimento das leis aplicáveis aos seus negócios e procedimentos. Estamos comprometidos com a adoção das práticas de Governança Corporativa e com a legislação do mercado de capitais nacional e internacional. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: respeitar as leis e outros atos normativos aplicáveis aos negócios e procedimentos da Empresa (*); cumprir as normas instituídas pelos órgãos de regulação dos valores mobiliários, tanto no plano nacional como no internacional; manter o controle das informações financeiras de forma a assegurar a sua veracidade e a qualidade; agir com transparência, independência, eqüidade, e responsabilidade nas relações com acionistas, investidores, auditores, clientes e analistas de mercado, sobretudo no fornecimento de informações, que devem primar pela qualidade, veracidade, periodicidade e pontualidade; disponibilizar as informações relevantes sobre a Cemig através de divulgação ampla e irrestrita, afastando a possibilidade de informação privilegiada. Não devemos: contribuir para, ou facilitar a divulgação ou o repasse a terceiros de informação confidencial ou privilegiada, ainda não divulgada ao mercado.
+
+4)
+
+1 INTRODUÇÃO Aos Empregados, Gerentes, Diretores e membros dos Conselhos de Administração e Fiscal da Cemig: Mais de 50 anos nos separam da criação da Cemig pelo então Governador, e mais tarde Presidente do Brasil, Juscelino Kubitschek de Oliveira. Concebida inicialmente para impulsionar o progresso do Estado de Minas Gerais, a trajetória da Cemig foi marcada por um esforço contínuo no sentido de prover energia de qualidade e compatível com as necessidades da sociedade. Qualidade de serviços e produtos, responsabilidade social, e rentabilidade na gestão dos negócios da empresa, têm sido as premissas da Cemig, agora com mais de 5 milhões de consumidores e gerenciando usinas, linhas de transmissão, redes de distribuição de energia elétrica, empresas de gás e de infovias. "Nossos Princípios Éticos e Nossas Responsabilidades" representam a tradução da cultura Cemig, forjada na atuação de nossos empregados, gerentes e administradores, e estão alinhados com a forma como conduzimos nossos negócios, frente aos inúmeros desafios de um mercado cada vez mais exigente e competitivo. Os Nossos Princípios Éticos devem orientar nossas decisões e escolhas, em todos os locais em que está presente a Cemig. As Nossas Responsabilidades apresentam as regras para a nossa atuação, orientandonos em relação a como devemos nos comportar frente às situações do dia a dia. A Cemig espera que todos nós continuemos a manter e a zelar pela tradição de empresa integra e solidária que tem marcado a nossa história, e a cumprir nossa missão de atuar no setor de energia com rentabilidade, qualidade e responsabilidade social. Conselho de Administração da Cemig
+
+PRINCÍPIO Nº 2: COMPROMISSO COM O CLIENTE Queremos ser permanentemente reconhecidos pela excelência na prestação de serviços e no relacionamento com os clientes. Temos como princípio oferecer uma energia confiável e a um custo compatível com as necessidades de nossa sociedade. A fidelidade da informação no atendimento aos nossos clientes é também uma premissa na nossa atividade. O QUE É: A Cemig busca sempre um relacionamento respeitoso e cortês com o cliente, procurando que os custos de seus serviços venham representar valores compatíveis com a oferta de uma energia voltada para o desenvolvimento e para o crescimento do mercado. Prima pela qualidade na execução de suas atividades, assegurada por investimentos técnicos e econômicos, pela capacitação de empregados e pelo uso de tecnologias apropriadas. Nossos empregados são motivados no sentido de buscarem a melhoria do padrão de qualidade de nossos serviços. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: buscar continuamente a melhoria da qualidade de nossos serviços; assegurar exatidão, transparência e objetividade na prestação de informações aos nossos clientes; atender com deferência, adotando as melhores práticas no relacionamento com o cliente; agir proativamente no atendimento às necessidades dos clientes e na busca de soluções para as questões apresentadas por eles;
+
+Responsabilidades adicionais dos administradores: assegurar a formulação e a aplicação de procedimentos necessários para o atendimento pela Empresa das melhores práticas de governança corporativa, com ênfase para a observância das normas e legislação referente à Comissão de Valores Imobiliários - CVM e outras instituições que regulam o mercado de capitais naqueles países onde a Cemig tenha suas ações listadas. Responsabilidades adicionais dos administradores e membros do Conselho Fiscal: atuar com independência e lealdade em relação à Cemig, não permitindo que interesses distintos possam possibilitar o favorecimento a terceiros, o mau uso dos ativos ou abusos em transações envolvendo a empresa; caso seja identificado conflito de interesses, a pessoa envolvida deve afastar-se das discussões e deliberações. (*) Obs.: atenção para o Decreto Estadual Nº 43.673, de 04/12/2003, que institui o Código de Ética do Estado de Minas Gerais. PRINCÍPIO Nº 4: INTEGRIDADE PROFISSIONAL A Cemig reconhece e valoriza a conduta profissional pautada pelo comprometimento comas atividades da Empresa e pela integridade ao agir com o colega de trabalho, parceiros, clientes e com a sociedade em geral. Respeita os seus empregados, contratados e prestadores de serviço, e espera que cada um discipline suas ações com base na lei, se oriente pela verdade no desempenho de suas atribuições e defenda como compromisso profissional e moral, os interesses da Empresa e da sociedade.
+
+2 OBJETIVOS E APLICAÇÃO Os objetivos desta Declaração de Princípios Éticos e Código de Conduta Profissional da Cemig são: orientar e disciplinar a atuação de empregados, gerentes, administradores (membros do Conselho de Administração e Diretores) e membros do Conselho Fiscal da Cemig; servir de referência para a verificação de conformidade em relação ao cumprimento deste Código; orientar o Comitê de Ética da Cemig na avaliação e deliberação sobre possíveis descumprimentos e em relação à necessidade de revisões deste Código. Este Código aplica-se aos empregados, gerentes, administradores (Conselho de Administração e Diretoria Executiva), e membros do Conselho Fiscal da Cemig e de suas controladas e subsidiárias integrais. Poderá se aplicar, também, a contratados e prestadores de serviço naqueles casos em que seja definida esta obrigação em contrato.
+
+_____________________________________________________________________________________________________
+Página 1 de 3
+
+DECLARAÇÃO DE PRINCÍPIOS ÉTICOS E CÓDIGO DE CONDUTA PROFISSIONAL - ANEXO V
+
+CLASSIFICAÇÃO: RESERVADO, ATÉ A PUBLICAÇÃO DO EDITAL PÚBLICO, APÓS A PUBLICAÇÃO DO EDITAL
+
+O QUE É: Consideramos como Integridade Profissional do empregado a competência no trabalho, a valorização da transparência e do respeito em seus relacionamentos e a capacidade de conciliar os objetivos e interesses pessoais e profissionais com os da Cemig. Nossos resultados dependem ainda da conduta prudente e responsável de cada um no que se refere aos assuntos sigilosos da Empresa. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: executar as atividades de nossa competência buscando sempre resguardar os interesses da Cemig; colaborar para que as relações de trabalho se pautem pela cortesia, cooperação e respeito, fomentando o espírito de equipe e um ambiente de trabalho produtivo e saudável; valorizar a diversidade e não permitir qualquer forma de discriminação com base em raça, sexo, cor, aparência, nacionalidade, religião, idade, condições física e mental, estado civil, ideologia política, condição de veterano ou novato; colaborar para que a competição interna seja focada no desenvolvimento técnico profissional e na melhoria constante dos resultados empresariais; exercer a função de representação somente mediante delegação; contribuir para que a comunicação interna e o relacionamento empresa-empregado sejam pautados pela transparência e pela verdade, de forma a criar um canal de aproximação e integração entre as pessoas e entre a empresa e seus empregados. levar ao conhecimento do superior imediato fatos que possam configurar conflitos de interesses entre nossa função na empresa e outras atividades externas à Cemig. Não devemos: · permitir situações ou exercer atividades que possam conflitar com a nossa função, contrariar os interesses da Empresa, colocar sob suspeita a conduta de nossos empregados ou denegrir a imagem da Cemig; · participar, direta ou indiretamente, de qualquer forma de assédio moral ou sexual; · incentivar ou participar da disseminação de inverdades ou de ações que busquem criar a desconfiança entre os empregados da empresa; · receber presentes ou favores capazes de influenciar uma decisão empresarial ou comercial, a não ser que se trate de mera cortesia ou brindes sem valor comercial (*). Responsabilidades adicionais dos gerentes: · promover o treinamento e o desenvolvimento profissional dos empregados da Cemig, favorecendo o equilíbrio entre sua vida pessoal e profissional. (*) Obs.: o Decreto Estadual Nº 43.673, de 04/12/2003, que institui o Código de Ética do Estado de Minas Gerais, estabelece em seu artigo 18 que é vedada a aceitação de presentes, benefícios ou vantagens, não se considerando presentes os brindes que: não tenham valor comercial; os distribuídos a título de cortesia, propaganda, divulgação habitual ou por ocasião de eventos especiais ou datas comemorativas, com valor inferior a um salário mínimo.
+
+· agir com prontidão e comprometimento na prevenção ou minimização de danos ambientais que sejam previsíveis em nossa atividade. Em relação à Responsabilidade Social, devemos: · considerar, na elaboração de nossos programas e projetos, as diretrizes de responsabilidade social da Cemig e as possibilidades de contribuir para a melhoria da qualidade de vida nas comunidades onde a Empresa está inserida; · colaborar para a formação de um ambiente que favoreça a criação de uma consciência de cidadania das pessoas. Responsabilidades adicionais dos gerentes: · administrar os impactos e riscos ambientais pro venientes de atividades cuja execução esteja sob sua responsabilidade direta ou de terceiros contratados; · orientar e estimular a adoção das boas práticas de responsabilidade social. PRINCÍPIO Nº 6: OBEDIÊNCIA A NORMAS E INSTRUÇÕES INTERNAS A Cemig tem como instrumentos de controle, normas e instruções internas que estabelecem os critérios para execução de suas atividades e rotinas e que são atualizadas em face de mudanças da legislação e das necessidades da Empresa. Garantimos o alcance dos objetivos da Cemig através do cumprimento dessas regras organizacionais que favorecem a uniformização da conduta corporativa. O QUE É: A dispersão e a dimensão geográfica das nossas instalações e a multiplicidade de aspectos que integram o universo operacional da Cemig impõem a necessidade de uma base normativa e disciplinar continuamente atualizada. O conjunto normativo da Cemig abrange diretrizes, normas, instruções e circulares, que estabelecem, modificam ou regulamentam processos e rotinas da Empresa. As normas e instruções destinam-se a sistematizar, uniformizar e comunicar assuntos de planejamento, projeto, normalização, construção, operação e manutenção relacionados com as atividades da Cemig. As circulares destinam-se a dar conhecimento sobre deliberações, resoluções, ordens gerais, recomendações e outros comunicados internos. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: · conhecer e agir de acordo com as normas, instruções e circulares estabelecidas e disponibilizadas pela Empresa; · colaborar para o aperfeiçoamento das normas e instruções existentes, sugerindo melhorias aos responsáveis pela sua elaboração; · zelar pela correta aplicação das normas e instruções da Empresa. Não devemos: · desvirtuar o conteúdo das normas e instruções com interpretações pessoais. PRINCÍPIO Nº 7: PRESERVAÇÃO DA IMAGEM INSTITUCIONAL E DA MARCA "CEMIG" A imagem da Cemig é um patrimônio intangível de valor imensurável, construído ao longo de uma existência. Esse valor é transferido à marca "Cemig", que merece os mesmos cuidados dispensados à Imagem, já que onde está a marca "Cemig" está a Empresa "Cemig". Nossa propriedade intelectual representa também um bem a ser protegido e valorizado. O QUE É: A marca Cemig traduz a força de sustentabilidade da nossa Empresa. A Identidade Visual e a Imagem da Cemig têm valor estratégico e econômico porque traduzem qualidade técnica e uma cultura pautada por coerência, dinamismo e pelo esforço conjunto e direcionada na Empresa. A Cemig protege sua propriedade intelectual (propriedade industrial e direito autoral) e controla o uso de sua imagem. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: · zelar pela Marca, Imagem e Identidade Visual da Cemig em qualquer manifestação da Empresa e nas campanhas publicitárias, mantendo as suas características originais, ainda que estas possuam marcas específicas; · exercer os direitos legais para registro da propriedade intelectual da Empresa, observando os procedimentos para proteção de invenções, processos e inovações.
+
+Não devemos: · permitir o uso de ícones ou símbolos que interfiram na correta aplicação da marca "Cemig", quando da divulgação de eventos, programas, projetos ou nomenclaturas das unidades administrativas. PRINCÍPIO Nº 8: PROTEÇÃO DO PATRIMÔNIO A Cemig zela permanentemente pelo seu patrimônio, que é também patrimônio de seus acionistas e da própria sociedade mineira e brasileira. A Empresa disciplina a utilização de recursos e bens através de instruções internas para o seu adequado planejamento e controle, compatibilizando disponibilidade, custo, qualidade e racionalidade. O QUE É: Para a proteção do seu conjunto de bens e recursos, a Cemig institui normas e instruções onde são definidas as responsabilidades em relação aos ativos, recursos e meios da Empresa. As instalações incluem escritórios, depósitos, almoxarifados, usinas, subestações, linhas de transmissão, redes de distribuição de energia, telecomunicações e gasodutos, e necessitam de cuidados e manutenções de forma a assegurar sua integridade, seu uso adequado na operação e seu valor como patrimônio da Empresa. Os materiais, equipamentos, veículos e demais bens da Cemig devem ser tratados de forma controlada, responsável e racional, de forma a evitar perdas ou sua má utilização, redundando em prejuízos para a Empresa. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: · zelar pela integridade das instalações, materiais, equipamentos, veículos e outros bens e recursos da empresa; · buscar utilizar os recursos disponibilizados pela Cemig para o desempenho de nossas funções, observando as instruções da Empresa; · assegurar que a requisição e a utilização de materiais seja feita de forma racional e econômica, através de planejamento e controle eficientes; · buscar a otimização e a redução dos custos em relação ao uso de equipamentos, peças, materiais, serviços, telefones, copiadoras, veículos e outros bens e recursos da Empresa; · assegurar a utilização de equipamentos e recursos com qualidade compatível com as nossas atividades. Não devemos: · permitir que os recursos e bens da Empresa sejam utilizados de forma a causar prejuízos à Cemig ou à sua imagem. PRINCÍPIO Nº 9: RELACIONAMENTO COM A SOCIEDADE E COM A IMPRENSA Nossa comunicação com a Sociedade e com a Imprensa é regida pela informação responsável, clara e oportuna, que preserva a confiança do nosso cliente e do público em geral. Buscamos aperfeiçoar nossa comunicação com o propósito de evitar interpretações errôneas ou parciais que possam prejudicar a Imagem da Empresa. O QUE É: A presença freqüente da Cemig ou de seus produtos e serviços na mídia, não apenas por meio de anúncios, mas também de notícias, faz dela uma formadora de opinião, o que aumenta nossa responsabilidade pela qualidade da informação e justifica os investimentos que a Empresa faz nos seus instrumentos de comunicação e divulgação. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: · zelar pela veracidade das informações como pressuposto básico da nossa comunicação; · repassar informações à sociedade e à imprensa quando devidamente autorizados (no caso dos empregados, pelo órgão responsável pela Comunicação Empresarial da Cemig). Não devemos: · divulgar ou comentar informações estratégicas ou de caráter sigiloso ou restrito, exceto com autorização específica. PRINCÍPIO Nº 10: RELACIONAMENTO COM FORNECEDORES E CONTRATADOS A Cemig é compradora de materiais e serviços em larga escala e se apóia na sua experiência para a realização de aquisições e para a avaliação técnica de fornecedores
+
+PRINCÍPIO Nº 5: MEIO AMBIENTE E RESPONSABILIDADE SOCIAL A Cemig reconhece e enfatiza a proteção do meio ambiente em todos os seus processos e instalações. Além disso, apóia a ação responsável em relação à melhoria da qualidade devida dos diversos públicos com que se relaciona. O QUE É: A Cemig considera no seu planejamento e na realização de suas atividades a necessidade de proteger o meio ambiente, de colaborar para o desenvolvimento social das populações nos locais onde atua, e de atuar no sentido a manter relações de respeito e de cooperação com seus consumidores, com a comunidade, fornecedores, Governos e outras partes envolvidas em suas atividades. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: Em relação ao Meio Ambiente: · agir em conformidade com a legislação e com a Política Ambiental da Cemig e cumprir os procedimentos ambientais internos;
+
+_____________________________________________________________________________________________________
+Página 2 de 3
+
+DECLARAÇÃO DE PRINCÍPIOS ÉTICOS E CÓDIGO DE CONDUTA PROFISSIONAL - ANEXO V
+
+CLASSIFICAÇÃO: RESERVADO, ATÉ A PUBLICAÇÃO DO EDITAL PÚBLICO, APÓS A PUBLICAÇÃO DO EDITAL
+
+nos mercados nacional e internacional. Em suas relações com Fornecedores e Contratados, orienta-se pelos princípios básicos da licitação pública. O QUE É: As aquisições de bens e serviços, bem como a habilitação de fornecedores, são feitas pela Cemig conforme determina a Lei Federal nº 8.666/93 e suas normas internas. Procedimentos corporativos garantem a eqüidade no tratamento com os fornecedores, estabelecendo requisitos para habilitação jurídica, comprovação de regularidade fiscal, qualificação técnica e econômico-financeira. A Cemig investe permanentemente na qualificação dos seus profissionais e no estabelecimento de normas técnicas para a adequada execução de seus processos de aquisição e contratação de bens e serviços. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: · pautar-nos por relações comerciais transparentes através da objetividade das informações e clareza nas especificações técnicas; · assegurar os interesses da Empresa através de criterioso acompanhamento dos contratos e avaliação de desempenho; · zelar pelo relacionamento essencialmente profissional entre co ntratados, fornecedores e empregados, conforme dispositivos legais e instruções internas específicas; · agir com idoneidade na execução de vistoria técnica para medição e correta execução dos trabalhos, corrigindo falhas ou defeitos porventura existentes; · agir com rigor no controle, acompanhamento e pagamento de contratos, bem como no acompanhamento de fabricação e testes de equipamentos e na fiscalização de projetos e obras. Não devemos: · permitir tratamento que possa comprometer isenção e integridade nas relações comerciais entre a Cemig e fornecedores ou contratados. PRINCÍPIO Nº 11: UTILIZAÇÃO ADEQUADA DE INFORMAÇÕES E DOS RECURSOS E MEIOS DE INFORMÁTICA Para a Cemig a informação é um bem valioso, que deve ser utilizado, gerenciado e protegido adequadamente. Integram também esse patrimônio da Empresa todos os conhecimentos técnicos e tecnológicos (publicações, relatórios, projetos, especificações de obras e outros itens) que garantem a qualidade Cemig. A tecnologia afeta o valor das atividades da Empresa e permite que ela conquiste uma vantagem competitiva através da exploração segura e eficiente dos seus recursos e meios de informática. O QUE É: As informações privativas da Cemig constituem um diferencial competitivo visando à obtenção de bons resultados empresariais e a criação de novas oportunidades de negócios. Reconhecemos a necessidade de tratar essas informações com o cuidado necessário a fim de preservar o seu valor para a Empresa e evitar prejuízos devido a sua divulgação inoportuna, perda ou alteração indevida. Estamos cientes que a utilização dos recursos e meios de informática é fundamental para a boa execução de nossas atividades, o que nos obriga a adotar uma série de medidas e controles destinados a garantir que os objetivos de segurança da informação sejam atendidos. NOSSAS RESPONSABILIDADES: Como empregados, gerentes, administradores, e membros do Conselho Fiscal da Cemig, devemos: · manter a confidencialidade das informações privativas da Cemig, de divulgação não autorizada, nas áreas comercial, técnica, jurídica, de finanças, estratégicas, de tecnologia, processos, contratos, planos de marketing ou de investimentos, programas de computador, preços e especificações de fornecedores, dados cadastrais de clientes, empregados e fornecedores, e outras; · obter a prévia autorização dos órgãos competentes da Empresa na cessão de documentos técnicos, de caráter estratégico e trabalhos ainda não divulgados externamente, agindo com responsabilidade e em defesa dos interesses da Empresa, e de acordo com as normas internas, na análise e atendimento dessas solicitações; · demonstrar responsabilidade quanto à segurança da informação contida nos recursos e meios de informática, estando cientes dos processos, iniciativas e normas de segurança, e agindo de forma a reduzir os riscos de violação; · usar a Internet, Intranet, o acesso à rede e o correio eletrônico disponibilizados pela Empresa com responsabilidade, seguindo todas as políticas e procedimentos ligados à sua utilização e proteção. Não devemos:
+
+· usar informações ou recursos de informática da Cemig, ou repassar a terceiros documentação de caráter restrito, violando as exigências legais e as políticas da Cemig; · tentar acesso não autorizado a dados restritos ou facilitar o acesso não autorizado a qualquer pessoa.
+
+Propriedade Intelectual: propriedade que resulta da criação da mente humana. Dependendo do tipo de criação, estão disponíveis, dentre outras, as seguintes proteções: direito autoral (protege obras literárias e técnicas, desenhos, fotografias, vídeos, músicas, fitas de áudio, programas de computador, etc.); patentes e desenho industrial (permitem que inventores excluam outros de fazer, usar ou vender suas invenções); marcas registradas (restringe sua utilização por terceiros; em algumas circunstâncias podem ser protegidas mesmo sem o registro). Publicidade: toda veiculação paga pela Empresa, tais como: anúncios institucionais e de serviços, de esclarecimentos à sociedade, de natureza legal, de interrupção de energia, de recrutamento etc. Usuários (de informática): empregados e contratados devidamente autorizados a usar os recursos e meios de informática. Veterano: empregado qualificado em qualquer atividade por exercê-la há muito tempo.
+
+4 GLOSSÁRIO Acidente: qualquer evento não programado que interfere negativamente na atividade produtiva. Administradores: membro(s) do Conselho de Administração e da Diretoria Executiva da Cemig. Cliente: consumidor ou cliente, conforme estabelecido nas Condições Gerais de Fornecimento de Energia Elétrica, é qualquer pessoa física ou jurídica, que solicitar a concessionária o fornecimento de energia elétrica e assumir a responsabilidade pelo pagamento das faturas e pelas demais obrigações fixadas nas normas e regulamentos da Agência nacional de Energia Elétrica. Conflitos de interesse: estão relacionados a escolhas e decisões determinadas por interesses pessoais (financeiros ou outros) em detrimento do interesse da empresa; segundo o Código das Melhores Práticas de Governança Corporativa do Instituto Brasileiro De Governança Corporativa ­ IBGC: "Há conflito de interesses quando alguém não é independente em relação à matéria em discussão e pode influenciar ou tomar decisões motivadas por interesses distintos daqueles da sociedade." Contratado: é a designação para mão­de-obra temporária destinada à execução de serviços especiais realizados nas instalações da Empresa, incluindo as Linhas de Transmissão e as redes de distribuição de energia e telecomunicações. Este conceito não abrange a execução de serviços em instalações de terceiros (oficinas, laboratórios, escritórios, etc.), bem como o pessoal indiretamente envolvido, como pessoal administrativo de empreiteira. Controlada: empresa na qual a Cemig é titular de direito de sócio que lhe assegure, de modo permanente, diretamente ou através de suas controladas, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores. Empregado(s): pessoa(s) física(s) que mantém(m) direta relação trabalhista com a Cemig. Fornecedor: é a designação genérica que engloba "executor de obras", "prestador de serviços" e "fornecedor de materiais". Gerentes: Gerentes, Assistentes e Superintendentes da Cemig. Governança Corporativa: é o sistema ou conjunto de práticas que permite aos sócios o governo estratégico de sua empresa e a efetiva monitoração da direção executiva, tendo por objetivos valorizar a empresa, melhorar seu desempenho, facilitar seu acesso a capital a custos mais baixos e contribuir para sua perenidade. Identidade Visual: forma personalizada através da qual a Cemig se faz representar junto à comunidade onde atua. Imagem: aquilo que se passa e é captado como opinião do público em geral. Intranet: rede de computadores interna à Empresa (Cemig Net). Marca: um símbolo, um sinal distintivo que pode ser percebido visualmente, uma figura, um nome ou uma frase, com a finalidade de identificar produtos e serviços, distinguindo-os dos demais existentes no mercado. Material de comunicação: peças gráficas, brindes, placas, banners, faixas, bottons, filmes, Vídeo Tapes audiovisuais, jornais, relatórios, home pagers. Meios e recursos: Tudo aquilo de que o empregado possa dispor como facilidades e recursos oferecidos pela Empresa, a serem utilizadas no desempenho de suas funções (cartão de crédito corporativo, veículos, convênios, etc.).
+
+_____________________________________________________________________________________________________
+Página 3 de 3
+
+ANEXO VI ESCOPO DO SERVIÇO CARACTERÍSTICAS DA CONTRATAÇÂO
+
+1. Objetivo Contratação de 10.000 Pontos de Função, podendo chegar a 20.000 pontos de função, para a execução dos serviços de manutenção e desenvolvimento de software, desde o levantamento de necessidades do cliente e elaboração de proposta técnica, análise, projeto, construção, implementação, testes, homologação e implantação, inclusive suporte aos usuários e transferência da tecnologia dos conhecimentos utilizados para a CEMIG.
+
+Perfil da equipe para execução dos serviços
+
+Perfil do Profissional Analista de Sistemas Desenvolvedor ASP/ Visual Basic Desenvolvedor .NET Desenvolvedor Java Desenvolvedor Share Point Testador
+
+1 - Analista de Sistemas: A empresa deverá possuir profissional(ais) graduados, em Ciência da Computação, Análise de Sistemas, Sistemas de Informação ou Matemática Computacional com a função de desenvolver sistemas informatizados. Será responsável por elaborar as seguintes atividades: Levantamento de requisitos, modelagem de banco de dados, elaboração de casos de uso, desenho de tela, definição de casos de teste, execução de testes, documentação e treinamento. aComprovação: o referido profissional deverá fazer parte do quadro da empresa, devendo comprovar, obrigatoriamente, sua vinculação com a empresa, até a data da assinatura do contrato, através do registro em Carteira de Trabalho e Previdência Social (CTPS) e RE-FGTS (Guia de recolhimento) ou Contratos de Prestação de Serviços; bComprovação: Original ou cópia autenticada do certificado de graduação em Ciência da computação, Análise de sistemas, Sistemas de Informação ou Matemática Computacional; cComprovação: Curriculum Vitae com a descrição da capacitação e experiência no desenvolvimento de sistemas de informação. 2 - Desenvolvedor: A empresa deverá possuir, profissional(is) com experiência em: - Desenvolvimento de sistemas utilizando o SGBD SQL Server, Oracle; - Ambientes de programação: V.B., V.B. Script, HTML, Java Script, ASP, dot Net, Java, C++, J2EE; - Experiência em Share Point; - Gerenciador: Windows 2000 ou 2003, IIS, MTS;
+Página 1 de 12
+
+- Metodologias: Unified Modeling Language (UML), modelagem de caso de uso, Ponto de função (IFPUG). aComprovação: o referido profissional deverá fazer parte do quadro da empresa, devendo comprovar, obrigatoriamente, sua vinculação com a empresa, até a data da assinatura do contrato, através do registro em Carteira de Trabalho e Previdência Social (CTPS) e RE-FGTS (Guia de recolhimento) ou Contratos de Prestação de Serviços. Comprovação: Curriculum Vitae com a descrição da capacitação e experiência no desenvolvimento de sistemas de informação.
+
+b-
+
+3 - Testador: A empresa deverá possuir, profissional(is) com experiência em: - teste de aplicativos/sistemas; - Ambientes: V.B., V.B. Script, HTML, Java Script, ASP, dot Net, Java, C++, J2EE, Share Point, Windows 2000 ou 2003, IIS, MTS; - Metodologias: Unified Modeling Language (UML), modelagem de caso de uso/caso de teste. aComprovação: o referido profissional deverá fazer parte do quadro da empresa, devendo comprovar, obrigatoriamente, sua vinculação com a empresa, até a data da assinatura do contrato, através do registro em Carteira de Trabalho e Previdência Social (CTPS) e RE-FGTS (Guia de recolhimento) ou Contratos de Prestação de Serviços. Comprovação: Curriculum Vitae com a descrição da capacitação e experiência no desenvolvimento de sistemas de informação.
+
+b-
+
+2. Objetos 2.1. Desenvolvimento de Novos Sistemas Desenvolvimento de sistemas informatizados, aplicando os procedimentos necessários à garantia da qualidade preconizados pelo PDS ­ Processo de Software das CONTRATANTES, utilizado para o Desenvolvimento de Soluções. 2.2. Manutenção de Sistemas (Referentes aos Sistemas Existentes) Manutenção Corretiva: Alterações para correção de defeitos ou comportamentos inadequados que causem problemas de uso ou funcionamento, sem inserção de novas funcionalidades. Manutenção Adaptativa: Adaptações por mudanças externas (negócio, legislação, ambiente operacional) sem inserção de novas funcionalidades. Manutenção Evolutiva: Evolução com a inclusão de novas características e/ou funcionalidades.
+
+Página 2 de 12
+
+2.3. Documentação Elaboração de toda documentação ou de parte dela, conforme critério das CONTRATANTES e segundo as definições no PDS- Processo de Software da CEMIG.
+
+3. Condições de Repasse dos Produtos a serem Construídos 3.1- O objeto resultará em produtos que serão solicitados e medidos segundo os processos contagem de Pontos de Função. 3.2- Os produtos serão contratados através de OS-Ordem de Serviço ­ Anexo 2 deste documento e serão repassados pelas CONTRATANTES à CONTRATADA. A OS conterá informações que permitam a gestão do prazo e valor da construção do produto a ser entregue às CONTRATANTES; 3.3- O prazo e valor para construção do produto será definido em comum acordo entre CONTRATANTES e CONTRATADA e em conformidade com os produtos a serem construídos (Especificação, Desenvolvimento, Documentação e Manutenção), através da emissão da Ordem de Serviço, a qual conterá, além das informações básicas necessárias a construção dos produtos, cronograma detalhado a ser cumprido. 3.4- A construção iniciará com a emissão e assinatura da respectiva OS - Ordem de Serviço; 3.5- Acordado o prazo e valor da OS - Ordem de Serviço-anexo-2, para a construção de determinado produto, qualquer alteração de valor e/ou prazo será submetido à aprovação das CONTRATANTES; 3.6- Os produtos contratados, somente serão considerados completos/aceitos, para fins do pagamento, após aceitação pelo Gestor do Contrato das CONTRATANTES ou por pessoas por ele oficialmente indicadas, contendo a documentação necessária devidamente atualizada; 3.7- A quantidade de OS - Ordem de Serviço contratada será definida conforme as necessidades das CONTRATANTES; 3.8- Para cada produto solicitado será atribuída uma produtividade esperada por ponto de função na OS - Ordem de Serviço específica. 3.9- Os cronogramas deverão utilizar o MS-Project, atualizados periodicamente, de acordo com as negociações e disponibilizados eletronicamente para a CEMIG. 3.10 - Os serviços serão retirados e entregues nas dependências das CONTRATANTES, no seguinte endereço: Av. Barbacena 1200 ­ Santo Agostinho ­ Belo Horizonte ­ MG 4. Conceitos Metodológicos 4.1- As CONTRATANTES possuem métodos proprietários para o desenvolvimento ou gerenciamento de sistemas de informação. A aplicação destes métodos é descrita no PDS ­ Processo de Software. Abaixo estão descritos alguns conceitos da PDS ­ Processo de Software, pertinentes aos desenvolvimentos e manutenções de sistemas: 1. Análise de Negócio; 2. Especificação Funcional; 3. Especificação Técnica; 4. Codificação e Testes; 5. Testes de Sistema;
+Página 3 de 12
+
+6. Implantação. 4.2- São previstos artefatos obrigatórios, considerados partes integrantes dos serviços previstos neste edital. A estes artefatos poderão ser acrescentados outros (diagramas, modelos, documentos, etc.) desde que integrem UML, ou que sejam de uso comum e universal. 4.3- O Processo de Desenvolvimento de Aplicativos das CONTRATANTES, disciplinado pelo PDS, consiste em identificar necessidades de informatização; quantificar recursos; elaborar projeto para as necessidades comprovadas; desenvolver, implementar e manter o aplicativo projetado; para plataformas de desenvolvimento Orientadas a Objeto e para plataformas de desenvolvimento não Orientadas a Objetos. 4.4- O Processo de Desenvolvimento previsto no PDS tem se mantido dinamicamente alinhado com Tecnologias de mercado, cabendo à CONTRATADA, às suas expensas, se adequar a esse processo. 4.5- Este processo contempla as fases necessárias para o desenvolvimento de um software, ficando a CONTRATADA expressamente proibida de apresentar documentos que não estejam de acordo com o padrão definido pelas CONTRATANTES. 4.6- Serão apresentadas referências metodológicas, de forma simplificada, porém, ficará à disposição da CONTRATADA, na CEMIG, a íntegra das mesmas. 4.7- A utilização da UML, ainda que parcialmente, como uma das ferramentas de modelagem nos traz o benefício da padronização, onde possível, desses modelos, bem como a ampliação da abrangência quanto à documentação do sistema, por intermédio dos diagramas previstos nesta linguagem. 5. Condições de Execução de Serviço 5.1- Os serviços poderão ser executados nas instalações das CONTRATANTES e/ou CONTRATADA; sendo na CONTRATADA, esta deverá providenciar, às suas expensas, a infraestrutura de hardware e software necessária para sua execução, segundo as Metodologias de Desenvolvimento de Sistemas da CEMIG, no que diz respeito ao ambiente. 5.2- Os softwares e ambientes de apoio necessários para a execução dos serviços estão listados no item 9 deste documento. Quando as CONTRATANTES optarem pela atualização ou troca de versão dos softwares por superior do ambiente, a CONTRATADA deverá adaptar-se à mudança, às suas expensas, sem custos adicionais para as CONTRATANTES. 5.3- Os softwares de apoio utilizados pela CONTRATADA para auxiliar no desenvolvimento/manutenção dos serviços em todas as fases deverão ser conhecidos e aprovados previamente pelas CONTRATANTES, através do gestor do contrato. 5.4- É de responsabilidade exclusiva da CONTRATADA a aquisição dos softwares de apoio, não havendo qualquer responsabilidade reversa às CONTRATANTES concernente à titularidade dos direitos de propriedade, inclusive os direitos autorais e outros direitos de propriedade intelectual sobre os programas. 5.5- A infra-estrutura necessária para início dos trabalhos deverá estar à disposição das CONTRATANTES no prazo máximo de 30 (trinta) dias contados da assinatura do contrato. 5.6- Requerimentos específicos de infra-estrutura de hardware e software feitos pelas CONTRATANTES, para execuções de serviços, quando for o caso, estarão explicitados nos documentos de repasse de serviços.
+Página 4 de 12
+
+5.7- No caso de haver necessidade de acesso ao ambiente de sistemas das CONTRATANTES para execução dos serviços contratados, esta será analisada e tratada pelo gestor do contrato de acordo com as normas de segurança e acesso existentes nas dependências das CONTRATANTES. 5.8- A CONTRATADA deverá fornecer Firewall (hardware) compatível com o tráfego imposto pela execução dos serviços; o Firewall deverá ser configurado e gerenciado pelas CONTRATANTES. 5.9- As CONTRATANTES gerenciarão os Roteadores (caso existam) envolvidos nas comunicações com a CONTRATADA. 6- Condições de Aceitação e Garantia de Serviço 6.1- Os serviços somente serão considerados completos/aceitos, após aceitação pelo Gestor do Contrato, ou por pessoas por ele oficialmente indicadas, contendo a documentação necessária devidamente atualizada. 6.2- Os serviços prestados pela CONTRATADA serão avaliados pela TI e pelos usuários que demandaram o serviço, em termos de cumprimento dos prazos acordados e a qualidade da solução implantada. Tais avaliações repercutirão no relacionamento com a CONTRATADA na solicitação de novos serviços e na própria renovação do Contrato. 6.3- Após a fase de teste as CONTRATANTES darão como concluída e aceita a OS, apondo sua assinatura e a data do aceite. 6.4- A contar da data do aceite da Ordem de Serviço, a CONTRATADA proverá uma garantia de 180 dias corridos, mesmo que o contrato tenha se encerrado, cobrindo as seguintes ocorrências, sem qualquer ônus para as CONTRATANTES: Correção devido ao comportamento anormal em qualquer funcionalidade do software; Melhoramento de performance, desde que seja constatado pelas CONTRATANTES que os problemas referentes a tempos de respostas sejam oriundos de algoritmos mal elaborados, quer seja na implementação do software ou na utilização dos componentes fornecidos pela CONTRATADA; Correção de falhas resultantes de problemas de concorrência em ambiente multiusuário, a menos que seja comprovado que estas falhas sejam resultantes do ambiente de produção das CONTRATANTES. 6.5- No que concerne à CONTRATADA, para atendimento a tarefa de correção dos erros, a mesma terá um prazo de 48 horas corridas, contadas a partir da comunicação feita pelas CONTRATANTES, para execução da tarefa, findo o qual incorrerá em multas no valor de 2% (dois por cento) sobre 100 pontos de função, no caso de reincidência do mesmo erro. 6.6- Após a conclusão da fase de garantia, as CONTRATANTES aporão, no corpo da OS, o Termo de Aceitação Definitiva, assinalando efetivamente a conclusão do processo de desenvolvimento do software. 7- Condições de Pagamento 7.1- Os encargos financeiros das CONTRATANTES restringir-se-ão ao pagamento dos serviços repassados, efetivamente executados e aceitos integralmente para cada OS-Ordem de Serviço. 7.2- No aceite dos serviços, a quantidade de Pontos de Função contratada poderá ser reavaliada pelas CONTRATANTES visando sua adequação aos requisitos e características reais do serviço executado.
+Página 5 de 12
+
+7.3- As Ordens de Serviço, a critério das CONTRATANTES, poderão ser divididas em função das Fases de construção ou produtos intermediários definidos pelas metodologias descritas neste Edital.
+
+8- Condições Gerais 8.1- Os serviços, objeto desta licitação, serão dimensionados e contratados conforme as necessidades das CONTRATANTES. 8.2- A CONTRATADA deverá indicar um Responsável Técnico pelo contrato, que deverá: 8.2.1- Atuar em todas as fases do projeto e/ou tarefa, avaliando o seu desenvolvimento e promovendo ações que assegurem o cumprimento dos resultados contratados; 8.2.2- Prestar apoio técnico aos componentes de sua equipe; 8.2.3- Orientar e/ou executar o detalhamento de rotinas de sistemas em geral e definir a melhor utilização dos recursos de software e hardware disponíveis; 8.2.4- Responder pela gestão de seus técnicos, coordenando as tarefas executadas e em execução; 8.2.5- Garantir a qualidade nas tarefas compatíveis com os padrões e normas utilizadas e definidas pelas CONTRATANTES; 8.2.6- Repassar o conhecimento necessário para a execução das tarefas previamente negociadas aos técnicos por ela alocados, que venham a desempenhá-las; 8.2.7- Garantir nos prazos contratados a entrega dos serviços, em meio magnético, que possam ser lidos na plataforma usada pelas CONTRATANTES. 8.2.8- Resolver conflitos em conjunto com a Equipe Especializada das CONTRATANTES. 8.3- O acompanhamento dos serviços de desenvolvimento e/ou manutenção executados pela CONTRATADA será feito pelas CONTRATANTES, como já mencionado anteriormente, com base no PDS e suas referências técnicas, por meio de cronogramas elaborados em conjunto com as CONTRATANTES e CONTRATADA. O conjunto das características particulares a cada OS-Ordem de Serviço será consolidado em Acordo de Nível de Serviço. 8.4- As CONTRATANTES designarão um Responsável Técnico Interno, ou uma equipe técnica responsável, para acompanhar o desenvolvimento dos serviços, em conjunto com o Responsável Técnico da CONTRATADA. 8.5- Durante a vigência do contrato, a CONTRATADA deverá elaborar e entregar às CONTRATANTES, para aprovação e aceite, Sistema ou Relatório contendo o andamento dos serviços contratados. A forma e o conteúdo do Sistema ou Relatório serão objeto de negociação entre as CONTRATANTES e a CONTRATADA. 8.6- Todos os produtos resultantes dos serviços desenvolvidos pela CONTRATADA deverão ser entregues às CONTRATANTES, que terão direito de propriedade sobre os mesmos, inclusive quanto aos códigos, fontes, documentação, componentes básicos e bibliotecas, utilizados no desenvolvimento.
+Página 6 de 12
+
+8.7- A CONTRATADA obriga-se a tratar como "segredos comerciais e confidenciais", quaisquer informações, dados, processos, fórmulas, códigos, fluxogramas, diagramas lógicos, dispositivos e modelos relativos aos serviços ora contratados, utilizando-os apenas para as finalidades previstas neste ajuste, não podendo revelá-los ou facilitar a sua revelação a terceiros.
+
+9. AMBIENTES COMPUTACIONAIS Sistemas Operacionais: Windows XP Windows Servers DOS Módulo Servidor: ORACLE 9iAS, versão 9.0.2 ou superior; APACHE 1.3.23 ou superior; IIS 5.0 ou superior; JBoss/Tomcat; MS COM+; Oracle OAS; Sistema Gerenciador de BD: ORACLE 8 ou superior; ORACLE 9i Enterprise Edition 9.2.0 ou superior; SQLServer 2000 ou superior; PostGreSQL 7.3.4 ou superior; MySQL 3.0 ou superior. Linguagens: Java / J2EE; J#; C#; Dot Net; JSP; Java / J2EE; HTML; Visual Basic 6.0 ou superior; ASP 3.0 ou superior; Javascript; C; PHP; Share Point. XML; Shell Scripts; PL/SQL; Ferramentas de Apoio: MS Office Professional; Report Service; Visual Source Safe-V.6.0 ou superior; Oracle Forms-V.6.0.8.22 ou superior; Oracle Reports. 9.1- A CONTRATADA deverá licenciar e utilizar todo o ambiente especificado acima.
+
+Página 7 de 12
+
+9.2- Será obrigatória a entrega dos produtos das fases de especificação de requisitos e projeto na ferramenta case acima definida. 9.3- A licitante deverá dominar as ferramentas de apoio ao desenvolvimento, especificadas pelas CONTRATANTES. Não poderão ser utilizadas ferramentas do tipo "Wizard" para geração códigos.
+
+10. Ambientes de Homologação e Testes 10.1- Os ambientes de Testes e de Homologação são ambientes de transição que devem ser implantados até que os ambientes de Suporte / Manutenção ou Produção estejam disponíveis. Estes ambientes deverão ser definidos e disponibilizados pelas CONTRATADAS. 10.2- As CONTRATANTES criarão no servidor para o ambiente de Homologação. 10.3- As CONTRATANTES providenciarão a disponibilização de acesso ao ambiente para os técnicos da CONTRATADA envolvidos no desenvolvimento do trabalho. 10.4- Tal disponibilização de acesso compreende os seguintes recursos: . Chaves de acesso; . Recursos de hardware e software para desenvolvimento das atividades no local físico da CEMIG, a serem utilizados no momento da realização da homologação dos sistemas. 11. Verificação dos erros durante a fase de testes e homologação nas CONTRATANTES 11.1- Para efeito de qualidade do produto entregue pela CONTRATADA, será realizado a verificação e cadastramento de todos os erros ocorridos durante a fase de testes e homologação nas CONTRATANTES. 11.2- Para minimizar os efeitos negativos das ocorrências de erros as CONTRATANTES realizarão os procedimentos abaixo: 11.2.1- Para cada ciclo de testes fica definida a Meta de 5 erros por cada 100 PF. O que exceder essa Meta a CONTRATADA está sujeira a multa de 2% sobre o valor de 100 PF. 11.2.2- Será realizado o registro dos erros no Relatório de Inspeção e Teste. 11.2.3- Nos ciclos de testes seguintes a incidência do mesmo erro tem a meta de 0 (zero) erros. O que exceder essa Meta a CONTRATADA está sujeira a multa de 2% sobre o valor de 100 PF. 12. Norma de Utilização da Métrica (Análise de Pontos de Função) 12.1. Introdução A CONTRATADA deverá utilizar o processo de contagem de Pontos de Função (Function Point Analysis) conforme a metodologia descrita no Manual de Práticas e Contagens (Counting Practices Manual) versão 4.2 ou superior publicado pelo IFPUG (International Function Point Users Group). 12.2. Ponto de função bruto A CONTRATADA deverá apresentar a quantidade de Ponto de Função Bruto obtido através da planilha que será fornecida pelas CONTRATANTES. A planilha prevê o detalhamento dos ALI´s, AIE´s e Funcionalidades para "aurar" a quantidade de Ponto de Função Bruto.
+Página 8 de 12
+
+12.3. Ponto de função ajustado A CONTRATADA deverá apresentar a quantidade de Ponto de Função Ajustado com o respectivo valor para os serviços demandados pelas CONTRATANTES.
+
+12.4. Tabela de Distribuição de Esforço conforme o PDS Fase 1. Análise de Negócio 2. Especificação Funcional 4. Codificação e Testes 5. Testes de Sistema 6. Implantação 12.5 Aplicações dos Percentuais e Fórmulas para Contagens de Pontos 12.5.1. Serviços do tipo Documentação 10 % (dez por cento) do Total de Pontos obtidos em "Contagem de Aplicação" sobre o sistema a ser documentado. 12.5.2. Serviços do Tipo Desenvolvimento de Novos Sistemas Percentuais conforme Tabela de Distribuição de Esforço para Ciclo de Desenvolvimento, deste Anexo, e Fórmulas descritas no Manual de Práticas e Contagens versão 4.2, ou superior, do IFPUG. 12.5.3. Serviços do tipo Manutenção de Sistemas Percentuais conforme Tabela de Distribuição de Esforço para Ciclo de Desenvolvimento, deste Anexo, e Fórmulas descritas no Manual de Práticas e Contagens versão 4.2, ou superior, do IFPUG. Observação: Nos casos dos serviços que não contemplem todas as fases dos ciclos de desenvolvimento ou de vida de sistemas, tanto para estimativas quanto para medições, serão aplicados os percentuais descritos na "Tabela de Distribuição de Esforço para Ciclo de Desenvolvimento" deste Anexo, conforme o tipo de contagem de pontos mais precisa, ou com menor erro previsto (Estimativa, Detalhada ou de Aplicação) cuja execução seja possível. Não serão consideradas Contagens de Pontos do tipo "Indicativa". 12.6. Ambiente X Produtividade Exigida Ambiente/Serviço Serviço de Especificação de Software Desenvolvimento WEB (Asp e Java Script) Desenvolvimento Java Desenvolvimento dot Net Desenvolvimento Share Point Entende-se por: Serviço de Especificação de Software: - Analise de Requisitos; - Projeto Físico; - Projeto Lógico.
+Página 9 de 12
+
+Percentual 20% 25 % 35 % 15% 5%
+
+Produtividade Exigida 4,5 7 5 6 7,5
+
+Desenvolvimento WEB (Asp e Java Script), Java, dot Net, Share Point, construção de aplicativos nos respectivos ambientes, inclusive testes e instalação no ambiente de produção das CONTRATANTES.
+
+12.7. Passos do Fluxo, pertinentes à utilização da Métrica. Para cada serviço solicitado, os seguintes passos deverão ser observados:
+Passos referentes à utilização da Métrica Elaboração de Contagem de Pontos do tipo "Estimativa". Disponibilização à CONTRATADA da documentação utilizada como subsídio para a Contagem Estimativa das CONTRATANTES. Retirada nas CONTRATANTES, da documentação utilizada como subsídio para a Contagem Estimativa. Elaboração e entrega nas CONTRATANTES, de Proposta Técnica e Contagem de Pontos pertinente. Análise da Proposta Técnica e da Contagem de Pontos apresentada. Formalização do Contrato. Emissão de Ordem de Serviço. Elaboração de Contagens de Pontos Intermediárias. Elaboração de Contagens de Pontos para Medição. Responsável CONTRATANTES CONTRATANTES CONTRATADA CONTRATADA CONTRATANTES CONTRATANTES CONTRATANTES CONTRATANTES e CONTRATADA CONTRATANTES e CONTRATADA
+
+Eventuais desvios de dimensionamento do projeto serão corrigidos com base na documentação de contagem apresentada pela CONTRATADA e nas referências normativas mencionadas na introdução deste anexo. As CONTRATANTES se reservam o direito de realizar contagens intermediárias com o objetivo de ajustar o dimensionamento do serviço solicitado.
+
+13 - Inspeção nas dependências da CONTRATADA 13.1- Fica assegurado às CONTRATANTES o direito de, no decorrer da execução do serviço, efetuar inspeções nas dependências da CONTRATADA para verificar a adequação das instalações e qualificação do pessoal, bem como promover diligências destinadas a avaliar a capacidade operacional da CONTRATADA para atendimento das condições de prestação do serviço. 13.2- As CONTRATANTES deverão comunicar à CONTRATADA no mínimo com dois dias de antecedência sua intenção de realizar uma inspeção para que seja agendada segundo a conveniência das partes.
+
+14- Processo e Fluxo 14.1. Processo Gestão de Contratos em Pontos de Função O processo de gestão de contratos se fará com base no disposto neste edital e em um Acordo de Nível de Serviço (SLA Service Level Agreement) a ser detalhado para cada OS-Ordem de Serviço apresentada pela CEMIG para a CONTRATADA.
+
+Página 10 de 12
+
+14.2- A eficácia e eficiência da solução a ser implantada serão medidas por indicadores de qualidade conforme Acordos de Nível de Serviço que farão parte das OS-Ordens de Serviço. Exemplos destes indicadores são: métricas de qualidade de código, métricas de qualidade da documentação e, ainda, grau de acurácia no planejamento e execução do projeto. 14.3- Os acordos de nível de serviço (ANS) serão compostos das seguintes seções: Sumário Executivo; Descrição de Serviços; Definição dos Níveis de Serviços esperados; Processo de gerenciamento dos níveis de serviço; Papéis e responsabilidades no gerenciamento dos níveis de serviços; Apêndices. 14.4. Responsável Técnico das CONTRATANTES As CONTRATANTES indicarão formalmente um Técnico, ou equipe técnica, que terá as seguintes responsabilidades: Elaborar especificação do serviço a ser realizado; Elaborar as informações de repasse do serviço a ser contratado e a OS; Negociar, quando necessário, modificações de escopo do trabalho repassado a CONTRATADA; Aceitar o serviço entregue, verificando atendimento à qualidade aos requisitos definidos; Ou ainda propor outros aspectos que possam esclarecer os níveis de acordo de serviço. As atividades aqui previstas se farão segundo os processos previstos no PDS e na(s) referência(s) técnica(s) que forem aplicáveis ao escopo da ordem de serviço. 14.5. Empresa CONTRATADA As responsabilidades da empresa CONTRATADA são: Executar os serviços no prazo acordado; Garantir a eficácia do aplicativo desenvolvido; Validar as especificações dos serviços a serem executados; Negociar com as CONTRATANTES possíveis ajustes de natureza técnica. 14.6. Gestor de Contratos O Gestor de Contratos terá as seguintes responsabilidades: Autorizar a execução do serviço a ser contratado; Aprovar a execução do serviço efetuado. Medir a eficiência dos serviços prestados e informar possíveis divergências. As atividades aqui previstas deverão seguir os processos previstos no PDS e na(s) referência(s) técnica(s) que forem aplicáveis ao escopo da ordem de serviço.
+
+Página 11 de 12
+
+ANEXO 2 FORMULÁRIO PARA ORDEM DE SERVIÇO - OS
+Descrição do Serviço:
+
+Ambiente de Desenvolvimento: Número do DVE: Data estimada para o serviço Esforço Estimado
+Visão de Escopo Análise de Requisitos Projeto Lógico Projeto Físico Implementação/Construção Testes Implantação Outros Serviços Total Inicio: Fim:
+
+Ponto de Função
+
+Data da realização do serviço Esforço Realizado
+Visão de Escopo Análise de Requisitos Projeto Lógico Projeto Físico Implementação/Construção Testes Implantação Outros Serviços Total
+
+Inicio:
+
+Fim:
+
+Ponto de Função
+
+Valor
+
+Belo Horizonte, ____ de __________________ de _______.
+
+_____________________________ Ass. CEMIG
+Onde:
+
+______________________________ Ass. Contratada
+
+Descrição do Serviço: Descrição sucinta do serviço Número do DVE: Número do DVE (Documento de Visão do Escopo) que originou a AS Data estimada para o serviço: Datas previstas para início e termino do serviço Esforço Estimado: Esforço estimado para a execução do serviço Esforço Realizado: Esforço realizado para a execução do serviço Data da realização do serviço: Datas efetivas do início e termino do serviço Total de PF: Somatório da coluna Pontos Função e valor a ser pago pela CEMIG Local Data: Local e data da assinatura da AS Ass. CEMIG: Assinatura do representante legal da CEMIG Ass. Contratada: Assinatura do representante legal da CONTRATADA.
+Página 12 de 12
+
+

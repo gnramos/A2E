@@ -1,0 +1,1183 @@
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+PROCESSO Nº 3580-0300/11-7 ABERTURA: 12/07/2011, às 10h30min TIPO: menor preço OBJETO: Contratação de serviços de apoio técnico especializado, sob demanda, em consultoria, desenvolvimento e manutenção de sistemas de informação. ENDEREÇO: www.comprasnet.gov.br CÓDIGO UASG: 925494 PREGÃO ELETRÔNICO Nº 83/2011-DEC Torno público, em cumprimento às determinações do Excelentíssimo Senhor Desembargador-Presidente do Tribunal de Justiça do Estado e para conhecimento dos interessados, que o Departamento de Compras ­ DEC, por intermédio de seu Pregoeiro e Equipe de Apoio, realizará licitação, na modalidade PREGÃO, na sua forma eletrônica ­ tipo menor preço, nos termos da Lei nº 10.520, de 17.07.2002, do Decreto n° 3.722, de 09.01.2001 (Regulamenta o art. 34 da Lei n o 8.666, de 21 de junho de 1993, e dispõe sobre o Sistema de Cadastramento Unificado de Fornecedores ­ SICAF), da Instrução Normativa MARE-GM n° 05, de 21.07.95, dos Atos nº 43/2006-P e nº 13/2007-P da Presidência do Tribunal de Justiça, com aplicação subsidiária da Lei nº 8.666/93 e suas alterações posteriores e Lei Estadual nº 11.389/99, bem como da Lei Complementar nº 123/2006, encerrando-se o prazo para recebimento eletrônico das PROPOSTAS DE PREÇO e dos DOCUMENTOS DE HABILITAÇÃO, no dia e horário acima indicados. O Edital e documentação técnica poderão ser baixados por download no site http://www1.tjrs.jus.br/site/compras/, opção: "compras em andamento".
+1.
+
+DO OBJETO Constitui objeto da presente licitação a contratação de serviços de apoio técnico especializado, sob demanda, em consultoria, desenvolvimento e manutenção de sistemas de informação, conforme descrito no Anexo I ­ Termo de Referência, o qual integra o presente Edital, bem como os demais anexos, que lhe são indesmembráveis. DOS IMPEDIMENTOS À PARTICIPAÇÃO Constituem impedimentos à participação na presente licitação: a) a suspensão do direito de licitar pelo Tribunal de Justiça ou por outro órgão da Administração Estadual, no prazo e nas condições do impedimento; b) atuar em ramo divergente de atividade relacionada ao objeto deste Edital; c) não estar cadastrada no SICAF; d) não estar credenciada no Sistema Eletrônico www.comprasnet.gov.br; e) ter sido declarada como inidônea pela Administração direta ou indireta, Municipal, Estadual ou Federal; f) estar em regime de concordata, em processo de falência ou em processo de recuperação judicial, sob concurso de credores, em dissolução ou em liquidação; g) a reunião de empresas em consórcio, ainda que controladoras, coligadas ou subsidiárias entre si;
+
+1.1.
+
+2. 2.1.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+1
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+h) ser servidor de qualquer órgão ou entidade vinculada ao Tribunal de Justiça, bem assim a empresa da qual tal servidor seja sócio, dirigente ou responsável técnico; i) ter contrato rescindido com Órgão da Administração Pública direta ou indireta, por inadimplência.
+3. 3.1.
+
+DO CREDENCIAMENTO O credenciamento dar-se-á pela atribuição da chave de identificação e de senha, pessoal e intransferível, para acesso ao Sistema Eletrônico www.comprasnet.gov.br. As licitantes ou seus representantes legais deverão estar previamente credenciados junto ao sistema para participarem deste Pregão. O credenciamento da licitante, bem como sua manutenção, dependerá de registro cadastral atualizado no SICAF.
+
+3.2.
+
+3.3.
+
+3.3.1. As empresas não cadastradas no SICAF deverão providenciar o seu cadastramento e habilitação inicial junto a qualquer Serviço de Cadastro dos Órgãos da Administração Pública Federal.
+4. 4.1.
+
+DO ENVIO DA PROPOSTA A proposta deverá ser encaminhada digitalmente, via sistema, até o dia da abertura da licitação. É facultado às licitantes substituírem suas propostas até o início da sessão do pregão eletrônico. A licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiras as suas propostas e lances. Incumbirá à licitante acompanhar as operações no sistema eletrônico, durante a sessão pública do Pregão e, após o encerramento da etapa de lances, ficando responsável pelo ônus decorrente da perda de negócios, diante da inobservância de quaisquer mensagens emitidas pelo sistema de sua desconexão. A participação no Pregão dar-se-á mediante a digitação da senha privativa da licitante e subseqüente envio da proposta, com a descrição do item e dos valores unitários e valor global, em conjunto com as Declarações Eletrônicas disponíveis no site, desde o momento da publicação do Edital no Diário da Justiça Eletrônico, simultânea à disponibilização do ato convocatório nos sites http://www1.tjrs.jus.br/site/compras/, opção: "compras em andamento", e www.comprasnet.gov.br, até a data e horário previstos para a abertura, exclusivamente por meio do sistema eletrônico. DO JULGAMENTO DAS PROPOSTAS E FORMULAÇÃO DE LANCES O Pregoeiro verificará as propostas apresentadas, desclassificando aquelas que não estejam em conformidade com os requisitos estabelecidos neste Edital.
+2
+
+4.2.
+
+4.3.
+
+4.4.
+
+5. 5.1.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.2.
+
+O sistema ordenará, automaticamente, as propostas classificadas, sendo que somente estas participarão da fase de lances. Iniciada a etapa competitiva, as licitantes deverão encaminhar lances exclusivamente por meio do sistema eletrônico, sendo imediatamente informados do seu recebimento e respectivo horário de registro e valor. As licitantes poderão oferecer lances sucessivos, observando o horário fixado e as regras da sua aceitação. A licitante somente poderá oferecer lance inferior ao último por ela ofertado e registrado pelo sistema. Não serão aceitos dois ou mais lances do mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar. Durante o transcurso da sessão pública, as licitantes serão informadas, em tempo real, do valor do menor lance registrado que tenha sido apresentado pelas demais licitantes, vedada a identificação do detentor do lance. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico poderá permanecer acessível às licitantes para a recepção dos lances. Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do Pregão será suspensa e terá reinício somente após comunicação expressa do Pregoeiro aos participantes. A etapa de lances da sessão pública será encerrada por decisão do Pregoeiro, mediante encaminhamento de aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até 30 (trinta) minutos, aleatoriamente determinado pelo sistema eletrônico, findo o qual, será automaticamente encerrada a recepção de lances. Serão desconsideradas quaisquer alternativas de preço ou qualquer outra condição não prevista neste Edital. Somente serão aceitas desistências de lances quando apresentada justificativa aceita pela Administração. Encerrada a etapa competitiva e ordenadas as ofertas, de acordo com o menor preço apresentado, o Pregoeiro verificará a aceitabilidade da proposta de valor mais baixo, comparando-o com os valores consignados em Planilha de Custos, decidindo, motivadamente, a respeito.
+
+5.3.
+
+5.4.
+
+5.5.
+
+5.6.
+
+5.7.
+
+5.8.
+
+5.9.
+
+5.10.
+
+5.11.
+
+5.12.
+
+5.13.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+3
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.14.
+
+Caso haja licitante que se enquadre como microempresa - ME, empresa de pequeno porte ­ EPP ou cooperativa que tenha apresentado lance até 5% (cinco por cento) superior ao da licitante de proposta de menor preço, desde que este também não se enquadre como ME, EPP ou cooperativa, ser-lhe-á dada oportunidade de, no prazo máximo de 5 (cinco) minutos, ofertar nova proposta que deverá ser inferior àquela, nos termos da Lei Complementar nº. 123/2006 e art. 34 da Lei nº. 11.488/2007. Sempre que ocorrer empate real de propostas entre MEs, EPPs ou cooperativas, não havendo lance entre os fornecedores, permanecendo o resultado de propostas empatadas em primeiro lugar, o sistema procederá o desempate de forma automática, via mensagem imediata, cuja identificação ocorrerá por meio do CNPJ e denominação do fornecedor sorteado, não se alterando o procedimento descrito no subitem anterior. Para fins de proposta final, a licitante que cotar o menor lance deverá adequar o valor cotado de forma que o valor unitário apresente até 04 (quatro) casas decimais sem arredondamento (desconsiderando-se as demais casas decimais). É facultado ao Pregoeiro, durante a fase de aceitação da proposta, efetuar a adequação referida no subitem anterior, devendo tal ajuste ser feito, preferencialmente, por ocasião da negociação. A classificação dar-se-á pela ordem crescente de preços propostos e aceitáveis. Será declarada vencedora a licitante que apresentar a proposta de acordo com as especificações deste Edital, com o preço de mercado e que ofertar menor preço por grupo. Será assegurado, como critério de desempate, preferência de contratação para as microempresas, empresas de pequeno porte ou cooperativas, conforme a legislação acima referida. Será desclassificada a proposta que: a) não atender às exigências deste Edital; b) apresentar preço excessivo ou manifestamente inexequível.
+
+5.15.
+
+5.16.
+
+5.17.
+
+5.18.
+
+5.19.
+
+5.20.
+
+5.21.
+
+Se a proposta classificada em primeiro lugar não for aceitável, o Pregoeiro examinará a subsequente, verificando a sua aceitabilidade, na ordem de classificação, e assim sucessivamente, até a apuração de uma que atenda o Edital. O Pregoeiro poderá negociar com a licitante que apresentar o menor valor, para que seja obtida redução de preço. Da sessão pública eletrônica do Pregão, será lavrada ata circunstanciada, contendo, sem prejuízo de outros, o registro das licitantes credenciadas, das propostas apresentadas, na ordem de classificação e dos recursos interpostos.
+
+5.22.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+4
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.23.
+
+A sessão pública eletrônica do Pregão não será suspensa, salvo motivo excepcional, devendo toda e qualquer informação, acerca do objeto, ser esclarecida previamente junto ao Departamento de Compras ­ DEC deste Órgão, mediante questionamento pelo site http://www1.tjrs.jus.br/site/compras/, opção: "compras em andamento", aba: "questionamentos e/ou impugnações". Caso haja necessidade de suspensão da Sessão Pública, será marcada nova data para continuação dos trabalhos, devendo ficar intimadas, no mesmo ato, as licitantes participantes. DA PROPOSTA DE PREÇOS A apresentação da proposta implicará plena aceitação, por parte da proponente, das condições estabelecidas neste Edital, nos moldes do Anexo II.
+
+5.24.
+
+6. 6.1.
+
+6.1.1. A licitante classificada provisoriamente em primeiro lugar deverá, sob pena de desclassificação, encaminhar detalhamento de sua proposta de preços, nos moldes do Anexo II, via sistema, no prazo máximo de 01 (uma) hora a contar da solicitação do pregoeiro, no próprio site. 6.1.2. Caso o Pregão seja de vários itens, o envio das propostas detalhadas ocorrerá após o encerramento de todos os itens.
+7. 7.1.
+
+DA HABILITAÇÃO A habilitação da licitante vencedora será primeiramente verificada on line no Sistema de Cadastro de Fornecedores ­ SICAF ou pelo Certificado de Registro de Fornecedor ­ CRF do Tribunal de Justiça do Estado, em sua habilitação definitiva, após a análise e julgamento das propostas.
+
+7.1.1. Os documentos exigidos para habilitação, não contemplados pelo SICAF ou pelo Certificado de Registro de Fornecedor ­ CRF do Tribunal de Justiça do Estado, serão apresentados preferencialmente por meio eletrônico (se cópias digitalizadas) ou via fax (51 ­ 3210.7389), após a solicitação do Pregoeiro no sistema. Posteriormente, serão remetidos em original ou em cópia autenticada em Cartório competente, no prazo de 02 (dois) dias úteis, após encerrado o prazo para o envio dos documentos, para o seguinte endereço: Palácio da Justiça, Departamento de Compras, Praça Marechal Deodoro, nº 55, conj. 524, CEP 90010-906, Porto Alegre/RS.
+7.2.
+
+Para os efeitos do subitem 7.1.1, serão avaliados os seguintes documentos:
+
+7.2.1. Habilitação Jurídica e Regularidade Fiscal: a) Certificado de Regularidade do FGTS (CRF) perante o Fundo de Garantia do Tempo de Serviço; b) Certidão Negativa de Débito (CND/INSS) perante a Seguridade Social;
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+5
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+c) Prova de regularidade para com a Fazenda Nacional, compreendendo a Certidão Conjunta Negativa de Débitos Relativos a Tributos Federais e à Dívida Ativa da União, emitida pela Secretaria da Receita Federal ou Procuradoria-Geral da Fazenda Nacional, em vigor na data de abertura da licitação; d) declarações eletrônicas: de que não está descumprindo o disposto no art. 7°, inciso XXXIII, da Constituição Federal; de que cumpre plenamente os requisitos de habilitação e de que até a presente data inexistem fatos impeditivos à sua habilitação no presente processo licitatório (disponíveis no site http://www.comprasnet.gov.br, no momento da inserção da proposta no sistema); e) declaração para habilitação, que deverá ser efetuada nos moldes do Anexo III. 7.2.2. Qualificação econômico-financeira: a) deverá ser apresentado o Balanço Patrimonial e Demonstrações Contábeis do último exercício social, já exigíveis, e apresentados na forma da Lei, incluindose as respectivas Notas Explicativas; o Balanço Patrimonial deverá estar transcrito no Livro Diário e esse registrado no órgão público competente, e, para comprovação, deverá ser anexado o termo de abertura e encerramento do Livro Diário; também deverá ser apresentado, devidamente preenchido, o Anexo II do Decreto Estadual nº 36.601, publicado no Diário Oficial do Estado em 11 de abril de 1996 e legislação posterior. É vedada a apresentação de balanços provisórios ou balancetes; quando encerrados há mais de 3 (três) meses da data de apresentação da proposta, os balanços poderão ser atualizados, tomando como base a variação, ocorrida no período, do ÍNDICE GERAL DE PREÇOS DE MERCADO ­ IGP-M, publicado pela Fundação Getúlio Vargas - FGV ou de outro indicador que o venha substituir; b) o Balanço Patrimonial, as Demonstrações Contábeis e o Anexo II do Decreto Estadual nº 36.601/96, poderão ser substituídos pelo Certificado de Capacidade Financeira Relativa de Licitantes instituído pela Contadoria e Auditoria-Geral do Estado - CAGE, válido na data da abertura da licitação; c) será considerada habilitada aquela licitante que obtiver a Nota Final da Capacidade Financeira Relativa igual ou superior a 2,0 (dois); d) comprovação de possuir patrimônio líquido mínimo de R$ 584.000,00 (quinhentos e oitenta e quatro mil reais), conforme prevê o art. 31, §2º e §3º, da Lei nº 8.666/93. d.1) a comprovação do patrimônio líquido deverá ser feita relativamente à data da apresentação da proposta, na forma da lei, admitida a atualização através de índices oficiais, desde a data do fechamento do balanço até o mês anterior a apresentação da proposta; d.2) caso haja a atualização do patrimônio líquido, deverá ser juntado demonstrativo do cálculo do valor corrigido pela licitante. e) Certidão negativa de falência, concordata ou de recuperação judicial (Lei nº 11.101, de 09/02/2005), expedida pelo distribuidor da sede da pessoa jurídica, ou de execução patrimonial, expedida no domicílio da pessoa física.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+6
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+7.2.3. Qualificação Técnica: a) Atestado(s) de capacidade técnica, fornecido(s) por pessoa jurídica de direito público ou privado, que comprove(m) haver fornecido, com bom desempenho, a prestação de serviços de consultoria em redesenho e implantação de processo de desenvolvimento de sistemas de informação, compatível ao objeto desta licitação, conforme o item 2.1 do Anexo I ­ Termo de Referência; b) Atestado(s) de capacidade técnica, fornecido(s) por pessoa jurídica de direito público ou privado, que comprove(m) haver fornecido, com bom desempenho, serviços de atividades contínuas, que englobem serviços técnicos especializados no desenvolvimento e manutenção de sistemas de informação, em regime de Fábrica de Software, e mensurados através da métrica Pontos de Função, nas plataformas Delphi e Java, com sistema de gerenciamento de banco de dados Oracle, compatível ao objeto desta licitação, conforme o item 2.3 do Anexo I ­ Termo de Referência, em um volume igual ou superior a 1.200 (mil e duzentos) Pontos de Função; c) Atestado(s) de capacidade técnica, fornecido(s) por pessoa jurídica de direito público ou privado, que comprove(m) haver fornecido, com bom desempenho, serviços de atividades contínuas, que englobem serviços técnicos especializados no desenvolvimento e manutenção de sistemas de informação, nas plataformas Delphi e Java, com sistema de gerenciamento de banco de dados Oracle, compatível ao objeto desta licitação, conforme o item 2.2 do Anexo I ­ Termo de Referência, em um volume igual ou superior a 20.000 (vinte mil) horas. d) Comprovante da Visita Técnica, conforme item 10 do Anexo I ­ Termo de Referência. 7.2.3.1. Os atestados que tratam as alíneas "b" e "c" não poderão ser os mesmos, sendo exigidos atestados distintos para cada comprovação. Para consideração dos atestados técnicos que tratam as alíneas "a", "b" e "c" é obrigatório que estes sejam emitidos em papel timbrado do emitente. Não serão aceitos atestados incompletos ou que não atendam todas as exigências deste item. Os atestados técnicos deverão conter, ainda, as informações necessárias para a averiguação dos critérios técnicos e deverão conter, no mínimo, as informações constantes do modelo abaixo e, preferencialmente, seguirem tal modelo:
+
+7.2.3.2.
+
+ATESTADO DE CAPACIDADE TÉCNICA Atestamos, para os devidos fins, que a empresa <nome da licitante>, CNPJ nº <cnpj>, estabelecida à <endereço>, <telefone>, presta(ou) os seguintes serviços durante o período de <dia/mês/ano> a <dia/mês/ano>:   <Número de horas> : <descrição do serviço>; <Identificação dos sistemas desenvolvidos e implantados>;
+7
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+
+
+<Descrição dos serviços prestados>;
+
+ <Descrição do ambiente tecnológico, linguagens de programação e SGBDs utilizados>. ... Declaramos, ainda, que a mesma demonstra capacidade técnica adequada, cumprindo a contento os termos do contrato firmado, nada constando em seu desabono até a presente data. <Local>, <data>. <Nome> <Cargo> <Empresa> <CNPJ> <Endereço> <Telefone> 7.2.3.3. O Tribunal de Justiça, a seu critério, poderá proceder a diligências visando aferir a veracidade das informações prestadas.
+
+7.3.
+
+Para fins de habilitação, a verificação pelo Órgão promotor do certame nos sites oficiais de órgãos e entidades emissoras de certidões constitui meio legal de prova. Caso a vencedora do certame seja microempresa, empresa de pequeno porte ou cooperativa, esta deverá respeitar a previsão do art. 43, §§ 1º e 2º, da Lei Complementar nº. 123, de 14/12/2006 e Lei nº. 11.488/2007. No caso de sociedade cooperativa, além do Certificado de Registro de Fornecedor ou dos documentos relacionados nos subitens anteriores, deverá apresentar, também, a seguinte documentação, válida na data da sessão pública estipulada no preâmbulo deste Edital, em original ou cópia autenticada: a) Ato Constitutivo, observados neste, todos os requisitos do artigo 15 da Lei nº. 5.764/71; b) Certificado de Registro da sociedade cooperativa na Organização das Cooperativas do Estado do Rio Grande do Sul - OCERGS c) Certidão de Regularidade do Sistema Cooperativista, expedida pela OCERGS, emitida há menos de 30 (trinta) dias da data da abertura da presente licitação; d) Ata da última Assembléia Geral Ordinária convocada para a eleição dos atuais dirigentes, devidamente registrada na Junta Comercial do Estado do Rio Grande do Sul; e) Ata de Reunião de Diretoria na qual conste a relação de todos os associados da cooperativa, uma vez que o objeto desta licitação será prestado, no caso de ser uma cooperativa a vencedora do certame, por algum (ns) de seus integrantes; f) Livros de Matrícula, de Atas das Assembléias Gerais, de Atas dos Órgãos de Administração e do Conselho Fiscal, a teor dos artigos 22 e 23 da Lei nº. 5.764/71;
+
+7.4.
+
+7.5.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+8
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+g) Comprovação da composição do capital social da sociedade cooperativa, com a discriminação da participação de cada um de seus associados, conforme artigo 24 da Lei nº. 5.764/71; h) Comprovação da Constituição dos Fundos previstos nos incisos I e II do artigo 28 da Lei nº. 5.764/71, bem como do repasse dos percentuais de eventuais sobras líquidas do exercício previstos no mesmo artigo; i) Comprovação do retorno das sobras líquidas do exercício proporcionalmente às operações realizadas pelos associados.
+7.6.
+
+Será aplicado às sociedades cooperativas que tenham auferido, no ano-calendário anterior, receita bruta até o limite definido no inc. II do caput do art. 3º da Lei Complementar nº. 123/2006, nela incluídos os atos cooperados e não cooperados, o disposto nos Capítulos V a X, na Seção IV do Capítulo XI e no Capítulo XII daquela lei. As declarações solicitadas neste Edital e que não tenham prazo de validade expresso no seu corpo ter-se-ão como válidas, pelo prazo de 01 (um) ano, contados de sua emissão. As certidões que não tenham prazo de validade expresso no seu corpo ter-se-ão como válidas, pelo prazo de 90 (noventa) dias contados de sua emissão. Será inabilitada a licitante que deixar de apresentar quaisquer dos documentos exigidos, ou os apresentar em desacordo com o estabelecido neste Edital ou com irregularidades. DOS RECURSOS ADMINISTRATIVOS Encerrado o julgamento das propostas e da habilitação, o Pregoeiro proclamará a vencedora, proporcionando, a seguir, a oportunidade às licitantes para que manifestem a intenção de interpor recurso, esclarecendo que a falta dessa manifestação, imediata e motivada, considerando-se um período mínimo de 20 (vinte) minutos, importará na decadência do direito de recurso por parte da licitante. Tendo a licitante manifestado, motivadamente, a intenção de recorrer durante a Sessão Pública do Pregão, será registrada em ata a síntese das razões de recurso e, sendo este admitido, será consignada a intimação da recorrente, para apresentar suas razões de recurso, no prazo de 03 (três) dias corridos, em campo próprio do sistema, pelo site www.comprasnet.gov.br, ficando também intimadas as demais licitantes, a contar do término do prazo da recorrente, também em 03 (três) dias, a apresentarem contrarrazões, pelo mesmo endereço eletrônico antes mencionado. Será assegurado a todos vista imediata dos autos do processo junto ao Departamento de Compras. A manifestação na Sessão Pública e a motivação, no caso de recurso, são pressupostos de admissibilidade dos recursos.
+
+7.7.
+
+7.8.
+
+7.9.
+
+8. 8.1.
+
+8.2.
+
+8.3.
+
+8.4.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+9
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+8.5. 8.6.
+
+A contagem dos prazos obedecerá o disposto na legislação vigente. O acolhimento do recurso importará a invalidação, apenas, dos atos insuscetíveis de aproveitamento. A decisão proferida em grau de recurso será definitiva e dela dar-se-á conhecimento mediante publicação no Diário da Justiça Eletrônico e na Internet. Não serão conhecidas as razões e contrarrazões de recursos intempestivamente apresentadas. DA ADJUDICAÇÃO Constatado o atendimento das exigências fixadas no Edital, a licitante será declarada vencedora, sendo-lhe adjudicado o objeto do certame. Em caso de desatendimento às exigências relativas ao objeto ou à habilitação, o Pregoeiro desclassificará ou inabilitará a licitante e examinará as ofertas subsequentes e qualificação das licitantes, na ordem de classificação e, assim, sucessivamente, até a apuração de uma que atenda ao Edital, sendo a respectiva licitante declarada vencedora, ocasião em que o Pregoeiro poderá negociar a redução de preço diretamente com a proponente. DO CONTRATO Integra o presente Edital a minuta de contrato, em seu Anexo IV, o qual será encaminhado à licitante vencedora por e-mail, mediante AR ou por convocação via fax, devendo ser assinado em até 05 (cinco) dias úteis, contados da data da notificação, prorrogáveis nos termos do parágrafo 1º do art. 64, da Lei nº 8.666/93. Se a proponente vencedora não apresentar situação regular na assinatura do contrato ou, nos termos do inciso XXIII do artigo 4º da Lei nº 10.520, de 17.07.2002, se recusar a assinar o instrumento contratual, poderá ser convocada outra licitante, na ordem de classificação, examinando-se sua última oferta válida e verificando-se a aceitabilidade, procedendo-se à habilitação, e assim sucessivamente até a apuração de uma proposta que atenda ao Edital, hipótese em que a licitante será declarada vencedora e o objeto a ela adjudicado. Na hipótese do subitem anterior, o pregoeiro poderá negociar diretamente com a proponente para que seja obtida redução de preço. A critério da Administração, se a soma dos itens vencidos por uma licitante, não ultrapassar o valor de R$ 80.000,00 (oitenta mil reais), a contratação poderá ser realizada através de Ordem de Fornecimento.
+
+8.7.
+
+8.8.
+
+9. 9.1.
+
+9.2.
+
+10. 10.1.
+
+10.2.
+
+10.3.
+
+10.4.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+10
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+10.5.
+
+Quem convocado dentro do prazo de validade da sua proposta, não celebrar o contrato, deixar de entregar ou apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União, Estados, Distrito Federal ou Municípios e, será descredenciado do Sicaf, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º da Lei 10.520/02, pelo prazo de até 5 (cinco) anos, sem prejuízo de ser aplicada a multa no percentual de 10% sobre o valor do objeto. DAS DISPOSIÇÕES GERAIS As dúvidas de ordem técnica, bem como aquelas decorrentes de interpretação do Edital, deverão ser dirigidas ao e-mail compras@tjrs.jus.br, mediante requerimento das empresas interessadas, até 03 (três) dias úteis antes da abertura, ou por meio do formulário específico para tal fim, disponível no site do Tribunal de Justiça na Internet: http://www1.tjrs.jus.br/site/compras/, opção: "compras em andamento", aba: "questionamentos e impugnações". As impugnações dever ão ser interpostas até 02 (dois) dias úteis antes da abertura, até às 19 horas, conforme o art. 16 do Ato nº 43/2006-P. Informações de outra ordem poderão ser solicitadas pelo e-mail compras@tjrs.jus.br. A(s) ata(s) de julgamento(s), a(s) resposta(s) a questionamento(s), bem como de decisões quanto a impugnações ao Edital ou de recurso(s) estarão disponibilizadas na Internet, no site http://www1.tjrs.jus.br/site/compras/, opção: "compras em andamento", e www.comprasnet.gov.br, sendo de responsabilidade da licitante o acompanhamento das publicações lá inseridas. O resultado de consulta ou pedido de informações será respondido por e-mail somente à empresa consulente, ficando a resposta disponível no site http://www1.tjrs.jus.br/site/compras/, opção: "compras em andamento", e www.comprasnet.gov.br, aos demais interessados. Considerar-se-á como data da publicação no Diário da Justiça Eletrônico o primeiro dia útil seguinte ao da disponibilização da informação no site do TJ (www1.tjrs.jus.br), na forma do que dispõe a Lei nº 11.419, de 19 de dezembro de 2006, e o Ato nº 001/2007-P, publicado no Diário da Justiça Eletrônico do dia 30/01/2007. Independente de declaração expressa, a simples participação nesta licitação implica aceitação tácita das condições estipuladas neste Edital, decaindo o direito de impugnar os seus termos a licitante que, tendo-o aceito sem objeções vier, após julgamento desfavorável, dizer de falhas e/ou irregularidades que o viciem, conforme previsto no parágrafo 2º do art. 41 da Lei nº 8.666/93. Os questionamentos recebidos e as respectivas respostas, com relação ao presente Pregão, encontrar-se-ão à disposição de todos os interessados no DEC.
+
+11. 11.1.
+
+11.2.
+
+11.3.
+
+11.4.
+
+11.5.
+
+11.6.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+11
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+11.7.
+
+As normas que disciplinam este Pregão serão sempre interpretadas em favor da ampliação da disputa entre as interessadas, atendidos o interesse público e o da Administração, sem comprometimento da segurança da contratação. O desatendimento de exigências formais não essenciais não importará no afastamento da licitante, desde que seja possível a aferição da sua qualidade e a exata compreensão da sua proposta, durante a realização da sessão pública deste Pregão e desde que não fique comprometido o interesse do órgão promotor do certame, bem como a finalidade e a segurança da futura contratação. O Pregoeiro, no interesse da Administração, poderá relevar omissões puramente formais, observadas na documentação de habilitação e proposta de preços, desde que não contrariem a legislação vigente e não comprometam a lisura do procedimento.
+
+11.8.
+
+11.9.
+
+11.10. Todos os documentos exigidos no presente instrumento convocatório poderão ser
+
+apresentados em original, por qualquer processo de cópia autenticada por tabelião, ou publicação em órgão da imprensa oficial. Poderão ser apresentados documentos extraídos via Internet, cuja aceitação fica condicionada à verificação de sua autenticidade, mediante acesso ao site do Órgão que os expediu. 11.10.1. Serão aceitas somente cópias legíveis. 11.10.2. Não serão aceitos documentos cujas datas estejam rasuradas.
+11.11. É facultada, ao Pregoeiro, em qualquer fase da licitação, a promoção de diligência
+
+destinada a esclarecer ou complementar a instrução do processo.
+11.12. Ocorrendo a decretação de feriado ou qualquer fato superveniente que impeça a
+
+realização do certame na data marcada, todas as datas constantes deste Edital serão transferidas, automaticamente, para o primeiro dia útil ou de expediente normal subsequentes aos ora fixados, no mesmo local e horário anteriormente estabelecidos.
+11.13. Para agilização dos trabalhos, solicita-se que as licitantes façam constar em sua
+
+documentação o endereço e os números de fax, telefone e e-mail.
+11.14. A adjudicação do objeto da licitação à licitante vencedora e a homologação do
+
+certame não implicarão direito à contratação.
+11.15. A adjudicatária obriga-se a manter, durante toda a execução do Contrato, em
+
+compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas nesta licitação, devendo comunicar ao Tribunal, imediatamente, qualquer alteração que possa comprometer a manutenção do Contrato.
+11.16. No caso de alteração neste Edital no curso do prazo estabelecido para a
+
+realização do Pregão, o prazo será reaberto, exceto quando, inquestionavelmente, a alteração não afetar a formulação das propostas.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+12
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+11.17. Informações complementares deverão ser solicitadas no Departamento de
+
+Compras ­ DEC, no site http://www1.tjrs.jus.br/site/compras/, opção: "compras em andamento", assim como o acompanhamento do andamento da presente licitação .
+11.18. O Pregoeiro ou autoridade superior poderá valer-se de pareceres emitidos por
+
+técnicos ou especialistas no assunto objeto desta licitação.
+11.19. A licitante vencedora ficará obrigada a aceitar, nas mesmas condições contratuais,
+
+os acréscimos ou supressões que se fizerem necessários, até o limite permitido pelo artigo 65, parágrafo 1º, da Lei nº 8.666/93.
+11.20. Por ocasião da assinatura do contrato, a contratada deverá apresentar prova
+
+atualizada de regularidade perante o INSS e o FGTS, bem como a declaração prevista no art. 3º do Ato nº 007/2009-P.
+11.21. Havendo divergências entre o objeto no sistema e no Edital, prevalecerá a
+
+descrição do Edital.
+11.22. São anexos deste Edital (todos disponíveis no sistema eletrônico, em campo
+
+próprio): ANEXO I - TERMO DE REFERÊNCIA ANEXO II - MODELO DE PROPOSTA DE PREÇOS ANEXO III - MODELO DE DECLARAÇÃO PARA HABILITAÇÃO ANEXO IV - MINUTA DE CONTRATO ANEXO V - MODELO DE TERMO DE DESIGNAÇÃO DE GESTOR ANEXO VI - MODELO DE ORDEM DE SERVIÇO ANEXO VII - ACORDO DE NÍVEL DE SERVIÇO (ANS) ANEXO VIII - AMBIENTE OPERACIONAL
+12. 12.1.
+
+DO FORO Fica eleito o Foro da Comarca de Porto Alegre-RS, para dirimir quaisquer litígios oriundos deste Edital e do contrato, com expressa renúncia a outro qualquer, por mais privilegiado que seja.
+
+DEC, 22 de junho 2011.
+
+Clayton Rebello da Silva, Diretor do DEC.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+13
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO I ­ TERMO DE REFERÊNCIA PREGÃO ELETRÔNICO Nº 83/2011-DEC 1. DO OBJETO
+
+1.1. O serviço compreende a prestação mensal, de acordo com a demanda, de serviço técnico especializado para as atividades de Consultoria, Desenvolvimento e Manutenção de sistemas de informação, conforme as especificações constantes neste Termo: Grupo Grupo I Item 1 2 3 4 Descrição do Serviço Consultoria Desenvolvimento e manutenção: Pontos de Função Desenvolvimento e manutenção: Análise de Sistemas Desenvolvimento e manutenção: Programação Unidade Horas
+Pontos de Função
+
+Horas Horas
+
+1.2. O prazo de início dos serviços, após a solicitação formal do contratante, será de, no máximo, 10 (dez) dias.
+
+2. DO DETALHAMENTO DOS SERVIÇOS
+
+2.1. Do serviço de Consultoria por Homem-Hora 2.1.1. O serviço de consultoria compreende: 2.1.1.1. A prestação de serviços, incluindo à melhoria de capacitação e mentoring, e métodos seus
+
+voltados utilizados
+
+procedimentos,
+
+artefatos
+
+pela
+
+Departamento de Informática do TJRS em
+
+processos internos de desenvolvimento e manutenção de sistemas de informação; 2.1.1.2. A análise do modelo atual de desenvolvimento e manutenção de
+
+sistemas de informação e a elaboração de proposta de novo modelo aderente às melhores práticas do mercado (como por exemplo, CMMI ­ Capability Maturity Model Integrated ­ ou MPS.BR ­ Melhoria de Processos do Software Brasileiro, IFPUG ­ International Function Point Users Group, PMBOK ­ Project Management Body of Knowledge, NBR ISO/IEC 27.002, entre outras);
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+14
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+2.1.1.3.
+
+O apoio na implantação do novo modelo de desenvolvimento de
+
+sistemas de informação e posterior suporte à melhorias no processo. 2.1.1.4. O suporte ao gerenciamento de projetos e ao gerenciamento de acompanhamento e
+
+equipes de projetos. A distribuição do trabalho, controle da execução de projetos.
+
+2.2. Do serviço de Desenvolvimento e Manutenção por Homem-Hora 2.2.1. O serviço de Desenvolvimento compreende o desenvolvimento de novas aplicações, a partir de especificações estabelecidas ou validadas pelo TJRS, e em conformidade com a metodologia de desenvolvimento de sistemas atualmente adotada ­ ou uma que venha a ser, aplicando os procedimentos necessários à garantia da qualidade dos produtos gerados. 2.2.2. O serviço de Manutenção compreende as modificações em aplicações em produção, com o objetivo de prevenção, correção de falhas, implementação de melhorias ou adaptações. Podem ser classificadas da seguinte forma: 2.2.2.1. Manutenção Corretiva: consiste na correção de defeitos em
+
+aplicações em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento da aplicação e quaisquer desvios em relação aos requisitos da aplicação; 2.2.2.2. Manutenção Evolutiva: corresponde à inclusão, alteração e exclusão
+
+de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio. 2.2.3. O volume de utilização dos serviços de desenvolvimento e manutenção de sistemas de informação por Homem-Hora serão gradualmente reduzidos com a implantação do novo modelo em regime de fábrica de software com utilização da métrica Pontos de Função. 2.3. Do serviço de Desenvolvimento e Manutenção por Pontos de Função 2.3.1. O serviço de desenvolvimento e manutenção por Pontos de Função
+
+compreende o desenvolvimento de novas aplicações e a manutenção em aplicações já existentes através de um modelo de fábrica de software e com a utilização da métrica Pontos de Função; 2.3.2. O processo de desenvolvimento de sistemas em um modelo de fábrica de software, a ser definido como parte do serviço de Consultoria, conterá no mínimo as seguintes etapas:
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+15
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+Etapa do Processo de Desenvolvimento de Sistemas Análise de Sistemas Projeto de Software Construção Teste Documentação 2.3.2.1. 2.3.3. O TJRS poderá contratar as etapas separadamente.
+
+A utilização deste serviço somente acontecerá após a revisão do modelo
+
+atual de desenvolvimento e manutenção de sistemas de informação.
+
+3. DA GESTÃO E ACOMPANHAMENTO DAS ORDENS DE SERVIÇOS 3.1. A administração da prestação dos serviços será realizada por intermédio de Ordens de Serviço (OS) emitidas pelo TJRS (conforme modelo ­ Anexo VI do Edital). 3.2. As Ordens de Serviço conterão as especificações necessárias para a execução das tarefas, incluindo: 3.2.1. O escopo do trabalho; 3.2.2. A indicação de materiais adicionais necessários para o entendimento da tarefa; 3.2.3. A carga horária de trabalho estimada em horas pelo TJRS; 3.2.4. As datas limites de início e término da Ordem de Serviço; 3.2.5. O nome do solicitante do TJRS; 3.2.6. O nome do responsável pelo aceite da CONTRATADA. 3.3. A emissão e o aceite das ordens de serviço será formalizado por instrumento específico. 3.4. A quantidade estimada de horas de trabalho, constante na Ordem de Serviço, poderá ser reavaliada pelo TJRS, mediante solicitação prévia, devidamente justificada pela CONTRATADA. 3.5. O prazo máximo para o aceite da Ordem de Serviço irá variar conforme o tipo de serviço. 3.5.1. Para o serviço de desenvolvimento e manutenção de sistemas utilizando a métrica Homem-hora, o prazo máximo é de 3 (três) dias úteis a contar da data de envio pelo TJRS;
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+16
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+3.5.2. Para o serviço de desenvolvimento e manutenção de sistemas utilizando a métrica Pontos de Função, será estabelecido um prazo a partir do novo processo de desenvolvimento de sistemas a ser definido. 3.6. As ordens de serviço em execução somente poderão ser revisadas mediante justificativa com comprovação de situação imprevisível, como, por exemplo, mudança do escopo ou validação de produtos pelos responsáveis. 3.7. As Ordens de Serviço (OS) servirão como referência básica para as definições do Acordo de Nível de Serviço (ANS) firmado entre o TJRS e a CONTRATADA e que faz parte do Edital (Anexo VII). 3.7.1. Para o serviço de desenvolvimento e manutenção de sistemas utilizando a métrica Pontos de Função, será elaborado termo aditivo ao contratato com o respectivo Acordo de Nível de Serviço (ANS); 3.8. A CONTRATADA deverá disponibilizar um sistema de acompanhamento das Ordens de Serviço, incluindo a apropriação de horas e atividades que permita ao TJRS consultar e acompanhar a prestação do serviço online. 3.8.1. O sistema deverá prever o atendimento dos diferentes tipos de serviço (Consultoria, Desenvolvimento e Manutenção ­ Homem-Hora e Pontos de Função), em conformidade com os prazos e condições para seu atendimento; 3.8.2. O sistema deverá contemplar todas as informações necessárias para a operacionalização das Ordens de Serviço; 3.8.3. O TJRS poderá solicitar à CONTRATADA a construção e disponibilização de interface com ferramenta de sua propriedade, ficando a CONTRATADA obrigada a atender no prazo apropriado sem ônus para o TJRS.
+
+4. DO LOCAL DE EXECUÇÃO DOS SERVIÇOS E RECURSOS 4.1. Dos Serviços Contratados Através da Métrica Homem-Hora 4.1.1. Os serviços contratados através da métrica Homem-Hora serão prestados nas dependências do TJRS em Porto Alegre, RS (Av. Borges de Medeiros, 1565 ­ Tribunal de Justiça ­ e Praça Mal. Deodoro, nº 55 ­ Palácio da Justiça), ou em local designado pela Administração do TJRS. 4.1.2. Os serviços serão executados em dias úteis, de acordo com o horário de trabalho do TJRS.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+17
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+4.1.2.1.
+
+Poderá haver trabalho noturno ou nos fins de semana, em razão de
+
+aumento de demanda ou fato que o justifique, devendo tais serviços ser previamente autorizados pelo TJRS. Estima-se que trabalhos dessa natureza representarão 2% (dois por cento) do total do contrato. 4.1.3. A prestação dos serviços será executada com a orientação do Gestor Técnico da CONTRATADA, responsável pela realização dos serviços contratados (conforme subitem 6.3 deste Anexo). 4.1.4. A prestação dos serviços será acompanhada e fiscalizada pelos técnicos do TJRS. 4.1.5. Algumas atividades ou fases dos serviços poderão, dependendo de características específicas, ser realizadas nas instalações da CONTRATADA, desde que previamente acordado entre as partes. 4.2. Dos Serviços Contratados Através da Métrica Pontos de Função 4.2.1. Os serviços contratados através da métrica Pontos de Função serão prestados nas dependências da CONTRATADA, e, quando necessário, para as atividades que requerem análise de requisitos e interface com os servidores, deverão ser realizados nas dependências do TJRS em Porto Alegre, RS (Av. Borges de Medeiros, 1565 ­ Tribunal de Justiça ­ e Praça Mal. Deodoro, nº 55 ­ Palácio da Justiça), ou em local designado pela Administração do TJRS. 4.2.2. Quando realizados nas dependências do TJRS, será de responsabilidade da CONTRATADA o deslocamento dos profissionais envolvidos na prestação dos serviços. 4.2.3. Quando realizados nas dependências da CONTRATADA, os serviços serão executados com a orientação do Gestor Técnico da CONTRATADA, responsável pela realização dos serviços contratados (conforme subitem 6.3 deste Anexo). 4.2.4. Oambiente operacional atual do Departamento de Informática (sistemas operacionais, sistemas de gerenciamento de bancos de dados e as principais ferramentas de desenvolvimento) encontra-se descrito no Anexo VIII do Edital ­ Ambiente Operacional.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+18
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5. DA CAPACIDADE DA CONTRATADA 5.1. Para a prestação dos serviços, a CONTRATADA deverá possuir uma metodologia de desenvolvimento de sistemas de informação bem definida, utilizando um dos seguintes modelos de processo de desenvolvimento de sistemas de informação: 5.1.1. CMMI (Capability Maturity Model Integrated) pelo SEI ­ Software Engineering Institute, Nível 3, ou superior; 5.1.2. MPS.BR (Melhoria de Processos do Software Brasileiro) pela SOFTEX Associação para Excelência de Software Brasileira, Nível C, ou superior; 5.2. A CONTRATADA deverá apresentar comprovação, por meio de atestado ou certificado oficial, de que a empresa obteve êxito na avaliação do nível de maturidade em um dos modelos citados no item anterior, dentro do prazo de validade. 5.3. A CONTRATADA deverá apresentar documentos que comprovem que a empresa conta, em seu corpo técnico, com profissionais habilitados para cumprimento das atividades previstas neste edital, com os seguintes perfis: 5.3.1. Um (1) Gerente de Projetos. 5.3.1.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.1.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.1.1.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 3 (três) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.1.1.3. Certificação Project Management Professional (PMP) do PMI
+
+(Project Management Institute). 5.3.2. Dois (2) Analistas de Sistemas. 5.3.2.1. Qualificação mínima:
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+19
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.3.2.1.1.
+
+Formação (i) superior completa nas áreas de Informática,
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.2.1.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 3 (três) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.3. Dois (2) Analistas de Testes. 5.3.3.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.3.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.3.1.2. Experiência no exercício de atividades específicas do serviço de, no mínimo, 2 (anos) anos, devidamente
+
+em questão
+
+comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.3.1.3. Formação em curso de Teste e Qualidade de Software de, no
+
+mínimo, 60 horas/aula. 5.3.4. Um (1) DBA (Database Administrator) Oracle. 5.3.4.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.4.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.4.1.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 2 (dois) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas;
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+20
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.3.4.1.3.
+
+Certificação DBA Oracle.
+
+5.3.5. Um (1) especialista na técnica de contagem de Pontos de Função. 5.3.5.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.5.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.5.1.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 2 (dois) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.5.2. Certificação CFPS ­ Certified Function Point Specialist ­ emitido
+
+pelo IFPUG (International Function Point Users Group). 5.4. A comprovação de vínculo dos profissionais com a CONTRATADA deverá ser através de carteira de trabalho ou contrato societário do profissional, em original ou cópia devidamente autenticada. 5.4.1. A comprovação da qualificação dos profissionais deverá ser através dos documentos originais ou cópias devidamente autenticadas. 5.5. O corpo técnico apresentado não será, obrigatoriamente, o que estará atuando nas demandas do TJRS, sendo este para demonstrar o preparo da CONTRATATA para o cumprimento do objeto. 5.6. Até o início da prestação dos serviços, a CONTRATADA deverá possuir matriz e/ou filial tabelecida em Porto Alegre ou na Região Metropolitana de Porto AlegreRMPA.
+
+6. DA CAPACIDADE DOS PROFISSIONAIS 6.1. Para a prestação dos serviços contratados através da métrica Homem-Hora, a CONTRATADA será responsável pela disponibilização de profissionais com perfil e qualificações adequados, conforme o modelo detalhado a seguir. 6.1.1. Consultor 6.1.1.1. Atividades a serem desenvolvidas: Avaliação do processo de desenvolvimento de sistemas de
+
+6.1.1.1.1.
+
+informação, visando à aplicação de melhores práticas;
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+21
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+6.1.1.1.2.
+
+Elaboração
+
+de
+
+proposta
+
+de
+
+melhoria
+
+do
+
+modelo
+
+de
+
+desenvolvimento de sistemas de informação; 6.1.1.1.3. Gerenciamento de projetos, distribuição do trabalho,
+
+acompanhamento e controle da execução de projetos; 6.1.1.1.4. Definição de procedimentos para medição de sistemas de
+
+informação; 6.1.1.1.5. Definição de procedimentos de teste de sistemas de
+
+informação; 6.1.1.1.6. Preparação e administração de workshops e treinamentos,
+
+conforme a necessidade. 6.1.1.2. O perfil do consultor é o de um profissional sênior, com
+
+conhecimentos técnicos compatíveis com o tipo das atividades desenvolvidas (conforme o item 6.1.1.1): 6.1.1.2.1. 6.1.1.2.2. 6.1.1.2.3. 6.1.1.2.4. 6.1.1.3. analista de negócios; analista de processo/qualidade; gerente de projetos; analista/arquiteto de sistemas.
+
+Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+6.1.1.3.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 6.1.1.3.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 3 (três) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas. 6.1.2. Analista de Sistemas 6.1.2.1. Atividades a serem desenvolvidas: Identificação, análise e especificação de necessidades à
+
+6.1.2.1.1.
+
+construção e aprimoramento de sistemas de informação; 6.1.2.1.2. Realizar entrevistas, reuniões, pesquisas e demais atividades
+
+relacionadas ao levantamento de requisitos funcionais e de dados;
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+22
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+6.1.2.1.3.
+
+Executar as etapas de modelagem conceitual, lógica e física
+
+de dados; 6.1.2.1.4. 6.1.2.1.5. Elaborar especificações de programas; Executar outras tarefas relacionadas ao processo de
+
+desenvolvimento de sistemas de informação. 6.1.2.2. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+6.1.2.2.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 6.1.2.2.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 2 (dois) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas. 6.1.3. Programador 6.1.3.1. Atividades a serem desenvolvidas: Interpretação de projetos lógicos de sistemas e sua
+
+6.1.3.1.1.
+
+implementação através de projetos físicos, mediante o uso de linguagens de programação e ferramentas de interfaces de desenvolvimento conforme a tecnologia do projeto em questão; 6.1.3.1.2. Documentação, incluindo as funcionalidades implementadas,
+
+os modelos de dados atualizados, manual de orientação a usuários, etc.; 6.1.3.1.3. 6.1.3.2. Realização de testes unitários.
+
+Qualificação mínima: Formação (i) superior completa ou (ii) cursando no mínimo a
+
+6.1.3.2.1.
+
+partir do 5º (quinto) semestre, nas áreas de Informática, Sistemas de Informação, Ciência da Computação e correlatas, devidamente comprovado através de cópia autenticada do comprovante de matrícula, ou (iii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas;
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+23
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+6.1.3.2.2.
+
+Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 2 (dois) anos, com a tecnologia conforme o projeto em questão, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas. 6.1.4. A comprovação da qualificação dos profissionais deverá ser através dos documentos originais ou cópias devidamente autenticadas. 6.2. O preço orçado para a execução da totalidade dos serviços é de R$ 5.846.000,00 (cinco milhões, oitocentos e quarenta e seis mil reais). 6.3. Para a prestação dos serviços de desenvolvimento e manutenção contratados através da métrica Pontos de Função, em regime de Fábrica de Software, a CONTRATADA deverá disponibilizar todos os profissionais quanto sejam necessários para atender o volume contratado, no prazo definido em contrato. 6.4. A CONTRATADA deverá disponibilizar um Gestor Técnico que atuará nas dependências do Departamento de Informática no TJRS. 6.4.1. O Gestor Técnico será o responsável pelo acompanhamento e orientação dos serviços prestados pelos profissionais da CONTRATADA,
+
+compreendendo: 6.4.1.1. A comunicação com o Gestor do Contrato do TJRS para promover a
+
+execução do contrato; 6.4.1.2. A coordenação técnica e administrativa das atividades dos
+
+profissionais da CONTRATADA; 6.4.1.3. 6.4.1.4. 6.4.1.5. O controle das entregas nos prazos definidos; A distribuição das tarefas entre os profissionais; A revisão das estimativas de tempo de desenvolvimento das Ordens
+
+de Serviço. 6.4.2. A qualificação do Gestor Técnico deverá ser, no mínimo, a seguinte: 6.4.2.1. Formação (i) superior completa nas áreas de Informática, Sistemas
+
+de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas;
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+24
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+6.4.2.2.
+
+Experiência no exercício de atividades de gestão de serviços de
+
+desenvolvimento de sistemas de informação de, no mínimo, 3 (três) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas. 6.5. O Gestor Técnico será remunerado à CONTRATADA nos mesmos valores do profissional Consultor. 6.6. Os profissionais referenciados pelos subitens 6.1.1, 6.1.2, 6.1.3 e 6.3 deverão: 6.6.1. Possuir vínculo empregatício com a CONTRATADA regido pela CLT ­ Consolidação das Leis do Trabalho; 6.6.2. Apresentar comprovação, através de Carteira de Trabalho ou declarações de empresas, de que já desempenharam atividades específicas do serviço em questão. 6.7. O TJRS poderá solicitar a substituição de técnicos cuja operação esteja em desacordo com a melhor técnica vigente, devendo a empresa alocar substituto com grau equivalente ou superior de qualificação técnica.
+
+7. DA ESTIMATIVA MÁXIMA DE UTILIZAÇÃO DOS SERVIÇOS 7.1. A estimativa máxima de utilização dos serviços, por tipo de serviço, é a seguinte: Grupo Item 1 Grupo I 2 3 4 Descrição do Serviço Consultoria Desenvolvimento e manutenção: Pontos de Função Desenvolvimento e manutenção: Análise de Sistemas Desenvolvimento e manutenção: Programação Unidade Horas Pontos de Função Horas Horas Quantidade Estimada
+(anual)
+
+5.000 3.000 25.000 21.000
+
+7.2. Os totais estimados poderão ser executados em sua totalidade ou em parte. O volume será distribuído pelo TJRS, considerando o tipo de serviço, a complexidade e a prioridade das atividades. 7.3. O TJRS não tem compromisso de contratação da totalidade dos valores aqui descritos, sendo estas apenas uma estimativa (máxima).
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+25
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+7.4. O TJRS somente pagará à CONTRATADA os serviços efetivamente realizados em cada mês, não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. 7.5. Inicialmente, os serviços demandados serão os de Consultoria e Análise de Sistemas e Programação, por hora. 7.6. Na medida do andamento do serviço de Consultoria, com a revisão do processo de desenvolvimento de sistemas de informação atualmente em uso, a contratação do serviço através de Pontos de Função será demandada, com a redução gradual dos serviços contratados por hora.
+
+8. DAS RESPONSABILIDADES 8.1. Ao TJRS caberá: 8.1.1. Permitir o acesso dos profissionais da CONTRATADA, devidamente credenciados, às dependências do Tribunal, bem como o acesso a dados e informações necessários ao desempenho das atividades previstas nesta contratação, ressalvados os casos de matéria sigilosa; 8.1.2. Prestar as informações e os esclarecimentos atinentes ao objeto, que venham a ser solicitados pelos profissionais da CONTRATADA; 8.1.3. Fornecer, no caso de atividade desenvolvida nas dependências do TJRS, instalações adequadas ao bom desempenho da equipe da CONTRATADA, incluindo: 8.1.3.1. Servidores e estações de trabalho compatíveis com as necessidades
+
+identificadas para a execução do serviço; 8.1.3.2. 8.1.3.3. Licenças de uso dos softwares utilizados; Infraestrutura de rede local.
+
+8.1.4. Designar servidor para gerenciar operacionalmente as atividades e as tarefas relativas à execução do Contrato; 8.2. ÀCONTRATADA caberá: 8.2.1. Disponibilizar técnicos empregados e contratados suficientes para a execução do objeto, devidamente capacitados e habilitados para cada atividade a ser desempenhada.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+26
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+8.2.2. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando, em ocorrência da espécie, forem vítimas os seus técnicos, em execução do serviço ou em conexão com ele, ainda que acontecido nas dependências do TJRS. 8.2.3. Arcar com todas as despesas de eventuais deslocamentos, hospedagens e alimentação que se fizerem necessárias aos prestadores de serviço. 8.2.4. Manter seus técnicos e prepostos sujeitos às normas disciplinares do TJRS durante a execução dos serviços; 8.2.5. Respeitar as normas e procedimentos de segurança do TJRS; 8.2.6. Prover o controle das atividades e das horas consumidas e autorizadas nas Ordens de Serviço, assim como o cumprimento dos cronogramas e execução dos trabalhos. 8.2.7. Guardar inteiro sigilo dos serviços contratados e dos dados processados, bem como de todo e qualquer programa e sistema desenvolvidos, incluindo sua documentação, reconhecendo ser esses de propriedade e uso exclusivo do Contratante, sendo vedadas, à CONTRATADA, sua cessão, locação ou venda a terceiros. 8.2.8. Utilizar padrões aprovados pelo TJRS (nomenclaturas, metodologias, rotinas de desenvolvimento, testes, etc.). 8.2.9. Fornecer os scripts, programas fontes, assim como todos os componentes, materiais e produtos gerados durante a prestação dos serviços, bem como toda documentação pertinente em CD-ROM e em documentos compatíveis com os softwares utilizados pelo TJRS. 8.2.10. Apresentar, previamente, o Curriculum Vitae de todos os
+
+profissionais envolvidos na execução dos serviços contratados através da métrica Homem-Hora. 8.2.11. 8.2.12. Substituir o técnico mediante requerimento feito pelo TJRS. A referida substituição poderá ser requerida em decorrência de
+
+avaliações do TJRS, não cabendo questionamentos, se entendido que: 8.2.12.1. O técnico não se adaptou ao serviço; 8.2.12.2. Falta experiência prática, embora tenha tempo de serviço
+
+demonstrado no currículo para a atividade delegada;
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+27
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+8.2.12.3. Existem problemas de qualquer ordem que o impossibilita de executar suas atividades/tarefas nos horários e escalas definidos pelo Tribunal; 8.2.12.4. O desempenho profissional e a conduta do técnico são prejudiciais, inconvenientes ou insatisfatórios. 8.2.13. Alocar representante responsável pelo gerenciamento dos serviços a
+
+serem prestados durante toda a vigência do contrato. 8.2.14. Responder, integralmente, por perdas e danos que vierem a causar
+
+diretamente ao TJRS ou a terceiros em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, independentemente de outras cominações contratuais ou legais a que estiver sujeita. 8.2.15. Responder pelas despesas relativas a encargos trabalhistas, de
+
+seguro de acidentes, impostos, contribuições previdenciárias e quaisquer outras que forem devidas e referentes aos serviços executados por seus empregados, os quais não têm nenhum vínculo empregatício com o TJRS. 8.2.16. A CONTRATADA não será responsável por qualquer perda ou dano
+
+resultante de caso fortuito ou força maior. 8.3. O TJRS não aceitará, sob nenhum pretexto, a transferência de responsabilidade da CONTRATADA para terceiros, sejam fabricantes, representantes ou quaisquer outros.
+
+9. DA PROPRIEDADE INTELECTUAL E DO DIREITO AUTORAL 9.1. O Contratante, para todos os efeitos de aplicação das Leis nº 9.609/98 e 9.610/98 e regulamentos correlatos, deverá ser o único proprietário de licença para utilização dos programas desenvolvidos pela CONTRATADA, devendo esta, para tanto: 9.1.1.1. Ceder ao Contratante o direito de propriedade intelectual aos desenvolvidos/mantidos, logo após seus recebimentos
+
+produtos definitivos; 9.1.1.2.
+
+Entregar o projeto, suas especificações técnicas, documentação,
+
+código-fonte de programa e todos os produtos gerados, logo após o seu recebimento definitivo;
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+28
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+9.1.1.3.
+
+Os produtos originados do contrato não poderão, em hipótese
+
+alguma, ser cedidos, copiados e utilizados sem autorização prévia por escrito do Contratante.
+
+10. DA VISITA TÉCNICA DA EMPRESA 10.1. A empresa deverá fazer visita técnica à sede do TJRS (Av. Borges de
+
+Medeiros, 1565, Porto Alegre, RS), objetivando tomar conhecimento da estrutura operacional do TJRS. A visita deve ser marcada previamente com a Secretaria do Departamento de Informática, que se encarregará de seu registro, por intermédio do telefone (51) 3210-7540, e ser realizada com antecedência mínima de 2 (dois) dias úteis da data estabelecida para abertura da licitação. 10.2. O Departamento de Informática providenciará um "Atestado de Visita
+
+Técnica" que deverá ser apresentado pela Licitante no momento da Habilitação. 11. JUSTIFICATIVA PARA O DISPÊNDIO FINANCEIRO O Planejamento Estratégico do Poder Judiciário do Estado do Rio Grande do Sul, aprovado no dia 22 de fevereiro de 2010, tem entre seus objetivos o desenvolvimento de uma Instituição moderna e eficiente no cumprimento do seu dever. E não poderia ser diferente, considerando o aumento crescente da demanda pelos serviços prestados pelo Judiciário Estadual. Os resultados expressivos obtidos até o momento somente são possíveis com o uso intensivo da Tecnologia da Informação e Comunicação (TIC). Entretanto, estes números ainda precisam melhorar. Neste sentido, o próprio Planejamento Estratégico definiu a TIC como um tema pontual do planejamento, tendo o objetivo estratégico de "Eficientizar Meios e Gestão de Informática". Para isto, foram definidas três linhas de atuação: 1) Virtualização Processual, 2) reestruturação do Departamento de Informática, e 3) desenvolvimento do Plano Diretor de Tecnologia de Informação e Comunicação. Principalmente na linha da Virtualização Processual, mas não apenas, o Departamento de Informática do TJRS vem procurando agilizar a sua atuação através da redução do tempo de resposta esperado para a confecção dos sistemas de informação que apoiam os principais processos de negócio do Poder Judiciário. E para atender a este objetivo, vislumbra-se como uma das soluções a contratação de serviços de apoio técnico especializado em consultoria, desenvolvimento e manutenção de sistemas de informação, contemplando a utilização das melhores práticas reconhecidas pelo mercado.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+29
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+Nos últimos anos o Departamento de Informática já vem trabalhando com o apoio de empresas terceiras para o desenvolvimento e manutenção dos sistemas de informação do Poder Judiciário. As contratações deste tipo de serviço foram, até o momento, sempre baseadas em um métrica de "Homem-hora". Neste modelo, de forma resumida, o esforço utilizado no desenvolvimento do software é calculado em uma determinada quantidade de horas trabalhadas por profissional. Porém, atualmente o que se percebe é que um grande número de organizações, públicas e privadas, têm utilizado a métrica de "Pontos de Função", em um regime de "Fábrica de Software", para o dimensionamento de tamanho funcional de projetos de desenvolvimento software. Isto se deve aos diversos benefícios de sua utilização, entre eles a existência de regras de contagem objetivas e a independência da solução tecnológica utilizada. O "Manual de Práticas de Contagem de Pontos de Função" (CPM 4.3), publicado pelo International Function Point Users Group (IFPUG), define as regras básicas orientativas de contagem de Pontos de Função. Para o trabalho proposto neste edital, também será utilizado como referência o "Roteiro de Métricas de Software Versão 1.0" do SISP (Sistema de Administração de Recursos de Informação e Informática) da SLTI (Secretaria de Logística e Tecnologia da Informação do Governo Federal). Este conjunto de fatores, entre outros, define o seu uso como uma das boas práticas na contratação de serviços de desenvolvimento de software. A implantação de um processo objetivo de medição de tamanho funcional de software permite a mudança do modelo tradicional de contratação de software com base na métrica Homem-hora para o novo paradigma de contratação com base na métrica Pontos de Função. Entretanto, a implantação de um novo processo de medições de software e a mudança do modelo com base na métrica homem-hora para o novo paradigma com base na métrica Pontos de Função requer uma mudança cultural. Não se trata apenas de um profissional executando uma nova tarefa, mas, sim, de uma grande alteração na forma de trabalho deste profissional. Neste sentido, o Departamento de Informática envidou esforços para planejar um novo modelo de contratação. Este Termo de Referência é fruto deste planejamento, tendo como objeto a contratação de serviços de desenvolvimento de software através de um modelo de transição, que permita ao Poder Judiciário manter os seus sistemas atuais ­ através de uma contratação temporária baseada na métrica homem-hora ­ e ao mesmo tempo evoluir para a utilização da métrica Pontos de Função. A contratação desses serviços visam não só aumentar a capacidade de resposta do Departamento de Informática no curto prazo, mas, no médio prazo, lapidar a capacidade técnica de sua equipe, de modo a garantir que novos níveis de capacidade e excelência sejam alcançados através da transferência de conhecimento entre a equipe da prestadora de serviços e os técnicos deste Tribunal. 12. DO CRITÉRIO DE ACEITAÇÃO DO OBJETO 12.1. A empresa vencedora da licitação deverá atender a todas as exigências do Ato Convocatório.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+30
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+13. DAS CONDIÇÕES PARA A EXECUÇÃO SERVIÇOS 13.1. Em conformidade com a Cláusula Segunda do Anexo IV ­ Minuta do Contrato. 14. DO PREÇO E PAGAMENTO 14.1. Em conformidade com a Cláusula Terceira do Anexo IV ­ Minuta do Contrato. 15. DO ACOMPANHAMENTO E FISCALIZAÇÃO DO CONTRATO 15.1. Em conformidade com a Cláusula Quarta do Anexo IV ­ Minuta do. 16. DAS OBRIGAÇÕES CONTRATADA 16.1. Em conformidade com as Cláusula Quinta do Anexo IV ­ Minuta do Contrato. 17. DAS OBRIGAÇÕES DO CONTRATANTE 17.1. Em conformidade com as Cláusula Sexta do Anexo IV ­ Minuta do Contrato. 18. DA PROPRIEDADE INTELECTUAL E DO DIREITO AUTORAL 18.1. Em conformidade com a Cláusula Sétima do Anexo IV ­ Minuta do Contrato de Suporte Técnico. 19. DA GARANTIA DOS SERVIÇOS 19.1. Em conformidade com a Cláusula Oitava do Anexo IV ­ Minuta do Contrato de Suporte Técnico. 20. DAS PENALIDADES 20.1. Em conformidade com a Cláusula Nona do Anexo IV ­ Minuta do Contrato de Suporte Técnico. 21. DA VIGÊNCIA CONTRATUAL 21.1. Em conformidade com a Cláusula Décima do Anexo IV ­ Minuta do Contrato de Suporte Técnico. 22. DO REAJUSTAMENTO DE PREÇOS 22.1. Em conformidade com a Cláusula Décima Primeira do Anexo IV ­ Minuta do Contrato de Suporte Técnico.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+31
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO II ­ MODELO DE PROPOSTA DE PREÇOS PREGÃO ELETRÔNICO Nº 83/2011-DEC Apresentamos nossa proposta para fornecimento do objeto da presente licitação, acatando todas as estipulações consignadas no Edital, conforme abaixo: Qt. Grupo Item 1 2 Grupo I Descrição Consultoria, conforme termo de referência. Desenvolvimento e manutenção: Pontos de Função, conforme termo de referência. Desenvolvimento e manutenção: Análise de Sistemas, conforme termo de referência. Desenvolvimento e manutenção: Programação, conforme termo de referência. Un. Horas Pontos de Função Horas
+Estimada (anual)
+
+Valor Unit. (R$)
+
+Valor Total do Item (R$)
+
+5.000 3.000
+
+3
+
+25.000
+
+4
+
+Horas
+
+21.000
+
+Valor Global da Proposta 1. Dados da empresa:
+
+R$ ................... (......................)
+
+a) razão social completa da empresa, endereço atualizado, telefone, fax, email............; b) nº do CNPJ, que deverá ser o mesmo constante dos documentos de habilitação e da Nota Fiscal a ser emitida, caso seja vencedora do certame..........................................; c) nome da pessoa indicada para contatos, com o respectivo nº do telefone convencional e celular..................................................................................................... 2. Prazos de validade da proposta de, no mínimo, 60 (sessenta) dias, contados da data-limite prevista para entrega das propostas, conforme o art. 64, parágrafo 3º, da Lei nº 8.666/93 e art. 6º da Lei nº 10.520, de 17.07.2002. 3. Preços: a) Planilha de preços com valores unitários e global da proposta, indicado em moeda nacional; b) No referido preço deverão estar incluídas quaisquer vantagens, abatimentos, impostos, taxas e contribuições sociais, obrigações trabalhistas, previdenciárias, fiscais e comerciais, que eventualmente incidam sobre a operação; ou, ainda, despesas com transporte ou terceiros, que correrão por conta da licitante vencedora;
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+32
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+c) serão considerados, para fins de julgamento, os valores constantes no preço até, no máximo, quatro casas decimais após a vírgula. Obs.: O preenchimento do presente anexo acarretará a conformidade da proposta da licitante com todas as características do objeto e exigências constantes no Edital. Data ......../.........../........... ............................................... Nome e assinatura do representante legal Telefone, celular e e-mail.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+33
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO III - MODELO DE DECLARAÇÃO PARA HABILITAÇÃO PREGÃO ELETRÔNICO Nº 83/2011-DEC
+
+................................ (nome da empresa) ........................................., CNPJ nº ................................................ sediada ................................................ (endereço completo) ........................................, declara, sob as penas da lei, o seguinte: a) para os fins do disposto nos artigos 2º, inciso V, e 3.º, da Resolução n.º 07, de 18/10/2005, com a redação dada pela Resolução n.º 09, de 06/12/2005, ambas do Conselho Nacional de Justiça ­ CNJ, de ( ) TER ( ) NÃO TER sócios ou empregados que sejam cônjuges, companheiros ou parentes em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, de ocupantes de cargos de direção e de chefia ou exercentes de função gratificada da mesma natureza ou, ainda, de magistrados vinculados ao Poder Judiciário do Estado do Rio Grande do Sul; Observação: em caso afirmativo, os subitens "a.1", "a.2" e "a.3" devem, obrigatoriamente, ser preenchidos. a.1) nome do sócio/empregado ........................................................; familiar ou parente: parentesco:
+
+a.2) relação e grau de ..................................................................................;
+
+a.3) cargo ocupado pelo familiar ou parente no Poder Judiciário do Estado do Rio Grande do Sul: ........................................................................................................... b) que atende plenamante às exigências descritas no item 5 (Da Capacidade da Contratada) do Anexo II - Termo de Referência. Local e data
+
+............................................................... (nome e assinatura do representante legal)
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+34
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO IV ­ MINUTA DE CONTRATO Obs: Dependendo da natureza jurídica da licitante vencedora, as cláusulas da presente minuta de contrato poderão sofrer adequações não substanciais em seus termos e expressões. CONTRATO Nº ........................ PREGÃO ELETRÔNICO Nº 83/2011-DEC PROCESSO Nº ........................ Termo de Contrato celebrado entre o Tribunal de Justiça do Estado e a empresa..................................................... Objeto do contrato .................................... CONTRATANTE: TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, inscrito no CNPJ sob nº 89.522.064/0001-66, com sede nesta Capital, na Praça Marechal Deodoro, nº 55, Centro, adiante denominado simplesmente CONTRATANTE, por intermédio de seu representante legal, competente para o ato. CONTRATADA: ....................., com sede em ..................., na ...................., nº .................., inscrita no CNPJ sob número ........................., tel/fax .............., ...................., e-mail ..................................... adiante denominada simplesmente CONTRATADA, representada pelo ..........................., .............................., CPF nº ......................................... As partes contratantes sujeitam-se às disposições da Lei nº 10.520 de 17.07.2002, com aplicação subsidiária da Lei nº 8.666/93 e da legislação que lhe é posterior, bem como obedecidas as normas da Lei nº 11.389/99, celebram este contrato, mediante as seguintes cláusulas e condições: CLÁUSULA PRIMEIRA ­ DO OBJETO 1.1. Contratação de serviço técnico especializado, de acordo com a demanda, para as atividades de Consultoria, Desenvolvimento e Manutenção de sistemas de informação , conform as condições estabelecidas neste contrato:
+Item 1 2 3 4 Descrição Un. Qt. Estimada (anual) 5.000 3.000 25.000 21.000 Valor Unit. (R$) Valor Total do Item (R$)
+
+Consultoria Horas Desenvolvimento e manutenção: Pontos de Pontos de Função Função Desenvolvimento e manutenção: Horas Análise de Sistemas Desenvolvimento e manutenção: Horas Programação
+
+1.2. O prazo de início dos serviços, após a solicitação formal do CONTRATANTE, será de, no máximo, 10 (dez) dias.
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+35
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+CLÁUSULA SEGUNDA ­ DAS CONDIÇÕES PARA A EXECUÇÃO SERVIÇOS 2. DO DETALHAMENTO DOS SERVIÇOS
+
+2.1. Do serviço de Consultoria por Homem-Hora 2.1.1. O serviço de consultoria compreende: 2.1.1.1. A prestação de serviços, incluindo à melhoria de capacitação e mentoring, e métodos
+
+voltados
+
+procedimentos,
+
+artefatos
+
+utilizados pela Departamento de Informática do CONTRATANTE em seus processos internos de desenvolvimento e manutenção de
+
+sistemas de informação; 2.1.1.2. A análise do modelo atual de desenvolvimento e manutenção de
+
+sistemas de informação e a elaboração de proposta de novo modelo aderente às melhores práticas do mercado (como por exemplo, CMMI ­ Capability Maturity Model Integrated ­ ou MPS.BR ­ Melhoria de Processos do Software Brasileiro, IFPUG ­ International Function Point Users Group, PMBOK ­ Project Management Body of Knowledge, NBR ISO/IEC 27.002, entre outras); 2.1.1.3. O apoio na implantação do novo modelo de desenvolvimento de
+
+sistemas de informação e posterior suporte à melhorias no processo. 2.1.1.4. O suporte ao gerenciamento de projetos e ao gerenciamento de acompanhamento e
+
+equipes de projetos. A distribuição do trabalho, controle da execução de projetos.
+
+2.2. Do serviço de Desenvolvimento e Manutenção por Homem-Hora 2.2.1. O serviço de Desenvolvimento compreende o desenvolvimento de novas aplicações, a partir de especificações estabelecidas ou validadas pelo CONTRATANTE, e em conformidade com a metodologia de desenvolvimento de sistemas atualmente adotada ­ ou uma que venha a ser, aplicando os procedimentos necessários à garantia da qualidade dos produtos gerados. 2.2.2. O serviço de Manutenção compreende as modificações em aplicações em produção, com o objetivo de prevenção, correção de falhas, implementação de melhorias ou adaptações. Podem ser classificadas da seguinte forma:
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+36
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+2.2.2.1.
+
+Manutenção Corretiva: consiste na correção de defeitos em
+
+aplicações em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento da aplicação e quaisquer desvios em relação aos requisitos da aplicação; 2.2.2.2. Manutenção Evolutiva: corresponde à inclusão, alteração e exclusão
+
+de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio. 2.2.3. O volume de utilização dos serviços de desenvolvimento e manutenção de sistemas de informação por Homem-Hora serão gradualmente reduzidos com a implantação do novo modelo em regime de fábrica de software com utilização da métrica Pontos de Função. 2.3. Do serviço de Desenvolvimento e Manutenção por Pontos de Função 2.3.1. O serviço de desenvolvimento e manutenção por Pontos de Função
+
+compreende o desenvolvimento de novas aplicações e a manutenção em aplicações já existentes através de um modelo de fábrica de software e com a utilização da métrica Pontos de Função; 2.3.2. O processo de desenvolvimento de sistemas em um modelo de fábrica de software, a ser definido como parte do serviço de Consultoria, conterá no mínimo as seguintes etapas: Etapa do Processo de Desenvolvimento de Sistemas Análise de Sistemas Projeto de Software Construção Teste Documentação 2.3.2.1. 2.3.3. O CONTRATANTE poderá contratar as etapas separadamente.
+
+A utilização deste serviço somente acontecerá após a revisão do modelo
+
+atual de desenvolvimento e manutenção de sistemas de informação.
+
+3. DA GESTÃO E ACOMPANHAMENTO DAS ORDENS DE SERVIÇOS 3.1. A administração da prestação dos serviços será realizada por intermédio de Ordens de Serviço (OS) emitidas pelo CONTRATANTE (conforme modelo ­ Anexo VI do Edital).
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+37
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+3.2. As Ordens de Serviço conterão as especificações necessárias para a execução das tarefas, incluindo: 3.2.1. O escopo do trabalho; 3.2.2. A indicação de materiais adicionais necessários para o entendimento da tarefa; 3.2.3. A carga horária de trabalho estimada em horas pelo CONTRATANTE; 3.2.4. As datas limites de início e término da Ordem de Serviço; 3.2.5. O nome do solicitante do CONTRATANTE; 3.2.6. O nome do responsável pelo aceite da CONTRATADA. 3.3. A emissão e o aceite das ordens de serviço será formalizado por instrumento específico. 3.4. A quantidade estimada de horas de trabalho, constante na Ordem de Serviço, poderá ser reavaliada pelo CONTRATANTE, mediante solicitação prévia, devidamente justificada pela CONTRATADA. 3.5. O prazo máximo para o aceite da Ordem de Serviço irá variar conforme o tipo de serviço. 3.5.1. Para o serviço de desenvolvimento e manutenção de sistemas utilizando a métrica Homem-hora, o prazo máximo é de 3 (três) dias úteis a contar da data de envio pelo CONTRATANTE; 3.5.2. Para o serviço de desenvolvimento e manutenção de sistemas utilizando a métrica Pontos de Função, será estabelecido um prazo a partir do novo processo de desenvolvimento de sistemas a ser definido. 3.6. As ordens de serviço em execução somente poderão ser revisadas mediante justificativa com comprovação de situação imprevisível, como, por exemplo, mudança do escopo ou validação de produtos pelos responsáveis. 3.7. As Ordens de Serviço (OS) servirão como referência básica para as definições do Acordo de Nível de Serviço (ANS) firmado entre o CONTRATANTE e a CONTRATADA e que faz parte do Edital (Anexo VII). 3.7.1. Para o serviço de desenvolvimento e manutenção de sistemas utilizando a métrica Pontos de Função, será elaborado termo aditivo ao contratato com o respectivo Acordo de Nível de Serviço (ANS); 3.8. A CONTRATADA deverá disponibilizar um sistema de acompanhamento das Ordens de Serviço, incluindo a apropriação de horas e atividades que permita ao CONTRATANTE consultar e acompanhar a prestação do serviço online.
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+38
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+3.8.1. O sistema deverá prever o atendimento dos diferentes tipos de serviço (Consultoria, Desenvolvimento e Manutenção ­ Homem-Hora e Pontos de Função), em conformidade com os prazos e condições para seu atendimento; 3.8.2. O sistema deverá contemplar todas as informações necessárias para a operacionalização das Ordens de Serviço; 3.8.3. O CONTRATANTE poderá solicitar à CONTRATADA a construção e disponibilização de interface com ferramenta de sua propriedade, ficando a CONTRATADA obrigada a atender no prazo apropriado sem ônus para o CONTRATANTE.
+
+4. DO LOCAL DE EXECUÇÃO DOS SERVIÇOS E RECURSOS 4.1. Dos Serviços Contratados Através da Métrica Homem-Hora 4.1.1. Os serviços contratados através da métrica Homem-Hora serão prestados nas dependências do CONTRATANTE em Porto Alegre, RS (Av. Borges de Medeiros, 1565 ­ Tribunal de Justiça ­ e Praça Mal. Deodoro, nº 55 ­ Palácio da Justiça), ou em local designado pela Administração do CONTRATANTE. 4.1.2. Os serviços serão executados em dias úteis, de acordo com o horário de trabalho do CONTRATANTE. 4.1.2.1. Poderá haver trabalho noturno ou nos fins de semana, em razão de
+
+aumento de demanda ou fato que o justifique, devendo tais serviços ser previamente autorizados pelo TJRS. Estima-se que trabalhos dessa natureza representarão 2% (dois por cento) do total do contrato. 4.1.3. A prestação dos serviços será executada com a orientação do Gestor Técnico da CONTRATADA, responsável pela realização dos serviços contratados (conforme subitem 6.3 desta cláusula). 4.1.4. A prestação dos serviços será acompanhada e fiscalizada pelos técnicos do CONTRATANTE. 4.1.5. Algumas atividades ou fases dos serviços poderão, dependendo de características específicas, ser realizadas nas instalações da CONTRATADA, desde que previamente acordado entre as partes. 4.2. Dos Serviços Contratados Através da Métrica Pontos de Função
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+39
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+4.2.1. Os serviços contratados através da métrica Pontos de Função serão prestados nas dependências da CONTRATADA, e, quando necessário, para as atividades que requerem análise de requisitos e interface com os servidores, deverão ser realizados nas dependências do CONTRATANTE em Porto Alegre, RS (Av. Borges de Medeiros, 1565 ­ Tribunal de Justiça ­ e Praça Mal. Deodoro, nº 55 ­ Palácio da Justiça), ou em local designado pela Administração do CONTRATANTE. 4.2.2. Quando realizados nas dependências do CONTRATANTE, será de responsabilidade da CONTRATADA o deslocamento dos profissionais envolvidos na prestação dos serviços. 4.2.3. Quando realizados nas dependências da CONTRATADA, os serviços serão executados com a orientação do Gestor Técnico da CONTRATADA, responsável pela realização dos serviços contratados (conforme subitem 6.3 desta cláusula). 4.3. O ambiente operacional atual do Departamento de Informática (sistemas operacionais, sistemas de gerenciamento de bancos de dados e as principais ferramentas de desenvolvimento) encontra-se descrito no Anexo VIII do Edital ­ Ambiente Operacional.
+
+5. DA CAPACIDADE DA CONTRATADA 5.1. Para a prestação dos serviços, a CONTRATADA deverá possuir uma metodologia de desenvolvimento de sistemas de informação bem definida, utilizando um dos seguintes modelos de processo de desenvolvimento de sistemas de informação: 5.1.1. CMMI (Capability Maturity Model Integrated) pelo SEI ­ Software Engineering Institute, Nível 3, ou superior; 5.1.2. MPS.BR (Melhoria de Processos do Software Brasileiro) pela SOFTEX Associação para Excelência de Software Brasileira, Nível C, ou superior; 5.2. A CONTRATADA deverá apresentar comprovação, por meio de atestado ou certificado oficial, de que a empresa obteve êxito na avaliação do nível de maturidade em um dos modelos citados no item anterior, dentro do prazo de validade. 5.3. A CONTRATADA deverá apresentar documentos que comprovem que a empresa conta, em seu corpo técnico, com profissionais habilitados para cumprimento das atividades previstas neste edital, com os seguintes perfis:
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+40
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.3.1. Um (1) Gerente de Projetos. 5.3.1.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.1.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.1.1.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 3 (três) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.1.1.3. Certificação Project Management Professional (PMP) do PMI
+
+(Project Management Institute). 5.3.2. Dois (2) Analistas de Sistemas. 5.3.2.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.2.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.2.1.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 3 (três) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.3. Dois (2) Analistas de Testes. 5.3.3.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.3.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas;
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+41
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.3.3.1.2.
+
+Experiência no exercício de atividades específicas do serviço de, no mínimo, 2 (anos) anos, devidamente
+
+em questão
+
+comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.3.1.3. Formação em curso de Teste e Qualidade de Software de, no
+
+mínimo, 60 horas/aula. 5.3.4. Um (1) DBA (Database Administrator) Oracle. 5.3.4.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.4.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.4.1.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 2 (dois) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.4.1.3. Certificação DBA Oracle.
+
+5.3.5. Um (1) especialista na técnica de contagem de Pontos de Função. 5.3.5.1. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+5.3.5.1.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 5.3.5.1.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 2 (dois) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas; 5.3.5.2. Cópia autenticada de Certificação CFPS ­ Certified Function Point Specialist ­ emitido pelo IFPUG (International Function Point Users Group).
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+42
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.4. A comprovação de vínculo dos profissionais com a CONTRATADA deverá ser através de carteira de trabalho ou contrato societário do profissional, em original ou cópia devidamente autenticada. 5.4.1. A comprovação da qualificação dos profissionais deverá ser através dos documentos originais ou cópias devidamente autenticadas. 5.5. O corpo técnico apresentado não será, obrigatoriamente, o que estará atuando nas demandas do CONTRATANTE, sendo este para demonstrar o preparo da CONTRATATA para o cumprimento do objeto. 5.6. Até o início da prestação dos serviços, a CONTRATADA deverá possuir matriz e/ou filial tabelecida em Porto Alegre ou na Região Metropolitana de Porto AlegreRMPA.
+
+6. DA CAPACIDADE DOS PROFISSIONAIS 6.1. Para a prestação dos serviços contratados através da métrica Homem-Hora, a CONTRATADA será responsável pela disponibilização de profissionais com perfil e qualificações adequados, conforme o modelo detalhado a seguir. 6.1.1. Consultor 6.1.1.1. Atividades a serem desenvolvidas: Avaliação do processo de desenvolvimento de sistemas de
+
+6.1.1.1.1.
+
+informação, visando à aplicação de melhores práticas; 6.1.1.1.2. Elaboração de proposta de melhoria do modelo de
+
+desenvolvimento de sistemas de informação; 6.1.1.1.3. Gerenciamento de projetos, distribuição do trabalho,
+
+acompanhamento e controle da execução de projetos; 6.1.1.1.4. Definição de procedimentos para medição de sistemas de
+
+informação; 6.1.1.1.5. Definição de procedimentos de teste de sistemas de
+
+informação; 6.1.1.1.6. Preparação e administração de workshops e treinamentos,
+
+conforme a necessidade. 6.1.1.2. O perfil do consultor é o de um profissional sênior, com
+
+conhecimentos técnicos compatíveis com o tipo das atividades desenvolvidas (conforme o item 6.1.1.1): 6.1.1.2.1. analista de negócios;
+43
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+6.1.1.2.2. 6.1.1.2.3. 6.1.1.2.4. 6.1.1.3.
+
+analista de processo/qualidade; gerente de projetos; analista/arquiteto de sistemas.
+
+Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+6.1.1.3.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 6.1.1.3.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 3 (três) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas. 6.1.2. Analista de Sistemas 6.1.2.1. Atividades a serem desenvolvidas: Identificação, análise e especificação de necessidades à
+
+6.1.2.1.1.
+
+construção e aprimoramento de sistemas de informação; 6.1.2.1.2. Realizar entrevistas, reuniões, pesquisas e demais atividades
+
+relacionadas ao levantamento de requisitos funcionais e de dados; 6.1.2.1.3. Executar as etapas de modelagem conceitual, lógica e física
+
+de dados; 6.1.2.1.4. 6.1.2.1.5. Elaborar especificações de programas; Executar outras tarefas relacionadas ao processo de
+
+desenvolvimento de sistemas de informação. 6.1.2.2. Qualificação mínima: Formação (i) superior completa nas áreas de Informática,
+
+6.1.2.2.1.
+
+Sistemas de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 6.1.2.2.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 2 (dois) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas.
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+44
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+6.1.3. Programador 6.1.3.1. Atividades a serem desenvolvidas: Interpretação de projetos lógicos de sistemas e sua
+
+6.1.3.1.1.
+
+implementação através de projetos físicos, mediante o uso de linguagens de programação e ferramentas de interfaces de desenvolvimento conforme a tecnologia do projeto em questão; 6.1.3.1.2. Documentação, incluindo as funcionalidades implementadas,
+
+os modelos de dados atualizados, manual de orientação a usuários, etc.; 6.1.3.1.3. 6.1.3.2. Realização de testes unitários.
+
+Qualificação mínima: Formação (i) superior completa ou (ii) cursando no mínimo a
+
+6.1.3.2.1.
+
+partir do 5º (quinto) semestre, nas áreas de Informática, Sistemas de Informação, Ciência da Computação e correlatas, devidamente comprovado através de cópia autenticada do comprovante de matrícula, ou (iii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 6.1.3.2.2. Experiência no exercício de atividades específicas do serviço
+
+em questão de, no mínimo, 2 (dois) anos, com a tecnologia conforme o projeto em questão, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas. 6.1.4. A comprovação da qualificação dos profissionais deverá ser através dos documentos originais ou cópias devidamente autenticadas. 6.2. O preço orçado para a execução da totalidade dos serviços é de R$ 5.846.000,00 (cinco milhões, oitocentos e quarenta e seis mil reais). 6.3. Para a prestação dos serviços de desenvolvimento e manutenção contratados através da métrica Pontos de Função, em regime de Fábrica de Software, a CONTRATADA deverá disponibilizar todos os profissionais quanto sejam necessários para atender o volume contratado, no prazo definido em contrato. 6.4. A CONTRATADA deverá disponibilizar um Gestor Técnico que atuará nas dependências do Departamento de Informática no CONTRATANTE.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+45
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+6.4.1. O Gestor Técnico será o responsável pelo acompanhamento e orientação dos serviços prestados pelos profissionais da CONTRATADA,
+
+compreendendo: 6.4.1.1. A comunicação com o Gestor do Contrato do CONTRATANTE para
+
+promover a execução do contrato; 6.4.1.2. A coordenação técnica e administrativa das atividades dos
+
+profissionais da CONTRATADA; 6.4.1.3. 6.4.1.4. 6.4.1.5. O controle das entregas nos prazos definidos; A distribuição das tarefas entre os profissionais; A revisão das estimativas de tempo de desenvolvimento das Ordens
+
+de Serviço. 6.4.2. A qualificação do Gestor Técnico deverá ser, no mínimo, a seguinte: 6.4.2.1. Formação (i) superior completa nas áreas de Informática, Sistemas
+
+de Informação, Ciência da Computação e correlatas, ou (ii) qualquer outro curso superior combinado com curso de especialização com carga horária mínima de 360 horas ou mestrado, na área de Informática, Sistemas de Informação, Ciência da Computação e correlatas, comprovada por cópias dos diplomas; 6.4.2.2. Experiência no exercício de atividades de gestão de serviços de
+
+desenvolvimento de sistemas de informação de, no mínimo, 3 (três) anos, devidamente comprovada através de Carteira de Trabalho ou declarações de empresas. 6.5. O Gestor Técnico será remunerado à CONTRATADA nos mesmos valores do profissional Consultor. 6.6. Os profissionais referenciados pelos subitens 6.1.1, 6.1.2, 6.1.3 e 6.3 deverão: 6.6.1. Possuir vínculo empregatício com a CONTRATADA regido pela CLT ­ Consolidação das Leis do Trabalho; 6.6.2. Apresentar comprovação, através de Carteira de Trabalho ou declarações de empresas, de que já desempenharam atividades específicas do serviço em questão. 6.7. O CONTRATANTE poderá solicitar a substituição de técnicos cuja operação esteja em desacordo com a melhor técnica vigente, devendo a empresa alocar substituto com grau equivalente ou superior de qualificação técnica.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+46
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+7. DA ESTIMATIVA MÁXIMA DE UTILIZAÇÃO DOS SERVIÇOS 7.1. A estimativa máxima de utilização dos serviços, por tipo de serviço, é a seguinte: Item 1 2 3 4 Descrição do Serviço Consultoria Desenvolvimento e manutenção: Pontos de Função Desenvolvimento e manutenção: Análise de Sistemas Desenvolvimento e manutenção: Programação Unidade Horas Pontos de Função Horas Horas Quantidade Estimada 5.000 3.000 25.000 21.000
+
+7.2. Os totais estimados poderão ser executados em sua totalidade ou em parte. O volume será distribuído pelo CONTRATANTE, considerando o tipo de serviço, a complexidade e a prioridade das atividades. 7.3. O CONTRATANTE não tem compromisso de contratação da totalidade dos valores aqui descritos, sendo estas apenas uma estimativa (máxima). 7.4. O CONTRATANTE somente pagará à CONTRATADA os serviços efetivamente realizados em cada mês, não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. 7.5. Inicialmente, os serviços demandados serão os de Consultoria e Análise de Sistemas e Programação, por hora. 7.6. Na medida do andamento do serviço de Consultoria, com a revisão do processo de desenvolvimento de sistemas de informação atualmente em uso, a contratação do serviço através de Pontos de Função será demandada, com a redução gradual dos serviços contratados por hora. CLÁUSULA TERCEIRA ­ DO PREÇO E PAGAMENTO 3.1. O CONTRATANTE pagará à CONTRATADA, pela execução dos serviços descritos na Cláusula Primeira, o valor anual estimado de R$ .................. (.............), no qual estão incluídas todas as despesas necessárias à execução deste contrato, inclusive impostos, leis sociais e administração técnica. 3.2. O pagamento será efetuado contra empenho, mensalmente, após verificação do fiel cumprimento das obrigações assumidas, a contar do protocolo da Nota Fiscal na Unidade de Protocolo Administrativo e Arquivo - Protocolo, que comprova a respectiva execução dos serviços, podendo ser liberado até o dia 10 (dez) do mês seguinte ao vencido, correndo a despesa à conta da verba de código ................................................................., dos recursos do Poder Judiciário.
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+47
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+3.3. O valor mensal a ser pago à CONTRATADA dependerá da demanda do mês de referência e será calculado de acordo com os preços unitários indicados na Cláusula Primeira. 3.4. A CONTRATADA deverá encaminhar a cada mês, anexos à Nota Fiscal/Fatura, os documentos elencados abaixo, sem os quais não será possível o pagamento: a) Certidão Negativa de Débito junto ao INSS e Certificado de Regularidade junto ao FGTS, atualizados e válidos até o prazo do pagamento estipulado no presente contrato; e b) declaração do CNJ, nos moldes do Anexo ...... deste contrato. 3.4.1. O pagamento somente será liberado após a verificação de regularidade da documentação constante da alínea "a" do item supra, nos sites da Receita Federal e Caixa Econômica Federal, respectivamente, bem como a consulta ao CFIL/RS, conforme o que determina a Lei Estadual nº 11.389/99 e o Ato nº 10/2009-P. 3.5. Todas as Notas Fiscais/Faturas emitidas pela CONTRATADA deverão conter, em local de fácil visualização, a indicação do nº do processo, do nº da licitação e deste Contrato de Prestação de Serviços, bem como o nº do CNPJ que foi fornecido junto à documentação. 3.6. Incidirá correção monetária dos valores devidos, segundo a variação do IGP-M, calculado pela Fundação Getúlio Vargas ­ FGV, entre o mês do vencimento e do pagamento do débito. CLÁUSULA QUARTA ­ DO ACOMPANHAMENTO E FISCALIZAO DO CONTRATO 4.1. A execução do presente contrato será acompanhada por um gestor especialmente designado pelo CONTRATANTE, que deverá atestar, na Nota Fiscal ou em relatório específico, a correta execução dos serviços contratados, permitida a contratação de terceiros para assisti-lo e subsidiá-lo de informações pertinentes ao objeto contratual, nos termos do art. 67 da Lei nº 8.666/93. 4.2. O Gestor verificará, igualmente, o cumprimento dos termos contidos no presente instrumento, solicitando correção, quando não atendidos os termos do que foi previsto e contratado, sem que assista à CONTRATADA qualquer indenização pelos custos daí decorrentes. 4.3. Qualquer fiscalização exercida pelo CONTRATANTE, feita em seu exclusivo interesse, não implica co-responsabilidade pela fiscalização e perfeita execução do Contrato. CLÁUSULA QUINTA ­ DAS OBRIGAÇÕES DA CONTRATADA 5.1. Observar, na execução do objeto contratado, todas as condições estabelecidas no Edital e seus Anexos.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+48
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.2.
+
+A CONTRATADA observará a proibição contida no art. 7º, inciso XXXIII, da Constituição Federal, quanto à proibição do trabalho noturno, perigoso ou insalubre a menores de 18 anos e de qualquer trabalho a menores de 16 anos, salvo na condição de aprendiz, a partir de 14 anos A CONTRATADA obriga-se a manter durante a vigência do contrato, em compatibilidade com as obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas na licitação. A CONTRATADA apresentará, mensalmente, no Departamento de Despesa ­ DESPESA, a declaração relativa ao cumprimento do artigo 2.º, inciso V, combinado com o artigo 3º, da Resolução n.º 07, de 18/10/2005, com a redação dada pela Resolução n.º 09, de 06/12/2005, ambas do Conselho Nacional de Justiça ­ CNJ, nos moldes previstos no Anexo ..... deste contrato, até a sua final execução. Disponibilizar técnicos empregados e contratados suficientes para a execução do objeto, devidamente capacitados e habilitados para cada atividade a ser desempenhada. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando, em ocorrência da espécie, forem vítimas os seus técnicos, em execução do serviço ou em conexão com ele, ainda que acontecido nas dependências do CONTRATANTE. Arcar com todas as despesas de eventuais deslocamentos, hospedagens e alimentação que se fizerem necessárias aos prestadores de serviço. Manter seus técnicos e prepostos sujeitos às normas disciplinares do CONTRATANTE durante a execução dos serviços. Respeitar as normas e procedimentos de segurança do CONTRATANTE.
+
+5.3.
+
+5.4.
+
+5.5.
+
+5.6.
+
+5.7.
+
+5.8.
+
+5.9.
+
+5.10. Prover o controle das atividades e das horas consumidas e autorizadas nas Ordens de Serviço, assim como o cumprimento dos cronogramas e execução dos trabalhos. 5.11. Guardar inteiro sigilo dos serviços contratados e dos dados processados, bem como de todo e qualquer programa e sistema desenvolvidos, incluindo sua documentação, reconhecendo ser esses de propriedade e uso exclusivo do Contratante, sendo vedadas, à CONTRATADA, sua cessão, locação ou venda a terceiros. 5.12. Utilizar padrões aprovados pelo CONTRATANTE (nomenclaturas, metodologias, rotinas de desenvolvimento, testes, etc.). 5.13. Fornecer os scripts, programas fontes, assim como todos os componentes, materiais e produtos gerados durante a prestação dos serviços, bem como toda documentação pertinente em CD-ROM e em documentos compatíveis com os softwares utilizados pelo CONTRATANTE.
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+49
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+5.14. Apresentar, previamente, o Curriculum Vitae de todos os profissionais envolvidos na execução dos serviços contratados através da métrica Homem-Hora. 5.15. Substituir o técnico mediante requerimento feito pelo CONTRATANTE. 5.16. A referida substituição poderá ser requerida em decorrência de avaliações do CONTRATANTE, não cabendo questionamentos, se entendido que: a) O técnico não se adaptou ao serviço; b) Falta experiência prática, embora tenha tempo de serviço demonstrado no currículo para a atividade delegada; c) Existem problemas de qualquer ordem que o impossibilita de executar suas atividades/tarefas nos horários e escalas definidos pelo Tribunal; d) O desempenho profissional e a conduta do técnico são prejudiciais, inconvenientes ou insatisfatórios. 5.17. Alocar representante responsável pelo gerenciamento dos serviços a serem prestados durante toda a vigência do contrato. 5.18. Responder, integralmente, por perdas e danos que vier a causar diretamente ao CONTRATANTE ou a terceiros em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, independentemente de outras cominações contratuais ou legais a que estiver sujeita. 5.19. Responder pelas despesas relativas a encargos trabalhistas, de seguro de acidentes, impostos, contribuições previdenciárias e quaisquer outras que forem devidas e referentes aos serviços executados por seus empregados, os quais não têm nenhum vínculo empregatício com o CONTRATANTE. 5.20. A CONTRATADA não será responsável por qualquer perda ou dano resultante de caso fortuito ou força maior. 5.21. O CONTRATANTE não aceitará, sob nenhum pretexto, a transferência de responsabilidade da CONTRATADA para terceiros, sejam fabricantes, representantes ou quaisquer outros. CLÁUSULA SEXTA ­ DAS OBRIGAÇÕES DO CONTRATANTE 6.1. Permitir o acesso dos profissionais da CONTRATADA, devidamente credenciados, às dependências do Tribunal, bem como o acesso a dados e informações necessários ao desempenho das atividades previstas nesta contratação, ressalvados os casos de matéria sigilosa; Prestar as informações e os esclarecimentos atinentes ao objeto, que venham a ser solicitados pelos profissionais da CONTRATADA;
+
+6.2.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+50
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+6.3.
+
+Fornecer, no caso de atividade desenvolvida nas dependências do CONTRATANTE, instalações adequadas ao bom desempenho da equipe da CONTRATADA, incluindo: a) Servidores e estações de trabalho compatíveis com as necessidades identificadas para a execução do serviço; b) Licenças de uso dos softwares utilizados; c) Infraestrutura de rede local.
+
+6.4.
+
+Designar servidor para gerenciar operacionalmente as atividades e as tarefas relativas à execução do Contrato.
+
+CLÁUSULA SÉTIMA ­ DA PROPRIEDADE INTELECTUAL E DO DIREITO AUTORAL 7.1. O Contratante, para todos os efeitos de aplicação das Leis nº 9.609/98 e 9.610/98 e regulamentos correlatos, deverá ser o único proprietário de licença para utilização dos programas desenvolvidos pela CONTRATADA, devendo esta, para tanto: a) Ceder ao Contratante o direito de propriedade intelectual aos produtos desenvolvidos/mantidos, logo após seus recebimentos definitivos; b) Entregar o projeto, suas especificações técnicas, documentação, código-fonte de programa e todos os produtos gerados, logo após o seu recebimento definitivo; c) Os produtos originados do contrato não poderão, em hipótese alguma, ser cedidos, copiados e utilizados sem autorização prévia por escrito do Contratante. CLÁUSULA OITAVA ­ DA GARANTIA DOS SERVIÇOS 8.1. A CONTRATADA dá garantia dos serviços pelo prazo de 12 (doze) meses, cuja vigência terá início após o prazo de 90 (noventa) dias da garantia legal de que trata a Lei 8.078/90, contados do Termo de Recebimento Definitivo dos serviços executados. 8.2. A garantia abrange a correção de todos os erros ( bugs) de desenvolvimento, ocasionados pelo não atendimento às especificações do serviço, às funcionalidades solicitadas, aos padrões de codificação informados, bem como aos demais requisitos de execução preestabelecidos. CLÁUSULA NONA ­ DAS PENALIDADES 9.1. A recusa da CONTRATADA em executar os serviços objeto da contratação, quando for o caso, acarretará a multa de 10% (dez por cento) sobre o valor total que lhe foi adjudicado. 9.2. O atraso injustificado na execução dos serviços acarretará a multa de 0,5% (meio por cento) por dia de atraso, limitada ao máximo de 10% (dez por cento) sobre o valor total a ser pago no mês de referência.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+51
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+9.3. O não cumprimento de obrigação acessória ou do Acordo de Nível de Serviço sujeitará a CONTRATADA à multa de até 10% (dez por cento) sobre o valor total a ser pago por esta obrigação no mês de referência. 9.4. A CONTRATADA será advertida por escrito sempre que verificadas pequenas falhas técnicas corrigíveis. 9.5. Nos casos de inexecução total ou parcial do objeto, execução imperfeita ou em desacordo com as especificações, será aplicada a multa de 10% (dez por cento) sobre o valor do contrato, deduzido o valor dos serviços já aceitos, independente da aplicação das demais penalidades previstas em lei. 9.6. Na aplicação das penalidades previstas neste contrato, o CONTRATANTE considerará, motivadamente, a gravidade da falta, seus efeitos, bem como os antecedentes da CONTRATADA, podendo deixar de aplicá-las, se admitidas as suas justificativas, nos termos do que dispõe o artigo 87, "caput", da Lei nº 8.666/93. 9.7. As penalidades serão registradas no cadastro da CONTRATADA.
+
+9.8. No caso de aplicação de multa, o valor da penalidade, após as cautelas legais, será: a) descontado dos valores eventualmente devidos pelo CONTRATANTE, nos termos dos artigos 86, § 3º e 87, § 1º, da Lei nº 8.666/93; b) informado à CONTRATADA, que será notificada por escrito acerca da referida penalidade, devendo providenciar o recolhimento da importância correspondente ao Fundo de Reaparelhamento do Poder Judiciário - FRPJ, mediante depósito no BANRISUL, agência 0835, na conta corrente nº 03.152367.04 - Receitas Diversas, pertencente àquele Fundo, junto ao Posto do Banco do Estado do Rio Grande do Sul ­ Palácio da Justiça; o recolhimento deverá ser realizado através da guia bancária "Depósitos em Conta de Terceiros", no prazo máximo de 05 (cinco) dias úteis a contar da data da publicação no Diário da Justiça Eletrônico, do Edital que dá publicidade ao Ato, sendo necessária a apresentação do comprovante de recolhimento no Departamento de Receita ­ RECEITA, sob pena de ser solicitada sua inscrição em Dívida Ativa, junto à Fazenda Estadual; ou c) lançado no rol da dívida ativa, devendo a correção obedecer ao indexador UPFRS (Unidade Padrão Fiscal), desde a inadimplência até o seu pagamento, conforme dispõe o § 2º, art. 1º, do Decreto nº 40.542, de 27 de dezembro de 2000, com juros de 1% (um por cento) ao mês, consoante art. 69, da Lei nº 10.904, de 26 de dezembro de 1996. 9.9. Em caso de rescisão, nenhum pagamento será efetuado à CONTRATADA, enquanto pendente de liquidação qualquer obrigação financeira que lhe for imposta em virtude de penalidade ou inadimplência contratual. 9.10. A CONTRATADA e seus diretores, sócios-gerentes e/ou controladores serão incluídos no "Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual", caso incorram em qualquer das sanções tipificadas na Lei Estadual n.º 11.389, de 25 de novembro de 1999. CLÁUSULA DÉCIMA ­ DA VIGÊNCIA CONTRATUAL
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+52
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+10.1. O prazo de vigência deste contrato será de 12 (doze) meses, a contar da publicação da Súmula deste contrato no Diário da Justiça Eletrônico, podendo ser prorrogado até o limite de 48 (quarenta e oito) meses. CLÁUSULA DÉCIMA PRIMEIRA ­ DO REAJUSTAMENTO DE PREÇOS 11.1. O valor unitário líquido dos serviços decritos na Cláusula Primeira será reajustado anualmente, na proporção da variação do IGP-M, publicada mensalmente pela Fundação Getúlio Vargas, tomando-se, como índice inicial, o do mês correspondente ao imediatamente anterior ao da apresentação da proposta, ou outro índice a ser estabelecido pelo Governo Federal em legislação posterior aplicável à espécie, conforme determinam os dispositivos contidos nos arts. 2º e 3º da Lei nº 10.192, de 14.02.2001, respeitados, em qualquer caso, os valores praticados no mercado. 11.2. O reajustamento dos valores cotados dar-se-á a contar da data da apresentação da proposta, em cumprimento ao disposto no § 1º do art. 28 da Lei nº 9.069, de 29.06.1995, combinado com o § 1º do art. 3º da Lei nº 10.192, de 14.02.2001, devendo ser incluídos no preço global todos e quaisquer tributos, despesas, custos e encargos previstos e previsíveis de incidência para formulação do preço dos serviços a serem prestados. CLÁUSULA DÉCIMA SEGUNDA ­ DA RESCISÃO CONTRATUAL 12.1. Este contrato poderá ser rescindido pelas partes nos termos dos artigos 77, 78, 79 e 80 da Lei 8.666/93, no que for cabível. 12.2. A CONTRATADA declara reconhecer os direitos do CONTRATANTE, previstos nos arts. 77 e 80 da Lei 8.666/1993, em caso de rescisão administrativa. 12.3. O contrato deverá ser rescindido, caso se verifique a situação prevista no art. 2º, Inciso V, combinado com o art. 3º, da Resolução nº 07, de 18/10/2005, com a redação dada pela Resolução nº 09, de 06/12/2005, ambas do Conselho Nacional de Justiça ­ CNJ, em conformidade com o Ato nº 007/2009-P. 12.4. Este contrato poderá ser rescindido, caso a CONTRATADA não comprovar, ou deixar de manter, durante toda a vigência do contrato, as condições do item 5 da Cláusula Segunda (Da Capacidade da Contratada). 12.5. Este contrato poderá ser rescindido judicialmente, nos termos da legislação vigente. CLÁUSULA DÉCIMA TERCEIRA ­ DAS DISPOSIÇÕES FINAIS 13.1. Respeitadas as disposições deste contrato, passam a fazer parte integrante deste instrumento, independentemente de transcrição, e terão plena validade entre as partes contratantes, a proposta da CONTRATADA anexa no Processo nº ..................
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+53
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+13.2. Todas as comunicações relativas ao presente contrato serão consideradas como regularmente feitas, se entregues ou enviadas por carta protocolada, telegrama, fax ou email, na sede dos contratantes. 13.3. A CONTRATADA fica obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que, a critério do CONTRATANTE, se façam necessários na execução do objeto deste contrato, dentro do limite permitido pelo art. 65, § 1º, da Lei nº 8666/93. CLÁUSULA DÉCIMA QUARTA ­ DO FORO 14.1. Fica eleito o Foro da Comarca de Porto Alegre-RS, para dirimir quaisquer litígios oriundos deste contrato, com expressa renúncia a outro qualquer, por mais privilegiado que seja. E, por estarem justos e contratados, firmam o presente instrumento em uma via, que, lido e achado conforme, vai assinado pelas partes e por duas testemunhas. Porto Alegre, de de 2011.
+
+...................................................... CONTRATANTE
+
+...................................................... CONTRATADA
+
+Testemunhas: ...................................................... ......................................................
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+54
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO ..... DO CONTRATO Nº ...../2011-DEC DECLARAÇÃO PREVISTA NO ARTIGO 3º DO ATO Nº 007/2009-P ________________________________________________________ , CNPJ N.º _____________________________________, POR SEU REPRESENTANTE LEGAL, ________________________________________________________ , CPF N.º ______________________________________, PARA OS FINS DO DISPOSTO NOS ARTIGOS 2.º, INCISO V, E 3.º DA RESOLUÇÃO N.º 07/2005 DO CONSELHO NACIONAL DE JUSTIÇA, COM A REDAÇÃO DADA PELA RESOLUÇÃO N.º 09/2005, DECLARA ( ) TER ( ) NÃO TER SÓCIOS OU EMPREGADOS QUE SEJAM CÔNJUGES, COMPANHEIROS OU PARENTES EM LINHA RETA, COLATERAL OU POR AFINIDADE, ATÉ O TERCEIRO GRAU, INCLUSIVE, DE OCUPANTES DE CARGOS DE DIREÇÃO E DE CHEFIA OU EXERCENTES DE FUNÇÃO GRATIFICADA DA MESMA NATUREZA OU, AINDA, DE MAGISTRADOS VINCULADOS AO PODER JUDICIÁRIO DO ESTADO DO RIO GRANDE DO SUL.
+
+NOME DO SÓCIO/EMPREGADO FAMILIAR OU PARENTE: ___________________________________________________________________
+
+RELAÇÃO E GRAU DE PARENTESCO: ___________________________________________________________________
+
+CARGO OCUPADO PELO FAMILIAR OU PARENTE NO PODER JUDICIÁRIO DO ESTADO DO RIO GRANDE DO SUL: ___________________________________________________________________
+
+LOCAL E DATA: ______________________________________________
+
+ASSINATURA DO DECLARANTE: ______________________________________________
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+55
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO V ­ MODELO DE TERMO DE DESIGNAÇÃO DE GESTOR PREGÃO ELETRÔNICO Nº 83/2011-DEC
+
+O(a) Diretor(a) do ............... (Foro da Comarca de ....../Departamento de ......), no uso de suas atribuições legais,
+
+RESOLVE 1. Designar o(a) servidor(a) ................................., ocupante do cargo de .................., matrícula ..................., lotado no ....................., para fiscalizar e acompanhar a execução do Contrato de ...................... celebrado, na data de ............., entre este Órgão e a empresa .................................., tendo, na ausência deste(a), por substituto(a) o(a) servidor(a) ................................................, ocupante do cargo de .................................., matrícula, lotado(a) no ........................................... 2. No exercício de suas atribuições, deverá o servidor empregar todo o zelo e diligência possíveis, acompanhando atentamente a execução do objeto do contrato, de modo a preservar as especificações nele contidas, assim como aquelas indicadas em seus anexos e na proposta da ...................... (CONTRATADA), determinando, sempre que necessário, as correções e adequações que se mostrem indispensáveis. 3. Quaisquer ocorrências deverão ser devidamente anotadas e notificadas ao representante da CONTRATADA, devendo o servidor comunicar o fato a sua chefia imediata, recomendando a adoção das providências cabíveis e, se for o caso, aplicação de penalidades pertinentes, após regular procedimento de apuração.
+
+(Local/data)......... .
+
+...................................................., Diretor(a) do .............. .
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+56
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO VI ­ MODELO DE ORDEM DE SERVIÇO PREGÃO ELETRÔNICO Nº 83/2011-DEC
+(b) Nº SS:
+
+(a) ORDEM DE SERVIÇOS (OS)
+PROCESSO Nº PREGÃO Nº CONTRATO Nº
+
+PROJETO:
+
+Folha nº: 01/01
+
+FORNECEDOR: GESTOR FORNECEDOR: TEL: FAX: ENDEREÇO PARA CONTATO: OBJETIVO: CELULAR: CARGO/FUNÇÃO: E-MAIL:
+
+NATUREZA DO SERVIÇO: Manutenção Correção Atualização Novo desenvolvimento
+
+DESCRIÇÃO DOS SERVIÇOS Nº Tipo de Atividades/Tarefas Item Ativ/Tarefa 01 02 03 04 TOTAL HORAS ESTIMADAS OBSERVAÇÕES:
+
+Horas Estimadas
+
+Documentos
+
+Cronograma Estimado Data/Hora Data/Hora Inicio Fim
+
+(c) APROVAÇÕES
+Nome/Cargo Data Assinatura Observações
+
+XXXX Gestor Contrato XXXXXX Coordenador Projeto
+Nome/Cargo XXXXXX Data Assinatura Observações
+
+CONTRATADA
+
+TJRS
+
+Gestor Contrato XXXXXXXX Gestor Técnico
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+57
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO VII ­ ACORDO DE NÍVEL DE SERVIÇO (ANS) PREGÃO ELETRÔNICO Nº 83/2011-DEC
+DESENVOLVIMENTO E MANUTENÇÃO POR HOMEM-HORA O trabalho com Acordos de Nível de Serviço (ANS) tem como objetivo aumentar a qualidade dos serviços através de um maior comprometimento das partes envolvidas e da identificação de problemas e adoção de ações preventivas e/ou corretivas em tempo hábil. Os Acordos de Nível de Serviço são indicadores objetivos e mensuráveis estabelecidos com a finalidade de aferir e avaliar indicadores relacionados com os serviços contratados. Os indicadores serão medidos durante o processo de desenvolvimento e manutenção de sistemas de informação e terão como referência básica a Ordem de Serviço (OS). Os primeiros 60 dias após o início da execução dos serviços serão considerados como período de estabilização e de ajustes específicos, durante o qual as metas definidas poderão ser flexibilizadas por acordo das partes. No Acordo de Nível de Serviço estão definidos: o indicador, o nível mínimo esperado e a maneira pela qual este indicador é calculado. Ficam estabelecidos inicialmente os seguintes acrescidos/ajustados por acordo das partes: Nº 1 Indicador Atendimento das OS nos prazos acordados OS atendida sem erros indicadores, que poderão ser
+
+2
+
+3
+
+Nível Mínimo Esperado Forma de Cálculo 90% das OS do mês Total de OS entregues no cumpridas no prazo prazo / Total de OS entregues no período 90% das OS do mês Total de OS entregues sem cumpridas sem erros erro / Total de OS entregues no período Conformidade da OS 90% das OS do mês Total de OS entregues no recebimento cumpridas em conformidade conformes / Total de OS com os requisitos entregues no período especificados
+
+O não-cumprimento do Acordo de Nível de Serviço acordados poderá sujeitar a CONTRATADA à aplicação das penalidades previstas em Contrato. Deverá ser desconsiderado o atraso na entrega da OS se decorrente a motivos alheios a CONTRATADA, como por exemplo: indefinição de requisitos pelo usuário, morosidade na resposta às dúvidas da equipe da CONTRATADA. Deverá ser desconsiderado, para efeito de cálculo de indicador, todo e qualquer atraso em decorrência do não cumprimento de etapas do cronograma que não estejam sob a responsabilidade da CONTRATADA. Esses atrasos podem estar relacionados, mas não se limitando, a processos de definição de escopo, validação de produtos pelos responsáveis, alterações processuais ou de metodologia, conforme o tipo de serviço.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+58
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+A freqüência de aferição e avaliação dos níveis de serviço será mensal, devendo ser registrado em relatório. Constarão nesse relatório, dentre outras informações, os indicadores/metas de níveis de serviço alcançados, recomendações técnicas, administrativas e gerenciais para o próximo período e demais informações relevantes para a gestão do Contrato.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+59
+
+ESTADO DO RIO GRANDE DO SUL PODER JUDICIÁRIO ­ TRIBUNAL DE JUSTIÇA DEPARTAMENTO DE COMPRAS ­ DEC
+
+ANEXO VIII ­ AMBIENTE OPERACIONAL PREGÃO ELETRÔNICO Nº 83/2011-DEC A ambiente operacional atual do Departamento de Informática do TJRS é apresentado a seguir: sistemas operacionais, sistemas de gerenciamento de bancos de dados e as principais ferramentas utilizadas no desenvolvimento de sistemas de informação. Os serviços prestados pela CONTRATADA serão desenvolvidos considerando este ambiente operacional e eventuais futuras versões destes produtos.
+1. Sistemas Operacionais 1.1. Red. A Enterprise Linux AS 3 e 4; 1.2. FreeBSD v 4; 1.3. Debian Linux v 3.0 e 3.1; 1.4. Windows Server 2000 e 2003; 1.5. Windows XP Professional; 1.6. Windows Vista Business. 2. Sistemas de Gerenciamento de Bancos de Dados 2.1. Oracle Enterprise 10G sobre Linux Red Hat (versão Advanced Server 3 e 4); 2.2. MS SQL Server 2005; 2.3. MySQL v4 e 5. 3. Linguagens de Programação 3.1. Delphi 5 e 7; 3.2. JavaScript; 3.3. PHP 4; 3.4. Oracle PL/SQL; 3.5. Java. 4. Ferramentas de Desenvolvimento 4.1. Borland Delphi; 4.2. Dreamweaver MX; 4.3. Oracle Forms/Report; 4.4. Oracle JDeveloper; 4.5. Eclipse. 5. Ferramentas de Modelagem 5.1. Erwin; 5.2. Enterprise Architect; 5.3. Oracle Designer. 6. Servidores de aplicação 6.1. Oracle IAS 9i release 2; 6.2. Apache 1.3.12, Apache 1.3.26; 6.3. Tomcat; 6.4. JBoss; 6.5. Oracle Weblogic. 7. Intranet/Internet 7.1. Servidor HTTPD: Apache/Linux; IIS; 7.2. Páginas: HTML, CSS, Javascript, PHP; 7.3. Servidor de Aplicações: Tomcat; 7.4. Banco de dados: Oracle 9i/Linux Red Hat.
+
+C:\Users\rodrigo\Desktop\fabrica\2011_TJ_RS.doc
+
+60
+
+

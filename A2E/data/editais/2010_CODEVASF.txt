@@ -1,0 +1,1726 @@
+Ministério da Integração Nacional ­ M I Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba SECRETARIA DE LICITAÇÕES ­ PR/SL
+SGAN-Q. 601 Conj. I Salas 201/202 Ed. Dep. Manoel Novaes Brasília-DF - CEP: 70830-901 TEL: (61) 3312-4619 - FAX: (61) 3312-4787 - e-mail: licitacao@codevasf.gov.br
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+PREGÃO ELETRÔNICO EDITAL Nº 63/2010 CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO, A SEREM DESENVOLVIDOS SOB A MODALIDADE DE FÁBRICA DE SOFTWARE.
+
+FOR ­ 101/01
+
+\\srv02\Licitacao\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+1
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA EDITAL DE PREGÃO ELETRÔNICO N. º 63/2010. PROCESSO N.º 59500.001424/2010-83 AVISO
+A COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA ­ CODEVASF, por meio deste Edital, que disciplinado especialmente pela Lei 10.520, de 17.07.2002, Decreto nº 5.450, de 31/05/2005, Lei complementar nº 123 de 14/12/2006, Lei nº 8.248 de 23/10/1991, Dec. Nº 7.174 de 25/05/2010 e subsidiariamente pelas Leis nº 8.666, de 21/06/93, torna público aos interessados que selecionará fornecedor para o objeto desta licitação, sob a modalidade de PREGÃO ELETRÔNICO, tipo MENOR PREÇO, por item, na data, horário e local abaixo indicados, de acordo com as condições deste Edital. OBJETO: Contratação de serviços técnicos especializados na área de tecnologia da informação, a serem desenvolvidos sob a modalidade de fábrica de software e a mensuração desses serviços. CONDIÇÕES DE PARTICIPAÇÃO: Poderão participar deste Pregão Eletrônico empresas nacionais ou estrangeiras estabelecidas no Brasil, individuais ou consorciadas, e que atendam a todas as exigências, inclusive quanto à documentação, constantes deste Edital e seus Anexos e que estejam obrigatoriamente cadastrados no SICAF e devidamente credenciados no site www.comprasnet.gov.br, para acesso ao sistema eletrônico. As microempresas e empresas de pequeno porte, poderão participar desta licitação em condições diferenciadas, na forma prescrita na Lei Complementar nº 123, de 14 de dezembro de 2006, bem como, as empresas produtoras de bens e serviços de informática no pais, que usufruam dos benefícios constantes do art. 3º da Lei 8.248 de 23/10/1991 e do Decreto nº 7.174 de 15/05/2010. DATA, HORA E LOCAL DA DISPONIBILIZAÇÃO DO EDITAL E SEUS ANEXOS: Estarão disponíveis para consulta e retirada nos sítios www.comprasnet.gov.br e www.codevasf.gov.br, bem como na Secretaria de Licitações ­ PR/SL, na Sala 201 do Edifício Sede da CODEVASF, Setor de Grandes Áreas Norte ­ SGA/Norte, Quadra 601, Conjunto I, Brasília/DF, telefone (61) 3312-4724 e fax (61) 3312-4787, no horário de 08:00 (oito) às 12:00 (doze) horas e de 13:30 (treze e trinta) às 17:30 (dezessete e trinta) horas, a partir do dia 18 (dezoito) de outubro de 2010. INCLUSÃO DAS PROPOSTAS DE PREÇOS: A partir da disponibilização do Edital no sítio www.comprasnet.gov.br até às 10h00 (dez horas) do dia 04 (quatro) de novembro de 2010, respeitado o interregno mínimo de 08 (oito) dias úteis para divulgação da licitação. DATA E HORÁRIO PARA ABERTURA DAS PROPOSTAS (INÍCIO DA SESSÃO PÚBLICA): Às 10h00 (DEZ HORAS) do dia 04 (quatro) de novembro de 2010 (HORÁRIO DE BRASÍLIA). OBSERVAÇÃO: O presente Pregão Eletrônico será realizado por meio da Internet no portal www.comprasnet.gov.br, e observará as condições estabelecidas no Edital em epígrafe, bem como os preceitos do direito público, em especial as disposições da Lei n.º 10.520, de 17/07/2002, dos Decretos n.º 2.271, de 07/07/1997, n.º 3.722, de 09/01/2001 e n.º 5.450 de 31/05/2005, da Lei Complementar n.º 123, de 14/12/2006, subsidiariamente dos dispositivos da Lei n.º 8.666/93 e suas alterações posteriores e demais cominações legais aplicáveis. Brasília, 15 de outubro de 2010.
+
+RICARDO LUIZ FERREIRA DOS SANTOS Diretor da Área de Revitalização das Bacias Hidrográficas Respondendo pela Presidência
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+2
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ÍNDICE 01. 02. 03. 04. 05. 06. 07. 08. 09. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. OBJETO/LEGISLAÇÃO DESCRIÇÃO DOS SERVIÇOS E DETALHAMENTO DO OBJETO CONDIÇÕES DE PARTICIPAÇÃO QUANTITATIVO ESTIMADO DE SERVIÇOS DOS RECURSOS OPERACIONAIS DE INFRA-ESTRUTURA E SOFTWARE DA SEGURANÇA DA INFORMAÇÃO E DA PROPRIEDADE INTELECTUAL INTERPRETAÇÃO E ESCLARECIMENTOS IMPUGNAÇÃO DO EDITAL REPRESENTAÇÃO E CREDENCIAMENTO ENVIO DA PROPOSTA DE PREÇOS DIVULGAÇÃO DAS PROPOSTAS DE PREÇOS FORMULAÇÃO DOS LANCES ACEITAÇÃO DAS PROPOSTAS DE PREÇOS HABILITAÇÃO RECURSOS ADMINISTRATIVOS ADJUDICAÇÃO E HOMOLOGAÇÃO DA CONVOCAÇÃO E ASSINATURA DO CONTRATO DOTAÇÃO ORÇAMENTÁRIA PRAZO DE EXECUÇÃO OBRIGAÇÕES DA CONTRATADA OBRIGAÇÕES DA CODEVASF CONDIÇÕES DE PAGAMENTO REPACTUAÇÃO MULTAS GARANTIA DE EXECUÇÃO FLUXO PARA ENTREGA DOS SERVIÇOS E FISCALIZAÇÃO SANÇÕES ADMINISTRATIVAS DISPOSIÇÕES GERAIS
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+3
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXOS ANEXO I ­ SERVIÇO DE DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS DE INFORMAÇÃO ANEXO II ­ SERVIÇO DE MÉTRICA DE SOFTWARE ANEXO III ­ ACORDOS DE NÍVEIS DE SERVIÇOS ANEXO IV ­ ORDEM DE SERVIÇO ANEXO V ­ TERMO DE ACEITE DO SERVIÇO ANEXO VI ­ DOCUMENTOS PARA FINS DE HABILITAÇÃO ANEXO VII ­ PLANILHA DE COMPOSIÇÃO DE PREÇO ANEXO VII ­ A - PLANILHA DE COMPOSIÇÃO DE PREÇO ­ FÁBRICA DE SOTFWARE ANEXO VII ­ B - PLANILHA DE COMPOSIÇÃO DE PREÇO ­ MÉTRICA DE SOFTWARE ANEXO VIII ­ TABELA DE PRODUTIVIDADE ANEXO IX ­ TERMO DE RECEBIMENTO DE SERVIÇO ANEXO X ­ SOLICITAÇÃO DE ATENDIMENTO ANEXO XI ­ ANTEPROJETO ANEXO XII ­ GLOSSÁRIO ANEXO XIII ­ ATESTADO DE VISTORIA ANEXO XIV ­ DECLARAÇÃO DE PROPRIEDADE INTELECTUAL ANEXO XV ­ MODELO DE DECLARAÇÃO ANEXO XVI ­ ESTIMATIVA DO VALOR ANUAL DA CONTRATAÇÃO ANEXO XVII ­ TERMO DE PROPOSTA ANEXO XVIII ­ MINUTA DO CONTRATO ANEXO XIX ­ GUIA DE RETIRADA DE EDITAL
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+4
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+PREGÃO ELETRÔNICO EDITAL N.º 63/2010 ENVIO DAS PROPOSTAS: A partir da disponibilização do Edital no sítio www.comprasnet.gov.br até as 10h00 (Dez horas) do dia 04 (Quatro) de novembro de 2010, respeitado o interregno mínimo de 08 (oito) dias úteis para divulgação da licitação. DATA/HORA DE DIVULGAÇÃO DAS PROPOSTAS (INÍCIO DA SESSÃO PÚBLICA): a partir das 10h00 (Dez horas) do dia 04 (quatro) de novembro de 2010. Local: www.comprasnet.gov.br 1. 1.1. OBJETO/LEGISLAÇÃO A COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA ­ CODEVASF, por intermédio de sua Secretaria de Licitações PR/SL, torna público aos interessados que na data, horário e local estabelecidos no presente Edital, fará realizar licitação objetivando a Contratação de serviços técnicos especializados na área de tecnologia da informação, a serem desenvolvidos sob a modalidade de fábrica de software e a mensuração desses serviços. Esta licitação, na modalidade de PREGÃO ELETRÔNICO e do tipo MENOR PREÇO, por item, observará as condições estabelecidas no presente Edital e seus Anexos, bem como os preceitos do direito público, que disciplinado especialmente pela Lei 10.520, de 17.07.2002, do Decreto nº 5.450, de 31/05/2005, Lei complementar nº 123 de 14/12/2006, Lei nº 8.248 de 23/10/1991, Dec. Nº 7.174 de 25/05/2010 e subsidiariamente pelas Leis nº 8.666, de 21/06/93 e suas alterações posteriores. O Edital e seus Anexos encontram-se à disposição dos interessados, para consulta, na Secretaria de Licitações ­ PR/SL, localizada na Sala 202 do Edifício Sede da CODEVASF, no Setor de Grandes Áreas Norte ­ SGA/Norte, Quadra 601, Conjunto I, telefax (61) 3312-4787, e poderão ser adquiridos mediante o recolhimento à CODEVASF da importância de R$ 20,00 (vinte reais), no horário de 08:00 (oito) às 12:00 (doze) horas, e de 13:30 (treze e trinta) às 17:30 (dezessete e trinta) horas, de segunda a sexta-feira, ou poderão ser retirados na Internet nos sites www.codevasf.gov.br ou www.comprasnet.gov.br. O interessado que retirar o Edital através da Internet deverá proceder ao preenchimento da Guia de Retirada do Edital (ANEXO XIX) que se encontra na última página deste documento, remetendo-a através do telefax (61) 3312-4787, dados estes necessários para que possamos comunicar eventuais respostas às consultas formuladas. A não entrega deste documento exime a CODEVASF de qualquer reclamação sobre esclarecimentos do Edital e seus Anexos.
+
+1.2.
+
+1.3.
+
+1.3.1.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+5
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+2. 2.1.
+
+DESCRIÇÃO DOS SERVIÇOS E DETALHAMENTO DO OBJETO O fornecimento objeto deste Edital compreende a Contratação de serviços técnicos especializados na área de tecnologia da informação, a serem desenvolvidos sob a modalidade de fábrica de software e a mensuração desses serviços. Item I ­ Serviços de Desenvolvimento e manutenção de sistemas de informação Contratação de empresa para prestação de serviços especializados de desenvolvimento e manutenção de sistemas de informação que tenham como arquitetura predominante Tecnologia WEB (Internet/Intranet), englobando ainda aplicações cliente/servidor, portais internet, intranet e extranet e a integração entre estas aplicações. Os serviços devem ser executados em conformidade com a Metodologia de Desenvolvimento de Sistemas da CODEVASF, padrão Unified Process, e demais documentos e padrões utilizados na CODEVASF, bem como os procedimentos necessários à garantia da qualidade para desenvolvimento de sistemas. Observação: A elaboração de documentação referente aos serviços de desenvolvimento ou manutenção realizados pela CONTRATADA é obrigatória, sem custo adicional à CODEVASF e deve estar em conformidade com o estabelecido pela metodologia de desenvolvimento de sistemas. Item II ­ Serviços de Métrica de software Contratação de empresa para prestação dos serviços especializados de mensuração de serviços de manutenção corretiva, adaptativa, evolutiva e de desenvolvimento de sistemas novos, validação de medições, coleta de dados, geração de análise de indicadores e, suporte à aplicação de técnicas de mensuração. Endereços para execução dos serviços O endereço para execução dos serviços, quando os mesmos tiverem de ser realizados nas dependências da CODEVASF, é o abaixo indicado ou, em caso de mudança, o que for oportunamente indicado: Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba ­ Edifício Sede, situado no Setor de Grandes Áreas Norte ­ SGAN quadra 601, Conjunto I, Brasília ­ Distrito Federal. CEP: 70.830-901. Detalhamento do objeto ­ Orientações Gerais Os itens do objeto a serem contratados estão descritos de forma detalhada nos Anexos I e II do Edital Consórcio Não será permitida a participação de empresas constituídas sob forma de cooperativas, ou reunidas em consórcios;
+
+2.2. 2.2.1.
+
+2.2.2.
+
+2.2.3.
+
+2.3. 2.3.1.
+
+2.4. 2.4.1.
+
+2.5. 2.5.1. 2.6. 2.6.1.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+6
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+3. 3.1.
+
+CONDIÇÕES DE PARTICIPAÇÃO Poderão participar deste Pregão pessoas jurídicas do ramo, individuais, nacionais ou estrangeiras estabelecidas no Brasil, que atendam a todas as exigências constantes deste Edital e seus Anexos, e que estejam obrigatoriamente cadastrados no SICAF e credenciados no www.comprasnet.gov.br, para acesso ao sistema eletrônico. As microempresas, empresas de pequeno porte, poderão participar desta licitação em condições diferenciadas, na forma prescrita da Lei Complementar nº 123, de 14 de dezembro de 2006 e Lei nº 11.488, de 15 de junho de 2007, bem como, as empresas produtoras de bens e serviços de informática no pais, que usufruam dos benefícios constantes do art. 3º da Lei 8.248 de 23/10/1991 e do Decreto nº 7.174 de 15/05/2010. As microempresas, empresas de pequeno porte, deverão declarar, em campo próprio do sistema eletrônico, sob as penas da Lei que cumpre os requisitos estabelecidos no Art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006, e que está apta a usufruir o tratamento favorecido estabelecido nos artigos 42 ao 49 da referida Lei Complementar. No caso das empresas de informática que possuem o benefício de serem produtoras de bens e serviços com tecnologia desenvolvida no País ou bens e serviços produzidos de acordo com processo produtivo básico, as mesmas deverão enviar declaração, via fax, através do nº (61) 3312-4787, ou eletronicamente, via sistema, informando que cumprem os requisitos do Decreto nº 7.174 de 15/05/2010, por meio de consulta ao sítio eletrônico oficial do Ministério da Ciência e Tecnologia ou da Superintendência da Zona Franca de Manaus ­ SUFRAMA; ou por documento expedido para esta finalidade pelo Ministério da Ciência e Tecnologia ou pela SUFRAMA, mediante solicitação do licitante, no prazo de 02 (duas) horas, para fim de análise pelo pregoeiro, atendendo ao subitem 12.9.2 do Edital. Para participação no Pregão Eletrônico a licitante deverá manifestar, em campo próprio do sistema eletrônico, que cumpre plenamente os requisitos de habilitação e que sua proposta está em conformidade com as exigências do instrumento convocatório. (§ 2º do art. 21 do Decreto n.º 5.450/2005). A participação na licitação implica na aceitação plena e irrevogável do ato convocatório, bem como na observância dos regulamentos e normas administrativas e técnicas aplicáveis, observando-se o disposto neste Edital e seus Anexos e a responsabilidade pela autenticidade e fidelidade das informações e dos documentos apresentados em qualquer fase do processo. As empresas interessadas na consecução dos serviços constantes nos objetos e itens I e II deste Edital devem realizar visita técnica na cidade de Brasília/DF, no Edifício Sede da CODEVASF localizado no endereço: SGAN Quadra 601, Conjunto I, Lote 01, Edifício CODEVASF, CEP: 70.830-901, em Brasília-DF.
+
+3.2.
+
+3.3.
+
+3.3.1.
+
+3.4.
+
+3.5.
+
+3.5.1.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+7
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+3.5.2.
+
+Considerando a divisão dos serviços ora licitados em 02 (dois) itens e as características das atividades a serem desenvolvidas previstas para cada item, existe o impedimento de assunção, por uma mesma empresa, dos itens I e II. Os custos de visita aos locais dos serviços correrão por exclusiva conta da licitante. A visita técnica tem a finalidade de vistoriar e tomar conhecimento das instalações e recursos do ambiente de desenvolvimento da CODEVASF A visita ao local onde serão executados os serviços deverão ser, até 02 (dois) dias úteis anteriores à data fixada para abertura da sessão pública. A visita técnica deverá ser programada com antecedência mínima de 1 (um) dia útil junto à Gerência de Tecnologia da Informação - GTI por meio do telefone (61) 3312-4815. As empresas que realizarem a visita técnica devem emitir Atestado de Vistoria, conforme modelo definido no Anexo XIII - Atestado de Vistoria. Este Atestado de Vistoria deverá ser enviado junto com os documentos de habilitação da empresa a ser entregue à CODEVASF, quando da realização da licitação. Caberá à licitante interessada em participar deste Pregão Eletrônico: a) credenciar-se no SICAF;
+
+3.5.3. 3.5.4. 3.5.5.
+
+3.5.6.
+
+3.6.
+
+b) remeter, no prazo estabelecido no subitem 11.1 deste Edital, exclusivamente por meio eletrônico, via internet, a proposta de preços; c) responsabilizar-se, formalmente, pelas transações efetuadas em seu nome, assumindo como firmes e verdadeiras suas propostas e lances, inclusive os atos praticados diretamente ou por seu representante, não cabendo ao provedor do sistema ou à CODEVASF responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros (art. 13, inciso III, do Decreto 5.450/05);
+
+d) acompanhar as operações no sistema eletrônico durante o processo licitatório, responsabilizando-se pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão (art. 13, inciso IV, Decreto 5.450/2005); e) comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a viabilidade do uso da senha, para imediato bloqueio de acesso; utilizar-se de chave de identificação e da senha de acesso para participar do pregão na forma eletrônica;
+
+f)
+
+g) solicitar o cancelamento da chave de identificação ou da senha de acesso por interesse próprio. 3.7. Não será admitida nesta licitação a participação de empresas:
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+8
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+a) em processo de recuperação judicial ou em processo de falência, sob concurso de credores, em dissolução ou em liquidação; b) que estejam com o direito de licitar e contratar suspenso com a Codevasf ou qualquer órgão integrante do SISG/SIASG; c) empresa declarada inidônea por Órgão ou Entidade da Administração Pública, direta ou indireta, federal, estadual, municipal ou do Distrito Federal; d) cujos empregados, diretores, responsáveis técnicos ou sócios figurem como funcionários, empregados ou ocupantes de função gratificada na CODEVASF; e) estrangeiras que não estejam autorizadas a operar no País. 4. QUANTITATIVO ESTIMADO DE SERVIÇOS 4.1. 4.1.1. Estimativa para o item I - serviços de desenvolvimento e manutenção de sistemas de informação. O volume total estimado de serviços de desenvolvimento e manutenção de sistemas de informação é de 5.000 (cinco mil) Pontos de Função por vigência anual do contrato, sem garantia de consumo mínimo durante a vigência do contrato.
+
+4.1.2. A estimativa para os serviços de manutenção, que envolvem as manutenções corretivas e evolutivas de pequeno volume, foi realizada com base em análise histórica de execuções anuais a partir do segundo semestre do ano de 2009. 4.1.3. A estimativa para o desenvolvimento de projetos, que corresponde ao desenvolvimento de novos sistemas ou de novas versões de sistemas existentes e ainda a manutenções evolutivas de maior volume, foi realizada considerando-se demandas oriundas dos diversos setores da Empresa. 4.2. Estimativa para o Item II - serviços de métrica de software.
+
+4.2.1. O volume total estimado de serviços de medição de software será de 500 (quinhentas) horas por vigência anual do contrato, sem garantia de consumo mínimo durante a vigência do contrato. 4.3. Estimativa de Serviços ­ Acréscimos e supressões. 4.3.1. A solicitação para o uso dos pontos de função ou das horas previstos será feita de modo formalizado, junto às empresas contratadas, sempre na quantidade identificada como necessária, por parte da CODEVASF. 4.3.2. Os serviços contratados serão implementados gradativamente, de acordo com as necessidades da CODEVASF, não ficando esta obrigada a utilizar o total de pontos de função ou de horas estimados para esta contratação.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+9
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+4.3.3.
+
+As Empresas CONTRATADAS se obrigam a aceitar, nas mesmas condições contratuais, acréscimos ou supressões nos serviços contratados e especificados neste Edital, de até 25% (vinte e cinco por cento) do volume inicial especificado, em conformidade com a Lei nº 8.666.
+
+5. DOS RECURSOS OPERACIONAIS DE INFRA-ESTRUTURA E SOFTWARE 5.1. Para execução dos serviços as empresas devem considerar minimamente os seguintes ambientes: 5.1.1. Ambiente de Desenvolvimento: Ambiente de desenvolvimento e manutenção de sistemas de informação. O seu funcionamento tem por base a utilização de uma arquitetura de software idealizada por empregados da CODEVASF, baseado em padrões adotados no mercado e implementada por meio de uma framework, utilizando tecnologia PHP; 5.1.2. Ambiente de Teste e Homologação: Ambiente que permite os testes necessários por parte do gestor da aplicação para o seu devido aceite. O seu funcionamento tem por base a não edição de arquivos para correção neste ambiente, pois todo processo de correção deve ocorrer no Ambiente de Desenvolvimento; 5.1.3. Ambiente de Produção: Ambiente que hospeda as aplicações em produção na CODEVASF. O seu funcionamento tem por base a hospedagem somente das aplicações homologadas pela GTI e Gestores de Sistema no Ambiente de Teste e Homologação; 5.1.4. Ambiente de Estações de Trabalho: Estações de trabalho para o profissional de desenvolvimento, disponibilizada com as ferramentas que permitam o desenvolvimento e manutenção de sistemas de informações nos padrões especificados pela CODEVASF. 5.2. A CODEVASF adota para seu ambiente de TI as ferramentas relacionadas a seguir, para o desenvolvimento e manutenção dos seus sistemas de informações:
+
+5.2.1. Sistema Operacional: Linux (RedHat, Fedora, Debian), Windows XP Professional, Windows Server (2000 e 2008) e Palm OS; 5.2.2. Servidor Web: Apache, TomCat, Zope; 5.2.3. Linguagem de Programação: PHP 4.0 ou superior, Java J2EE (J2SDK, JSP), Java Micro Editon (J2ME), JavaScript, HTML, XHTML, PYTHON, XML, XSLT; 5.2.4. Ferramentas de Desenvolvimento PHP: PHP Edit, PHP Eclipse, PsPad, NetBeans e Eclipse; 5.2.5. Ferramenta de modelagem de sistemas: Jude e StarUML; 5.2.6. Ferramenta para geração de relatórios: Ireport; 5.2.7. Ferramenta de Gestão de Projetos: OpenProj e dotProject; 5.2.8. Ferramenta de teste: TestLink
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+10
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+5.2.9. Ferramenta de controle de ocorrências: Mantis Bugtracking System 5.2.10. Ferramenta OLAP: MicroStrategy; 5.2.11. Ferramenta Gráfica: GIMP; 5.2.12. Modelagem de Dados: MS-SQL; 5.2.13. Banco de Dados: Microsoft SQL Server 2000 e 2008 5.3. Ficará a cargo da CONTRATADA o licenciamento de qualquer software de apoio ao desenvolvimento ou manutenção de sistemas que venha a ser utilizado pela equipe alocada, mesmo quando as atividades forem realizadas nas dependências da CODEVASF. Para execução dos serviços, quando realizados nas dependências da CONTRATADA, a CODEVASF deverá prover um canal de comunicação de dados para conexão de seu ambiente computacional com a CONTRATADA.
+
+5.4.
+
+6. DA SEGURANÇA DA INFORMAÇÃO E DA PROPRIEDADE INTELECTUAL 6.1. Os procedimentos mínimos de segurança exigidos das empresas CONTRATADAS são:
+
+6.1.1. Credenciar junto a CODEVASF, seus profissionais autorizados a retirar e a entregar documentos, bem como daqueles que venham a ser designados para prestar serviços nas dependências da CODEVASF. 6.1.2. Identificar qualquer equipamento das empresas que venha a ser instalado nas dependências da CODEVASF, utilizando placas de controle patrimonial, selos de segurança, etc. 6.1.3. Manter sigilo absoluto sobre informações, dados e documentos integrantes dos serviços a serem executados na CODEVASF. 6.1.4. Abster-se, qualquer que seja a hipótese, de veicular publicidade ou qualquer outra informação acerca das atividades objeto do Edital, sem prévia autorização. 6.1.5. Observar, rigorosamente, todas as normas e procedimentos de segurança implementados no ambiente de Tecnologia da Informação - TI da CODEVASF. 6.1.6. Adotar critérios adequados para o processo seletivo dos profissionais, com o propósito de evitar a incorporação de pessoas com características e/ou antecedentes que possam comprometer a segurança ou credibilidade da CODEVASF. 6.1.7. Comunicar com antecedência mínima de 3 (três) dias ao Representante da CODEVASF qualquer ocorrência de transferência, remanejamento ou demissão, para que seja providenciada a revogação de todos os privilégios de acesso aos sistemas, informações e recursos da empresa. 6.1.8. Manter sigilo sobre todos os ativos de informações e de processos da CODEVASF.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+11
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+6.2.
+
+A CONTRATADA cederá à CODEVASF, o direito patrimonial e a propriedade intelectual em caráter definitivo dos sistemas desenvolvidos e resultados produzidos em consequência desta licitação, entendendo-se por resultados quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, diagramas, fontes dos códigos dos programas em qualquer mídia, páginas na Intranet e Internet e documentação didática em papel ou em mídia eletrônica.
+
+6.2.1. A CONTRATADA fica proibida de veicular e comercializar os produtos gerados relativos ao objeto da prestação dos serviços, salvo se houver a prévia autorização por escrito da CODEVASF. 7. INTERPRETAÇÃO E ESCLARECIMENTOS 7.1. Os pedidos de esclarecimentos referentes a quaisquer elementos deverão ser enviados ao Pregoeiro até 03 (três) dias úteis anteriores à data fixada para abertura da sessão pública, por meio eletrônico via Internet no sítio www.comprasnet.gov.br, ou através do Fax n.º (61) 3312-4787, ou ainda pelo e-mail licitacao@codevasf.gov.br. As consultas formuladas fora deste prazo serão consideradas como não recebidas. As licitantes deverão, além das informações específicas requeridas pela CODEVASF, adicionar quaisquer outras que julgar necessária. Somente serão aceitas aquelas conhecidas que assegurem qualidade igual ou superior às indicadas na descrição contidas no subitem 2.1. deste edital. As licitantes deverão estudar minuciosa e cuidadosamente a documentação, informando-se de todas as circunstâncias e detalhes que possam, de algum modo, afetar a execução dos fornecimentos, seus custos e prazos. Analisando as consultas, a CODEVASF deverá esclarecê-las, e, acatando-as, alterar ou adequar os elementos constantes do Edital e seus Anexos, comunicando sua decisão, também por meio eletrônico, via Internet, nos sítios www.comprasnet.gov.br e www.codevasf.gov.br, divulgando a modificação pelo mesmo instrumento de publicação do texto original, reabrindo o prazo inicialmente estabelecido, exceto quando inquestionavelmente a alteração não afetar a formulação das propostas. A apresentação da proposta tornará evidente que a licitante examinou minuciosamente toda a documentação deste Edital e seus Anexos, que a comprovou e a encontrou correta. Evidenciará, também, que a licitante obteve da CODEVASF, satisfatoriamente, as eventuais informações e esclarecimentos solicitados, tudo resultando suficiente para a elaboração da proposta apresentada, implicando na aceitação plena de suas condições. IMPUGNAÇÃO DO EDITAL Até 02 (dois) dias úteis antes da data fixada para abertura da sessão pública, qualquer pessoa poderá impugnar o ato convocatório do Pregão, na forma eletrônica.
+
+7.2.
+
+7.3.
+
+7.4.
+
+7.5.
+
+8. 8.1.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+12
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+8.2.
+
+Caberá ao Pregoeiro, auxiliado pelo setor responsável pela elaboração do Edital, decidir sobre a impugnação no prazo de até 24 (vinte e quatro) horas, contado da data do pedido da impugnação. Acolhida a impugnação contra o ato convocatório, será definida e publicada nova data para realização do certame.
+
+8.3.
+
+9. REPRESENTAÇÃO E CREDENCIAMENTO 9.1. O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico (art. 3º, § 1º, do Decreto n.º 5.450/2005), devendo ser providenciado no sítio www.comprasnet.gov.br. O credenciamento das licitantes dependerá de registro cadastral atualizado no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, que também será requisito obrigatório para fins de habilitação. O credenciamento junto ao provedor do sistema implica a responsabilidade legal da licitante ou de seu representante legal e a presunção de sua capacidade técnica para realização das transações inerentes ao Pregão Eletrônico (art. 3º, § 6º, do Decreto n.º 5.450/2005). A perda da senha ou quebra de sigilo deverá ser comunicada imediatamente ao provedor do sistema para imediato bloqueio de acesso. O uso da senha de acesso pela licitante é de sua responsabilidade exclusiva, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou a CODEVASF responsabilidade por eventuais danos decorrentes do uso indevido da senha, ainda que por terceiros (art. 3º, § 5º, do Decreto n.º 5.450/2005). ENVIO DA PROPOSTA DE PREÇOS Após a divulgação do Edital no sítio www.comprasnet.gov.br, a licitante deverá apresentar, no campo correspondente dentro do sistema eletrônico denominado "Descrição Complementar", a sua Proposta de Preços, por item, (art. 21, caput, Decreto 5.450/2005), para o objeto no qual pretenda concorrer, conforme Termo de Proposta, Anexo XVII, deve ser editada em computador, sem emendas, ressalvas, rasuras ou entrelinhas em suas partes essenciais contendo os seguintes elementos: a) Identificação do proponente, com data e assinatura por quem de direito, e menção ao número desta Concorrência e item no qual está concorrendo; b) Valor unitário e global do Ponto de Função ou da Hora de serviço por Objeto, em Real (R$), expresso em algarismos e por extenso, nele incluídos todos os impostos, taxas, mão de obra, salários, encargos sociais e trabalhistas, contribuições previdenciárias, hospedagens e viagens de seus empregados, e todas as demais obrigações e despesas de qualquer natureza necessárias à perfeita execução dos serviços constantes nos objetos desta licitação;
+
+9.2.
+
+9.3.
+
+9.4. 9.5.
+
+10. 10.1.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+13
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+b1) Quando do envio da proposta de preços, o licitante deverá preencher nos campos "valor unitário e total" o valor referente ao preço global ofertado, para fins de disputa do lance. 10.2. No campo "Descrição Detalhada do Objeto Ofertado", da proposta eletrônica, deverá ser especificado o objeto, de forma que seja possível a sua identificação, sob pena de desclassificação; não serão aceitas descrições do tipo "Conforme o Edital" ou similar; propostas que contenham descrições desse tipo ou em que não seja possível identificar claramente o objeto serão desclassificadas. Apresentada a proposta, ainda que omissa em sua descrição, mas aceita pelo Pregoeiro, a licitante compromete-se a executar os fornecimentos, objeto deste Edital, sem preterição de quaisquer especificações pertinentes constantes do subitem 2.1. deste Edital. As licitantes, classificadas como Microempresa e Empresa de Pequeno Porte, deverão declarar, no ato do envio de suas propostas, em campo próprio do sistema, que atende os requisitos do artigo 3º da Lei Complementar 123, de 14/12/2006, para fazer jus aos benefícios previstos na referida Lei.
+
+10.3.
+
+10.4.
+
+10.4.1. As licitantes que usufruem dos benefícios constantes do art. 3º da Lei 8.248 de 23/10/1991 e do Decreto 7.174 de 12/5/2010, poderão encaminhar declarações, informando tal condição, na fase de aceitação das propostas, quando o Pregoeiro abrir o prazo para "CO NVOCAÇÃO DE ANEXO" ou por meio de Fax a ser informado pelo Pregoeiro. 10.5. 10.6. 10.7. Até a abertura da sessão, as licitantes poderão retirar ou substituir a proposta anteriormente apresentada. Não serão consideradas propostas ou lances para o fornecimento de quantidade inferior à solicitada em cada item deste Edital. Serão desclassificadas as propostas que não atendam as exigências do presente Edital e seus Anexos, e que apresentarem irregularidades ou defeitos capazes de impedir o seu julgamento. O prazo de validade da proposta será de 60 (sessenta) dias corridos, a contar da data de abertura deste Pregão, sujeita à revalidação por idêntico período. DIVULGAÇÃO DAS PROPOSTAS DE PREÇOS A partir das 10h00 (dez horas) do dia 04 (quatro) de novembro de 2010 (HORÁRIO DE BRASÍLIA), e em conformidade com o subitem 7.1 deste Edital, terá início a sessão pública do Pregão Eletrônico n. º 63/2010 ­ PR/SL, com a divulgação das Propostas de Preços recebidas e início da etapa de lances, conforme previsto neste Edital e de acordo com o Decreto n.º 5.450, publicado no Diário Oficial da União de 01/06/2005. O pregoeiro verificará as propostas apresentadas, desclassificando aquelas que não estejam em conformidade com os requisitos estabelecidos no Edital. (§ 2º do art. 22 do Decreto n.º 5.450/2005).
+
+10.8. 11. 11.1.
+
+11.2.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+14
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+12. 12.1.
+
+FORMULAÇÃO DOS LANCES Classificadas as propostas, o Pregoeiro dará início à fase competitiva, quando então as licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico, por item, sendo a licitante imediatamente informada do seu recebimento e do valor consignado no registro. As licitantes poderão oferecer lances sucessivos, observados o horário fixado e as regras de aceitação dos mesmos. A licitante somente poderá oferecer lance inferior ao último por ela ofertado e registrado pelo sistema, podendo disputar os 2.º, 3.º, 4.º lugares e assim sucessivamente, se houver. Não serão aceitos dois ou mais lances iguais, prevalecendo aquele que for recebido e registrado primeiro. Durante o transcurso da sessão pública, as licitantes serão informadas, em tempo real, do valor do menor lance registrado que tenha sido apresentado pelas demais licitantes, vedada a identificação da detentora do lance. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico poderá permanecer acessível às licitantes para recepção dos lances.
+
+12.2. 12.3. 12.4. 12.5.
+
+12.6.
+
+12.6.1. O Pregoeiro, quando possível, dará continuidade à sua atuação no certame sem prejuízo dos atos realizados. 12.6.2. Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do pregão será suspensa e terá reinicio somente após comunicação expressa do Pregoeiro aos participantes. 12.7. A etapa de lances da sessão pública será encerrada por decisão do Pregoeiro mediante aviso de fechamento iminente dos lances emitido pelo sistema eletrônico às licitantes, após o que transcorrerá o período de tempo de até 30 (trinta) minutos, aleatoriamente determinado também pelo sistema eletrônico, findo o qual será automaticamente encerrada a recepção de lances.
+
+12.7.1. Caso o sistema não emita o aviso de fechamento iminente, o Pregoeiro se responsabilizará pelo aviso de encerramento às licitantes, informando que após transcorridos 30 (trinta) minutos, a contar do aviso do Pregoeiro, a qualquer momento a etapa de lances será encerrada. 12.8. Após o encerramento da etapa de lances, o Pregoeiro poderá encaminhar, pelo sistema eletrônico, contraproposta diretamente à licitante que tenha apresentado lance mais vantajoso, para que seja obtida melhor proposta, observado o critério de julgamento, não se admitindo negociar condições diferentes das previstas neste Edital. Será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte (Art. 44 da Lei Complementar nº 123, de 14/12/2006),
+
+12.9.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+15
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+bem como, as empresas produtoras de bens e serviços de informática no país, que usufruam dos benefícios constantes do art. 3º da Lei 8.248 de 23/10/1991 e do Decreto nº 7.174 de 15/05/2010. 12.9.1. Entende-se por empate aquelas situações em que as propostas apresentadas: a) b) Pelas microempresas ou empresas de pequeno porte, sejam superiores em até 5% (cinco por cento) à proposta mais bem classificada. Pelas empresas produtoras de bens e serviços de informática no pais, que usufruam dos benefícios constantes do art. 5º do Decreto nº 7.174 de 15/05/2010, sejam superiores em até 10% (dez por cento) à proposta mais bem classificada.
+
+12.9.1.1. A microempresa, empresa de pequeno porte, citada na alínea "a" do subitem acima, mais bem classificada, e àquelas que se seguirem na ordem de classificação, serão convocadas para apresentar nova proposta no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão. 12.9.1.2. Para efeito do disposto no subitem 12.9.1, alínea "a", deste Edital (Art. 45 da Lei Co mplementar nº 123, de 14/12/2006), ocorrendo o empate, proceder-se-á da seguinte forma: a) A microempresa ou empresa de pequeno porte mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado em seu favor o objeto licitado. b) Não ocorrendo a contratação da microempresa ou empresa de pequeno porte, na forma da alínea "a" acima, serão convocadas as remanescentes que porventura se enquadrem na hipótese do § 2º do art. 44 da Lei Complementar nº 123 supra mencionada, na ordem classificatória, para o exercício do mesmo direito. c) No caso de equivalência dos valores apresentados pelas microempresas ou empresas de pequeno porte que se encontrem no intervalo estabelecido no § 2º do art. 44 da Lei Complementar nº 123 retro mencionada, os lances serão ofertados de acordo com a ordem de classificação definida pelo próprio sistema. 12.9.2. Para efeito do disposto no subitem 12.9.1, alínea "b", deste Edital (art. 5º ao 8º do Decreto nº 7.174 de 15/05/2010), ocorrendo o empate, proceder-se-á da seguinte forma: a) O Pregoeiro, na fase de aceitação, tendo recebido a declaração da empresa por meio da convocação de anexo, verificará se a empresa se enquadra em uma das seguintes condições, para fins de definição do benefício a que tem direito: 1º - Tecnologia no País + Processo Produtivo Básico + Micro e Pequena Empresas 2º - Tecnologia no País + Processo Produtivo Básico 3º - Tecnologia no País + Micro e Pequena Empresas 4º - Tecnologia no País 5º - Processo Produtivo Básico + Micro e Pequena Empresas 6º - Processo Produtivo Básico
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+16
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+b) Constatado o enquadramento de alguma empresa nas condições acima mencionadas, o Pregoeiro entrará em contato com o licitante para que o mesmo possa se manifestar se aceita ou não, cobrir o melhor lance em relação a sua proposta, na condição prevista na alínea "b" do subitem 12.9.1 deste Edital. c) Não ocorrendo a contratação da empresa, na forma da alínea "b" 12.9.1, serão convocadas as remanescentes que se enquadrem na hipótese do previsto na Lei nº 8.248 de 23/10/1991, Dec. Nº 7.174 de 25/05/2010, na ordem classificatória, para o exercício do mesmo direito, conforme a classificação definida pelo próprio sistema. 12.9.3. Na hipótese da não contratação nos termos previstos no subitem 12.9 acima, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame. 12.9.4. A condição prevista no subitem 12.9.3 somente se aplicará quando a melhor oferta inicial não tiver sido apresentada por micro empresa ou empresa de pequeno porte, bem como, as empresas produtoras de bens e serviços de informática no pais, que usufruam dos benefícios constantes do art. 3º da Lei 8.248 de 23/10/1991 e do Decreto nº 7.174 de 15/05/2010. 12.9.5. A licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiros suas proposta e lances (art. 13, inciso III, do Decreto 5.450/2005). 12.9.6. Incumbirá à licitante acompanhar as operações no sistema eletrônico durante a sessão pública do pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão (art. 13, inciso IV, Decreto 5.450/2005). 13. 13.1. 13.2. ACEITAÇÃO DAS PROPOSTAS DE PREÇOS Para efeito de classificação da proposta, será considerado o MENOR PREÇO. Encerrada a etapa de lances, o Pregoeiro examinará a proposta classificada em primeiro lugar quanto à compatibilidade do preço em relação ao orçado para contratação e verificará a habilitação da licitante conforme as disposições deste Edital e seus Anexos (art. 25 do Decreto n.º 5.450/2005).
+
+13.2.1. As empresas de informática que possuem o benefício de serem produtoras de bens e serviços com tecnologia desenvolvida no País ou bens e serviços produzidos de acordo com processo produtivo básico, deverão atender o subitem 3.3.1 do Edital. A comprovação dos benefícios previstos aos licitantes no subitem 12.9.2, deste Edital, no caso de ser declarado pelo licitante que ela faz parte da a relação de empresas habilitadas constante do site do Ministério de Ciência e Tecnologia, deverá ser confirmada pelo Pregoeiro, conforme descrito abaixo: 1 Quando se tratarem de licitantes que produzam bens com tecnologia desenvolvida no País ou reconhecimento de bens desenvolvidos no País , o Pregoeiro deverá consultar a relação de empresas habilitadas no link de "Empresas com reconhecimento de bens desenvolvidos no país" emitida pelo Ministério de
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+17
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+Ciência e Tecnologia, disponível no endereço eletrônico :"http://www.mct.gov.br/index.php/content/view/318551.html"; 2
+
+:
+
+No caso de licitantes que produzam bens e comprova o atendimento do Processo Produtivo Básico, o Pregoeiro deverá consultar a relação de empresas habilitadas no link de "Empresas habilitadas, produtos e modelos aprovados", emitida pelo Ministério de Ciência e Tecnologia, disponível no endereço eletrônico: http://www.mct.gov.br/index.php/content/view/2933.html
+
+13.3.
+
+O Pregoeiro poderá anunciar a(s) licitante(s) vencedora(s) imediatamente após o encerramento da etapa de lances da sessão pública, ou, quando for o caso, após a negociação e decisão acerca da aceitação do lance de menor valor. Se a proposta ou o lance de menor valor não for aceitável ou se a licitante desatender às exigências de habilitação, o Pregoeiro examinará a proposta ou o lance subseqüente, verificando a sua aceitabilidade e procedendo à sua habilitação, na ordem de classificação, e assim sucessivamente, até a apuração de uma proposta ou lance que atenda ao Edital. Após a análise das propostas, por item, serão desclassificadas, com base no artigo 48, incisos I e II da Lei nº 8.666/93, as propostas que: a) não atenderem às exigências contidas neste Pregão; b) apresentarem preço global, superior ao valor orçado pela CODEVASF, ou manifestamente inexeqüíveis, assim considerados aqueles que não venham a ter demonstrada sua viabilidade através de documentação que comprove que os custos dos insumos são coerentes com os de mercado e que os coeficientes de produtividade são compatíveis com a execução do objeto. c) Oferecer propostas alternativas.
+
+13.4.
+
+13.5.
+
+13.6.
+
+Não se admitirá proposta que apresentar preço global ou unitário simbólico, irrisório ou de valor zero, incompatíveis com os preços dos insumos de mercado, acrescidos dos respectivos encargos, ainda que esta concorrência não tenha estabelecido limites mínimos, exceto quando se referir a materiais e instalações de propriedade do próprio licitante, para os quais ele remunere a parte ou à totalidade da remuneração. A Proposta de Preços, inicialmente encaminhada nos termos determinados pelo subitem 10.1 deste Edital, que compreende a descrição do objeto ofertado e todas as demais informações afins julgadas necessárias ou convenientes, deverá ser reformulada pela licitante vencedora, em forma de planilha, com os valores unitário e global, por item, devidamente atualizada, bem como com o(s) valor(es) global(is) do(s) grupo(s) dos quais foi considerada vencedora, conforme modelo de Planilha de Preços, devidamente preenchida constante do ANEXO VII, parte integrante deste Edital, após a fase de lances, e enviada para o fax n.º (61) 3312-4787, no prazo de até 02 (duas) horas, a partir da comunicação da CODEVASF por meio do seu Pregoeiro, acompanhada do TERMO DE PROPOSTA, constante do ANEXO XVII, que é parte integrante deste Edital, devidamente preenchido.
+
+13.7.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+18
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+13.7.1. A Proposta de Preços reformulada, de que trata o subitem 13.7. acima, deverá ser encaminhada em original no prazo de até 03 (três) dias úteis , para o endereço contido no subitem 1.3 deste Edital, contado da data da comunicação da CODEVASF por meio do seu Pregoeiro, sob pena de desclassificação da proposta. 13.7.2. Será considerada vencedora, a licitante que apresentar o MENOR PREÇO, respeitado o valor máximo unitário e global, dos itens que compõem o(s) grupo(s), orçado pela CODEVASF. 13.8. A negociação será realizada por meio do sistema, podendo ser acompanhada pelas demais licitantes.
+
+14. HABILITAÇÃO 14.1. Após o encerramento da etapa de lances da sessão pública, a licitante detentora da melhor oferta por item, desde que aceita pelo Pregoeiro, deverá comprovar a situação de regularidade de acordo com o que segue:
+
+14.1.1. Habilitação Jurídica, Regularidade Fiscal e Qualificação Econômico-Financeira: a) Verificação, "on line", junto ao SICAF - Sistema de Cadastramento Unificado de Fornecedores, da documentação obrigatória (RECEITA FEDERAL, DÍVIDA ATIVA DA UNIÃO, FGTS e SEGURIDADE SOCIAL - INSS), e da habilitação parcial (RECEITA ESTADUAL e RECEITA MUNICIPAL). a-1) Na hipótese de haver documentos com prazo de validade vencido junto do SICAF, a licitante vencedora deverá apresentar a documentação correspondente com prazo de validade em vigor; a-2) Em se tratando de documentos emitidos via Internet, sua veracidade será confirmada através de consulta realizada nos sites correspondentes, e se apresentados de outra forma, poderão ser em original, por qualquer processo de cópia autenticada por cartório competente ou por servidor da Secretaria de Licitações ­ PR/SL, ou ainda, publicação em órgão da imprensa oficial. b) No caso de empresa ou sociedade estrangeira em funcionamento no país deverá apresentar, também, o decreto de autorização ou o ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. c) Declaração de que não foi declarada inidônea por qualquer órgão da Administração Pública, de que não está impedida de licitar ou contratar com a CODEVASF, e de que encontra-se em situação regular perante o Ministério do Trabalho, no que se refere à observância do disposto no inciso XXXIII do art. 7º da Constituição Federal, conforme modelo constante do ANEXO XV, parte integrante deste Edital; d) Inexiste fato superveniente impeditivo de sua habilitação - Anexo XV
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+19
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+e) Certidão Negativa de Pedido de Falência ou Recuperação Judicial expedida pelo Cartório de distribuição da sede da pessoa jurídica ou execução patrimonial expedida pelo Cartório de distribuição do domicílio da pessoa física; f) Os documentos apresentados, emitidos em idioma estrangeiro, deverão ser apresentados devidamente traduzidos para a língua portuguesa, por tradutor juramentado e registrado no Cartório de Títulos e Documentos. g) Além das declarações citadas acima a licitante deverá apresentar os atestados ou certidões necessários para habilitação descritos de forma detalhada no Anexo VI Documentos para fins de habilitação deste Edital; h) Declaração da própria licitante, que se vier a ser contratada, se comprometerá a não divulgar, sob qualquer pretexto, as atividades objeto do Edital, quanto quaisquer outras informações, que porventura venha a ter acesso, em função do desempenho das atividades inerentes aos serviços a serem prestados, sujeitando-se à aplicação das penalidades previstas em Lei e responsabilizando-se pela reparação de possíveis danos causados à CODEVASF, em decorrência da divulgação de quaisquer dessas informações; e i) A CODEVASF poderá, a qualquer fase deste processo licitatório, promover diligências com vistas a esclarecer ou a complementar a instrução do processo, obrigando-se as licitantes a prestar todos os esclarecimentos necessários. 14.1.1.1. Para a eficácia dos atos quanto ao atendimento a que se referem as alíneas "a-1", "a-2", "b", "c", à "i", acima, a licitante vencedora deverá apresentar a documentação solicitada no prazo de até 02 (duas) horas, enviando-a para o fax nº (61) 3312-4787, com posterior encaminhamento do original ou cópia autenticada no prazo de até 03 (três) dias úteis, contados da data da comunicação da CODEVASF por intermédio do Pregoeiro, sob pena de inabilitação. 14.1.1.2. A PROPONENTE deverá apresentar declaração, devidamente assinada pelo representante legal de que: II. Dispõe de aparelhamento e pessoal técnico adequado para atender às necessidades da CODEVASF - Anexo XV. III. Disponibilizará, em até 30 (trinta) dias após a data de assinatura do contrato, para as PROPONENTES participantes do Item I deste Edital, Fábrica de Software própria, com as seguintes características técnicas mínimas: a) Hardware: Compatível com o existente na CODEVASF em número suficiente para atender as Solicitações de Atendimento emitidas para execução nas dependências da empresa contratada; b) Software: Plataforma compatível com os recursos de software necessários ao desenvolvimento dos serviços do Item I desta contratação especificados no Item 5 ­ Dos recursos operacionais de infra-estrutura e software, deste Edital.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+20
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+Observação: A declaração de que trata este subitem deverá também conter compromisso de manter o ambiente operacional da Fábrica de Software sempre compatível com os recursos de hardware e software necessários ao desenvolvimento dos serviços do Item I deste Edital. 14.1.1.3. Adicionalmente, deverá compor a documentação de habilitação das empresas concorrentes a Declaração de que possui e utiliza metodologia própria de gerenciamento de projetos e que a utilizará na prestação dos serviços à CODEVASF, para o caso de não utilizar o guia do PMBoK para gerenciamento de projetos. 14.1.1.4. A validade das certidões referidas no subitem 14.1.1 corresponderá ao prazo fixado nos próprios documentos. Caso as mesmas não contenham expressamente o prazo de validade, a CODEVASF convenciona o prazo como sendo o de 90 (noventa) dias, a contar da data de sua expedição, ressalvada a hipótese da licitante em comprovar que o documento tem prazo de validade superior ao antes convencionado, mediante a juntada de norma legal pertinente. 14.1.1.5. Caso a(s) certidão(ões) expedida(s) pela(s) Fazenda(s) Federal, Estadual, Municipal ou do Distrito Federal seja(m) POSITIVA(S), a(s) Certidão(ões) Positiva(s) com efeito negativo deverá(ão) contar expressamente na(s) mesma(s) o efeito negativo nos termos do art. 206 do CTN ou a juntada de documentos comprovando que o débito foi parcelado pelo próprio emitente do documento ou que a sua cobrança está suspensa ou, se contestado, foi garantida a execução mediante depósito em dinheiro ou através de oferecimento de bens, com data de emissão não superior a 90 (noventa) dias, da data de recebimento das propostas. 14.1.1.6. Não serão aceitos protocolos de entrega ou solicitação de documento em substituição aos requeridos no subitem 14.1.1 deste Edital, no que couber. 14.1.1.7. A não comprovação de regularidade de quaisquer dos documentos indicados no subitem 14.1.1 acima implicará a inabilitação da licitante, com a conseqüente desclassificação da proposta e aplicação das penalidades previstas no art. 28 do Decreto nº 5.450/2005. 14.1.1.8. Nos termo do art. 42 da Lei Complementar nº 123/2006, em se tratando das microempresas ou empresas de pequeno porte, a comprovação de regularidade fiscal somente será exigida para efeito de assinatura do contrato. Contudo, deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição (art. 43, caput da Lei Complementar n.º 123, de 14/12/2006). 14.1.1.9. Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de 02 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que a licitante for declarada vencedora do certame, prorrogáveis por igual período, a critério da CODEVASF, para a regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa (art. 43, § 1º, da Lei Complementar n.º 123, de 14/12/2006). 14.1.1.10. A não-regularização da documentação dentro do prazo previsto no subitem 11.5. acima, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81 das Lei n.º 8.666, de 21 de junho de 1993, sendo facultado à CODEVASF con\\srv02\editaispublicados/2010 Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+21
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+vocar as licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação (art. 43, § 3º, da Lei Complementar n.º 123, de 14/12/2006). 14.1.1.11. Constatado o atendimento às exigências fixadas no Edital com relação a aceitação da proposta e os documentos de habilitação, a(s) licitante(s) que ofertar(em) o menor preço, respeitado o valor máximo unitário do ponto de função e horas e global que compõe o valor, orçado pela Codevasf, conforme Estimativa do Valor Anual da Contratação ­ Anexo XVI deste Edital, que faz parte integrante do mesmo, será(ão) declarada(s) vencedora(s). 14.1.1.12. No julgamento das propostas e dos documentos de habilitação o pregoeiro poderá sanar erros ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de habilitação e classificação (§ 3º do art. 26 do Decreto nº 5.450/2005). 15. RECURSOS ADMINISTRATIVOS 15.1. Declarada a vencedora, qualquer licitante poderá, durante a sessão pública, de forma imediata e motivada, em campo próprio do sistema, manifestar sua intenção de recorrer, quando lhe será concedido o prazo de 3 (três) dias para apresentar as razões de recurso, ficando as demais licitantes, desde logo, intimadas para, querendo, apresentarem contrarazões em igual prazo, que começará a contar do término do prazo da recorrente, sendolhes assegurada vista imediata dos elementos indispensáveis à defesa dos seus interesses (art. 26 do Decreto n.º 5.450/2005). O acolhimento do recurso implica tão somente a invalidação daqueles atos que não sejam passíveis de aproveitamento. A falta de manifestação imediata e motivada da licitante importará na decadência do direito de recurso, ficando o Pregoeiro autorizado a adjudicar o objeto à licitante declarada classificada em primeiro lugar. Os autos do processo permanecerão com vistas franqueadas aos interessados na Secretaria de Licitações ­ SL, localizada na Sala 201 do Edifício Sala 201 do Edifício Sede da CODEVASF, no Setor de Grandes Áreas Norte ­ SGA/Norte, Quadra 601, Conjunto I, em Brasília/DF, nos dias úteis no horário de 08:00 (oito) às 12:00 (doze) horas e de 13:30 (treze e trinta) às 17:30 (dezessete e trinta) horas, de segunda a sexta-feira. As razões dos recursos deverão ser apresentadas por escrito, tempestivamente, no endereço acima, e dirigidas ao Pregoeiro, que os analisará e quando mantiver sua decisão, encaminhará os autos à autoridade competente, que, neste caso, deverá decidir sobre o recurso. Não serão considerados os recursos interpostos após os respectivos prazos legais, bem como os que não forem apresentados na forma estabelecida no subitem 15.5. ADJUDICAÇÃO E HOMOLOGAÇÃO
+
+15.2. 15.3.
+
+15.4.
+
+15.5.
+
+15.6. 16.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+22
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+16.1. 16.2.
+
+A adjudicação do presente Edital pelo Pregoeiro será inviabilizada sempre que houver recurso. A homologação da licitação é de responsabilidade da autoridade competente e só poderá ser realizada depois da adjudicação do item à licitante vencedora pelo Pregoeiro, ou, quando houver recurso, pela própria autoridade competente. Após decididos os recursos e constatada a regularidade dos atos praticados, a autoridade competente adjudicará o objeto e homologará o procedimento licitatório. A autoridade competente poderá encaminhar o processo ao setor que solicitou a aquisição com vistas à verificação da aceitabilidade do item cotado, antes da homologação do certame. DA CONVOCAÇÃO E ASSINATURA DO CONTRATO A licitante vencedora será convocada por escrito para assinar o contrato na Assessoria Jurídica da Sede da CODEVASF, em Brasília/DF, devendo comparecer no prazo de 10 (dez) dias, contado a partir da data da convocação. O prazo para assinatura do contrato poderá ser prorrogado uma vez, por igual período, quando solicitado pela licitante vencedora, no decorrer do prazo especificado no subitem 17.1, desde que ocorra motivo justificado e aceito pela Administração da CODEVASF. Na assinatura do contrato, será exigida a comprovação das condições de habilitação consignadas no edital, as quais deverão ser mantidas pelo licitante durante a vigência do contrato. A recusa injusta da adjudicatária em assinar o contrato no prazo estabelecido, bem como não apresentar as mesmas condições exigidas para sua participação e habilitação neste certame, caracterizará o descumprimento total da obrigação assumida, sujeitando-a às sanções previstas neste Edital, sem prejuízo das demais cominações legais cabíveis. Na hipótese do vencedor da licitação não fazer a comprovação referida no item 17.3, não comparecendo para a assinatura do Contrato no prazo estipulado ou em caso de recusa por parte desta, é facultado à CODEVASF, por intermédio do Pregoeiro, convocar as licitantes remanescentes, por ordem de classificação para fazê-lo. Analisada a aceitabilidade da proposta, podendo, inclusive, negociar diretamente com o proponente para que seja obtido melhor preço, ou revogar este Pregão, sem prejuízo da cominação legal prevista no subitem 28.1 deste Edital. A CODEVASF providenciará a publicação do extrato do instrumento de Contrato na Imprensa Oficial, até o quinto dia útil do mês seguinte ao de sua assinatura, para ocorrer no prazo de 20 (vinte) dias daquela data, nos termos do parágrafo único do artigo 61 da Lei n.º 8.666/93. DOTAÇÃO ORÇAMENTÁRIA
+
+16.3. 16.4.
+
+17. 17.1.
+
+17.2.
+
+17.3.
+
+17.4.
+
+17.5.
+
+17.6.
+
+18.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+23
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+18.1.
+
+A CODEVASF se propõe a pagar pela execução dos serviços, objeto desta licitação, o valor máximo global, detalhado abaixo, discriminados conforme planilha de Composição de Preços, constante do Anexo VII deste Edital, com recursos dos Programas de Trabalho 04.121.0757.8892.0001 ­ Manutenção do Sistema Nacional de Informações para o Desenvolvimento Regional e Ordenamento Territorial ­ Nacional; 04.122.0750.2000.0001 ­ Administração da Unidade ­ Nacional; 04.122.0757.2272.0001 ­ Gestão e Administração do Programa de Gestão da Política de Integração Nacional ­ Nacional; 04.122.0515.2272.0001 ­ Gestão e Administração do Programa de Infraestrutura Hídrica ­ Nacional; 04.122.0379.2272.0001 ­ Gestão e Administração do Programa de Desenvolvimento da Agricultura Irrigada ­ Nacional; 04.122.1305.2272.0001 ­ Gestão e Administração do Programa de Revitalização de Bacias Hidrográficas em Situação de Vulnerabilidade e Degradação Ambiental ­ Nacional; 04.122.1025.2272.0001 ­ Gestão e Administração do Programa de Promoção da Sustentabilidade de Espaços Sub-Regionais ­ PROMESO ­ Nacional e 04.122.0757.8785.0001 ­ Gestão e Coordenação do Programa de Aceleração do Crescimento ­ PAC ­ Nacional, sob gestão da Área de Gestão Estratégica, categoria econômica 3 ­ Despesas Correntes. Item I ­ Serviços de Desenvolvimento e manutenção de sistemas de informação: 5000 pontos de função no valor de R$ 3.650.000,00 (Três milhões seiscentos e cinquenta mil reais). Item II ­ Serviços de Métrica de software: 500 horas no valor de R$ 100.000,00 (Cem mil reais). TOTAL: R$ 3.750.000,00 (Três milhões setecentos e cinquenta mil)
+
+19. 19.1.
+
+PRAZO DE EXECUÇÃO O prazo para a execução dos serviços objeto desta licitação terá a duração de 12 (doze) meses, contados a partir da assinatura do contrato, podendo ser prorrogado por períodos iguais e sucessivos após avaliação da qualidade dos serviços prestados e dos preços praticados no mercado, de forma a manter a condição mais vantajosa para a administração pública, limitado a 60 (sessenta) meses, mediante manifestação expressa das partes. Os contratos terão vigência na data de suas assinaturas, com prazo máximo para início da execução dos serviços em 30 (trinta) dias corridos, contados da assinatura do contrato. OBRIGAÇÕES DA CONTRATADA Iniciar a prestação dos serviços em até 30 (trinta) dias corridos a contar da data da assinatura do Contrato. Manter, durante a execução do Contrato, todas as condições de habilitação e classificação verificadas na licitação. Quando os serviços forem executados nas instalações da CODEVASF, manter na CODEVASF um preposto que atuará como seu representante principal, e será responsável pelo acompanhamento da execução do Contrato por parte da CONTRATADA, tendo como
+
+19.2. 20. 20.1. 20.2. 20.3.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+24
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+atribuições, entre outras relativas à adequada execução do Contrato, participar de reuniões, zelar pela qualidade dos serviços prestados e pelo bom desempenho dos profissionais da CONTRATADA. 20.4. Prover e gerir infra-estrutura própria de hardware e software, bem como recursos físicos necessários à execução dos serviços contratados, no caso em que os serviços sejam prestados nas dependências da CONTRATADA. Entende-se por infraestrutura de hardware e software, todo hardware e licenças dos softwares necessários para a realização do serviço. Solicitar autorização prévia da CODEVASF antes de utilizar recursos de softwares que necessitem de aquisição de licença de uso. Solicitar autorização prévia da CODEVASF para incorporar, nos serviços entregues, componentes de software que não sejam de propriedade da CODEVASF. Utilizar recursos de terceiros somente quando devidamente autorizados ou licenciados pelo detentor dos direitos. Garantir que todas as entregas efetuadas estejam compatíveis e totalmente aderentes aos produtos utilizados pela CODEVASF, cabendo à CODEVASF tomar ciência e autorizar o uso de ferramentas, cuja versão seja diferente daquelas previstas e em uso na empresa. A CODEVASF terá ampla liberdade de atualizar as versões dos sistemas operacionais, linguagens de desenvolvimento ou ferramentas de apoio ao desenvolvimento (de sua propriedade ou de seu direito de uso), segundo sua necessidade e conveniência administrativa, cabendo, nestes casos, à CONTRATADA manter a compatibilidade, evoluindo e adaptando-se à respectiva mudança, às suas expensas, sem quaisquer custos adicionais para a CODEVASF. Adquirir e operacionalizar as ferramentas e tecnologias adotadas pela CODEVASF, em seu ambiente, incluindo as versões "cliente", às suas expensas e sem quaisquer custos para CODEVASF. Adotar procedimentos no seu ambiente de desenvolvimento, que garantam a segurança das informações e a continuidade das operações, em conformidade com os parâmetros da NBR-ISO/IEC 17.799, e manter documentação atualizada de sua Política de Segurança de Informações. Promover o repasse de conhecimento aos novos profissionais da CONTRATADA, em caso de substituição dos responsáveis pela execução de serviços em andamento, evitando o prejuízo à continuidade e qualidade dos serviços. Repassar todo o conhecimento adquirido ou produzido na execução dos serviços para os técnicos da CODEVASF. Assegurar a transferência de conhecimentos adquiridos ou produzidos, relativamente a serviços em andamento, para outra CONTRATADA da CODEVASF, nos termos que ve-
+
+20.5. 20.6. 20.7. 20.8.
+
+20.9.
+
+20.10.
+
+20.11.
+
+20.12.
+
+20.13. 20.14.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+25
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+nham a ser por esta definidos, no caso em que a CODEVASF determine a passagem de serviços em andamento, a fim de garantir a continuidade dos serviços. 20.15. Garantir a execução dos serviços sem interrupção, substituindo, caso necessário, sem ônus para a CODEVASF, qualquer profissional que estiver em gozo de férias, auxílio doença, auxílio maternidade ou qualquer outro benefício legal / regulamentar, por outro de mesma qualificação ou superior. Capacitar às suas expensas, sempre que necessário, os profissionais envolvidos na execução dos serviços. Disponibilizar, caso seja demandado pela CODEVASF, suas dependências e seu ambiente de hardware e software para que sejam efetuadas análises e auditorias técnica e / ou de segurança. Prestar as informações e esclarecimentos solicitados, em no máximo 2 (dois) dias úteis, a contar da solicitação feita pelo GESTOR DO CONTRATO DA CODEVASF. Selecionar e alocar, na prestação dos serviços contratados, profissionais em conformidade com as exigências dos serviços a serem realizados, e com os perfis adequados. Apresentar à CODEVASF, sempre que solicitado, a comprovação da experiência e da formação dos profissionais designados para atuar na execução dos serviços. Substituir imediatamente o profissional que seja considerado inapto para os serviços a serem prestados, seja por incapacidade técnica, atitude inconveniente ou falta de urbanidade ou que venha a transgredir as normas disciplinares ou ao código de ética da CODEVASF. Assumir a responsabilidade por todos os encargos fiscais, previdenciários e obrigações previstas na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando forem vítimas os seus profissionais no desempenho dos serviços ou em conexão com eles, ainda que acontecido nas dependências da CODEVASF. Reportar à Gerência de Tecnologia da Informação quaisquer anormalidades, erros e irregularidades observados no desenvolvimento dos serviços contratados, causados por ações dos profissionais contratados, de servidores públicos ou de terceiros. Manter os seus profissionais informados quanto às normas disciplinares da CODEVASF, exigindo sua fiel observância, especialmente quanto à utilização e segurança das instalações. Assumir toda a responsabilidade pelo fornecimento do objeto contratado perante a CODEVASF e terceiros, na forma da legislação em vigor, bem como por dano resultante do
+
+20.16. 20.17.
+
+20.18. 20.19. 20.20. 20.21.
+
+20.22.
+
+20.23.
+
+20.24.
+
+20.25.
+
+20.26.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+26
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+mau procedimento, dolo ou culpa de empregados ou prepostos seus, e ainda, pelo fiel cumprimento das leis e normas vigentes, mantendo a CODEVASF isenta de qualquer penalidade e responsabilidade de qualquer natureza pela infringência da legislação em vigor, por parte da contratada. 20.27. 21. 21.1. 21.2. 21.3. Indenizar os prejuízos e reparar os danos causados à CODEVASF e a terceiros por seus profissionais na execução do Contrato. OBRIGAÇÕES DA CODEVASF. Exercer o efetivo acompanhamento da execução do contrato. Prestar informações, esclarecimentos necessários e proporcionar condições ­ no que lhe couber - para que a CONTRATADA possa executar os serviços objeto do Contrato. Emitir, antes da execução de qualquer serviço, a competente Ordem de Serviço ­ OS, definindo claramente os requisitos técnicos, administrativos e financeiros relativos ao serviço objeto da contratação. Autorizar as propostas de execução de serviços apresentadas pela(s) contratada(s) nas OS. Homologar os serviços prestados constantes das ordens de serviço, após a aferição da aderência às especificações e da qualidade dos serviços, atestando as respectivas faturas. Notificar, por escrito, a CONTRATADA a ocorrência de eventuais não conformidades no curso da execução dos serviços, fixando prazo para sua correção. CONDIÇÕES DE PAGAMENTO O pagamento será efetuado, em moeda corrente nacional, após o atesto do Fiscal do Contrato na Nota Fiscal/Fatura, relativo aos serviços efetivamente executados no período e mediante a apresentação da Nota Fiscal/Fatura e Termo de Aceite dos Serviços executados de cada Ordem de Serviço emitida, sendo efetuada a retenção na fonte dos tributos e contribuições elencados na legislação aplicável. A CONTRATADA deverá estar em situação regular no SICAF. Os serviços ora contratados serão cobrados por meio de Notas Fiscais/Faturas emitidas pela CONTRATADA, com prazo mínimo para pagamento de 30 (trinta) dias. O valor do pagamento será calculado conforme a efetiva execução dos serviços dentro dos níveis requeridos, descontadas as glosas, consoante gradação estabelecida no Anexo III Acordo de Níveis de Serviço. A soma total dos percentuais de redução a ser aplicado a título de glosa não poderá ultrapassar o valor correspondente a 10% (dez por cento) do valor de cada fatura, facultada ainda a rescisão contratual e sem prejuízo da aplicação de outras sanções contratuais e legais.
+
+21.4. 21.5. 21.6. 22. 22.1.
+
+22.2. 22.3.
+
+22.4.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+27
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+22.5. 22.6.
+
+O desconto correspondente às glosas será descontado da fatura do mês subsequente à sua apuração. Se houver aplicação de multa, esta será descontada de qualquer fatura ou crédito existente na CODEVASF, em favor da CONTRATADA. Caso a mesma seja superior ao crédito eventualmente existente a diferença será cobrada judicialmente, se necessário. O pagamento será efetuado através de ordem bancária, e creditado em qualquer entidade bancária indicada na proposta, devendo para isto, ficarem explicitados o nome do Banco, Agência, localidade e número da conta corrente em que deverá ser efetivado o crédito, após a aceitação e atesto das Notas Fiscais/Faturas. Nenhum pagamento será efetuado à CONTRATADA enquanto pendente de liquidação ou qualquer obrigação financeira que lhe for imposta, em virtude de penalidade ou inadimplência, bem como, Nota Fiscal/Fatura que possua valor divergente do estabelecido no contrato, ou mesmo, que apresentem mês de referência ou prazo para pagamento inferior ao estabelecido no 26.2. À CODEVASF fica reservado o direito de não efetuar o pagamento se, durante a execução dos serviços, estes não estiverem em perfeitas condições, de acordo com as exigências contidas no edital e seus anexos. A fatura só será liberada para pagamento depois de aprovada pela área gestora da Sede da CODEVASF, e deverá estar isenta de erros ou omissões, sem o que será, de forma imediata, devolvida à licitante vencedora para correções. Eventual solicitação de reequilíbrio econômico-financeiro do contrato será analisada consoante os pressupostos da Teoria da Imprevisão, nos termos como dispõe o artigo 65, inciso II, alínea "d" da Lei nº 8.666/93. A Nota Fiscal/Fatura deverá destacar o valor do IRPJ e demais contribuições incidentes, para fins de retenção na fonte, de acordo com o art. 1º, § 6º da IN/SRF n.º 480/2004, ou informar a isenção, não incidência ou alíquota zero, e respectivo enquadramento legal, sob pena de retenção do imposto de renda e das contribuições sobre o valor total do documento fiscal, no percentual correspondente à natureza do bem. Quaisquer tributos ou encargos legais, criados, alterados ou extintos, após a data de apresentação da proposta, de comprovada repercussão nos preços contratados, ensejará a revisão destes, para mais ou para menos, conforme o caso. Ficam excluídos da hipótese referida no subitem anterior, tributos ou encargos legais que, por sua natureza jurídica tributária (impostos diretos e/ou pessoais) não reflitam diretamente nos preços do objeto contratual. Atendido ao disposto nos itens anteriores a CODEVASF considera como data final do período de adimplemento a do dia útil seguinte à data de entrega do documento de cobrança no local de pagamento do fornecimento, a partir da qual será observado o prazo de até
+
+22.7.
+
+22.8.
+
+22.9.
+
+22.10.
+
+22.11.
+
+22.12.
+
+22.13.
+
+22.14.
+
+22.15.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+28
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+30 (trinta) dias para pagamento, conforme estabelecido no artigo 9º, do Decreto nº 1.054, de 07 de fevereiro de 1994. 22.16. É de inteira responsabilidade da licitante vencedora a entrega a CODEVASF dos documentos de cobrança, acompanhados dos seus respectivos anexos, de forma clara, objetiva e ordenada, que se não for atendido, implica desconsideração pela CODEVASF dos prazos estabelecidos para conferência e pagamento. A CODEVASF procederá a retenção de 11% (onze por cento) do valor bruto da nota fiscal ou fatura de prestação de serviços e recolher à Previdência Social, em nome da contratada, a importância retida até o dia 10 (dez) do mês subseqüente ao da emissão da respectiva nota fiscal ou fatura. O documento de cobrança indicará obrigatoriamente, o número e a data de emissão da Nota de Empenho, emitida pela CODEVASF e que cubra a aquisição dos serviços/fornecimentos objeto deste Pregão Eletrônico. Caso a licitante vencedora seja optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte ­ SIMPLES, deverá apresentar, juntamente com a Nota Fiscal, a devida comprovação, a fim de evitar a retenção na fonte dos tributos e contribuições, conforme legislação em vigor. A contratada obriga-se a manter, durante toda a execução do contrato, todas as condições de habilitação e qualificação ora exigida, em compatibilidade com as obrigações por ela assumidas. Os pagamentos somente serão efetivados caso a empresa contratada apresente situação regular. Não sendo devida qualquer atualização financeira quando o atraso de pagamento se der por irregularidade da licitante vencedora. Será considerado em atraso o pagamento efetuado após o prazo estabelecido no subitem 22.18, caso em que a CODEVASF pagará atualização financeira, aplicando-se a seguinte fórmula: AM = P x I, onde: AM = Atualização Monetária; P = Valor da Parcela a ser paga; e I = Percentual de atualização monetária, assim apurado: I = (1+im1/100)dx1/30 x (1+im2/100)dx2/30 x ... x (1+imn/100)dxn/30 - 1, onde: i = Variação do Índice de Preço ao Consumidor Amplo - IPCA no mês "m"; d = Número de dias em atraso no mês "m"; m = Meses considerados para o cálculo da atualização monetária 22.22. 22.23. Não sendo conhecido o índice para o período será utilizado, no cálculo, o último índice conhecido. Quando utilizado o último índice conhecido, o cálculo do valor ajustado será procedido tão logo seja publicado o índice definitivo correspondente ao período de atraso. Não cabeEdital 63-10 - Contratação de Serviço de fábrica de software
+
+22.17.
+
+22.18.
+
+22.19.
+
+22.20.
+
+22.21.
+
+\\srv02\editaispublicados/2010
+
+Pág.
+
+29
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+rá qualquer remuneração a título de correção monetária para pagamento decorrente do acerto de índice. 22.24. Nos cálculos deverão ser utilizadas 5 (cinco) casas decimais.
+
+23. REPACTUAÇÃO 23.1. 23.2. 23.3. Será permitida a repactuação de preços, desde que seja observado o interregno mínimo de 01 (um) ano, a contar da data do orçamento a que a proposta se referir. Nas repactuações subseqüentes à primeira, a anualidade será contada a partir da data do fato gerador que deu ensejo à última repactuação. As repactuações serão precedidas de solicitação da CONTRATADA acompanhada da devida justificativa e demonstração analítica da variação dos componentes de custo do contrato, de acordo com a planilha de composição de preço (Anexo VII), acordo, convenção ou dissídio coletivo de trabalho ou equivalente, com a comprovação de registro na Delegacia Regional do Trabalho, entre outros, visando a análise e aprovação pela CODEVASF. É vedada a inclusão, por ocasião da repactuação, de benefícios não previstos na proposta inicial, exceto quando se tornarem obrigatórios por força de instrumento legal, sentença normativa, acordo coletivo ou convenção coletiva. A repactuação somente será concedida mediante negociação entre as partes, considerando que os preços contratados deverão ser compatíveis com aqueles praticados no mercado, de forma a garantir a continuidade da contratação mais vantajosa para a administração. A CODEVASF poderá realizar diligências para conferir a variação de custo alegada pela CONTRATADA. Os novos valores contratuais decorrentes das repactuações terão suas vigências iniciada observando-se o seguinte: a partir da ocorrência do fato gerador que deu causa à repactuação; em data futura, desde que acordada entre as partes, sem prejuízo da contagem de periodicidade para concessão das próximas repactuações futuras; ou em data anterior à ocorrência do fato gerador, exclusivamente quando a repactuação envolver revisão do custo de mão-de-obra em que o próprio fato gerador, na forma de acordo, convenção ou sentença normativa, contemplar data de vigência retroativa, podendo esta ser considerada para efeito de compensação do pagamento devido, assim como para a contagem da anualidade em repactuações futuras. MULTAS
+
+23.4.
+
+23.5.
+
+23.6. 23.7. 23.7.1. 23.7.2. 23.7.3.
+
+24.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+30
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+24.1.
+
+Em caso de inadimplemento, por parte da licitante vencedora de quaisquer das cláusulas ou condições do contrato, à mesma será aplicada a multa no percentual de 0,1% (um décimo por cento) ao dia, sobre o valor global contratado, até o limite de 20% (vinte por cento) do prazo contratual, o que dará ensejo à sua rescisão.
+
+24.1.1. Ocorrida a inadimplência, a multa será aplicada pela CODEVASF, observando-se o seguinte: a) b) c) 0,2% (zero vírgula dois por cento) por dia devido à inexecução das obrigações assumidas, incidentes sobre o valor das Ordens de Serviço não executadas, limitado a 30(trinta)dias; 10% (dez por cento) incidentes sobre o valor das Ordens de Serviços não executadas, no caso de atraso por período entre 30 (trinta) e 60 (sessenta) dias; 15% (quinze por cento) sobre o valor das Ordens de Serviços não executadas, no caso de atraso na execução superior a 60 (sessenta) dias, ou pela recusa em receber as Ordens de Serviços.
+
+24.1.2. A aplicação da multa não impede que a CODEVASF rescinda unilateralmente o contrato e aplique as demais sanções previstas neste item. 24.1.3. A multa, aplicada após regular processo administrativo, não se confunde com os descontos aplicados por glosa em razão de desatendimento de Acordo de Níveis de Serviço, será descontada das faturas subsequentes e da garantia apresentada.
+
+24.1.4. Se a multa for de valor superior ao valor da garantia prestada, além da perda desta, responderá a CONTRATADA pela sua diferença, a qual será descontada dos pagamentos eventualmente devidos pela CODEVASF ou ainda, quando for o caso, cobrada através de ação judicial. 24.2. A CONTRATADA, cientificada da aplicação da multa, terá o prazo de 10 (dez) dias corridos, para apresentar recurso à CODEVASF. Ouvida a fiscalização e o responsável pelo contrato, o recurso será encaminhado a Assessora Jurídica, que procederá ao seu exame. Após o procedimento estabelecido no item anterior, o recurso será apreciado pela Diretoria Executiva, que poderá relevar ou não a multa.
+
+24.3.
+
+24.3.1. Em caso de relevação da multa, a CODEVASF se reserva o direito de cobrar perdas e danos porventura cabíveis em razão do inadimplemento de outras obrigações, não constituídos essa revelação em novação contratual, nem desistência dos direitos que lhe forem assegurados. 24.4. 25. Caso a multa seja mantida pela Diretoria Executiva, não caberá novo recurso administrativo. DA GARANTIA DE EXECUÇÃO
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+31
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+25.1.
+
+Como garantia para completa execução das obrigações contratuais e da liquidação das multas convencionais, fica estipulada uma "Garantia de Execução" no montante de 5% (cinco por cento) do valor do contrato, a ser integralizada previamente à assinatura, em espécie, em Títulos da Dívida Pública da União, com cotação de mercado devidamente comprovada por documento hábil expedido pela CVM ­ Comissão de Valores Mobiliários, Seguro Garantia ou Fiança Bancária, esta a critério da contratada. Quando se tratar de caução em títulos da dívida pública, estes devem ter sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda, na forma do Art. 56, Inc. I, da Lei 8.666/93 (redação dada pela Lei nº 11.079, de 2004). Após a assinatura do Termo de Encerramento Definitivo do Contrato será devolvida a "Garantia de Execução", uma vez verificada a perfeita execução das obras/serviços e fornecimentos contratados. A garantia em espécie deverá ser depositada em instituição financeira oficial, credenciada pela Codevasf, em conta remunerada que poderá ser movimentada somente por ordem da Codevasf. A não integralização da garantia no prazo estabelecido, representará inadimplência contratual, passível de aplicação de multa e de rescisão, na forma prevista pelas cláusulas contratuais. Não haverá qualquer restituição de garantia em caso de dissolução contratual, na forma do disposto na cláusula de rescisão, hipótese em que a garantia reverterá e será apropriada pela Codevasf. FLUXO PARA ENTREGA DOS SERVIÇOS E FISCALIZAÇÃO O fluxo a ser seguido pela CONTRATADA e pela CODEVASF, quanto à homologação e entrega dos serviços de métrica de software e de desenvolvimento e manutenção de sistemas de informação deverá seguir os seguintes critérios:
+
+25.2.
+
+25.3.
+
+25.4.
+
+25.5.
+
+25.6.
+
+26. 26.1.
+
+26.1.1. Quando o serviço for colocado em homologação pela CONTRATADA, deve ser entregue para CODEVASF duas vias do Anexo IX - Termo de Recebimento de Serviço. Uma via será devolvida à CONTRATADA com a assinatura de recebido. A partir desta data começa a contar o prazo de homologação do serviço, que será de 15 dias úteis. 26.1.2. Caso para a homologação seja necessária reunião com profissionais da contratada, esta deverá ser informada e caso a CONTRATADA falte à reunião por qualquer motivo, o prazo de homologação se renova automaticamente. 26.1.3. Caso o serviço seja de desenvolvimento ou manutenção de sistema de informação, após a homologação, a CODEVASF tomará as providências para disponibilizar o serviço no servidor de produção, devendo contar integralmente com o auxílio da CONTRATADA para tanto.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+32
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+26.1.4. Após homologado o serviço, ou, no caso de serviço de desenvolvimento ou manutenção de sistemas, após a implantação bem sucedida no servidor de produção será assinado o Termo de Aceite do Serviço ­ Anexo V, efetivando a execução do serviço. 26.1.5. Decorrido o prazo de homologação do serviço sem um posicionamento da CODEVASF, a empresa CONTRATADA deve formalizar de Ofício à Gerência de Tecnologia da Informação, informando o atraso na homologação, cabendo a esta avaliar e se for o caso, homologar o serviço por decurso de prazo. 26.1.6. A CONTRATADA compromete-se a entregar os artefatos à medida que os mesmos forem sendo elaborados de forma a não comprometer os prazos de homologação da CODEVASF. 26.1.7. Para os serviços de manutenção corretiva a CONTRATADA deverá atualizar as mudanças efetuadas na documentação existente, não estando obrigada a elaborar novos artefatos de documentação. 26.1.8. As não-conformidades identificadas durante a homologação e implantação dos artefatos resultantes do serviço serão corrigidas pela CONTRATADA, sem ônus para a CODEVASF. 26.1.9. Caso seja identificada alguma não-conformidade, será considerado novo prazo de homologação, sendo este contado a partir da data de entrega do serviço com as não conformidades corrigidas. 26.2. A execução dos Contratos será fiscalizada por Representante da CODEVASF, especialmente designado, cumprindo-lhe: a) Registrar as ocorrências relacionadas com a execução dos serviços, determinando junto às empresas CONTRATADAS o que for necessário à regularização das falhas ou defeitos observados. b) Analisar todos os documentos exigidos para o devido atesto da Gerência de Tecnologia da Informação na Nota Fiscal de Serviços e Fatura referente aos serviços realizados pelas empresas CONTRATADAS. c) Encaminhar à unidade responsável o(s) eventual(ais) recurso(s) das empresas CONTRATADAS, acerca da aplicação de penalidades, com vistas à sua apreciação. 26.3. A CODEVASF poderá exigir o afastamento de qualquer profissional ou representante das empresas CONTRATADAS que venha causar embaraço à fiscalização do contrato, ou em razão de procedimentos ou atitudes incompatíveis com o exercício de suas funções. A fiscalização dos serviços/fornecimentos objeto desta licitação será feita diretamente pela CODEVASF, através de servidor formalmente designado na forma do Art. 67 da Lei nº 8.666/93, a quem compete verificar se a licitante está executando o fornecimento conforme o especificado, observando o contrato e os documentos que o integram.
+
+26.4.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+33
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+26.5. 26.6. 26.7.
+
+A fiscalização terá poderes para agir e decidir perante a CONTRATADA, inclusive rejeitando serviços que estiverem em desacordo com o Contrato. A CONTRATADA fica obrigada a assegurar e facilitar o acesso da Fiscalização, aos serviços e a todos os elementos que forem necessários ao desempenho de suas atribuições. A Fiscalização terá plenos poderes para sustar qualquer serviço que não esteja sendo executado dentro dos termos do Contrato, dando conhecimento do fato à Gerência de Tecnologia da Informação, responsável pela execução do contrato. Cabe à Fiscalização verificar a ocorrência de fatos para os quais haja sido estipulada qualquer penalidade contratual. A Fiscalização informará ao setor competente quanto ao fato, instruindo o seu relatório com os documentos necessários, e em caso de multa, a indicação do seu valor. A ação e/ou omissão, total ou parcial, da Fiscalização não eximirá a CONTRATADA da integral responsabilidade pela execução do objeto deste contrato. A Fiscalização deverá verificar, no decorrer da execução do contrato, se a CONTRATADA mantém, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas na licitação, comprovada mediante consulta ao SICAF, CADIN ou certidões comprobatórias. SANÇÕES ADMINISTRATIVAS A licitante vencedora, quando convocada dentro do prazo de validade da sua proposta, não assinar o contrato, deixar de entregar documentação exigida no edital, apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na sua entrega, comportar-se de modo inidôneo ou cometer fraude fiscal, garantido o direito de defesa, ficará impedida de licitar e contratar com a CODEVASF pelo prazo de até 05 (cinco) anos, sem prejuízo das multas previstas neste Edital e seus Anexos, e das demais cominações legais. Pela inexecução total ou parcial de quaisquer das cláusulas ou condições do contrato, a Administração do CODEVASF poderá aplicar à Contratada as seguintes sanções: 1. 2. 3. 4. advertência, suspensão; multa, conforme disposto no "item 24" deste edital; suspensão temporária de participação em licitação e impedimento de contratar com a CODEVASF; declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que o contratado ressarcir a CODEVASF pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso anterior.
+
+26.8.
+
+26.9. 26.10.
+
+27. 27.1.
+
+27.2.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+34
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+27.3. 27.4.
+
+Comprovado o impedimento ou reconhecida a força maior, devidamente justificados e aceitos pela CODEVASF, a Contratada ficará isenta das penalidades mencionadas. Sanções de advertência, suspensão temporária de participar em licitação e impedimento de contratar com a CODEVASF, e declaração de inidoneidade para licitar ou contratar com a Administração Pública poderão ser aplicadas à Contratada juntamente com as de multa, descontando-a da garantia prestada. A multa constante do subitem 25.1 é meramente moratória, não isentando a licitante vencedora do ressarcimento por perdas e danos pelos prejuízos a que der causa. As penalidades serão obrigatoriamente registradas no SICAF, e no caso de suspensão de licitar, a licitante penalizada deverá ser descredenciada por igual período, sem prejuízo das multas previstas neste Edital e das demais cominações legais. DISPOSIÇÕES GERAIS Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subseqüente, no mesmo horário anteriormente estabelecido, desde que não haja comunicação do Pregoeiro em contrário. É facultado ao Pregoeiro, ou à autoridade superior, em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou complementar a instrução do Processo, vedada a inclusão posterior de documento ou informação que deveria constar no ato da sessão pública. As situações não previstas neste Edital, inclusive as decorrentes de caso fortuito ou de força maior, serão resolvidas pelo Pregoeiro, ou pela autoridade competente, desde que pertinentes com o objeto do pregão e observada a legislação. A Minuta de Contrato (ANEXO XVIII), regulamenta as condições de pagamento, reajustamento, responsabilidade, multas financeiras e encerramento físico e financeiro do Contrato. Devem ser registradas, por meio de Termo Aditivo, eventuais alterações que ocorrerem durante a execução do contrato, referentes aos fornecimentos extras. Fornecimentos extras não contemplados na planilha de preços da contratada deverão ter seus preços fixados mediante prévio acordo. Ambas as hipóteses deverão ser previamente autorizadas/aprovadas pela autoridade competente. O não atendimento às exigências formais não essenciais não importará no afastamento da licitante, desde que, a critério do Pregoeiro, sejam possíveis a aferição da sua qualificação e a exata compreensão da sua proposta, durante a realização da sessão pública do pregão. A CODEVASF poderá revogar a licitação quando nenhuma das propostas satisfizer o objetivo da mesma, quando for evidente que tenha havido falta de competição, ou quando caracterizado o indício de colusão. A CODEVASF poderá, ainda, revogar a licitação por razão de interesse público decorrente de fato superveniente, devidamente comprovado, pertinente, e suficiente para justificar
+
+27.5. 27.6.
+
+28. 28.1.
+
+28.2.
+
+28.3.
+
+28.4.
+
+28.5.
+
+28.6.
+
+28.7.
+
+28.8.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+35
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+tal conduta, devendo anulá-la por ilegalidade de ofício ou por provocação de terceiros, mediante parecer isento e devidamente fundamentado. 28.9. 28.10. 28.11. As normas que disciplinam este Pregão serão sempre interpretadas em favor da ampliação da disputa entre os interessados, sem comprometimento da segurança do futuro contrato. Responsabiliza-se a licitante vencedora por quaisquer ônus decorrentes de danos que vier causar a CODEVASF e a terceiros, em decorrência da execução do contrato. A licitante que vier a ser contratada, ficará obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessários, na forma da Lei 8.666/93 e suas alterações. Na contagem dos prazos estabelecidos neste Edital e seus anexos, excluir-se-á o dia do início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na CODEVASF. Para efeito da contagem dos prazos, o expediente na CODEVASF é das 08:00 (oito) às 12:00 (doze) horas e de 13:30 (treze e trinta) às 17:30 (dezessete e trinta) horas, sendo considerado intempestivo o recurso ou representação quando não recebido pelo Pregoeiro ou pelo Protocolo da CODEVASF até às 17:30 (dezessete e trinta) horas do último dia do prazo recursal. A homologação do resultado deste Pregão não implicará direito à contratação. Os casos omissos serão dirimidos pelo Pregoeiro, com observância da legislação regedora, em especial a Lei nº 8.666/93 e suas alterações, a Lei nº 10.520, de 17/07/2002, o Decreto 3.555, de 08/08/2000, Decreto nº 3.697, de 21/12/2000 e o Decreto 5.450 de 31/05/2005. Este Edital e seus anexos farão parte integrante do Contrato a ser firmado entre a CODEVASF e a licitante vencedora, independente de transcrições. O Foro da Justiça Federal da Seção Judiciária da cidade de Brasília, Distrito Federal, será o competente para dirimir questões oriundas da presente convocação, renunciando as partes, a qualquer outro, por mais privilegiado que seja.
+
+28.12.
+
+28.13.
+
+28.14. 28.15.
+
+28.16. 28.17.
+
+Brasília, 15 de outubro de 2010.
+RICARDO LUIZ FERREIRA DOS SANTOS Diretor da Área de Revitalização das Bacias Hidrográficas Respondendo pela Presidência
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+36
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO I ­ SERVIÇO DE DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS DE INFORMAÇÃO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+37
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO II ­ SERVIÇO DE MÉTRICA DE SOFTWARE (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+38
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO III ACORDOS DE NÍVEIS DE SERVIÇOS (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+39
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO IV ORDEM DE SERVIÇO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+40
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO V TERMO DE ACEITE DO SERVIÇO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+41
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO VI DOCUMENTOS PARA FINS DE HABILITAÇÃO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+42
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO VII PLANILHA DE COMPOSIÇÃO DE PREÇO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+43
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO VII - A PLANILHA DE COMPOSIÇÃO DE PREÇO ­ FÁBRICA DE SOFTWARE (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+44
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO VII - B PLANILHA DE COMPOSIÇÃO DE PREÇO ­ MÉTRICA DE SOFTWARE (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+45
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO VIII TABELA DE PRODUTIVIDADE (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+46
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO IX TERMO DE RECEBIMENTO DE SERVIÇO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+47
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO X SOLICITAÇÃO DE ATENDIMENTO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+48
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XI ANTEPROJETO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+49
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XII GLOSSÁRIO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+50
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XIII ATESTADO DE VISTORIA (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+51
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XIV DECLARAÇÃO DE PROPRIEDADE INTELECTUAL (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+52
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XV MODELO DE DECLARAÇÃO
+
+(MODELO DE DECLARAÇÃO - PARA AS SITUAÇÕES PREVISTAS NO SUBITEM 14.1.1 ­ "c"). A Licitante _____________________________________, CNPJ/MF n.º _________________________________, por seu representante legal abaixo assinado, declara, sob as penalidades da Lei, que até a presente data, NÃO EXISTE FATO QUE INVALIDE O SEU REGISTRO CADASTRAL NO SICAF/CRC, para fins de habilitação na presente licitação, (Art. 32 - § 2º Lei 8.666/93) e declara também sob as penas da Lei que não foi declarada inidônea por qualquer ORGÃO DA ADMINISTRAÇÃO PÚBLICA", em qualquer de suas esferas, Federal, Estadual, Municipal e no Distrito Federal, de que não está impedida de licitar e contratar com a CODEVASF (Art.87 Inciso IV Lei 8.666/93), e de que encontra-se em situação regular perante o Ministério do Trabalho, no que se refere à observância do disposto no inciso XXXIII do art. 7º da Constituição Federal.
+
+Cidade, data _______________________________ Assinatura do representante legal
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+53
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XVI ESTIMATIVA DO VALOR ANUAL DA CONTRATAÇÃO (GRAVADO EM ARQUIVO SEPARADO)
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+54
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XVII TERMO DE PROPOSTA
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+55
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XVII
+
+TERMO DE PROPOSTA
+Á CODEVASF SGAN/Norte, Quadra 601, Conjunto I CEP: 70830.901 ­ Brasília-DF Prezados Senhores, Tendo examinado os documentos de licitação, nós, abaixo-assinados, oferecemos proposta para Edital n.º 63/2010, que tem por objeto, Contratação de serviços técnicos especializados na área de tecnologia da informação, a serem desenvolvidos sob a modalidade de fábrica de software e a mensuração desses serviços em nossa proposta, perfazendo um valor global de R$_______(_______), conforme planilha de preço em anexo. Comprometendo-nos, se nossa proposta for aceita, a executar o fornecimento no prazo fixado no Edital, a contar da data da assinatura do contrato. Concordamos em manter a validade desta proposta por um período de 60 (sessenta) dias desde a data fixada para sua abertura, ou seja____/____/____, e representará um compromisso que pode ser aceito a qualquer data antes da expiração desse prazo. Até que seja assinado o contrato, esta proposta será considerada um contrato de obrigação entre as partes. Na oportunidade, credenciamos junto à CODEVASF o(a) Sr.(ª) __________________, carteira de Identidade n.º _________________, Órgão Expedidor ____________, CPF n.º________________, residente e domiciliado(a) na rua_____________________, n.º_____, bairro__________, na cidade de_________, Estado de______________, ao(à) qual outorgamos os mais amplos poderes inclusive para interpor recursos, quando cabíveis transigir, desistir, assinar contratos, atas e documentos, enfim, praticar os demais atos no presente processo licitatório, conforme cópia da procuração que fazemos anexar. Declaramos, que temos pleno conhecimento de todos os aspectos relativos a licitação em pauta. Declaramos, ainda, nossa plena concordância com as condições constantes no presente Edital e seus anexos e que nos preços propostos estão inclusos todos os tributos incidentes sobre o fornecimento objeto deste Edital. Atenciosamente, ______________________________________ FIRMA LICITANTE/CNPJ _________________________________________ ASSINATURA DO REPRESENTANTE LEGAL OBSERVAÇÃO IMPORTANTE: Somente quando da atualização da planilha com os preços declarados vencedores pela CODEVASF, o licitante enviará este termo de proposta, acompanhado da planilha de preços (Anexo VII) pelo sistema SIASG, opção planilha atualizada, com os dados seguintes: razão social, CNPJ, endereço, fone/fax, e-mail, etc.
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+56
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XVIII MINUTA DO CONTRATO
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+57
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XIX GUIA DE RETIRADA DE EDITAL
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+58
+
+Fls.: _________________ Proc.:59500.001424/2010-83 _____________________
+
+PR/SL
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL - MI COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA
+
+ANEXO XIX GUIA DE RETIRADA DE EDITAL
+
+GUIA DE RETIRADA DE EDITAL
+Documentos Constitutivos QTDE. VOLUMES: ......... QTDE. PÁGINAS: ......
+
+EDITAL N.º 63/2010
+(PREGÃO ELETRÔNICO) QTDE. ADENDOS:
+
+QTDE. DESENHOS:
+
+OBJETO: Contratação de serviços técnicos especializados na área de tecnologia da informação, a serem desenvolvidos sob a modalidade de fábrica de software e a mensuração desses serviços.
+
+Dados para correspondência informados pela licitante EMPRESA: ENDEREÇO: CIDADE: TELEFONE: CNPJ: E-mail: ESTADO: FAX: CEP:
+
+Confirmo as informações constantes desta Guia e declaro ter recebido o Edital e seus Anexos. Pela licitante: ______________________________________ Assinatura D A T A: ______/______/ _______ .
+
+\\srv02\editaispublicados/2010
+
+Edital 63-10 - Contratação de Serviço de fábrica de software
+
+Pág.
+
+59
+
+ANEXO I Item I - Serviços de desenvolvimento e manutenção de sistemas de informação
+
+1 INTRODUÇÃO 1.1 Este anexo tem por objetivo detalhar os serviços previstos no Item I do objeto do Edital. 1.2 O Item I refere-se à contratação da prestação de serviços técnicos especializados na área de tecnologia da informação compreendendo o desenvolvimento e manutenção de sistemas de informação, a serem executados de forma continuada e mediante ordens de serviço dimensionadas pela técnica de contagem de Pontos por Função visando a dar sustentação aos processos de negócio da CODEVASF.
+
+2 DETALHAMENTO DOS SERVIÇOS 2.1 O serviço a ser contratado abrange as fases de implementação, testes e implantação do processo de desenvolvimento de sistemas, e deve ser executado de acordo com normas, procedimentos e técnicas adotadas pela CODEVASF e de acordo com as melhores práticas contidas no modelo CMMI (Capability Maturity Model Integrated) e MPS/BR (Melhoria de Processos do Software Brasileiro). 2.2 Poderão ser contratados os serviços abaixo, sendo que a contratação corresponderá ao todo de uma ou mais fases, definidas no item 2.1 acima, do ciclo de vida do projeto, de acordo com a Metodologia de Desenvolvimento de Sistemas utilizada pela CODEVASF. 2.3 Serviços de Desenvolvimento de Novos Sistemas de Informação 2.3.1 Correspondem ao desenvolvimento de novos sistemas de informação, a partir de especificações estabelecidas ou validadas pela CODEVASF e em conformidade com a sua Metodologia de Desenvolvimento de Sistemas, aplicando os procedimentos necessários à garantia da qualidade para desenvolvimento de sistemas. 2.4 Serviços de Manutenção de Sistemas de Informação 2.4.1 São modificações em sistemas já existentes, em produção, com o objetivo de prevenção, correção de falhas, implementação de melhorias ou adaptações, classificadas conforme abaixo: 2.4.1.1 Manutenção Corretiva - Consiste na correção de defeitos em sistemas em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento do sistema e quaisquer desvios em relação aos requisitos aprovados pelo Gestor. a) Os custos de manutenção corretiva são de responsabilidade da CONTRATADA, durante o período de garantia do sistema 2.4.1.2 Manutenção Adaptativa - Adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e SGBD, que não impliquem em inserção, alteração ou exclusão de funcionalidades. 2.4.1.3 Manutenção Evolutiva - Corresponde a inclusão, alteração e exclusão de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio e/ou demandas legais. 2.5 A elaboração de documentação referente aos serviços de desenvolvimento ou manutenção realizados pela CONTRATADA é obrigatória e sem custo adicional à CODEVASF e
+
+devem estar em conformidade com o Desenvolvimento de Sistemas da CODEVASF.
+
+estabelecido
+
+pela
+
+Metodologia
+
+de
+
+2.6 A CODEVASF se reserva ao direito de substituir ou alterar a estrutura de qualquer um dos documentos de sua MDS ou de qualquer outro documento de padrão, a exemplo do documento de "Padrões para Modelagem de Base de Dados", e "Padrão de Projeto de Arquitetura de Software", devendo a CONTRATADA adotar o novo padrão estabelecido. 2.6.1 Para os documentos já entregues, irá prevalecer o padrão em vigor quando da contratação. 2.6.2 Para os documentos ainda não entregues o padrão a ser adotado será aquele indicado pela CODEVASF. 2.7 A CODEVASF se reserva ao direito de incluir novos documentos, sempre que julgar necessário ajustes em sua metodologia de desenvolvimento.
+
+3 MÉTODOS E PROCESSOS PARA EXECUÇÃO DOS SERVIÇOS 3.1 Classificação do Serviço como Projeto 3.1.1 Todo serviço de Desenvolvimento de Novos Sistemas, será classificado como projeto, independente do seu tamanho em pontos de função. 3.1.2 Também são considerados como Projeto, todos os Serviços de Manutenção que apresentarem em sua medição um tamanho igual ou maior que 105 pontos de função ou esforço maior do que 2 meses. 3.1.3 A CODEVASF se reserva o direito de alterar os valores limites para classificação do serviço de manutenção como projeto a qualquer tempo. 3.2 Realização de Testes 3.2.1 A CODEVASF exigirá a execução de Teste Unitário sobre o produto de software construído pela empresa contratada, baseado no Plano de Testes a ser elaborado pela CONTRATADA. 3.2.1.1 Entende-se como Teste Unitário aquele realizado sobre um componente de software isoladamente, que deve abranger pelo menos as técnicas de teste Caixa Preta e Caixa Branca. 3.2.1.2 A CONTRATADA deve entregar junto com os artefatos construídos toda a documentação contendo as evidências de teste, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado pela contratada. Essa auditoria será realizada pela CODEVASF ou por empresa por ela designada. 3.2.2 A CODEVASF exigirá a especificação dos casos de testes pela empresa contratada de acordo com a especificação dos requisitos encaminhadas pela contratante, baseado no Plano de Testes a ser elaborado pela CONTRATADA. 3.2.3 A CODEVASF exigirá a execução de Teste Integrado sobre o produto de software construído pela empresa contratada, baseado no Plano de testes a ser elaborado pela CONTRATADA. 3.2.3.1 Entende-se como Teste Integrado aquele realizado por meio da navegação de forma progressiva e ordenada pelas telas ou estruturas internas do software onde seus elementos são combinados e testados para avaliação das suas interações. 3.2.3.2 A CONTRATADA deve entregar junto com os artefatos construídos toda a documentação contendo o mapeamento da navegação interna realizada e demais evidências do teste integrado, que servirão de subsídio para as
+
+atividades de auditoria do trabalho de teste realizado pela contratada. Essa auditoria será realizada pela CODEVASF ou por empresa por ela designada 3.2.4 A CODEVASF poderá realizar auditoria sobre o código-fonte entregue pela CONTRATADA, a ser executada pela própria CODEVASF ou por empresa por ela designada. Para isso, utilizará como insumos: o código-fonte, a especificação de programas, o modelo de arquitetura de solução e os padrões de codificação definidos. 3.3 Metodologia de desenvolvimento de sistemas 3.3.1 A metodologia de desenvolvimento de sistemas ­ MDS utilizada pela CODEVASF é aderente ao paradigma de desenvolvimento de software do mercado, Análise Orientada a Objeto. 3.3.2 A MDS da CODEVASF prevê a entrega de artefatos obrigatórios, considerados partes integrantes dos serviços executados pela CONTRATADA, relacionados no item 3.3.8. 3.3.3 O modelo de desenvolvimento da CONTRATADA deverá suportar, para a prestação de serviços objeto deste CONTRATO, o ciclo de desenvolvimento de sistemas e a metodologia definida pela CODEVASF com a produção e entrega de todos os artefatos estabelecidos. 3.3.4 A metodologia adotada pela CODEVASF, bem como os modelos de artefatos, será entregue, em definitivo, quando da assinatura do CONTRATO e poderá ser alterada a qualquer momento, a critério da CODEVASF. 3.3.4.1 Durante o período de realização do certame tais documentos estarão à disposição das licitantes para conhecimento prévio e avaliação em ambiente específico na CODEVASF, como forma de subsidiar na formação e elaboração das propostas. 3.3.5 Os processos/artefatos definidos na metodologia da CODEVASF poderão sofrer atualizações a critério a CODEVASF, no sentido de provê melhorias no processo de desenvolvimento de sistemas de informação. 3.3.6 No caso de alteração da metodologia vigente, incluindo-se a distribuição de esforço, a CONTRATADA se obriga a adaptar-se, no prazo máximo de 30 dias corridos, a partir da comunicação formal pela CODEVASF, adotando-a em todos os novos projetos e/ou serviços contratados a partir de então, segundo a conveniência da CODEVASF. 3.3.6.1 No ato da comunicação formal, prevista no subitem 3.3.6 acima, a CODEVASF disponibilizará a nova versão da metodologia em conjunto com os modelos de artefatos. 3.3.7 Artefatos a serem entregues pela CONTRATADA resultantes da execução dos serviços 3.3.7.1 Lista de artefatos a serem entregues na execução dos serviços de desenvolvimento de sistemas de informação referente à documentação do projeto: a) Anteprojeto: Documento que delimita o escopo do projeto em questão. Este documento identifica as informações que servirão de base para desenvolver um entendimento comum do escopo entre as partes envolvidas. Identifica os gestores do sistema, o público-alvo, a descrição macro dos problemas e objetivos do negócio, e em linhas gerais os requisitos funcionais e nãofuncionais do projeto. Contém a relação de produtos e subprodutos que serão entregues e seus respectivos prazos de entrega. Além disso, apresenta uma estimativa inicial de tamanho e custo do projeto por meio da Análise por
+
+Pontos de Função (Anexo XI). b) Plano do Projeto: Define uma visão de todo o processo de atividades de desenvolvimento do sistema de informação e infra-estrutura no que diz respeito às fases e iterações necessárias para a implementação e implantação do software. c) Plano de Riscos: Documento descritivo que contém a matriz de probabilidade e magnitude dos riscos que envolvem o projeto e as contingências necessárias para mitigar as ameaças que podem comprometer os objetivos do Projeto. d) Cronograma do Projeto (WBS): Este artefato apresenta o cronograma do projeto, bem como as funcionalidades que deverão ser consideradas no mesmo. e) Planilha APF: Apresenta a planilha contendo o resultado da estimativa ou da contagem detalhada da Análise de Ponto de Função. f) Termo de Recebimento de Serviço: Apresenta o termo de entregas parciais referentes ao serviço (Anexo IX). 3.3.7.2 Lista de artefatos a serem entregues na execução dos serviços de desenvolvimento de sistemas de informação referente à documentação do sistema de informação: a) Componentes / Códigos-Fontes: componentes e programas do software (códigos-fonte, sub-rotinas, componentes e scripts de carga). b) Plano de Teste: documento que identifica todos os cenários ou casos de uso que serão testados e quais testes serão realizados. Para cada tipo de teste, são listadas as técnicas utilizadas e a estimativa de esforço. a) Caso de teste: documento com um conjunto específico de inputs de teste, condições de execução e resultados esperados, identificados com a finalidade de avaliar um ou mais requisitos de software. c) Planilha de teste: apresenta os resultados dos testes do sistema. d) Plano de Implantação: documento contendo todas as atividades operacionais necessárias à implantação do sistema, identificando-se atividades, responsáveis, prazos, recursos e interdependências. e) Manual do Usuário: descreve usualmente todo o processo de execução do sistema (Material para treinamento de clientes / usuários). 3.3.7.3 Para cada serviço ou projeto contratado poderá ser definido, entre a CODEVASF e a empresa CONTRATADA, o nível de documentação exigido para sua execução. 3.3.7.4 Para os serviços de manutenção corretiva de sistemas de informação deverão ser entregues os artefatos relacionados abaixo: a) Componentes/ Códigos-Fontes: descreve os componentes e programas do software (códigos-fonte, sub-rotinas, componentes e scripts de carga). b) Demais Documentações Atualizadas: demais documentações do sistema de informação, caso existam. 3.3.7.5 Os serviços de desenvolvimento e manutenção de sistemas, solicitados pela CODEVASF à CONTRATADA, estarão, obrigatoriamente, sob a liderança técnica da CONTRATADA, seguindo preferencialmente as orientações do PMBok (Project Management Body of Knowledge) do PMI (Project Management Institute), para gerenciamento de projetos. a) Caso a CONTRATADA não utilize o guia do PMBok, deverá utilizar sua própria metodologia de gerenciamento de projetos na prestação de serviços à
+
+CODEVASF. Neste caso a CONTRATADA fica obrigada a cumprir condição para a contratação, conforme previsto no subitem 14.1.1.3. do Edital. 3.3.8 Artefatos a serem entregues pela CODEVASF para a execução dos serviços: 3.3.8.1 Lista de artefatos a ser entregue para execução dos serviços de desenvolvimento de sistemas de informação referente à documentação do sistema de informação. 3.3.8.1.1 Modelo de arquitetura de Sistema ou Solução: Apresenta a arquitetura proposta para o sistema ou solução (deve ser considerada a arquitetura padrão dos sistemas da CODEVASF). 3.3.8.1.2 Glossário de termos técnicos do projeto. 3.3.8.1.3 Modelo de casos de uso: faz uma descrição abrangente das funções do projeto, demostrando a estrutura do modelo em pacotes, casos de uso e atores. O artefato demonstra a estrutura de pacotes de forma hierárquica. 3.3.8.1.4 Especificação de Caso de Uso: descreve os objetivos e passos que serão desenvolvidos no caso de uso. 3.3.8.1.5 Especificação das Regras de Negócio: descreve as regras de negócio dos casos de uso. 3.3.8.1.6 Modelo de Análise: descreve os procedimentos e os resultados da sub-fase de análise que engloba os diagramas de pacote, atividade, classes, sequência e estados. Os diagramas informados serão elaborados mediante solicitação e comprovação da CONTRATADA para execução dos serviços prestados. 3.3.8.1.7 Projeto de Banco de Dados: representa todos os quesitos relativos ao banco de dados (modelo entidade-relacional) e scripts. 4 FLUXO DE EXECUÇÃO DOS SERVIÇOS 4.1 Para a contratação dos serviços, a CODEVASF encaminhará para a CONTRATADA uma Solicitação de Atendimento ­ Anexo X e demais documentos de apoio que julgar necessário. 4.2 A CONTRATADA deverá encaminhar à Gerência de Tecnologia da Informação, no prazo máximo de 10 (dez) dias úteis do recebimento da Solicitação de Atendimento ­ Anexo X, um Anteprojeto - Anexo XI para cada serviço. 4.2.1 No caso de Solicitação de Atendimento referente à manutenção corretiva, o prazo para encaminhar o Anteprojeto deverá estar contemplado no prazo máximo de atendimento estabelecido na tabela de prazos de atendimento constante do Item 9 ­ Prazo de Atendimento, deste anexo para esta categoria de serviço. 4.3 A execução do serviço somente poderá ser realizada, após a aprovação do Anteprojeto Anexo XI pela CODEVASF. 4.4 A solicitação para início da execução dos serviços ocorrerá por meio de Ordem de Serviço (OS) ­ Anexo IV, assinada por profissional da CODEVASF, formalmente designado para isso. 4.5 A Ordem de Serviço descreve o serviço a ser executado, visando autorizar seu início, delimitar o prazo de entrega do serviço, identificar os artefatos a serem entregues e seus respectivos desembolsos. 4.6 Para cálculo do prazo de entrega do serviço, as datas de previsão de entrega deverá ser mensurado conforme Item 9 ­ Prazo de Atendimento deste Anexo.
+
+4.7 O método de trabalho e os produtos gerados pela CONTRATADA devem obedecer aos critérios definidos na metodologia vigente na CODEVASF e demais documentos de padrões, de acordo com as adaptações acordadas para melhor atender às necessidades. 4.8 Para projetos, deverão ser emitidas quantas Ordens de Serviço forem necessárias durante o seu desenvolvimento, levando em consideração as definições contidas no Anteprojeto. 4.9 A soma do(s) volume(s) e do(s) valor(es) estimados para desembolso das previsões de entrega nunca poderá ser superior ou inferior ao volume e valor total estimado para os serviços contratados. 4.10 O Termo de Recebimento de Serviço ­ Anexo IX será o instrumento utilizado para entregas parciais, e o Termo de Aceite ­ Anexo V o instrumento utilizado após homologação e implantação, quando couber, dos artefatos gerados, caracterizando o final do serviço objeto da OS.
+
+4.11 Para identificar a conformidade dos serviços entregues pela CONTRATADA o Termo de Recebimento de Serviço - Anexo IX será classificado pela CODEVASF, considerando os seguintes critérios: a) Rejeitado - quando o(s) artefato(s) entregue(s) não for(em) aceito(s) pela CODEVASF sujeitando-se a CONTRATADA às penalidades estabelecidas para o caso. b) Recebido - quando o(s) artefato(s) entregue(s) for(em) recebidos integralmente pela CODEVASF, não cabendo nenhum ajuste. c) Recebido com ajustes - quando o(s) artefato(s) entregue(s) for(em) recebido(s), entretanto, a CODEVASF apresentará à CONTRATADA uma relação de ajustes a serem realizados, com prazo para adequação e reapresentação. 4.12 Caso não realize integralmente os ajustes no prazo estabelecido, o artefato ou conjunto de artefatos será considerado Rejeitado e a empresa estará sujeita às penalidades previstas para o caso. 4.13 Finalizados todos os ajustes por parte da CONTRATADA, a CODEVASF após homologação emitirá o Termo de Recebimento de Serviço ­ Anexo IX. 4.14 Quando todas as entregas forem recebidas, homologadas e implantadas, a CODEVASF emitirá o Termo de Aceite do Serviço - Anexo V. 4.15 Os serviços somente serão considerados como finalizados, após a assinatura do Termo de Aceite do Serviço - Anexo V, por parte da área demandante da CODEVASF. 4.16 A verificação da qualidade dos serviços prestados e a conformidade dos artefatos/produtos entregues poderão ser realizadas por empresa designada pela CODEVASF, contratada para este fim.
+
+5 MEDIÇÃO E REMUNERAÇÃO DOS SERVIÇOS 5.1 Os serviços realizados serão medidos utilizando-se da técnica de Análise em Pontos de Função de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.2.1, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org). 5.2 A utilização de novas versões do Manual (CPM) ficará a critério da CODEVASF, que, mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA. 5.3 A CODEVASF utilizará os requisitos estabelecidos no item 22 ­ Condições de pagamento do Edital para o pagamento de todos os serviços.
+
+5.4 Mesmo no caso de ser utilizada uma nova versão do Manual (CPM), o Valor a ser pago no mês será calculado conforme os requisitos estabelecidos no item 22 ­ Condições de pagamento do Edital, cabendo sua revisão somente quando da renovação do CONTRATO entre a CODEVASF e a empresa CONTRATADA. 5.5 A CODEVASF adota a seguinte Tabela de Itens Não Passíveis de Medição para calcular o esforço de atividades que não são passíveis de serem medidas pela técnica de Análise de Pontos de Função.
+
+Item não Mensurável Alterações referentes aos layouts de telas, tais como: Mudança de posição de campos em telas, em relatórios ou em layout de arquivos, sem que haja alteração em elementos de dados, arquivos referenciados ou informações de controle. Inclusão, alteração ou exclusão de logotipo da empresa. Divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. Atualização de rótulos de dados sem que haja mudança de funcionalidade. Alterações referentes a Campos e Variáveis: Inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem que tenha havido mudança na funcionalidade. Padronização de nomenclatura de campos e variáveis em programas e tabelas Alterações de texto de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. Alterações referentes a criação ou exclusão de telas para: Adição ou reestruturação de menus de navegação estáticos; Adição ou reestruturação de Ajuda (help estático); Criação, alteração ou exclusão de páginas estáticas. Alterações referentes à inclusão, alteração ou exclusão de dados pertencentes a listas (combobox) ou tabelas físicas. Alterações referentes a alteração dos valores dos parâmetros (estáticos), sem que a lógica de processamento tenha sido alterada. Alterações referentes a criação de mais de uma camada de apresentação (diferente), desde que sejam as mesmas funcionalidades com padrões visuais distintos. Serviços de Triagem: Referente à execução de tarefas temporárias, não passíveis de serem pontuadas, como por exemplo: triagem de solicitações de atendimento, análise de demandas, classificação e encaminhamento
+
+Percentual de Pontos de Função 0,2 (dois décimos) de um ponto de função, para cada 5 elementos.
+
+0,4 (quatro décimos) de um ponto de função, para cada 5 dados/campos.
+
+0,2 (dois décimos) de um ponto de função, para cada 5 mensagens 0,5 (cinco décimos) de um ponto de função, para Alteração e/ou Criação de uma tela. 0,1 (um décimo) de um ponto de função, para Exclusão de uma tela
+
+0,2 (dois décimos) de um ponto de função, para cada 5 dados/campos 0,1 de um ponto de função, para cada 5 parâmetros. O total de esforço não poderá ser maior que 30% do tamanho da Funcionalidade a que ela se refere. Será remunerado em 10% do total de pontos de função realizados em serviços no período de 30 (trinta) dias
+
+para atendimento, etc. Alterações referentes à criação, alteração e exclusão de tabelas CODE TABLE e respectivas funcionalidades, de sistemas em produção (não se aplica ao desenvolvimento de novos sistemas nem as atividades de "popular" a tabela), sendo previstas as seguintes atividades e seus percentuais de ponto de função: Inclusão de tabela e funcionalidades; Alteração da tabela e funcionalidades; Excluir tabela e funcionalidades; Inclusão de funcionalidade; Alteração de funcionalidade; Exclusão de funcionalidade. Tabela de Itens não passiveis de medição.
+
+2,7 (dois inteiros e sete décimos) pontos de função para Inclusão de tabela e funcionalidades; 1,3 (um inteiro e três décimos) ponto de função para Alteração da tabela e funcionalidades; 0,6 (seis décimos) de um ponto de função para Excluir tabela e funcionalidades; 0,3 (três décimos) de um ponto de função para Inclusão, Alteração ou Exclusão de funcionalidade.
+
+5.6 No caso da CONTRATADA identificar algum item não passível de medição e que não conste da referida tabela deverá enviar relatório técnico à CODEVASF que avaliará e, se for o caso, incluirá o novo item na tabela. 5.7 Ao término da execução do Serviço deverá ser efetuada recontagem dos pontos de função visando confirmar a estimativa inicial. Em caso de variações de tamanho, para mais ou para menos e após consenso entre as partes, a diferença financeira será considerada nos desembolsos pendentes. 5.8 Caso haja divergência entre a contagem final de PONTOS DE FUNÇÃO da CODEVASF e a da CONTRATADA, fica estabelecido que os responsáveis pela contagem, da CODEVASF e da CONTRATADA, deverão se reunir no sentido de eliminar as diferenças. Permanecendo a divergência, fica estabelecido que a CODEVASF definirá a contagem que prevalecerá. 5.9 Qualquer decisão de projeto ­ incluindo a manutenção de requisitos (alteração da Especificação de Requisitos) ­ que implique em aumento do número de PONTOS DE FUNÇÃO deverá ser aprovada pela CODEVASF.
+
+5.10 No caso da impossibilidade de remuneração dos serviços em pontos de função, o esforço necessário será calculado com base na estimativa de horas de esforço para execução do serviço, devendo ser acordado entre a CONTRATANTE e a CONTRATADA. 5.11 Os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite dos serviços, serão por conta da CONTRATADA. 5.12 O pagamento será efetuado mediante fatura relativa aos serviços efetivamente realizados. Não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. O pagamento somente será efetuado após o ateste do fiscal do contrato da CODEVASF, por meio do Termo de Aceite do Serviço Anexo V. 5.13 Formas de contagem por categoria de serviço 5.13.1 O tamanho dos projetos/serviços será calculado tomando-se por base as definições do item de medição dos serviços, constante neste anexo. 5.13.2 A utilização dos diversos tipos de contagem e obtenção do custo do projeto/serviço está demonstrada na tabela abaixo.
+
+TIPO DE SERVIÇO Desenvolvimento de Sistemas
+
+TIPO DE CONTAGEM ( Detalhada ) SIM, a partir do detalhamento dos requisitos e SEMPRE deverá ser realizada ao final da implantação para determinar o "baseline". SIM, a partir do detalhamento dos requisitos e SEMPRE deverá ser realizada ao final da implantação para determinar o "baseline".
+
+ITENS NÃO MENSURÁVEIS
+
+CUSTO DO SE
+
+SIM, para CODE TABLE e camada O custo do serv de apresentação adicional. vezes a quantid mais o total de SIM, para todos os itens da tabela.
+
+Manutenção Evolutiva
+
+Para todos os p evolutiva, serã aplicadas as tamanho:
+
+Funcionalidade em 100% do quantidade de
+
+Funcionalidade - serão remune função vezes contratada(s) e 50%; Funcionalidade - serão remune função vezes contratada(s) e 75%. Em todo dos valores em total de esforço mensuráveis" Manutenção Adaptativa SIM, para determinar o tamanho do serviço a ser contratado
+
+SIM, para CODE TABLE e camada O custo do ser de apresentação adicional. um PF, vezes a total de esforço
+
+Manutenção corretiva SIM, para determinar o tamanho da SIM, para todos os itens da tabela. fora da garantia correção e estabelecer novo "baseline". Manutenção corretiva SIM, para determinar o tamanho da Não se aplica na garantia correção e estabelecer novo "baseline"
+
+O custo do ser um PF, vezes a total de esforço Não se aplica
+
+6 GARANTIA DOS SERVIÇOS 6.1 A garantia para os serviços de desenvolvimento de cada OS será obrigatória, e seu prazo será de no mínimo 1 (um) ano, a contar da data do Termo de Aceite do Serviço - Anexo V emitido pela CODEVASF. 6.2 A garantia para os serviços de manutenção prestados de cada OS será obrigatória, e seu prazo será de no mínimo 90 (noventa) dias, a contar da data do Termo de Aceite do Serviço - Anexo V emitido pela CODEVASF. 6.3 Durante o prazo de garantia, todos os eventuais erros ou falhas identificados deverão ser corrigidos pela CONTRATADA, sem ônus para a CODEVASF, mesmo em se tratando de softwares e outros ARTEFATOS já considerados aceitos pela CODEVASF. 6.4 O direito da CODEVASF à garantia de um serviço cessará caso o software ou o ARTEFATO envolvido neste serviço seja alterado pela CODEVASF ou por outros FORNECEDORES, a serviço da CODEVASF. Caso a própria CONTRATADA realize manutenções no software ou no ARTEFATO, permanece o direito da CODEVASF à garantia. 6.5 O prazo de garantia deverá ser respeitado pela CONTRATADA mesmo após o término do prazo de vigência do Contrato. 6.6 O prazo máximo para correção de defeitos não poderá ser maior que 20% (vinte por cento) do prazo definido na Ordem de Serviço. 6.7 O desrespeito ao prazo acima estabelecido fica sujeito à advertência e multa nos termos definidos no edital.
+
+7 PADRÕES DE DESENVOLVIMENTO DA CODEVASF 7.1 A CONTRATADA se compromete a obedecer todas as normas, padrões, processos e procedimentos referentes ao Desenvolvimento de Sistemas de Informação definidos pela CODEVASF, devendo: 7.1.1 Manter consistentes e atualizados todos os artefatos produzidos e/ou alterados durante a execução dos serviços contratados; 7.1.2 Manter consistência entre os modelos de dados desenvolvidos e o modelo de dados corporativos da CODEVASF;
+
+8 LOCAL DE EXECUÇÃO DOS SERVIÇOS 8.1 Os serviços decorrentes deste Anexo deverão ser executados nas instalações e com recursos de desenvolvimento da empresa CONTRATADA . 8.2 A critério da CODEVASF, em situações em que julgar mais conveniente, esta poderá estabelecer o local de execução dos serviços, instalações da CODEVASF ou da empresa CONTRATADA. 8.2.1 A CODEVASF disponibilizará local de trabalho quando os serviços forem executados em suas dependências, cabendo a CONTRATADA montar toda infra-estrutura de hardware e software, conforme descrito no Item 5 ­ Recursos operacionais de infraestrutura e software do Edital, sendo observados os horários de expediente da CODEVASF para execução destes serviços. 8.3 Caso a empresa contratada não possua sede na cidade de Brasília-DF, deverá arcar com os custos de deslocamento entre a Sede da CODEVASF, localizada em Brasília-DF e a Sede da CONTRATADA, incluindo-se os custos referentes à hospedagem e a
+
+alimentação.
+
+9 PRAZO DE ATENDIMENTO 9.1 A CONTRATADA deverá observar os prazos para atendimento dos tipos de serviços, conforme tabela abaixo. 9.2 Os prazos máximos estabelecidos contemplam a execução de todas as fases definidas na Metodologia de Desenvolvimento da CODEVASF. TABELA DE PRAZOS DE ATENDIMENTO DE SERVIÇOS CATEGORIA DO SERVIÇO CRITICIDADE TIPO DE OCORRÊNCIA PRAZO MÁXIMO P/ SOLUÇÃO DO PROBLEMA (em horas corridas) Funcionamento inadequado ou em desacordo com os requisitos do software em produção Demanda emergencial 2 Horas
+
+PRAZO SOLUÇÃ DO PRO (em hora
+
+Manutenção corretiva
+
+ALTA MÉDIA BAIXA
+
+1
+
+2
+
+Demanda emergencial ou legal de manutenção evolutiva ou desenvolvimento de novos sistemas Manutenção adaptativa
+
+Manutenção evolutiva ou desenvolvimento de novos sistemas.
+
+Necessidade de evolução, adequação ou desenvolvimento de novo sistema
+
+9.3 Os prazos máximos (em meses corridos) de entrega a serem observados para os serviços de desenvolvimento de novos sistemas e de manutenção evolutiva e adaptativa demandados nunca poderão ser superiores aos prazos estabelecidos na fórmula a seguir, arredondando-se o resultado para o inteiro imediatamente superior:
+
+Cálculo do Prazo = J x ( ( ( T x P ) / 168 ) ) ^k Sendo: Tamanho do Projeto ( T ) 50 <= T < 300 Pontos de Função 300 <= T < 1000 Pontos de Função 1000 <= T < 3000 Pontos de Função
+
+J 2 2,5 3
+
+P 0,50 * Fator Produtividade 0,75 * Fator Produtividade 1,00 * Fator Produtividade
+
+k 0,31888
+
+Onde: T = Tamanho do Projeto; J = Variável interna definida com base em experiência de outros entes públicos; P = Aplicação do fator de redução na produtividade definida pela CONTRATANTE - Anexo VIII; k = Constante do COCOMO II definida com base na experiência de outros entes públicos. 9.4 A fórmula acima utiliza o modelo COCOMO II e o Fator de Produtividade referenciado é aquele pelo qual a empresa contratada foi pontuada quando do certame licitatório; 9.5 A CONTRATADA deverá apresentar à CODEVASF, para validação e aceite, proposta de prazo para execução de todos os serviços, baseados na Tabela de Produtividade definida no Anexo VIII; 9.6 No caso de contagens que identificarem tamanho do serviço inferior a 50 (cinqüenta) pontos de função, o prazo máximo, em dias corridos, será calculado multiplicando-se o número de pontos de função por 1,2 (um vírgula dois), arredondando-se o resultado para o inteiro imediatamente superior. 9.7 A CONTRATADA poderá solicitar, ainda, um prazo adicional, quando justificada e comprovada a necessidade, em função de complexidade do serviço a ser executado, ficando a critério da CODEVASF, aceitar ou não as justificativas e o novo prazo apresentado pela CONTRATADA. a) O prazo adicional deverá ser solicitado em até 1 (um) dia útil após o recebimento da Solicitação de Atendimento ­ Anexo X e, no caso de aceito pela CODEVASF, será adicionado ao prazo total do serviço ou projeto contratado; b) Caso a justificativa não atenda à CODEVASF, prevalecerá o prazo inicialmente estipulado; c) A solicitação de prazo adicional para atendimento não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação pela CODEVASF, ficam mantidas as condições estipuladas para o serviço; d) Caso o prazo de execução proposto pela CONTRATADA não atenda às necessidades da CODEVASF novos prazos deverão ser apresentados.
+
+10 EQUIPE TÉCNICA NECESSÁRIA PARA A PRESTAÇÃO DOS SERVIÇOS 10.1 A Empresa CONTRATADA se compromete a alocar, em todos os serviços contratados pela CODEVASF, profissionais com perfis e qualificações adequados, mantendo ao longo da vigência do contrato todas as condições que apresentaram em sua habilitação e qualificação no processo licitatório. 10.2 A CONTRATADA deverá selecionar, designar e manter profissionais cuja qualificação esteja em conformidade com os tipos de serviços descritos nas Solicitações de Atendimento - Anexo X, observando o certificado apropriado emitido pelos fabricantes da linguagem, ferramenta ou tecnologia, sempre que a atividade a ser executada assim o exigir. 10.3 A CONTRATADA deverá alocar profissionais especialistas e certificados na linguagem, ferramenta, tecnologia ou processo sempre que a CODEVASF solicitar. 10.4 A CONTRATADA se compromete a garantir a alocação de profissionais devidamente capacitados para solucionar problemas relacionados à prestação de serviços e ocorrências nos sistemas, incluindo os que exijam a presença física nas dependências da CODEVASF. 10.5 Os profissionais a serem envolvidos, para a execução dos serviços referentes ao desenvolvimento de sistemas de informação, deverão estar capacitados nos recursos que compõem o ambiente de desenvolvimento da CODEVASF, descritos no Item 5 ­ Dos recursos operacionais de infra-estrutura e software do Edital.
+
+ANEXO II Item II ­ Serviços de Métrica de Softwares
+
+1 INTRODUÇÃO 1.1 Este tem por objetivo detalhar os serviços previstos no Item II do objeto do Edital. 1.2 O Item II refere-se a contratação da prestação de serviços especializados de medição de sistemas em desenvolvimento, sistemas em produção, manutenção de sistema em produção, validação de medições, coleta de dados, geração e analise de indicadores e, suporte a aplicação de técnicas de medição, para atendimento a Gerencia de Tecnologia da Informação da CODEVASF, em um total estimado de 500 (quinhentas) horas, durante a vigência do contrato.
+
+2 DETALHAMENTO DOS SERVIÇOS 2.1 Poderão ser contratados os serviços abaixo, sempre em conformidade com a Metodologia de Desenvolvimento de Sistemas utilizada pela CODEVASF. 2.1.1 Serviços relativos a medição de novos sistemas 2.1.1.1 Consideram-se como serviços relativos à medição de novos sistemas: a) identificação das funcionalidades previstas para atendimento da necessidade do usuário no sistema aplicativo que será desenvolvido; b) definição do método de contagem a ser utilizado, baseado no grau de informações recebido; c) análise das funcionalidades, identificando as funções de dados e transacionais, prevista pela técnica de Análise de Pontos de Função; d) atribuição do grau de complexidade para cada função de dados, ou transacional, identificada; e) atribuição da quantidade de Pontos de Função prevista na técnica; f) análise e identificação das características gerais do sistema, quando se tratar de contagem detalhada de Pontos de Função; e g) conclusão da contagem de Pontos de Função, com atualização da base histórica de contagens e emissão de documento contendo o resultado do serviço prestado. 2.1.2 Serviços relativos a medição de manutenção de sistemas em produção 2.1.2.1 Consideram-se como serviços relativos à medição de manutenção de Sistemas em produção: a) identificação das funcionalidades modificadas; b) definição do método de contagem a ser utilizado, baseado no grau de informações recebido; c) identificação e análise das funcionalidades modificadas, funções de dados e funções transacionais, previstas na técnica de Análise de Pontos de Função; d) atribuição do grau de complexidade para cada função de dados ou transacional, identificada; e) atribuição da quantidade de Pontos de Função prevista, conforme a
+
+técnica de Análise de Pontos de Função; f) revisão das características gerais do sistema, quando se tratar de contagem detalhada de Pontos de Função; e g) conclusão da contagem de Pontos de Função, com a atualização da base histórica de contagens e emissão de documento contendo o resultado do serviço prestado. 2.1.3 Serviços relativos a validação de medições 2.1.3.1 Consideram-se como serviços relativos à validação de medições: a) identificação do uso do método de contagem apropriado; b) validação da aplicação adequada das regras previstas no método de contagem utilizado; e c) emissão de laudo de validação. 2.1.4 Serviços relativos à coleta de dados, geração e análise de indicadores 2.1.4.1 Consideram-se como serviços relativos à coleta de dados, geração e análise de indicadores: a) coleta de dados sobre projetos, sistemas e serviços medidos; b) avaliação dos dados coletados, adotando as melhores práticas existentes no mercado; c) geração de indicadores que auxiliem a CODEVASF na melhoria da gestão dos projetos e serviços; e d) análise dos indicadores gerados visando auxiliar a CODEVASF na definição de ações que possam melhorar a produtividade e qualidade do seu processo de desenvolvimento de sistemas. 2.1.5 Serviços relativos ao suporte à aplicação de técnicas de medição 2.1.5.1 Consideram-se como serviços relativos ao suporte à aplicação de técnicas de medição: a) esclarecimento de dúvidas e orientação na aplicação das técnicas de medição utilizadas pela CODEVASF; b) refinamento do processo de métricas adotado pela CODEVASF; c) esclarecimento de dúvidas e orientação do processo de geração e utilização de indicadores, inclusive quanto à criação de base de dados para esta finalidade; e d) propor melhorias no processo de avaliação/revisão das estimativas de esforço para projetos e serviços da CODEVASF, sempre utilizando melhores práticas de mercado. 2.1.6 Serviço de criação e manutenção de base de dados históricos 2.1.6.1 Consideram-se como serviços relativos à criação e manutenção de base de dados históricos a criação e manutenção de base de dados histórica que possibilite a geração de indicadores solicitados pela CODEVASF e o armazenamento de todos os resultados dos serviços prestados, com versionamento de contagens realizadas.
+
+3 ARTEFATO A SER ENTREGUE PELA CONTRATADA RESULTANTES DA EXECUÇÃO DOS SERVIÇOS 3.1 Resultado APF, que apresenta a planilha contendo o resultado da Análise de Ponto de
+
+Função, é o artefato a ser entregue referente aos serviços de medição de software que deve seguir as especificações da Metodologia de Desenvolvimento de Software da CODEVASF.
+
+4 FLUXO DE EXECUÇÃO DOS SERVIÇOS 4.1 Para a contratação dos serviços, a CODEVASF encaminhará para a CONTRATADA uma Solicitação de Atendimento ­ Anexo X e demais documentos de apoio que julgar necessário. 4.2 A CONTRATADA deverá encaminhar à Gerência de Tecnologia da Informação, no prazo máximo de 10 (dez) dias úteis do recebimento da Solicitação de Atendimento ­ Anexo X, um Anteprojeto - Anexo XI para cada serviço. 4.3 A execução do serviço somente poderá ser realizada, após a aprovação do Anteprojeto Anexo XI pela CODEVASF. 4.4 A solicitação para início da execução dos serviços de medição ocorrerá por meio de Ordem de Serviço (OS) ­ Anexo IV, assinada por profissional da CODEVASF, formalmente designado para isso. 4.5 Nos casos em que a Ordem de Serviço, for cancelada por solicitação da CODEVASF, o trabalho já executado deverá ser medido e pago pela CODEVASF. 4.6 Para cálculo do prazo de entrega do serviço, as datas de previsão de entrega deverá ser mensurado conforme Item 8 ­ Prazo de Atendimento de Serviço de Medição. 4.7 Para cálculo dos esforços, referente aos serviços de medição e validação da medição de software realizadas pela CONTRATADA deverão ser utilizadas as regras especificadas no item 5 - Medição e Remuneração dos Serviços, deste anexo, considerando o fator da Tabela de Produtividade definido pela CODEVASF - Anexo VIII. 4.8 Não deverão ser estabelecidas previsões de entrega e/ou desembolsos quando não puderem ser claramente identificados e validados os artefatos e produtos correspondentes. 4.9 Somente serão executados os serviços aprovados pela Gerência de Tecnologia da Informação. 4.10 Os serviços de medição somente serão considerados como finalizados, após a assinatura do Termo de Aceite do Serviço - Anexo V por parte da Gerência de Tecnologia da Informação. 4.11 Caso seja detectada alguma não-conformidade no atendimento do serviço, a CODEVASF deverá recusar o atendimento, cabendo a CONTRATADA realizar os ajustes necessários de imediato. 4.12 As correções no serviço entregue pela CONTRATADA, no caso da CODEVASF detectar alguma falha, inconsistência ou incorreção, deverão ser efetuadas sem qualquer tipo de ônus para a CODEVASF. 4.13 Os serviços relativos à Coleta de Dados, Geração e Análise de Indicadores são inerentes ao processo de contagem e deverão ser fornecidos à CODEVASF conforme estabelecido no Edital. 4.14 Qualquer contagem de pontos por função, quando realizada pela CONTRATADA, deverá ser assinada por profissional com certificação Certified Function Points Specialist ­ CFPS, emitida por instituição oficial.
+
+5 MEDIÇÃO E REMUNERAÇÃO DOS SERVIÇOS 5.1 Os serviços serão medidos utilizando-se da técnica de Análise em Pontos de Função, utilizando a metodologia descrita na versão 4.2.1 ou mais recente do "Manual de Práticas de Contagens por Ponto de Função" (Function Point Counting Practices Manual - CPM), publicado pelo IFPUG ­ International Function Point Users Group www.ifpug.org) e disponibilizado no Brasil pelo BFPUG (Brazilian Function Point Users Group ­ http://www.bfpug.com.br). 5.2 A utilização de novas versões do Manual (CPM) ficará a critério da CODEVASF, que, mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA. 5.3 A CODEVASF utilizará os requisitos estabelecidos no item 22 ­ Condições de pagamento do Edital para pagamento de todos os serviços. 5.4 Mesmo no caso de ser utilizada uma nova versão do Manual (CPM), o Valor a ser pago no mês será calculado conforme os requisitos estabelecidos no item 22 ­ Condições de pagamento do Edital, cabendo sua revisão somente quando da renovação do CONTRATO entre a CODEVASF e a empresa CONTRATADA. 5.5 Nos casos em que a técnica de Análise de Pontos de Função não reconhece o serviço a ser mensurado como aplicável, a CONTRATADA deverá adotar, para realização de estimativas de esforço a Tabela de Itens Não Passiveis de Medição, apresentada a seguir: Item não Mensurável Percentual de Pontos de Função Alterações referentes aos layouts de telas, tais como: 0,2 (dois décimos) de um ponto de Mudança de posição de campos em telas, em função, para cada 5 elementos. relatórios ou em layout de arquivos, sem que haja alteração em elementos de dados, arquivos referenciados ou informações de controle. Inclusão, alteração ou exclusão de logotipo da empresa; Divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. Atualização de rótulos de dados sem que haja mudança de funcionalidade: Alterações referentes a Campos e Variáveis: Inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem que tenha havido mudança na funcionalidade. Padronização de nomenclatura de campos e variáveis em programas e tabelas Alterações de texto de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. Alterações referentes a criação ou exclusão de telas para: Adição ou reestruturação de menus de navegação estáticos; Adição ou reestruturação de Ajuda (help estático); Criação, alteração ou exclusão de páginas estáticas. Alterações referentes à inclusão, alteração ou exclusão de dados pertencentes a listas (combobox) ou tabelas físicas. 0,4 (quatro décimos) de um ponto de função, para cada 5 dados/campos.
+
+0,2 (dois décimos) de um ponto de função, para cada 5 mensagens 0,5 (cinco décimos) de um ponto de função, para Alteração e/ou Criação de uma tela. 0,1 (um décimo) de um ponto de função, para Exclusão de uma tela 0,2 (dois décimos) de um ponto de função, para cada 5 dados/campos
+
+Alterações referentes a alteração dos valores dos parâmetros (estáticos), sem que a lógica de processamento tenha sido alterada. Alterações referentes a criação de mais de uma camada de apresentação (diferente), desde que sejam as mesmas funcionalidades com padrões visuais distintos. Serviços de Triagem: Referente à execução de tarefas temporárias, não passíveis de serem pontuadas, como por exemplo: triagem de solicitações de atendimento, análise de demandas, classificação e encaminhamento para atendimento, etc. Alterações referentes à criação, alteração e exclusão de tabelas CODE TABLE e respectivas funcionalidades, de sistemas em produção (não se aplica ao desenvolvimento de novos sistemas nem as atividades de "popular" a tabela), sendo previstas as seguintes atividades e seus percentuais de ponto de função: Inclusão de tabela e funcionalidades; Alteração da tabela e funcionalidades; Excluir tabela e funcionalidades; Inclusão de funcionalidade; Alteração de funcionalidade; Exclusão de funcionalidade. Tabela de Itens não
+
+0,1 (um décimo) de um ponto de função, para cada 5 parâmetros. O total de esforço não poderá ser maior que 30% do tamanho da Funcionalidade a que ela se refere Será remunerado em 10% do total de pontos de função realizados em serviços no período de 30 (trinta) dias 2,7 (dois inteiros e sete décimos) pontos de função para Inclusão de tabela e funcionalidades; 1,3 (um inteiro e três décimos) ponto de função para Alteração da tabela e funcionalidades; 0,6 (seis décimos) de um ponto de função para Excluir tabela e funcionalidades 0,3 (três décimos) de um ponto de função para Inclusão, Alteração ou Exclusão de funcionalidade. passiveis de medição.
+
+5.6 No caso da CONTRATADA identificar algum item, não passível de medição, que não conste da referida tabela, deverá ser enviado relatório técnico à CODEVASF que avaliará e, se for o caso, incluirá o novo item na tabela. 5.7 Os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite dos serviços, serão por conta da CONTRATADA. 5.8 O pagamento será efetuado mediante fatura relativa aos serviços efetivamente realizados. Não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. O pagamento somente será efetuado após o ateste do fiscal do contrato da CODEVASF, por meio do Termo de Aceite do Serviço ­ Anexo V. 5.9 Formas de contagem por categoria de serviço 5.9.1 As contagem que deveram ser realizadas pela CONTRATADA estão demostradas na tabela abaixo:
+
+TIPO DE SERVIÇO Desenvolvimento Sistemas
+
+TIPO DE CONTAGEM ( Detalhada )
+
+ITENS NÃO MENSURÁVEIS
+
+de SIM, a partir do detalhamento dos requisitos e SEMPRE deverá ser realizada ao SIM, para CODE TABLE e CAMADA de final da implantação para determinar o "baseline". apresentação adicional SIM, a partir do detalhamento dos requisitos e SEMPRE deverá ser realizada ao SIM, para todos os itens da tabela. final da implantação para determinar o "baseline". SIM, para CODE TABLE e CAMADA de apresentação adicional. SIM, para todos os itens da tabela. Não se aplica de contagens
+
+Manutenção Evolutiva
+
+Manutenção Adaptativa SIM, para determinar o tamanho do serviço a ser contratado. Manutenção corretiva SIM, para determinar o tamanho da correção e estabelecer novo "baseline". fora da garantia Manutenção na garantia Tabela corretiva SIM, para determinar o tamanho da correção e estabelecer novo "baseline". de tipos
+
+5.10 Os esforços, referente aos serviços de medição e validação da medição de software realizadas pela CONTRATADA, serão mensurados, de acordo com a seguinte fórmula: ETC = (QCTC / P) x 8 Onde: ETC = Esforço por Tipo de Contagem = tempo gasto para realizar o serviço; QCTC = Quantidade de PF Contados por Tipo de Contagem = volume dos serviços executados por tipo de contagem; P = Produtividade definida pela CONTRATANTE - Anexo VIII. A produtividade é estabelecida em PF/dia; 8 = Total de horas referente ao esforço diário.
+
+Exemplo: ETC = (500 (QCTC) / 200 (P)) x 8 ETC = 20 horas
+
+Esforço total (ET) =  ETC realizados 5.11 Os tipos de contagem a serem considerados para a utilização da fórmula são os descritos na tabela abaixo. Tipo de Contagem Contagem Detalhada Validação de Contagem Detalhada 5.12 Na execução de serviços relativos à contagem e validação de contagem em que seja identificado qualquer requisito não mensurável em APF será considerado como esforço, para o total de requisitos não mensuráveis identificados, o equivalente a 1 (uma) hora de trabalho por Solicitação de Atendimento ­ Anexo X. 5.13 Os serviços relativos a Suporte à Aplicação de Técnicas de Medição serão mensurados por meio de planilha de horas realizadas.
+
+6 GARANTIA DOS SERVIÇOS DE MEDIÇÃO DE SOFTWARE 6.1 A CONTRATADA garante o serviço prestado no período de 90 (noventa) dias, contados a partir da emissão do Termo de Aceite do Serviço- Anexo V de cada Ordem de Serviço, cabendo-lhe toda a recontagem, caso ocorra mudança de escopo ou problemas na contagem do projeto, atualização das bases históricas, emissão de novos documentos, bem como os demais serviços descritos no item 2.1 deste documento, sem ônus para a CODEVASF. 6.2 Durante o prazo de garantia, toda a recontagem, atualização das bases históricas, emissão de novos documentos, bem como os demais serviços descritos no item 2.1
+
+6.3
+
+6.4 6.5 6.6
+
+deste documento que tenham sido identificados erros ou falhas deveram ser corrigidos pela CONTRATADA, sem ônus para a CODEVASF, mesmo em se tratando de contagens e outros ARTEFATOS já considerados aceitos pela CODEVASF. O direito da CODEVASF à garantia cessará caso os ARTEFATOS de medição sejam alterados pela CODEVASF, ou por outros FORNECEDORES, a serviço da CODEVASF. O prazo de garantia deverá ser respeitado pela CONTRATADA mesmo após o término do prazo de vigência do Contrato. O prazo máximo para correção de defeitos não poderá ser maior que 20% (vinte por cento) do prazo definido na ordem de serviço. O desrespeito ao prazo acima estabelecido fica sujeito à advertência e multa nos termos definidos no Edital.
+
+7 LOCAL DE EXECUÇÃO DOS SERVIÇOS 7.1 Os serviços de métrica de software poderão ser executados, nas dependências da CONTRATADA ou nas instalações da CONTRATANTE em Brasília-DF, a critério da CODEVASF, de acordo com a necessidade verificada. 7.2 A CODEVASF disponibilizará local de trabalho quando os serviços forem executados em suas dependências, cabendo a CONTRATADA montar toda infra-estrutura necessária de hardware e software, conforme descrito no Item 5 ­ Recursos operacionais de infra-estrutura e software do Edital, sendo observados os horários de expediente da CODEVASF para execução destes serviços. 7.3 Caso a empresa contratada não possua sede na cidade de Brasília-DF, deverá arcar com os custos de deslocamento entre a Sede da CODEVASF, localizada em Brasília-DF e a Sede da CONTRATADA, incluindo-se os custos referentes à hospedagem e a alimentação.
+
+8 PRAZO DE ATENDIMENTO DE SERVIÇOS DE MEDIÇÃO 8.1 A CONTRATADA deverá iniciar a execução do serviço imediatamente após a recepção e aceite dos artefatos do sistema a ser medido, disponibilizados pela CODEVASF. 8.2 Os prazos de entrega a serem observados para execução dos serviços, resultantes da fórmula a seguir, serão passíveis de arredondamento caso a CODEVASF assim defina no momento da assinatura da Proposta de Anteprojeto - Anexo XI. Cálculo de Prazo em Dias: T / P Onde: T = Tamanho do Projeto em pontos de função. P = Produtividade definida pela CONTRATANTE - Anexo VIII. A produtividade é estabelecida em PF/dia, sendo consideradas 8 horas por dia. Exemplo: Tamanho do Projeto = 500 pontos de função Produtividade = 200 pontos de função por 8 horas; i. Prazo = (500 / 200)
+
+ii. Prazo = 2,5 dias ou 20 horas 8.3 A CONTRATADA contará com o prazo máximo de 1 (um) dia útil, a partir da data de recebimento para realizar a validação da Solicitação de Atendimento ­ Anexo X, solicitar ajustes, esclarecimentos adicionais ou sugerir a modificação das especificações, bem como para solicitar a revisão da contagem do tamanho da demanda. 8.4 A CONTRATADA poderá solicitar, ainda, um prazo adicional, quando justificada e comprovada a necessidade, em função de complexidade do serviço a ser executado, ficando a critério da CODEVASF, aceitar ou não as justificativas e o novo prazo apresentado pela CONTRATADA; 8.5 O prazo adicional deverá ser solicitado em até 1 (um) dia útil após o recebimento da Solicitação de Atendimento ­ Anexo X, e no caso de aceito pela CODEVASF, será adicionado ao prazo total do serviço ou projeto contratado; 8.6 Caso a justificativa não atenda à CODEVASF prevalecerá o prazo inicialmente estipulado; 8.7 A solicitação de prazo adicional para atendimento não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação pela CODEVASF, ficam mantidas as condições estipuladas para o serviço; 8.8 Caso o prazo de execução proposto pela CONTRATADA não atenda às necessidades da CODEVASF novos prazos deverão ser apresentados.
+
+9 EQUIPE TÉCNICA NECESSÁRIA PARA PRESTAÇÃO DOS SERVIÇOS 9.1 A Empresa CONTRATADA se compromete a alocar, em todos os serviços contratados pela CODEVASF, profissionais com perfis e qualificações adequados, mantendo ao longo da vigência do contrato todas as condições que apresentaram em sua habilitação e qualificação no processo licitatório; 9.2 A qualificação dos profissionais deverá ser comprovada por meio da apresentação dos currículos dos profissionais e dos certificados especificados quando solicitada pela CODEVASF; 9.3 A CONTRATADA se compromete a garantir a alocação de profissionais devidamente capacitados para solucionar problemas relacionados à prestação de serviços, incluindo os que exijam a presença física nas dependências da CODEVASF;
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO III ­ Acordo de Níveis de Serviço
+
+1 Introdução 1.1 Esse Anexo contém o ACORDO DE NÍVEIS DE SERVIÇO que serão suportados por esse contrato, bem como a forma de cálculo das glosas por inadequação aos valores de referência. 1.2 O valor do pagamento dos serviços (Equação 1) será calculado como sendo o valor da fatura mensal, menos as soma de glosas e multas computadas e aplicáveis no período. Equação 1 ­ Cálculo do valor a ser pago no mês, apurada as glosas e multas. VPM = VTF - ( TGM + TMM )
+
+Onde : VPM = Valor a ser Pago no Mês VTF = Valor Total da Fatura/Nota Fiscal TGM = Total de Glosas no Mês TMM = Total de Multas no Mês 1.3 Os critérios do cálculo do TMM está estabelecido no Edital, mas especificamente no item 22 ­ Multas. 1.4 O TGM será calculado pelo apurado no período anterior, seguido as definições do Edital, mas especificamente o item 22 ­ Condições de pagamento e este Anexo. 1.5 O cálculo do percentual devido de glosas (Equação 2) está limitado no Edital no item 22.4. Equação 2 ­ Cálculo do Percentual de Glosas no Mês, apurado os percentuais. PGM =  PFA / 5
+
+Onde : PGM = Percentual de Glosas no Mês PFA = Percentual de Fator de Ajuste no pagamento
+
+1.6 O TGM será o PGM multiplicado pelo seu respectivo valor da Ordem de Serviço (Equação 3).
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO III ­ Acordo de Níveis de Serviço
+
+Equação 3 ­ Cálculo do Total de Glosas no Mês
+
+TGM = ( PGM x VTF ) / 100
+
+1.7 Os serviços deverão atender a níveis de qualidade e de cumprimento de prazos, estabelecidos pelos seguintes indicadores:
+
+Nº 01 - Índice de Defeitos de Qualidade (IDQ) Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Descrição Garantir a qualidade da entrega dos produtos evitando número elevado de defeitos Máximo de 0,06 defeitos / PF Sistema de gestão de ocorrências/defeitos Pelo sistema Mensal ( Número de defeitos identificados e registrados pela CONTRATANTE nas OSs entregues no mês pela CONTRATADA) / (Quantidade de PFs das OSs entregues no mês pela CONTRATADA) Data da assinatura do contrato
+
+Início de Vigência
+
+Fator de Ajuste no pagamento 0,06 a 0,10 ­ 0% de glosa do valor das OSs entregues no mês, devendo a CONTRATANTE advertir a CONTRATADA 0,10 a 0,20 ­ 5% de glosa do valor das OSs entregues no mês Acima de 0,20 ­ 10% de glosa do valor das OSs entregues no mês Sanções 0,20 a 0,40 ­ além do ajuste, multa de 5% do valor das OSs entregues no mês Acima de 0,40 ­ além do ajuste, multa de 10% do valor das OSs entregues no mês
+
+Nº 02 - Índice de Defeitos Recorrentes de Qualidade (IDRQ) Item Finalidade Meta a cumprir Descrição Garantir a qualidade da entrega dos produtos evitando a recorrência dos defeitos. Máximo de 5% de defeitos recorrentes
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO III ­ Acordo de Níveis de Serviço
+
+Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo
+
+Sistema de gestão de ocorrências/defeitos Pelo sistema Mensal ( Número de rejeições de homologações de defeitos identificados e registrados pela CONTRATANTE nas OSs entregues no mês pela CONTRATADA) / (Quantidade de defeitos identificados e registrados pela CONTRATANTE nas OSs entregues no mês pela CONTRATADA) Data da assinatura do contrato
+
+Início de Vigência
+
+Fator de Ajuste no pagamento 5 a 10% ­ 0% de glosa do valor das OSs entregues no mês, devendo a CONTRATANTE advertir a CONTRATADA 10 a 20% ­ 5% de glosa do valor das OSs entregues no mês. Acima de 20% ­ 10% de glosa do valor das OSs entregues no mês. Sanções 20 a 40% ­ além do ajuste, multa de 5% do valor das OSs entregues no mês. Acima de 40% ­ além do ajuste, multa de 10% do valor das OSs entregues no mês.
+
+Nº 03 - Índice de Desconformidades de Qualidade dos Artefatos (IDQA) Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Descrição Garantir a qualidade da entrega dos artefatos relativos aos produtos. Máximo de 10% de rejeições Sistema de gestão de ocorrências/defeitos Pelo sistema Mensal ( Número de rejeições de homologações dos artefatos das OSs entregues no mês pela CONTRATADA) / (Quantidade de artefatos das OSs entregues no mês pela CONTRATADA) Data da assinatura do contrato
+
+Início de Vigência
+
+Fator de Ajuste no pagamento 10 a 20% ­ 0% de glosa do valor das OSs entregues no mês, devendo a CONTRATANTE advertir a CONTRATADA. 20 a 30% ­ 5% de glosa do valor das OSs entregues no mês. Acima de 30% ­ 10% de glosa do valor das OSs entregues no mês. Sanções 30 a 40% ­ além do ajuste, multa de 5% do valor das OSs entregues no mês. Acima de 40% ­ além do ajuste, multa de 10% do valor das OSs entregues no mês.
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO III ­ Acordo de Níveis de Serviço
+
+Nº 04 - Índice de Desconformidades de Prazos (IDP) Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Máximo de 5% de atraso Sistema de gestão de solicitações/demandas Pelo sistema Mensal ( Dias de atraso não justificados das OSs entregues no mês pela CONTRATADA) / (Duração total prevista, em dias, das OSs entregues no mês pela CONTRATADA) Os dias de atraso não justificados são calculados através da quantidade de dias corridos existentes entre a data de entrega e a data de previsão da entrega, apresentada pela CONTRATADA sem justificativa pertinente. Início de Vigência Data da assinatura do contrato Fator de Ajuste no pagamento 5 a 10% ­ 0% de glosa do valor das OSs entregues no mês, devendo a CONTRATANTE advertir a CONTRATADA. 10 a 15% ­ 5% de glosa do valor das OSs entregues no mês. Acima de 15% ­ 10% de glosa do valor das OSs entregues no mês. Sanções 15 a 25% ­ além do ajuste, multa de 5% do valor das OSs entregues no mês. Acima de 25% ­ além do ajuste, multa de 10% do valor das OSs entregues no mês. A data e duração prevista deverão estar declaradas na OS Descrição Garantir o prazo de entrega dos produtos
+
+Observações
+
+Nº 05 - Índice de Desconformidades de Prazos de Resolução de Defeitos (IDPRD) Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Máximo de 5% de atraso Sistema de gestão de ocorrências/defeitos Pelo sistema Descrição Garantir o prazo de resolução dos defeitos dos produtos
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO III ­ Acordo de Níveis de Serviço
+
+Periodicidade Mecanismo de Cálculo
+
+Mensal ( Dias de atraso não justificados dos defeitos solucionados das OSs entregues no mês pela CONTRATADA) / (Duração total prevista, em dias, dos defeitos identificados nas OSs entregues no mês pela CONTRATADA) Os dias de atraso não justificados são calculados através da quantidade de dias corridos existentes entre a data de entrega da solução do defeito e a data de previsão da entrega da solução do defeito, apresentada pela CONTRATADA sem justificativa pertinente.
+
+Início de Vigência
+
+Data da assinatura do contrato
+
+Fator de Ajuste no pagamento 5 a 10% ­ 0% de glosa do valor das OSs entregues no mês, devendo a CONTRATANTE advertir a CONTRATADA. 10 a 15% ­ 5% de glosa do valor das OSs entregues no mês. Acima de 15% ­ 10% de glosa do valor das OSs entregues no mês. Sanções 15 a 25% ­ além do ajuste, multa de 5% do valor das OSs entregues no mês. Acima de 25% ­ além do ajuste, multa de 10% do valor das OSs entregues no mês. A data e duração prevista deverão estar conforme Tabela de Prazos de Atendimento de Serviços
+
+Observações
+
+2 Observações 2.1 Os três primeiros meses de prestação de serviços formam o período de adaptação sendo aplicadas parcialmente o valor das glosas por descumprimento do ANS, prevalecendo os demais elementos de faturamento, segundo o seguinte: No nenhuma abatimento por glosa; II. 1/3 (um terço) do valor de eventuais glosas; III. 2/3 (dois terços) do valor de eventuais glosas. No terceiro mês será descontado A partir do quarto mês as eventuais glosas serão aplicadas integralmente. No segundo mês será descontado primeiro mês não incidirá
+
+I.
+
+IV.
+
+ORDEM DE SERVIÇO
+GERÊNCIA DE TECNOLOGIA DA INFORMAÇÃO / UNIDADE DE SISTEMAS DE INFORMAÇÃO
+
+ANEXO IV
+
+1. - IDENTIFICAÇÃO
+1.1 - SIGLA: 1.2 ­ NOME DO PROJETO/SISTEMA:
+
+1.3 - VERSÃO:
+
+1.4 - DATA:
+
+1.5 ­ ORDEM DE SERVIÇO NÚMERO:
+
+1.6 ­ DATA DA SOLICITAÇÃO:
+
+1.7 - ASSUNTO:
+
+2. - REFERÊNCIAS
+2.1 ­ DOCUMENTAÇÃO TÉCNICA E LEGAL DE REFERÊNCIA. (ANEXOS, LEGISLAÇÃO, E ETC.):
+
+2.2 ­ ÁREA(S) ENVOLVIDA(S) OU AFETADA(S):
+
+3. - DESCRIÇÃO DETALHADA DA SOLICITAÇÃO
+
+4. - CLASSIFICAÇÃO DA SOLICITAÇÃO
+A EQUIPE RESPONSÁVEL PELO REGISTRO DESTA SOLICITAÇÃO CLASSIFICOU-A COMO: - MANUTENÇÃO CORRETIVA (Erro de funcionamento de Sistema) - SISTEMA NOVO (Pedido de Sistema Novo) - TESTE DE SISTEMA DE INFORMAÇÃO (Realização de testes) - MANUTENÇÃO EVOLUTIVA (Novas funcionalidades ou melhorias para Sistemas em funcionamento) - MANUTENÇÃO ADAPTATIVA (Mudança de Banco de Dados ou ambiente operacional) - MEDIÇÃO DE SISTEMAS DE INFORMAÇÃO (Realizar contagem de Sistema, Novo Sistema ou Manutenção)
+
+5. - SOLICITANTE
+5.1 ­ INTERLOCUTOR DE PROJETO DA ÁREA TÉCNICA NOME: SIGLA ÁREA: CORREIO ELETRÔNICO (e-mail): TELEFONE:
+
+6. - LOCAL DE EXECUÇÃO
+6.1 ­ LOCAL ONDE O SERVIÇO SERÁ EXECUTADO:
+
+7. - APROVAÇÃO
+
+BRASÍLIA, DF _______ DE ______________________ DE ___________ (NOME DO RESPONSÁVEL - INTERLOCUTOR)
+
+PLANILHA DE COMPOSIÇÃO DE PREÇO
+GERÊNCIA DE TECNOLOGIA DA INFORMAÇÃO / UNIDADE DE SISTEMAS DE INFORMAÇÃO
+
+ANEXO VII
+FOLHA 1
+
+1. - EMPRESA PROPONENTE
+1.1 - NOME / RAZÃO SOCIAL: 1.2 - CNPJ:
+
+1.3 - ENDEREÇO COMPLETO:
+
+2. - ITENS DO OBJETO
+2.1 - PREENCHER UMA PLANILHA POR ITEM DO OBJETO. ITEM I - SERVIÇOS DE DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS DE INFORMAÇÃO ITEM II - SERVIÇOS DE MÉTRICAS DE SOFTWARE
+
+3. - PLANILHA DE COMPOSIÇÃO DE PREÇO A - MÃO-DE-OBRA REMUNERAÇÃO SALÁRIOS TOTAL DE REMUNERAÇÃO B - ENCARGOS SOCIAIS E TRABALHISTAS GRUPO "A" 01 - INSS 02 - SESI ou SESC 03 - SENAI ou SENAC 04 - INCRA 05 - SALÁRIO EDUCAÇÃO 06 - FGTS 07 - SEGURO DE ACIDENTE DO TRABALHO 08 - SEBRAE TOTAL DO GRUPO A GRUPO "B" 09 - FÉRIAS + ABONO DE FÉRIAS 10 - AUXÍLIO DOENÇA 11 - LICENÇA PATERNIDADE 12 - LICENÇA MATERNIDADE 13 - FALTAS LEGAIS 14 - ACIDENTES DE TRABALHO 15 - AVISO PRÉVIO 16 - 13º SALÁRIO TOTAL DO GRUPO B GRUPO "C" 16 - AVISO PRÉVIO INDENIZADO 17 - INDENIZAÇÃO ADICIONAL 18 - INDENIZAÇÃO (RESCISÕES SEM JUSTA CAUSA) TOTAL DO GRUPO C GRUPO "D" 19 - INCIDÊNCIA DOS ENCARGOS DO GRUPO "A" SOBRE GRUPO "B" TOTAL DO GRUPO D VALOR DOS ENCARGOS SOCIAIS III INSUMOS DE MÃO-DE-OBRA A TRANSPORTE (auxílio combustível) B AUXÍLIO ALIMENTAÇÃO (VALES, CESTA BÁSICA, ETC) C UNIFORMES/EQUIPAMENTOS D ASSISTÊNCIA MÉDICA E ODONTOLÓGICA E SEGURO DE VIDA F TREINAMENTO/CAPACITAÇÃO/RECICLAGEM G AUXÍLIO FUNERAL H OUTROS TOTAL DE INSUMOS DE MÃO-DE-OBRA SUBTOTAL (REMUNERAÇÃO + ENCARGOS SOCIAIS + INSUMOS DE MÃO-DE-OBRA) RESERVA TÉCNICA TOTAL DE MÃO-DE-OBRA C - DEMAIS CUSTOS A B DEMAIS COMPONENTES DESPESAS OPERACIONAIS/ADMINISTRATIVAS LUCRO TOTAL DE DEMAIS COMPONENTES TRIBUTOS ISS COFINS PIS/PASEP TOTAL DOS TRIBUTOS D - INSUMOS DIVERSOS INSUMOS DIVERSOS INSUMOS DIVERSOS (MAT./MAQ./EQUIP.) VALOR GLOBAL DA PROPOSTA MÃO-DE-OBRA + DEMAIS COMPONENTES + TRIBUTOS + INSUMOS DIVERSOS 3.650.000,00 % 0,00% % 3,40% 7,50% 10,90% % 5,00% 3,00% 0,65% 8,65% 152.655,79 91.593,48 19.845,25 264.094,52 R$ 103.805,94 228.983,69 332.789,63 0,00% % 7,97% 7,97% 70,68% % 3,30% 4,95% 0,00% 2,95% 0,00% 4,00% 0,00% 0,00% 15,20% R$ 54.202,50 81.303,75 48.453,75 65.704,00 249.664,00 3.053.115,85 % 3,00% 1,00% 1,00% 5,00% R$ 130.940,10 130.940,10 1.160.951,85 % 11,11% 0,80% 0,10% 0,50% 1,00% 0,07% 1,00% 8,33% 22,91% R$ 49.275,00 16.425,00 16.425,00 82.125,00 % 20,00% 1,50% 1,00% 0,20% 2,50% 8,00% 1,00% 0,60% 34,80% R$ 182.481,75 13.140,00 1.642,50 8.212,50 16.425,00 1.149,75 16.425,00 136.820,25 376.296,75 VALOR (R$) 328.500,00 24.637,50 16.425,00 3.285,00 41.062,50 131.400,00 16.425,00 9.855,00 571.590,00 % 100,00% 100,00% VALOR (R$) 1.642.500,00 1.642.500,00
+
+A B C
+
+F O R - 090
+
+TERMO DE RECEBIMENTO DE SERVIÇO
+1 - IDENTIFICAÇÃO DO SERVIÇO
+1.1 - SIGLA: 1.2 ­ NOME DO PROJETO/SISTEMA:
+
+ANEXO IX
+
+1.3 - VERSÃO:
+
+1.4 - DATA:
+
+1.5 ­ ORDEM DE SERVIÇO NÚMERO:
+
+1.6 ­ ÁREA SOLICITANTE:
+
+1.7 - ASSUNTO:
+
+2 - DESCRIÇÃO DO SERVIÇO REALIZADO
+
+3 - ATIVIDADES REALIZADAS
+
+4 - RECEBIMENTO DO SERVIÇO
+RECEBI O SERVIÇO EM _______/ ______/ _______ , E ESTOU CIENTE QUE TENHO DEZ DIAS ÚTEIS PARA HOMOLOGAÇÃO DO MESMO ATESTO DA USI: _______/ ______/ _______
+
+_______________________________________________________________ ASSINATURA/CARIMBO INTERLOCUTOR DA ÁREA
+
+_______________________________________________________________ ASSINATURA/CARIMBO UNIDADE DE SISTEMAS DE INFORMAÇÃO
+
+4.1 ­ SITUAÇÃO DO RECEBIMENTO: ­ ACEITO ­ ACEITO COM AJUSTES (Solicitação de ajustes em anexo) ­ REJEITADO
+
+DEVEM SER IMPRESSAS DUAS VIAS: 1ª VIA GTI
+
+- 2ª VIA CONTRATADA
+
+- 3ª VIA PROTOCOLO.
+
+SOLICITAÇÃO DE ATENDIMENTO
+GERÊNCIA DE TECNOLOGIA DA INFORMAÇÃO / UNIDADE DE SISTEMAS DE INFORMAÇÃO
+
+ANEXO X
+
+1. - IDENTIFICAÇÃO
+1.1 - SIGLA: 1.2 ­ NOME DO PROJETO/SISTEMA:
+
+1.3 - VERSÃO:
+
+1.4 - DATA:
+
+1.5 ­ ORDEM DE SERVIÇO NÚMERO:
+
+1.6 ­ DATA DA SOLICITAÇÃO:
+
+2. - REFERÊNCIAS
+2.1 ­ DOCUMENTAÇÃO TÉCNICA E LEGAL DE REFERÊNCIA. (ANEXOS, LEGISLAÇÃO, E ETC.):
+
+2.2 ­ ÁREA(S) ENVOLVIDA(S) OU AFETADA(S):
+
+3. - DESCRIÇÃO DETALHADA DA SOLICITAÇÃO
+
+4. - CLASSIFICAÇÃO DA SOLICITAÇÃO
+A EQUIPE RESPONSÁVEL PELO REGISTRO DESTA SOLICITAÇÃO CLASSIFICOU-A COMO:
+
+- MANUTENÇÃO CORRETIVA (Erro de funcionamento de Sistema) - SISTEMA NOVO (Pedido de Sistema Novo) - CONTAGEM DE MANUTENÇÃO DE SISTEMA
+
+- MANUTENÇÃO EVOLUTIVA (Novas funcionalidades ou melhorias para Sistemas em funcionamento) - MANUTENÇÃO ADAPTATIVA (Mudança de Banco de Dados ou ambiente operacional) - CONTAGEM PARA DESENVOLVIMENTO DE SISTEMA
+
+5. - SOLICITANTE
+5.1 ­ INTERLOCUTOR DE PROJETO DA ÁREA TÉCNICA NOME: SIGLA ÁREA: CORREIO ELETRÔNICO (e-mail): TELEFONE:
+
+6. - APROVAÇÃO
+
+BRASÍLIA, DF _______ DE ______________________ DE ___________ (NOME DO RESPONSÁVEL - INTERLOCUTOR)
+F O R - 094
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO XII ­ Glossário
+
+
+
+
+
+ 
+
+   
+
+
+
+ 
+
+Arquitetura de Software: Descrição dos subsistemas e componentes de um sistema de software e das relações entre eles. Subsistemas e componentes são tipicamente especificados em diferentes visões para mostrar as propriedades funcionais e não funcionais relevantes de sistema de software. É um dos resultados da atividade de desenvolvimento de software. Artefato: Qualquer item criado como parte da definição, manutenção ou utilização de um processo de desenvolvimento ou manutenção de sistemas de informação. Inclui, entre outros, descrições de processo, planos, procedimentos, especificações, projeto de arquitetura, projeto detalhado, código, documentação para o usuário. Artefatos podem ou não ser entregues a um cliente ou usuário final. Baseline: Conjunto de especificações ou produtos de trabalho que foram formalmente revistos e acordados, e que servem como base para os futuros desenvolvimentos, podendo ser alterados apenas a partir de procedimentos de controle de mudanças. [IEEE STD 610] CFPS: Certified Function Point Specialist: é a certificação conferida pelo International Function Point Users Group. É possível confirmar se uma pessoa detém a certificação CFPS através de consulta ao IFPUG, enviando um e-mail a ifpug@ifpug.org. A certificação é a garantia de que o profissional entende e utiliza corretamente as regras do IFPUG para a contagem de pontos de função. Ciclo de Vida de Projeto: Consiste no conjunto de fases. É um esquema de processo de desenvolvimento, identificando as principais fases, a ordem de realização e a interação entre as mesmas. CMM: Capability Maturity Model - Modelo para avaliação da maturidade dos processos de software de uma organização e para identificação das práticas chave que são requeridas para aumentar a maturidade desses processos. O CMM prevê cinco níveis de maturidade: inicial, repetível, definido, gerenciado e otimizando. CMMI: Modelo para avaliação e melhoria da maturidade dos processos de uma organização, criado pelo Software Engineering Institute - SEI da Carnegie Mellon University como uma integração e evolução dos seguintes três modelos: SW-CMM ­ Capability Maturity Model for Software; SECM-EIA 731 ­ System Engineering Capability Model, e IPD-CMM ­ Integrated Product Development CMM. [http://www.sei.cmu.edu/cmm/cmm.html] A versão 1.0 foi lançada em agosto de 2000, com plano do SEI de aposentar os três modelos precursores em 2003. O CMMI é um modelo alinhado com a Norma ISO/IEC 15504 e é apresentado em duas representações: uma por estágio (como o CMM) e outra contínua (semelhante à ISO/IEC15504). COCOMO: (Constructive Cost Model)® [COCOMOII] ­ Modelo desenvolvido para estimar o esforço de desenvolvimento, prazos e tamanho da equipe para projetos de software. Utiliza equações desenvolvidas por Boehm (BARRY,1981) para prever o número de programadoresmês e o tempo de desenvolvimento; podem ser calculados usando medidas de linhas de código ou Pontos de Função. Devem ser realizados ajustes nas equações a fim de representar as influências sobre os atributos, hardware e software durante o ciclo de vida do projeto. Componentes: Uma das partes que constituem um produto ou sistema. Parte física substituível de um sistema, que encapsula a implementação e realiza um conjunto de interfaces. Configuração: Relação entre versões de um objeto composto, ou seja, configuração é uma instância do sistema composta da união de uma versão específica de cada objeto componente. Arranjo de um sistema computacional ou de seus componentes como definidos pelo seu
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO XII ­ Glossário
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+   
+
+número, natureza e interconexão de suas partes constituintes. Conformidade: Um estado de concordância entre a qualidade real produzida e a qualidade alvo (desejada ou planejada). Contagem Detalhada: Fornece a quantidade de pontos de função do sistema, obtida a partir do grau de complexidade das funções levantadas. Pode ser utilizada em qualquer fase de desenvolvimento, desde que se possuam detalhes do processo e do modelo de dados, como descrição de telas e relatórios ou um protótipo do sistema. Contagem Estimada: Fornece um valor estimado da quantidade de pontos de função do sistema proposto sem a precisão do grau de complexidade das funções. Pode ser usada na fase inicial da proposta de desenvolvimento, quando não se têm detalhes do processo, mas somente informações preliminares e o modelo de dados. Contagem Indicativa: Fornece um valor indicativo da quantidade de pontos de função do sistema proposto sem conhecer detalhes do modelo nem do processo. Pode ser usada na fase inicial da proposta de desenvolvimento, quando não se conhece detalhes do processo , mas se têm um modelo preliminar de dados. Defeito: Um problema em uma aplicação que, se não corrigido, pode provocar falha ou geração de resultados incorretos. A ausência de funcionalidade que foi especificada e solicitada também é considerada defeito. Descumprimento de requisitos previstos para o uso do produto. É a falta de conformidade que se observa em um produto quando determinada característica da qualidade é comparada com suas especificações. Desenvolvimento de Sistemas. Ato ou efeito de desenvolver um conjunto de rotinas, aplicando conhecimento, recomendações e regras definidas que interfaceiam entre as instruções do programa e base de dados na qual todos os itens de dados podem ser interligados. Projetar, implementar e implantar sistemas de software. Design: É a parte do processo de desenvolvimento de sistema que visa definir o modelo a ser seguido na implementação. Documentação de Sistemas: Um importante instrumento a ser utilizado, visando manter histórico do projeto em todo o seu ciclo de vida, bem como demonstra sua importância como elemento integrante da qualidade do produto a ser entregue ao cliente. A documentação é uma ferramenta de auxílio a ser utilizada no momento de sua necessidade por todas as pessoas envolvidas com o sistema, precisa, para cumprir este papel, ser elaborada ao final de cada fase determinada pela metodologia adotada na organização para desenvolver seu sistema, bem como necessita ser atualizada sempre que houver uma modificação. Escopo: Aspectos e funções que devam ser incluídos no produto ou serviço. Trabalho que deve ser feito com a finalidade de entregar um produto de acordo com os aspectos e as funções especificadas. Especificação: Documento que estabelece os requisitos com os quais o produto ou serviço tem de estar conforme. Framework: conjunto de classes que cooperam entre si com o objetivo de fornecer um serviço para auxiliar o desenvolvimento do software. Gerenciamento de Configuração: Processo de aplicação de procedimentos administrativos e técnicos, por todo o CICLO DE VIDA de software, destinado a identificar e definir os itens de software que fazem parte da LINHA DE BASE (BASELINE) deste sistema; controlar as modificações e liberações dos itens; registrar e apresentar a situação dos itens e dos pedidos de modificação; garantir a completeza, a consistência e a correção dos itens; e controlar o
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO XII ­ Glossário
+
+
+
+    
+
+    
+
+
+
+
+
+armazenamento, a manipulação e a distribuição dos itens. [ISO 12207] Interface: Pontos ou áreas onde existe uma relação entre: Partes de estruturas, sistemas ou componentes; Programas, procedimentos ou atividades, e onde se exige compatibilidade física e/ou funcional. É um meio de comunicação ou de transmissão de informações. É um termo bastante genérico, que pode ser usado em relação a uma interface gráfica, que facilita o uso de um programa, a uma porta de transmissão de dados, como, por exemplo, as interfaces IDE da placa mãe, que permitem a troca de dados entre o processador e os discos rígidos, as interfaces seriais e paralelas, que permitem a conexão de mouses e impressoras, entre outros dispositivos, ou ainda a um joystick ou teclado, que novamente formam um tipo de interface entre o usuário e o programa ou jogo que está sendo executado. ISO 9001: Norma internacional da série ISO 9000. Modelo para garantia da qualidade em projetos, desenvolvimento, produção, instalação e serviços associados. Itens Não Passíveis de Medição: Itens do serviço que não podem ter seu esforço medido por meio de pontos de função. Metodologia de Desenvolvimento de Sistemas: Metodologia implementada na CODEVASF que estabelece as fases, disciplinas e atividades do ciclo de vida de projetos de sistemas de informação, visando orientar os técnicos no desenvolvimento e manutenção de sistemas. Não-Conformidade. Descumprimento de requisitos especificados. NESMA: Netherland Software Metrics Association-Netherlands Function Point Users Group­ (NESMA, 2005). Além do IFPUG, o NESMA também promove o uso de pontos de função e publica o seu próprio manual de contagem complacente com o manual do IFPUG.O manual da NESMA apresenta três tipos de contagens por pontos de função: a contagem indicativa de ponto de função, a contagem estimada de ponto de função e a contagem detalhada de pontos de função. Padrão: Compromisso documentado, utilizado em comum e repetidas vezes pelas pessoas relacionadas com um determinado trabalho. Padrões: Material de referência a ser fornecido pela CODEVASF, destinado a definir, realizar, conservar ou reproduzir os procedimentos, produtos e serviços. Planejamento: Processo que envolve tomada de decisões e avaliação prévia de cada decisão, de um conjunto de decisões inter-relacionadas. Processo de estabelecer objetivos a serem atingidos no futuro. Plano: Conjunto de métodos e medidas para a execução de um empreendimento; o plano estabelece o que deve ser feito para realizar uma meta. PMBOK Project Management Body of Knowledge® ­ Conhecimento do Corpo de Gerenciamento de Projeto. Identifica o subconjunto de conhecimentos sobre a profissão que é consenso, sendo aplicáveis para a maior parte dos projetos na maior parte do tempo, além de prover um vocabulário único para a profissão, padronizando seus termos. Também é usado como referência básica para os exames de certificação do PMI que é responsável pela sua publicação. PMI: Instituto de Gerenciamento de Projetos® (PMI) é uma organização visionária e a primeira defensora, no mundo, da profissão de administrador de gerente de projetos. O PMI prepara padrão para indústrias, conduz pesquisas, promove educação, certificação e trocas de oportunidades profissionais, designada a fortalecer e promover a estabilidade da profissão. PMP: Project Management Professional (PMP®) ­ Um Profissional da Gerência de Projeto ­ contem curso de especialização e experiência, concordando em aderir a um código de
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO XII ­ Glossário
+
+
+
+ 
+
+      
+
+
+
+
+
+conduta profissional e aprovação para avaliar e medir objetivamente o conhecimento da gerência de projeto. Além disso, um certificado PMP deve estar sempre atualizado com o risco de perda da certificação. Pontos de Função: Unidade de medida da técnica Análise de Pontos de Função (APF) largamente utilizada pela indústria de software - que oferece uma medida funcional de tamanho de software e de serviços (tanto de desenvolvimento como de manutenção de software), a partir da perspectiva do usuário. O processo de cálculo de PONTOS DE FUNÇÃO está contido no Function Point Counting Practices Manual (CPM) publicado e comercializado pelo IFPUG (www.ifpug.org) ­ International Function Point Users Group, versão 4.2, porém a parte do Manual referente à determinação do fator de ajuste da contagem não será utilizada pela CODEVASF (serão utilizados PONTOS DE FUNÇÃO não ajustados). A adoção de versões futuras do manual é prerrogativa da CODEVASF. Mesmo no caso de ser utilizada uma nova versão do Manual esta será utilizada sem a parte referente à determinação do fator de ajuste da contagem. Produto: São todos os artefatos gerados durante o processo de desenvolvimento/manutenção de sistemas. Projeto: Trata-se de um empreendimento não repetitivo, caracterizado por uma seqüência clara e lógica de eventos, com início, meio e fim, que se destina a atingir um objetivo claro e definido, sendo conduzido por pessoas dentro de parâmetros pré-definidos de tempo, custo, recursos envolvidos e qualidade. Rastreabilidade: Capacidade de investigar o histórico, a aplicação ou a localização de um item ou de uma atividade (ou itens ou atividades semelhantes) por meio de informações devidamente registradas. Regras de Negócio: É uma sentença que define ou restringe algum aspecto do negócio que será suportado pela solução ou serviço contratado. Requisitante: Pessoa ou grupo que demandou o serviço e que é responsável por avaliá-lo. Requisito: Um requisito descreve uma condição ou capacidade à qual um sistema deve se adaptar, seja ela derivada diretamente de necessidades dos usuários ou declarada em um contrato, um padrão, uma especificação ou outro documento formalmente imposto. UP: Unified Process ­ Processo Unificado. Modelo de processo de desenvolvimento de sistemas iterativo e incremental que oferece uma abordagem baseada em disciplinas para atribuir tarefas e responsabilidades no desenvolvimento de sistemas. SGBD: Sistema Gerenciador de Banco de Dados. Teste de Integração: Técnica sistemática para a construção da estrutura de programa, realizando-se ao mesmo tempo, testes para descobrir erros associados a interfaces. O objetivo é, a partir dos módulos testados no nível de unidade, construir a estrutura de programa que foi determinada pelo projeto. O teste de integração cuida das questões associadas aos duplos problemas da verificação e construção de programas. UML Unified Modeling Language ­ Linguagem de Modelagem Unificada: A UML é uma linguagem de modelagem visual, padronizada internacionalmente pela OMG, voltada para especificar, visualizar, construir e documentar artefatos de um processo de desenvolvimento de sistemas. Validação: Confirmação, por exame e fornecimento de evidência objetiva, de que os requisitos específicos para um uso pretendido são atendidos. Informações cuja veracidade pode ser comprovada com base em fatos obtidos por meio da observação, medição, ensaios
+
+Gerência de Tecnologia da Informação Unidade de Sistemas de Informação ANEXO XII ­ Glossário
+
+ 
+
+ou outros meios constituem evidência objetiva. WEB: Termo usado para se referir às redes de computadores. O termo WWW significa "Word Wide Web", ou larga rede mundial e é naturalmente usado com relação à Internet. Workflow: Workflow é a automação de processos de negócio, onde as atividades são passadas de um participante para o outro de acordo com um conjunto de regras definido. O conceito de Workflow foi concebido de acordo com a noção de processos. Permite que processos possam ser passadas de uma pessoa para outra de acordo com algumas regras. O gerenciamento de workflow possui um conjunto de ferramentas para administração de monitoramento, para controlar aplicações clientes do workflow, as aplicações invocadas, ferramentas de processos dentre outras.
+
+

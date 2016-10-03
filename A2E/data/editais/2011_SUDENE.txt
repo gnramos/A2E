@@ -1,0 +1,902 @@
+29/04/04 à 07/05/200 4.
+
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+PREGÃO ELETRÔNICO N.º 19/2011
+Tipo: Menor Preço Objeto: Manutenção de sistemas, na Área de Tecnologia da Informação" Local: www.comprasnet.gov.br
+
+SESSÃO PÚBLICA Dia: 17 de janeiro de 2012 Hora: .10 horas, horário de Brasília LOCAL, DIAS E HORÁRIOS PARA OBTENÇÃO DESTE EDITAL Dia: .30 de .dezembro de 2011 Hora: a partir das 08:30 horas Local: Praça Ministro João Gonçalves de Souza s/n ­ Engenho do Meio ­ Recife/PE Acompanhe esta licitação na internet no endereço www.comprasnet.gov.br RETIRADA DE EDITAIS PELA INTERNET Retire o edital gratuitamente acessando a página: www.comprasnet.gov.br
+
+Senhor licitante, A comunicação de eventuais retificações ocorridas no instrumento convocatório que não afetem a formulação das propostas, bem como de quaisquer esclarecimentos, serão efetuadas por meio de e-mail. Informe corretamente o endereço eletrônico quando da retirada do edital junto ao Comprasnet.
+
+Recife, 28 de dezembro de 2011.
+
+MARIZA FONTAINE COSTA Licitações e Contratos
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+1
+
+29/04/04 à 07/05/200 4.
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+EDITAL DE PREGÃO ELETRÔNICO Nº 19/2011
+PROCESSO Nº 59335.000326/2011-69 A Superintendência do Desenvolvimento do Nordeste - SUDENE, por meio de seu(a) Pregoeiro(a), designado(a) pela Portaria nº Portaria nº 100, de 09 de novembro de 2011, torna público, para conhecimento dos interessados, que na data, horário e local abaixo indicados fará realizar licitação na modalidade de PREGÃO ELETRÔNICO, do tipo MENOR PREÇO, conforme descrito neste Edital. O procedimento licitatório será regido pela Lei nº 10.520, de 17 de julho de 2002; pelo Decreto nº 3.555, de 08 de agosto de 2000 e alterações posteriores; pelo Decreto nº 5.450, de 31 de maio de 2005; pela Lei Complementar nº 123, de 14 de dezembro de 2006; pelo Decreto nº 6.204, de 5 de setembro de 2007; pelo Decreto nº 3.931, de 19 de setembro de 2001; pela Lei nº 8.248, de 23 de outubro de 1991 e alterações posteriores; pela Lei nº 8.666, de 21 de junho de 1993 e alterações posteriores, e pelas demais exigências deste Edital e seus anexos. 1. DO OBJETO
+
+1.1. A presente licitação tem por objeto a contratação de empresa para prestação de serviços técnicos especializados em manutenção de sistemas, na Área de Tecnologia da Informação, de modo a atender às necessidades da SUDENE, nos termos e condições constantes no presente Edital e seus anexos. 2. DO ENDEREÇO, DATA E HORÁRIO DO CERTAME
+
+2.1. A sessão pública deste Pregão Eletrônico será aberta por comando do Pregoeiro com a utilização de sua chave de acesso e senha, no endereço eletrônico, data e horário abaixo discriminados: ENDEREÇO ELETRÔNICO: www.comprasnet.gov.br DATA: 17/01/2012 HORÁRIO: 10:00 horas, horário de Brasília 2.2. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subsequente, no mesmo horário e endereço eletrônico, salvo comunicação do Pregoeiro em sentido contrário. 3. 3.1. DAS CONDIÇÕES DE PARTICIPAÇÃO Poderão participar desta licitação as interessadas que atenderem às seguintes exigências: a) estarem devidamente CADASTRADAS e HABILITADAS PARCIALMENTE no Sistema de Cadastramento Unificado de Fornecedores - SICAF; b) demais exigências deste Edital e seus anexos.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+2
+
+3.2.
+
+Não poderão participar desta licitação: a) consórcio de empresas, qualquer que seja a sua forma de constituição; b) empresas em processo de falência, recuperação judicial ou extrajudicial, sob concurso de credores, em dissolução ou em liquidação; c) empresas que estejam com o direito de licitar e contratar com a Administração Pública suspenso, ou que por esta tenham sido declaradas inidôneas para tal; d) empresas inadimplentes em obrigações assumidas com o Ministério da Integração ou a SUDENE; e) empresas estrangeiras que não funcionem no País. f) servidor de qualquer órgão ou entidade vinculada a SUDENE, bem assim a empresa da qual tal servidor seja sócio, dirigente ou responsável técnico.
+
+4.
+
+DO CREDENCIAMENTO
+
+4.1. O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico, no sítio www.comprasnet.gov.br. 4.2. O credenciamento junto ao provedor do sistema implica na responsabilidade legal da licitante ou de seu representante legal e na presunção de sua capacidade técnica para a realização das transações inerentes ao Pregão Eletrônico. 4.3. O uso da senha de acesso pela licitante é de sua exclusiva responsabilidade, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou à SUDENE qualquer responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros, devendo a licitante comunicar formalmente ao provedor do sistema qualquer irregularidade quanto ao uso da senha. 5. DO ENVIO DA PROPOSTA DE PREÇOS
+
+5.1. A licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiras suas propostas e lances. 5.2. Incumbirá à licitante, ainda, acompanhar as operações no sistema eletrônico durante a sessão pública do Pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão. 5.3. A participação no Pregão dar-se-á por meio da digitação da senha privativa da licitante e subsequente encaminhamento da Proposta de Preços, o que ocorrerá a partir da divulgação da licitação até a abertura da sessão do Pregão, exclusivamente por meio do sistema eletrônico. 5.4. Como requisito para a participação no Pregão a licitante deverá manifestar, em campo próprio do sistema eletrônico, o pleno conhecimento, concordância e atendimento às exigências de habilitação previstas no Edital e seus anexos. 5.5. As microempresas (ME) e empresas de pequeno porte (EPP) que quiserem usufruir dos benefícios concedidos pela LC nº 123/2006 deverão declarar em campo próprio do sistema eletrônico, a sua condição de ME ou EPP.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+3
+
+5.6. A Proposta de Preços da licitante vencedora, contendo as especificações detalhadas do serviço, deverá ser formulada e enviada, atualizada em conformidade com o último lance ofertado, num prazo máximo de 2 (duas) horas após o encerramento da etapa de lances, por meio do facsímile (81) 2102-2144 ou pelo Sistema Eletrônico, com a posterior apresentação dos originais, no prazo máximo de 48 (quarenta e oito horas), contadas a partir do encerramento da sessão pública. 5.6.1. A Proposta Comercial será preenchida em conformidade com o Modelo de Proposta de Preços constante do Anexo II deste Edital, e deverá, ainda, conter:
+
+em algarismos e por extenso (havendo discordância entre os preços unitário e total, prevalecerá o primeiro, e entre os valores expressos em algarismos e por extenso, serão considerados estes últimos, devendo o Pregoeiro proceder às correções necessárias); (sessenta) dias corridos, a contar da data de sua apresentação. Na ausência de indicação expressa do prazo de validade, considerar-se-á tacitamente indicado o prazo de 60 dias;
+
+ços cotados estão incluídas todas as despesas, frete, tributos e demais encargos, de qualquer natureza, incidentes sobre o objeto deste Pregão, nada mais sendo lícito pleitear a esse título. 5.6.2. Deverá ser enviada, juntamente com a Proposta de Preços, se for o caso, a declaração, sob as penas da lei, de que atende às condições legais para a comprovação de qualquer um dos requisitos estabelecidos nos incisos I, II ou III do subitem 7.12 deste Edital (regras de preferência). 5.6.3. Quando do registro das propostas no Sistema Eletrônico, as licitantes deverão observar a orientação estabelecida pelo Ministério do Planejamento, Orçamento e Gestão, no sentido de se incluir o detalhamento do objeto ofertado no campo "Descrição Detalhada do Objeto". A ausência do detalhamento do objeto no citado campo não acarretará a desclassificação da proposta da licitante, podendo tal falha ser sanada mediante realização de diligência destinada a esclarecer ou complementar as informações. 5.7. A apresentação da proposta implicará na plena aceitação, por parte da proponente, das condições estabelecidas neste Edital e seus anexos. 5.8. O Cadastro Nacional da Pessoa Jurídica ­ CNPJ, indicado nos documentos da proposta de preço e da habilitação deverá ser do mesmo estabelecimento da licitante que efetivamente vai fornecer o /prestar o serviço objetos da presente licitação. 5.9. Serão desclassificadas motivadamente as propostas que não atendam às exigências do presente Edital e seus anexos, que sejam omissas, que apresentem irregularidades insanáveis.
+
+6.
+
+DA RECEPÇÃO E DIVULGAÇÃO DAS PROPOSTAS
+
+6.1. A partir das 10:00 horas do dia 17/01/2012, data e horário previstos no subitem 2.1 deste Edital, terá início a sessão pública do Pregão Eletrônico nº 19/2011, com a divulgação das Propostas de Preços recebidas e início da etapa de lances. 6.2. Até a abertura da sessão, as licitantes poderão retirar ou substituir a proposta anteriormente apresentada. 6.2.1. Não será admitida a desistência da proposta/lance, após o INÍCIO ou o ENCERRAMENTO da fase de lances.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+4
+
+6.2.2. EXCEPCIONALMENTE, após o ENCERRAMENTO da fase de lances, poderá ser acatado o pedido de desistência da proposta, em razão de motivo justo devidamente comprovado pela LICITANTE, decorrente de fato superveniente, e aceito pelo Pregoeiro. 6.2.3. Não restando comprovado o atendimento aos requisitos fixados no subitem 6.2.2 acima, a LICITANTE DESISTENTE ficará sujeita a aplicação das sanções previstas no subitem 19.1 deste Edital.
+
+7.
+
+DA FORMULAÇÃO DOS LANCES
+
+7.1. Iniciada a etapa competitiva, as licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico, sendo imediatamente informadas do recebimento dos mesmos e de seus respectivos valores e horários de registro. 7.2. As licitantes poderão oferecer lances sucessivos, observado o horário fixado e as regras de aceitação dos mesmos, contendo cada lance no máximo 02 (duas) casas decimais, relativas à parte dos centavos. 7.3. Cada licitante somente poderá oferecer lance inferior ao último por ela ofertado e registrado pelo sistema. 7.4. O sistema permitirá a formulação de dois ou mais lances de mesmo valor, prevalecendo para fins de classificação aquele que for recebido e registrado em primeiro lugar, ressalvadas as hipóteses de aplicação das regras de preferência previstas nos subitens 7.11 e 7.13 deste Edital. 7.5. Durante o transcurso da sessão pública, as licitantes serão informadas, em tempo real, do valor do menor lance registrado, vedada a identificação da licitante detentora do lance. 7.6. No caso de desconexão do Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico poderá permanecer acessível às licitantes para a recepção dos lances. 7.6.1. O Pregoeiro, quando possível, dará continuidade a sua atuação no certame, sem prejuízo dos atos realizados. 7.6.2. Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do Pregão será suspensa e terá reinício somente após comunicação expressa do Pregoeiro às participantes. 7.7. A etapa de lances da sessão pública será encerrada por decisão do Pregoeiro, ficando a cargo do sistema eletrônico encaminhar aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até 30 (trinta) minutos, aleatoriamente determinado, findo o qual será automaticamente encerrada a recepção de lances. 7.8. Após o encerramento da etapa de lances, o Pregoeiro poderá encaminhar, pelo sistema eletrônico, contraproposta diretamente à licitante que tenha apresentado o lance mais vantajoso, para que seja obtida melhor proposta, observado o critério de julgamento, não se admitindo negociar condições diferentes daquelas previstas neste Edital. 7.9. Caso não sejam apresentados lances, será verificada a conformidade entre a proposta de menor preço e o valor estimado para a aquisição/contratação. 7.10. A negociação será realizada por meio do sistema, podendo ser acompanhada pelas demais licitantes. 7.11. Após o encerramento da etapa de lances, e não tendo sido a menor proposta ou lance
+5
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+apresentado por microempresa ou empresa de pequeno porte, caso se verifique a ocorrência de empate ficto, será assegurada, como critério de desempate, a preferência de contratação para as ME e EPP, nos termos do art. 44, da Lei Complementar nº 123/2006. 7.11.1. Entende-se por empate ficto, nos termos da Lei Complementar nº 123/2006, aquelas situações em que as propostas ou lances apresentados pelas ME e EPP sejam iguais ou até 5% (cinco por cento) superiores à proposta ou lance melhor classificado durante a etapa de lances. 7.11.2. Na ocorrência de empate ficto, proceder-se-á da seguinte forma: a) A ME ou EPP melhor classificada no intervalo percentual de até 5% (cinco), definido nos termos deste subitem, será convocada automaticamente pelo sistema eletrônico para, desejando, apresentar nova proposta de preço inferior àquela classificada com o menor preço ou lance, no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão. É de responsabilidade da licitante a sua conexão com o sistema eletrônico durante o prazo acima referido para o exercício do direito sob comento. Apresentada a proposta nas condições acima referidas, será analisada sua documentação de habilitação; b) Não sendo declarada vencedora a ME ou EPP, na forma da alínea anterior, serão convocadas automaticamente pelo sistema eletrônico as remanescentes que porventura se enquadrem na hipótese do subitem 7.11.1, na ordem classificatória, com vistas ao exercício do mesmo direito; c) No caso de equivalência dos valores apresentados por ME ou EPP que se encontrem no intervalo estabelecido no subitem 7.11.1, será realizado sorteio eletrônico entre as mesmas, pelo próprio sistema, definindo e convocando automaticamente a vencedora para, caso queira, encaminhar uma melhor proposta. Também será assegurada preferência na contratação, nos termos do disposto no art. 3º da Lei nº 8.248, de 1991, regulado pelo art. 5º, do Decreto nº 7.174/2010, observada a seguinte 7.12. ordem: I) bens e serviços com tecnologia desenvolvida no País e produzidos de acordo com o Processo Produtivo Básico (PPB), na forma definida pelo Poder Executivo Federal; II) bens e serviços com tecnologia desenvolvida no País; e III) bens e serviços produzidos de acordo com o PPB, na forma definida pelo Poder Executivo Federal. 7.12.1. As microempresas e empresas de pequeno porte que atendam ao disposto nos incisos acima terão prioridade no exercício do direito de preferência em relação às médias e grandes empresas enquadradas no mesmo inciso. 7.13. O exercício do direito de preferência disposto nos subitens 7.11 e 7.12, será concedido, observando-se os seguintes procedimentos, sucessivamente: a) aplicação das regras de preferência para as microempresas e empresas de pequeno porte dispostas no subitem 7.11.2, quando for o caso; b) aplicação das regras de preferência previstas no subitem 7.12, com a classificação dos licitantes cujas propostas finais estejam situadas até dez por cento acima da melhor proposta válida, conforme o critério de julgamento, para a comprovação e o exercício do direito de preferência;
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+6
+
+c) convocação dos licitantes classificados que estejam enquadrados no inciso I subitem 7.12, na ordem de classificação, para que possam oferecer nova proposta ou novo lance para superar a melhor proposta válida, caso em que será declarado vencedor do certame; d) caso a preferência não seja exercida na forma da alínea "c", por qualquer motivo, serão convocadas as empresas classificadas que estejam enquadradas no inciso II do subitem 7.12, na ordem de classificação, para a comprovação e o exercício do direito de preferência, aplicando-se a mesma regra para o inciso III do subitem 7.12, caso esse direito não seja exercido. 7.13.1. Será encaminhado às licitantes, via sistema eletrônico, questionamento visando identificar aquelas que porventura preencham as condições listadas no subitem 7.12. 7.13.1.1. Após o término da sessão pública, as empresas licitantes deverão permanecer logadas no Sistema Eletrônico para que o Pregoeiro possa convocar, na ordem de classificação e por meio do Chat, as empresas cujo valor da proposta para o item esteja situado no intervalo percentual previsto na alínea "a" do subitem 7.13,ou seja, até dez por cento da melhor proposta válida. 7.13.1.2. Será encaminhado às licitantes, via Chat do Sistema Eletrônico, questionamento visando identificar aquelas que porventura preencham as condições listadas no subitem 7.12. 7.13.1.3. Após convocada pelo Chat para informar qual das condições listadas no subitem 7.12 sua proposta atende, a empresa licitante terá o prazo de 5 (cinco) minutos para resposta, sob pena de preclusão do seu direito de preferência. 7.14. A comprovação do atendimento ao PPB será feita mediante apresentação do documento comprobatório da habilitação à fruição dos incentivos fiscais regulamentados pelo Decreto no 5.906, de 26 de setembro de 2006, ou pelo Decreto no 6.008, de 29 de dezembro de 2006. 7.14.1. A comprovação será feita: I - eletronicamente, por meio de consulta ao sítio eletrônico oficial do Ministério da Ciência e Tecnologia ou da Superintendência da Zona Franca de Manaus - SUFRAMA; ou II - por documento expedido para esta finalidade pelo Ministério da Ciência e Tecnologia ou pela SUFRAMA, mediante solicitação da licitante.
+
+7.15. Na hipótese em que nenhuma das licitantes preencha os requisitos elencados no subitem 7.12, prevalecerá o resultado inicialmente apurado pelo sistema eletrônico.
+
+8.
+
+DO JULGAMENTO DAS PROPOSTAS
+
+8.1. Encerrada a etapa de lances, a Pregoeira examinará a proposta classificada em primeiro lugar quanto à compatibilidade do preço em relação ao estimado para a aquisição, obtido por meio de pesquisa de mercado. 8.2. O Pregoeiro examinará a proposta classificada em primeiro lugar quanto à compatibilidade do preço em relação ao estimado para a aquisição/contratação, obtido por meio de pesquisa de mercado. 8.3. A classificação das propostas será pelo critério de MENOR PREÇO, de acordo com as especificações e características técnicas exigidas no Termo de Referência, Anexo I deste Pregão.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+7
+
+8.4. Se a proposta ou o lance de menor preço não for aceitável, ou se a licitante desatender às exigências habilitatórias, o Pregoeiro examinará a proposta ou o lance subsequente, verificando a sua aceitabilidade e as condições de habilitação, na ordem de classificação, e assim sucessivamente, até a apuração de uma proposta ou lance que satisfaça às condições e exigências constantes no Edital e seus anexos. 8.4.1. Ocorrendo a situação referida neste subitem, o Pregoeiro poderá negociar com a licitante para que seja obtida melhor proposta. 8.4.2. No julgamento da habilitação e das propostas, o Pregoeiro poderá sanar erros ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de habilitação e classificação.
+
+9.
+
+DA HABILITAÇÃO
+
+9.1. Encerrada a etapa de lances da sessão pública e a negociação, a licitante detentora da melhor proposta ou lance encaminhará à SUDENE a documentação referente à habilitação, no prazo máximo de 02 (duas) horas, pelo fac-símile: (0xx81) 2102-2144 ou pelo Sistema Eletrônico, e, num prazo de até 48 (quarenta e oito) horas, apresentará os documentos originais, juntamente com a Proposta de Preço atualizada, à SUDENE, Praça Ministro João Gonçalves de Souza, s/n, Edifício SUDENE, 4º andar ala norte - sala 017,­ Engenho do Meio ­ Recife/PE, CEP: 50670-500, em envelope fechado e rubricado no fecho, com os seguintes dizeres em sua parte externa e frontal: SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE - SUDENE
+PREGÃO ELETRÔNICO Nº XX/2011 ENVELOPE COM DOCUMENTAÇÃO DE HABILITAÇÃO E PROPOSTA COMERCIAL RAZÃO SOCIAL E CNPJ
+
+9.1.1. As ME e EPP deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição. 9.2. Toda a documentação exigida deverá ser apresentada por uma das seguintes formas: a) em original; b) por qualquer processo de cópia, autenticada por servidor da Administração, devidamente qualificado, ou por Cartório competente; c) publicação em órgão da Imprensa Oficial. 9.3. A comprovação das habilitações previstas nos subitens 9.5.1, 9.5.2 e 9.5.3 deste Edital poderá ser realizada por meio de consulta online ao Sistema de Cadastro Unificado de Fornecedores ­ SICAF. 9.4. Deverá constar do envelope a seguinte documentação complementar ao SICAF: a) declaração da LICITANTE de que o serviço ofertado atende integralmente a todos os requisitos especificados neste Edital e seus anexos; b) demonstração de Patrimônio Líquido mínimo, para efeito de comprovação da boa situação financeira, quando a licitante apresentar em seu Balanço resultado igual ou menor do que 1 (um) em qualquer dos índices abaixo explicitados:;
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+8
+
+LG
+
+=
+
+Ativo Circulante + Realizável a Longo Prazo Passivo Circulante + Exigível a Longo Prazo
+
+SG
+
+=
+
+Ativo Total Passivo Circulante + Exigível a Longo Prazo
+
+LC
+
+=
+
+Ativo Circulante Passivo Circulante
+
+b.1) A licitante que apresentar em seu Balanço resultado igual ou menor do que 1 (um) em qualquer dos índices acima fica obrigada a comprovar, na data de apresentação da documentação, Patrimônio Líquido mínimo correspondente a 10% (dez por cento) do valor total estimado para contratação. 9.4.1. A Declaração de Inexistência de Fatos Impeditivos, a Declaração de Elaboração Independente de Proposta e a Declaração de que não possui em seu Quadro de Pessoal empregados menores de idade, serão disponibilizadas mediante preenchimento de campo específico do sistema eletrônico. 9.4.2. Relativamente à QUALIFICAÇÃO TÉCNICA da licitante:  1 (um) atestado de capacidade técnica, comprovando que a empresa já executou, em uma mesma empresa ou órgão, de forma satisfatória, serviços de desenvolvimento e/ou manutenção de software, na quantidade de pelo menos 500 (quinhentos) pontos de função na tecnologia Ruby; 9.4.2.1. Uma vez que é fundamental a comprovação da capacidade da Contratada em executar os serviços previstos neste Edital, não será admitido o somatório de vários atestados para compor a quantidade mínima de pontos de função exigido para a tecnologia Ruby. 9.4.3. Não serão aceitos atestados de capacidade técnica: a) que apresentem quantidade de pontos de função inferior ao exigido; b) cuja quantidade de pontos de função na tecnologia Ruby não esteja claramente expressa em Contrato ou documento complementar; c) de empresa coligada, consorciada ou parceira.
+
+9.5. As licitantes que não se encontrem com o cadastramento atualizado no SICAF deverão encaminhar, além da documentação prevista no subitem 9.4 acima, o seguinte: 9.5.1. Relativamente à HABILITAÇÃO JURÍDICA da licitante: a) Ato constitutivo, estatuto ou Contrato Social em vigor da licitante, devidamente registrado, em se tratando de sociedades comerciais e, no caso de sociedade por ações, acompanhado de documentos de eleição de seus administradores; b) Inscrição do ato constitutivo em Cartório de Registros de Pessoas Jurídicas, no caso de sociedades simples, acompanhada de prova da diretoria em exercício. 9.5.2. Relativamente à REGULARIDADE FISCAL da licitante: a) Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ); b) Prova de regularidade com a Fazenda Federal (Dívida com a União e Receita Federal) e Estadual ou Municipal, conforme o caso, de acordo com o disposto no inciso III, do art. 29, da Lei nº 8.666/93, dentro do prazo de validade;
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+9
+
+c) Certificado de Regularidade do FGTS, expedido pela Caixa Econômica Federal, conforme alínea "a", do art. 27, da Lei nº 8.036/1990, devidamente atualizado; d) Certidão Negativa de Débito ­ CND relativa às contribuições sociais, fornecida pelo Instituto Nacional do Seguro Social ­ INSS (Lei nº 8.212/1991), devidamente atualizada. 9.5.3. Relativamente à QUALIFICAÇÃO ECONÔMICO-FINANCEIRA da licitante: a) Certidão negativa de falência, concordata ou execução patrimonial, expedida pelo distribuidor da sede da licitante; b) Balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da Lei, que comprovem a boa situação financeira da empresa, vedada a sua substituição por balancetes ou balanços provisórios. 9.6. Em se tratando de ME ou EPP, e havendo alguma restrição na comprovação da regularidade fiscal, a licitante será declarada vencedora do certame no sistema eletrônico, nos termos do §1º, do art. 43, da lei Complementar nº 123/2006. 9.6.1. Nessa hipótese, o Pregoeiro dará ciência às demais licitantes dessa decisão e intimará a licitante declarada vencedora para, no prazo de 2 (dois) dias úteis, cujo termo inicial corresponderá ao momento da declaração citada neste subitem, prorrogável por igual período, a critério da Administração Pública, promover a devida regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. 9.6.2. A não regularização da documentação, no prazo e condições disciplinadas neste subitem, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81, da Lei nº 8.666/93, e no art. 28, do Decreto nº 5.450/2005, sendo facultado à Administração convocar as licitantes remanescentes, na ordem de classificação, ou revogar a licitação. 9.6.3. Na hipótese da não contratação da ME ou EPP, nos termos previstos no subitem 7.11, será analisada a documentação de habilitação da licitante que originalmente apresentou a menor proposta ou lance e, se regular, será declarada vencedora. 9.7. As licitantes que, embora cadastradas no SICAF, estejam com situação irregular neste Sistema, poderão apresentar os documentos que comprovem sua regularidade, relativamente aos dados vencidos ou não atualizados. 9.8. Não serão aceitos protocolos de entrega ou solicitação de documento em substituição aos documentos requeridos no presente Edital e seus anexos.
+
+10.
+
+DA IMPUGNAÇÃO DO ATO CONVOCATÓRIO
+
+10.1. Até 2 (dois) dias úteis antes da data fixada para a abertura da sessão pública, qualquer pessoa poderá impugnar o ato convocatório deste Pregão. 10.1.1. Caberá ao Pregoeiro, auxiliado pelos setores responsáveis pela elaboração do Edital e seus anexos, decidir sobre a impugnação no prazo de até 24 (vinte e quatro) horas. 10.1.2. Acolhida a petição contra o ato convocatório, será designada nova data para a realização do certame. 10.2. Os pedidos de esclarecimentos referentes ao processo licitatório deverão ser enviados ao Pregoeiro, até 3 (três) dias úteis anteriores à data fixada para a abertura da sessão pública, por meio eletrônico, via internet, no seguinte endereço: cpl@sudene.gov.br.
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+10
+
+10.3. As impugnações deverão ser manifestadas por escrito, dirigidas ao Pregoeiro, protocolizando o original, no horário de 08:00 às 12:00 horas e 14:00 às 17:00 horas, em dias úteis, no 4º andar ala norte - sala 4N - 017, Edifício SUDENE, Praça Ministro João Gonçalves de Souza, s/n, Engenho do Meio ­ Recife/PE. 10.3.1. As impugnações, além de manifestadas por escrito, também deverão serão disponibilizadas em meio magnético ou através do endereço eletrônico cpl@sudene.gov.br, face à obrigatoriedade da publicação, no COMPRASNET, do pedido de impugnação juntamente com a decisão emitida pelo Pregoeiro e/ou pelos setores responsáveis pela elaboração do Edital e seus anexos.
+
+11.
+
+DOS RECURSOS
+
+11.1. Declarada a vencedora, qualquer licitante poderá, durante a sessão pública, de forma imediata e motivada, em campo próprio do sistema eletrônico, manifestar sua intenção de recorrer. 11.2. À licitante que manifestar motivadamente a intenção de interpor recurso será concedido o prazo de 3 (três) dias corridos para apresentação das respectivas razões, ficando as demais licitantes, desde logo, intimadas a apresentar contra razões no mesmo prazo, a contar do término do prazo da recorrente, sendo-lhes assegurada vista imediata dos autos. 11.2.1. Sendo declarada vencedora do certame uma ME ou uma EPP que tenha apresentado restrições na comprovação da regularidade fiscal, o prazo previsto neste subitem será contado após decorrido o prazo de 2 (dois) dias úteis (prorrogável por igual período), concedido para a regularização da documentação, conforme prescrito no § 2º, do art. 4º, do Decreto nº 6.204, de 5/9/2007. 11.3. A falta de manifestação imediata e motivada das licitantes quanto à intenção de recorrer importará decadência do direito de recurso, ficando o Pregoeiro autorizado a adjudicar o objeto à licitante declarada vencedora. 11.4. O recurso contra a decisão do Pregoeiro terá efeito suspensivo, inclusive no tocante ao prazo de validade da proposta, o qual somente recomeçará a contar quando da decisão final da autoridade competente. 11.5. O acolhimento do recurso importará na invalidação apenas dos atos insuscetíveis de aproveitamento. 11.6. Decididos os recursos e constatada a regularidade dos atos praticados, a autoridade competente adjudicará o objeto e homologará o procedimento licitatório. 11.7. Os autos do processo permanecerão com vista franqueada aos interessados no Setor de Licitações, 4º andar ala norte - sala 4N - 017, Edifício SUDENE, Praça Ministro João Gonçalves de Souza, s/n, Engenho do Meio ­ Recife/PE., em dias úteis, no horário de 09:00 às 12:00 horas e 14:00 às 17:00 horas. Não serão reconhecidos os recursos interpostos enviados por fac-símile, email ou com os respectivos prazos legais vencidos. 12. 12.1. DA DOTAÇÃO ORÇAMENTÁRIA As despesas com a contratação objeto da presente licitação correrão por conta do Programa de Trabalho: 04.122.0750.2000.0001; Elemento de Despesa: 44.90.39.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+11
+
+13.
+
+DAS RESPONSABILIDADES E OBRIGAÇÕES DAS PARTES
+
+13.1. Caberá à Contratada, sem prejuízo das demais obrigações e responsabilidades insertas neste Edital, na Minuta do Contrato (Anexo III deste Edital) e daquelas constantes do Termo de Referência (Anexo I deste Edital): 13.1.1. Tomar todas as providências necessárias à execução dos serviços objetos desta licitação; 13.1.2. Manter, durante o período de vigência do contrato, todas as condições de habilitação e qualificação exigidas na licitação; 13.1.3. Promover a prestação dos serviços dentro dos parâmetros e rotinas estabelecidos, em observância às normas legais e regulamentares aplicáveis e às recomendações aceitas pela boa técnica; 13.1.4. Prestar todos os esclarecimentos que lhe forem solicitados pela CONTRATANTE, atendendo prontamente a quaisquer reclamações; 13.1.5. Responder integralmente pelos danos causados, direta ou indiretamente, ao patrimônio da União em decorrência de ação ou omissão de seus empregados ou prepostos, não se excluindo ou reduzindo essa responsabilidade em razão da fiscalização ou do acompanhamento realizado pela CONTRATANTE; 13.1.6. Arcar com os ônus resultantes de quaisquer ações, demandas, custos e despesas decorrentes de contravenção, seja por culpa sua ou de quaisquer de seus empregados ou prepostos, obrigando-se, outrossim, a quaisquer responsabilidades decorrentes de ações judiciais ou extrajudiciais de terceiros, que lhe venham a ser exigidas por força da lei, ligadas ao cumprimento do contrato a ser firmado; 13.1.7. Assumir a responsabilidade por todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria, vez que os seus empregados não manterão nenhum vínculo empregatício com a CONTRATANTE; 13.1.8. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes de trabalho, quando, em ocorrência da espécie, forem vítimas os seus empregados quando da prestação dos serviços ou em conexão com ela, ainda que acontecido em dependência da CONTRATANTE, inclusive por danos causados a terceiros; 13.1.9. Assumir todos os encargos de possível demanda trabalhista, cível ou penal, relacionados à prestação dos serviços, originariamente ou vinculada por prevenção, conexão ou contingência; 13.1.10. Assumir a responsabilidade pelos encargos fiscais e comerciais resultantes da adjudicação deste processo licitatório; 13.1.11. Aceitar, nas mesmas condições do ajuste, os acréscimos ou supressões que se fizerem nas compras/nos serviços, até 25% (vinte e cinco por cento) do valor da contratação. 13.2. Caberá à SUDENE, sem prejuízo das demais disposições inseridas neste Edital, na Minuta de Contrato (Anexo III deste Edital) e daquelas constantes do Termo de Referência (Anexo I deste Edital): 13.2.1. Supervisionar os serviços objetos do Termo de Referência, exigindo presteza na execução e correção das falhas eventualmente detectadas; 13.2.2. Permitir o acesso ao local da prestação dos serviços do pessoal da CONTRATADA, necessários à execução do objeto do Termo de Referência (Anexo I deste Edital);
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+12
+
+13.2.3. Prestar à CONTRATADA, em tempo hábil, as informações eventualmente necessárias à execução dos serviços.
+
+14.
+
+DAS CONDIÇÕES DE ASSINATURA E DA VIGÊNCIA DO CONTRATO
+
+14.1. Findo o processo licitatório, a licitante vencedora será convocada a assinar o contrato relativo ao objeto desta licitação. 14.2. O não comparecimento da licitante vencedora, dentro do prazo de 5 (cinco) dias úteis, após regularmente convocada para a assinatura do termo contratual, ensejará a aplicação de multa de 10% (dez por cento) sobre o valor total da respectiva contratação. 14.3. O prazo mencionado acima poderá ser prorrogado uma só vez, por igual período, quando solicitado pela parte durante o seu transcurso e desde que ocorra motivo justificado aceito pela Administração, conforme previsto no § 1º, do art. 64, da Lei nº 8.666/1993. 14.4. A não-regularização da documentação, no caso da licitante vencedora ser uma ME ou uma EPP, dentro do prazo previsto no subitem 9.6.1 deste Edital, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81, da Lei no 8.666/93, e no art. 28, do Decreto nº 5.450/2005, sendo facultado à Administração convocar as licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação. 14.5. No ato da assinatura do contrato será exigida a comprovação das condições de habilitação consignadas neste Edital, as quais deverão ser mantidas pela licitante durante a vigência do contrato. 14.6. Quando a vencedora da licitação não fizer a comprovação acima referida ou quando, injustificadamente, recusar-se a assinar o contrato, poderá ser convocada outra licitante, desde que respeitada a ordem de classificação, para, após comprovados os requisitos habilitatórios e feita a negociação, celebrar o termo contratual, sem prejuízo da multa prevista na letra "c", do subitem 19.1 deste Edital, e das demais cominações legais. 14.7. Até a efetiva assinatura do contrato, poderá ser desclassificada a proposta da licitante vencedora, caso a SUDENE venha a ter conhecimento de fato desabonador à sua habilitação, conhecido após o julgamento. 14.8. Ocorrendo eventual desclassificação da proposta da licitante vencedora, a SUDENE poderá convocar as licitantes remanescentes, observado o disposto neste Edital e a ordem final de classificação das propostas/lances. 14.9. O contrato poderá ser rescindido a qualquer tempo, com base nos motivos previstos nos arts. 77 e 78, na forma do art. 79, da Lei nº 8.666/1993, assegurados à Contratada o contraditório e a ampla defesa. 14.10. O contrato terá vigência de 12 (doze) meses, a contar da data de sua assinatura, podendo, no interesse da administração, ser prorrogado mediante Termo Aditivo, observado o limite de 48(quarenta e oito) meses, conforme disposto no inciso IV, do art. 57, da Lei nº 8.666/93, com suas posteriores alterações. 14.11. O contrato poderá ser alterado, com as devidas justificativas, nos casos previstos no art. 65 da Lei n.º 8.666/1993, sempre por meio de Termos Aditivos. 14.12. A associação da licitante vencedora com outrem, a cessão ou transferência, total ou parcial, bem como a fusão, cisão ou incorporação só serão admitidas quando apresentada a documentação
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+13
+
+comprobatória que justifique quaisquer dessas ocorrências, com o consentimento prévio e por escrito da SUDENE e, ainda, desde que não afetem a execução do serviço objeto desta licitação. 14.12.1. Quando ocorrer o consentimento por parte da SUDENE, previsto neste subitem, deverá ser comprovado que as empresas resultantes dessas operações atendem a todas as exigências de habilitação requeridas à época da realização da licitação.
+
+15.
+
+DO INÍCIO DA EXECUÇÃO, E DAS ESPECIFICAÇÕES DOS SERVIÇOS
+
+15.1. O início da execução dos serviços dar-se-á imediatamente após a assinatura do Contrato, de acordo com a demanda de OS emitida pela área técnica. 15.2. Na prestação dos serviços deverão ser observadas as especificações técnicas e demais orientações/obrigações descritas no Termo de Referência (Anexo I deste Edital).
+
+16.
+
+DA FISCALIZAÇÃO
+
+16.1. O acompanhamento e a fiscalização do objeto desta Licitação serão exercidos por meio de um representante (denominado Fiscal) e um substituto, designados pela CONTRATANTE, aos quais compete acompanhar, fiscalizar, conferir e avaliar a execução, bem como dirimir e desembaraçar quaisquer dúvidas e pendências que surgirem, determinando o que for necessário à regularização das faltas, falhas, problemas ou defeitos observados, e os quais de tudo darão ciência à CONTRATADA, conforme determina o art. 67, da Lei nº 8.666/1993, e suas alterações. 16.2. Não obstante ser a CONTRATADA a única e exclusiva responsável pela e execução dos serviços, a CONTRATANTE reserva-se o direito de, sem que de qualquer forma restrinja a plenitude dessa responsabilidade, exercer a mais ampla e completa fiscalização. 16.3. Cabe à CONTRATADA atender prontamente e dentro do prazo estipulado quaisquer exigências do Fiscal ou do substituto inerentes ao objeto do contrato, sem que disso decorra qualquer ônus extra para a CONTRATANTE, não implicando essa atividade de acompanhamento e fiscalização qualquer exclusão ou redução da responsabilidade da CONTRATADA, que é total e irrestrita em relação aos serviços contratado, inclusive perante terceiros, respondendo a mesma por qualquer falta, falha, problema, irregularidade ou desconformidade observada na execução do contrato. 16.3.1. A atividade de fiscalização não resultará, tampouco, e em nenhuma hipótese, em coresponsabilidade da CONTRATANTE ou de seus agentes, prepostos e/ou assistentes. 16.4. Os equipamentos, ferramentas e materiais utilizados, bem como a prestação dos serviços contratados, deverão estar rigorosamente dentro das normas vigentes e das especificações estabelecidas pelos órgãos competentes e pela SUDENE, sendo que a inobservância desta condição implicará a recusa do mesmo, bem como o seu devido refazimento e/ou adequação/substituição, sem que caiba à CONTRATADA qualquer tipo de reclamação ou indenização. 16.5. As decisões e providências que ultrapassem a competência do Fiscal do contrato serão encaminhadas à autoridade competente da CONTRATANTE para adoção das medidas convenientes, consoante disposto no § 2º, do art. 67, da Lei nº. 8.666/93.
+
+17.
+
+DO PREÇO
+
+17.1. O objeto do presente Edital será contratado pelo preço ofertado na proposta da licitante vencedora, que será fixo e irreajustável por um período de 12 (doze) meses, quando então se
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+14
+
+promoverá a sua correção de acordo com a variação do Índice de Preços ao Consumidor Amplo ­ IPCA, em conformidade com a legislação em vigor, tomando-se por base o índice vigente no mês de apresentação da proposta ou do orçamento a que essa se referir. 17.2. Os preços ajustados já levam em conta todas e quaisquer despesas incidentes na prestação do serviço contratado, tais como serviços de frete, tributos, transporte, alimentação, instalação, desinstalação e reinstalação de componentes, assistência técnica. 17.3. O preço ajustado também poderá sofrer correção desde que reste comprovada a ocorrência de quaisquer das hipóteses previstas na alínea "d", do inciso II, do art. 65, da Lei nº 8.666/93.
+
+18.
+
+DAS CONDIÇÕES DE PAGAMENTO
+
+18.1. O pagamento será efetuado à CONTRATADA, mensalmente, após o aceite definitivo da Ordem de Serviço (O.S.), conforme especificado no item 7.1 do Anexo I do Termo de Referência. As Notas Fiscais/Faturas deverão conter seu endereço, seu CNPJ, o número da Nota de Empenho, os números do Banco, da Agência e da Conta Corrente da empresa, a descrição clara do objeto do contrato/da contratação ­ em moeda corrente nacional, por intermédio de Ordem Bancária e de acordo com as condições constantes na proposta da empresa e aceitas pela SUDENE. 18.1.1. Para execução do pagamento de que trata este subitem, a CONTRATADA deverá fazer constar como beneficiário/cliente da Nota Fiscal/Fatura correspondente, emitida sem rasuras, a Superintendência do Desenvolvimento do Nordeste, CNPJ nº 09.263.130/0001-91. 18.1.2. Caso a CONTRATADA seja optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte ­ SIMPLES, a mesma deverá apresentar, juntamente com a Nota Fiscal/Fatura, a devida comprovação, a fim de evitar a retenção na fonte dos tributos e contribuições, conforme legislação em vigor. 18.1.3. A Nota Fiscal/Fatura correspondente será examinada diretamente pelo Fiscal designado pela CONTRATANTE, o qual somente atestará o fornecimento do material/a prestação dos serviços contratados e liberará a referida Nota Fiscal/Fatura para pagamento quando cumpridas, pela CONTRATADA, todas as condições pactuadas. 18.1.4. Havendo erro na Nota Fiscal/Fatura ou circunstância que impeça a liquidação da despesa, aquela será devolvida pelo Fiscal à CONTRATADA e o pagamento ficará pendente até que a mesma providencie as medidas saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a regularização da situação ou reapresentação do documento fiscal, não acarretando qualquer ônus para a SUDENE. 18.2. No caso de eventual atraso de pagamento, e mediante pedido da CONTRATADA, o valor devido será atualizado financeiramente, desde a data a que o mesmo se referia até a data do efetivo pagamento, pelo Índice de Preços ao Consumidor Amplo ­ IPCA, mediante aplicação da seguinte fórmula:
+
+AF = [(1 + IPCA/100)N/30 ­1] x VP, onde:
+AF IPCA N VP = = = = atualização financeira; percentual atribuído ao Índice de Preços ao Consumidor Amplo, com vigência a partir da data do adimplemento da etapa; número de dias entre a data do adimplemento da etapa e a do efetivo pagamento; valor da etapa a ser paga, igual ao principal mais o reajuste. 15
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+18.3. No caso de incorreção nos documentos apresentados, inclusive na Nota Fiscal/Fatura, serão estes restituídos à CONTRATADA para as correções solicitadas, não respondendo a SUDENE por quaisquer encargos resultantes de atrasos na liquidação dos pagamentos correspondentes. 19. DAS SANÇÕES ADMINISTRATIVAS
+
+19.1. Se, na execução do objeto do presente Edital, ficar comprovada a existência de irregularidade ou ocorrer inadimplemento contratual pelo qual possa ser responsabilizada a CONTRATADA, esta, sem prejuízo das sanções previstas nos arts. 86 a 88, da Lei nº 8.666/93, poderá sofrer as seguintes penalidades ou sanções: a) advertência por escrito;
+
+ulada sobre o valor total da proposta ou lance ofertado pela LICITANTE DESISTENTE devidamente atualizado, na hipótese de desistência injustificada do lance, após o ENCERRAMENTO da fase de lances, conforme previsto nos subitens 6.2.1, 6.2.2 e 6.2.3 deste Edital, sem prejuízo da aplicação de outras sanções previstas no art. 28, do Decreto nº 5.450/2005, inclusive de impedimento de licitar e contratar com a União, previsto no subitem 19.5 deste Edital;
+
+culada sobre o valor total da contratação devidamente atualizado, sem prejuízo da aplicação de outras sanções previstas no art. 28, do Decreto nº 5.450/2005, na hipótese de recusa injustificada da licitante vencedora em celebrar o Contrato, no prazo máximo de 05 (cinco) dias úteis, após regularmente convocada, caracterizando inexecução total ou parcial das obrigações acordadas;
+
+o valor total da da Nota Fiscal quando for constatado o descumprimento de qualquer obrigação prevista neste Edital e/ou no Termo de Referência, ressalvadas aquelas obrigações para as quais tenham sido fixadas penalidades específicas.
+
+ão dos serviços, multa de 0,5% (zero vírgula cinco por cento), por dia de atraso, até o limite do valor total da contratação, nos termos do art. 412 do Código Civil, incidente sobre o valor total da Nota de Empenho, sem prejuízo da aplicação de outras sanções previstas no art. 28, do Decreto nº 5.450/2005. A aplicação da multa de que trata esta alínea não impede a anulação unilateral da contratação;
+
+o valor total da contratação, nos casos de anulação da contratação por culpa da CONTRATADA. 19.2. A aplicação das sanções previstas neste Edital não exclui a possibilidade de aplicação de outras, previstas na Lei nº 8.666/1993, inclusive a responsabilização da licitante vencedora por eventuais perdas e danos causados à SUDENE. 19.3. A multa deverá ser recolhida no prazo máximo de 10 (dez) dias corridos, a contar da data do recebimento da comunicação enviada pela SUDENE. 19.4. O valor da multa poderá ser descontado da Nota Fiscal/Fatura ou de crédito existente na SUDENE, em favor da CONTRATADA, sendo que, caso o valor da multa seja superior ao crédito existente, a diferença será cobrada na forma da lei. 19.5. A licitante que, convocada no prazo de validade da sua proposta, deixar de entregar ou apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução do objeto desta licitação, não mantiver a proposta/lance, falhar ou fraudar no fornecimento, comportarse de modo inidôneo ou cometer fraude fiscal, ficará impedida de licitar e contratar com a União, além de ser descredenciada do SICAF, pelo prazo de até 5 (cinco) anos, sem prejuízo das multas previstas neste Edital, no Contrato e das demais cominações legais.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+16
+
+19.6. As sanções previstas neste Edital são independentes entre si, podendo ser aplicadas de forma isolada ou cumulativamente, sem prejuízo de outras medidas cabíveis. 19.7. Não será aplicada multa se, justificada e comprovadamente, o atraso na entrega do material/execução dos serviços advier de caso fortuito ou de força maior. 19.8. A atuação da CONTRATADA no cumprimento das obrigações assumidas será registrada no Sistema Unificado de Cadastro de Fornecedores ­ SICAF, conforme determina o § 2º, do art. 36, da Lei nº 8.666/1993. 19.9. Em qualquer hipótese de aplicação de sanções, serão assegurados à licitante vencedora o contraditório e a ampla defesa.
+
+20.
+
+DOS RECURSOS ADMINISTRATIVOS
+
+20.1. Dos atos praticados pela CONTRATANTE cabem recursos na forma prevista no art. 109, da Lei nº 8.666/1993.
+
+21.
+
+DAS DISPOSIÇÕES FINAIS
+
+21.1. É facultado ao Pregoeiro ou à Autoridade Superior, em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou complementar a instrução do processo. 21.2. Fica assegurado à SUDENE o direito de, no seu interesse, anular ou revogar, a qualquer tempo, no todo ou em parte, a presente licitação, dando ciência às participantes, na forma da legislação vigente. 21.3. As proponentes assumem todos os custos de preparação e apresentação de suas Propostas e a SUDENE não será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do processo licitatório. 21.4. As proponentes são responsáveis pela fidelidade e legitimidade das informações e dos documentos apresentados em qualquer fase da licitação. 21.5. Após o início ou encerramento da fase de lances, não caberá desistência por parte das licitantes, salvo por motivo justo decorrente de fato superveniente e aceito pelo Pregoeiro, conforme disposto no subitem 6.2.2 deste edital. 21.6. Na contagem dos prazos estabelecidos neste Edital e seus anexos, excluir-se-á o dia do início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na SUDENE. 21.7. Em caso de divergência entre as especificações dos serviços insertas no Sistema SIASG e as deste Edital, prevalecerão as constantes neste último. 21.8. O desatendimento de exigências formais não essenciais não importará no afastamento da licitante, desde que sejam possíveis a aferição da sua qualificação e a exata compreensão da sua Proposta, durante a realização da sessão pública desta licitação. 21.9. Este Edital será fornecido a qualquer interessado, na Sede da SUDENE, situada a Praça Ministro João Gonçalves de Souza, s/n, Edifício SUDENE, 4º andar ala norte - sala 017,­ Engenho do Meio ­ Recife/PE, ou ainda nos sítios www.comprasnet.gov.br . 21.10. As licitantes, após a publicação oficial deste Edital, ficarão responsáveis pelo acompanhamento, mediante o acesso aos sítios mencionados no subitem 21.9, das eventuais
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+17
+
+republicações e/ou retificações de edital, respostas a questionamentos e impugnações ou quaisquer outras ocorrências que porventura possam ou não implicar em mudanças nos prazos de apresentação da proposta e da abertura da sessão pública. 21.11. Integram este Edital, para todos os fins e efeitos: - Termo de Referência - Anexo I; - Modelo de Proposta de Preços - Anexo II; - Minuta do Contrato - Anexo III; e - Minuta de Termo de Confidencialidade da Informação - Anexo IV.
+
+21.12. A homologação do resultado desta licitação não implicará em direito à contratação para a execução dos serviços. 21.13. Aos casos omissos aplicar-se-ão as demais disposições constantes na Lei nº 10.520, de 17 de julho de 2002, nos Decretos nº 3.555, de 08 de agosto de 2000, 5.450, de 31 de maio de 2005 e, subsidiariamente, na Lei nº 8.666/1993. 21.14. O foro para dirimir questões relativas ao presente Edital será o de Recife, Seção Judiciária de Pernambuco, com fundamento no art.109, da Constituição Federal.
+
+Recife, 28 de dezembro de 2011
+
+Mariza Fontaine Costa
+
+Licitações e Contratos
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+18
+
+29/04/04 à 07/05/200 4.
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+PREGÃO ELETRÔNICO Nº 19/2011 ANEXO I DO EDITAL - TERMO DE REFERÊNCIA
+1 Objeto
+
+Contratação de Empresa para prestação de serviços de manutenção de sistemas, na área de Tecnologia da Informação ­ TI, de forma continuada, com previsão de execução de até 750 (setecentos e cinquenta) pontos de função por ano.
+
+2
+
+Justificativa da Aquisição
+
+O presente modelo de aquisição foi elaborado em atendimento às necessidades da Coordenação-Geral de Incentivos Fiscais, objetivando a prestação de serviço especializado de manutenção evolutiva e corretiva do Sistema de Incentivos e Benefícios Fiscais ­ SIBF. Este Sistema é responsável pela gestão dos Incentivos e Benefício Fiscais administrados pela Sudene, compreendendo: Redução de 75% do IRPF, Redução de 12,5% do IRPJ, Reinvestimento de 30% do IRPJ, Isenção do AFRMM e Depreciação Acelerada e incentivada. Considerando a importância do Sistema e o fato desta Autarquia não dispor de pessoal para realização do referido serviço, evidencia-se, então, a necessidade de sua contratação. Por conseguinte, visando economicidade e racionalização de recursos, o serviço objeto desta aquisição, poderá, a critério da Sudene, ser usado para manutenção de qualquer outro Sistema já existente, desde que mantida a mesma tecnologia, ambiente operacional e demais condições estabelecidas no presente Termo de referência e seus anexos. A aquisição deste serviço encontra-se respalda no Planejamento Estratégico de TI (Plano Diretor de Tecnologia da Informação) instituído para o período de 2010/2011, estando inserido especificamente na Meta nº 08 ­ Manutenção corretiva e evolutiva do Sistema de Incentivos e Benefícios, que trata do item 4.3 ­ Serviços a Contratar (folha 16, do PDTI). O presente projeto faz parte do conjunto de ações de TI que serão desenvolvidas neste exercício e está previsto no Orçamento.
+
+3
+
+Especificação técnica do objeto
+
+Serviço de manutenção de sistema de informatizado, de forma continuada, com previsão de execução de até 750(setecentos e cinquenta) pontos de função por ano, de acordo com o Modelo de Prestação de Serviço constante do anexo I deste Termo de Referência.
+
+Valor global estimado da aquisição R$ 312.750,00 (trezentos e doze mil e setecentos e cinquenta reais) por ano, considerando volume máximo de serviços e o custo médio estimado por ponto de função, conforme detalhado no quadro a seguir:
+
+4
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+19
+
+Tabela 4 ­ Estimativa do Valor Global Anual da Aquisição
+Volume de Serviço(*) Valor Unitário (**) Valor Total 750 PF R$ 417,00 / PF R$ 312.750,00 Valor Global Anual Estimado R$ 312.750,00
+(*)O volume de serviços representa uma estimativa baseada em demandas de usuários do Sistema, portanto, durante o período contratual, o volume de serviço poderá ser inferior a 750 PF por ano. (**) O valor unitário representa a média aritmética calculada com base em valores contratados por outros órgãos da Administração Pública Federal.
+
+5
+
+Modalidade da Licitação e Forma de Julgamento
+
+Sugere-se que a licitação seja realizada na modalidade de Pregão, com julgamento pelo critério de "Menor Preço", atendidas as especificações e características técnicas exigidas no presente Termo de Referência. A justificativa é que se trata da contratação de serviços baseados em padrões de desempenho e qualidade definidos neste Termo de Referência por meio de especificações usuais no mercado, havendo diversos fornecedores capazes de prestá-los, caracterizando-se como "serviço comum", de acordo com o Decreto 7174/2010, que define em seu artigo 9º, § 2º: "Será considerado comum o bem ou serviço cuja especificação estabelecer padrão objetivo de desempenho e qualidade e for capaz de ser atendida por vários fornecedores, ainda que existam outras soluções disponíveis no mercado". O artigo 4º do Decreto 5.450/2005 estabelece que "Nas licitações para aquisição de bens e serviços comuns, será obrigatória a modalidade pregão, sendo preferencial a utilização da sua forma eletrônica". O TCU, por meio do Acórdão 2.471/08Plenário, em seu item 9.2, recomenda que a Administração Pública Direta, Autárquica e Fundacional deve utilizar o pregão para contratar bens e serviços de informática considerados comuns, ou seja, aqueles que possuam padrões de desempenho e de qualidade objetivamente definidos pelo edital, com base em especificações usuais no mercado. Entende o TCU, no item 9.2.2 do referido Acórdão, que devido à padronização existente no mercado, os bens e serviços de tecnologia da informação geralmente atendem a protocolos, métodos e técnicas pré estabelecidos e conhecidos e a padrões de desempenho e qualidade que podem ser objetivamente definidos por meio de especificações usuais no mercado. Poderão participar as empresas licitantes devidamente habilitadas conforme os requisitos do presente Edital, porém, não será admitido consórcios de empresas e nem subcontratação de serviços.
+
+6
+
+Especificação da contratação
+A pactuação dar-se-á por meio de contrato, a ser assinado com a empresa vencedora da Licitação, no prazo de 05 (cinco) dias úteis, contados a partir da data da convocação, conforme minuta a ser fornecida juntamente com o Edital de Licitação.
+
+7
+
+Exigências na Habilitação
+
+É exigido que as Empresas participantes comprovem capacidade técnica, pra tanto, deverão apresentar, no ato da habilitação, 1 (um) atestado de capacidade técnica, comprovando que a empresa já executou, em uma mesma empresa ou órgão, de forma satisfatória, serviços de desenvolvimento ou manutenção de software, na quantidade de pelo menos 500 (quinhentos) pontos de função na tecnologia Ruby on Rails; Uma vez que é fundamental a comprovação da capacidade da Contratada em executar os serviços previstos neste Edital, não será admitido o somatório de vários atestados para compor a quantidade de pontos de função exigida.
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+20
+
+O atestado deve ser fornecido por pessoa jurídica de direito público ou privado e conter nome (razão social), CNPJ e endereço completo da Contratante e Contratada, características dos serviços realizados, data de emissão, nome, cargo, telefone e assinatura do responsável pela emissão do atestado, obrigatoriamente nos termos do modelo constante do Anexo V ­ Modelo de Atestado de Capacidade Técnica. Junto com o atestado é obrigatório apresentar cópia do respectivo contrato ou outro documento complementar, relacionado ao contrato, que comprove a quantidade de pontos de função praticada bem como a respectiva tecnologia. Não serão aceitos atestados de capacidade técnica:  que apresentem quantidade de pontos de função inferior ao exigido;  cuja quantidade de pontos de função não esteja claramente expressa em Contrato ou documento complementar;  de empresa coligada, consorciada ou parceira.
+
+8
+
+Prazo de execução do Contrato
+
+Os serviços serão executados de forma continuada no período de 12 (doze) meses, prorrogáveis por até mais 48 (quarenta e oito) meses, nos termos do artigo 57, inciso II da Lei 8666/1993.
+
+9
+
+Local de execução dos serviços
+
+Os serviços devem ser executados nas instalações da Contratada, que deve alocar Preposto para se relacionar com a Contratante e cumprir as suas atribuições previstas neste Termo. Excepcionalmente, a critério da Sudene, os serviços podem ser executados nas dependências da Contratante, em ambiente específico para este fim. Com o objetivo de viabilizar o acompanhamento, monitoração e comunicação entre as partes, com o mínimo de custos para a Contratante e de forma tempestiva, as instalações onde ficará alocada a equipe de técnicos que implementam as atividades previstas neste Edital devem estar localizadas na Cidade de Recife-PE.
+
+10 Forma de pagamento dos serviços
+Os serviços executados serão pagos depois de aceite definitivo da Ordem de Serviço (O.S.), conforme detalhado no Modelo de Prestação de Serviços (Anexos I, II e III do Termo de Referência).
+
+11 Obrigações da Contratada
+1. Alocar Preposto, com experiência em gerenciamento de projetos de manutenção de sistemas, para exercer as seguintes atribuições: receber serviços, aceitar os serviços demandados, participar de reuniões, entregar produtos, assinar documentos, apresentar relatórios de progresso e de níveis de serviço e pré faturas e efetuar quaisquer atividades relacionadas com a gestão do presente contrato, se apresentando na sede da Contratante sempre que convocado.. 2. Comprovar que a contagem de Pontos de Função executada em cada O.S. foi realizada por Especialista em Métricas, com certificação CFPS, provida pelo IFPUG (International Function Point Users Group ­ www.ifpug.org) e experiência mínima comprovada de 12 (doze) meses na técnica de Análise de Pontos de Função, utilizando a metodologia descrita na versão 4.2.1 do Manual de Práticas de Contagens por Pontos de Função (Function Point Counting Practices Manual Release 4.2.1), publicado pelo IFPUG. 3. Garantir a execução de serviços e entrega dos produtos respeitando as especificações, padrões de qualidade, prazos e níveis de serviço definidos no presente Termo de Referência, para tanto, manter equipe adequada e qualificada a prestar os serviços sob sua responsabilidade.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+21
+
+4. Prover sistema para gestão de Ordens de Serviços (O.S.), que permita automatizar o fluxo funcional e manter os dados da O.S., conforme definido no Modelo de Prestação de Serviço (Anexos I do Termo de Referência) e gerar relatórios de andamento das demandas. O sistema de gestão de O.S. deverá apresentar no mínimo as seguintes características: possibilidade de acesso pela internet; controle de acesso à aplicação por usuário e senha; conexão segura (exemplo, protocolo https). Este Sistema deverá ser instalado no ambiente operacional da contratante, no prazo máximo de entrega previsto para a primeira Ordem de Serviço. 5. Concluir a fase de transição (startup) e efetivamente iniciar os serviços de atendimento às Ordens de Serviço (O.S.) previstas no presente Edital no prazo máximo de 30 (trinta) dias corridos, a contar da data de assinatura do contrato. 6. Apresentar à Contratante, ao final da fase de transição (startup), Plano de trabalho e gerenciamento do serviço, papéis, responsabilidades, produtos gerados e prazos, em consonância com as especificações do Edital.
+
+12 Obrigações da Contratante
+1. Encaminhar toda a documentação necessária para a precisa especificação dos requisitos, na emissão das Ordens de Serviço (O.S.). 2. Manter pessoal técnico para prestar esclarecimentos sobre os processos de negócio e requisitos das Ordens de Serviço (O.S.) emitidas. 3. Efetuar a homologação, dar aceite definitivo e pagar os serviços nos prazos estabelecidos no presente termo. 4. Conceder, quando necessário para a execução dos serviços relacionados ao presente Contrato, acesso dos prepostos da Contratada ao ambiente e instalações da Sudene.
+
+13
+
+Relação Empregatícia e Encargos Sociais
+
+Cabe à Contratada assumir, de forma exclusiva, todas as obrigações trabalhistas e previdenciárias advindas da relação com seus empregados envolvidos no objeto do presente Termo. A Contratante se isenta de quaisquer responsabilidades sobre encargos provenientes de relações empregatícias da Contratada. A Contratante não se vincula às disposições contidas em Acordos e Convenções Coletivas que não tratem de matéria trabalhista, tais como as que estabeleçam valores ou índices obrigatórios de encargos sociais ou previdenciários, bem como de preços para os insumos relacionados ao exercício da atividade. É vedado à Contratante a indicação ou direcionamento quanto a contratação de pessoas para prestarem serviços inerentes à presente contratação. Também é vedado à Contratante praticar atos de ingerência na administração da Contratada.
+
+14 Propriedade dos Produtos e Serviços
+São de propriedade da Contratante todos os produtos gerados na vigência deste Contrato, incluindo os dados, documentos e elementos de informação pertinentes à tecnologia de concepção, desenvolvimento, fixação em suporte físico de qualquer natureza e aplicação, tais como produtos de software, programas-fonte, classes e componentes, relatórios, diagramas, fluxogramas, modelos e arquivos, em conformidade com o artigo 111 da Lei 8666/93, com a Lei 9609/98, que dispõe sobre propriedade intelectual de programa de computador e com a Lei 9610/98, que dispõe sobre direito autoral, sendo vedada qualquer comercialização destes por parte da Contratada. A utilização de soluções ou componentes proprietários da Contratada ou de terceiros na construção dos programas ou quaisquer artefatos relacionados ao presente Contrato, que possam afetar a propriedade do produto, deve ser formal e previamente autorizada pela Contratante.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+22
+
+15 Transferência de Conhecimentos
+A Contratada se compromete, em conformidade com o parágrafo único do artigo 111 da Lei 8666/93, promover transição contratual e repassar para a Contratante e/ou para outra empresa por esta indicada, todo os dados, documentos e elementos de informação utilizados na execução dos serviços. Com vista a mitigar riscos de descontinuidade de serviços e de dependência técnica pela Contratante, a Contratada se compromete a habilitar equipe de técnicos da Contratante ou outra por ela indicada no uso das soluções desenvolvidas e implantadas no escopo deste Contrato, repassando todo o conhecimento necessário para tal.
+
+16 Confidencialidade
+A Contratada obrigar-se-á a manter a mais absoluta confidencialidade a respeito de quaisquer informações, dados, processos, fórmulas, códigos, cadastros, fluxogramas, diagramas lógicos, dispositivos, modelos ou outros materiais de propriedade da Sudene, aos quais tiver acesso em decorrência da prestação de serviços objeto da presente contratação, ficando terminantemente proibida de fazer uso ou revelação destes, sob qualquer justificava.
+
+17 Garantia
+Os produtos e serviços decorrentes da presente contratação deverão ter garantia de até 90 (noventa) dias, após o final de contrato. Neste período a Contratada corrigirá os defeitos identificados sem custos para a Contratante. São considerados defeitos as implementações que estejam em desacordo com os requisitos estabelecidos ou com as especificações do sistema e as falhas ou funcionamentos irregulares identificados na operação normal do produto.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+23
+
+29/04/04 à 07/05/200 4.
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+ANEXO I DO TERMO DE REFERÊNCIA
+MODELO DE PRESTAÇÃO DE SERVIÇO
+
+1. 1.1
+
+DETALHAMENTO DOS SERVIÇOS
+
+Serviços de manutenção de sistema Corresponde às intervenções necessárias para manter o sistema funcionando em sua plenitude, podendo ser de natureza: a) Evolutiva: compreendendo a implementação de novas funcionalidades, adequação de funcionalidades existentes ou exclusão de funcionalidades, decorrentes de alterações nas regras de negócio definidas pela Sudene; b) Corretiva: compreendendo a detecção, o diagnóstico e a correção de erros ou falhas ocorridas no sistema em operação. Como erro ou falha entende-se o comportamento inadequado que cause problema de uso ou funcionamento, a geração de resultado diferente do previsto, em decorrência da não observância dos requisitos ou de problema no ambiente computacional onde o sistema é executado e que para sua solução exija intervenção em artefatos do sistema. 1.2 Execução dos Serviços
+
+Para efeito da execução do contrato, os serviços serão realizados mediante emissão de Ordens de Serviços (OS), documento que formaliza e especifica as demandas, como detalhado no Item 3 ­ Fluxo de Execução dos Serviços, e com nível de serviço definido no Item 5 ­ Prazos Máximos de Avaliação e Execução dos Serviços. Os serviços serão realizados na plataforma tecnológica Ruby on Rails, utilizando bancos de dados PostgreSQL e MySQL, adotando a arquitetura definida no item 2 ­ Arquitetura Técnica. A execução dos serviços deverão ocorrer nas dependências da Contratada, com a Contratante fornecendo toda a informação necessária para a precisa especificação dos requisitos da demanda. Em casos excepcionais, a critério da Sudene, os serviços podem ser executados nas dependências da Contratante, em ambiente específico para este fim. Contudo, em qualquer situação, a comunicação entre a Sudene e a Contratada ocorrerá sempre pelo Gestor do Contrato da Sudene e o Preposto (designado pela Contratada), sendo vedada a comunicação entre os servidores da Sudene e os técnicos da Contratada sem a intervenção daqueles. Excepcionalmente, a primeira Ordem de Serviço será emitida para elaboração da documentação do Sistema. A contratada terá um prazo de 3(três) meses, após a emissão da respectiva OS, para executar o serviço, podendo ser prorrogado por até 60 dias, a critério da Sudene. A execução deste serviço deverá ocorre nas dependências da Contratante. A documentação do Sistema deverá conter, no mínimo, os seguintes artefatos:
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+24
+
+Artefato Diagrama Casos de Uso Documento de Descrição de Casos de Uso Documento Visão Documento de Arquitetura Documento de Especificação de Requisitos Documento dos Processos Documento de Telas e Interface Modelo de Dados Diagrama de Classes Contagem de Pontos de Função do Sistema (Baseline) 2. 2.1 ARQUITETURA TÉCNICA Tecnologia Ruby on Rails
+
+Identificação UC DCA DV DA DER DP DTI MD DC BL
+
+Requisitos mínimos a serem considerados para manutenção do sistema na arquitetura Ruby on Rails: a) Linguagem Ruby versões 1.8 e superior. b) Framework Ruby on Rails versões 2.8.3 e superior. c) Manutenibilidade: O código-fonte deve ser documentado, de forma a, no mínimo, conter informações adequadas sobre tipos, classes, estruturas, métodos e variáveis de classe. d) Servidor de Aplicação  Nginx  Passenger e) Serviço de Middleware  Rack f) Relatórios  JasperReports versão 4.1.3 e superior.
+
+g) Tecnologia Adobe Flex  Linguagem ActionScript 3.  Framework PureMVC. h) Banco de dados  MySQL e PostgreSQL Ambiente Operacional
+
+2.2
+
+A produção do sistema será em ambiente de responsabilidade da SUDENE, em servidores do tipo Intel Xeon, com tecnologia Dual Core, rodando sistema operacional Linux em ambiente virtualizado com VMWARE ESXi e armazenamento em Storage Fibre Channel.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+25
+
+3.
+
+FLUXO DE EXECUÇÃO DE SERVIÇOS
+
+Todos os serviços demandados pela Contratante serão formalizados por meio de Ordens de Serviço (OS), documento que deve conter, no mínimo, os dados relacionados a seguir: Número da OS; Número do Contrato; Nome do Projeto; Natureza da manutenção (conforme definido no subitens 1.1); Descrição dos serviços (com anexação de arquivos de artefatos que detalham os serviços, quando for o caso); 6. Solicitante (nome, telefone, e-mail, data/hora de abertura;); 7. Prazo final para entrega do serviço (data); 8. Número de PF Estimados da OS; 9. Custo Estimado da OS (conforme definido no item 6 ­ Custos dos Serviços); 10. Prazo de entrega por artefato produzido; 11. Preposto (nome, telefone, e-mail); 12. Descrição dos Níveis de Serviços estabelecidos; 13. Responsável pela autorização (nome, telefone, e-mail, data); 14. Registro de níveis de serviços aferidos; 15. Responsável pela homologação (nome, telefone, e-mail, data); 16. Situação final da OS (Aceite definitivo ou Cancelada); 17. Número de PF apurados; 18. Custo efetivo da OS; 19. Motivo do cancelamento (quando for o caso); 20. Responsável pela finalização da OS(nome, telefone, e-mail, data);
+1. 2. 3. 4. 5.
+
+As OS são emitidas pela Contratante, e executadas obedecendo ao seguinte fluxo funcional:
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+26
+
+Figura 1 ­ Fluxo Funcional de execução da OS.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+27
+
+Figura 2 ­ Modelo do Formulário da Ordem de Serviço ­ OS.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+28
+
+Detalhamento do Fluxo Operacional de execução da OS: P.1 A Contratante emite a OS especificando a natureza da manutenção e a descrição do serviço, relacionando os artefatos que detalham a especificação, quando for o caso; P.2 A Contratada avalia a demanda e procede a análise preliminar, se necessário interagindo com a Contratante para esclarecimentos sobre a especificação; P.3 A Contratada elabora, no prazo definido na Tabela 5 (Prazo Máximo para Avaliação da Ordem de Serviço), o planejamento da execução do serviço, registrando na OS: a métrica em pontos de função (calculada conforme definido no item 4 ­ Medição de Serviços), os artefatos que serão produzidos e o prazo de entrega, de acordo com os parâmetros definidos na Tabela 6 (Prazo Máximo para Execução da OS). Ao apresentar o Planejamento da OS, a Contratada dá aceite da demanda assumindo deter todo os insumos e conhecimento necessários para execução dos serviços dentro dos prazos, padrões de qualidade e custos apresentados, não podendo justificar atrasos ou defeitos por ausência ou insuficiência da especificação; P.4 A Contratante avalia a contagem de pontos de função apresentada, os artefatos que serão produzidos e os prazos das entregas. Caso verifique alguma inconsistência ou divergência no Planejamento, retorna para replanejamento pela Contratada; P.5 Havendo concordância com o planejamento, a Contratante autoriza a execução do serviço, registrando adequadamente na OS; P.6 A Contratada executa os serviços e entrega os artefatos produzidos, dentro do prazo de entrega estabelecido e dos parâmetros de qualidade contratados; P.7 A Contratante homologa os artefatos. O prazo para esta homologação é de 30% (trinta por cento) do prazo estabelecido para a execução da OS; P.8 Caso não homologue os serviços, a Contratante avalia as razões das não-conformidades, aceita registrando as justificativas ou adota as sanções previstas em contrato. Nesta avaliação será considerado agravante se o ciclo de homologação da OS ocorrer mais de uma vez, com conseqüente retrabalho para a Contratante e impacto no prazo; P.9 A Contratada executa os ajustes das não-conformidades registradas pela Contratante. O prazo máximo para esta execução é de 30% (trinta por cento) do prazo estabelecido para a execução da OS; P.10 Depois de homologados todos os artefatos relacionados na OS, inclusive os testes de integração, quando couber, a Contratante formaliza o aceite dos serviços; P.11 A Contratada efetua a recontagem de pontos de função da OS, pelo método detalhado, e submete à aprovação da Contratante. Esta contagem é necessária pois é após a conclusão do serviço que se tem todos os elementos para a contagem mais precisa. Entretanto, se ocorrer divergência para mais ou para menos da contagem inicial, realizada no passo P.3, superior a 10% (dez por cento), esta deverá ser devidamente justificada na OS e formalmente aceita pela Contratante; P.12 A Contratante avalia a recontagem detalhada e procede aceite definitivo da OS, liberando para o faturamento. Nesta etapa, caso ocorra diferença na contagem superior a indicada no passo P.11, a Contratada efetua nova contagem e as partes se reúnem para dirimir as divergências. Persistindo impasse, prevalece a contagem elaborada pela Contratante; P.13 A Contratada efetua procedimentos administrativos para o faturamento da OS, da forma definida no subitem 6.1 ­ Fluxo de Pagamento; P.14 A Contratante efetua o pagamento da OS, na forma definida no subitem 6.1 ­ Fluxo de Pagamento.
+
+Quaisquer negociações acerca dos serviços demandados, inclusive divergências na contagem de pontos de função e não-conformidades identificadas pela Contratante, são conduzidas por meio de reuniões entre o Gestor do Contrato e o Preposto da Contratada e quando o assunto requerer, com a presença de especialista em Métricas. As decisões são formalmente registradas em Ata de Reunião, respeitando os níveis de serviços e padrões de qualidade estabelecidos no presente Termo de Referência. O aceite definitivo e liberação da OS para faturamento não exime a Contratada da responsabilidade pela garantia do produto, conforme definido no presente Termo de Referência.
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+29
+
+4.
+
+MEDIÇÃO DOS SERVIÇOS
+
+Os serviços de manutenção serão mensurados por meio da técnica de Análise de Pontos de Função, utilizando a metodologia de análise de pontos de função (APF) descrita na versão 4.2.1 do Manual de Práticas de Contagens por Pontos de Função (Function Point Counting Practices Manual Release 4.2.1), publicado pelo IFPUG (International Function Point Users Group ­ www.ifpug.org). A critério exclusivo da Contratante poderá ser adotada, na vigência do contrato, uma nova versão do Manual de Práticas de Contagens por Pontos de Função que venha a ser disponibilizada pelo IFPUG. O Fator de Ajuste é fixo e igual a 1,00 (um inteiro e zero centésimos), o que significa que a Contagem Ajustada é sempre igual a Contagem Não-Ajustada, para todos os serviços no escopo da presente contratação. A manutenção do sistema será mensurada da seguinte forma: a) Contagem das funções envolvidas no serviço e impactadas por este, apurado em Pontos de Função de acordo com as normas do IFPUG CPM v-4.2.1; b) No contexto do presente Edital, uma função de dados (ALI ou AIE) é impactada quando houver mudança nos itens de dados da função. Da mesma forma, uma função transacional (EE, SE, CE) é impactada quando houver mudanças nos itens de dados, ou nos arquivos referenciados ou na lógica de processamento da função; c) Aplicação nas funções impactadas de Fatores de Impacto (FI), conforme definido pela guia Análise de Pontos de Função para Melhoria de Software (Function Point Analysis for Software Enhancement ­ Version 2.2.1, Setembro/2009) publicada pela NESMA - Netherlands Software Metrics Users Association (www.nesma.nl), conforme a seguir.
+
+mesmo, em projeto de manutenção.
+
+esta função. Este fator foi estabelecido a partir de práticas adotadas por outros órgãos da Administração Pública em Editais publicados. Para as funções de dados e transacionais alteradas no projeto de manutenção, o Fator de Impacto é calculado baseado no percentual de mudança da função, determinado como descrito na Tabela 1 a seguir: Tabela 1 ­ Percentual de Mudança para Funções de Dados e Transacionais Descrição Fórmula de Cálculo
+Percentual de Mudança de Funções de Dados Percentual de Mudança de itens de dados em Funções Transacionais Percentual de Mudança de arquivos referenciados em Funções Transacionais PM dados = N.º de Itens de Dados incluídos/alterados/excluídos x 100 N.º de Itens de Dados da função de dados original PM TID = N.º de Itens de Dados incluídos/alterados/excluídos x 100 N.º de Itens de Dados da função transacional original PM TAR = N.º de Arquivos Referenciados incluídos/alterados/excluídos x 100 N.º de Arquivos Referenciados da função transacional original Fonte: NESMA
+
+A partir do Percentual de Mudança de cada função, é definido o seu Fator de Impacto, conforme Tabelas 2 e 3: Tabela 2 ­ Fator de Impacto para Funções de Dados alteradas (FI Da)
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+30
+
+PM dados Fator de Impacto
+
+Até 33% 0,25
+
+34% ­ 67% 68% ­ 100% Acima 100% 0,50 0,75 1,00
+
+Fonte: NESMA Tabela 3 ­ Fator de Impacto para Funções Transacionais alteradas (FI Ta) PM TID
+PM
+TAR
+
+Até 67%
+
+Acima 67% Até
+
+Acima 100% 1 0 0 %
+
+Até 33% Acima 33% Até 67% Acima 67% Até 100% Acima 100%
+
+0,25 0,50 0,75 1,00
+
+0,50 0,75 1,00 1,25
+
+0,75 1,00 1,25 1,50
+
+Fonte: NESMA O esforço para implementação de novas funcionalidades, ajustes nos itens de interface e outros serviços não contemplados na métrica de APF será apurado por meio da Relação de Itens não Mensuráveis, apresentada na Tabela 4, a seguir: Tabela 4 ­ Relação de Itens não Mensuráveis
+
+I t e m
+
+D e s c r i ç ã o
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+31
+
+A l t e r a ç õ e s n o L a y o u t d e T e l a s , A r q u i v o s e R e l a t ó r i o s l a y o u t d e t e l a s , r e l a t ó r i o s o u a r q u i v o s s e m i m p a c t a
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+32
+
+r a s f u n c i o n a l i d a d e s . I n c l u s õ e s / a l t e r a ç õ e s / e x c l u s õ e s d e c a m p o s e
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+C a m p o s e V a r i á v e i s
+
+33
+
+v a r i á v e i s e m p r o g r a m a s e t a b e l a s , s e m i m p a c t a r a s f u n c i o n a l i d a d e s
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+34
+
+. A l t e r a ç õ e s d e m e n s a g e n s d e M e n s a g e n s i n f o r m a ç ã o a o u s u á r i o , q u e n ã o f a z e m
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+35
+
+p a r t e d e A L I o u A I E .
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+36
+
+I n c l u s õ e s / a l t e r a ç õ e s d e m e n u s d e n a v e g a ç ã o M e n u s e s t á t i c o s , t e l a s d e a j u d a
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+37
+
+E x c l u s õ e s d e m e n u s , t e l a s d e a j u d a o u p á g i n a s e s t á t i c a s . I n c l u s õ e s
+
+D a d o s H A R
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+38
+
+D C O D E D
+
+/ a l t e r a ç õ e s / e x c l u s õ e s d e d a d o s p e r t e n c e n t e s a l i s t a s ( c o m b o b o x )
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+39
+
+o u t a b e l a s f í s i c a s . I n c l u s õ e s d e t a b e l a s C O D E T A B L E ( C O D E D A T A ) .
+
+C O D E T A B L E
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+40
+
+A l t e r a ç õ e s d e t a b e l a s C O D E T A B L E ( C O D E D A T A ) .
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+41
+
+E x c l u s õ e s d e t a b e l a s C O D E T A B L E ( C O D E D A T A ) .
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+42
+
+I n c l u s õ e s d e f u n c i o n a l i d a d e s e m t a b e l a j á e m p r o d u ç ã o .
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+43
+
+A l t e r a ç õ e s d e f u n c i o n a l i d a d e s e m t a b e l a j á e m p r o d u ç ã o .
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+44
+
+E x c l u s õ e s d e f u n c i o n a l i d a d e s e m t a b e l a j á e m p r o d u ç ã o . N e c e s s i d a d e
+
+C a m a d a a d i
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+45
+
+c i o n a l d e a p r e s e n t a ç ã o
+
+d e c r i a ç ã o d e m a i s d e u m a c a m a d a d e a p r e s e n t a ç ã o p a r a a m e s m a a p
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+46
+
+l i c a ç ã o , c o m a s m e s m a s f u n c i o n a l i d a d e s , p o r é m c o m p a d r õ e s v i s u a i s
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+47
+
+d i f e r e n t e s . A quantidade de Pontos de Função de cada Item não Mensurável é definida pela quantidade de itens identificada na apuração multiplicado pelo respectivo Fator de Equivalência. A quantidade total de Pontos de Função relativo a itens não mensuráveis ( NM ) é obtida pelo somatório das quantidades de Pontos de Função de todos os Itens não Mensuráveis apurados.
+
+Fonte: Banco do Brasil, CAIXA
+
+Desta forma, tem-se a seguinte fórmula para cálculo do tamanho de uma Ordem de Serviço de manutenção: TOS Man
+Incluída Excluídas x 0,25 + Dados Alteradas NM
+
+x FI Da
+
+Transacionais Alteradas
+
+x FI Ta )
+
+Onde: TOS Man : Tamanho da Ordem de Serviço de manutenção, medida em pontos de função; Incluída : somatório das funções de dados e transacionais incluídas no escopo da OS de manutenção e não contadas em OS anteriores do Projeto; Dados Alteradas x FI Da ): somatório de funções de dados alteradas no escopo da OS de manutenção, cada função com seu tamanho em ponto de função multiplicado pelo seu respectivo fator de impacto (FI Da), calculado pelo percentual de mudança, conforme tabelas 2 e 3 acima; Transacionais Alteradas x FI Ta ): somatório das funções transacionais alteradas no escopo da OS de manutenção, cada função com seu tamanho em ponto de função multiplicado pelo seu respectivo fator de impacto (FI Ta), calculado pelo percentual de mudança, conforme tabelas 2 e 4 acima; Excluídas: somatório de funções de dados e transacionais excluídas no escopo da OS de manutenção, a estas aplica-se fator de impacto de 0,25; NM: somatório de pontos de funções relativo a itens não mensuráveis, calculado conforme definido pela Tabela 4. O Anexo III do Termo de Referência ­ Modelos de Planilhas para Contagem de Pontos de Função, apresenta o modelo de planilha a ser adotada para a Contagem de Serviços de Manutenção.
+
+5.
+
+PRAZOS MÁXIMOS DE AVALIAÇÃO E EXECUÇÃO DOS SERVIÇOS
+
+O prazo máximo para avaliação e aceite da OS pela Contratada é estabelecido em dias úteis, em função do tamanho do serviço, conforme estabelecido na Tabela 5 a seguir:
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+48
+
+Tabela 5 ­ Prazo Máximo para Avaliação da Ordem de Serviço Tamanho do Serviço (em PF) Prazo Máximo de Avaliação
+Menor que 50 3 51 até 100 5 101 até 300 8 Observações: Prazo Máximo de Avaliação é o prazo máximo para a Contratada executar os passos P.2 e P.3 do fluxo funcional da OS, estabelecido na Figura 1, contado em dias úteis; Para OS maior que 300 Pontos de Função, o prazo de avaliação da OS será negociado entre Contratante e Contratada
+
+O prazo máximo de execução da OS será definido, em função de seu tamanho, em pontos de função, conforme detalhado na Tabela 6 a seguir: Tabela 6 ­ Prazo Máximo para Execução da OS. Tamanho da OS (em Prazo Máximo para PF) Execução
+Menor que 50 60 dias 51 até 100 90 dias 101 até 200 120 dias 201 até 300 150 dias Observações: 1. Prazo Máximo de Execução da OS será contado em dias corridos; 2. OS com tamanho superior a 300 (trezentos) pontos de função terá prazo máximo de execução negociado entre a Contratante e Contratada;
+
+6.
+
+CUSTOS DOS SERVIÇOS
+
+Os custos dos serviços relacionados ao presente Contrato serão estabelecidos por Ordem de Serviço (OS), sendo o custo de cada OS calculado pela seguinte fórmula: COS = CPF x TOS Onde: COS: Custo total da OS, em reais (R$); CPF: Custo unitário do ponto de função contratado em reais (R$); TOS: Tamanho do serviço especificado na OS, medido em pontos de função. As OS do tipo Manutenção Corretiva decorrentes de erros ou falhas em serviços realizados ou artefatos produzidos pela Contratada, dentro do período de garantia, não terão custos para a Sudene. Excepcionalmente, a Ordem de Serviço emitida para elaboração da documentação do Sistema terá seu custo calculado pela seguinte fórmula: COS = CPF x CBL x 0,15 Onde: COS: Custo total da OS, em reais (R$); CPF: Custo unitário do ponto de função contratado em reais (R$); CBL: Contagem de pontos de função, após a documentação do Sistema (Baseline); 6.1 a) Fluxo de Pagamento Mensalmente, no período entre o dia 21 do mês anterior e o dia 20 do mês corrente, a Contratada imprime espelho das OS com estado de homologada e colhe a
+49
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+assinatura do Gestor do Contrato responsável, atestando o aceite definitivo dos serviços prestados e dos custos especificados. b) A partir do dia 20, a Contratada consolida as OS com estado de aceite definitivo, concluídas no período, gerando relatório detalhado dos serviços prestados e dos níveis de serviço realizados relativos a estas OS, e a correspondente Pré-Fatura, que são entregues à Contratante. A Contratante tem prazo de 5 (cinco) dias úteis para aprovar ou rejeitar a PréFatura, neste último caso, apontando os pontos não conformes, para correção pela Contratada. A cada reapresentação da Pré-Fatura, a Contratante tem novo prazo de 5 (cinco) dias úteis para aprovação ou rejeição. Depois de aprovada a Pré-Fatura pela Contratante, a Contratada emite Nota Fiscal detalhando os serviços executados, quantitativos e valores e a Contratante efetuará o pagamento num prazo de até 10 (dez) dias da apresentação da Nota Fiscal.
+
+c)
+
+d)
+
+e)
+
+7. 7.1
+
+CRITÉRIOS DE ACEITAÇÃO Requisitos de Qualidade A Contratada deverá garantir a entrega de serviços e produtos demandados nos prazos acordados nas respectivas OS e a qualidade dos artefatos (documentos nos formatos e padrões estabelecidos, produtos de software aderentes às especificações e sem erros de codificação) entregues. A manutenção do Sistema deve ser estar em conformidade com a norma ABNT NBR ISO/IEC 9126 ­ Engenharia de Software ­ Qualidade do Produto, de acordo com os seguintes atributos: a) b) Usabilidade: ser de fácil entendimento dos conceitos utilizados, aprendizagem, uso e controle de operação; Portabilidade: funcionar em navegador Internet Explorer 7.0 e versões superiores, Firefox 5.0 e versões superiores, na plataforma de hardware definidas pela Sudene (Ambiente Operacional); Manutenibilidade: o código-fonte do software deve ser bem estruturado e documentado, visando pouco esforço para fazer alterações corretivas, adaptativas e/ou evolutivas. Não devem ser utilizados componentes proprietários que não possuam fontes disponíveis ou requeiram licenças pagas para a sua utilização; Confiabilidade: não deve apresentar falhas e se estas ocorrerem, devem ter capacidade de recuperação de dados e manutenção do nível de desempenho requerido; Desempenho: no ambiente de produção da Sudene, o sistema deve ter capacidade para atender ao universo de usuários em momentos de normalidade e de picos de acesso, devendo apresentar tempo de resposta não superior a 3(três) segundos. Indicadores de Nível Mínimo de Serviço
+
+c)
+
+d) e)
+
+7.2
+
+A Contratada deve atender, para todas as OS encaminhadas na vigência do presente Contrato, aos indicadores detalhados na Tabela 9 ­ Indicadores de Nível Mínimo de Serviço (INS), apresentada a seguir:
+o
+
+Indicador n 1
+
+Tabela 9 ­ Indicadores de Nível Mínimo de Serviço (INS) Atraso na Entrega (AE)
+50
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+Descrição do indicador Aferição
+
+Mede os atrasos ocorridos nas entregas de produtos e artefatos acordados nas OS. Pela Contratante, no passo P.7 do fluxo funcional da OS definido na Figura 1.
+
+P P I EE PE  100 AE P PE
+Onde: IAE = Índice de atraso na entrega; PEE = Prazo efetivo de entrega, em dias úteis; PPE = Prazo planejado de entrega, em dias úteis, acordado na OS. I Desejável: 0% (zero por cento) Nível mínimo de serviço AE IAE Aceitável: até 5% (cinco por cento) exigido IAE Inaceitável: acima de 5% (cinco por cento) IAE Desejável: nenhuma IAE Aceitável: advertência Sanções IAE Inaceitável: glosa de 2% (dois por cento) no valor da OS correspondente, a título de compensação à Contratante pelo retrabalho na atividade de homologação. Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e Forma de Auditoria níveis de serviços prestados. Fórmula de cálculo
+
+Indicador no 2
+Descrição do indicador Aferição
+
+Não-conformidades com Requisitos (NC)
+Mede as implementações que estejam em desacordo com os requisitos estabelecidos ou com as especificações do sistema. Pela Contratante, no passo P.7 do fluxo funcional da OS definido na Figura 1.
+
+Qt I  NC  100 NC T PF
+Onde: INC = Índice de não-conformidades com requisitos; QtNC = Quantidade de não-conformidades aferidas; TPF = Tamanho do serviço, em pontos de função. I Desejável: 0% (zero por cento) Nível mínimo de serviço NC INC Aceitável: até 10% (dez por cento) exigido INC Inaceitável: acima de 10% (dez por cento) INC Desejável: nenhuma Sanções INC Aceitável: advertência INC Inaceitável: glosa de 2% (dois por cento) no valor da OS correspondente. Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e Forma de Auditoria níveis de serviços prestados. Fórmula de cálculo
+
+Indicador no 3
+Descrição do indicador Aferição
+
+Erros de Operação (EO)
+Mede as falhas ou funcionamentos irregulares identificados na operação normal do produto. Pela Contratante, no passo P.7 do fluxo funcional da OS definido na Figura 1.
+
+Qt I  EO  100 EO T PF
+Onde: IEO = Índice de erros de operação; QtEO = Quantidade de erros de operação encontrados; TPF = Tamanho do serviço, em pontos de função. I Desejável: 0% (zero por cento) Nível mínimo de serviço EO IEO Aceitável: até 10% (dez por cento) exigido IEO Inaceitável: acima de 10% (dez por cento) IEO Desejável: nenhuma IEO Aceitável: advertência Penalidades IEO Inaceitável: glosa de 2% (dois por cento) no valor da OS correspondente, a título de compensação à Contratante pelo retrabalho na atividade de homologação. Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e Forma de Auditoria níveis de serviços prestados. Fórmula de cálculo
+
+Indicador no 4
+Descrição do indicador Aferição
+
+Reincidências de não conformidade (RN)
+Mede a quantidade de vezes que uma OS retorna ao Contratante para ajustes de não conformidades dos indicadores 2 (NC) e 3 (EO), durante o processo de homologação. Pela Contratante, nos passos P.7 do fluxo funcional de execução da OS definido 51
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+na Figura 1.
+
+IRNQt RANC
+Onde: IRN = Índice de reincidências de não conformidade; Fórmula de cálculo QtRANC = Quantidade de vezes que a OS é retornada à Contratada para ajustes de não conformidades (decisão após P.7 do fluxo funcional de execução da OS é NÃO) I Desejável: 0 (zero) Nível mínimo de serviço RN IRN Aceitável: 1 (uma) exigido IRN Inaceitável: acima de 1 (uma) IRN Desejável: nenhuma IRN Aceitável: advertência Sanções IRN Indesejável: glosa de 2% (dois por cento) no valor da OS correspondente, a título de compensação à Contratante pelo retrabalho na atividade de homologação.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+52
+
+29/04/04 à 07/05/200 4.
+
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+ANEXO II DO TERMO DE REFERÊNCIA
+MODELO DE ATESTADO DE CAPACIDADE TÉCNICA
+
+O(a) Sr(a) [nome do(a) responsável], CPF [número do CPF do responsável], cargo [cargo que ocupa], na [Nome (Razão Social) da Empresa Contratante], CNPJ [número do CNPJ da Contratante], endereço [endereço completo], atesta, sob as penas da Lei, que a empresa [Nome (Razão Social) da Empresa Contratada], CNPJ [número do CNPJ da Contratada], com sede à [endereço completo da Contratada], mantém(manteve) com esta instituição contrato de prestação de serviços em Tecnologia da Informação com [descrição das características do contrato], tendo prestado de forma satisfatória, serviços na quantidade de [quantidade] Pontos de Função na tecnologia [descrição da tecnologia], abrangendo todas as fases do ciclo de vida do processo de desenvolvimento de software: levantamento de necessidades, especificação de requisitos e prototipação, projeto e análise, construção e testes unitários e integrados. [Local e data da emissão do Atestado]
+
+[Assinatura do responsável pela emissão do Atestado, com nome, cargo, telefone e e-mail institucional para contato.] [Apresentar cópia de documento de identidade do emitente para autenticação da assinatura.]
+
+Observações:  é obrigatório anexar ao atestado de capacidade técnica cópia do contrato que originou a prestação do serviço prestado;  pode ser anexado outro documento, relacionado ao contrato, que comprove a quantidade de pontos de função praticada bem como a respectiva tecnologia;  não serão aceitos atestados que descrevam tecnologias distintas de Ruby on Rails.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+53
+
+29/04/04 à 07/05/200 4.
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+ANEXO III DO TERMO DE REFERÊNCIA MODELOS DE PLANILHAS PARA CONTAGEM DE PONTOS DE FUNÇÃO
+Planilha de Contagem de Serviços de Manutenção de natureza corretiva e evolutiva.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+54
+
+29/04/04 à 07/05/200 4.
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+PREGÃO ELETRÔNICO Nº 19/2011
+ANEXO II DO EDITAL ­ MODELO DE PROPOSTA DE PREÇOS
+Item Descrição do Serviço Quantidade Estimada Preço Preço Total
+
+( U n i d )
+
+1
+
+Serviços de manutenção de sistemas com
+
+750 PF t e c n o l o g i a R u b y o n R a i l s .
+
+Preço Unitário por extenso: Preço Total por extenso:
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+55
+
+Prazo de validade: (não inferior a 60 (sessenta) dias corridos, a contar da data de sua apresentação); Composição dos preços: Nos preços propostos acima estão incluídos todas as despesas, frete, tributos e demais encargos de qualquer natureza incidentes sobre o objeto deste Pregão. Esta empresa declara estar ciente de que a apresentação da presente proposta implica na plena aceitação das condições estabelecidas no Edital e seus Anexos.
+
+(Local e data)
+
+(Assinatura do Representante Legal, com NOME COMPLETO)
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+56
+
+29/04/04 à 07/05/200 4.
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+PREGÃO ELETRÔNICO Nº 19/2011
+ANEXO III DO EDITAL ­ MINUTA DO CONTRATO
+CONTRATO N.º ...../2012 QUE ENTRE SI CELEBRAM SUPERINTENDÊNCIA DO
+
+DESENVOLVIMENTO DO NORDESTE SUDENE E A EMPRESA..............................,
+NA FORMA ABAIXO INDICADA.
+
+A SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE, autarquia federal, aqui designada CONTRATANTE, CNPJ no 09.263.130/0001-91 neste ato representada por seu Superintendente .........................................., CPF nº ........................., Identidade nº ............. SSP/..., residente e domiciliado ............................., no uso das competências delegadas através da ...................................... e a empresa ..............................., CNPJ nº ...................., estabelecida na ............................., neste ato representada por ............................, RG nº ......................., CPF nº ....................., residente e domiciliado ............................., doravante denominada apenas CONTRATADA, tendo em vista o que consta no Processo nº .................................. e em observância ao disposto nos termos da Lei nº 10.520, de 17 de julho de 2002; do Decreto nº 3.555/00 e alterações posteriores; do Decreto nº 5.450/05; da Lei Complementar nº 123/06; do Decreto nº 6.204/07, pela Lei nº 8.248/91 e alterações posteriores e subsidiariamente da Lei nº 8.666/93 e alterações posteriores, resolvem celebrar o presente Contrato, a ser executado sob a forma de execução indireta, mediante as cláusulas e condições seguintes:
+
+CLÁUSULA PRIMEIRA - DO OBJETO O Contrato tem por objeto a contratação de empresa para prestação de serviços técnicos especializados em manutenção de sistemas, na Área de Tecnologia da Informação, de modo a atender às necessidades da CONTRATANTE, nos termos e condições constantes neste Contrato e no Termo de Referência, Anexo I, do Edital de Pregão nº. CLÁUSULA SEGUNDA ­ DA VINCULAÇÃO Este Contrato guarda consonância com as normas contidas na Lei nº 8.666/93, em sua versão atualizada, ao Edital do Pregão Eletrônico nº ......./2011 e seus Anexos, ao Termo de Referência, à Proposta de Preços da CONTRATADA, à Nota de Empenho e demais documentos que compõem o Processo supramencionado que, independentemente de transcrição, fazem parte integrante e complementar deste Instrumento.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+57
+
+CLÁUSULA TERCEIRA - DAS OBRIGAÇÕES DA CONTRATANTE São obrigações da CONTRATANTE, sem prejuízo das demais disposições insertas no Termo de Referência:
+1. Supervisionar os serviços objeto do contrato, exigindo presteza na execução e correção das falhas eventualmente detectadas; 2. Permitir o acesso ao local da prestação dos serviços do pessoal da CONTRATADA, necessários à execução do serviço; 3. Prestar à CONTRATADA, em tempo hábil, as informações eventualmente necessárias à execução dos serviços. 4. Encaminhar toda a documentação necessária para a precisa especificação dos requisitos, na emissão das Ordens de Serviço (O.S.). 5. Manter pessoal técnico especializado para prestar esclarecimentos sobre os processos de negócio e requisitos das Ordens de Serviço (O.S.) emitidas. 6. Efetuar a homologação, dar aceite definitivo e pagar os serviços nos prazos estabelecidos no presente termo. 7. Conceder, quando necessário para a execução dos serviços relacionados ao presente Contrato, acesso dos prepostos da Contratada ao ambiente e instalações da CONTRATANTE.
+
+CLÁUSULA QUARTA - DAS OBRIGAÇÕES DA CONTRATADA São obrigações da CONTRATADA, sem prejuízo das demais obrigações e responsabilidades insertas no Termo de Referência:
+1. Tomar todas as providências necessárias à fiel execução dos serviços objeto do contrato; 2. Manter, durante o período de vigência do contrato, todas as condições de habilitação e qualificação exigidas na licitação; 3. Promover a prestação dos serviços dentro dos parâmetros e rotinas estabelecidos, em observância às normas legais e regulamentares aplicáveis e às recomendações aceitas pela boa técnica; 4. Prestar todos os esclarecimentos que lhe forem solicitados pela CONTRATANTE, atendendo prontamente a quaisquer reclamações; 5. Responder integralmente pelos danos causados, direta ou indiretamente, ao patrimônio da União em decorrência de ação ou omissão de seus empregados ou prepostos, não se excluindo ou reduzindo essa responsabilidade em razão da fiscalização ou do acompanhamento realizado pela CONTRATANTE; 6. Arcar com os ônus resultantes de quaisquer ações, demandas, custos e despesas decorrentes de contravenção, seja por culpa sua ou de quaisquer de seus empregados ou prepostos, obrigando-se, outrossim, a quaisquer responsabilidades decorrentes de ações judiciais ou extrajudiciais de terceiros, que lhe venham a ser exigidas por força da lei, ligadas ao cumprimento do contrato a ser firmado; 7. Assumir a responsabilidade por todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+58
+
+própria, vez que os seus empregados não manterão nenhum vínculo empregatício com a CONTRATANTE;
+8. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes de trabalho, quando, em ocorrência da espécie, forem vítimas os seus empregados quando da prestação dos serviços ou em conexão com eles, ainda que acontecido em dependência da CONTRATANTE, inclusive por danos causados a terceiros; 9. Assumir todos os encargos de possível demanda trabalhista, cível ou penal, relacionados à prestação dos serviços, originariamente ou vinculada por prevenção, conexão ou contingência; 10. Aceitar, nas mesmas condições do ajuste, os acréscimos ou supressões que se fizerem nos serviços, até 25% (vinte e cinco por cento) do valor atualizado do contrato. 11. Alocar Preposto, com experiência em gerenciamento de projetos de manutenção de sistemas, para exercer as seguintes atribuições: receber serviços, aceitar os serviços demandados, participar de reuniões, entregar produtos, assinar documentos, apresentar relatórios de progresso e de níveis de serviço e pré-faturas e efetuar quaisquer atividades relacionadas com a gestão do presente contrato, se apresentando na sede da Contratante sempre que convocado. 12. Comprovar que a contagem de Pontos de Função executada em cada O.S. foi realizada por Especialista em Métricas, com certificação CFPS, provida pelo IFPUG (International Function Point Users Group ­ www.ifpug.org) e experiência mínima comprovada de 12 (doze) meses na técnica de Análise de Pontos de Função, utilizando a metodologia descrita na versão 4.2.1 do Manual de Práticas de Contagens por Pontos de Função (Function Point Counting Practices Manual Release 4.2.1), publicado pelo IFPUG. 13. Garantir a execução de serviços e entrega dos produtos respeitando as especificações, padrões de qualidade, prazos e níveis de serviço definidos no Termo de Referência, para tanto, manter equipe adequada e qualificada a prestar os serviços sob sua responsabilidade. 14. Manter a mais absoluta confidencialidade a respeito de quaisquer informações, dados, processos, fórmulas, códigos, cadastros, fluxogramas, diagramas lógicos, dispositivos, modelos ou outros materiais de propriedade da CONTRATANTE, aos quais tiver acesso em decorrência da prestação de serviços relacionados ao Edital/Contrato, ficando terminantemente proibida de fazer uso ou revelação destes, sob qualquer justificativa. 15. Concluir a fase de transição (startup) e efetivamente iniciar os serviços de atendimento às Ordens de Serviço (O.S.) previstas no Edital/Contrato no prazo máximo de 30 (trinta) dias corridos, a contar da data de assinatura do contrato. 16. Apresentar à CONTRATANTE, ao final da fase de transição (startup), Plano de trabalho e gerenciamento do serviço, papéis, responsabilidades, produtos gerados e prazos, em consonância com as especificações do Edital.
+
+CLÁUSULA QUINTA ­ DO LOCAL, DO PRAZO DE INÍCIO DA EXECUÇÃO E DAS ESPECIFICAÇÕES DOS SERVIÇOS Os serviços devem ser executados nas instalações da CONTRATADA, que deve alocar Preposto para se relacionar com a CONTRATANTE e cumprir as atribuições previstas no Termo de Referência/Contrato. SUBCLÁUSULA PRIMEIRA - Excepcionalmente, a critério da CONTRATANTE, os serviços podem ser executados nas dependências da CONTRATANTE, em ambiente específico para este fim.
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+59
+
+SUBCLÁUSULA SEGUNDA - Com o objetivo de viabilizar melhor acompanhamento, monitoração e comunicação entre as partes, as instalações onde ficará alocada a equipe de técnicos que implementam as atividades previstas no Edital devem estar localizadas na Cidade de Recife-PE. SUBCLÁUSULA TERCEIRA - O início da execução dos serviços dar-se-á imediatamente após a assinatura do Contrato, de acordo com a demanda de OS emitida pela área técnica. SUBCLÁUSULA QUARTA - Na prestação dos serviços deverão ser observadas as especificações técnicas/obrigações descritas nos itens do Termo de Referência e detalhamento dos serviços descritos no Anexo I do Termo de Referência.
+
+CLÁUSULA SEXTA - DA GARANTIA CONTRATUAL A CONTRATADA deverá apresentar à CONTRATANTE, no prazo de 10 (dez) dias úteis, contados da data da assinatura do contrato, comprovante de garantia, no valor correspondente a 3% (três por cento) do valor total do contrato, cabendo-lhe optar por uma das modalidades de garantia prevista no art. 56, § 1º da Lei nº 8.666/93. SUBCLÁUSULA PRIMEIRA - Para a garantia do contrato, caso a CONTRATADA opte por apresentar títulos da dívida pública, os mesmos deverão ter valor de mercado compatível com o valor a ser garantido no contrato, preferencialmente em consonância com as espécies recomendadas pelo Governo Federal, como aquelas previstas no art. 2º, da Lei nº 10.179, de 06 de fevereiro de 2001. SUBCLÁUSULA SEGUNDA - Caso a CONTRATADA opte pela caução em dinheiro, deverá providenciar o depósito junto à Caixa Econômica Federal, nominal à Superintendência do Desenvolvimento do Nordeste, para os fins específicos a que se destina, sendo o recibo de depósito o único meio hábil de comprovação desta exigência. SUBCLÁUSULA TERCEIRA - A CONTRATANTE fica autorizada a utilizar a garantia para corrigir quaisquer imperfeições na execução do objeto do contrato ou para reparar danos decorrentes da ação ou omissão da CONTRATADA, de seu preposto ou de quem em seu nome agir. SUBCLÁUSULA QUARTA - A autorização contida na subcláusula anterior é extensiva aos casos de multas aplicadas depois de esgotado o prazo recursal. SUBCLÁUSULA QUINTA - A CONTRATADA obriga-se a repor, no prazo máximo de 48 (quarenta e oito) horas, o valor da garantia que vier a ser utilizado pela CONTRATANTE. SUBCLÁUSULA SEXTA - A garantia prestada será retida definitivamente, integralmente ou pelo saldo que apresentar, no caso de rescisão por culpa da CONTRATADA, sem prejuízo das penalidades cabíveis. SUBCLÁUSULA SÉTIMA - A garantia será restituída automaticamente, ou por solicitação, ao final da vigência do contrato, somente após o integral cumprimento de todas as obrigações contratuais, inclusive recolhimento de multas e ressarcimento de eventuais prejuízos causados à CONTRATANTE ou a terceiros durante a execução do objeto do contrato. SUBCLÁUSULA OITAVA - Caso ocorra a prorrogação da vigência do contrato, observadas as disposições constantes no art. 57, da Lei nº 8.666/1993, a CONTRATADA deverá, a cada celebração de termo aditivo, providenciar a devida renovação da garantia prestada, tomando-se por base o valor atualizado do contrato.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+60
+
+CLÁUSULA SÉTIMA - DO PREÇO E DO REAJUSTE A CONTRATANTE pagará à CONTRATADA, pela prestação dos serviços, de acordo com a proposta comercial da CONTRATADA, o preço global de R$ ---------------- (---------------------). SUBCLÁUSULA PRIMEIRA ­ O preço ofertado na proposta da CONTRATADA será fixo e irreajustável por um período de 12 (doze) meses, quando então se promoverá a sua correção de acordo com a variação do Índice de Preços ao Consumidor Amplo ­ IPCA, em conformidade com a legislação em vigor, tomando-se por base o índice vigente no mês de apresentação da proposta ou do orçamento a que essa se referir. SUBCLÁUSULA SEGUNDA ­ Os preços ajustados já levam em conta todas e quaisquer despesas incidentes na prestação dos serviços contratados, tais como serviços de frete, tributos, transporte, alimentação, instalação, desinstalação e reinstalação de componentes, assistência técnica. SUBCLÁUSULA TERCEIRA - O preço ajustado também poderá sofrer correção desde que reste comprovada a ocorrência de quaisquer das hipóteses previstas na alínea "d", do inciso II, do art. 65, da Lei nº 8.666/93. CLÁUSULA OITAVA ­ DA GARANTIA DOS PRODUTOS/SERVIÇOS
+
+Os produtos e serviços decorrentes da presente contratação deverão ter garantia de até 90 (noventa) dias, após o final de contrato, neste período a CONTRATADA corrigirá os defeitos identificados sem custos para a CONTRATANTE.
+SUBCLÁUSULA ÚNICA - São considerados defeitos as implementações que estejam em desacordo com os requisitos estabelecidos ou com as especificações do sistema e as falhas ou funcionamentos irregulares identificados na operação normal do produto. CLÁUSULA NONA ­ DA DOTAÇÃO ORÇAMENTÁRIA As despesas decorrentes da presente contratação serão programadas em dotação orçamentária própria, prevista no Orçamento da União para o exercício de 2011, na classificação abaixo: PROGRAMA DE TRABALHO: 04.122.0750.2000.0001 NATUREZA DE DESPESA: 44.90.39 NOTA DE EMPENHO: EMITIDA EM: VALOR:
+
+CLÁUSULA DÉCIMA - DO PAGAMENTO O pagamento será efetuado à CONTRATADA, mensalmente, após o aceite definitivo da Ordem de Serviços (O.S.), conforme especificado o item 7.1 do Anexo I do Termo de Referência. Nas Notas Fiscais/Faturas ­ conterá o endereço, o CNPJ, o número
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+61
+
+da Nota de empenho, os números do Banco, da Agência e da Conta Corrente da empresa, a descrição clara do objeto da contratação ­ em moeda corrente nacional, por intermédio da Ordem Bancária e de acordo com as condições constantes na proposta da empresa e aceitas pela CONTRATANTE. SUBCLÁUSULA PRIMEIRA - Para execução do pagamento, a CONTRATADA deverá fazer constar como beneficiário/cliente da Nota Fiscal/Fatura correspondente, emitida sem rasuras, a Superintendência do Desenvolvimento do Nordeste, CNPJ nº 09.263.130/0001-91.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+62
+
+SUBCLÁUSULA SEGUNDA - Caso a CONTRATADA seja optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas de Pequeno Porte ­ SIMPLES, a mesma deverá apresentar, juntamente com a Nota Fiscal/Fatura, a devida comprovação, a fim de evitar a retenção na fonte dos tributos e contribuições, conforme legislação em vigor. SUBCLAÚSULA TERCEIRA - A Nota Fiscal/Fatura correspondente será examinada diretamente pelo Fiscal designado pela CONTRATANTE, o qual somente atestará prestação dos serviços e liberará a referida Nota Fiscal/Fatura para pagamento quando cumpridas, pela CONTRATADA, todas as condições pactuadas e legais. SUBCLÁUSULA QUARTA - Havendo erro na Nota Fiscal/Fatura ou circunstância que impeça a liquidação da despesa, aquela será devolvida pelo Fiscal à CONTRATADA e o pagamento ficará pendente até que a mesma providencie as medidas saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a regularização da situação ou reapresentação do documento fiscal, não acarretando qualquer ônus para a CONTRATANTE. SUBCLÁUSULA QUINTA - No caso de eventual atraso de pagamento, e mediante pedido da CONTRATADA, o valor devido será atualizado financeiramente, desde a data a que o mesmo se referia até a data do efetivo pagamento, pelo Índice de Preços ao Consumidor Amplo ­ IPCA, mediante aplicação da seguinte fórmula: AF = [(1 + IPCA/100)N/30 ­1] x VP, onde: AF = atualização financeira; IPCA = percentual atribuído ao Índice de Preços ao Consumidor Amplo, com vigência a partir da data do adimplemento da etapa; N = número de dias entre a data do adimplemento da etapa e a do efetivo pagamento; VP = valor da etapa a ser paga, igual ao principal mais o reajuste. SUBCLÁUSULA SEXTA - No caso de incorreção nos documentos apresentados, inclusive na Nota
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+63
+
+Fiscal/Fatura, serão estes restituídos à CONTRATADA para as correções solicitadas, não respondendo a CONTRATANTE por quaisquer encargos resultantes de atrasos na liquidação dos pagamentos correspondentes.
+
+CLÁUSULA DÉCIMA PRIMEIRA - DA VIGÊNCIA O contrato terá vigência de 12 (doze) meses, a contar da data de sua assinatura, podendo, no interesse da administração, ser prorrogado mediante Termo Aditivo, observado o limite de 48 (quarenta e oito) meses, conforme disposto no inciso IV, do art. 57, da Lei nº 8.666/93, com suas posteriores alterações. CLÁUSULA DÉCIMA SEGUNDA ­ DA FISCALIZAÇÃO O acompanhamento e a fiscalização do objeto do contrato serão exercidos por meio de um representante (denominado Fiscal) e um substituto, designados pela CONTRATANTE, aos quais compete acompanhar, fiscalizar, conferir e avaliar a execução dos serviços, bem como dirimir e desembaraçar quaisquer dúvidas e pendências que surgirem, determinando o que for necessário à regularização das faltas, falhas, problemas ou defeitos observados, e os quais de tudo darão ciência à CONTRATADA, conforme determina o art. 67, da Lei nº 8.666/1993, e suas alterações. SUBCLÁUSULA PRIMEIRA - Não obstante ser a CONTRATADA a única e exclusiva responsável pela execução de todos os serviços, a CONTRATANTE reserva-se o direito de, sem que de qualquer forma restrinja a plenitude dessa responsabilidade, exercer a mais ampla e completa fiscalização do Contrato. SUBCLÁUSULA SEGUNDA - Cabe à CONTRATADA atender prontamente e dentro do prazo estipulado quaisquer exigências do Fiscal ou do substituto inerentes ao contrato, sem que disso decorra qualquer ônus extra para a CONTRATANTE, não implicando essa atividade de acompanhamento e fiscalização qualquer exclusão ou redução da responsabilidade da CONTRATADA, que é total e irrestrita em relação aos serviços contratados, inclusive perante terceiros, respondendo a mesma por qualquer falta, falha, problema, irregularidade ou desconformidade observada na execução do Contrato. SUBCLÁUSULA TERCEIRA - A atividade de fiscalização não resultará, tampouco, e em nenhuma hipótese, em co-responsabilidade da CONTRATANTE ou de seus agentes, prepostos e/ou assistentes. SUBCLÁUSULA QUARTA - Os equipamentos, ferramentas e materiais utilizados, bem como o fornecimento dos equipamentos e a prestação dos serviços contratados, deverão estar rigorosamente dentro das normas vigentes e das especificações estabelecidas pelos órgãos competentes e pela CONTRATANTE, sendo que a inobservância desta condição implicará a recusa dos mesmos, bem como o seu devido refazimento e/ou adequação, sem que caiba à CONTRATADA qualquer tipo de reclamação ou indenização.
+
+SUBCLÁUSULA QUINTA - As decisões e providências que ultrapassem a competência do Fiscal do Contrato serão encaminhadas à autoridade competente da CONTRATANTE para adoção das medidas convenientes, consoante disposto no § 2º, do art. 67, da Lei nº. 8.666/93.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+64
+
+CLÁUSULA DÉCIMA TERCEIRA ­ DAS SANÇÕES ADMINISTRATIVAS Se, na execução do objeto, ficar comprovada a existência de irregularidade ou ocorrer inadimplemento contratual pelo qual possa ser responsabilizada a CONTRATADA, esta, sem prejuízo das sanções previstas nos arts. 86 a 88, da Lei nº 8.666/93, poderá sofrer as seguintes penalidades ou sanções: a) advertência por escrito; b) multa de 10% (dez por cento), calculada sobre o valor total da Contratação devidamente atualizado, sem prejuízo da aplicação de outras sanções previstas no art. 28, do Decreto nº 5.450/2005, na hipótese de recusa injustificada da licitante vencedora em celebrar o Contrato, no prazo máximo de 05 (cinco) dias úteis, após regularmente convocada, caracterizando inexecução total ou parcial das obrigações acordadas;
+
+o valor total da Contratação quando for constatado o descumprimento de qualquer obrigação prevista no Contrato, ressalvadas aquelas obrigações para as quais tenham sido fixadas penalidades específicas;
+
+ção do serviços, multa de 0,5% (zero vírgula cinco por cento), por dia de atraso, até o limite do valor total da contratação, nos termos do art. 412 do Código Civil, incidente sobre o valor total da contratação. A aplicação da multa de que trata esta alínea não impede a rescisão/anulação unilateral do contrato;
+
+o valor total da contratação, nos casos de rescisão contratual por culpa da CONTRATADA. SUBCLÁUSULA PRIMEIRA - A aplicação das sanções previstas neste contrato não exclui a possibilidade de aplicação de outras, previstas na Lei nº 8.666/1993, inclusive a responsabilização da CONTRATADA por eventuais perdas e danos causados à CONTRATANTE. SUBCLÁUSULA SEGUNDA - A multa deverá ser recolhida no prazo máximo de 10 (dez) dias corridos, a contar da data do recebimento da comunicação enviada pela CONTRATANTE. SUBCLÁUSULA TERCEIRA - O valor da multa poderá ser descontado da Nota Fiscal/Fatura ou de crédito existente na CONTRATANTE, em favor da CONTRATADA, sendo que, caso o valor da multa seja superior ao crédito existente, a diferença será cobrada na forma da lei. SUBCLÁUSULA QUARTA - As sanções previstas neste contrato são independentes entre si, podendo ser aplicadas de forma isolada ou cumulativamente, sem prejuízo de outras medidas cabíveis. SUBCLÁUSULA QUINTA - Não será aplicada multa se, justificada e comprovadamente, o atraso na execução dos serviços advier de caso fortuito ou de força maior. SUBCLÁUSULA SEXTA - A atuação da CONTRATADA no cumprimento das obrigações assumidas será registrada no Sistema Unificado de Cadastro de Fornecedores ­ SICAF, conforme determina o § 2º, do art. 36, da Lei nº 8.666/1993. SUBCLÁUSULA SÉTIMA - Em qualquer hipótese de aplicação de sanções, serão assegurados à CONTRATADA o contraditório e a ampla defesa. CLÁUSULA DÉCIMA QUARTA - DAS ALTERAÇÕES CONTRATUAIS Este Contrato poderá ser alterado, com as devidas justificativas, nos casos previstos no art. 65 da Lei n.º 8.666/1993, sempre por meio de Termos Aditivos. CLÁUSULA DÉCIMA QUINTA ­ DA INEXECUÇÃO E RESCISÃO DO CONTRATO A inexecução total ou parcial do contrato ensejará sua rescisão, com as consequências contratuais, de acordo com o disposto nos Artigos 77 a 80 da Lei n° 8.666/93 e alterações posteriores. SUBCLÁUSULA PRIMEIRA - A rescisão deste contrato poderá ser:
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+65
+
+I- determinada por ato unilateral e escrito da Administração, nos casos enumerados nos incisos I a XII e XVII do artigo 78 da Lei mencionada, notificando-se a contratada com antecedência mínima de 30 (trinta) dias, exceto quanto ao inciso XVII; II- amigável, por acordo entre as partes, reduzida a termo no processo, desde que haja conveniência para a Administração; III- judicial, nos termos da legislação. SUBCLÁUSULA SEGUNDA - A rescisão administrativa ou amigável deverá ser precedida de autorização escrita e fundamentada da autoridade competente. SUBCLÁUSULA TERCEIRA - Os casos da rescisão contratual serão formalmente motivados nos autos, assegurado o contraditório e a ampla defesa. SUBCLÁUSULA QUARTA - Conforme o disposto no Inciso IX, do art. 55, da Lei 8666/93, a CONTRATADA reconhece os direitos da CONTRATANTE, em caso de rescisão administrativa prevista no art. 77, do referido Diploma Legal. CLÁUSULA DÉCIMA SEXTA - DA PUBLICAÇÃO Incumbirá à CONTRATANTE providenciar a publicação deste instrumento de Contrato, por extrato, no Diário Oficial da União, até o quinto dia útil do mês seguinte ao de sua assinatura, para ocorrer no prazo de 20 dias daquela data.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+66
+
+CLÁUSULA DÉCIMA SÉTIMA - DO FORO As questões decorrentes da execução deste Instrumento, que não possam ser dirimidas administrativamente, serão processadas e julgadas no Foro da Justiça Federal em Recife, Seção Judiciária de Pernambuco, nos termos do art. 109 da Constituição Federal. E por estarem, assim, justas e contratadas, assinam as partes o presente contrato em 02 (duas) vias de igual teor e forma e para os mesmos fins e efeitos de direito, juntamente com as 02 (duas) testemunhas abaixo nomeadas.
+
+Recife,
+
+de
+
+de 2011.
+
+NIVALDO VIEIRA DE ANDRADE Coordenador Geral de Administração e Finanças
+
+Representante da CONTRATADA
+
+TESTEMUNHAS:
+
+Nome: CPF: Nome: CPF:
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+67
+
+29/04/04 à 07/05/200 4.
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA INTEGRAÇÃO NACIONAL SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE
+
+PREGÃO ELETRÔNICO Nº 19/2011
+ANEXO IV DO EDITAL ­ MINUTA DE TERMO DE CONFIDENCIALIDADE DA INFORMAÇÃO
+A SUPERINTEDÊNCIA DO DESENVOLVIMENTO DO NORDESTE, com sede Recife-PE, inscrita no
+
+CNPJ sob o nº 09.263.130/0001-91, doravante denominado Sudene e NOME DA EMPRESA, pessoa jurídica com sede na ...., inscrita no CNPJ/MF sob o n.º ..., doravante denominada NOME DA EMPRESA e, sempre que em conjunto referidas como PARTES para efeitos deste TERMO DE CONFIDENCIALIDADE DA INFORMAÇÃO. CONSIDERANDO a exigência do Contrato SUDENE Nº ..., celebrado pela SUPERINTEDÊNCIA DO DESENVOLVIMENTO DO NORDESTE, inscrita no CNPJ sob o nº 09.263.130/0001-91, cujo objeto é a prestação de serviços técnicos para manutenção corretiva e evolutiva de Sistemas, de modo a permitir o seu pleno funcionamento, mediante condições estabelecidas pela Sudene; CONSIDERANDO a necessidade de regular o uso dos dados, regras de negócio, documentos, informações, sejam elas escritas ou verbais ou de qualquer outro modo apresentada, tangível ou intangível, entre outras, que a NOME DA EMPRESA tiver acesso em virtude da execução contratual; CONSIDERANDO a necessidade de manter sigilo e confidencialidade, sob pena de responsabilidade civil, penal e administrativa, sobre todo e qualquer assunto de interesse da Sudene de que a (NOME DA EMPRESA) tomar conhecimento em razão da execução do CONTRATO, respeitando todos os critérios estabelecidos aplicáveis às INFORMAÇÕES; A Empresa (inserir dados) firma o presente TERMO DE CONFIDENCIALIDADE DA INFORMAÇÃO mediante as cláusulas e condições a seguir: CLÁUSULA PRIMEIRA ­ DO OBJETO 1.1 O objeto deste TERMO é prover a necessária e adequada proteção às INFORMAÇÕES da Sudene, principalmente aquelas classificadas como CONFIDENCIAIS, em razão da execução do CONTRATO celebrado entre as PARTES. CLÁUSULA SEGUNDA - DAS INFORMAÇÕES CONFIDENCIAIS 2.1 As estipulações e obrigações constantes do presente instrumento serão aplicadas a todas e quaisquer INFORMAÇÕES reveladas pela Sudene; 2.2 A NOME DA EMPRESA se obriga a manter o mais absoluto sigilo e confidencialidade com relação a todas e quaisquer INFORMAÇÕES que venham a ser fornecidas pela Sudene, a partir da data de assinatura deste TERMO, devendo ser tratadas como INFORMAÇÕES CONFIDENCIAIS, salvo aquelas prévia e formalmente classificadas com tratamento diferenciado pela Sudene;
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+68
+
+2.3 NOME DA EMPRESA se obriga a não revelar, reproduzir, utilizar ou dar conhecimento, em hipótese alguma, a terceiros, bem como a não permitir que nenhum de seus diretores, empregados e/ou prepostos faça uso das INFORMAÇÕES da Sudene; 2.4 A Sudene, com base nos princípios instituídos na Segurança da Informação, zelará para que as INFORMAÇÕES que receber e tiver conhecimento sejam tratadas conforme a natureza de classificação informada pela NOME DA EMPRESA. CLÁUSULA TERCEIRA ­ DAS LIMITAÇÕES DA CONFIDENCIALIDADE 3.1 As obrigações constantes deste TERMO não serão aplicadas às INFORMAÇÕES que:
+
+3.1.1 Sejam comprovadamente de domínio público no momento da revelação ou após a revelação, exceto se isso ocorrer em decorrência de ato ou omissão das PARTES; 3.1.2 Tenham sido comprovadas e legitimamente recebidas de terceiros, estranhos ao presente TERMO; 3.1.3 Sejam reveladas em razão de requisição judicial ou outra determinação válida do Governo, somente até a extensão de tais ordens, desde que as PARTES cumpram qualquer medida de proteção pertinente e tenham sido notificadas sobre a existência de tal ordem, previamente e por escrito, dando a esta, na medida do possível, tempo hábil para pleitear medidas de proteção que julgar cabíveis. CLÁUSULA QUARTA ­ DAS OBRIGAÇÕES ADICIONAIS 4.1 A NOME DA EMPRESA se compromete a utilizar as INFORMAÇÕES reveladas exclusivamente para os propósitos da execução do CONTRATO; 4.2 A NOME DA EMPRESA se compromete a não efetuar qualquer cópia das INFORMAÇÕES sem o consentimento prévio e expresso da Sudene. O consentimento mencionado neste item, entretanto, será dispensado para cópias, reproduções ou duplicações para uso interno das PARTES; 4.3 A NOME DA EMPRESA se compromete a comprovar que seus diretores, empregados e/ou prepostos foram cientificados da existência deste TERMO e da natureza confidencial das INFORMAÇÕES da Sudene; 4.4 A NOME DA EMPRESA deve tomar todas as medidas necessárias à proteção das INFORMAÇÕES da Sudene, bem como evitar e prevenir a revelação a terceiros, exceto se devidamente autorizado por escrito pela Sudene; 4.5 Cada PARTE permanecerá como única proprietária de todas e quaisquer INFORMAÇÕES eventualmente reveladas à outra parte em função da execução do CONTRATO; 4.6 O presente TERMO não implica a concessão, pela parte reveladora à parte receptora, de nenhuma licença ou qualquer outro direito, explícito ou implícito, em relação a qualquer direito de patente, direito de edição ou qualquer outro direito relativo à propriedade intelectual. 4.6.1 Os produtos gerados na execução do CONTRATO, bem como as INFORMAÇÕES repassadas à NOME DA EMPRESA, são propriedade intelectual única e exclusiva da Sudene; 4.7 A NOME DA EMPRESA firmará acordos por escrito com seus empregados e consultores ligados direta ou indiretamente ao CONTRATO, cujos termos sejam suficientes a garantir o cumprimento de todas as disposições do presente instrumento; 4.8 A NOME DA EMPRESA obriga-se a não tomar qualquer medida com vistas a obter, para si ou para terceiros, os direitos de propriedade intelectual relativos aos produtos gerados e às INFORMAÇÕES que venham a ser reveladas durante a execução do CONTRATO; CLÁUSULA QUINTA ­ DO RETORNO DE INFORMAÇÕES 5.1 Todas as INFORMAÇÕES reveladas pelas PARTES permanecem como propriedade exclusiva da parte reveladora, devendo a esta retornar imediatamente assim que por ela requerido, bem como todas e quaisquer cópias eventualmente existentes.
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+69
+
+CLÁUSULA SEXTA ­ DA VIGÊNCIA 6.1 O presente TERMO tem natureza irrevogável e irretratável, permanecendo em vigor desde a data de sua assinatura até 5 (cinco) anos após o término do contrato. CLÁUSULA SÉTIMA ­ DAS PENALIDADES 7.1 A quebra do sigilo e/ou da confidencialidade, devidamente comprovada, possibilitará a imediata aplicação de penalidades previstas conforme disposições contratuais e legislações em vigor que tratam desse assunto, podendo até culminar na rescisão do CONTRATO firmado entre as PARTES. Neste caso, a NOME DA EMPRESA, estará sujeita, por ação ou omissão, ao pagamento ou recomposição de todas as perdas e danos sofridos pela Sudene, inclusive as de ordem moral, bem como as de responsabilidades civil e criminal, as quais serão apuradas em regular processo administrativo ou judicial. CLÁUSULA OITAVA - DAS DISPOSIÇÕES GERAIS 8.1 Este TERMO constitui vínculo indissociável ao CONTRATO nº ...., que é parte deste instrumento; e regulatória
+
+8.2 O presente TERMO constitui acordo entre as PARTES, relativamente ao tratamento de INFORMAÇÕES, principalmente as CONFIDENCIAIS, aplicando-se a todos e quaisquer acordos futuros, declarações, entendimentos e negociações escritas ou verbais, empreendidas pelas PARTES em ações feitas direta ou indiretamente; 8.3 Surgindo divergências quanto à interpretação do pactuado neste TERMO ou quanto à execução das obrigações dele decorrentes, ou constatando-se nele a existência de lacunas, solucionarão as PARTES tais divergências, de acordo com os princípios da legalidade, da equidade, da razoabilidade, da economicidade, da boa fé, e, as preencherão com estipulações que deverão corresponder e resguardar as INFORMAÇÕES da Sudene; 8.4 O disposto no presente TERMO prevalecerá sempre em caso de dúvida, salvo expressa determinação em contrário, sobre eventuais disposições constantes de outros instrumentos legais conexos relativos à confidencialidade de INFORMAÇÕES; 8.5 A omissão ou tolerância das PARTES, em exigir o estrito cumprimento das condições estabelecidas neste instrumento, não constituirá novação ou renúncia, nem afetará os direitos, que poderão ser exercidos a qualquer tempo. CLÁUSULA NONA - DO FORO 9.1 As questões decorrentes da execução deste Instrumento, que não possam ser dirimidas administrativamente, serão processadas e julgadas no Foro da Justiça Federal em Recife, Seção Judiciária de Pernambuco, nos termos do art. 109 da Constituição Federal. E, por assim estarem justas e estabelecidas as condições, é assinado o presente TERMO DE CONFIDENCIALIDADE DA INFORMAÇÃO, pela NOME DA EMPRESA, sendo em 2 (duas) vias de igual teor e um só efeito.
+
+Recife,
+
+de
+
+de 20__
+
+______________________________ Nome Diretor NOME DA EMPRESA
+
+C:\Users\rodrigo\Desktop\fabrica\sudene-19-2011.doc
+
+70
+
+

@@ -1,0 +1,586 @@
+BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S/A - BANDES CNPJ Nº 28.145.829/0001-00 CONCORRÊNCIA Nº 01/2010 PROCESSO Nº AD-45/2010 BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S/A - BANDES, instituição financeira de economia mista, constituída sob forma jurídica de sociedade anônima, com sede na Av. Princesa Isabel, 54, Ed. Caparaó, 12º andar, Centro, Vitória-ES, torna público que realizará licitação, nos termos da Lei 8.666/93 e alterações posteriores, para contratação de empresa para PRESTAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS, na modalidade CONCORRÊNCIA, do tipo TÉCNICA E PREÇO, sob o regime de execução indireta. A documentação e propostas serão recebidas até às 13h00min do dia 28/10/2010, com início da abertura dos envelopes às 13h15min, observadas as condições estabelecidas neste Edital e seus anexos. 1 OBJETO 1.1 Contratação de empresa especializada para PRESTAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS, conforme detalhamento no Anexo I do Edital - Objeto e Especificações Mínimas. Tal contrato poderá ser prorrogado na forma da Lei. 1.2 Os serviços serão contratados pelo período de 12 (doze) meses, podendo ser prorrogado, respeitado o prazo máximo de 60 (sessenta) meses previsto na legislação. NOTA: O edital poderá ser retirado no 11º andar do Ed. Caparaó, no horário entre 12h00 e 18h00, mediante comprovação, pela empresa interessada, do pagamento da taxa administrativa de R$ 10,00 (dez reais) a ser efetuado na Tesouraria, localizada no 4º andar do mesmo edifício. O funcionamento da Tesouraria é de 10h00 às 16h00.
+
+2 RECURSOS FINANCEIROS 2.1 As despesas decorrentes da contratação dos serviços objeto desta licitação correrão à conta de recursos próprios do BANDES, independentemente de previsão orçamentária plurianual.
+
+3 CONDIÇÕES DE PARTICIPAÇÃO 3.1 Poderá participar desta Licitação qualquer empresa que desenvolva as atividades objeto desta licitação e que atenda às exigências deste Edital. 3.2 Estará impedida de participar desta Licitação empresa ou grupo econômico do qual empregado ou membro dos órgãos da administração do BANDES seja sócio, detenha participação acionária ou participe de alguma forma de sua administração. 1
+
+3.3 Igualmente não poderá participar da Licitação empresa ou grupo econômico que esteja inadimplente com compromissos decorrentes de financiamentos concedidos pelo BANDES, ou que tenha sido penalizada com rescisão de contrato de fornecimento de bens ou prestação de serviços nos 02 (dois) anos anteriores à data prevista para a abertura da presente licitação. 3.4 Não serão admitidas nesta licitação empresas em regime de consórcio, nem a subcontratação parcial ou total dos serviços. 3.5 Os impedimentos porventura existentes deverão ser declarados pela empresa proponente, sob pena de responsabilidades administrativas e penais cabíveis, conforme legislação vigente.
+
+4 DAS PROPOSTAS 4.1 As propostas visando suprir o objeto desta licitação deverão ser apresentadas pelas licitantes em 03 (três) envelopes, conforme disposto no item 8 deste edital, a saber: 4.1.1 Envelope 01 ­ Documentação de HABILITAÇÃO. 4.1.2 Envelope 02 ­ Documentação contendo a PROPOSTA TÉCNICA. 4.1.3 Envelope 03 ­ Documentação contendo a PROPOSTA DE PREÇOS.
+
+5 HABILITAÇÃO ­ ENVELOPE Nº 01 5.1 A Licitante interessada, para habilitar-se a participar do presente certame, apresentará a documentação a seguir relacionada: 5.1.1 Habilitação Jurídica: 5.1.1.1 Registro Comercial, no caso de empresa individual; 5.1.1.2 Ato constitutivo, Estatuto ou Contrato Social em vigor, devidamente registrado, em se tratando de sociedades comerciais, e, no caso de sociedades por ações, acompanhado de documentos de eleição de seus administradores; 5.1.1.3 Inscrição do ato constitutivo, no caso de sociedades civis, acompanhada de prova de diretoria em exercício; 5.1.1.4 Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir; 5.1.2 Habilitação Fiscal: 5.1.2.1 Prova de Inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ); 2
+
+5.1.2.2 Prova de regularidade perante a Fazenda Pública Federal e Dívida Ativa da União, expedida mediante certidão unificada em conformidade com o Decreto nº 5.512, de 15.08.2005; 5.1.2.3 Prova de regularidade perante a Fazenda Pública Estadual emitida pelo Estado da Federação do domicílio ou da sede da Licitante; 5.1.2.4 Prova de regularidade perante a Fazenda Pública Municipal emitida pelo Município relativo ao domicílio ou sede da Licitante, pertinente ao seu ramo de atividade e compatível com o objeto desta licitação, comprovando a regularidade perante a Fazenda Municipal; 5.1.2.5 Certificado de Regularidade de Situação do FGTS ­ CRF, emitido pela Caixa Econômica Federal, comprovando a regularidade perante o Fundo de Garantia por Tempo de Serviço; 5.1.2.6 Certidão Negativa de Débito ­ CND ou Certidão Positiva com efeitos de negativa, expedida pelo Instituto Nacional de Seguridade Social ­ INSS, comprovando a regularidade perante a Seguridade Social; 5.1.2.7 Declaração da licitante de que não possui em seu quadro de pessoal empregados menores de 14 (quatorze) anos em qualquer trabalho, salvo na condição de aprendiz, nos termos do inciso XXIII do art. 7º da Constituição Federal (Lei n.º 9.854/99); 5.1.3 Qualificação Econômico-Financeira: 5.1.3.1 Certidão Negativa de Pedido de Falência expedida pelo cartório distribuidor da sede da pessoa jurídica licitante, ou de Execução Patrimonial, expedida pelo Cartório do domicílio da pessoa física, emitida até 60 (sessenta) dias anteriores à data da entrega dos envelopes. a.1) Apresentar, também, Certidão da Corregedoria do Tribunal de Justiça, informando quais são os cartórios distribuidores da sede da licitante que são competentes para expedir as certidões acima; 5.1.3.2 Balanço patrimonial e demais demonstrações contábeis do último exercício social, já exigível e apresentado na forma da lei, vedada apresentação de balancetes ou balanços provisórios; 5.1.3.3 Índice de Liquidez Geral (LG), de Solvência Geral (SG) e de Liquidez Corrente (LC) igual ou maior que um ( = ou > 1), apurado através das seguintes fórmulas: LG = Ativo Circulante + Realizável a Longo Prazo / Passivo Circulante + Exigível a Longo Prazo; SG = Ativo Total / Passivo Circulante + Exigível a Longo Prazo; LC = Ativo Circulante / Passivo Circulante. 5.1.4 Qualificação técnica: 5.1.4.1 As comprovações abaixo relacionadas destinam-se a verificar a capacidade técnica da empresa em prestação de serviços de complexidade tecnológica e operacional equivalente ou superior, na forma da Lei . 5.1.4.2 Comprovação, mediante a apresentação de pelo menos 01 (um) atestado de capacidade técnica, fornecido por pessoa jurídica de direito 3
+
+público ou privado, de que a licitante presta ou prestou serviços de desenvolvimento e manutenção de sistemas, com boa qualidade e satisfatório desempenho utilizando todas as características abaixo:      arquitetura em 03 camadas; linguagem de programação Delphi versão 2006; banco de dados MS SQL Server 2005; servidor de transações Microsoft (MTS/COM+); middleware Midas;
+
+5.1.4.3 Comprovação, mediante a apresentação de pelo menos 01 (um) atestado de capacidade técnica, fornecido por pessoa jurídica de direito público ou privado, de que a licitante presta ou prestou serviços de desenvolvimento e manutenção de sistemas, com boa qualidade e satisfatório desempenho utilizando todas as características abaixo:         o padrão ASP.NET; interface WEB; servidor WEB Microsoft Windows Server 2003 ou superior; Internet Information Services 6 ou Superior; .NET Framework; utilizando Microsoft Windows Communication Foundation para comunicação entre as camadas de Controle e Modelo; utilizando a linguagem C# e banco de dados Microsoft SQL-Server 2005;
+
+5.1.4.4 A licitante deverá apresentar atestado(s), devidamente acompanhado do(s) contrato(s) emitidos(s) por empresa(s) de direito público ou privado, que comprove de maneira satisfatória a capacidade de prestação de serviços de desenvolvimento, implementação e manutenção de Sistemas de Informação utilizando a métrica de Análise de Pontos de Função (conforme IFPUG) como unidade de medida para subsidiar o planejamento, monitoramento, medição e remuneração dos serviços. 5.1.5 Os certificados e provas de regularidades acima serão supridos mediante certidões emitidas pelos respectivos órgãos ou obtidos através da internet (os da internet sujeitos a confirmação). Os demais documentos podem ser apresentados em cópia autenticada em cartório ou acompanhada do original para conferência pela CPL. 5.1.6 Certidões que não tragam expressamente o prazo de validade serão consideradas válidas pelo prazo de 90 (noventa) dias a contar da data de sua emissão. 5.1.7 A licitante regularmente cadastrada e habilitada no Sistema de Cadastro Unificado de Fornecedores ­ SICAF poderá apresentar o Certificado de Registro Cadastral, em substituição às documentações elencadas nos itens 5.1.1, 5.1.2 4
+
+exceto 5.1.2.7 e 5.1.3.2. Neste caso, o item 5.1.3.3 será avaliado a partir das informações econômico-financeiras contidas no SICAF. 6 PROPOSTA TÉCNICA ­ ENVELOPE Nº 02 6.1 Declaração da licitante de que possui pelo menos 20 (vinte) profissionais especializados disponíveis para prestação dos serviços objeto deste Edital, sendo: 6.1.1 3 (três) Analistas de Sistema com experiência em arquitetura em 03 camadas, linguagem de programação Delphi versão 2006, banco de dados MS SQL Server 2005, servidor de transações Microsoft (MTS/COM+) e middleware Midas; 6.1.2 3 (três) Analistas de Sistema com experiência utilizando linguagem de programação C# com banco de dados MS SQL Server 2005 em ambiente .Net (dotNet); 6.1.3 06 (seis) Programadores com experiência em arquitetura em 03 camadas, linguagem de programação Delphi versão 2006, banco de dados MS SQL Server 2005, servidor de transações Microsoft (MTS/COM+) e middleware Midas; 6.1.4 06 (seis) Programadores com experiência utilizando linguagem de programação C# com banco de dados MS SQL Server 2005 em ambiente .Net (dotNet); 6.1.5 01 (um) Administrador de Configurações de software; 6.1.6 01 (um) Administrador de Banco de Dados. 6.2 Currículos dos 20 (vinte) profissionais da empresa licitante que atendem o item 6.1 acima: 6.2.1 todos os profissionais acima deverão anexar cópias autenticadas dos respectivos Diplomas ou Certificados de Conclusão de curso (Superior ou Médio) em entidade de ensino reconhecida pelo MEC; 6.2.2 a experiência profissional para o cálculo da pontuação deverá ser comprovada através de cópia autenticada de pelo menos 01 (um) atestado fornecido por pessoa jurídica de direito público ou privado; 6.2.3 os profissionais relacionados deverão apresentar declaração de que não se apresentarão como pertencente ao quadro de qualquer outra empresa que participar neste processo licitatório; 6.3 Declaração da empresa licitante de que, se vencedora do processo licitatório, tem ciência de que, para a execução dos serviços, não poderá disponibilizar profissional não pertencente ao grupo apresentado conforme item 6.1 acima sem a prévia anuência por escrito do BANDES. 6.4 Declaração de possuir Capacidade Técnica de liberar, no mínimo: 6.4.1 1.000 (mil) PF/mês referente a desenvolvimento em arquitetura em 03 camadas, linguagem de programação Delphi versão 2006, banco de dados MS SQL Server 2005, servidor de transações Microsoft (MTS/COM+) e middleware Midas; 5
+
+6.4.2 1.000 (mil) PF/mês referente a desenvolvimento de sistema utilizando línguagem de programação C# com banco de dados MS SQL Server 2005 em ambiente .Net (dotNet); 6.5 Declaração de que todos os profissionais usarão: 6.5.1 Uniforme em cores diferentes dos padrões do BANDES; 6.5.2 Crachá contendo o logotipo da licitante, fotografia, nome, função, números dos principais documentos. 6.6 Os critérios de valorização (pontuação) da proposta técnica estão definidos no Anexo II Metodologia de Avaliação de Propostas. 6.7 Planilha de pontuação estimada pela licitante conforme anexo VII devidamente preenchida.
+
+7 PROPOSTA DE PREÇOS ­ ENVELOPE Nº 03 7.1 O Envelope nº 3 deverá conter a PROPOSTA DE PREÇOS da licitante para a execução dos serviços objeto deste edital, cujos valores serão expressos em real. A proposta deve discriminar o valor por Ponto de Função cobrado para Desenvolvimento de Sistemas em Delphi, o valor por Ponto de Função cobrado para Desenvolvimento de Sistemas em .Net, e a hora técnica para os serviços de Administração de Configurações de Software, Administração de Banco de Dados e Apoio Técnico, já incluídos todos os custos com pessoal, encargos sociais, impostos e taxas legais cabíveis, deslocamentos e estadas de pessoal, e outras despesas relacionadas com a realização dos serviços. A Proposta de preços seguirá o modelo apresentado na Tabela I:
+
+Tabela I Serviço 1 Desenvolvimento de Sistemas em Delphi 2 Desenvolvimento de Sistemas em .Net (dotNet) Administração de Configurações de Software, 3 Administração de Banco de Dados e Apoio Técnico Critério de Valor do PF de Aferição Desenvolvimento Por Ponto R$ de Função Por Ponto R$ de Função Por hora R$
+
+7.2 Os preços dos serviços de Manutenção não serão apresentados na proposta, uma vez que serão calculados de acordo com a Tabela II a seguir: 6
+
+Tabela II Serviço Critério de Aferição Por Ponto de Função Por Ponto de Função Valor do PF de Manutenção 0,35 do Valor do PF de Desenvolvimento Delphi 0,35 do Valor do PF de Desenvolvimento .Net (dotNet)
+
+1 Manutenção de Sistemas em Delphi Manutenção de Sistemas em .Net (dotNet)
+
+2
+
+7.3 As tabelas não representam quaisquer estimativas de volume de serviços. 7.4 Os critérios de valorização (pontuação) da PROPOSTA DE PREÇOS estão definidos no Anexo II Metodologia de Avaliação de Propostas. 7.5 Os preços ajustados são fixos, podendo ser reajustados ao final de cada ano contratual, com base na variação efetiva dos custos, apurada com base em Planilha de Custo e Formação de Preços, reajuste este limitado à variação do IPCA da FIPE, ocorrida entre o mês anterior ao da aplicação do reajuste e o do mesmo mês do ano anterior. 7.6 Não se admitirá proposta que apresente preços global ou unitários simbólicos, irrisórios ou de valor zero, incompatíveis com os preços dos insumos e salários de mercado, acrescidos dos respectivos encargos, conforme dispõe a Lei. 8 - ENTREGA E ABERTURA DOS ENVELOPES 8.1.1 Deverão ser entregues fechados e serem protocolados até o dia 28/10/2010, às 13:00 horas, no Protocolo Geral do BANDES, no térreo do Ed. Caparaó, na Av. Princesa Isabel, 54, Vitória-ES, contendo, em seu interior, os documentos conforme item 4 deste edital. Os envelopes constarão, em suas partes externas frontais, as identificações abaixo, mantendo sempre o padrão especificado a seguir:
+
+LICITAÇÃO
+BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S/A ­ BANDES CONCORRÊNCIA Nº 01/2010 RAZÃO SOCIAL E CNPJ DA EMPRESA LICITANTE ENVELOPE Nº 01 OU Nº 02 OU Nº 03 (DOCUMENTOS DE HABILITAÇÃO OU PROPOSTA TÉCNICA OU PROPOSTA DE PREÇOS)
+
+7
+
+8.1.2 ATENÇÃO: Todas as vezes que a licitante / interessada encaminhar correspondências referentes a documentação, propostas, cadastramentos, consultas, impugnações, recursos etc., deve adotar o padrão acima especificado. A expressão "LICITAÇÃO" deverá ser grafada de forma destacada, com fonte de, no mínimo, tamanho 30, e as demais informações em fonte tamanho 12, em negrito e moldura, conforme modelo acima. 8.2 Os envelopes de número 01 serão abertos no mesmo dia, a partir das 13 horas e 15 minutos, em sessão pública, no Auditório do BANDES, no 8º andar do Ed. Caparaó, no endereço do preâmbulo. Solicitamos a presença dos representantes das Licitantes, devidamente credenciados, para agilizarmos o processo de abertura e julgamento das propostas.
+
+9
+
+PROCESSAMENTO DA LICITAÇÃO 9.1 A CPL receberá do protocolo os envelopes das licitantes ainda lacrados e em sessão pública procederá à abertura dos envelopes. 9.2 Em seguida será dada vista dos documentos às licitantes para que procedam, se quiserem, ao seu exame e se utilizem de faculdades outras previstas em lei. 9.3 Todos os documentos e envelopes serão rubricados pelos representantes das licitantes presentes e pela CPL. 9.4 Concluída a fase de julgamento da Habilitação, a CPL em reunião previamente marcada e comunicada às licitantes procederá à abertura do envelope nº 2 das empresas habilitadas, sendo também devolvidos fechados, aos concorrentes inabilitados, os envelopes contendo as respectivas propostas técnicas e de preços. 9.5 Se todas as licitantes forem inabilitadas ou todas as propostas forem desclassificadas, a CPL poderá fixar às licitantes o prazo de 08 (oito) dias úteis para apresentação de nova documentação ou de outras propostas, excluídas as causas que ensejaram a inabilitação ou a desclassificação.
+
+10 CRITÉRIO DE JULGAMENTO 10.1 O critério de julgamento adotado pelo BANDES é o de TÉCNICA E PREÇO, atendidas as especificações do Edital, obedecendo a qualificação e classificação que se dará pela ordem decrescente das avaliações finais (AF) apuradas e aceitáveis pela CPL na forma prevista no Anexo II e que seja, ao final, a proposta que obtiver a maior avaliação final (AF).
+
+8
+
+11 RECURSOS 11.1 Os recursos em relação a esta licitação deverão ser dirigidos ao BANDES, por escrito, conforme art. 109, da Lei 8.666/93, de 21.06.93, somente sendo acolhidos quando de acordo com os termos daquele artigo. 11.2 Para os fins do disposto neste item, a hierarquia administrativa do BANDES, em ordem crescente, é a seguinte: 11.2.1 Comissão Permanente de Licitação; 11.2.2 Diretor de Administração e Finanças.
+
+12 DO CONTRATO ­ PRAZO PARA ASSINATURA. 12.1 Após homologação do resultado final, será celebrado contrato com a licitante adjudicatária, para o desenvolvimento dos serviços que compõem o objeto deste Edital até o 3º (terceiro) dia útil seguinte ao instrumento convocatório. 12.2 O prazo fixado no subitem anterior poderá ser prorrogado uma vez, por igual período, quando for feita solicitação escrita pelo adjudicatário durante o seu transcurso, desde que ocorra motivo justificado aceito pela Administração.
+
+13 - DAS CONDIÇÕES DE PAGAMENTO 13.1 O pagamento das Notas Fiscais/Faturas, devidamente atestados pelo responsável, será efetuado mediante depósito bancário na conta-corrente da contratada indicada na proposta de preços. 13.2 O BANDES disporá de um prazo de até 05 (cinco) dias úteis para providenciar o pagamento. 13.3 A conferência da Nota Fiscal será efetuada pelo setor responsável pelo acompanhamento do contrato, confirmando que o fornecimento foi executado na forma contratada. 13.4 O documento de cobrança rejeitado por erros ou incorreções, será devolvido ao contratado, no prazo máximo de 03 (três) dias úteis, contados da data de sua apresentação. 13.5 Os documentos de cobrança, escoimados das causas que motivaram a rejeição, deverão ser reapresentados num prazo máximo de 03 (três) dias úteis. 13.6 Em caso de rejeição da Nota Fiscal/Fatura, motivada por erro ou incorreções, o prazo de 5 (cinco) dias úteis disposto no item 13.2 passará a ser contado a partir da data de sua reapresentação. 13.7 Acompanhando a Nota Fiscal/Fatura deverão ser apresentadas mensalmente as comprovações da situação de regularidade da empresa junto ao INSS, FGTS e ISS, mediante 9
+
+apresentação dos originais das guias já quitadas para serem fotocopiadas por empregado do Bandes e arquivadas no processo, devolvendo-se em seguida os originais. 13.8 Nenhum pagamento será efetuado à Contratada enquanto pendente de liquidação qualquer obrigação que lhe for imposta, em virtude de penalidades ou inadimplemento, sem que isso gere direito ao pleito de atualização. 13.9 Se devidas, serão procedidos nos pagamentos a serem efetuados, retenções na fonte de conformidade com os procedimentos previstos na Instrução Normativa Conjunta SRF/SFN/SFC n.º 04 de 18/08/97, publicada no DOU de 20/08/97. Caso a Contratada seja optante pelo SIMPLES, deverá apresentar junto com a Fatura, a cópia do Termo de Opção.
+
+14 ­ OBRIGAÇÕES DA EMPRESA VENCEDORA 14.1 A empresa CONTRATADA deverá manter, obrigatoriamente, um escritório na Região da Grande Vitória, que dê suporte para a equipe operacional e facilite a relação administrativa com o BANDES; 14.2 Manter, durante toda a execução do contrato, todas as condições assumidas na licitação; 14.3 Manter seus empregados devidamente uniformizados, identificados através de crachás personalizados e com a logomarca da empresa; 14.4 Utilizar, na execução do serviço contratado, pessoal que atenda, dentre outros, aos seguintes requisitos:
+ 
+
+Pertencer ao quadro funcional da licitante vencedora; Adotar postura, atitudes e comportamento condizentes com o decoro da profissão, inclusive tratando com urbanidade os empregados, clientes, fornecedores e todos que relacionem com o BANDES.
+
+14.5 Para todos os fins de direito, a licitante vencedora é empregadora autônoma, não existindo entre seus empregados e o BANDES vínculo de qualquer natureza, correndo por conta e responsabilidade exclusiva da proponente todas as obrigações trabalhistas e previdenciárias, FGTS, seguros e pagamento de tributos que incidam ou venham incidir sobre a prestação dos serviços ora mencionados neste Edital.
+
+15 ­ PENALIDADES 15.1 Pela inexecução do contrato, erro ou demora na execução, ou pelo descumprimento de obrigações nele assumidas, ou ainda pelo não atendimento ao chamamento para assinatura do contrato, a Licitante será penalizada, sendo-lhe garantida prévia defesa, com as seguintes sanções: 15.1.1 Advertência; 10
+
+15.1.2 Multa de 5% (cinco por cento) sobre o valor mínimo da modalidade Concorrência, recolhida em até 15 (quinze) dias da comunicação oficial; 15.1.3 Suspensão temporária da participação em licitação e impedimento de contratar com a Administração Pública Estadual por prazo não superior a 02 (dois) anos ou até que seja promovida a sua reabilitação;
+
+16 HOMOLOGAÇÃO E ADJUDICAÇÃO 16.1 O Diretor de Administração e Finanças homologará o resultado do julgamento e da adjudicação do objeto desta licitação à licitante vencedora.
+
+17 DISPOSIÇÕES GERAIS 17.1 O BANDES não se responsabilizará por propostas ou documentos entregues fora do prazo estipulado no item 8 do edital. 17.2 Ficará ressalvado ao BANDES o direito de, por despacho motivado, de que dará ciência às licitantes, revogar ou anular esta Licitação, se verificadas razões de interesse público decorrente de fato superveniente devidamente comprovado, pertinente e suficiente para justificar a medida, sem que caibam às Licitantes direitos, vantagens, reclamações e/ou indenizações, seja a que título for. 17.3 Se, por ocasião do julgamento, da elaboração do contrato ou da execução dos serviços ficar comprovada a existência de irregularidades que denunciem dolo, má-fé ou grave omissão no cumprimento das obrigações inerentes à execução dos serviços por parte das Licitantes ou da Contratada, estas, sem prejuízo das cominações legais cabíveis e a critério do BANDES, ficarão impedidas de participar de outras licitações no Banco. 17.4 A participação na licitação implica aceitação integral e irretratável dos termos deste Edital. 17.5 Poderá a Comissão Permanente de Licitação, no interesse do BANDES e a seu critério, relevar omissões puramente formais, desde que não comprometam a lisura e o caráter competitivo da licitação. 17.6 É facultado à Comissão de Licitações ou à Autoridade Superior, em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou a complementar a instrução do processo, sem, entretanto, incluir documento ou informação que deveria constar originariamente da proposta. 17.7 Após a fase de habilitação não cabe desistência da proposta, salvo por motivo justo decorrente de fato superveniente e aceito pela Comissão. 17.8 Comunicações e possíveis convocações para reuniões serão feitas via e-mail ou fax às Licitantes. O resultado do julgamento das propostas será divulgado no D.O.E.S., salvo se estiverem presentes os representantes de todas as licitantes.
+
+11
+
+17.9 Caso a Licitante se faça representar por terceiros na presente licitação, deverá apresentar, por ocasião do início da 1ª reunião, os mandatos respectivos (público ou particular), ou Carta-Credencial, conforme modelo (Anexo IV). 17.10 Todos os produtos gerados em decorrência do desenvolvimento/manutenção do objeto deste edital, inclusive os códigos fontes, serão de propriedade exclusiva do BANDES. 18 DOCUMENTAÇÃO FORNECIDA EM ANEXO 18.1 ANEXO I (Objeto e Especificações Mínimas); 18.2 ANEXO II (Metodologia de Avaliação das Propostas) 18.3 ANEXO III (Metodologia de Desenvolvimento/Manutenção do Sistema); 18.4 ANEXO IV (Modelo de carta-credencial); 18.5 ANEXO V (Modelo de declaração) 18.6 ANEXO VI (Minuta de contrato) 18.7 ANEXO VII (Tabela de Pontuação Estimada pela Licitante)
+
+19 ESCLARECIMENTOS E INFORMAÇÕES 19.1 Eventuais esclarecimentos e informações às LICITANTES serão dados pelos telefones (27) 3331-4466 com Angela Fonseca e (27) 3331-4382 com Maria de Fátima Gava, nos dias úteis, das 12:00 às 18:00 horas.
+
+MARCOS VIANNA Gerente de Recursos Humanos e Serviços Administrativos
+
+12
+
+ANEXO I (CONCORRÊNCIA Nº 01/2010) OBJETO E ESPECIFICAÇÕES TÉCNICAS OBJETO Contratação, por um período de 12 meses, de empresa especializada para prestação de serviços na área de informática, visando: Desenvolvimento e Manutenção de Sistemas ­ serviços para adicionar novas funcionalidades e corrigir problemas no Sistema Corporativo SISBANDES ­ Delphi, Sistema Corporativo SISBANDES ­ Net (dotNet), Sistema CREDFOR, Sistema de Informações Gerenciais e INVEST-ES, incluindo a gerência das configurações das versões dos sistemas e a administração das bases de dados. 1 Composição dos Sistemas. 1.1 Sistema Corporativo SISBANDES - Delphi Sistema desenvolvido em 3 camadas: cliente com interface gráfica Delphi versão 2006, camada de negócios utilizando servidor de transações da Microsoft (MTS/COM+), objetos de negócio Delphi versão 2006, utilizando middleware Midas e banco de dados SQL-Server 2005. Trabalha de forma distribuída, em ambiente de computadores de pequeno e médio porte (micros e servidores). Atualmente é constituído por 51 (cinquenta e um) aplicativos de software ou módulos operando de forma integrada e compartilhando a mesma base corporativa de dados, contemplando todo o processo operacional de concessão de crédito, nas suas diversas fases, desde a articulação até o controle financeiro das operações de crédito. Com aproximadamente 80.000 pontos de função, ele contempla os seguintes grupos de módulos: Infraestrutura Gerenciais Comerciais Operacionais Apoio; Segurança; Serviços. Consultas Econômico-Financeiras; Gestão Estratégica. Cadastro; Conformidade; Ouvidoria; Contact Center; Gestão comercial; Documentação; Parcerias; Prospecção. Acompanhamento Rural; Acompanhamento Urbano; Incentivos Fiscais; FUNDAP; Contratação; Análise; Garantias; Instrumento Decisório; Matriz de Crédito e Risco; NossoCrédito; Planejamento; Protocolo; RECOR; Projetos; Solicitação de Financiamento via Web; Solicitação FUNDAP via Internet.
+
+Administrativo/contábil ASCOM; Almoxarifado; Compras e Recebimento; Controles GERHA; 13
+
+Imóveis Não de Uso; Patrimônio. Contábeis/financeiros Apropriação; Basiléia; Central de Risco BACEN, CDB; Capitalização; Caução FUNDAP; Cobrança; Contabilidade; Contas a Pagar; Cotações e Índices; DV/OP; IFT; Liberação; Renegociação; Simulação; Tesouraria.
+
+1.2 Sistema Corporativo SISBANDES - .Net (dotNet) Sistema desenvolvido utilizando o padrão ASP.NET MVC 1.0: interface WEB desenvolvida utilizando EXT.JS versão 3.1.1, servidor WEB Microsoft Windows 2008 com IIS 7 e .NET Framework versão 3.5, utilizando Microsoft Windows Communication Foundation para comunicação entre as camadas de Controle e Modelo, utilizando a linguagem C# e LINQ Entity Framework 4.0 como método de acesso ao banco de dados Microsoft SQL-Server 2005. Tem aproximadamente 3.450 pontos de função Módulos Segurança; Controle de viagens; Controle de correspondências. Opera de forma integrada e compartilhando a mesma base corporativa de dados e com o Sisbandes - DELPHI. 1.3 CREDFOR O CREDFOR é um sistema de crédito, por meio de leilão eletrônico e certificação digital, para atender empresas do Espírito Santo, fornecedoras de produtos e serviços a empresas âncoras (grandes empresas). Tem aproximadamente 1.400 pontos de função Foi desenvolvido em .NET versão 3.5 utilizando a linguagem C# com interface WEB utilizando ASP.NET, servidor WEB Microsoft Windows 2008 com IIS 7 e banco de dados Microsoft SQLServer 2005. Módulos Segurança e Auditoria; Publicações e Relatórios Gerenciais; Leilão; Liquidação Financeira; Documentação; Participantes; Clientes; Certificação. 1.4 Sistema de Informações Gerenciais O sistema de Informações Gerenciais utiliza tecnologias de Business Intelligence (BI) e é composto pelos módulos de Controladoria, Nossocrédito, Serviços e Operacional. Os procedimentos de extração, transformação e carga dos dados que alimentam o sistema utilizam como fonte o banco SQL Server do Sisbandes. Eles são implementados através de stored procedures escritas em Transact-SQL e executadas em servidor SQL Server 2005. A administração dos metadados é feita através da ferramenta SQL Server Business Intelligence Development Studio e a disponibilização é feita através de servidor SQL Server Analysis Services. A manipulação dos dados pelo usuário final é feita através do Microsoft Excel 2007 ou do SQL Server Reporting Services.
+
+14
+
+1.5 INVEST-ES O INVEST-ES é um sistema que controla os benefícios/Incentivos Fiscais concedidos a empresas que queiram implantar novos projetos no Espírito Santo. Sistema desenvolvido utilizando o padrão ASP.NET MVC 1.0: interface WEB desenvolvida utilizando EXT.JS versão 3.1.1, servidor WEB Microsoft Windows 2003 com IIS 6 e .NET Framework versão 3.5, utilizando Microsoft Windows Communication Foundation para comunicação entre as camadas de Controle e Modelo, utilizando a linguagem C# e LINQ Entity Framewrok 4.0 como método de acesso ao banco de dados Microsoft SQL-Server 2005. Tem aproximadamente 5.500 pontos de função Módulos Segurança e Auditoria; Apoio; Solicitação e Recebimento; Análise e Avaliação; Resolução e Termo de Acordo; Constatação de Investimento; Acompanhamento; Consultas e Relatórios; Avisos. 1.6 DISPOSIÇÃO GERAL 1.6.1 O BANDES reserva-se o direito de, a qualquer momento, atualizar ou substituir qualquer dos softwares que previamente definiu para a execução dos serviços objeto do Edital. 1.6.2 As funcionalidades desenvolvidas na plataforma web deverão ser disponibilizadas para serem utilizadas em pelo menos 3 (três) navegadores. Inicialmente o Bandes adotará os navegadores Internet Explorer 8.0, Firefox 3.5 e Chrome 5.0. Caso novas versões desses navegadores sejam adotadas pelo BANDES, o custo para a adaptação do código já desenvolvido será de responsabilidade do BANDES. A contratada deverá se adequar para que novos desenvolvimentos utilizem essas versões sem ônus para o BANDES. 2 AMBIENTE TECNOLÓGICO 2.1 Metodologia de Desenvolvimento Vide Anexo III 2.2 Plataforma de Hardware É constituída de 15 servidores Intel, entre eles: 2.2.1 Servidor de banco de dados SQL com 4 processadores (com 6 núcleos cada) e 256 GB de memória e 1 TB de discos 2.2.2 Servidor virtual de Banco de Dados Oracle/Aplicações Java com 1 Processador e 1 Gb de memória e 30 Gb de disco; 2.2.3 Servidor de transações para SQL com 4 processadores e 4 GB de memória; 2.2.4 Servidor de transações para SQL com 4 processadores (com 4 núcleos) e 4 GB de memória; 2.2.5 Servidor para BI com 2 processadores e 4 GB de memória; 15
+
+3 Forma de Pagamento Para efeito de pagamento dos serviços, o BANDES utilizará um sistema de autorização e validação de serviços, que permitirá a certificação dos serviços a serem pagos mensalmente. O pagamento dos serviços de desenvolvimento e manutenção dos sistema e suporte ao ambiente e providenciado pelo BANDES no prazo de até 05 (cinco) dias úteis após a apresentação da Nota Fiscal de Prestação de Serviços pela CONTRATADA. A Nota Fiscal deverá vir acompanhada dos comprovantes de pagamento do FGTS e do INSS do mês anterior ao do faturamento relativos aos seus técnicos alocados nos serviços, observado o seguinte: O faturamento de cada mês será equivalente ao somatório do total de horas e/ou Pontos de Função trabalhados correspondentes aos serviços concluídos, aceitos e validados pelo Gestor do Projeto (usuário final); a) As manutenções corretivas em funcionalidades desenvolvidas e implementadas pela empresa contratada serão realizadas sem ônus para o BANDES. Entende-se por manutenção corretiva todo e qualquer acerto ou ajuste decorrente do mau funcionamento da aplicação, ou seja, de funcionamento em desacordo com as especificações técnicas e funcionais aprovadas pelo BANDES; b) As unidades de aferição deverão ser compatíveis com o número de unidades previstas nas solicitações de serviços, salvo se algum fato novo crie a necessidade de reavaliar os quantitativos estimados; c) A aceitação e validação dos serviços executados pela CONTRATADA dar-se-á após a verificação do seu conteúdo por parte do BANDES após a realização de testes que comprovem a conformidade dos produtos gerados com as especificações técnicas acordadas previamente com o usuário e aprovadas na própria Solicitação de Manutenção;
+
+4 Informações Complementares - IMPORTANTE a) A CONTRATADA realizará o trabalho nas dependências do BANDES, que disponibilizará o espaço físico necessário, bem como disponibilizará os equipamentos (microcomputadores e impressoras) e ainda softwares, mesas , cadeiras, telefones, fax, internet, etc.., enfim, todos os recursos necessários à prestação dos serviços objeto desta licitação. b) Os programas e sistemas desenvolvidos, adaptados e implementados pela CONTRATADA no âmbito do presente contrato, serão de propriedade exclusiva do BANDES, podendo este cedê-los ou licenciá-los a terceiros, com ou sem remuneração, sem necessidade de autorização ou prévio conhecimento da CONTRATADA, cabendo-lhe efetuar a entrega ao BANDES da totalidade da documentação e dos programas fontes desenvolvidos por seus técnicos, inclusive manutenções evolutivas ou corretivas e de caráter complementar. 16
+
+c) O BANDES na qualidade de instituição financeira está sujeito às normas bancárias e legais vigentes no país, principalmente no aspecto relativo ao sigilo bancário. Assim, a CONTRATADA se responsabilizará pela orientação de seus empregados quanto ao cumprimento das Políticas de Segurança da Informação do BANDES, sendo corresponsável pela utilização de senhas e pela manipulação de informações do BANDES por seus empregados, disponibilizadas para atuação na prestação dos serviços ora contratados, na forma de termos de responsabilidade por eles firmados, estendendo-se ao âmbito do judiciário, inclusive no que tange a obrigação de indenizar.
+
+17
+
+(CONCORRÊNCIA 01/2010) METODOLOGIA DE AVALIAÇÃO DAS PROPOSTAS CRITÉRIOS DE PONTUAÇÃO
+
+1 1.1 A b c d 1.2
+
+Nota de Compatibilidade ­ NC (Peso 1)
+
+(4 a 184 pontos)
+
+Comprovação de que a empresa atua no mercado prestando serviços de desenvolvimento e manutenção de sistemas há: (0 a 40 pontos) Menos de 05 (cinco) anos = 0 pontos de 05 (cinco) a 08 (oito) anos = 20 pontos de 09 (nove) a 12 (doze) anos = 30 pontos de 13 (treze) anos ou mais = 40 pontos
+
+Comprovação de que a empresa presta ou prestou serviços de desenvolvimento e manutenção de sistemas em 3 camadas: cliente com interface gráfica Delphi, camada de negócios utilizando servidor de transações da Microsoft (MTS/COM+), objetos de negócio Delphi, utilizando middleware Midas e banco de dados SQL-Server 2000 ou superior: Atenção: O(s) atestado(s) apresentado(s) para comprovação desse item deverá(ão) estar acompanhados dos contratos , comprovando que os serviços de desenvolvimento e manutenção de sistema foram executados utilizando a métrica de pontos de Análise de Pontos de Função (conforme IFPUG) como unidade de medida para subsidiar o planejamento, monitoramento, medição e remuneração dos serviços. 1.2.1 a b c d 1.2.2 a b c d 1.2.3 a b c d durante um período ininterrupto de: (períodos não sobrepostos) Menos de 02 (dois) anos 02 (dois) a 04 (quatro) anos 05 (cinco) a 07 (sete) anos 08 (oito) anos ou mais envolvendo um número de analistas correspondente a: Menos de 03 (três) 03 (três) ou 04 (quatro) 05 (cinco) ou 06 (seis) 07 (sete) ou mais já tendo sido entregue um total de: Menos de 12.000 Pontos de Função ­ PF 12.000 a 23.999 Pontos de Função ­ PF 24.000 a 35.999 Pontos de Função ­ PF 36.000 Pontos de Função ­ PF ou mais
+
+(0 a 54 pontos)
+
+(0 a 18 pontos) = 0 pontos = 6 pontos = 12 pontos = 18 pontos (0 a 18 pontos) = 0 pontos = 6 pontos = 12 pontos = 18 pontos (0 a 18 pontos) = 0 pontos = 6 pontos = 12 pontos = 18 pontos
+
+Atenção: Para efeito de apuração da quantidade de Pontos de Função referente aos itens 1.2.3 serão aplicados aos Pontos de Função de 18
+
+desenvolvimento comprovados o fator 1,00 e aos Pontos de Função de manutenção comprovados, o fator 0,35.
+
+Comprovação de que a empresa presta ou prestou serviços de desenvolvimento e manutenção de sistemas com interface Web utilizando linguagem C# na plataforma .NET e banco de dados SQL-Server 2000 ou superior: (0 a 36 pontos) Atenção: O(s) atestado(s) apresentado(s) para comprovação desse item deverá(ão) estar acompanhados dos contratos , comprovando que os serviços de desenvolvimento e manutenção de sistema foram executados utilizando a métrica de pontos de Análise de Pontos de Função (conforme IFPUG) como unidade de medida para subsidiar o planejamento, monitoramento, medição e remuneração dos serviços. 1.3.1 a b c d 1.3.2 a b c d 1.3.3 a b c d durante um período ininterrupto de: (períodos não sobrepostos) Menos de 01 (um) ano 01 (um) ano 02 (dois) anos 03 (três) anos ou mais envolvendo um número de analistas correspondente a: Menos de 03 (três) 03 (três) 04 (quatro) 05 (cinco) ou mais já tendo sido entregue um total de: Menos de 6.000 Pontos de Função ­ PF 6.000 a 11.999 Pontos de Função ­ PF 12.000 a 17.999 Pontos de Função ­ PF 18.000 Pontos de Função ­ PF ou mais (0 a 12 pontos) = 0 pontos = 4 pontos = 8 pontos = 12 pontos (0 a 12 pontos) = 0 pontos = 4 pontos = 8 pontos = 12 pontos (0 a 12 pontos) = 0 pontos = 4 pontos = 8 pontos = 12 pontos
+
+1.3
+
+Atenção: Para efeito de apuração da quantidade de Pontos de Função referente aos itens 1.3.3 serão aplicados aos Pontos de Função de desenvolvimento comprovados o fator 1,00 e aos Pontos de Função de manutenção comprovados, o fator 0,35.
+
+1.4
+
+Comprovação de que a empresa presta ou prestou serviços de desenvolvimento e manutenção de sistemas cobrindo as áreas comercial, operacional, contábil e financeira: Atenção: O(s) atestado(s) apresentado(s) para comprovação desse item deverá(ão) estar acompanhados dos contratos , comprovando que os serviços de desenvolvimento e manutenção de sistema foram executados utilizando a métrica de pontos de Análise de Pontos de 19
+
+(0 a 54 pontos)
+
+Função (conforme IFPUG) como unidade de medida para subsidiar o planejamento, monitoramento, medição e remuneração dos serviços. Atenção: Os itens 1.4.1, 1.4.2 e 1.4.3 são mutuamente excludentes. A Licitante deverá optar pelo ramo que lhe seja mais favorável, pois só poderá haver pontuação em um deles. 1.4.1 a b c d 1.4.2 a b c d 1.4.3 a b c d De empresa de fora do ramo bancário/financeiro, já tendo sido entregue: (0 a 12 pontos) Menos de 12.000 Pontos de Função ­ PF = 0 pontos 12.000 a 23.999 Pontos de Função ­ PF = 4 pontos 24.000 a 35.999 Pontos de Função ­ PF = 8 pontos 36.000 Pontos de Função ­ PF ou mais = 12 pontos De banco/agência não de desenvolvimento/fomento, já tendo sido entregue: (0 a 30 pontos) Menos de 12.000 Pontos de Função ­ PF = 0 pontos 12.000 a 23.999 Pontos de Função ­ PF = 10 pontos 24.000 a 35.999 Pontos de Função ­ PF = 20 pontos 36.000 Pontos de Função ­ PF ou mais = 30 pontos De banco/agência de desenvolvimento/fomento, já tendo sido entregue: (0 a 54 pontos) Menos de 12.000 Pontos de Função ­ PF = 0 pontos 12.000 a 23.999 Pontos de Função ­ PF = 18 pontos 24.000 a 35.999 Pontos de Função ­ PF = 36 pontos 36.000 Pontos de Função ­ PF ou mais = 54 pontos
+
+Atenção: Para efeito de apuração da quantidade de Pontos de Função referente aos itens 1.4.1, 1.4.2 e 1.4.3 serão aplicados aos Pontos de Função de desenvolvimento comprovados o fator 1,00 e aos Pontos de Função de manutenção comprovados, o fator 0,35.
+
+2 2.1
+
+Nota de Serviços ­ NS (Peso 1) Experiência dos Analistas disponibilizados conforme item 6.1.1 e 6.1.2 Atenção: Os analistas indicados para pontuar no item 2.1.1 não poderão ser indicados para pontuar o item 2.1.2, e vice-versa.
+
+(0 a 250 pontos) (0 a 105 pontos)
+
+2.1.1
+
+Pelo menos 03 (três) Analistas com experiência na arquitetura em 3 camadas: cliente com interface gráfica Delphi, camada de negócios utilizando servidor de transações da Microsoft (MTS/COM+), objetos de negócio Delphi, utilizando middleware Midas e banco de dados SQL-Server 2000 ou superior por um período: 20
+
+(0 a 18 pontos)
+
+a b c d 2.1.2
+
+Menos de 02 (dois) anos 02 (dois) a 03 (três) anos 04 (quatro) a 05 (cinco) anos 06 (seis) anos ou mais
+
+= 0 pontos = 6 pontos = 12 pontos = 18 pontos
+
+a b c d 2.1.3 a b c d 2.1.4
+
+Pelo menos 03 (três) Analistas com experiência em desenvolvimento e manutenção de sistemas com interface Web utilizando linguagem C# na plataforma .NET e banco de dados SQL-Server 2000 ou superior: (0 a 12 pontos) Menos de 01 (um) ano = 0 pontos 01 (um) ano = 4 pontos 02 (dois) anos = 8 pontos 03 (três) anos ou mais = 12 pontos Pelo menos 01 (um) Analista com experiência em Business Intelligence (BI) por um período de: (0 a 15 pontos) Menos de 01 (um) ano = 0 pontos 01 (um) ou 02 (dois) anos = 5 pontos 03 (três) ou 04 (quatro) anos = 10 pontos 05 (cinco) anos ou mais = 15 pontos Pelo menos 03 (três) Analistas com experiência utilizando uma das linguagens referidas nos itens 2.1.1 e 2.1.2, nas áreas comercial, operacional, contábil e financeira de:
+
+(0 a 60 pontos)
+
+Atenção: Os itens 2.1.4.1, 2.1.4.2 e 2.1.4.3 são mutuamente excludentes. A Licitante deverá optar pelo ramo que lhe seja mais favorável, pois só poderá haver pontuação em um deles. 2.1.4.1 a b c d 2.1.4.2 a b c d 2.1.4.3 a b c d De empresa de fora do ramo bancário/financeiro, por um período de: Menos de 01 (um) ano 01 (um) ou 02 (dois) anos 03 (três) ou 04 (quatro) anos 05 (cinco) anos ou mais (0 a 12 pontos) = 0 pontos = 4 pontos = 8 pontos = 12 pontos
+
+De banco/agência não de desenvolvimento/fomento, por um período de: (0 a 18 pontos) Menos de 01 (um) ano = 0 pontos 01 (um) ou 02 (dois) anos = 6 pontos 03 (três) ou 04 (quatro) anos = 12 pontos 05 (cinco) anos ou mais = 18 pontos De banco/agência de desenvolvimento/fomento,por um período de: Menos de 01 (um) ano 01 (um) ou 02 (dois) anos 03 (três) ou 04 (quatro) anos 05 (cinco) anos ou mais 21 (0 a 60 pontos) = 0 pontos = 20 pontos = 40 pontos = 60 pontos
+
+2.2
+
+Experiência dos Programadores disponibilizados conforme item 6.1.3 e 6.1.4 (0 a 105 pontos) Atenção: Os programadores indicados para pontuar no item 2.2.1 não poderão ser indicados para pontuar o item 2.2.2, e vice-versa.
+
+2.2.1
+
+a b c d 2.2.2.
+
+Pelo menos 06 (seis) Programadores com experiência em desenvolvimento para arquitetura em 3 camadas: cliente com interface gráfica Delphi, camada de negócios utilizando servidor de transações da Microsoft (MTS/COM+), objetos de negócio Delphi, utilizando middleware Midas e banco de dados SQL-Server 2000 ou superior por um período: (0 a 18 pontos) Menos de 02 (dois) anos = 0 pontos 02 (dois) a 03 (três) anos = 6 pontos 04 (quatro) a 05 (cinco) anos = 12 pontos 06 (seis) anos ou mais = 18 pontos Pelo menos 06 (seis) Programadores com experiência em desenvolvimento e manutenção de sistemas com interface Web utilizando linguagem C# na plataforma .NET e banco de dados SQL-Server 2000 ou superior: (0 a 12 pontos) Menos de 01 (um) ano = 0 pontos 01 (um) ano = 4 pontos 02 (dois) anos = 8 pontos 03 (três) anos ou mais = 12 pontos Pelo menos um Programador com experiência em Business Intelligence (BI) por um período de: (0 a 15 pontos) Menos de 01 (um) ano = 0 pontos 01 (um) ou 02 (dois) anos = 5 pontos 03 (três) ou 04 (quatro) anos = 10 pontos 05 (cinco) anos ou mais = 15 pontos Pelo menos 06 (seis) Programadores com experiência utilizando uma das linguagens referidas nos itens 2.2.1 e 2.2.2 , nas áreas comercial, operacional, contábil e financeira de:
+
+a b c d 2.2.3 a b c d 2.2.4
+
+(0 a 60 pontos)
+
+Atenção: Os itens 2.2.4.1, 2.2.4.2 e 2.2.4.3 são mutuamente excludentes. A Licitante deverá optar pelo ramo que lhe seja mais favorável, pois só poderá haver pontuação em um deles. 2.2.4.1 a b c d De empresa de fora do ramo bancário/financeiro, por um período de: Menos de 01 (um) ano 01 (um) ou 02 (dois) anos 03 (três) ou 04 (quatro) anos 05 (cinco) anos ou mais 22 (0 a 12 pontos) = 0 pontos = 4 pontos = 8 pontos = 12 pontos
+
+2.2.4.2 a b c d 2.2.4.3 a b c d 2.3
+
+De banco/agência não de desenvolvimento/fomento, por um período de: (0 a 18 pontos) Menos de 01 (um) ano = 0 pontos 01 (um) ou 02 (dois) anos = 6 pontos 03 (três) ou 04 (quatro) anos = 12 pontos 05 (cinco) anos ou mais = 18 pontos De banco/agência de desenvolvimento/fomento,por um período de: Menos de 01 (um) ano 01 (um) ou 02 (dois) anos 03 (três) ou 04 (quatro) anos 05 (cinco) anos ou mais Certificações do Administrador de Banco de Dados (0 a 60 pontos) = 0 pontos = 20 pontos = 40 pontos = 60 pontos (0 a 20 pontos)
+
+Atenção: Os itens 2.3.1 e 2.3.2 são mutuamente excludentes. A Licitante deverá optar pelo item que lhe seja mais favorável, pois só poderá haver pontuação em um deles. 2.3.1 a b 2.3.2 Certificação MCTS: SQL Server 2005 ou MCTS: SQL Server 2008, Implementation and Maintenance; (0 a 5 pontos) Não possuir = 0 pontos Possuir = 5 pontos Certificação MCITP: Database Administrator (versão 2005) ou MCITP: Database Administrator 2008; Não possuir Possuir (0 a 10 pontos) = 0 pontos = 10 pontos
+
+a b
+
+Atenção: Os itens 2.3.3 e 2.3.4 são mutuamente excludentes. A Licitante deverá optar pelo item que lhe seja mais favorável, pois só poderá haver pontuação em um deles. 2.3.3 a b 2.3.4 a b 2.4 Certificação MCTS: SQL Server 2005, Business Intelligence Development and Maintenance ou MCTS: SQL Server 2008, Database Development; (0 a 5 pontos) Não possuir = 0 pontos Possuir = 5 pontos Certificação MCITP: Database Developer (versão 2005) ou MCITP: Database Developer 2008 (0 a 10 pontos) Não possuir = 0 pontos Possuir = 10 pontos Certificações do Administrador de Configurações de Software 23 (0 a 20 pontos)
+
+2.4.1 a b 2.4.2 a b 2.4.3 a b
+
+Certificação MCTS: Windows Server 2008 Active Directory Configuration (0 a 5 pontos) Não possuir = 0 pontos Possuir = 5 pontos Certificação MCTS: Windows Server 2008 Network Infrastructure Configuration (0 a 5 pontos) Não possuir = 0 pontos Possuir = 5 pontos Certificação MCITP: Server Administrator (versão 2008); Não possuir Possuir (0 a 10 pontos) = 0 pontos = 10 pontos
+
+Observação: Todos os tempos devem ser apresentados em anos inteiros, desprezando-se as frações. Para a atribuição da pontuação dos itens 2.1.1, 2.1.2, 2.1.4, 2.2.1, 2.2.2 e 2.2.4 será utilizada a média aritmética do tempo dos profissionais indicados para cada item, considerando o quantitativo mínimo solicitado no item que representar a maior média.
+
+24
+
+3 3.1
+
+ATRIBUIÇÃO DE NOTAS TÉCNICAS Para obtenção da NOTA TÉCNICA, serão levados em consideração os seguintes fatores e pesos: FATOR PESO NOTA DE COMPATIBILIDADE ­ NC P1 = 1 NOTA DE SERVIÇOS ­ NS P2 = 1 A NOTA TÉCNICA será obtida pela seguinte fórmula: NT = (NC*P1) + (NS*P2) onde: NT NC P1 NS P2 = = = = = Nota Técnica Nota de COMPATIBILIDADE Peso atribuído ao fator COMPATIBILIDADE Nota de SERVIÇOS Peso atribuído ao fator SERVIÇOS
+
+3.2
+
+4 4.1
+
+ÍNDICE TÉCNICO A cada licitante será atribuído um ÍNDICE TÉCNICO (IT), calculado em função da NOTA TÉCNICA (NT) e a MAIOR NOTA TÉCNICA (MNT), conforme fórmula IT = (NT/MNT) onde: IT NT MNT = ÍNDICE TÉCNICO = NOTA TÉCNICA da Licitante = MAIOR NOTA TÉCNICA entre as licitantes
+
+4.2
+
+O ÍNDICE TÉCNICO (IT) será calculado com 04 (quatro) casas decimais, desprezando-se as demais. ATENÇÃO: Serão desclassificadas as propostas que não obtiverem Nota Técnica mínima de 70% (setenta por cento) da Nota Técnica máxima.
+
+5 5.1
+
+PROPOSTA DE PREÇOS O julgamento da PROPOSTA DE PREÇOS consistirá na sua análise e atribuição de ÍNDICE PREÇO (IP) calculado em função do PREÇO COTADO (PC) pela licitante e o MENOR PREÇO COTADO, conforme fórmula abaixo: Preço cotado 25
+
+5.2
+
+Para obtenção do Preço Cotado (PC) serão considerados os valores cotados para cada serviço discriminado no quadro do item 7.1 Proposta de Preços ­ Envelope nº 3, Tabela I e seus respectivos pesos, aplicando-se a fórmula a seguir: PC = ( PN*P1 ) + ( PD*P2 ) + ( PH*P3 ) Peso P1 = 5,5 P2 = 3,5 1,0
+
+PN = Preço do ponto de função de desenvolvimento em .NET PD = Preço do ponto de função de desenvolvimento em Delphi PH = Preço da hora para Administração de Configuração de Software, P3 = Administração de Banco de Dados e Apoio técnico
+
+5.3
+
+O Índice Preço (IP) será obtido pela seguinte fórmula: IP = (MPC/PC) onde: IP MPC PC = ÍNDICE PREÇO = MENOR PREÇO COTADO entre as licitantes = PREÇO COTADO da licitante
+
+O Índice Preço (IP) será calculado com 04 (quatro) casas decimais, desprezando-se as demais. Havendo discordância entre os valores numéricos e por extenso, prevalecerão os últimos. 6 6.1 AVALIAÇÃO FINAL A AVALIAÇÃO FINAL (AF) de cada proposta será obtida pela utilização da fórmula a seguir: AF = (6*IT) + (4*IP) onde: AF IT IP 7 7.1
+
+= AVALIAÇÃO FINAL = ÍNDICE TÉCNICO = ÍNDICE PREÇO
+
+CLASSIFICAÇÃO DAS PROPOSTAS E CRITÉRIOS DE DESEMPATE As licitantes serão classificadas de acordo com os índices obtidos na AVALIAÇÃO FINAL (AF), alistados em ordem decrescente. Verificada a absoluta igualdade de pontos na AVALIAÇÃO FINAL (AF) de duas ou mais propostas, será considerada superior a que apresentar maior ÍNDICE TÉCNICO (IT). Persistindo o empate, a Comissão Permanente de Licitação, em reunião pública marcada para esse fim, cuja data será comunicada a todos as licitantes, decidirá a licitação 26
+
+7.2
+
+7.3
+
+mediante sorteio.
+
+27
+
+ANEXO III
+CONCORRÊNCIA Nº 01/2010 METODOLOGIA DE DESENVOLVIMENTO/MANUTENÇÃO DE SISTEMA
+
+Processo de Desenvolvimento / Manutenção de Sistemas
+??
+1 - Levantamento da necessidade de negócio 4 ­ Contagem estimativa de pontos de função 7 ­ Refinamento da contagem de pontos de função
+
+BANDES e Contratada
+
+BANDES
+
+9 ­ Contagem final de pontos de função
+
+2 ­ Levantamento de requisitos
+
+6 - Validar Modelo de Análise
+
+10 ­ Homologar implementações
+
+Contratada
+
+3- Levantar funções
+
+5 ­ Desenvolver o modelo de Análise
+
+8 ­ Projetar, construir e documentar as funcionalidades
+
+28
+
+I ­ DESCRIÇÃO DAS ATIVIDADES 1. Levantamento da necessidade de negócio OBJETIVO Esta fase tem o objetivo de melhorar o entendimento e contextualizar as demandas das áreas de negócio do BANDES visando tornar o processo de Desenvolvimento mais eficiente e produtivo. Uma área de negócio do BANDES, a partir da percepção de que existe um problema ou uma oportunidade relacionada ao seu processo de trabalho, irá registrar uma Necessidade de Negócio para que seja estudada, analisada e, então, elaborada uma proposição de solução. A solução apontada poderá ou não ser viabilizada por meio de uma solicitação de serviço de desenvolvimento de ou manutenção de sistemas. Assim, é durante o processo de levantamento da necessidade de negócio que se determinará qual abordagem será utilizada. Proposição de solução para a necessidade de negócio Registrar Solicitação de Serviço para Desenvolvimento ou Manutenção de Sistemas. BANDES
+
+DESCRIÇÃO
+
+PRODUTOS GERADOS
+
+RESPONSÁVEL
+
+29
+
+2. Levantamento de Requisitos OBJETIVO Identificar e documentar os requisitos técnicos e funcionais que deverão ser atendidos por meio da implementação de uma Solicitação de Serviço de Desenvolvimento ou Manutenção de sistema. Identificar todos os requisitos técnicos e funcionais relacionados à solicitação de serviço. Nesta fase, a equipe de levantamento deverá adotar uma atitude pró-ativa e atuar identificando requisitos adicionais que não foram explicitamente relatados e questionando os usuários sobre a importância dos requisitos identificados e os relacionamentos ou impactos destes requisitos com funcionalidades já existentes no sistema. Este trabalho deverá ser realizado de forma a garantir que os requisitos identificados sejam resultados de consenso entre os usuários, estejam completos, corretos e não ambíguos de forma a possibilitar a sua utilização no processo de desenvolvimento e aceitação da solicitação de serviço. Essa atividade será realizada, preferencialmente, pela equipe de Analistas de Negócios, formada por profissionais do BANDES. Porém, de acordo com suas demandas e critérios, o BANDES poderá determinar, eventualmente, que essa atividade seja realizada pela CONTRATADA, sem remuneração adicional para esses casos. PRODUTOS GERADOS RESPONSÁVEL PARTICIPANTE Documento de Levantamento de Requisitos Técnicos e Funcionais BANDES CONTRATADA
+
+DESCRIÇÃO
+
+30
+
+3. Levantar funções OBJETIVO Identificar e documentar as funções e arquivos que serão impactadas ou criadas pela Ordem de Serviço, com base nas informações levantadas nas duas fases anteriores, objetivando estimar custos e prazo do serviço. A equipe de desenvolvimento da CONTRATADA, com base nas informações registradas nas fases de Levantamento da necessidade de negócio e de Levantamento de Requisitos, irá identificar quais funcionalidades e arquivos dos sistemas deverão ser alterados, excluídos e quais novas funcionalidades ou arquivos deverão ser desenvolvidos. Esse levantamento deverá ser registrado pela CONTRATADA no documento Lista de Funções, formalizando, assim, o entendimento inicial do escopo da Ordem de Serviço. Nesta fase, a equipe de levantamento deverá adotar uma atitude pró-ativa e atuar identificando requisitos adicionais que não foram explicitamente relatados e questionando os usuários sobre a importância dos requisitos identificados e os relacionamentos ou impactos destes requisitos com funcionalidades já existentes no sistema. Este trabalho deverá ser realizado de forma a garantir que os requisitos identificados sejam resultados de consenso entre os usuários, estejam completos, corretos e não ambíguos de forma a possibilitar a sua utilização no processo de desenvolvimento e aceitação da solicitação de serviço. PRODUTOS GERADOS RESPONSÁVEL Lista de Funções CONTRATADA
+
+DESCRIÇÃO
+
+31
+
+4. Contagem estimativa de pontos de função OBJETIVO DESCRIÇÃO Estimar o tamanho funcional da solução a ser desenvolvida ou mantida, determinando a estimativa de custos e prazo da mesma. O BANDES realizará a Contagem Estimativa dos pontos de função do serviço tendo como base a técnica de Análise de Pontos de Função estabelecida pelo IFPUG (International Function Point Users Group) em sua publicação Function Point Counting Practices Manual (CPM). Em função do nível de detalhamento das funções existente nessa etapa do processo, a complexidade das funcionalidades será estabelecida como média. Porém, caso seja possível, a complexidade poderá ser determinada (ao invés de estimada) de acordo com as informações disponíveis. Essa contagem será utilizada pelo BANDES apenas para fins de estimativa de custos e prazo do serviço, provendo informações para aprovação ou não do mesmo. PRODUTOS GERADOS RESPONSÁVEL Manual de Análise do Projeto BANDES
+
+32
+
+5. Desenvolver o Modelo de Análise OBJETIVO Identificar quais funcionalidades dos sistemas existentes (SISBANDES, CREDFOR e Sistema de Informações Gerenciais) deverão ser alteradas e quais novas funcionalidades deverão ser desenvolvidas visando atender os requisitos identificados e documentados. A equipe de desenvolvimento de sistemas (empresa contratada) deverá, com base nas informações registradas no Documento de Levantamento de Requisitos Técnicos e Funcionais e toda documentação gerada durante a fase de Levantamento de Requisitos, identificar quais funcionalidades dos sistemas existentes (SISBANDES, CREDFOR e Sistema de Informações Gerenciais) deverão ser alteradas e quais novas funcionalidades deverão ser desenvolvidas identificando, dessa forma, o escopo da Solicitação de Serviço. Com base nessa análise, a equipe de desenvolvimento de sistemas (empresa contratada) irá elaborar o Manual de Análise do Projeto que deverá conter obrigatoriamente: - Todas as macro-funções e funções que serão alteradas ou desenvolvidas; - Protótipo (proposta de layout) das telas e relatórios relacionados; - Descrição resumida das funções; - Descrição das criticas e validações ou regras de negócio relacionadas PRODUTOS GERADOS RESPONSÁVEL Manual de Análise do Projeto CONTRATADA
+
+DESCRIÇÃO
+
+33
+
+6. Validar Modelo de Análise OBJETIVO Avaliar o Manual de Análise do Projeto visando verificar se a proposta para a implementação da solicitação de serviço irá atender a necessidade de negócio. O usuário responsável pela solicitação de serviço irá avaliar o Manual de Análise do Projeto verificando se as funcionalidades identificadas, a partir do trabalho da equipe de desenvolvimento de sistemas (empresa contratada) para manutenção ou desenvolvimento, irão cumprir os objetivos de negócios representados no levantamento de requisitos. Em caso de não conformidade, caberá a empresa contratada realizar as adequações necessárias. Termo de Aceitação do Manual de Análise do Projeto BANDES CONTRATADA
+
+DESCRIÇÃO
+
+PRODUTOS GERADOS RESPONSÁVEL PARTICIPANTE
+
+34
+
+7. Refinamento da contagem de Pontos de Função OBJETIVO DESCRIÇÃO Ajustar o dimensionamento do tamanho em Pontos de Função para implementação da solicitação de serviço. O BANDES, a partir das informações contempladas no Manual de análise elaborado pela equipe de desenvolvimento de sistemas (empresa contratada) irá, utilizando a técnica de Análise de Pontos de Função, calcular a quantidade de Pontos de Função Ajustados referentes à solicitação de serviço. A partir dessa informação, combinado com a produtividade da equipe de desenvolvimento de sistemas (empresa contratada) para atividades de desenvolvimento e de manutenção de sistemas, irá estimar o esforço (em horas) e, combinado com o preço do Ponto de Função conforme contrato de prestação de serviço assinado entre o BANDES e a empresa de desenvolvimento de sistemas, calcular o custo para a implementação da solicitação de serviço. PRODUTOS GERADOS RESPONSÁVEL Dimensionamento dos Pontos de Função Ajustados BANDES
+
+35
+
+8. Projetar, construir e documentar as funcionalidades OBJETIVO DESCRIÇÃO Elaborar o Projeto de Sistema, codificar, testar e documentar as funcionalidades de acordo com o Manual de Análise do Projeto. A equipe de desenvolvimento de sistemas (empresa contratada) irá, com base nas definições descritas no Manual de Análise do Projeto especificar, codificar e documentar, de acordo com os padrões utilizados pelo BANDES, as novas funcionalidades e as alterações nas funcionalidades nos sistemas. Esta fase também consiste da realização dos Testes Unitários em todas as funcionalidades implementadas e alteradas pelo projeto, além dos Testes de Integração destas funcionalidades com as suas respectivas interfaces. PRODUTOS GERADOS Programas Fontes; Objetos Executáveis; Pacotes de instalação; Documentação técnica (ver seção II ­ DETALHAMENTO DA DOCUMENTAÇÃO TÉCNICA); Manual de Utilização; CONTRATADA
+
+RESPONSÁVEL
+
+36
+
+9. Contagem final de Pontos de Função OBJETIVO Registrar a contagem final de Pontos de Função da solução implementada, ajustando o dimensionamento, caso necessário, em função de alterações do escopo do projeto. O BANDES, a partir das informações contempladas no Manual do Projeto elaborado pela equipe de desenvolvimento de sistemas (empresa contratada) irá, utilizando a técnica de Análise de Pontos de Função, calcular a quantidade de Pontos de Função Ajustados referentes à solicitação de serviço. Com base nessa nova contagem, o BANDES ajustará, quando necessário, o custo da solução implementada. Contagem Final dos Pontos de Função Ajustados BANDES
+
+DESCRIÇÃO
+
+PRODUTOS GERADOS RESPONSÁVEL
+
+37
+
+10. Homologar implementações OBJETIVO Realizar os Testes de Aceitação em todas as funcionalidades implementadas e alteradas pelo projeto visando garantir que as funcionalidades desenvolvidas ou alteradas estejam atendendo aos requisitos técnicos e funcionais identificados e documentados. O usuário responsável pela solicitação de serviço irá realizar os testes em todas as funcionalidades desenvolvidas e alteradas e avaliar se elas estão de acordo com os requisitos. Em caso de não conformidade, caberá à empresa contratada realizar as adequações necessárias. Não é o objetivo desta fase a identificação de erros ou problemas decorrentes do processo de codificação, porém, caso sejam encontrados, caberá a empresa contratada realizar os ajustes ou correções necessárias. PRODUTOS GERADOS RESPONSÁVEL PARTICIPANTE Termo de Aceitação da Solicitação de Serviço BANDES Contratada
+
+DESCRIÇÃO
+
+38
+
+II ­ DETALHAMENTO DA DOCUMENTAÇÃO TÉCNICA Descrição da documentação técnica prevista pela atividade 8 - Projetar, construir e documentar as funcionalidades: Registro de Requisitos Documento do Microsoft Word que identifica os requisitos apontados pelos usuários. É o produto final da fase de levantamentos de requisitos. Deve ser aceito e validado pelos usuários e analistas de negócio. Serve como entrada para a fase de análise. Documento do Microsoft Word que descreve cada uma das funcionalidades que devem ser desenvolvidas ou mantidas do ponto de vista do usuário, com os seus protótipos. Deve ser aceito e validado pelos usuários e analistas de negócio com o intuito de validar se a solução proposta está aderente aos requisitos passados. Modelo físico do Banco de Dados construído utilizando o Embarcadero ER Studio Data Architect. Será enviado ao DBA para geração e manutenção das estruturas do Banco de Dados. Modelo Orientado a Objetos construído utilizando o Visual Studio, descrevendo os atributos e métodos dos objetos que pertencem ao escopo do problema. Documentos do Microsoft Word contendo a especificação de como devem implementados os objetos e interfaces do sistema. Documentos do Microsoft Word contendo o manual que explicam o funcionamento do sistema para os usuários. Todos os artefatos de software que devem ser implantados para o funcionamento correto do sistema. Descrição técnica de todos os passos que devem seguidos durante as implantações de novas versões do sistema no ambiente de homologação e produção.
+
+Manual de Análise
+
+MER
+
+Modelo de Classes
+
+Manual de Projeto Manual de Usuário Programas Compilados Scripts de implantação
+
+O BANDES reserva-se o direito de, a qualquer momento, atualizar as ferramentas descritas nesta seção, bem como selecionar outras para a construção dessa documentação. As alterações serão comunicadas à CONTRATADA em tempo hábil para preparação de suas equipes.
+
+39
+
+ANEXO IV (CONCORRÊNCIA 01/2010) MODELO DE CARTA-CREDENCIAL LOCAL E DATA
+
+Ao BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S/A - BANDES
+
+Assunto: Licitação para empresa especializada para prestação de serviços de DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS ­ Concorrência nº 01/2010 O(s) abaixo-assinado(s), na qualidade de responsável(veis) legal(ais) pela empresa ........................... ........................................................................, vem(vêm), pela presente, informar a V.Sªs. que o(s) Sr.(s) ............................................................. Carteira de Identidade n.º ......................................... é(são) pessoa(s) designada(s) por nós para acompanhar a LICITAÇÃO em epígrafe, podendo, para tanto, impugnar, transigir, desistir expressamente de recursos, requerer, assinar, enfim praticar os atos que forem necessários para o fiel cumprimento do presente credenciamento.
+
+Carimbo com nome(s) e assinatura(s) do(s) representante(s) legal(ais) da licitante NOME DA LICITANTE
+
+(Esta carta deverá ser datilografada/impressa em papel timbrado da licitante)
+
+40
+
+ANEXO V (CONCORRÊNCIA N.º 01/2010) DECLARAÇÃO DE INEXISTÊNCIA DE FATO SUPERVENIENTE
+
+Declaramos, sob as penas da lei, que inexiste fato superveniente à participação de nossa empresa na licitação Concorrência 01/2010. Por ser esta a expressão da verdade, firmamos a presente para que surtam os efeitos desejados.
+
+Local e Data
+
+Assinatura do(s) representantes(s) legal(is) da licitante Nome do Representante Legal por extenso Nome da Licitante
+
+(Esta carta deverá ser datilografada/impressa em papel timbrado da licitante)
+
+41
+
+ANEXO VI (CONCORRÊNCIA 01/2010) MINUTA DE CONTRATO CONTRATO DE PRESTAÇÃO DE SERVIÇOS NA ÁREA DE INFORMÁTICA QUE ENTRE SI FAZEM BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S/A - BANDES E ......................................................, NA FORMA ABAIXO: BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S/A - BANDES, instituição financeira constituída sob a forma jurídica de sociedade de economia mista, com sede na Av. Princesa Isabel, 54, 12º andar - Ed. Caparaó, Vitória - ES, inscrito no CNPJ sob nº 28.145.829/0001-00, doravante denominado simplesmente CONTRATANTE ou BANDES. ..................................................................................., pessoa jurídica de direito privado, com sede na .................................................................................................., inscrita no CNPJ sob nº ................................................., doravante denominada simplesmente CONTRATADA, Por seus representantes legais, resolvem, de comum acordo, celebrar o presente contrato que se regerá pelas cláusulas e condições seguintes: CLÁUSULA PRIMEIRA: DO OBJETO - O presente contrato tem por objeto a prestação de serviços técnicos na área de informática, para desenvolvimento e manutenção de sistemas, na forma constante das Especificações Técnicas ­ Anexo Único deste Contrato. Parágrafo Primeiro: Vinculam-se a este contrato, como se nele transcritas, as propostas técnica e comercial da CONTRATADA, bem como os termos do Edital de concorrência nº 01/2010, processo nº AD-45/2010. Parágrafo segundo: A equipe técnica alocada e aceita pelo BANDES para a prestação dos serviços somente poderá ser alterada mediante solicitação deste ou com sua prévia anuência, sempre por escrito. CLÁUSULA SEGUNDA: DO PRAZO - O prazo de vigência do presente contrato é de 12 (doze) meses, contados da sua assinatura, podendo ser prorrogado, respeitado o prazo máximo de 60 meses previsto na legislação. CLÁUSULA TERCEIRA: DO PREÇO - Os preços dos serviços estão discriminados no quadro abaixo, na conformidade da proposta comercial da CONTRATADA. TIPO DE SERVIÇO Desenvolvimento de sistemas em Delphi Manutenção de sistemas em Delphi Desenvolvimento de sistemas em .Net Manutenção de sistemas em .Net Administração e configuração de Software, Administração
+42
+
+UNIDADE DE AFERIÇÃO Ponto de função Ponto de função Ponto de função Ponto de função Hora
+
+VALOR UNITÁRIO R$ R$ R$ R$ R$
+
+de Bancos de Dados e Apoio Técnico Parágrafo Primeiro: Estão incluídos no preço referido no "caput" desta cláusula todos os custos relativos à prestação dos serviços, tais como: despesas de pessoal, encargos sociais, impostos, taxas, estadas e deslocamento do pessoal envolvido e outras despesas relacionadas com a realização dos serviços. Parágrafo Segundo: O desembolso estimado para o período de 12 (doze) meses é de R$ 5.000.000,00 (cinco milhões de reais.) CLÁUSULA QUARTA: DO PAGAMENTO - Os serviços executado, concluídos, aceitos e validados pelo Gestor do Projeto, serão faturados ao final de cada mês, dispondo o BANDES do prazo de até 05 (cinco) dias úteis após a apresentação da Nota Fiscal/Fatura, para o pagamento, observado o seguinte: a) O faturamento será equivalente ao somatório dos valores de cada tipo de serviço prestado, considerados na sua apuração o número de UNIDADES DE AFERIÇÃO e os VALORES UNITÁRIOS de cada um deles; b) As unidades de aferição deverão ser compatíveis com o número de unidades previstas nas solicitações de serviços, salvo se algum fato novo crie a necessidade de reavaliar os quantitativos estimados; c) A aceitação dos serviços executados pela CONTRATADA no mês a que se referir o faturamento dar-se-á após a verificação, por parte do BANDES, do seu conteúdo e, quando for o caso, após os necessários testes, comprovando a conformidade dos produtos gerados às especificações técnicas constantes do(s) pedido(s) de desenvolvimento/manutenção. d) Ocorrendo erro na apresentação da Nota Fiscal/Fatura, a mesma será devolvida à CONTRATADA para retificação, ficando estabelecido que o pagamento se dará após a apresentação da nova Nota Fiscal/Fatura devidamente retificada; e) É expressamente vedado à CONTRATADA a cobrança ou o desconto de duplicatas emitidas contra o BANDES em razão do presente contrato através da rede bancária ou de terceiros. CLÁUSULA QUINTA: DO REAJUSTAMENTO DE PREÇOS ­ Os preços ajustados são fixos, podendo ser reajustados ao final de cada ano contratual, com base na variação efetiva dos custos, apurada com base em Planilha de Custo e Formação de Preços, reajuste este limitado à variação do IPCA da FIPE, ocorrida entre o mês anterior ao da aplicação do reajuste e o do mesmo mês do ano anterior. Parágrafo Único: Na impossibilidade de aplicação do IPCA, quer na hipótese de sua extinção, ou pela superveniência de normas legal ou regulamentar, adotar-se-á o novo índice que vier a substituí-lo e, se inexistente, o índice ou critério eleito pelas partes. CLÁUSULA SEXTA: DAS OBRIGAÇÕES DO BANDES ­ Constituem obrigações do BANDES: I. Gerenciar os serviços contratados, diretamente ou através de empresa contratada para esse fim, definindo as atividades a serem repassadas à CONTRATADA para execução;
+43
+
+II.
+
+Definir os padrões de trabalho e qualidade a serem utilizados na prestação dos serviços, bem como estabelecer, em conjunto com a equipe da CONTRATADA, a quantidade de unidades de aferição necessárias para a execução de cada serviço; Promover o controle das atividades de execução dos serviços e a sua coordenação, através de Reuniões de Progresso de Projetos e Reuniões de Coordenação de Projetos, eventos esses que deverão ser registrados, respectivamente, nos Relatórios de Progresso de Projetos e Relatórios de Coordenação de Projetos, com periodicidade, no mínimo, quinzenal e, no máximo, mensal; Fornecer à CONTRATADA as informações necessárias ao desenvolvimento dos serviços objeto deste contrato.
+
+III.
+
+IV.
+
+CLÁUSULA SÉTIMA: DAS OBRIGAÇÕES DA CONTRATADA - Além de outras obrigações previstas em lei ou decorrentes de outras cláusulas deste contrato, obriga-se a CONTRATADA a: I. II. III. Executar os serviços de acordo com o previsto neste contrato, no edital, nas propostas técnica e comercial e com o que for solicitado pelo BANDES; Manter sigilo sobre todas as informações fornecidas pelo BANDES em decorrência da prestação dos serviços; Obter anuência prévia e formal do BANDES para a substituição de qualquer membro da equipe técnica alocada na prestação dos serviços, bem como acatar, imediatamente, qualquer solicitação do BANDES, no sentido de promover o afastamento de quaisquer de seus empregados encarregados da prestação dos serviços, que não mereçam sua confiança ou ainda que se comportem de modo inconveniente ou incompatível com o exercício das funções que lhes forem atribuídas; Comunicar, imediatamente, ao BANDES, qualquer inclusão ou substituição de pessoal, através de comunicação formal, juntamente com cópia de documento de identificação com foto e Carteira de Trabalho (CTPS) registrada do prestador de serviço; Manter disponibilidade de efetivo dentro dos padrões desejados, para reposição imediata nos casos de faltas, impedimentos, bem como, impedir que o empregado que cometer falta disciplinar qualificada como de natureza grave, seja mantido ou retorne a atividade nas dependências da CONTRATANTE; Responsabilizar-se pela assiduidade e pontualidade de sua equipe e assumir todas as responsabilidades e medidas necessárias ao atendimento dos seus empregados acidentados ou com mal súbito; Comunicar ao BANDES qualquer ocorrência que possa afetar o desenvolvimento e/ou a execução dos serviços, respondendo integralmente por sua omissão; Fornecer mensalmente ao BANDES, junto com a nota fiscal ou fatura, relação nominal de todos os empregados que executaram serviços nas dependências do CONTRATANTE, bem como a comprovação do pagamento dos empregados, assim como da entrega dos vales transportes, cesta alimentação e outros benefícios que fizerem jus por força de Lei ou Convenção Coletiva de Trabalho; Gerenciar e responsabilizar-se diretamente pela sua equipe técnica, alocada na prestação dos serviços, de forma a manter todas as atividades previstas com bom nível
+44
+
+IV.
+
+V.
+
+VI.
+
+VII. VIII.
+
+IX.
+
+de atendimento, disponibilizando para cada atividade uma equipe específica; X. Executar os serviços dentro dos padrões e qualidade definidos pelo BANDES, comprometendo-se a realizá-los de forma compatível com as quantidades de unidades de aferição estimadas para a sua realização, salvo em caso devidamente justificado e aceito pelo BANDES; Ajustar as eventuais distorções identificadas pelo BANDES em relação às especificações técnicas, no prazo máximo de 05 (cinco) dias úteis, contados da notificação que o BANDES lhe fizer neste sentido; Complementar ou refazer, sem qualquer ônus para o BANDES, os serviços considerados incompletos ou que tenham sido rejeitados pelo mesmo, em face do não atendimento das necessidades de qualidade, precisão e objetivos; Realizar, sem qualquer ônus para o BANDES, manutenções corretivas em funções desenvolvidas e pagas, visando corrigir problemas gerados por erros de análise e/ou programação; Prestar ao BANDES, durante o prazo de 03 (três) meses após o término do contrato, esclarecimentos, informações adicionais e/ou eventuais serviços complementares que se configurem indispensáveis ao perfeito funcionamento dos programas gerados com a prestação dos serviços; Arcar com o pagamento de todas as obrigações trabalhistas, previdenciárias, fiscais e securitárias da equipe técnica alocada, bem como com o pagamento dos tributos que incidam ou venham a incidir sobre a prestação dos serviços, apresentando ao BANDES os respectivos comprovantes de pagamento, sempre que este o exigir e nos prazos por ele estipulados; Reembolsar, imediatamente, ao BANDES qualquer quantia que este eventualmente venha a ser condenado a pagar a empregado da CONTRATADA, em decorrência de demanda Trabalhista, Fiscal ou Previdenciária, quantia essa que será atualizada monetariamente pela variação do IGPM - FGV, desde a data do desembolso pelo BANDES, até a data do efetivo pagamento e acrescida de juros de 12% (doze por cento) ao ano; Responder por quaisquer danos causados aos equipamentos do BANDES, em razão do uso inadequado por parte dos seus técnicos, após a devida apuração em processo interno do BANDES;
+
+XI.
+
+XII.
+
+XIII.
+
+XIV.
+
+XV.
+
+XVI.
+
+XVII.
+
+XVIII. Responder pelos danos e prejuízos causados ao BANDES ou a terceiros, em decorrência do não funcionamento ou do funcionamento inadequado do SISBANDES em razão dos serviços desenvolvidos no âmbito deste contrato, ou ainda, de paralisações havidas, resultantes de falha técnica ou de falta imputável aos seus técnicos, desde que devidamente comprovado em processo interno do BANDES; XIX. Não subcontratar ou ceder a terceiros, total ou parcialmente, o objeto deste contrato, sem prévia e expressa anuência do BANDES, por escrito.
+
+Parágrafo Único: Para todos os fins de direito, a licitante vencedora é empregadora
+
+autônoma, não existindo entre seus empregados e o BANDES vínculo de qualquer natureza, correndo por conta e responsabilidade exclusiva da proponente todas as obrigações trabalhistas e previdenciárias, FGTS, seguros e pagamento de tributos que incidam ou
+45
+
+venham incidir sobre a prestação dos serviços ora mencionados neste contrato e no Edital de Concorrência nº 01/2010. CLÁUSULA OITAVA: DA RETENÇÃO DE PAGAMENTOS - Na hipótese da CONTRATADA tornarse inadimplente no tocante a encargos de sua responsabilidade, poderá o BANDES reter pagamentos que lhe sejam devidos em razão do presente contrato, utilizando a quantia retida para a satisfação dos mencionados encargos. CLÁUSULA NONA: DA NÃO DIMINUIÇÃO DE RESPONSABILIDADES - A faculdade outorgada ao BANDES nas cláusulas precedentes, qual seja, a de exigir os respectivos comprovantes de pagamento e de reter pagamentos para satisfação direta de encargos inadimplidos, não exclui ou diminui a responsabilidade da CONTRATADA pela execução do estipulado neste instrumento e nem constituirá qualquer óbice à eventual rescisão contratual. CLÁUSULA DÉCIMA: DAS PENALIDADES APLICÁVEIS - Pela inexecução total ou parcial deste contrato, ou ainda, pelo descumprimento de qualquer obrigação nele assumida, a CONTRATADA será notificada pelo BANDES, sendo-lhe garantida prévia defesa. Caso as razões por ela apresentadas sejam consideradas improcedentes, o BANDES poderá aplicarlhe as seguintes sanções: I. II. III. IV. Advertência; Multa de 5% (cinco por cento) sobre o valor atualizado deste contrato; Suspensão temporária de participação em licitação e impedimento de contratar com o BANDES, por prazo não superior a 02 (dois) anos; Declaração de inidoneidade para licitar ou contratar com o BANDES, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a sua reabilitação, na forma da Lei 8.666/93.
+
+Parágrafo Primeiro: A multas no inciso II desta cláusula será descontada dos pagamentos devidos, imediatamente, ou cobradas, judicialmente, se for o caso. Parágrafo Segundo: As sanções previstas nos incisos I, III e IV desta cláusula poderão ser aplicadas juntamente com a do inciso II, facultada a defesa prévia do interessado, no respectivo processo, no prazo de 05 (cinco) dias úteis. Parágrafo Terceiro: A sanção estabelecida no inciso IV desta cláusula é de competência exclusiva da Diretoria Colegiada do BANDES, facultada a defesa do interessado no respectivo processo, no prazo de 10 (dez) dias da abertura de vista, podendo a reabilitação ser requerida após 2 (dois) anos de sua aplicação. CLÁUSULA DÉCIMA PRIMEIRA: DA RESCISÃO - A inexecução total ou parcial deste contrato enseja a sua rescisão, com as conseqüências contratuais e as previstas em lei ou regulamento, em especial as previstas nos artigos 78 e seguintes da Lei 8.666/93. CLÁUSULA DÉCIMA SEGUNDA: DA PROPRIEDADE DOS SOFTWARES - Os programas e sistemas desenvolvidos, adaptados e implementados pela CONTRATADA no âmbito do presente contrato, serão de propriedade exclusiva do BANDES, podendo este cedê-los ou licenciá-los a terceiros, com ou sem remuneração, sem necessidade de autorização ou prévio conhecimento da CONTRATADA, cabendo-lhe efetuar a entrega ao BANDES da totalidade da
+46
+
+documentação e dos programas fontes desenvolvidos por seus técnicos, inclusive manutenções evolutivas ou corretivas e de caráter complementar. Parágrafo único: A falta ou o atraso na entrega da documentação e dos programas fontes, a comercialização ou a utilização dos programas e sistemas por terceiros em decorrência de ação ou omissão da CONTRATADA constitui falta grave, motivadora da aplicação das penalidades previstas na Cláusula Décima, além de gerar obrigação de indenizar perdas e danos decorrentes de sua ação faltosa. CLÁUSULA DÉCIMA TERCEIRA: DA POLÍTICA DE SEGURANÇA DAS INFORMAÇÕES ­ A CONTRATADA se responsabiliza pela orientação de seus empregados quanto ao cumprimento das Políticas de Segurança da Informação do BANDES, sendo corresponsável pela utilização de senhas e pela manipulação de informações do BANDES, por seus empregados, disponibilizadas para atuação na prestação dos serviços ora contratados, na forma de termos de responsabilidade por eles firmados, estendendo-se ao âmbito do judiciário, inclusive no que tange a obrigação de indenizar. CLÁUSULA DÉCIMA QUARTA: DOS CASOS OMISSOS - Nos casos omissos aplicar-se-á ao presente contrato, no que couber, as disposições da Lei nº. 8.666/93 e suas alterações posteriores. CLÁUSULA DÉCIMA QUINTA: DA AUTORIZAÇÃO DA CONTRATAÇÃO ­ A licitação que originou o presente contrato foi autorizada pela Diretoria Executiva, em reunião realizada em 09.07.2010 ­ Concorrência 01/2010 ­ Processo AD ­ 45/2010. CLÁUSULA DÉCIMA SEXTA: DOS RECURSOS FINANCEIROS ­ Os recursos financeiros para cobertura das despesas decorrentes deste contrato são próprios do CONTRATANTE. CLÁUSULA DÉCIMA SÉTIMA: DO FORO - As partes elegem, de comum acordo, o foro de Vitória, Comarca da Capital do Estado do Espírito Santo, como competente para dirimir quaisquer dúvidas ou questões que se originem deste contrato, renunciando a qualquer outro, por mais privilegiado que seja. E por assim terem ajustado, as partes contratantes, depois de sua leitura, com as testemunhas abaixo, assinam as 03 (três) vias de igual teor deste contrato, obrigando-se por si e por seus sucessores, a cumpri-lo fielmente em todos os seus termos.
+
+Vitória (ES), ........ de ............................ de 2010.
+
+BANCO DE DESENVOLVIMENTO DO ESPÍRITO SANTO S/A - BANDES
+
+CONTRATADA TESTEMUNHAS: 1.
+47
+
+2.
+
+CPF nº
+
+CPF nº
+
+ANEXO ÚNICO DO CONTRATO (CONCORRÊNCIA Nº 01/2010) OBJETO E ESPECIFICAÇÕES TÉCNICAS OBJETO Contratação, por um período de 12 meses, de empresa especializada para prestação de serviços na área de informática, visando: Desenvolvimento e Manutenção de Sistemas ­ serviços para adicionar novas funcionalidades e corrigir problemas no Sistema Corporativo SISBANDES ­ Delphi, Sistema Corporativo SISBANDES ­ .Net (dotNet), Sistema CREDFOR, Sistema de Informações Gerenciais e INVEST-ES, incluindo a gerência das configurações das versões dos sistemas e a administração das bases de dados. 5 Composição dos Sistemas. 1.7 Sistema Corporativo SISBANDES - Delphi Sistema desenvolvido em 3 camadas: cliente com interface gráfica Delphi versão 2006, camada de negócios utilizando servidor de transações da Microsoft (MTS/COM+), objetos de negócio Delphi versão 2006, utilizando middleware Midas e banco de dados SQL-Server 2005. Trabalha de forma distribuída, em ambiente de computadores de pequeno e médio porte (micros e servidores). Atualmente é constituído por 51 (cinqüenta e um) aplicativos de software ou módulos operando de forma integrada e compartilhando a mesma base corporativa de dados, contemplando todo o processo operacional de concessão de crédito, nas suas diversas fases, desde a articulação até o controle financeiro das operações de crédito. Com aproximadamente 80.000 pontos de função, ele contempla os seguintes grupos de módulos: Infraestrutura Gerenciais Comerciais Operacionais Apoio; Segurança; Serviços. Consultas Econômico-Financeiras; Gestão Estratégica. Cadastro; Conformidade; Ouvidoria; Contact Center; Gestão comercial; Documentação; Parcerias; Prospecção. Acompanhamento Rural; Acompanhamento Urbano; Incentivos Fiscais; FUNDAP; Contratação; Análise; Garantias; Instrumento Decisório; Matriz de Crédito e Risco; NossoCrédito; Planejamento; Protocolo; RECOR; Projetos; Solicitação de Financiamento via Web; Solicitação FUNDAP via Internet.
+48
+
+Administrativo/contábil ASCOM; Almoxarifado; Compras e Recebimento; Controles GERHA; Imóveis Não de Uso; Patrimônio. Contábeis/financeiros Apropriação; Basiléia; Central de Risco BACEN, CDB; Capitalização; Caução FUNDAP; Cobrança; Contabilidade; Contas a Pagar; Cotações e Índices; DV/OP; IFT; Liberação; Renegociação; Simulação; Tesouraria.
+
+1.8 Sistema Corporativo SISBANDES - .Net (dotNet) Sistema desenvolvido utilizando o padrão ASP.NET MVC 1.0: interface WEB desenvolvida utilizando EXT.JS versão 3.1.1, servidor WEB Microsoft Windows 2008 com IIS 7 e .NET Framework versão 3.5, utilizando Microsoft Windows Communication Foundation para comunicação entre as camadas de Controle e Modelo, utilizando a linguagem C# e LINQ Entity Framework 4.0 como método de acesso ao banco de dados Microsoft SQL-Server 2005. Tem aproximadamente 3.450 pontos de função Módulos Segurança; Controle de viagens; Controle de correspondências. Opera de forma integrada e compartilhando a mesma base corporativa de dados e com o Sisbandes - DELPHI. 1.9 CREDFOR O CREDFOR é um sistema de crédito, por meio de leilão eletrônico e certificação digital, para atender empresas do Espírito Santo, fornecedoras de produtos e serviços a empresas âncoras (grandes empresas). Tem aproximadamente 1.400 pontos de função Foi desenvolvido em .NET versão 3.5 utilizando a linguagem C# com interface WEB utilizando ASP.NET, servidor WEB Microsoft Windows 2008 com IIS 7 e banco de dados Microsoft SQL-Server 2005. Módulos Segurança e Auditoria; Publicações e Relatórios Gerenciais; Leilão; Liquidação Financeira; Documentação; Participantes; Clientes; Certificação. 1.10 Sistema de Informações Gerenciais
+
+O sistema de Informações Gerenciais utiliza tecnologias de Business Intelligence (BI) e é composto pelos módulos de Controladoria, Nossocrédito, Serviços e Operacional. Os procedimentos de extração, transformação e carga dos dados que alimentam o sistema utilizam como fonte o banco SQL Server do Sisbandes. Eles são implementados através de stored procedures escritas em Transact-SQL e executadas em servidor SQL Server 2005. A administração dos metadados é feita através da ferramenta SQL Server Business Intelligence Development Studio e a disponibilização é feita através de servidor SQL Server Analysis Services. A manipulação dos dados pelo usuário final é feita através do Microsoft Excel 2007 ou do SQL Server Reporting Services.
+49
+
+1.11
+
+INVEST-ES
+
+O INVEST-ES é um sistema que controla os benefícios/Incentivos Fiscais concedidos a empresas que queiram implantar novos projetos no Espírito Santo. Sistema desenvolvido utilizando o padrão ASP.NET MVC 1.0: interface WEB desenvolvida utilizando EXT.JS versão 3.1.1, servidor WEB Microsoft Windows 2003 com IIS 6 e .NET Framework versão 3.5, utilizando Microsoft Windows Communication Foundation para comunicação entre as camadas de Controle e Modelo, utilizando a linguagem C# e LINQ Entity Framewrok 4.0 como método de acesso ao banco de dados Microsoft SQL-Server 2005. Tem aproximadamente 5.500 pontos de função Módulos Segurança e Auditoria; Apoio; Solicitação e Recebimento; Análise e Avaliação; Resolução e Termo de Acordo; Constatação de Investimento; Acompanhamento; Consultas e Relatórios; Avisos. 1.12 DISPOSIÇÃO GERAL
+
+1.12.1 O BANDES reserva-se o direito de, a qualquer momento, atualizar ou substituir qualquer dos softwares que previamente definiu para a execução dos serviços objeto do Edital. 1.12.2 As funcionalidades desenvolvidas na plataforma web deverão ser disponibilizadas para serem utilizadas em pelo menos 3 (três) navegadores. Inicialmente o Bandes adotará os navegadores Internet Explorer 8.0, Firefox 3.5 e Chrome 5.0. Caso novas versões desses navegadores sejam adotadas pelo BANDES, o custo para a adaptação do código já desenvolvido será de responsabilidade do BANDES. A contratada deverá se adequar para que novos desenvolvimentos utilizem essas versões sem ônus para o BANDES. 6 AMBIENTE TECNOLÓGICO 6.1 Metodologia de Desenvolvimento Vide Anexo III 6.2 Plataforma de Hardware É constituída de 15 servidores Intel, entre eles: 6.2.1 Servidor de banco de dados SQL com 4 processadores (com 6 núcleos cada) e 256 GB de memória e 1 TB de discos 6.2.2 Servidor virtual de Banco de Dados Oracle/Aplicações Java com 1 Processador e 1 Gb de memória e 30 Gb de disco; 6.2.3 Servidor de transações para SQL com 4 processadores e 4 GB de memória; 6.2.4 Servidor de transações para SQL com 4 processadores (com 4 núcleos) e 4 GB de memória;
+50
+
+6.2.5 Servidor para BI com 2 processadores e 4 GB de memória; 7 Forma de Pagamento a) Para efeito de pagamento dos serviços, o BANDES utilizará um sistema de autorização e validação de serviços, que permitirá a certificação dos serviços a serem pagos mensalmente. b) O pagamento dos serviços de desenvolvimento e manutenção dos sistemas e suporte ao ambiente e providenciado pelo BANDES no prazo de até 05 (cinco) dias úteis após a apresentação da Nota Fiscal de Prestação de Serviços pela CONTRATADA. c) A Nota Fiscal deverá vir acompanhada dos comprovantes de pagamento de salários e benefícios, entrega do vale-transporte, de pagamento do FGTS e do INSS do mês anterior ao do faturamento relativos aos seus técnicos alocados nos serviços, observado o seguinte: 1) O faturamento de cada mês será equivalente ao somatório do total de horas e/ou Pontos de Função trabalhados correspondentes aos serviços concluídos, aceitos e validados pelo Gestor do Projeto (usuário final); 2) As manutenções corretivas em funcionalidades desenvolvidas e implementadas pela empresa contratada serão realizadas sem ônus para o BANDES. Entende-se por manutenção corretiva todo e qualquer acerto ou ajuste decorrente do mau funcionamento da aplicação, ou seja, de funcionamento em desacordo com as especificações técnicas e funcionais aprovadas pelo BANDES; 3) As unidades de aferição deverão ser compatíveis com o número de unidades previstas nas solicitações de serviços, salvo se algum fato novo crie a necessidade de reavaliar os quantitativos estimados; d) A aceitação e validação dos serviços executados pela CONTRATADA dar-se-á após a verificação do seu conteúdo por parte do BANDES após a realização de testes que comprovem a conformidade dos produtos gerados com as especificações técnicas acordadas previamente com o usuário e aprovadas na própria Solicitação de Manutenção; 8 Informações Complementares - IMPORTANTE a) A CONTRATADA realizará o trabalho nas dependências do BANDES, que disponibilizará o espaço físico necessário, bem como disponibilizará os equipamentos (microcomputadores e impressoras) e ainda softwares, mesas , cadeiras, telefones, fax, internet, etc.., enfim, todos os recursos necessários à prestação dos serviços objeto desta licitação. b) Os programas e sistemas desenvolvidos, adaptados e implementados pela CONTRATADA no âmbito do presente contrato, serão de propriedade exclusiva do BANDES, podendo este cedê-los ou licenciá-los a terceiros, com ou sem remuneração, sem necessidade de autorização ou prévio conhecimento da CONTRATADA, cabendolhe efetuar a entrega ao BANDES da totalidade da documentação e dos programas
+51
+
+fontes desenvolvidos por seus técnicos, inclusive manutenções evolutivas ou corretivas e de caráter complementar. c) O BANDES na qualidade de instituição financeira está sujeito às normas bancárias e legais vigentes no país, principalmente no aspecto relativo ao sigilo bancário . Assim, a CONTRATADA se responsabilizará pela orientação de seus empregados quanto ao cumprimento das Políticas de Segurança da Informação do BANDES, sendo corresponsável pela utilização de senhas e pela manipulação de informações do BANDES por seus empregados, disponibilizadas para atuação na prestação dos serviços ora contratados, na forma de termos de responsabilidade por eles firmados, estendendo-se ao âmbito do judiciário, inclusive no que tange a obrigação de indenizar.
+
+52
+
+ANEXO VII TABELA DE PONTUAÇÃO ESTIMADA PELA LICITANTE ESCLARECIMENTOS IMPORTANTES - ATENÇÃO 1) O PREENCHIMENTO CORRETO DA PLANILHA ABAIXO É DE INTEIRA RESPONSABILIDADE DA LICITANTE. EVENTUAIS PERDAS DE PONTOS DEVIDO A ERROS OU ESQUECIMENTOS NA VINCULAÇÃO DOS ATESTADOS/COMPROVAÇÕES AOS QUESITOS NÃO PODERÃO SER IMPUTADOS À CPL OU AO BANDES; 2) A CPL UTILIZARÁ A PLANILHA EXCLUSIVAMENTE PARA CONFERÊNCIA DOS ATESTADOS E PONTUAÇÕES INFORMADAS; 3) OS ATESTADOS E COMPROVAÇÕES APRESENTADOS SERÃO OBJETO DE DILIGÊNCIAS PELA CPL. A UTILIZAÇÃO DE ATESTADOS/COMPROVAÇÕES CUJAS INFORMAÇÕES NÃO SEJAM VERDADEIRAS IMPLICARÃO NA IMEDIATA DESCLASSIFICAÇÃO DA LICITANTE, SEM PREJUÍZO DA APLICAÇÃO DAS DEMAIS SANÇÕES CÍVEIS E CRIMINAIS AOS RESPONSÁVEIS, NA FORMA DA LEI.
+
+Item 1 1.1
+
+Descrição Nota de Compatibilidade ­ NC Comprovação de que a empresa atua no mercado prestando serviços de desenvolvimento e manutenção de sistemas Comprovação de que a empresa presta ou prestou serviços de desenvolvimento e manutenção de sistemas em 3 camadas: cliente com interface gráfica Delphi, camada de negócios utilizando servidor de transações da Microsoft (MTS/COM+), objetos de negócio Delphi, utilizando middleware Midas e banco de dados SQL-Server 2000 ou superior:
+
+Comprovação
+
+Indicar as páginas dos atestados e contratos
+
+Pontuação Indicar somatório dos pontos obtidos no item 1 Indicar pontos obtidos neste item
+
+1.2
+
+1.2.1 Durante um período ininterrupto de: (períodos não sobrepostos) 1.2.2 Envolvendo um número de analistas correspondente a:
+53
+
+Indicar as páginas dos atestados e contratos Indicar as páginas dos atestados e contratos
+
+Indicar pontos obtidos neste item Indicar pontos obtidos neste item
+
+1.2.3 Já tendo sido entregue um total de: 1.3 1.3.1 Comprovação de que a empresa presta ou prestou serviços de desenvolvimento e manutenção de sistemas com interface Web utilizando linguagem C# na plataforma .NET e banco de dados SQL-Server 2000 ou superior: durante um período ininterrupto de: (períodos não sobrepostos)
+
+Indicar as páginas dos atestados e contratos
+
+Indicar pontos obtidos neste item
+
+Indicar as páginas dos atestados e contratos Indicar as páginas dos 1.3.2 envolvendo um número de analistas correspondente a: atestados e contratos Indicar as páginas dos 1.3.3 já tendo sido entregue um total de: atestados e contratos Indicar o Indicar as Comprovação de que a empresa presta ou prestou serviços de desenvolvi- subitem que a páginas 1.4 mento e manutenção de sistemas cobrindo as áreas comercial, operacional, empresa irá dos contábil e financeira: pontuar: 1.4.1, atestados e 1.4.2 ou 1.4.3 contratos
+
+Indicar pontos obtidos neste item Indicar pontos obtidos neste item Indicar pontos obtidos neste item Indicar pontos obtidos neste item
+
+2 2.1
+
+Nota de Serviços ­ NS
+
+Indicar somatório dos pontos obtidos no item 2
+
+Experiência dos Analistas disponibilizados conforme item 6.1.1 e 6.1.2 Pelo menos 03 (três) Analistas com experiência na arquitetura em 3 camadas: cliente com interface gráfica Delphi, camada de negócios utilizando servidor de transações da Microsoft (MTS/COM+), objetos de negócio Delphi, utilizando middleware Midas e banco de dados SQL-Server 2000 ou superior por um 2.1.1 período: Indicar a relação de analistas disponibilizados para este item:
+
+Indicar pontos obtidos neste item Tempo de experiência Páginas Atestados
+
+2.1.2
+
+Pelo menos 03 (três) Analistas com experiência em desenvolvimento e manutenção de sistemas com interface Web utilizando linguagem C# na plataforma
+54
+
+Indicar pontos obtidos neste item
+
+.NET e banco de dados SQL-Server 2000 ou superior: Indicar a relação de analistas disponibilizados para este item:
+
+Tempo de experiência
+
+Páginas Atestados
+
+Pelo menos 01 (um) Analista com experiência em Business Intelligence (BI) por um período de: 2.1.3 Indicar a relação de analistas disponibilizados para este item:
+
+Tempo de experiência
+
+Indicar pontos obtidos neste item Páginas Atestados
+
+Pelo menos 03 (três) Analistas com experiência utilizando uma das linguagens Indicar o subitem que a Indicar pontos referidas nos itens 2.1.1 e 2.1.2, nas áreas comercial, operacional, contábil e empresa irá pontuar: 2.1.4.1, obtidos neste item financeira de: 2.1.4.2 ou 2.1.4.3 Tempo de experiência Páginas Atestados 2.1.4 Indicar a relação de analistas disponibilizados para este item:
+
+2.2
+
+2.2.1
+
+Experiência dos Programadores disponibilizados conforme item 6.1.3 e 6.1.4 Pelo menos 06 (seis) Programadores com experiência em desenvolvimento para arquitetura em 3 camadas: cliente com interface gráfica Delphi, camada de negócios utilizando servidor de transações da Microsoft (MTS/COM+), objetos de negócio Delphi, utilizando middleware Midas e banco de dados SQL-Server 2000 ou superior por um período: Indicar a relação de programadores disponibilizados para este item:
+
+Indicar pontos obtidos neste item Tempo de experiência Páginas Atestados
+
+2.2.2 Pelo menos 06 (seis) Programadores com experiência em desenvolvimento e
+55
+
+Indicar pontos
+
+manutenção de sistemas com interface Web utilizando linguagem C# na plataforma .NET e banco de dados SQL-Server 2000 ou superior: Indicar a relação de programadores disponibilizados para este item:
+
+obtidos neste item Tempo de experiência Páginas Atestados
+
+Pelo menos um Programador com experiência em Business Intelligence (BI) por um período de: 2.2.3 Indicar a relação de programadores disponibilizados para este item:
+
+Tempo de experiência
+
+Indicar pontos obtidos neste item Páginas Atestados
+
+Indicar o subitem que a Indicar as Pelo menos 06 (seis) Programadores com experiência utilizando uma das empresa irá páginas linguagens referidas nos itens 2.2.1 e 2.2.2, nas áreas comercial, operacional, pontuar: dos contábil e financeira de: 2.2.4.1, 2.2.4.2 atestados ou 2.2.4.3 2.2.4 Indicar a relação de programadores disponibilizados para este item: Tempo de experiência
+
+Indicar pontos obtidos neste item
+
+Páginas Atestados
+
+Certificações do Administrador de Banco de Dados 2.3.3 Certificação MCTS: SQL Server 2005, Business Intelligence Development and Maintenance ou MCTS: SQL Server 2008, Database Development; ou ou Certificação MCITP: Database Developer (versão 2005) ou MCITP: Database 2.3.4 Developer 2008
+56
+
+2.3
+
+Indicar a página do Certificado / Transcript
+
+Indicar pontos obtidos neste item
+
+2.4
+
+Certificações do Administrador de Configurações de Software Indicar a página do Certificado / Transcript Indicar a página do Certificado / Transcript Indicar a página do Certificado / Transcript Indicar pontos obtidos neste item Indicar pontos obtidos neste item Indicar pontos obtidos neste item
+
+2.4.1 Certificação MCTS: Windows Server 2008 Active Directory Configuration 2.4.2 Certificação MCTS: Windows Server 2008 Network Infrastructure Configuration 2.4.3 Certificação MCITP: Server Administrator (versão 2008);
+
+57
+
+

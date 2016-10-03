@@ -1,0 +1,1081 @@
+PREGÃO PRESENCIAL nº 28/2010
+Regido pela Lei nº 10.520/2002, pela Lei Complementar nº 123/2006, pela Lei nº 11.488/2007, pelos Decretos nº 3.555/2000 e 6.204/2007 e, subsidiariamente, pela Lei nº 8.666/1993.
+
+Objeto
+
+CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS EM DESENVOLVIMENTO E DOCUMENTAÇÃO DE SISTEMAS DE INFORMAÇÃO.
+
+SESSÃO PÚBLICA PARA RECEBIMENTO DAS PROPOSTAS DE PREÇOS E DA DOCUMENTAÇÃO DE HABILITAÇÃO
+
+Data: 7/6/2010 Local:
+Pregoeiro e Equipe de Apoio
+
+Horário: 10h (horário de Brasília)
+Supremo Tribunal Federal, Edifício Anexo I, Térreo, Plenário do Conselho Nacional de Justiça. Praça dos Três Poderes, Brasília - DF, CEP 70.175-900. COMISSÃO PERMANENTE DE LICITAÇÃO/CNJ Supremo Tribunal Federal, Edifício Anexo I, 3º andar, sala 352. Praça dos Três Poderes, Brasília - DF, CEP 70.175-900. Telefones: (61) 3217-4666 Fax: (61) 3217-4987 e-mail: cpl@cnj.jus.br
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+PREGÃO PRESENCIAL Nº. 28/2010 PREÂMBULO O Conselho Nacional de Justiça - CNJ torna público que realizará o Pregão Presencial nº 28/2010, do tipo menor preço, sob regime de execução por empreitada por preço unitário, para contratar o objeto abaixo descrito. A proposta de preços e a documentação relativa a esta licitação serão recebidas simultaneamente na sessão pública a ser realizada em 7/6/2010, às 10h, no Supremo Tribunal Federal, Edifício Anexo I, Térreo, Plenário do Conselho Nacional de Justiça, Praça dos Três Poderes, Brasília ­ DF, CEP 70.175-900. Esta licitação, autorizada no Processo nº 338.579, fl. 285, será regida pela Lei nº 10.520/2002, pela Lei Complementar nº 123/2006, pela Lei nº 11.488/2007, pelos Decretos nº 3.555/2000 e 6.204/2007, pelas condições constantes neste Edital e, subsidiariamente, pela Lei nº 8.666/1993. SEÇÃO I ­ DO OBJETO DA LICITAÇÃO A presente licitação tem por objeto a contratação de empresa para prestação de serviços técnicos em Desenvolvimento e Documentação de Sistemas de Informação, para atender as demandas do Conselho Nacional de Justiça e dos demais órgãos do Poder Judiciário, conforme as especificações e condições estabelecidas nos Anexos I, II, III e IV. SEÇÃO II ­ DAS CONDIÇÕES DE PARTICIPAÇÃO 2.1. A sessão deste pregão será pública e realizada em conformidade com este Edital na data, horário e local indicados no preâmbulo. 2.2. Na data, hora e local designados para a sessão, os interessados deverão apresentar-se e identificar-se para credenciamento perante o pregoeiro. 2.3. Após o credenciamento, será declarada aberta a sessão pelo pregoeiro. A partir desse momento, estará encerrada a admissão de novas propostas. 2.4. Em seguida, os interessados deverão apresentar, em separado:
+
+a) declaração de que cumprem plenamente os requisitos de habilitação, excetuada a existência de ressalvas quanto à regularidade fiscal para microempresas, empresas de pequeno porte ou sociedades cooperativas que se enquadram na condição prevista no art. 34 da Lei nº 11.488/2007, conforme o modelo do Anexo II do Edital; b) Declaração de Enquadramento de Microempresa ou de Empresa de Pequeno Porte ou Declaração de Reenquadramento se for o caso, emitida pela Junta Comercial, com o objetivo de verificar se a licitante se enquadra na situação de microempresa ou empresa de pequeno porte e se atende aos requisitos do art. 3º da Lei Complementar nº 123/2006;
+
+2
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+b.1) para microempresas, empresas de pequeno porte ou sociedades cooperativas que se enquadram na condição prevista no art. 34 da Lei nº 11.488/2007, aplica-se a Lei Complementar nº 123/2006, sendo necessária a posterior regularização fiscal, nas condições estabelecidas no subitem 5.4, caso venha a formular lance vencedor; b.2) para fins de comprovação da alínea "b" do subitem 2.4, também será admitida a consulta ao Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, desde que conste expressamente que a licitante se enquadra na situação de microempresa ou empresa de pequeno porte e que a informação esteja disponível na data da sessão de recebimento de proposta e da documentação. 2.5. A declaração falsa relativa à proposta de preços e ao cumprimento dos requisitos de habilitação sujeitará a licitante às sanções previstas na legislação. 2.6. Posteriormente, as licitantes entregarão os envelopes contendo as propostas de preços e os documentos de habilitação. 2.7. As propostas e os documentos deverão estar em envelopes opacos, lacrados e rubricados no fecho, contendo nas partes externas e frontais os seguintes dizeres: Envelope nº 1
+PROPOSTA DE PREÇOS
+
+Envelope nº 2
+DOCUMENTAÇÃO DE HABILITAÇÃO
+
+PREGÃO PRESENCIAL Nº 28/2010 ­ CNJ PREGÃO PRESENCIAL Nº 28/2010 ­ CNJ Razão social da empresa: Razão social da empresa: CNPJ: CNPJ: 2.8. Não poderão participar desta licitação:
+
+a) pessoas jurídicas que não explorem ramo de atividade compatível com o objeto desta licitação; b) constituição; c) empresa declarada inidônea para licitar ou contratar com a Administração Pública ou, ainda, punida nos termos do art. 14 do Decreto nº 3.555/2000; d) empresa inadimplente com obrigações assumidas perante o Conselho Nacional de Justiça ou, ainda, punida nos termos do art. 87, incisos III e IV, da Lei nº 8.666/1993. 2.9. Os documentos apresentados nesta licitação deverão: a) b) estar em nome da licitante, com um único número de CNPJ; estar no prazo de validade estabelecido pelo órgão expedidor; consórcio de empresas, qualquer que seja sua forma de
+
+3
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+c) ser apresentados em original, em publicação da imprensa oficial, ou em cópia autenticada por cartório, por pregoeiro ou por servidor da CPL do CNJ. 2.10. Quando se tratar de certidões vencíveis em que a validade não esteja expressa, os documentos expedidos nos últimos 60 (sessenta) dias que antecederem à data da sessão deste certame serão considerados válidos. 2.11. Não serão aceitos documentos apresentados em papel térmico para fac-símile (fax). 2.12 Para garantir a integridade da documentação e da proposta recomenda-se que contenham índice e folhas numeradas e timbradas com o nome, logotipo ou logomarca da licitante. SEÇÃO III ­ DO CREDENCIAMENTO 3.1. O credenciamento realizado por meio de procuração far-se-á mediante a apresentação dos seguintes documentos: a) procuração passada em instrumento público, ou particular com firma reconhecida, com poderes especiais para formular ofertas e lances de preços e praticar todos os atos pertinentes ao certame, em nome da proponente, conforme modelo do Anexo II do Edital. No caso de apresentação de procuração passada em instrumento particular, a proponente deverá apresentar cópia do respectivo estatuto ou Contrato social e suas alterações, devidamente registrados na Junta Comercial ou no órgão competente; b) cópia da carteira de identidade.
+
+3.2. O credenciamento realizado por meio de estatuto ou contrato social farse-á mediante a apresentação dos seguintes documentos: a) cópia do respectivo estatuto ou contrato social, e suas eventuais alterações, devidamente registrados na Junta Comercial ou no órgão competente, no qual estejam expressos poderes para exercer direitos e assumir obrigações em decorrência de tal investidura; b) cópia da carteira de identidade.
+
+3.3. O credenciamento realizado por meio de estatuto ou contrato social ocorrerá no caso de comparecimento de proprietário, sócio-gerente ou dirigente da empresa proponente. SEÇÃO IV ­ DA PROPOSTA DE PREÇOS 4.1. A proposta de preços deverá ser redigida em língua portuguesa, datilografada ou impressa, sem alternativas, opções, emendas, ressalvas, borrões, rasuras ou entrelinhas, e dela deverão constar: a) identificação social, número do CNPJ, assinatura do representante da proponente, referência a esta licitação, número de telefone,
+
+4
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+endereço, dados bancários, fac-símile e, se houver, indicação de endereço eletrônico (e-mail); b) descrição clara do objeto cotado, de especificações do Anexo I do Edital ­ Termo de Referência; acordo com as
+
+c) indicação única de preço, expresso em reais, com exibição do valor unitário, em algarismos, e total, em algarismos e por extenso, com duas casas decimais, devendo ser formuladas em conformidade com o modelo constante do Anexo II deste Edital e observadas as demais condições desta Seção; d) prazo de validade da proposta de 60 (sessenta) dias, contados da data de abertura da sessão pública estabelecida no preâmbulo deste Edital. 4.2. No caso de divergência entre o valor unitário e o valor total, prevalecerá o unitário. Se for entre o valor expresso em algarismos e o por extenso, prevalecerá o por extenso. 4.3. A proposta apresentada em desacordo com este Edital será desclassificada. SEÇÃO V ­ DOS DOCUMENTOS PARA HABILITAÇÃO 5.1. Os documentos para habilitação que deverão constar do "ENVELOPE DOCUMENTAÇÃO" serão os seguintes: a) registro comercial, no caso de empresa individual;
+
+b) ato constitutivo, estatuto ou Contrato social em vigor, devidamente registrado, em se tratando de sociedades comerciais, e, no caso de sociedades por ações, acompanhado de documentos de eleição de seus administradores e alterações ou da consolidação respectiva; c) número da inscrição no Cadastro Nacional de Pessoa Jurídica CNPJ do Ministério da Fazenda; d) Certidão Conjunta Negativa de Débitos Relativos a Tributos Federais e à Dívida Ativa da União, expedida pela Secretaria da Receita Federal; e) prova de regularidade com as Fazendas Estadual e Municipal do domicílio ou sede da licitante; f) Certidão Negativa de Débito ­ CND, emitida pelo Instituto Nacional do Seguro Social - INSS; g) CRF - Certificado de Regularidade do FGTS, emitido pela Caixa Econômica Federal; h) Certidão Negativa de Falência ou Concordata ou, se for o caso, Certidão de Recuperação Judicial, expedida pelo Cartório Distribuidor da sede da pessoa jurídica;
+
+5
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+i) declaração de cumprimento do disposto no art. 7º, XXXIII, da Constituição Federal/1988 (trabalho de menores de idade, observada a Lei nº 9.854/1999), conforme modelo do Anexo II do Edital; j) declaração de inexistência de fato superveniente impeditivo da habilitação, conforme modelo do Anexo II do Edital; k) declaração de elaboração independente de proposta, conforme modelo do Anexo II do Edital; l) atestado de capacitada técnica comprovando que a licitante executou serviços de atividades contínuas, que englobem serviços técnicos especializados no Desenvolvimento e Documentação de Sistemas de Informação, num volume igual ou superior a 15.000 (quinze mil) pontos de função/ano, no mesmo contrato; l.1) o atestado deverá vir acompanhado do respectivo Contrato de prestação de serviço, com objeto compatível ao declarado no atestado, sendo obrigatório constar no referido contrato a referência à utilização da métrica de Pontos de Função. m) comprovação da qualificação econômica-financeira mediante a verificação dos índices de Liquidez Geral, Solvência Geral e de Liquidez Corrente, que deverão ser iguais ou superiores a 1 (um); m.1) caso a empresa apresente resultado menor que 1 (um) em qualquer dos índices referidos, ou que não conste o cálculo dos índices no SICAF, a licitante deverá comprovar, por meio do Balanço Patrimonial, possuir patrimônio líquido no valor de R$1.532.000,00 (um milhão e quinhentos e trinta e dois mil reais); m.2) é vedada a substituição do balanço patrimonial e demonstrações contábeis por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais quando encerradas há mais de 3 (três) meses, a contar da apresentação da proposta; m.3) as empresas com menos de um exercício social de existência devem cumprir a exigência em questão mediante a apresentação do Balanço de Abertura ou do último Balanço Patrimonial levantado; 5.2. As declarações extraídas do Sistema de Cadastramento Unificado de Fornecedores - SICAF substituirão os documentos relacionados nas alíneas "a" a "g", do subitem 5.1, para fins de habilitação da licitante cadastrada naquele sistema. Essas declarações somente serão válidas nas seguintes condições: a) se as informações relativas àqueles documentos estiverem disponíveis para consulta na data da sessão de recebimento da proposta e da documentação; e b) se estiverem dentro dos respectivos prazos de validade.
+
+6
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+5.3. Caso nos registros cadastrais conste algum documento vencido, deverá já constar do envelope de documentação outro comprovante idêntico, com o respectivo prazo atualizado, sob pena de inabilitação. 5.3.1. No curso do procedimento, em especial por ocasião do ato de julgamento da habilitação, caso conste algum documento referente à regularidade fiscal vencido, será realizada nova consulta ao SICAF ou ao site pertinente, para atualização dos prazos de validade. 5.3.2. As microempresas e empresas de pequeno porte deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição. 5.4. Havendo alguma restrição na comprovação da regularidade fiscal das microempresas ou empresas de pequeno porte, será assegurado o prazo de 2 (dois) dias úteis, prorrogáveis por igual período, a contar do momento em que se declarar o vencedor do certame, para a regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. 5.5. A não-regularização da documentação, no prazo previsto no subitem 5.4, implicará decadência do direito à contratação, sem prejuízo das sanções previstas em lei. 5.6. O Certificado de Registro Cadastral em Órgão da Administração Pública substituirá os documentos relacionados nas alíneas "a", "b" e "c" do subitem 5.1, para fins de habilitação da empresa licitante. SEÇÃO VI ­ DA ABERTURA, DA CLASSIFICAÇÃO DAS PROPOSTAS DE PREÇOS E DA FORMULAÇÃO DE LANCES 6.1. No dia e hora indicados no preâmbulo deste Edital, o pregoeiro abrirá a sessão pública para o credenciamento dos representantes das empresas. 6.2. Encerrado o prazo de credenciamento, o pregoeiro receberá os envelopes e rubricará as propostas de preços. 6.3. Após a abertura da sessão, não serão admitidos pedidos de desistência, retificação de preços ou de quaisquer outras condições oferecidas, ressalvados apenas aqueles destinados a sanar evidente erro material. 6.4. Lidos os valores, o pregoeiro relacionará todas as propostas em ordem crescente. Em seguida, classificará a de valor mais baixo e as com preços até 10% superiores àquela. 6.5. irrisórios. Será rejeitada a proposta de valor zero ou que apresentar valores
+
+6.6. Na impossibilidade de classificação de, no mínimo, 3 (três) propostas para a etapa de apresentação de lances verbais, o pregoeiro analisará as
+
+7
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+subseqüentes até alcançar o máximo de 3 (três), quaisquer que sejam os preços propostos. 6.7. As licitantes cujas propostas forem classificadas serão convocadas, individualmente, para a apresentação de lances verbais, de forma sucessiva, iniciando-se pela autora da proposta de maior valor, seguindo-se as demais em ordem decrescente de valor. 6.8. Os lances verbais devem ser inferiores ao da proposta de menor valor.
+
+6.9. A desistência do direito de apresentar lance verbal implicará exclusão da licitante da etapa competitiva e a manutenção do último lance apresentado para efeito de ordenação de propostas. 6.10. Não havendo mais interessadas em apresentar lances verbais, será encerrada a etapa competitiva. Nessa hipótese, ou caso não se realizem lances verbais, ou, ainda, se a empresa vencedora for inabilitada, o pregoeiro poderá negociar diretamente com a proponente da melhor proposta, na busca de valor adequado ao interesse da Administração. 6.11. O pregoeiro examinará a aceitabilidade da melhor proposta quanto ao objeto, ao valor e às condições definidas neste Edital e seus anexos. 6.12. Serão desclassificadas as propostas de preços que: a) não atenderem às exigências deste Edital;
+
+b) apresentarem valor total superior ao estabelecido no Anexo II do Edital ­ Estimativa de Preços; c) apresentarem preços excessivos em relação aos de mercado ou manifestamente inexeqüíveis, assim considerados aqueles que não venham a ter demonstrada sua viabilidade por meio de documentação que comprove que os custos dos insumos sejam coerentes com os praticados no mercado. 6.13. Será declarada vencedora a proposta que apresentar o menor preço total, cujo objeto lhe será adjudicado, caso seja habilitada. SEÇÃO VII ­ DOS CRITÉRIOS DE DESEMPATE 7.1. Quando houver participação nesta licitação de microempresas e/ou empresas de pequeno porte, considerar-se-á empate quando a proposta dessas empresas for igual ou até 5% (cinco por cento) superior à proposta classificada em primeiro lugar. Neste caso, e desde que a proposta classificada em primeiro lugar não tenha sido apresentada por microempresa, empresa de pequeno porte ou sociedade cooperativa, proceder-se-á da seguinte forma: a) classificação das propostas de microempresas e empresas de pequeno porte que se enquadrem na situação prevista no subitem 7.1;
+
+8
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+b) convocação da microempresa ou empresa de pequeno porte que apresentou a menor proposta dentre as classificadas na forma do subitem 7.1, "a" para que, no prazo de 5 (cinco) minutos, apresente uma última oferta, obrigatoriamente inferior à da primeira colocada, para o desempate, situação em que o objeto será adjudicado em seu favor; c) não sendo apresentada proposta pela microempresa ou empresa de pequeno porte, na situação do subitem 7.1, "b", ou não ocorrendo a regularização fiscal na situação dos subitens 5.4, ou, ainda, não ocorrendo a contratação, serão convocadas, na ordem e no mesmo prazo, as propostas remanescentes, classificadas na forma do subitem 7.1, "a", para o exercício do mesmo direito; d) no caso de propostas iguais, apresentadas por microempresas ou empresas de pequeno porte, no intervalo previsto no subitem 7.1, será realizado sorteio para selecionar aquela que apresentará primeiro novo lance. 7.2. Caso não ocorra a contratação ou a situação prevista no subitem 7.1 e suas alíneas, o objeto será adjudicado em favor da proposta originalmente classificada em primeiro lugar. SEÇÃO VIII - DA HABILITAÇÃO 8.1. Será aberto o envelope contendo a documentação de habilitação da licitante que tiver apresentado a melhor proposta. 8.2. Se a detentora da melhor proposta não atender às exigências para habilitação, o pregoeiro examinará a documentação dos autores das ofertas subsequentes, na ordem de classificação, até a apuração daquela que cumprir todos os requisitos. 8.3. A licitante que apresentar documentação em desacordo com este Edital será inabilitada. SEÇÃO IX - DOS RECURSOS 9.1. Declarada a vencedora, qualquer licitante poderá manifestar imediata e motivadamente a intenção de recorrer, quando lhe será concedido prazo de 3 (três) dias úteis para apresentação das razões do recurso, ficando as demais licitantes, desde logo, intimadas a apresentar contra-razões em igual número de dias, que começarão a correr do término do prazo concedido à recorrente, sendo-lhes assegurada vista dos autos. 9.2. A falta de manifestação imediata e motivada da licitante implicará a decadência do direito de recorrer. 9.3. O acolhimento do recurso importará na invalidação apenas dos atos insuscetíveis de aproveitamento.
+
+9
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+9.4. Os autos do processo permanecerão com vista franqueada aos interessados. SEÇÃO X - DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO 10.1. A adjudicação do objeto feita pelo pregoeiro à licitante vencedora ficará sujeita à homologação do Secretário-Geral do Conselho Nacional de Justiça. 10.2. Para fins de homologação, a proponente vencedora fica obrigada a apresentar proposta adequada ao lance final, no prazo de 24 (vinte e quatro) horas, contados da notificação realizada na audiência pública. SEÇÃO XI ­ DAS OBRIGAÇÕES DA ADJUDICATÁRIA A adjudicatária ficará obrigada a: a) notificação; b) executar o objeto adjudicado, observadas as condições estipuladas neste Edital, no Termo de Referência, na proposta e no Contrato; SEÇÃO XII ­ DAS SANÇÕES 12.1. Nos termos do art. 7º da Lei nº 10.520/2002, ficará impedida de licitar e contratar com a União, Estados, Distrito Federal ou Municípios e será descredenciada do SICAF ou dos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º da mesma Lei, pelo prazo de até 5 (cinco) anos, sem prejuízo das multas previstas neste Edital e das demais penalidades legais, a licitante que: a) não assinar a Contrato, quando convocada dentro do prazo de validade de sua proposta; b) apresentar documentação falsa; c) deixar de entregar os documentos exigidos para o certame; d) retardar, falhar ou fraudar a execução da obrigação assumida; e) não mantiver a proposta; f) comportar-se de modo inidôneo ou cometer fraude fiscal. 12.2. Com fundamento no artigo 7º da Lei nº 10.520 e nos artigos 86 e 87 da Lei nº 8.666/1993, o fornecedor ficará sujeito, no caso de atraso injustificado, assim considerado pela Administração, de inexecução parcial ou inexecução total da obrigação, sem prejuízo das responsabilidades civil e criminal, assegurada a prévia e ampla defesa, às seguintes penalidades: a) advertência; b) multas, conforme Anexo III ­ Minuta de Contrato.
+10
+
+assinar o Contrato no prazo de 5 (cinco) dias úteis, a contar da
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+c) suspensão temporária do direito de participar de licitação e impedimento de contratar com o Conselho Nacional de Justiça, pelo prazo de até 2 (dois) anos; d) declaração de inidoneidade para licitar ou contratar com a Administração Pública. 12.3. O valor da multa, aplicada após o regular processo administrativo, será descontado de pagamentos eventualmente devidos pelo CNJ ao fornecedor ou cobrado judicialmente. 12.4. As sanções previstas nas alíneas "a", "c" e "d" do item 12.2 poderão ser aplicadas, cumulativamente ou não, à pena de multa, sem prejuízo da possibilidade de rescisão unilateral do contrato por inexecução total da obrigação nos termos da Lei. 12.5. As sanções previstas nas alíneas "c" e "d" também poderão ser aplicadas à adjudicatária ou ao licitante, conforme o caso, que tenha sofrido condenação definitiva por fraudar recolhimento de tributos, praticar ato ilícito visando a frustrar os objetivos da licitação ou demonstrar não possuir idoneidade para contratar com a Administração. SEÇÃO XIII ­ DO RECEBIMENTO 13.1. O objeto desta licitação será recebido da seguinte forma:
+
+a) provisoriamente, no ato da entrega de cada etapa, pelo Departamento da Tecnologia da Informação do CNJ, para posterior conferência de sua conformidade. Caso não haja qualquer impropriedade explícita, será atestado esse recebimento; b) definitivamente, em até 5 (cinco) dias úteis, mediante termo circunstanciado, após avaliação de conformidade às especificações técnicas estabelecidas na Ordem de Serviço e no Plano de Desenvolvimento de Sistema. 13.2. Caso sejam constatadas inadequações, falhas ou incorreções na execução do objeto, a adjudicatária ficará obrigada a efetuar as correções necessárias, sem ônus para o CNJ 13.4. O recebimento provisório ou definitivo não exclui as responsabilidades civis e penais do fornecedor. SEÇÃO XIV ­ DO PAGAMENTO 14.1. O pagamento, observadas as condições estabelecidas no Anexo I ­ Termo de Referência, e no Anexo III ­ minuta de Contrato, será efetuado por etapa, mediante crédito em conta-corrente da adjudicatária, por ordem bancária, em até 15 (quinze) dias corridos, a contar do recebimento da nota fiscal/fatura, quando mantidas as mesmas condições iniciais de habilitação e caso não haja fato impeditivo para o qual tenha concorrido a adjudicatária, devendo apresentar ainda:
+11
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+a) com o INSS;
+
+Certidão Negativa de Débito ­ CND, comprovando regularidade
+
+b) Certificado de Regularidade do FGTS ­ CRF, comprovando regularidade com o FGTS. c) Certidão negativa de débitos relativos a tributos federais.
+
+14.3. O pagamento somente será realizado após o recebimento definitivo do objeto, desde que não se verifique defeitos ou imperfeições. 14.4. A adjudicatária não poderá apresentar nota fiscal/fatura com CNPJ diverso do registrado no preâmbulo do Contrato. 14.5. A nota fiscal/fatura apresentada em desacordo com o estabelecido no Edital, no Contrato ou com qualquer circunstância que desaconselhe o pagamento será devolvida à adjudicatária e nesse caso o prazo previsto no subitem 14.1 será interrompido e reiniciado a partir da respectiva regularização. 14.6. Nenhum pagamento será efetuado à adjudicatária enquanto pendente de liquidação qualquer obrigação. Esse fato não será gerador de direito a reajustamento de preços ou à atualização monetária. SEÇÃO XV ­ DOS RECURSOS ORÇAMENTÁRIOS A despesa decorrente da contratação das subscrições correrá à conta de recursos consignados ao Conselho Nacional de Justiça no Orçamento Geral da União de 2009, Programa de Trabalho: 02.126.1389.11E6.0001­ Implantação de Sistema Integrado de Gestão da Informação no Poder Judiciário, Natureza da Despesa: 3.3.90.39. ­ Outros Serviços de Terceiros ­ Pessoa Jurídica. SEÇÃO XVI ­ DA ATUALIZAÇÃO MONETÁRIA Ocorrendo atraso no pagamento, e desde que para tal não tenha concorrido de alguma forma a adjudicatária, haverá incidência de atualização monetária sobre o valor devido, pela variação acumulada do Índice Geral de Preços - Disponibilidade Interna (IGP-DI), publicado pela Fundação Getúlio Vargas, ocorrida entre a data final prevista para o pagamento e a data de sua efetiva realização. SEÇÃO XVII ­ DA ASSINATURA DO CONTRATO 17.1. Depois de homologado o resultado deste Edital, o CNJ convocará a licitante vencedora, durante a validade da sua proposta, para assinatura do instrumento contratual, que se dará em até 5 (cinco) dias úteis, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas neste Edital e no art. 81 da Lei nº 8.666/1993. 17.2. A assinatura do Contrato está condicionada à verificação da regularidade fiscal da licitante vencedora. 17.3. É facultado à Administração, quando a adjudicatária não assinar o Contrato, no prazo e nas condições estabelecidos, convocar outra licitante,
+12
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+obedecida a ordem de classificação, para assiná-lo, após comprovados os requisitos de habilitação, feita a negociação e aceita a proposta. SEÇÃO XVIII ­ DA VIGÊNCIA 18.1. O Contrato terá vigência de 12 (doze) meses, contados de sua assinatura, podendo ser prorrogado nos termos da lei. 18.2. Fica ressalvado o período de garantia para os produtos gerados ­ 12 (doze) meses, contados da data de homologação. SEÇÃO XIX ­ DO REAJUSTE Os preços contratados, observadas as condições estabelecidas no Anexo III ­ minuta de Contrato, poderão ser reajustados, mediante negociação e formalização do pedido pela adjudicatária, tendo como limite máximo a variação do IGP-DI/FGV ocorrida nos últimos 12 (doze) meses, contados da data da assinatura do Contrato ou do último reajuste. SEÇÃO XX ­ DA GARANTIA 20.1. A adjudicatária deverá apresentar garantia equivalente a 5% (cinco por cento) do valor total anual estimado, no ato da assinatura do Contrato, em uma das seguintes modalidades: a) caução em dinheiro ou em títulos da dívida pública, emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda; b) seguro-garantia; c) fiança bancária. 20.2. A garantia deverá ser prestada com validade de 3 (três) meses após o término da vigência contratual, sendo liberada em até 60 (sessenta) dias após expirada a sua vigência. 20.3. Na hipótese da exigência do instrumento contratual pela instituição financeira para a emissão da apólice, a adjudicatária terá o prazo de 10 (dez) dias corridos a contar da assinatura do Contrato para o cumprimento da obrigação. 20.4. Quando a garantia for apresentada em dinheiro, ela será atualizada monetariamente, conforme os critérios estabelecidos pela instituição bancária em que for realizado o depósito. 20.5. Aditado o Contrato, prorrogado o prazo de sua vigência ou alterado o seu valor, a adjudicatária fica obrigada a apresentar garantia complementar ou substituí-la, no mesmo percentual e modalidades constantes desta Seção. 20.6. Em caso de prorrogação do prazo contratual, a garantia será liberada após a apresentação da nova garantia e da assinatura do termo aditivo ao Contrato.
+13
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+SEÇÃO XXI ­ DO ACOMPANHAMENTO E DA FISCALIZAÇÃO 21.1 O CNJ nomeará gestor para executar a fiscalização desta contratação. As ocorrências e as deficiências serão registradas em relatório, cuja cópia será encaminhada à adjudicatária, objetivando a imediata correção das irregularidades apontadas. 21.2. A existência e a atuação da fiscalização em nada restringe a responsabilidade, única, integral e exclusiva da adjudicatária, no que concerne à execução do objeto. SEÇÃO XXII ­ DO PEDIDO DE ESCLARECIMENTO E DA IMPUGNAÇÃO 22.1. Os pedidos de esclarecimentos deverão ser enviados ao pregoeiro até 3 (três) dias úteis anteriores à data fixada para abertura, por fac-símile, pessoalmente ou por meio do endereço eletrônico: cpl@cnj.jus.br. 22.2. Até 2 (dois) dias úteis antes da data fixada para abertura da sessão deste pregão, qualquer pessoa poderá impugnar este ato convocatório, mediante petição a ser encaminhada por fac-símile, pessoalmente ou por meio do endereço eletrônico cpl@cnj.jus.br. 22.3. O pregoeiro decidirá sobre a impugnação em até vinte e quatro horas.
+
+22.4. Acolhida a impugnação ao ato convocatório, será designada nova data para a realização do certame. SEÇÃO XXIII ­ DAS DISPOSIÇÕES FINAIS 23.1. O Edital estará à disposição dos interessados na Comissão Permanente de Licitação do STF, localizada no Edifício Anexo I, sala 352, Praça dos Três Poderes, Brasília ­ DF, CEP: 70.175-900, nos dias úteis, das 13h às 19h, e na Internet para download, nos endereços eletrônicos: www.comprasnet.gov.br e www.cnj.jus.br. 23.2. Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão obrigatoriamente o horário de Brasília - DF e, dessa forma, serão registradas no sistema eletrônico e na documentação relativa ao certame. 23.3. Nenhuma indenização será devida às empresas licitantes pela elaboração de proposta ou apresentação de documentos relativos a esta licitação. 23.4. A indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativas à sessão pública do pregão constarão de ata divulgada no sistema comprasnet. 23.5 Todas as informações, pedidos de esclarecimentos e respostas a impugnações referentes a esta licitação estarão disponíveis no site do CNJ na internet: www.cnj.jus.br.
+
+14
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+23.6. Sem prejuízo das disposições contidas no Capítulo III da Lei nº 8.666/1993, o presente Edital e a proposta da adjudicatária serão partes integrantes do instrumento contratual. 23.7. O pregoeiro ou a autoridade superior poderão promover diligências destinadas a elucidar ou complementar a instrução do processo, em qualquer fase da licitação, fixando prazos para atendimento. 23.8. O pregoeiro ou a autoridade superior poderão subsidiar-se em pareceres emitidos por técnicos ou especialistas no assunto objeto desta licitação. 23.9. Aplicam-se à presente licitação, subsidiariamente, a Lei n.º 8.078, de 11 de setembro de 1990 - Código de Proteção e Defesa do Consumidor, e demais normas legais pertinentes.
+
+Brasília, 20 de maio de 2010.
+
+Marcelo Martins Berthe Secretário-Geral Adjunto Portaria nº 88/2010
+
+15
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+PREGÃO PRESENCIAL Nº 28/2009 ANEXO I DO EDITAL ­ TERMO DE REFERÊNCIA
+
+1.
+
+OBJETO
+
+Contratação de empresa para prestação de serviços técnicos em Desenvolvimento e Documentação de Sistemas de Informação, para atender as demandas do Conselho Nacional de Justiça ­ CNJ e dos demais órgãos do Poder Judiciário. 2. JUSTIFICATIVA
+
+O uso da Tecnologia da Informação, como ferramenta para a otimização das atividades administrativas, possibilitou aos órgãos da Administração Pública programar medidas que torne seus procedimentos cada vez mais rápidos, seguros, integrados, eficientes e, sobretudo, acessíveis a toda a população brasileira. O Planejamento Estratégico de Tecnologia da Informação do Poder Judiciário, alinhado com o Planejamento Estratégico do CNJ, visa manter os serviços de Tecnologia da Informação e Comunicação deste Conselho, como também, atender os serviços de Tecnologia da Informação e Comunicação necessárias para prover a Modernização do Judiciário. Dentre as demandas que serão atendidas, destacam-se os sistemas nacionais em desenvolvimento e as demandas futuras em relação aos sistemas de informação necessários para suprir às necessidades desta modernização. Assim, necessita-se atender às demandas em relação a sistemas de informação já existentes, conforme planilha abaixo, como também em relação às demandas futuras, compreendendo-se nestas últimas a criação de sistemas de informações oriundas de resoluções aprovadas pelo plenário do CNJ e ainda, sistemas internos demandados pelas unidades do CNJ. O CNJ foi instalado em Junho de 2005, e hoje, possui exatamente 45 sistemas em produção. Com base na quantidade de sistemas de informações hoje implementados, e nos sistemas de informações em fase de análise de requisitos, e também no tempo de instalação do CNJ, anualmente este Conselho coloca em produção 9,76 sistemas, ou seja, um crescimento anual de 27,9% em relação ao desenvolvimento de sistemas de informação. Cada sistema de informação tem complexidade distinta, o que pressupõe quantidades diversas de pontos de função para seu desenvolvimento. A assessoria de políticas de tecnologia do Departamento de Tecnologia da Informação está trabalhando na concepção e formatação de um plano diretor de TIC ­ PDTI a partir do Planejamento Estratégico do CNJ, de forma a definir os objetivos de TIC e conceber estratégias para atingi-los. O PDTI, portanto, é um documento que estabelece ações de curto, médio e longo prazos. Os principais benefícios que se busca alcançar são: 1. A aderência da Informática aos objetivos da organização 2. A eficácia nos custos e investimentos de Informática 3 . Melhora da eficiência operacional 4. Melhora da segurança das informações e da infra-estrutura tecnológica 5. Atualização da infra-estrutura tecnológica (hardware & software) buscando:
+16
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+5.1. Economias de escala, garantia de conectividade e redução de complexidade 5.2. Contínua melhoria nos níveis de serviços oferecidos 5.3. Disponibilizar as melhores soluções de Informática para o Poder Judiciário Com base na experiência de contratos anteriores e também com base em contratos de outros órgãos do Judiciário, na planilha abaixo, foram estimadas as quantidades previstas de pontos de função para os sistemas em produção. O objetivo da contratação, que ora se apresenta, é prover a Diretoria de Tecnologia da Informação deste Conselho, serviços técnicos especializados no Desenvolvimento e Documentação de Sistemas de Informação, visando futura absorção de todas essas demandas pela equipe de desenvolvedores do quadro efetivo do CNJ. Tem, ainda que, a previsão e a demanda por sistemas de informação visando atender ao Judiciário Brasileiro são crescente. Constantemente chegam solicitações para desenvolvimento de sistemas de informação para os Tribunais Estaduais, Federais e Superiores. Além disso, temos acordos de cooperação técnica com o TST, STM, STJ, CJF , TRF5 e com o STF, que também demandam esses serviços. Com base nas informações acima e com base nos sistemas de informação implantados, projetados, previstos e nas estatísticas de crescimento e demanda anual por novos sistemas de informação, estima-se um total de 40.000 pontos de função para a presente contratação.
+
+Sigla do Sistema
+
+Nome do Sistema
+
+Objetivo
+
+Qtde. Anual Estimada ­ PF
+
+PJe
+
+Processo Judicial Eletrônico
+
+Sistema visa o controle e o acompanhamento de forma eletrônica dos atos processuais praticados no processo.
+
+10.000
+
+VEP ­ Virtual
+
+Sistema Eletrônico de Execução Penal
+
+Acompanhar e Controlar as medidas e benefícios dos sentenciados de forma eletrônica
+
+2.500
+
+E-CNJ
+
+E-CNJ
+
+Controle dos processos jurídicos do CNJ
+
+1.000
+
+PROJUDI
+
+Sistema CNJ ­ Projudi
+
+Acompanhar e Controlar de forma eletrônica os processos em trâmite nos Juizados Especiais Cíveis e Criminais e nas Turmas Recursais
+
+5.000
+
+Malote Digital Sistema Nacional de Controle Financeiro do Poder Judiciário Sistema Nacional de Controle de Prisões Provisórias Sistema Nacional de Cadastro de Indisponibilidade Patrimonial
+
+Sistema de controle e encaminhamentos de documentos aos órgãos do Poder Judiciário por meio eletrônico Acompanhar Tribunais os gastos financeiros dos
+
+2.500
+
+SIAFI-JUD
+
+2.000
+
+SNCPP
+
+Acompanhar e controlar as prisões provisórias
+
+1.500
+
+SNCIP
+
+Acompanhar e controlar as indisponibilidade patrimonial
+
+1.500
+
+17
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+Sistema de Gestão de Bens Alienados Metas Prioritárias
+
+SGAB Metas Prioritárias
+
+Acompanhar e Controlar os bens alienados Cadastro e controle dos dados informados das dez etas de 2010 do Poder Judiciário O sistema tem por objetivo agilizar os processos de adoção por meio do mapeamento de informações unificadas. O Cadastro irá possibilitar ainda a implantação de políticas públicas na área
+
+2.000
+
+2.000
+
+CNA
+
+Cadastro Nacional de Adoção
+
+500
+
+Sistema de Informações da Corregedoria Cadastro Nacional de Condenações Cíveis por Ato de Improbidade Administrativa Sistema Nacional de Controle de Interceptações
+
+Sistema de Cadastro e Controle dos atos proferidos pelos magistrados
+
+1.000
+
+CNIA
+
+Controle das Ações de Improbidade Administrativa nos Tribunais Estaduais Cadastro e interceptações Tribunais Controle das ações telefônicas impetradas de nos
+
+400
+
+SNCI
+
+500
+
+SNBA
+
+Sistema Nacional de Bens Apreendidos
+
+O Sistema Nacional de Bens Apreendidos SNBA é uma ferramenta eletrônica que consolida, em um único banco de dados, as informações sobre os bens apreendidos em procedimentos criminais em todo o território nacional, permitindo um melhor controle dos processos e bens pelos órgãos judiciais.
+
+400
+
+Sistema de Arquivos de Servidores ­ resolução 88
+
+Sistema de controle das informações de cargos e pessoas do Poder Judiciário.
+
+300
+
+Sistema Começar de Novo
+
+Sistema de cadastro e controle de vagas, empresas e cursos para os egressos.
+
+400
+
+Sistema de Processo Administrativo Eletrônico
+
+Sistema de Controle e Acompanhamento do Processo Administrativo de forma Digital
+
+1.000
+
+CNCAL
+
+Cadastro Nacional de Adolescentes em Conflito com a Lei
+
+Sistema de Controle de Adolescentes em Conflito com a Lei
+
+600
+
+JUSNU
+
+Justiça em números
+
+Sistema para alimentação pelos Tribunais dos dados estatísticos
+
+500
+
+CNCA
+
+Cadastro Nacional de Crianças Acolhidas Sistema de Requisições de Passagens e Diárias
+
+Controle e acompanhamento das Crianças acolhidas Sistema de cadastro e controle das requisições de passagens e diárias
+
+600
+
+RPD
+
+800
+
+Novos Projetos
+
+3.000
+
+40.000
+
+18
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+3.
+
+ESTIMATIVA DE CUSTO VALOR UNITÁRIO DO PONTO DE FUNÇÃO BRUTO (R$)
+
+ITEM
+
+UM
+
+QTDE
+
+DESCRIÇÃO
+
+VALOR TOTAL (R$)
+
+1
+
+UN
+
+40.000
+
+Pontos de função para manutenção e desenvolvimento de sistemas de informação e demais serviços correlacionados. VALOR TOTAL
+
+383,00
+
+15.320.000,00
+
+15.320.000,00
+
+3.1 O valor unitário do ponto de função, foi definido com base em levantamento de preços realizado junto ao STF(R$ 264,00), STJ(R$ 485,00) e CNJ contrato atual (R$ 400,00), com aplicação de média aritmética simples. 4. DOS SERVIÇOS
+
+a. A contagem de pontos de função correspondente à prestação de serviços será realizada pela CONTRATADA e aprovada pelo CONTRATANTE, antes do início da prestação de serviços (Contagem Estimativa), o mesmo valendo para a conclusão de cada fase do ciclo de desenvolvimento de sistemas (Contagem Final). A Contagem Estimativa deverá levar em consideração as técnicas de contagem indicativa e estimativa definidas pelo IFPUG - International Function Point Users Group, versão 4.2 ou superior. b. Todo e qualquer serviço somente será executado mediante uma Ordem de Serviço (OS) emitida pelo CNJ, conforme modelo constante no Anexo C. As OS serão definidas e contemplarão as etapas, o detalhamento dos serviços, se desenvolvimento ou manutenção evolutiva, as atividades previstas, os padrões a serem seguidos, bem como demais informações técnicas necessárias para a execução dos serviços por parte da Prestadora de Serviço b.1 A data para a Homologação e Implantação de cada produto deverá ser definida pelo CNJ; c. Após a análise da OS emitida, a Prestadora de Serviço deverá apresentar ao CNJ, em um prazo de, no máximo, 15 (quinze) dias, a contar da data de entrega da OS, o Plano de Desenvolvimento de Software (PDS) ­ anexo E; d. A Prestadora de Serviço deverá especificar detalhadamente no PDS todas as atividades necessárias para o pleno desenvolvimento dos produtos, considerando as informações descritas na OS. O PDS será considerado parte integrante da OS; e. O CNJ verificará a aderência do PDS apresentado com as especificidades indicadas na OS. Caso o PDS seja reprovado, a Prestadora de Serviço deverá apresentar novo plano aderente à OS, em um prazo adicional de até 5 (cinco) dias, a contar da comunicação da reprovação, podendo, neste caso, serem aplicadas penalidades previstas contratualmente;
+
+19
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+4.1.
+
+DESENVOLVIMENTO DE SISTEMAS DE INFORMAÇÃO:
+
+Desenvolvimento de sistemas de informação é um processo que visa a construção de aplicativos, buscando automatizar e melhorar o padrão de gestão nas organizações. 1) Conhecimento do portfólio de sistemas e projetos; 2) Gerenciamento de sistemas e projetos, utilizando metodologias e ferramentas automatizadas; 3) Acompanhamento do processo de iniciação dos projetos; 4) Análise, modelagem e redesenho de processos de negócio, utilizando metodologias e ferramentas automatizadas; 5) Gerência, levantamento e análise de requisitos utilizando metodologias e ferramenta automatizadas; 6) Desenvolvimento, versionamento e testes unitário/integrado de sistemas, utilizando metodologias e ferramenta automatizada; 7) Controle de qualidade de software, com o uso de ferramentas específicas de teste de software; 8) Preparação do ambiente de desenvolvimento, testes e homologação dos sistemas; 9) Elaboração da documentação dos projetos e sistemas informatizados; 10) Integração de sistemas informatizados em plataformas heterogêneas utilizando as tecnologias de web services e XML; 11) Migração da plataforma de desenvolvimento de sistemas informatizados; 12) Administração de componentes de software; 13) Desenvolvimento de projetos de sistemas de Sites Internet e Intranet; 14) Edição e publicação de conteúdos para páginas Internet e Intranet; 15) Elaboração, revisão e homologação de documentos referentes às reuniões da área; 16) Adequação, controle, publicação e arquivamento de documentos técnicos e de sistemas/projetos; 17) Refinamento e melhoria das etapas e atividades existentes no Processo de Análise, Codificação e Testes de Sistemas; 18) Refinamento e melhoria dos artefatos dos sistemas, para atender novas situações e necessidades; 19) Refinamento e melhoria dos indicadores, promovendo um maior controle sobre as atividades de requisitos, análise, codificação e testes; 20) Identificação de fontes de "retrabalho" que ocorrem durante as atividades de análise, codificação, testes e manutenção de sistemas; 21) Identificação das etapas que concentram maior esforço dos profissionais; 22) Estabelecimento de propostas que possibilitem ampliar os níveis de serviço das atividades de requisitos, análise, codificação e testes em sistemas; 23) Proposição de Plano de Melhoria das atividades de requisitos, análise, codificação e testes de sistemas; 24) Implementação das "Melhorias Planejadas" e maximização dos ganhos da inovação realizada; 25) Refinamento e melhoria dos artefatos de estatística de qualidade para atender novas situações e necessidades; 26) Modelagem de dados e processos utilizando ferramentas automatizadas; 27) Implantação de mecanismos de segurança, como também utilização de técnicas específicas para o desenvolvimento/produção de sistemas de informação seguros; 28) Implementação de soluções/sistemas de informação com uso de criptografia e certificado digital; 29) Administração de Dados, com suporte de ferramenta automatizada;
+20
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+30) Customização (Tunning) de consultas (queries), objetos e serviços de banco de dados; 31) Suporte ao desenvolvimento de sistemas na presença de camada de persistência para transação e contexto de dados do negócio; 32) Definição de arquitetura de software com base nos modelos mais modernos disponíveis no mercado; 33) Mensuração de software, utilizando Análise de Pontos de Função; 34) Desenvolvimento de projetos utilizando tecnologias de JBPM; e 35) Implementação e manutenção de processos. 4.2. QUALIFICAÇÃO PROFISSIONAL PARA A PRESTAÇÃO DE SERVIÇOS
+
+Os profissionais gerente de projetos, analista de requisitos, projetista, analista desenvolvedor, projetista de interface, analista de testes e preposto da contratada deverão possuir qualificação profissional conforme anexo B deste Termo. 4.3. 4.3.1 METODOLOGIAS, TÉCNICAS E FERRAMENTAS Desenvolvimento de Sistemas de Informação:
+
+A CONTRATADA deverá fornecer, customizar e utilizar as seguintes metodologias para fins de atendimento das demandas de desenvolvimento e documentação de sistemas: 1) Metodologia de Gerenciamento de Projetos, tendo como referência as práticas do PMBOK (PMI), visando melhorar as ações na camada gerencial, diminuindo os riscos e aumentando as chances de sucesso na execução de projetos; 2) Metodologia de Modelagem e Redesenho de Processos, contemplando o uso da ferramenta JBPM, a fim de permitir a racionalização dos processos e o uso de recursos; 3) Metodologia de Estimativa de Software, utilizando como referência o Manual de Práticas e Contagem de Pontos de Função ­ CPM 4.2 ou superior (IFPUG), para fins de dimensionamento do tamanho dos sistemas e esforço necessário para realização dos serviços. 4) Metodologia de Teste de Software (Unitário e Integrado de Sistemas, Carga, Regressão, etc.), visando garantir a qualidade dos produtos gerados, diminuindo o retrabalho e o aumento dos custos de produção de sistemas; 5) Metodologia de Desenvolvimento de Sistemas de Suporte à Decisão (Business Intelligence), visando agilizar e melhorar a segurança no processo de tomada de decisão; e 6) Metodologia de Desenvolvimento de Sistemas a fim de melhorar a qualidade dos produtos e serviços prestados , melhorando o suporte à tomada de decisão. 4.3.2 A CONTRATADA deverá fornecer, customizar e utilizar, para fins de atendimento das demandas, Política/Norma de Segurança e Procedimentos de Inspeção de Código Fonte baseado no Modelo de Ameaças, contemplando no mínimo as seguintes categorias: falsificação de identidade, modificação não autorizada dos dados, repúdio, apresentação não autorizada de informações, elevação de privilégios e recusa de serviços.
+
+21
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+4.3.3 A CONTRATADA deverá fornecer, customizar e utilizar uma ferramenta de Gerenciamento de Demandas capaz de gerar consultas e relatórios individuais e consolidados, contemplando no mínimo as seguintes informações: 1) 2) 3) 4) 5) 6) 7) 8) 9) 10) Número; Status da solicitação; Requisitante; Descrição do(s) produto(s) e/ou serviço(s); Quantidade de Pontos de função para a realização do serviço; Data prevista e efetiva de início; Data prevista e efetiva de término; Valor da ordem de serviço; Responsável pela autorização dos serviços (CONTRATANTE); Responsável pelo aceite dos serviços (CONTRATADA);
+
+4.3.3.1 A ferramenta de Gerenciamento de Demandas deverá permitir que arquivos sejam anexados, contendo informações relevantes para execução das solicitações. 4.3.4 A CONTRATADA deverá fornecer, customizar e utilizar as seguintes ferramentas automatizadas, no âmbito da prestação de serviços: Gerenciamento de Projetos; Gerenciamento de Demandas; Modelagem de Processos e Sistemas (CASE); Teste de Software; e Gerenciamento de Mudança e Configuração. 4.3.5 Os sistemas de Gerenciamento de Projetos, Gerenciamento de Demandas, Estimativa de Software, Modelagem de Processos e Sistemas, Teste de Software e Gerenciamento de Mudança e Configuração deverão estar disponíveis no ambiente Intranet, Internet e Extranet, a fim de garantir a disponibilização tempestiva e atualizada de informações relacionadas à prestação de serviços. 4.3.6 A liberação de acesso à ferramenta utilizada deverá observar os requisitos de segurança (uso de criptografia, identificação, controle de acesso de usuários e controle de transações para inclusão, alteração e exclusão) determinados pelo CNJ. 4.3.7 A inclusão de componentes de software proprietários sem prévia e expressa autorização do CNJ é vedada em qualquer das etapas de desenvolvimento e/ou manutenção de sistemas. 4.3.8 A equipe técnica do CNJ poderá sugerir alterações nas metodologias, técnicas e ferramentas, as quais, após análise, validação e implementação por parte da CONTRATADA, deverão ser incorporadas ao acervo técnico do CNJ, sem ônus adicional, e adotadas na execução das novas Ordens de Serviços. 4.4. FORMA DE EXECUÇÃO DOS SERVIÇOS
+
+4.4.1 Os serviços a serem prestados são de natureza técnica, sob demanda, envolvendo requisitos, análise, projeto, implementação, testes, homologação e implantação dos sistemas de informação. 4.4.2 O detalhamento dos tipos de demandas deve atender: 1) Desenvolvimento de Sistema: execução de todas as etapas do ciclo de desenvolvimento de sistemas, para fins de desenvolvimento e implantação de um novo sistema. 2) Melhoria de Sistema:
+22
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+a. Evolutiva: contempla o desenvolvimento e implantação de novas funcionalidades e de novos componentes em sistemas existentes. 3) Documentação de Sistema: corresponde à execução de atividades de documentação de sistemas existentes e os novos sistemas desenvolvidos pela CONTRATADA. 4.4.3 A critério do CNJ poderá ser demandada tanto a execução de todas as fases do ciclo de desenvolvimento, quanto somente alguma(s) de sua(s) fase(s)/disciplina(s). 4.4.4 A CONTRATADA deverá providenciar um link de comunicação dedicado (mínimo de 1 Mbps), entre as suas instalações e o CNJ em Brasília, arcando com todos os custos de instalação, manutenção, segurança e controle de acesso e dados, ou quaisquer outros relacionados, durante a vigência do contrato. 4.4.5 A conexão entre as instalações da CONTRATADA e o CNJ será utilizada para troca de arquivos ou, quando autorizado pelo CNJ, para realização de testes integrados nos ambientes de desenvolvimento/teste/homologação do CNJ. 4.4.6 As interações dos profissionais da CONTRATADA com os usuários e profissionais do CNJ, para fins de recebimento das demandas dos serviços, para levantamento de pré-requisitos, ou serviço similar, ocorrerão nas instalações do CNJ, ou nas instalações dos Órgãos do Judiciário situados nas capitais, cabendo à CONTRATADA a responsabilidade pelo deslocamento dos profissionais desta envolvidos até o local de prestação de serviços. Estimam-se 120 (cento e vinte) deslocamentos e 180 (cento e oitenta) diárias. 4.4.7 O CNJ e os Órgãos do Judiciário providenciarão acesso controlado para os profissionais da CONTRATADA ao ambiente de desenvolvimento, teste e homologação, incluindo bibliotecas de programas, políticas, normas, procedimentos, metodologias, bases de dados, ferramentas, de acordo com pré-requisitos definidos nas OS. 4.4.8 Os novos requisitos solicitados após a conclusão da etapa de homologação,serão tratados como novas Ordens de Serviço. 4.4.9 A CONTRATADA deverá executar as atividades de testes relacionadas abaixo, a fim de detectar e corrigir erros potenciais ou reais, garantindo assim a funcionalidade e qualidade dos produtos gerados: a. Levantamento de informações do sistema para os testes; b. Planejamento dos Testes: consiste em elaborar Estratégia de Testes, Cenário de Testes, Roteiro de Testes e Casos de Testes; c. Implementação de Roteiros de Testes e Casos de Testes; d. Geração da Massa de Testes; e. Execução dos Testes; f. Evidenciação dos Testes; g. Registro de Ocorrências dos Testes; h. Avaliação e Validação dos Testes; i. Fornecimento de informações de controle e acompanhamento da execução dos serviços de testes, como parte do serviço que está sendo executado.
+
+23
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+4.5. CHAMADOS TÉCNICOS 1. Durante as etapas de Homologação e Garantia, as não conformidades encontradas serão registradas e encaminhadas ao Gerente de Projetos da Prestadora de Serviço, ou pessoa designada por este, sem prejuízo à apuração dos indicadores; 2. Os chamados técnicos de correção contemplam a identificação de pontos falhos e eliminação de defeitos de códigos de funcionalidades, destinados a recolocar o sistema de informação, sítio ou portal em seu pleno estado de funcionamento, removendo definitivamente os defeitos apresentados; 3. Deverão ser atendidos em dias úteis (segunda-feira a sexta-feira), em horário de 8 às 20 horas, por profissionais especializados; 4. O atendimento aos chamados técnicos deverá ser realizado nas dependências do CNJ ou demais Órgãos do Judiciário, sempre que a natureza do serviço exigir a presença de técnicos especializados; 5. O chamado técnico será considerado fechado após atendimento e apresentação de solução definitiva dentro das condições e prazos estabelecidos na severidade do chamado aberto; 6. Para que ocorra o fechamento dos chamados, a Prestadora de Serviço deverá fornecer em detalhes, e por escrito, as informações técnicas acerca da solução do problema detectado; 7. Cada chamado técnico aberto será avaliado individualmente pela equipe técnica do DTI; 8. O atendimento aos chamados técnicos de correção deverá seguir os prazos estabelecidos na Tabela de Prazos de Atendimento (TPA) apresentados a seguir, contabilizados a partir da abertura do chamado:
+
+Serviço
+
+Chamados Técnicos de Correção Prazo para Retorno do Comportamento Adequado do sistema de informação, sítio ou portal Em até 2 (duas) horas. Comportamento Inadequado do Sistema, Sítio ou Portal Em até 8 (oito) horas. Em até 24 (vinte e quatro) horas. Prazo para Solução Definitiva da Origem do Problema Em até 24 (vinte e quatro) horas. Em até 48 (quarenta e oito) horas. Em até 72 (setenta e duas) horas.
+
+Severidade
+
+Ocorrência
+
+ALTA MÉDIA BAIXA
+
+Legenda: ALTA ­ Incidente que afete a disponibilidade do sistema de informação, sítio ou portal e/ou comprometimento grave de funcionalidade, ou de dados ou de ambiente. MÉDIA ­ Incidente que não afeta a disponibilidade do sistema de informação, sítio ou portal, porém apresenta problemas que compromete funcionalidade, de dados ou de ambiente. BAIXA ­ Incidente do sistema de informação, sítio ou portal de pequeno ou nenhum comprometimento de funcionalidade, de dados ou de ambiente.
+
+24
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+9. São consideradas incidentes as falhas provocadas pela operação normal do sistema de informação, sítio ou portal e comportamentos que estejam em desacordo com os requisitos estabelecidos ou com as especificações definidas. 10. Serão considerados para efeitos dos prazos: a. Prazo de Retorno para Comportamento Adequado: Tempo decorrido entre a abertura do chamado efetuado pela equipe técnica do DTI e a recolocação do sistema de informação, sítio ou portal em estado de funcionamento adequado; b. Prazo de Solução Definitiva: Tempo decorrido entre a abertura do chamado efetuado pela equipe técnica do DTI e a efetiva solução do incidente tornando o sistema de informação, sítio ou portal em seu pleno estado de funcionamento; c. Os prazos mencionados nas alíneas "a" e "b" serão considerados apenas se houver aceite pela equipe técnica do DTI. Não ocorrendo o aceite, a solução apresentada será desconsiderada e os prazos continuarão correndo; 11. A correção dos erros e desconformidades do sistema de informação, sítio ou portal compreenderá as atividades de diagnóstico, análise e implantação de nova versão corrigida, se for o caso; 12. O descumprimento injustificado dos prazos estabelecidos na TPA sujeitará a Prestadora de Serviços às sanções estabelecidas neste Termo, a partir da abertura do chamado. 5. PRAZO DE EXECUÇÃO DOS SERVIÇOS
+
+Os serviços deverão ser executados de acordo com os prazos estabelecidos a seguir: Desenvolvimento de Novos Sistemas (incluída a documentação) Tamanho do serviço em Pontos de Função Bruto 50 100 200 300 400 500 600 700 800 900 1000 Acima de 1000 Prazo máximo para Início do Projeto (em dias úteis) Prazo Máximo para Atendimento da Demanda (em dias corridos) A partir da aprovação da OS 90 A partir da aprovação da OS 110 7 135 7 150 7 165 15 180 15 190 15 200 15 210 15 220 15 225 Negociável entre as partes
+
+6.
+
+LOCAL DE EXECUÇÃO DOS SERVIÇOS
+
+Os serviços contemplados nas etapas I ­ Levantamento de Requisitos; VI ­ Homologação; VII ­ Implantação; e VIII ­ Garantia, deverão ser realizados nas dependências do CNJ ou Órgãos do Judiciário situados nas capitais. As etapas II ­ Análise; III ­ Projeto; IV ­ Implementação; e V - Testes, deverão ser realizadas nas dependências da Prestadora de Serviço.
+
+25
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+7.
+
+DAS OBRIGAÇÕES
+
+CONSTITUEM OBRIGAÇÕES DA CONTRATADA: 1. Obedecer às normas operacionais fornecidas pelo CONTRATANTE; 2. Empregar funcionários qualificados e devidamente capacitados para execução dos serviços, conforme as exigências deste Termo de Referência; 3. Manter seus funcionários devidamente informados das normas disciplinares do CONTRATANTE, bem como das normas de utilização e de segurança das instalações e do manuseio dos documentos; 4. Responsabilizar-se pelos danos causados diretamente ao CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços; 5. Responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura ocasionar ao CNJ ou a terceiros, durante a execução dos serviços, podendo o CNJ descontar o valor correspondente ao dano dos pagamentos devidos; 6. Responsabilizar-se, civil e criminalmente, pelo mau uso ou extravio dos documentos sob sua guarda; 7. Comunicar, por escrito, qualquer anormalidade, prestando ao CNJ os esclarecimentos julgados necessários; 8. Manter, durante a execução do contrato, todas as condições de habilitação e qualificação exigidas na licitação, em conformidade com art. 55, inciso XIII, da Lei 8.666, incluindo a atualização de documentos de controle da arrecadação de tributos e contribuições federais e outras legalmente exigíveis; 9. Atender de imediato as solicitações quanto à substituição de pessoal considerado inadequado para a prestação dos serviços, inconveniente à boa ordem ou que venha a transgredir normas disciplinares do CNJ; 10. Prever e prover o pessoal necessário para garantir a execução dos serviços, nos regimes contratados, sem interrupção, seja por motivo de férias, descanso, licenças e etc. 11. Desenvolver todos os sistemas com total aderência ao E-Ping (Padrões de Interoperabilidade de Governo Eletrônico). 12. Elaborar e apresentar ao CNJ, nas datas estabelecidas nas OS, todos os produtos e relatórios de acompanhamento técnico (RAT) e termo de aceite de serviços, conforme modelos ­ Anexo C. O RAT deverá detalhar todas as atividades desenvolvidas; 13. Entregar ao CNJ toda e qualquer documentação gerada em função da prestação de serviços, nos prazos estabelecidos neste Termo. 14. Atender às solicitações do CNJ, de acordo com as especificações técnicas, procedimentos de controle administrativo e cronogramas físicos que venham a ser estabelecidos;
+
+26
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+15. Indicar um responsável pela gestão dos serviços contratados e um substituto, para o acompanhamento da prestação dos serviços pela CONTRATANTE. 15.1. Na gestão da prestação de serviços, o responsável indicado pela CONTRATADA deverá: a. acompanhar a execução das Ordens de Serviços; b. assegurar que as políticas, normas e procedimentos do CONTRATANTE sejam respeitados e acatados pelos profissionais da CONTRATADA; c. alocar os profissionais necessários para atendimento das Ordens de Serviços tempestivamente, para fins de cumprimento dos prazos de início e fim, além do atendimento dos padrões de qualidade previamente estabelecidos; d. informar ao Gestor da CONTRATANTE eventuais problemas que possam impedir o bom andamento dos serviços; e. elaborar documentos referentes ao andamento da execução das Ordens de Serviços; e f. executar os procedimentos administrativos relativos aos recursos alocados para execução dos serviços contratados. CONSTITUEM OBRIGAÇÕES DO CONTRATANTE 1. Permitir ao pessoal técnico da CONTRATADA, desde que identificado e incluído na relação de técnicos autorizados, o acesso às unidades para a execução dos serviços, respeitadas as normas de segurança vigentes nas suas dependências; 2. Notificar a CONTRATADA quanto a defeitos ou irregularidades verificados na execução dos serviços, objeto deste Termo de Referência, bem como quanto a qualquer ocorrência relativa ao comportamento de seus técnicos, quando em atendimento, que venha a ser considerado prejudicial ou inconveniente para o CNJ; 3. Efetuar os pagamentos devidos à CONTRATADA, na forma convencionada, dentro do prazo previsto, desde que atendidas às formalidades necessárias, após a aceitação dos serviços faturados; 4. Promover a fiscalização do contrato, sob os aspectos quantitativos e qualitativos, por intermédio de profissional designado, anotando em registro próprio as falhas detectadas e exigindo as medidas corretivas necessárias, bem como acompanhar o desenvolvimento do contrato, conferir os serviços executados e atestar os documentos fiscais pertinentes, quando comprovada, a execução total, fiel e correta dos serviços, podendo ainda sustar, recusar, mandar fazer ou desfazer qualquer procedimento que não esteja de acordo com os termos contratuais; 5. Comunicar tempestivamente à CONTRATADA as possíveis irregularidades detectadas na execução dos serviços; 6. Comunicar à CONTRATADA a necessidade de substituição de qualquer profissional que seja considerado inadequado para o exercício da função; 7. Emitir, antes da execução de qualquer serviço, sua respectiva OS, definindo claramente os requisitos técnicos, administrativos e financeiros relativos ao serviço objeto deste Termo; 8. Autorizar as propostas de execução de serviços apresentadas pela CONTRATADA nas OS; 9. Homologar os serviços prestados de acordo com os requisitos pré-estabelecidos nas OS, atestando as respectivas faturas.
+27
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+10. Fornecer à CONTRATADA, em tempo hábil, as informações necessárias e relevantes à consecução dos sistemas a serem desenvolvidos, bem como a documentação técnica e operacional de todos os sistemas já desenvolvidos, descritos neste Termo; 11. Especificar e estabelecer normas e diretrizes para a execução dos serviços ora contratados, definindo as prioridades, regras, bem com os prazos e etapas para cumprimento das obrigações; 12. Avaliar o relatório mensal das atividades executadas pela CONTRATADA; DA PROPRIEDADE INTELECTUAL E DO SIGILO 1. A Prestadora de Serviço deverá manter sigilo, sob pena de responsabilidade civil, penal e administrativa, sobre todo e qualquer assunto de interesse do CNJ ou de terceiros de que tomar conhecimento em razão da execução do Contrato, respeitando todos os critérios estabelecidos, aplicáveis aos dados, informações, regras de negócios, documentos, entre outros pertinentes; 2. O CNJ, para todos os efeitos da aplicação da Lei nº. 9.609/98, que dispõe sobre a proteção da propriedade intelectual de programa de computador, e regulamentos correlatos, é o único proprietário dos produtos entregues pela Prestadora de Serviço; 3. O CNJ terá o direito de propriedade intelectual dos produtos, bem como dos artefatos gerados nas etapas de fabricação, de forma permanente; 4. A CONTRATADA fica proibida de comercializar os produtos relativos ao objeto da prestação dos serviços.
+
+8. DAS SANÇÕES Observados os prazos estabelecidos neste Termo e sem prejuízo das demais sanções previstas no Edital e na minuta de Contrato, a CONTRATADA ficará sujeita, no caso de atraso injustificado, assim considerado pela Administração, de inexecução parcial ou de inexecução total da obrigação, às seguintes penalidades: a) advertência; b) multa de: b.1) 1% ao dia, calculado sobre o valor total estimado da Ordem de Serviço, no caso de atraso injustificado para a apresentação do Plano de Desenvolvimento de Software, limitada a incidência a 15 (quinze) dias, podendo, ainda, caracterizar a inexecução total da obrigação assumida; b.2) 1% ao dia, calculado sobre o valor da parcela inadimplida, no caso de atraso injustificado para o inicio/conclusão de cada etapa definida no PDS; b.3) 1% ao dia, calculado sobre o valor total da Ordem de Serviço, no caso de atraso injustificado para conclusão do cronograma definido no Plano de Desenvolvimento de Software, limitada a incidência a 10% (dez por cento) do prazo estabelecido para conclusão do PDS, respeitado o período mínimo de 10 (dez) dias. Após, poderá ser caracterizada, ainda, a inexecução total da obrigação assumida;; b.4) 10%, calculado sobre o valor total do Contrato no caso de rescisão contratual.
+28
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+9. DO RECEBIMENTO 9.1. O objeto deste Termo será recebido da seguinte forma: a) provisoriamente, no ato da entrega de cada etapa, pelo Departamento da Tecnologia da Informação do CNJ, para posterior conferência de sua conformidade. Caso não haja qualquer impropriedade explícita, será atestado esse recebimento; b) definitivamente, em até 5 (cinco) dias úteis, mediante termo circunstanciado, após avaliação de conformidade às especificações técnicas estabelecidas na Ordem de Serviço e no Plano de Desenvolvimento de Sistema. 9.2. Caso sejam constatadas inadequações, falhas ou incorreções na execução dos serviços, a Contratada fica obrigada a efetuar as correções necessárias, sem ônus para o CNJ. 9.3. O CONTRATANTE, acompanhado pelo representante da CONTRATADA, será responsável pelas atividades de homologação do sistema, no ambiente de homologação do CNJ, com a seguinte abrangência: a. Os requisitos do ambiente de homologação, o qual deverá ter um comportamento estável e com baixo consumo de recursos; b. Os requisitos de segurança, buscando proteger as informações de clientes, a integridade dos dados, da aplicação e do ambiente; c. Os requisitos do negócio, disponibilizando o sistema para avaliação dos usuários quanto ao atendimento dos requisitos contratados; d. O acompanhamento da execução dos testes no ambiente de homologação; e. O acompanhamento das atividades de homologação pelo usuário final. 9.3.1. O CNJ deverá disponibilizar um Ambiente de Homologação de sistemas, espelho do Ambiente de Produção, a fim de assegurar a correta homologação. 10. DO PAGAMENTO 10.1. O pagamento será efetuado relativamente a cada etapa, mediante crédito em conta-corrente da Contratada, por ordem bancária, em até 15 (quinze) dias corridos, contados do recebimento da nota fiscal/fatura. 10.2. O valor será pago mediante a aplicação do percentual estabelecido na Tabela de Percentual de Pagamento por Etapa (TPPE), pela multiplicação do Valor Unitário do Ponto de Função Bruto (VUPFB), ajustado pelos fatores de ajuste constantes na Tabela de Fatores de Ajuste (TFA) em razão da tecnologia utilizada, pelo quantitativo (QPFB), verificado na Quantidade de Ponto de Função Bruto (APFB) do produto:
+
+29
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+Pagamento = (VUPFB x QPFB) * percentual de cada etapa * TFA Tabela de Percentual de Pagamento por Etapa (TPPE) Etapa I II III IV V VI VII VIII Nome da Etapa Levantamento de Requisitos Análise Projeto Implementação Testes Homologação Implantação Garantia Percentual 20% 5% 15% 35% 10% --15% ---
+
+Implantação: Entende-se por implantação, o produto homologado e instalado em produção no CNJ ou em um Tribunal designado pelo Conselho.
+
+Tabela de Fatores de Ajuste Plataformas Tecnológicas Plataforma JAVA, JEE e J2ME. HTML, Zope, Plone, XML, PHP, Phyton e JavaScript. Plataforma Delphi e PL/SQL
+
+Fator de Ajuste 1 0,62 0,83
+
+10.3. Todas as Ordens de Serviço deverão vir acompanhadas do Relatório de Atendimento Técnico ­ RAT, e do Termo de Aceite de Serviços para que o pagamento seja realizado. 10.4. Caso haja divergência entre as contagens efetuadas pelo CNJ e pela Prestadora de Serviço superior a 10%, deverá ocorrer uma análise para identificar os pontos divergentes, para adequação ao item 10.5. 10.5. Caso a divergência seja igual ou inferior a 10%, prevalecerá a menor contagem.
+
+11. DA GARANTIA CONTRATUAL 11.1. Para assegurar o integral cumprimento de todas as obrigações contratuais assumidas, inclusive indenização a terceiros e multas eventualmente aplicadas, a Contratada deverá apresentar garantia equivalente a 5% (cinco por cento) do valor total anual estimado no ato da assinatura do Contrato. 11.2. Caberá a CONTRATADA optar por uma das modalidades de garantia prevista no Art. 56 da Lei n° 8.666/93.
+
+30
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+12. DA FISCALIZAÇÃO 12.1. O CNJ designará gestor responsável pelo acompanhamento e fiscalização da execução dos serviços, o qual compete dirimir eventuais dúvidas que surgirem no curso da execução do contrato, nos termos do art. 67, da Lei nº 8.666, de 1993; 12.2. As não-conformidades identificadas durante a inspeção dos serviços contratados serão corrigidas pela CONTRATADA, sem ônus para o CNJ, mantendo a consistência da documentação correspondente. 12.3. A existência e a atuação da fiscalização em nada restringem a responsabilidade, única, integral e exclusiva da CONTRATADA. 13. DA VIGÊNCIA O contrato de prestação de serviços terá vigência de 12 (doze) meses, contados da data de sua assinatura, podendo ser prorrogado nos termos da Lei. 14. DAS DISPOSIÇÕES FINAIS 14.1. Os produtos gerados pela CONTRATADA terão garantia de 12 meses, a contar da data da homologação. 14.2. A emissão de aceite dos serviços pelo CNJ, não exime a CONTRATADA da responsabilidade pela correção de erros porventura identificados, sem ônus adicional. 14.3. A licitante deverá comprovar experiência na prestação de serviços compatíveis em características, quantidades e prazos de acordo com o objeto deste termo de referência. 14.3.1. O atestado de capacidade deverá comprovar que a licitante executou serviços de atividades contínuas, que englobem serviços técnicos especializados no Desenvolvimento e Documentação de Sistemas de Informação, num volume igual ou superior a 15.000 pontos de função/ano, no mesmo contrato. 14.3.2. O atestado deve vir acompanhado do respectivo contrato de prestação de serviço com objeto compatível com o declarado no atestado, sendo obrigatório constar no contrato a referência à utilização da métrica de Pontos de Função.
+
+31
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO A DO TERMO DE REFERÊNCIA AMBIENTE COMPUTACIONAL DO CNJ · · Sistemas Operacionais: MS Windows XP, MS Windows 2003 Server, RED Hat Linux, Suse Linux. Linguagens de Desenvolvimento / Softwares utilizados: JAVA, JAVAScript, PHP, HTML, XML, CSS, SQL ANSI, JSP, AJAX, Delphi,RUBY, WI e DHTML. · · · · · · · · · · · · FRAMEWORK : GWT e ZENT Barramento de Serviços: WSO2ESB SGBD: Oracle 9i ou superior, My-SQL 4x ou superior, SQL Server 2003. Servidor de Aplicação: Tomcat, Jboss Servidor de Portal: Joomla 1.0.xx Utilização de padrões de interoperabilidade: e-ping Utilização de padrões de acessibilidade: e-mag Servidor Web: Apache Servidor de Correio Eletrônico: Exchange Server 2003 Sistema de Diretório: Microsoft Active Directory Sistema de Arquivos: Microsoft Windows 2003 Sistema de Armazenamento: Storage Area Network (SAN) composta por equipamentos da EMC, ADIC, Sun e Storagetek. · · Equipamentos ativos de rede: Extreme Networks Ferramentas de Apoio ao Desenvolvimento: MS Office 2003, Internet Explorer, MS Project 2007, Oracle Designer 2000, Erwin, JBPM, Borland Caliber RM, StarTeam, e Together, JBuilder X, Eclipse, Struts, Hibernat, MySQL Query Browser. · · · · Ferramenta de Gerenciamento de Projetos: Enterprise Project Management ­ EPM 2007. BI: Business Objects Ferramenta de Georeferência: ISmart Ferramenta de Extração de Dados: ODI ­ Oracle Data Integrator
+
+32
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO B DO TERMO DE REFERÊNCIA QUALIFICAÇÃO TÉCNICA E PERFIL DOS PROFISSIONAIS
+
+Os profissionais a serem envolvidos nos serviços objeto deste Termo de Referência, deverão estar capacitados nos recursos que compõem o ambiente de desenvolvimento do CNJ. · Gerente de Projetos
+
+Requisitos Obrigatórios: a) Curso superior completo que some, no mínimo, 360 horas e seja reconhecido pelo MEC;
+
+b) Experiência comprovada em gerenciamento de projetos de desenvolvimento de software baseada em metodologia de Processo Unificado ou similar; c) Certificação Project Management Professional (PMP) em vigor emitida pelo Project Management Institute (PMI); d) Conhecimento de contagem de pontos de função;
+
+e) Conhecimento dos princípios que regem os modelos de maturidade em desenvolvimento de software; f) · Conhecimento técnico da língua inglesa.
+
+Analista de Requisitos
+
+Requisitos Obrigatórios: a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; b) c) d) e) · Experiência comprovada em análise de sistemas; Conhecimento de contagem de pontos de função; Conhecimento em modelagem de processos de negócio e O&M; Conhecimento técnico da língua inglesa.
+
+Projetista
+
+Requisitos Obrigatórios: a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; b) Conhecimento em análise e modelagem de dados utilizando linguagem própria para modelagem; c) Experiência comprovada em desenvolvimento com Java-J2EE, (utilizando Enterprise Java Beans ­ EJB); d) Experiência comprovada em desenvolvimento com WEB ­ JSP - JSF;
+
+e) Experiência comprovada em modelagem UML e Processo Unificado, especialmente na área de projeto físico, incluindo: Experiência na utilização de "Padrões de Projeto" (DAO, Facade, Delegate e outros); Experiência na elaboração de diagramas de seqüência de projeto, diagramas de colaboração
+33
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+entre classes, diagramas de distribuição de componentes e diagramas de classes. Experiência na construção de aplicações que utilizem o Framework de Persistência Hibernate; f) g) Experiência comprovada com o Servidor de Aplicações JBoss e Tomcat; Experiência comprovada no Framework JBossSeam;
+
+h) Experiência comprovada em desenvolvimento de aplicações com arquitetura de Webservices; i) Possuir ao menos uma das certificações JAVA: SCJP ­ Sun Certified Java­Programmer, SCJD Sun Certified Java Developer, SCWCD - Sun Certified Web Component Developer, SCBCD - Sun Certified Business Component Developer ou SCDJWS - Sun Certified Developer for Java Web Services; j) · Conhecimento técnico da língua inglesa.
+
+Analista Desenvolvedor
+
+Requisitos Obrigatórios: a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; b) Experiência comprovada em desenvolvimento com WEB ­ JSP - JSF;
+
+c) Experiência comprovada em leitura de modelos UML, que utilizem a metodologia de Processo Unificado ou similar. d) Experiência comprovada em desenvolvimento com Java-J2EE;
+
+e) Possuir ao menos uma das certificações JAVA: SCJP ­ Sun Certified Java Programmer, SCJD Sun Certified Java Developer, SCWCD - Sun Certified Web Component Developer, SCBCD - Sun Certified Business Component Developer ou SCDJWS - Sun Certified Developer for Java Web Services; f) · Conhecimento técnico da língua inglesa.
+
+Projetista de Interface
+
+Requisitos Obrigatórios: a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; b) Experiência comprovada na construção de portais e sítios WEB que utilizem as linguagens HTML e Javascript; c) Experiência comprovada na utilização de ferramentas para construção de páginas WEB;
+
+d) Experiência comprovada com ferramentas para construção dinâmica de páginas Web, como PHP, JSF ou JSP; e) Experiência comprovada em desenvolvimento com a API JAVA/SWING;
+
+f) Conhecimento na leitura de modelos UML, que utilizem a metodologia de Processo Unificado ou similar; g) Conhecimento técnico da língua inglesa.
+
+34
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+·
+
+Analista de Testes
+
+Requisitos Obrigatórios: a) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; b) Experiência comprovada como analista de testes;
+
+c) Conhecimento nas metodologias e técnicas de teste (testes de caixa-preta, de caixa-branca, de unidade, de integração, de componente, de sistema etc.). d) · Conhecimento técnico da língua inglesa.
+
+Preposto
+
+Requisitos Obrigatórios: a) Curso superior completo na área de Tecnologia da Informação, ou Recursos Humanos, ou Administração de Empresas, ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; b) Experiência comprovada em projetos de desenvolvimento e gerenciamento de sistemas baseado em métodos reconhecidos pelo mercado; c) Conhecimento em organização de métodos de trabalho;
+
+Conhecimento da Lei de Licitações da Administração Pública e outras complementares.
+
+35
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO C DO TERMO DE REFERÊNCIA ­ MODELOS
+
+Página ORDEM DE SERVIÇOS (OS)
+IDENTIFICAÇÃO CLIENTE CONTRATO DATA ASSINATURA SOLICITANTE E-MAIL 1. Objetivo deste Registro VIGÊNCIA DATA TELEFONE
+
+Número
+
+2.
+
+Nome do Projeto
+
+3.
+
+Objeto da contratação
+
+4.
+
+Tipo de Serviços Contratados
+
+5.
+
+Medição dos serviços contratados
+
+6.
+
+Fases Contratadas
+
+7.
+
+Prazo de entrega dos serviços contratados
+
+8.
+
+Relação dos artefatos a serem entregues pela contratada
+
+9.
+
+CRONOGRAMA DE DESEMBOLSO
+
+10.
+
+Considerações Gerais
+
+NOME GESTOR DO CONTRATO CONSELHO NACIONAL DE JUSTIÇA
+
+NOME DIRETOR DO DEPARTAMENTO DE TI CONSELHO NACIONAL DE JUSTIÇA
+
+36
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+RELATÓRIO DE ATENDIMENTO TÉCNICO
+
+Página Número
+
+Identificação Cliente Contrato Data Assinatura Solicitante E-mail OS Vigência Data Telefone
+
+Objetivo
+
+Sumário Executivo Período Descrição dos Serviços SERVIÇOS FASE PF PROPORCIONAIS
+
+Fases Contratadas FASES CONTRATADAS PF PROPORCIONAIS
+
+Relação dos Artefatos entregues Responsável pela Estimativa dos Pontos de Função
+
+DATA
+
+NOME EMPRESA
+
+37
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+TERMO DE ACEITE DE SERVIÇOS
+Identificação Cliente Contrato Solicitante E-mail OS Telefone Data da OS Data Assinatura
+
+ATESTAMOS A EXECUÇÃO DOS SERVIÇOS ESPECIFICADOS NA RESPECTIVA ORDEM DE SERVIÇO SEUS ADITIVOS E/OU ALTERAÇÕES DE ESCOPO APROVADAS PELO CNJ.
+
+( )
+
+ACEITE DOS SERVIÇOS EXECUTADOS DEVIDO AOS RESULTADOS SATISFATÓRIOS DOS TESTES E VERIFICAÇÕES REALIZADAS PELAS EQUIPES INTERNAS DO CNJ E/OU HOMOLOGAÇÃO DO USUÁRIO FINAL DO SISTEMA.
+
+( )
+
+AUTORIZAÇÃO PARA FATURAMENTO DA PARCELA MENSAL, CONFORME OS E NA FORMA CONVENCIONADA NO CONTRATO Nº ___/____.
+
+NA DATA DE ASSINATURA DESTE TERMO, DÁ-SE INÍCIO AO PERÍODO DE GARANTIA DE CONVENCIONADA NO CONTRATO Nº ___/_____.
+
+___ (_______), NA FORMA
+
+OS PROFISSIONAIS ABAIXO ASSINADOS ATESTAM O SERVIÇO EXECUTADO E CLASSIFICAM OS ARTEFATOS RECEBIDOS COMO SATISFATÓRIOS NOS ITENS DE COMPLETEZA E QUALIDADE. DATA
+
+PREPOSTO RESPONSÁVEL
+
+NOME GESTOR DO CONTRATO CONSELHO NACIONAL DE JUSTIÇA
+
+NOME DIRETOR DO DEPARTAMENTO DE TI CONSELHO NACIONAL DE JUSTIÇA
+
+38
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO D DO TERMO DE REFERÊNCIA ­ GLOSSÁRIO BS 7799 ­ BS 7799 Security Standard BI (Business Inteligence) - "Inteligência de negócios", refere-se ao processo de coleta, organização, análise, compartilhamento e monitoração de informações que oferecem suporte a gestão de negócios BPM ­ Business Process Modeling CNJ ­ Conselho Nacional de Justiça DTI ­ Departamento de Tecnologia da Informação COBIT (Control Objectives for Information and related Technology) - Controle de Objetivos relacionados a Informação e Tecnologia . DATA WAREHOUSE (DW) - (ou armazém de dados, ou depósito de dados no Brasil) é um sistema de computaçaõ utilizado para armazenar informações relativas às atividades de uma organização em banco de dados de forma consolidada. O desenho da base de dados favorece os relatórios, a análise de grandes volumes de dados e a obtenção de informações estratégicas que podem facilitar a tomada de decisão. DATA MART (entreposto ou bazar de dados) é sub-conjunto de dados de um DATA WAREHOUSE (armazém de dados). Geralmente são dados referentes a um assunto em especial (ex: Vendas, Estoque, Controladoria) ou diferentes níveis de sumarização (ex: Vendas Anual, Vendas Mensal, Vendas 5 anos), que focalizam uma ou mais áreas específicas. Seus dados são obtidos do DW, desnormalizados e indexados para suportar intensa pesquisa. DSS (Decision Support Systems) - Um conjunto de programas e dados necessários para permitir a análise e a tomada de decisão em uma organização. Esse tipo de sistema contém um banco de dados, uma base de conhecimentos sobre a área em questão, uma "linguagem" utilizada para formular problemas e questões e um programa de modelagem para testar decisões alternativas. E-MAG - Padrão de Acessibilidade de Governo Eletrônico (www.governoeletronico.gov.br/emag) E-PING - Padrão de Interoperabilidade de Governo Eletrônico (www.governoeletronico.gov.br/eping) ETL (Extract Transform Load (Extração, Transformação e Carga) - processo de extrair dados de um sistema (um banco de dados), transformá-los de alguma forma e inseri-los em outro banco de dados especial, o DATA WAREHOUSE (DW). JOOMLA ­ Sistema de Gestão de Conteúdo, desenvolvido em PHP LAN - Grupo de computadores e outros dispositivos dispersos por uma área relativamente limitada e interligados por um link de comunicação que permite a qualquer dispositivo interagir com qualquer outro equipamento da rede. NBR-ISO/IEC 1779 - equivalente brasileira da ISO/IEC 17799. OLAP (Online Analytical Processing) - sistema de banco de dados relacional capaz de tratar consultas mais complexas que aquelas tratadas por bancos de dados relacionais padrão, através do acesso
+39
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+multidimensional aos dados (exibição dos dados através de diferentes critérios), da capacidade de cálculo intensivo e de técnicas de indexação especializadas. OLTP (Online Transaction Processing) - Processamento de transações em tempo-real. Sistemas que se encarregam de registrar todas as transações contidas em uma determinada operação organizacional. PL/SQL - Extensão da linguagem padrão SQL para o SGBD Oracle da Oracle Corporation. PMI - Project Management Institute ­ Instituto da Gerência de Projeto. PMP ­ Project Management Professional ­ Profissional de Gerência de Projetos. PMBOK - Project Management Body of Knowledge - Conhecimento da Estrutura de Gerência de Projetos. UML ­ Unified Modeling Language. UP ­ Unified Process - processos da UML ­ Unified Modeling Language. WAN- rede de comunicação que interliga áreas geograficamente separadas. WOKFLOW- Um conjunto de programas que auxilia o acompanhamento e o gerenciamento de todas as atividades de um projeto, do início ao fim.
+
+40
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO E DO TERMO DE REFERÊNCIA PLANO DE DESENVOLVIMENTO DE SISTEMA Apresentamos, em atendimento ao previsto na alínea ________ do Contrato do CNJ nº.__________, o plano referente ao Projeto de Sistema ou módulo, onde estão especificadas detalhadamente todas as etapas de sua concepção. SISTEMA/MÓDULO: _______________________________________________ Quantidade de Pontos de Função : ___________________________________ Tecnologia: ______________________________________________________
+
+Descrição
+
+Período de Execução
+
+Serviço Etapa I Serviço Etapa II Serviço Etapa III Serviço Etapa IV Serviço Etapa V Serviço Etapa VI Serviço Etapa VII Serviço Etapa VIII
+
+Data de entrega do sistema/módulo:_______________________________ Data de entrega do código-fonte:__________________________________ Data de entrega dos produtos:____________________________________ Outras informações pertinentes:___________________________________ Local e data ___________________________________ Assinatura e carimbo (Representante Legal) Nome: Cargo: Telefone de contato: E-mail de contato: (Representante Legal)
+41
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+PREGÃO PRESENCIAL Nº 28/2010 ANEXO II DO EDITAL
+
+A) PROPOSTA DE PREÇOS
+
+ITEM
+
+UN
+
+DESCRIÇÃO
+
+VALOR UNITÁRIO MÁXIMO ADMITIDO DO PONTO DE FUNÇÃO BRUTO (R$)
+
+QTDE
+
+VALOR TOTAL MÁXIMO ADMITIDO (R$)
+
+01
+
+UN
+
+Pontos de função para manutenção e desenvolvimento de sistemas de informação e demais serviços correlacionados.
+
+383,00
+
+40.000
+
+15.320.000,00
+
+B) TERMO DE CREDENCIAMENTO Pregão Presencial nº 28/2010 A empresa ......(razão social)......, com sede em .......(endereço da empresa) ...........,CNPJ. ......................, por seu representante legal abaixo identificado, credencia o Sr. .................................................., RG ............................, (órgão expedidor) ......, CPF ..........................., para representá-la perante o Conselho Nacional de Justiça nos atos relacionados à modalidade de pregão, podendo, para tanto, formular ofertas e lances verbais de preços, manifestar intenção de interpor recursos, desistir do direito de os interpor, requerer o registro em ata das observações que entender relevantes, concordar, discordar, transigir, desistir, firmar compromissos, requerer, alegar e assinar o que convier e praticar todos os atos necessários ao perfeito desempenho do presente credenciamento. (localidade)......, ..... de ......................... de 2010
+
+(assinatura) (Nome legível do representante legal da empresa, RG e órgão expedidor)
+
+Obs: Este termo deverá ser acompanhado do documento de identidade do credenciado e do respectivo estatuto ou Contrato social, e suas alterações, devidamente registrados na Junta Comercial ou no órgão competente, conforme subitem 3.1 do Edital.
+42
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+PREGÃO PRESENCIAL N° 28/2010 ANEXO II DO EDITAL ­ MODELOS (CONTINUAÇÃO)
+
+C) DECLARAÇÃO RELATIVA A TRABALHO DE MENORES Pregão Presencial nº 28/2010 A empresa.........................................., CNPJ..................., por intermédio de seu representante legal o(a) Sr(a)...................................., RG ............................ e CPF ........................., DECLARA, para fins do disposto no inciso V do art. 27 da Lei nº 8.666, de 21 de junho de 1993, combinado com a Lei nº 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e menor de dezesseis anos em qualquer trabalho, salvo na condição de aprendiz, a partir de quatorze anos. Brasília, ______ de ____________________ de 2010. ............................................................ (assinatura do representante legal) D) DECLARAÇÃO DE CUMPRIMENTO DOS REQUISITOS DE HABILITAÇÃO Pregão Presencial nº 28/2010 A empresa .........................................., CNPJ .................., declara ao Conselho Nacional de Justiça, para fins de participação no Pregão Presencial nº 28/2010, cumprir plenamente todos os requisitos de habilitação, nos termos do artigo 4º, inciso VII, da Lei nº 10.520/2002, e do subitem 2.4 do Edital, estando ciente da responsabilidade administrativa, civil e penal. Brasília, ______ de ____________________ de 2010. ............................................................ (assinatura do representante legal) E) DECLARAÇÃO DE INEXISTÊNCIA DE FATOS SUPERVENIENTES Pregão Presencial nº 28/2010 Declaro, para fins de participação no Pregão Presencial nº 28/2010, que, até a presente data, inexistem fatos impeditivos para habilitação da empresa .........................................., CNPJ ................... Brasília, ______ de ____________________ de 2010.
+
+............................................................ (Assinatura do representante da empresa)
+
+43
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+PREGÃO PRESENCIAL N° 28/2009 ANEXO II DO EDITAL ­ MODELOS (CONTINUAÇÃO)
+F) DECLARAÇÃO DE ELABORAÇÃO INDEPENDENTE DE PROPOSTA Pregão Presencial nº 28/2010 A empresa................................., CNPJ..................., por intermédio de seu representante legal o(a) Sr(a)...................................., RG ............................ e CPF ........................., DECLARA para fins do disposto do Pregão Presencial nº 28/2010, sob as penas da lei, em especial o art. 299 do Código Penal Brasileiro, que: a) a proposta apresentada para participar do Pregão Presencial nº. 28/2010 foi elaborada de maneira independente e seu conteúdo não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer outro participante potencial ou de fato deste Pregão, por qualquer meio ou por qualquer pessoa; b) a intenção de apresentar a proposta elaborada para participar deste Pregão não foi informada, discutida ou recebida de qualquer outro participante potencial ou de fato, por qualquer meio ou por qualquer pessoa; c) não tentou, por qualquer meio ou por qualquer pessoa, influir na decisão de outro participante potencial ou de fato do Pregão Presencial nº. 28/2010 quanto a participar ou não da referida licitação; d) o conteúdo da proposta apresentada para participar da desta licitação não será, no todo ou em parte, direta ou indiretamente, comunicado ou discutido com qualquer outro participante potencial ou de fato, antes da adjudicação do objeto da referida licitação; e) o conteúdo da proposta apresentada para participar desta licitação não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer integrante do Conselho Nacional de Justiça antes da abertura oficial das propostas; e f) está plenamente ciente do teor e da extensão desta declaração.
+
+Brasília, _____de ___________________de 2010. ............................................................ Assinatura do representante legal
+
+44
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+PREGÃO PRESENCIAL Nº 28/2010 ANEXO III DO EDITAL ­ MINUTA DE CONTRATO
+
+CONTRATO ______/2010 CONTRATO CELEBRADO ENTRE A UNIÃO, POR INTERMÉDIO DO CONSELHO NACIONAL DE JUSTIÇA E A EMPRESA _________________PARA CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NO DESENVOLVIMENTO, MANUTENÇÃO E DOCUMENTAÇÃO DE SISTEMAS DE INFORMAÇÃO (Pregão Presencial CNJ nº____ - Processo CNJ nº 338.579)
+
+A UNIÃO, por intermédio do CONSELHO NACIONAL DE JUSTIÇA, sediado na Praça dos Três Poderes, em Brasília - Distrito Federal, inscrito no CNPJ sob o nº 07.421.906/0001-29, doravante denominado CONTRATANTE, neste ato representado pelo Secretário Geral, Dr. Rubens Rihl Pires Correa, RG nº 6.801.283-4 SSP/SP e CPF 006.289.198-75, no uso das atribuições conferidas pela Portaria nº 238, art. 1º, inciso X, de 02 de maio de 2008 e da Portaria nº 70, de 23 de abril de 2010, e a empresa _________, com sede ______, CEP ______, tel. ________, inscrita no CNPJ sob nº _______, doravante denominada CONTRATADA, neste ato representada por seus _______, Sr. _______, RG nº ______ e CPF nº ______, considerando o julgamento do PREGÃO PRESENCIAL CNJ n.º ___, publicado no DOU do dia ____, e a respectiva homologação, conforme fls. ___ do Processo n.º 338.579, celebram o presente contrato observando-se as normas constantes nas Leis nº 8.666/1993 e 10.520/2002, no Decreto nº 3.555/2000 e mediante as cláusulas a seguir enumeradas. DO OBJETO CLÁUSULA PRIMEIRA - O objeto do presente Contrato é a prestação de serviços técnicos em desenvolvimento e documentação de Sistemas de Informação, para atender as demandas do Conselho Nacional de Justiça ­ CNJ e dos demais Órgãos do Poder Judiciário, conforme as especificações do Termo de Referência e proposta da Contratada que passa a integrar este instrumento, independentemente de transcrição, naquilo que não o contrarie.
+
+45
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+DO REGIME DE EXECUÇÃO CLÁUSULA SEGUNDA ­ A execução do objeto do presente Contrato será indireta por empreitada por preço unitário, em conformidade com o disposto na Lei n.º 8.666/1993. DAS OBRIGAÇÕES DO CONTRATANTE CLÁUSULA TERCEIRA ­ Constituem obrigações do CONTRATANTE: I - permitir ao pessoal técnico da CONTRATADA, desde que identificado e incluído na relação de técnicos autorizados, o acesso às unidades para a execução dos serviços, respeitadas as normas de segurança vigentes nas suas dependências; II ­ notificar a CONTRATADA quanto a defeitos ou irregularidades verificados na execução dos serviços, objeto deste Contrato, bem como quanto a qualquer ocorrência relativa ao comportamento de seus técnicos, quando em atendimento, que venha a ser considerado prejudicial ou inconveniente para o CNJ; III ­ efetuar os pagamentos devidos à CONTRATADA, na forma convencionada, dentro do previsto, desde que atendidas às formalidades necessárias, após a aceitação dos serviços faturados; IV - promover a fiscalização do contrato, sob os aspectos quantitativos e qualitativos, por intermédio de profissional designado, anotando em registro próprio as falhas detectadas e exigindo as medidas corretivas necessárias, bem como acompanhar o desenvolvimento do contrato, conferir os serviços executados e atestar os documentos fiscais pertinentes, quando comprovada, a execução total, fiel e correta dos serviços, podendo ainda sustar, recusar, mandar fazer ou desfazer qualquer procedimento que não esteja de acordo com os termos contratuais; V - comunicar tempestivamente a CONTRATADA as possíveis irregularidades detectadas na execução dos serviços; VI ­ comunicar à CONTRATADA a necessidade de substituição de qualquer profissional que seja considerado inadequado para o exercício da função; VII ­ emitir, antes da execução de qualquer serviço, a respectiva Ordem de Serviço OS, definindo claramente os requisitos técnicos, administrativos e financeiros relativos ao serviço objeto deste Contrato; VIII ­ autorizar as propostas de execução de serviços apresentadas pela CONTRATADA nas Ordens de Serviços; IX - homologar os serviços prestados de acordo com os requisitos pré-estabelecidos nas Ordens de Serviços, atestando as respectivas faturas; X - fornecer à CONTRATADA, em tempo hábil, as informações necessárias e relevantes à consecução dos sistemas a serem desenvolvidos, bem como a
+
+46
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+documentação técnica e operacional de todos os sistemas já desenvolvidos, descritos neste Contrato e no Termo de Referência; XI - especificar e estabelecer normas e diretrizes para a execução dos serviços ora contratados, definindo as prioridades, regras, bem com os prazos e etapas para cumprimento das obrigações; XII - avaliar o relatório mensal das atividades executadas pela CONTRATADA. DAS OBRIGAÇÕES DA CONTRATADA CLÁUSULA QUARTA ­ Constituem obrigações da CONTRATADA: I ­ obedecer às normas operacionais fornecidas pela CONTRATANTE, II ­ empregar funcionários qualificados e devidamente capacitados para execução dos serviços, conforme as definições dos serviços descritas neste Contrato; III ­ manter seus funcionários devidamente informados das normas disciplinares do CONTRATANTE, bem como das normas de utilização e de segurança das instalações e do manuseio dos documentos; IV - responsabilizar-se pelos danos causados diretamente ao CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços; V - responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura ocasionar ao CONTRATANTE ou a terceiros, durante a execução dos serviços, podendo o CNJ descontar o valor correspondente ao dano dos pagamentos devidos; VI - responsabilizar-se, civil e criminalmente, pelo mau uso ou extravio dos documentos sob sua guarda; VII ­ comunicar, por escrito, qualquer anormalidade, prestando ao CNJ os esclarecimentos que julgar necessários; VIII ­ manter, durante a execução do contrato, todas as condições de habilitação e qualificação exigidas na licitação, em conformidade com o art. 55, inciso XIII, da lei nº 8666/93, incluindo a atualização de documentos de controle da arrecadação de tributos e contribuições federais e outras legalmente exigíveis; IX ­ atender de imediato as solicitações quanto à substituição de pessoal considerado inadequado para a prestação dos serviços, inconveniente à boa ordem ou que venha a transgredir normas disciplinares do CNJ; X ­ prever e prover o pessoal necessário para garantir a execução dos serviços, nos regimes contratados, sem interrupção, seja por motivo de férias, descanso, licenças; XI - elaborar e apresentar ao CONTRATANTE, nas datas estabelecidas nas Ordens de Serviços, todos os produtos e Relatórios de Acompanhamento Técnico (RAT) e Termo de Aceite de Serviços, conforme modelo anexo ao contrato. O RAT deverá detalhar todas as atividades desenvolvidas.
+47
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+XII ­ entregar ao CNJ toda e qualquer documentação gerada em função da prestação de serviços, nos prazos estabelecidos neste contrato; XIII ­ desenvolver todos os sistemas com total aderência ao E-PING (Padrão de Interoperabilidade de Governo Eletrônico); XIV - atender às solicitações do CONTRATANTE, de acordo com as especificações técnicas, procedimentos de controle administrativo e cronogramas físicos que venham a ser estabelecidos; XV ­ indicar um responsável pela gestão dos serviços contratados e um substituto para o acompanhamento da prestação dos serviços pela CONTRATANTE; XVI ­ Na gestão da prestação de serviços, o responsável indicado pela CONTRATADA deverá: a) acompanhar a execução das Ordens de Serviços; b) assegurar que as políticas, normas e procedimentos do CONTRATANTE sejam respeitados e acatados pelos profissionais da CONTRATADA; c) alocar os profissionais necessários para atendimento das Ordens de Serviços tempestivamente, para fins de cumprimento dos prazos de início e fim, além do atendimento dos padrões de qualidade previamente estabelecidos; d) informar ao Gestor da CONTRATANTE eventuais problemas que possam impedir o andamento dos serviços; e) elaborar documentos referentes ao andamento da execução das Ordens de Serviços; e f) executar os procedimentos administrativos relativos aos recursos alocados para execução dos serviços contratados. XVII- observar as leis, decretos, regulamentos, portarias e normas federais e distritais, direta e indiretamente aplicáveis ao objeto deste Contrato, sendo de sua inteira responsabilidade os processos, ações, ou reclamações movidos por pessoas físicas ou jurídicas em decorrência de negligência nas precauções exigidas no trabalho ou da utilização de material inaceitável na execução dos serviços. DOS SERVIÇOS CLÁUSULA QUINTA ­ A contagem de pontos de função correspondente à prestação de serviços será realizada pela CONTRATADA e aprovada pelo CONTRATANTE, antes do início da prestação de serviços (contagem estimativa), o mesmo valendo para a conclusão de cada fase do ciclo de desenvolvimento de sistema (contagem final). A contagem estimativa levará em consideração as técnicas de contagem indicativa e estimativa definidas pelo International Function Point Users Group ­ IFPUG, versão 4.2 ou superior.
+48
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+CLÁUSULA SEXTA ­ Todo e qualquer serviço somente será executado mediante uma Ordem de Serviço ­ OS emitida pelo CNJ, conforme modelo constante do Anexo C deste contrato. As OS serão definidas e contemplarão as etapas, o detalhamento dos serviços, se desenvolvimento ou manutenção evolutiva, as atividades previstas, os padrões a serem seguidos, bem como demais informações técnicas necessárias para a execução dos serviços por parte da CONTRATADA. Parágrafo primeiro. A CONTRATADA deverá apresentar ao CNJ o Plano de Desenvolvimento de Software - PDS, no prazo de até 15 (quinze) dias corridos, a contar do recebimento da Ordem de Serviço ­ OS. Parágrafo segundo. A CONTRATADA especificará detalhadamente no PDS todas as atividades necessárias para o pleno desenvolvimento dos produtos, considerando as informações descritas na OS. O PDS será considerado parte integrante da OS. Parágrafo terceiro. A data para a Homologação e Implantação de cada produto será definida pelo CONTRANTE. Parágrafo quarto. O CNJ verificará a aderência do PDS apresentado com as especificidades indicadas na OS. Caso seja reprovado, a CONTRATADA deverá apresentar novo plano aderente à OS, em um prazo adicional de até 5 (cinco) dias corridos, a contar da comunicação da reprovação, podendo, neste caso, ser aplicadas as penalidades previstas contratualmente. DA METODOLOGIA, TÉCNICA E FERRAMENTA CLÁUSULA SÉTIMA ­ A CONTRATADA deverá fornecer, customizar e utilizar as seguintes metodologias para fins de atendimento das demandas de desenvolvimento e documentação de sistemas: a) Metodologia de gerenciamento de projetos, tendo como referência as práticas do PMBOK (PMI), visando melhorar as ações na camada gerencial, diminuindo os riscos e aumentando as chances de sucesso na execução de projetos; b) Metodologia de Modelagem e Redesenho de processos, contemplando o uso de ferramentas JBPM, a fim de permitir a racionalização dos processos e o uso de recursos; c) Metodologia de Estimativa de Software, utilizando como referência o manual de Práticas e Contagem de pontos de Função ­ CPM 4.2 ou superior IFPUG, para fins de dimensionamento do tamanho dos sistemas e esforço necessário para realização dos serviços; d) Metodologia de teste de Software (Unitário e Integrado de Sistema, carga, Regressão, etc), visando garantir a qualidade dos produtos gerados, diminuindo o retrabalho e o aumento de custos de produção de sistemas;
+
+49
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+e) Metodologia de desenvolvimento de Sistemas de Suporte à Decisão (Business Intelligence), visando agilizar e melhorar a segurança no processo de tomada de decisão; e f) Metodologia de Desenvolvimento de Sistemas a fim de melhorar a qualidade dos produtos e serviços prestados, melhorando o suporte à tomada de decisão. CLÁUSULA OITAVA ­ A CONTRATADA deverá fornecer, customizar e utilizar, para fins de atendimento das demandas, Política/Norma de Segurança e procedimentos de Inspeção de Código Fonte baseado no Modelo de Ameaça, contemplando no mínimo as seguintes categorias: falsificação de identidade, modificação não autorizada dos dados, repúdio, apresentação não autorizada de informações, elevação de privilégios e recusa de serviços. CLÁUSULA NONA ­ A CONTRATADA deverá fornecer, customizar e utilizar uma ferramenta de gerenciamento de demandas capaz de gerar consultas e relatórios individuais e consolidados, contemplando no mínimo as seguintes informações:
+
+a) Número; b) Status da solicitação; c) Requisitante; d) Descrição do(s) produto(s) e/ou serviço(s); e) Quantidade de ponto de função para realização do serviço; f) Data prevista e efetiva de início; g) data prevista e efetiva de término; h) Valor da Ordem de Serviço; i) Responsável pela autorização dos serviços (CONTRATANTE); j) Responsável pelo aceite dos serviços (CONTRATADA). Parágrafo único. A ferramenta de gerenciamento de demandas deverá permitir que arquivos sejam anexados, contendo informações relevantes para execução das solicitações. CLÁUSULA DEZ - A CONTRATADA deverá fornecer, customizar e utilizar as seguintes ferramentas automatizadas, no âmbito da prestação de serviços: Gerenciamento de Projetos; Gerenciamento de Demandas; Modelagem de processos e Sistemas ­ CASE; Teste de Software e Gerenciamento de Mudança e Configuração. CLÁUSULA ONZE ­ Os Sistemas de Gerenciamento de Projetos, Gerenciamento de Demandas, Estimativa de Software, Modelagem de Processos e Sistemas, Teste de Software e Gerenciamento de Mudança e Configuração deverão estar
+50
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+disponíveis no ambiente Intranet, Internet e Extranet, a fim de garantir a disponibilidade tempestiva e atualizada de informações relacionadas á prestação de serviços. CLÁUSULA DOZE - A liberação de acesso à ferramenta utilizada deverá observar os requisitos de segurança (uso de criptografia, identificação, controle de acesso de usuários e controle de transações para inclusão, alteração e exclusão) determinados pelo CNJ. CLÁUSULA TREZE ­ A inclusão de componentes de software proprietários sem prévia e expressa autorização do CNJ é vedada em qualquer das etapas de desenvolvimento e/ou manutenção de sistemas. CLÁUSULA QUATORZE - A equipe técnica do CNJ poderá sugerir alterações nas metodologias, técnicas e ferramentas, as quais após análise, validação e implementação por parte da CONTRATADA, deverão ser incorporadas ao acervo técnico do CNJ, sem ônus adicional, e adotadas na execução das novas Ordens de Serviços. DA EXECUÇÃO CLÁUSULA QUINZE ­ Os serviços a serem prestados são de natureza técnica, sob demanda, envolvendo requisitos, análise, projeto, implementação, testes, homologação e implantação dos sistemas de informação. Parágrafo primeiro. O detalhamento dos tipos de demandas deve atender: a) Desenvolvimento de sistema: execução de todas as etapas do ciclo de desenvolvimento de sistemas, para fins de desenvolvimento e implantação de um novo sistema; b) Melhoria evolutiva do sistema ­ contempla o desenvolvimento e implantação de novas funcionalidades e de novos componentes em sistemas existentes. c) Documentação de sistema: corresponde à execução de atividades de documentação de sistemas existentes e os novos sistemas desenvolvidos pela CONTRATADA. Parágrafo segundo. A critério do CNJ poderá ser demandada tanto a execução de todas as fases do ciclo de desenvolvimento, quanto somente alguma(s) de suas fase(s)/disciplina(s). Parágrafo terceiro. A CONTRATADA providenciará um link de comunicação dedicado (mínimo de 1 Mbps), entre as suas instalações e o CNJ em Brasília, arcando com todos os custos de instalação, manutenção, segurança e controle de acesso e dados, ou quaisquer outros relacionados, durante a vigência do contrato. A conexão será utilizada para troca de arquivos ou, quando autorizado pelo CNJ, para
+
+51
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+realização de testes integrados teste/homologação pelo CNJ.
+
+no
+
+ambientes
+
+de
+
+desenvolvimento/
+
+Parágrafo quarto. As interações dos profissionais da CONTRATADA com os usuários e profissionais do CNJ, para fins de recebimento das demandas dos serviços, para levantamento de pré-requisitos, ou serviço similar, ocorrerão nas instalações do CNJ, ou nas instalações dos Órgãos do Poder Judiciário, situados nas Capitais, cabendo à CONTRATADA a responsabilidade pelo deslocamento dos profissionais desta envolvidos até o local de prestação dos serviços. Parágrafo quinto. O CNJ e os Órgãos do Judiciário providenciarão acesso controlado para os profissionais da CONTRATADA ao ambiente de desenvolvimento, teste e homologação, incluindo bibliotecas, programas, políticas, normas, procedimentos, metodologias, base de dados, ferramentas, de acordo com pré-requisitos definidos na Ordem de Serviço ­ OS. Parágrafo sexto. Os novos requisitos solicitados após a conclusão da etapa de homologação serão tratados como novas Ordens de Serviço - OS. Parágrafo sétimo. A CONTRATADA deverá executar as atividades de testes relacionadas abaixo, a fim de detectar e corrigir erros potenciais ou reais, garantindo assim a funcionalidade e qualidade dos produtos gerados: a) levantamento de informações do sistema para os testes;
+
+b) planejamento dos testes: consiste em elaborar estratégia de testes, cenário de testes, roteiro de testes e casos de testes; c) d) e) f) g) h) implementação de roteiros de testes e casos de testes; geração da massa de testes; execução dos testes; evidenciação dos testes; registro de ocorrências dos testes; avaliação e validação dos testes;
+
+i) fornecimento de informações de controle e acompanhamento da execução dos serviços de testes, como parte do serviço que está sendo executado. DO PRAZO DE EXECUÇÃO DOS SERVIÇOS CLÁUSULA DEZESSEIS ­ Os serviços serão executados de acordo com os prazos estabelecidos a seguir:
+
+52
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+DESENVOLVIMENTO DE NOVOS SISTEMAS (INCLUÍDA A DOCUMENTAÇÃO) Tamanho do serviço em Prazo máximo para início do Prazo Máximo para Pontos de Função Bruto Projeto (em dias úteis) atendimento da Demanda (em dias corridos) 50 A partir da aprovação da OS 90 100 A partir da aprovação da OS 110 200 7 135 300 7 150 400 7 165 500 15 180 600 15 190 700 15 200 800 15 210 900 15 220 1000 15 225 Acima de 1000 Negociável entre as partes
+
+DO LOCAL DE EXECUÇÃO DOS SERVIÇOS CLÁUSULA DEZESSETE ­ Os serviços contemplados nas etapas I ­ Levantamento de Requisitos; VI ­ Homologação; VII ­ Implantação; e VIII ­ Garantia, serão realizados nas dependências do CNJ ou Órgãos do Judiciário situados nas Capitais. As etapas II ­ Análise; III ­ Projeto; IV ­ Implementação; e V ­ Testes, serão realizadas nas dependências da CONTRATADA. DOS CHAMADOS TÉCNICOS CLÁUSULA DEZOITO ­ Durante as etapas de Homologação e Garantia, as não conformidades encontradas serão registradas e encaminhadas ao gerente de projetos da CONTRATADA ou pessoa designada por este, sem prejuízo à apuração dos indicadores. Parágrafo primeiro. Os chamados técnicos de correção contemplam a identificação de pontos falhos e eliminação de defeitos de códigos de funcionalidades, destinados a recolocar o sistema de informação, sítio ou portal em seu pleno estado de funcionamento, removendo definitivamente os defeitos apresentados. Parágrafo segundo. Os chamados técnicos serão atendidos em dias úteis (segunda a sexta), em horário de 8 às 20 horas, por profissionais especializados. Parágrafo terceiro. O atendimento aos chamados técnicos será realizado nas dependências do CNJ ou demais Órgãos do Judiciário, sempre que a natureza do serviço exigir a presença de técnicos especializados. Parágrafo quarto. O chamado técnico será considerado fechado após atendimento e apresentação de solução definitiva dentro das condições e prazos estabelecidos
+
+53
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+na severidade do chamado aberto. Para que ocorra o fechamento dos chamados, a CONTRATADA fornecerá em detalhes, e por escrito, as informações técnicas acerca da solução do problema detectado. Parágrafo quinto. O atendimento aos chamados técnicos de correção deverá seguir os prazos estabelecidos na Tabela de Prazos de Atendimento ­ TPA apresentados a seguir, contabilizados a partir da abertura do chamado: Serviço Chamados Técnicos de Correção Prazo para Retorno do Comportamento Adequado do Sistema de informação, sítio ou portal Em até 2 (duas) horas Em até 8 (oito) horas Em até 24 (vinte e quatro) horas Prazo Para Solução da Origem do Problema Em até 24 (vinte e quatro) horas Em até 48 (quarenta e oito) horas Em até 72 (setenta e duas) horas
+
+Severidade
+
+Ocorrência
+
+Alta¹ Média² Baixa³
+
+Comportamento inadequado do sistema, sítio ou portal.
+
+(¹) Alta ­ Incidente que afete a disponibilidade do sistema de informação, sítio ou portal e/ou comprometimento grave de funcionalidade, ou de dados ou de ambiente, (²) Média ­ Incidente que não afeta a disponibilidade do sistema de informação, sítio ou portal, porém apresente problemas que compromete funcionalidade, de dados ou de ambiente, (³) Baixa ­ Incidente do sistema de informação, sítio ou portal de pequeno ou nenhum comprometimento de funcionalidade, de dados ou de ambiente. Parágrafo sexto. São consideradas incidentes as falhas provocadas pela operação normal do sistema de informação, sítio ou portal e comportamentos que estejam em desacordo com os requisitos estabelecidos ou com as especificações definidas. Parágrafo sétimo. Serão considerados para efeitos dos prazos: a) Prazo de Retorno para Comportamento Adequado: tempo decorrido entre a abertura do chamado efetuado pela equipe técnica do Departamento de Tecnologia da Informação - DTI e a recolocação do sistema de informação, sítio ou portal em estado de funcionamento adequado. b) Prazo de Solução Definitiva: tempo decorrido entre a abertura do chamado efetuado pela equipe técnica do DTI e a efetiva solução do incidente tornando o sistema de informação, sítio ou portal em pleno estado de funcionamento; c) Os prazos mencionados nas alíneas "a" e "b" serão considerados apenas se houver aceite pela equipe técnica do DTI. Não ocorrendo o aceite, a solução apresentada será desconsiderada e os prazos continuarão correndo.
+54
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+Parágrafo oitavo. A correção dos erros e desconformidades do sistema de informação, sítio ou portal compreende as atividades de diagnóstico, análise e implantação da nova versão corrigida, se for o caso. Parágrafo nono. O descumprimento injustificado dos prazos estabelecidos na TPA sujeitará a CONTRATADA às sanções estabelecidas neste Contrato, a partir da abertura do chamado. DA PROPRIEDADE INTELECTUAL E DO SIGILO CLÁUSULA DEZENOVE ­ A CONTRATADA deverá manter sigilo, sob pena de responsabilidade civil, penal e administrativa, sobre todo e qualquer assunto de interesse do CNJ ou de terceiros de que tomar conhecimento em razão da execução do contrato, respeitando todos os critérios estabelecidos, aplicáveis aos dados, informações, regras de negócio, documentos, entre outros pertinentes. Parágrafo primeiro. O CNJ, para todos os efeitos da aplicação da Lei nº 9.609/98, que dispõe sobre a proteção da propriedade intelectual de programa de computador, e regulamentos correlatos, é o único proprietário dos produtos entregues pela CONTRATADA. Parágrafo segundo. O CNJ terá o direito de propriedade intelectual dos produtos, bem como dos artefatos gerados nas etapas de fabricação, de forma permanente. Parágrafo terceiro. A CONTRATADA fica proibida de comercializar os produtos relativos ao objeto da prestação dos serviços. DA GARANTIA CLÁUSULA VINTE - A CONTRATADA, apresentará garantia de execução do contrato no valor de R$ (_), na modalidade de _________, correspondente a 5% do valor global estimado do contrato, tendo como beneficiário o CONTRATANTE. Parágrafo primeiro. A garantia deverá ser prestada com vigência de 3 (três) meses após o término da vigência do Contrato e será liberada em até 60 (sessenta) dias após expirada a sua vigência. Parágrafo segundo. Na hipótese da exigência do instrumento contratual pela instituição custo diante para a emissão da apólice, a CONTRATADA terá o prazo de 10 (dez) dias corridos a contar da assinatura do contrato para o cumprimento da obrigação. Parágrafo terceiro. Quando a garantia for apresentada em dinheiro, ela será atualizada monetariamente, conforme os critérios estabelecidos pela instituição bancária em que for realizado o depósito. Parágrafo quarto. Aditado o contrato, prorrogado o prazo de sua vigência ou alterado o seu valor, fica a CONTRATADA obrigada a apresentar garantia complementar ou substituí-la, no mesmo percentual e modalidades constantes desta
+55
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+cláusula. Nesses casos, a garantia será liberada após a apresentação da nova garantia e da assinatura do termo aditivo ao contrato. DA FISCALIZAÇÃO CLÁUSULA VINTE E UM ­ O CNJ designará gestor responsável pelo acompanhamento e fiscalização da execução dos serviços, o qual compete dirimir eventuais dúvidas que surgirem no curso da execução do contrato, nos termos do art. 67, da Lei nº 8.666, de 1993. Parágrafo primeiro. As não-conformidades identificadas durante a inspeção dos serviços contratados serão corrigidas pela CONTRATADA, sem ônus para o CNJ, mantendo a consistência da documentação correspondente. Parágrafo segundo. A existência e a atuação da fiscalização em nada restringem a responsabilidade, única, integral e exclusiva da CONTRATADA. DA GARANTIA DOS SERVIÇOS CLÁUSULA VINTE E DOIS ­ Os produtos gerados pela CONTRATADA terão garantia de 12 (doze) meses, a contar da data da homologação. Parágrafo único. A emissão de aceite dos serviços pelo CNJ, não exime a CONTRATADA da responsabilidade pela correção de erros porventura identificados, sem ônus adicional. DO VALOR CLÁUSULA VINTE E TRÊS ­ O valor total deste contrato é de R$ xxx(Xx), conforme demonstrativo abaixo: VALOR UNITÁRIO PONTO DE FUNÇÃO BRUTO (R$)
+
+UN
+
+QTDE
+
+DESCRIÇÃO
+
+VALOR TOTAL (R$)
+
+Pontos de função para manutenção e Un 40.000 desenvolvimento de sistemas de informação e demais serviços correlacionados. Valor Total Parágrafo único. Já estão inclusos no preço todas as despesas e encargos indispensáveis ao perfeito cumprimento das obrigações decorrentes deste contrato.
+
+56
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+DO REAJUSTE CLÁUSULA VINTE E QUATRO ­ Os preços contratados poderão ser reajustados, mediante negociação entre as partes e a formalização do pedido pela CONTRATADA, tendo como limite máximo a variação do IGP-DI/FGV ocorrida nos últimos 12 (doze) meses, contados da data da assinatura do contrato ou do último reajuste. Parágrafo único. A alegação de esquecimento da CONTRATADA quanto ao direito de propor o reajuste não será aceito como justificativa para pedido de efeito retroativo à data a que legalmente faria jus, se não a requerer dentro do primeiro mês de aniversário do contrato, responsabilizando-se a CONTRATADA pela própria inércia. DO RECEBIMENTO DO OBJETO CLÁUSULA VINTE E CINCO ­ O objeto deste Contrato será recebido da seguinte forma: a) provisoriamente, no ato da entrega de cada etapa, pelo Departamento de Tecnologia da Informação do CNJ, para posterior conferência de sua conformidade. Caso não haja qualquer impropriedade explicita, será atestado esse recebimento; b) definitivamente, em até 5 (cinco) dias úteis, mediante termo circunstanciado, após avaliação de conformidade às especificações técnicas estabelecida na Ordem de Serviço e no Plano de Desenvolvimento de Sistema. Parágrafo primeiro. Caso sejam constatadas inadequações, falhas ou incorreções na execução dos serviços, a CONTRATADA fica obrigada a efetuar as correções necessárias, sem ônus para o CNJ. Parágrafo segundo. O CONTRATANTE, acompanhado pelo representante da CONTRATADA, será responsável pelas atividades de homologação do sistema, no ambiente de homologação do CNJ, com a seguinte abrangência: a) Os requisitos do ambiente de homologação, o qual deverá ter um comportamento estável e com baixo consumo de recursos; b) Os requisitos de segurança, buscando proteger as informações de clientes, a integridade dos dados, da aplicação e do ambiente; c) Os requisitos do negócio, disponibilizando o sistema para avaliação dos usuários quanto ao atendimento dos requisitos contratados; d) O acompanhamento da execução dos testes no ambiente de homologação; e) O acompanhamento das atividades de homologação pelo usuário final.
+
+57
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+Parágrafo segundo. O CNJ deverá disponibilizar um Ambiente de Homologação de Sistemas, Espelho do Ambiente de Produção, a fim de assegurar a correta homologação. DO PAGAMENTO CLÁUSULA VINTE E SEIS ­ Os pagamentos serão efetuados relativamente a cada etapa, mediante crédito em conta-corrente da CONTRATADA, em até 15 (quinze) dias corridos, após o recebimento da nota fiscal/fatura pelo CONTRATANTE, quando mantidas as mesmas condições iniciais de habilitação e cumpridos os seguintes requisitos: a) Certidão Negativa de Débito ­ CND, comprovando regularidade com o INSS, Certificado de Regularidade do FGTS ­ CRF, comprovando regularidade com o FGTS, e Certidão Conjunta Negativa de Débitos Relativos a Tributos Federais e à Divida Ativa da União, expedida pela Secretaria da Receita Federal; b) Inexistência de fato impeditivo para o qual tenha concorrido a CONTRATADA.
+
+Parágrafo primeiro. O valor será pago mediante a aplicação do percentual estabelecido na Tabela de Percentual de Pagamento por Etapa ­TPPE, pela multiplicação do Valor Unitário do Ponto de Função Bruto ­ VUPFB, ajustado pelos fatores de ajuste constantes na Tabela de Fatores de Ajuste ­ TFA em razão da tecnologia utilizada, pelo Quantitativo de Ponto de Função Bruto ­ QPFB do produto: Pagamento = (VUPFB x QPFB) x percentual de cada etapa x TFA
+
+Tabela de Percentual de Pagamento por Etapa (TPPE) Etapa I II III IV V VI VII VIII Nome da Etapa Levantamento de requisitos Análise Projeto Implementação Testes Homologação Implantação(¹) Garantia Percentual 20% 5% 15% 35% 10% 15% 58
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+(¹) Implantação = produto homologado e instalado em produção no CNJ ou em um Tribunal designado pelo CNJ.
+
+Tabela de Fatores de Ajuste
+
+Plataformas Tecnológicas Plataforma JAVA, JEE e J2ME HTML, Zope, Plone, XML, PHP, Phyton e JavaScript Plataforma Delphi e PL/SQL
+
+Fator de Ajuste 1 0,62 0,83
+
+Parágrafo segundo. Todas as Ordens de Serviço ­ OS deverão vir acompanhadas do Relatório de Atendimento Técnico ­ RAT, e do Termo de Aceite de Serviços para que o pagamento seja realizado. Parágrafo terceiro. Caso haja divergência entre as contagens efetuadas pelo CNJ e pela CONTRATADA superior a 10%, deverá ocorrer uma análise para identificar os pontos divergentes, para adequação ao limite de 10%. Caso a divergência seja igual ou inferior a 10%, prevalecerá a menor contagem. Parágrafo quarto. As notas fiscais e os documentos exigidos neste Contrato, para fins de liquidação e pagamento das despesas, deverão ser entregues, exclusivamente, na sede do CONTRATANTE, situado no Anexo I do Supremo Tribunal Federal, Praça dos Três Poderes, s/n.º, Brasília ­ Distrito Federal, CEP 70.175-900. Parágrafo quinto. Se, quando da efetivação do pagamento, os documentos da CONTRATADA comprobatórios de situação regular em relação à Fazenda Federal, ao INSS e ao FGTS, apresentados em atendimento às exigências de habilitação, estiverem com a validade expirada, o pagamento ficará retido até a apresentação de novos documentos dentro do prazo de validade. DA ATUALIZAÇÃO MONETÁRIA CLÁUSULA VINTE E SETE ­ O CONTRATANTE pagará à CONTRATADA a atualização monetária sobre o valor devido entre a data do adimplemento das obrigações contratuais e a do efetivo pagamento, excluídos os períodos de carência para recebimento definitivo e liquidação das despesas previstos neste contrato, utilizando o índice IGP-DI da Fundação Getúlio Vargas, desde que a CONTRATADA não tenha sido responsável, no todo ou em parte, pelo atraso no pagamento.
+
+59
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+DA DOTAÇÃO ORÇAMENTÁRIA CLÁUSULA VINTE E OITO ­ As despesas oriundas deste contrato correrão à conta dos recursos orçamentários consignados ao CONTRATANTE, Programa de Trabalho ________, Natureza de Despesa ______, Nota de Empenho ________ emitida em ___ de ________ de _____. DAS PENALIDADES SOBRE A CONTRATADA CLÁUSULA VINTE E NOVE ­ No caso de atraso injustificado ou inexecução total ou parcial do compromisso assumido com o CONTRATANTE, as sanções administrativas aplicadas à CONTRATADA serão: a) advertência; b) multa, no valor de: b.1) 1% ao dia, calculado sobre o valor total estimado da Ordem de Serviço, no caso de atraso injustificado para a apresentação do Plano de Desenvolvimento de Software, limitada a incidência a 15 (quinze) dias, podendo, ainda, caracterizar a inexecução total da obrigação assumida; b.2) 1% ao dia, calculado sobre o valor da parcela inadimplida, no caso de atraso injustificado para o início/conclusão de cada etapa definida no PDS; b.3) 1% ao dia, calculado sobre o valor total da Ordem de Serviço, no caso atraso injustificado para conclusão do cronograma definido no Plano Desenvolvimento de Software, limitada a incidência a 10% (dez por cento) prazo estabelecido para conclusão do PDS, respeitado o período mínimo de (dez) dias. Após, poderá ser caracterizada, ainda, a inexecução total obrigação assumida; de de do 10 da
+
+b.4) No caso de descumprimento injustificado dos prazos estabelecidos na Tabela de Prazos de Atendimento ­ TPA para o retorno do comportamento adequado do sistema de informação, sítio ou portal previstos no parágrafo quinto da cláusula dezoito, serão aplicadas as seguintes penalidades de acordo com a severidade: b.4.1) Severidade Alta ­ 1% por hora, limitado a 4 (quatro) horas, sobre o valor total da Ordem de Serviço; b.4.2) Severidade Média ­ 0,4% por hora, limitado a 12 (doze) horas, sobre o valor total da Ordem de Serviço; b.4.3) Severidade Baixa ­ 0,2% por hora, limitado a 24 (vinte e quatro) horas, sobre o valor total da Ordem de Serviço; b.5) No caso de descumprimento injustificado dos prazos estabelecidos na Tabela de Prazos de Atendimento ­ TPA para a solução da origem do problema
+
+60
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+previstos no parágrafo quinto da cláusula dezoito, serão aplicadas as seguintes penalidades de acordo com a severidade: b.5.1) Severidade Alta ­ 0,5% por hora, limitado a 12 (doze) horas, sobre o valor total da Ordem de Serviço; b.5.2) Severidade Média ­ 0,2% por hora, limitado a 24 (vinte e quatro) horas, sobre o valor total da Ordem de Serviço; b.5.3) Severidade Baixa ­ 0,1% por hora, limitado a 36 (trinta e seis) horas, sobre o valor total da Ordem de Serviço; b.6) O atraso injustificado por período superior aos consignados nas alíneas acima, poderá caracterizar o inadimplemento total da obrigação com a aplicação de multa de 10% (dez por centos) do valor total do contrato e rescisão unilateral do ajuste; b.7) 10% calculado sobre o valor total do contrato no caso de rescisão unilateral contratual. c) suspensão temporária de participar de licitação e impedimento de contratar com a Administração, pelo prazo de até 2 (dois) anos; d) declaração de inidoneidade para licitar ou contratar com a Administração Pública. Parágrafo primeiro. O valor da multa, aplicada após o regular processo administrativo, será descontado de pagamentos eventualmente devidos pelo CONTRATANTE à CONTRATADA ou cobrado judicialmente. Parágrafo segundo. As sanções previstas nas alíneas a, c e d desta cláusula poderão ser aplicadas, cumulativamente, com a pena de multa. Parágrafo terceiro. As sanções previstas nos itens c e d desta cláusula também poderão ser aplicadas à CONTRATADA que tenha sofrido condenação definitiva por fraudar recolhimento de tributos, praticar ato ilícito visando frustrar os objetivos da licitação ou demonstrar não possuir idoneidade para contratar com a Administração. Parágrafo quarto. As penalidades serão obrigatoriamente registradas no SICAF, e sua aplicação deverá ser precedida da concessão da oportunidade de ampla defesa para a CONTRATADA, na forma da lei. DA RESCISÃO CLÁUSULA TRINTA ­ O inadimplemento de Cláusula estabelecida neste Contrato, por parte da CONTRATADA, assegurará ao CONTRATANTE o direito de rescindilo, mediante notificação, com prova de recebimento. CLÁUSULA TRINTA E UM ­ Além de outras hipóteses expressamente previstas no artigo 78 da Lei nº 8.666/93, constituem motivos para a rescisão deste Contrato:
+
+61
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+a) atraso injustificado na execução dos serviços, bem como a sua paralisação sem justa causa e prévia comunicação ao CONTRATANTE; b) o cometimento reiterado de falhas comprovadas por meio de registro próprio efetuado pelo representante do CONTRATANTE. Parágrafo único. Nos casos em que a CONTRATADA sofrer processos de fusão, cisão ou incorporação, será admitida a continuação desta contratação desde que a CONTRATADA mantenha o fiel cumprimento dos termos contratuais e as condições de habilitação. CLÁUSULA TRINTA E DOIS ­ Ao CONTRATANTE é reconhecido o direito de rescisão administrativa, nos termos do artigo 79, inciso I, da Lei nº 8.666/93, aplicando-se, no que couber, as disposições dos parágrafos primeiro e segundo do mesmo artigo, bem como as do artigo 80. DAS ALTERAÇÕES DO CONTRATO CLÁUSULA TRINTA E TRÊS ­ As partes somente poderão alterar as Cláusulas constantes deste ajuste nas hipóteses previstas na Lei n.º 8.666/93 e em outras disposições legais pertinentes, via termo aditivo. DA VIGÊNCIA CLÁUSULA TRINTA E QUATRO ­ O prazo de vigência deste Contrato será de 12 (meses) meses, contados a partir da data de sua assinatura, podendo ser prorrogado nos termos da lei. DO FORO CLÁUSULA TRINTA E CINCO ­ É competente o foro da Justiça Federal/Seção Judiciária do Distrito Federal para dirimir quaisquer questões oriundas deste contrato. E por estarem assim de pleno acordo, assinam as partes o presente instrumento em 2 (duas) vias, para todos os fins de direito.
+
+Brasília,
+
+de
+
+de 2010.
+
+Pelo CONTRATANTE Rubens Rihl Pires Correa Secretário-Geral
+
+Pela CONTRATADA
+
+62
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO A DO CONTRATO AMBIENTE COMPUTACIONAL DO CNJ · · Sistemas Operacionais: MS Windows XP, MS Windows 2003 Server, RED Hat Linux, Suse Linux. Linguagens de Desenvolvimento / Softwares utilizados: JAVA, JAVAScript, PHP, HTML, XML, CSS, SQL ANSI, JSP, AJAX, Delphi,RUBY, WI e DHTML. · · · · · · · · · · · · FRAMEWORK : GWT e ZENT Barramento de Serviços: WSO2ESB SGBD: Oracle 9i ou superior, My-SQL 4x ou superior, SQL Server 2003. Servidor de Aplicação: Tomcat, Jboss Servidor de Portal: Joomla 1.0.xx Utilização de padrões de interoperabilidade: e-ping Utilização de padrões de acessibilidade: e-mag Servidor Web: Apache Servidor de Correio Eletrônico: Exchange Server 2003 Sistema de Diretório: Microsoft Active Directory Sistema de Arquivos: Microsoft Windows 2003 Sistema de Armazenamento: Storage Area Network (SAN) composta por equipamentos da EMC, ADIC, Sun e Storagetek. · · Equipamentos ativos de rede: Extreme Networks Ferramentas de Apoio ao Desenvolvimento: MS Office 2003, Internet Explorer, MS Project 2007, Oracle Designer 2000, Erwin, JBPM, Borland Caliber RM, StarTeam, e Together, JBuilder X, Eclipse, Struts, Hibernat, MySQL Query Browser. · · · · Ferramenta de Gerenciamento de Projetos: Enterprise Project Management ­ EPM 2007. BI: Business Objects Ferramenta de Georeferência: ISmart Ferramenta de Extração de Dados: ODI ­ Oracle Data Integrator
+
+63
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO B DO CONTRATO QUALIFICAÇÃO TÉCNICA E PERFIL DOS PROFISSIONAIS
+
+Os profissionais a serem envolvidos nos serviços objeto deste Termo de Referência, deverão estar capacitados nos recursos que compõem o ambiente de desenvolvimento do CNJ. · Gerente de Projetos
+
+Requisitos Obrigatórios: g) Curso superior completo que some, no mínimo, 360 horas e seja reconhecido pelo MEC;
+
+h) Experiência comprovada em gerenciamento de projetos de desenvolvimento de software baseada em metodologia de Processo Unificado ou similar; i) Certificação Project Management Professional (PMP) em vigor emitida pelo Project Management Institute (PMI); j) Conhecimento de contagem de pontos de função;
+
+k) Conhecimento dos princípios que regem os modelos de maturidade em desenvolvimento de software; l) · Conhecimento técnico da língua inglesa.
+
+Analista de Requisitos
+
+Requisitos Obrigatórios: f) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; g) h) i) j) · Experiência comprovada em análise de sistemas; Conhecimento de contagem de pontos de função; Conhecimento em modelagem de processos de negócio e O&M; Conhecimento técnico da língua inglesa.
+
+Projetista
+
+Requisitos Obrigatórios: k) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; l) Conhecimento em análise e modelagem de dados utilizando linguagem própria para modelagem; m) Experiência comprovada em desenvolvimento com Java-J2EE, (utilizando Enterprise Java Beans ­ EJB); n) Experiência comprovada em desenvolvimento com WEB ­ JSP - JSF;
+
+o) Experiência comprovada em modelagem UML e Processo Unificado, especialmente na área de projeto físico, incluindo: Experiência na utilização de "Padrões de Projeto" (DAO, Facade, Delegate e outros); Experiência na elaboração de diagramas de seqüência de projeto, diagramas de colaboração
+64
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+entre classes, diagramas de distribuição de componentes e diagramas de classes. Experiência na construção de aplicações que utilizem o Framework de Persistência Hibernate; p) q) Experiência comprovada com o Servidor de Aplicações JBoss e Tomcat; Experiência comprovada no Framework JBossSeam;
+
+r) Experiência comprovada em desenvolvimento de aplicações com arquitetura de Webservices; s) Possuir ao menos uma das certificações JAVA: SCJP ­ Sun Certified Java­Programmer, SCJD Sun Certified Java Developer, SCWCD - Sun Certified Web Component Developer, SCBCD - Sun Certified Business Component Developer ou SCDJWS - Sun Certified Developer for Java Web Services; t) · Conhecimento técnico da língua inglesa.
+
+Analista Desenvolvedor
+
+Requisitos Obrigatórios: g) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; h) Experiência comprovada em desenvolvimento com WEB ­ JSP - JSF;
+
+i) Experiência comprovada em leitura de modelos UML, que utilizem a metodologia de Processo Unificado ou similar. j) Experiência comprovada em desenvolvimento com Java-J2EE;
+
+k) Possuir ao menos uma das certificações JAVA: SCJP ­ Sun Certified Java Programmer, SCJD Sun Certified Java Developer, SCWCD - Sun Certified Web Component Developer, SCBCD - Sun Certified Business Component Developer ou SCDJWS - Sun Certified Developer for Java Web Services; l) · Conhecimento técnico da língua inglesa.
+
+Projetista de Interface
+
+Requisitos Obrigatórios: h) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; i) Experiência comprovada na construção de portais e sítios WEB que utilizem as linguagens HTML e Javascript; j) Experiência comprovada na utilização de ferramentas para construção de páginas WEB;
+
+k) Experiência comprovada com ferramentas para construção dinâmica de páginas Web, como PHP, JSF ou JSP; l) Experiência comprovada em desenvolvimento com a API JAVA/SWING;
+
+m) Conhecimento na leitura de modelos UML, que utilizem a metodologia de Processo Unificado ou similar; n) Conhecimento técnico da língua inglesa.
+
+65
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+·
+
+Analista de Testes
+
+Requisitos Obrigatórios: e) Curso superior completo na área de Tecnologia da Informação ou qualquer curso superior com especialização na área de TI, que some, no mínimo, 360 horas e seja reconhecido pelo MEC; f) Experiência comprovada como analista de testes;
+
+g) Conhecimento nas metodologias e técnicas de teste (testes de caixa-preta, de caixa-branca, de unidade, de integração, de componente, de sistema etc.). h) · Conhecimento técnico da língua inglesa.
+
+Preposto
+
+Requisitos Obrigatórios: d) Curso superior completo na área de Tecnologia da Informação, ou Recursos Humanos, ou Administração de Empresas, ou qualquer curso superior com especialização na área de TI, que some no mínimo 360hs e seja reconhecido pelo MEC; e) Experiência comprovada em projetos de desenvolvimento e gerenciamento de sistemas baseado em métodos reconhecidos pelo mercado; f) Conhecimento em organização de métodos de trabalho;
+
+Conhecimento da Lei de Licitações da Administração Pública e outras complementares.
+
+66
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO C CONTRATO ­ MODELOS
+
+Página ORDEM DE SERVIÇOS (OS)
+IDENTIFICAÇÃO CLIENTE CONTRATO DATA ASSINATURA SOLICITANTE E-MAIL 11. Objetivo deste Registro VIGÊNCIA DATA TELEFONE
+
+Número
+
+12.
+
+Nome do Projeto
+
+13.
+
+Objeto da contratação
+
+14.
+
+Tipo de Serviços Contratados
+
+15.
+
+Medição dos serviços contratados
+
+16.
+
+Fases Contratadas
+
+17.
+
+Prazo de entrega dos serviços contratados
+
+18.
+
+Relação dos artefatos a serem entregues pela contratada
+
+19.
+
+CRONOGRAMA DE DESEMBOLSO
+
+20.
+
+Considerações Gerais
+
+NOME GESTOR DO CONTRATO CONSELHO NACIONAL DE JUSTIÇA
+
+NOME DIRETOR DO DEPARTAMENTO DE TI CONSELHO NACIONAL DE JUSTIÇA
+
+67
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+RELATÓRIO DE ATENDIMENTO TÉCNICO
+
+Página Número
+
+Identificação Cliente Contrato Data Assinatura Solicitante E-mail OS Vigência Data Telefone
+
+Objetivo
+
+Sumário Executivo Período Descrição dos Serviços SERVIÇOS FASE PF PROPORCIONAIS
+
+Fases Contratadas FASES CONTRATADAS PF PROPORCIONAIS
+
+Relação dos Artefatos entregues Responsável pela Estimativa dos Pontos de Função
+
+DATA
+
+NOME EMPRESA
+
+68
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+TERMO DE ACEITE DE SERVIÇOS
+Identificação Cliente Contrato Solicitante E-mail OS Telefone Data da OS Data Assinatura
+
+ATESTAMOS A EXECUÇÃO DOS SERVIÇOS ESPECIFICADOS NA RESPECTIVA ORDEM DE SERVIÇO SEUS ADITIVOS E/OU ALTERAÇÕES DE ESCOPO APROVADAS PELO CNJ.
+
+( )
+
+ACEITE DOS SERVIÇOS EXECUTADOS DEVIDO AOS RESULTADOS SATISFATÓRIOS DOS TESTES E VERIFICAÇÕES REALIZADAS PELAS EQUIPES INTERNAS DO CNJ E/OU HOMOLOGAÇÃO DO USUÁRIO FINAL DO SISTEMA.
+
+( )
+
+AUTORIZAÇÃO PARA FATURAMENTO DA PARCELA MENSAL, CONFORME OS E NA FORMA CONVENCIONADA NO CONTRATO Nº ___/____.
+
+NA DATA DE ASSINATURA DESTE TERMO, DÁ-SE INÍCIO AO PERÍODO DE GARANTIA DE CONVENCIONADA NO CONTRATO Nº ___/_____.
+
+___ (_______), NA FORMA
+
+OS PROFISSIONAIS ABAIXO ASSINADOS ATESTAM O SERVIÇO EXECUTADO E CLASSIFICAM OS ARTEFATOS RECEBIDOS COMO SATISFATÓRIOS NOS ITENS DE COMPLETEZA E QUALIDADE. DATA
+
+PREPOSTO RESPONSÁVEL
+
+NOME GESTOR DO CONTRATO CONSELHO NACIONAL DE JUSTIÇA
+
+NOME DIRETOR DO DEPARTAMENTO DE TI CONSELHO NACIONAL DE JUSTIÇA
+
+69
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO D DO CONTRATO ­ GLOSSÁRIO BS 7799 ­ BS 7799 Security Standard BI (Business Inteligence) - "Inteligência de negócios", refere-se ao processo de coleta, organização, análise, compartilhamento e monitoração de informações que oferecem suporte a gestão de negócios BPM ­ Business Process Modeling CNJ ­ Conselho Nacional de Justiça DTI ­ Departamento de Tecnologia da Informação COBIT (Control Objectives for Information and related Technology) - Controle de Objetivos relacionados a Informação e Tecnologia . DATA WAREHOUSE (DW) - (ou armazém de dados, ou depósito de dados no Brasil) é um sistema de computaçaõ utilizado para armazenar informações relativas às atividades de uma organização em banco de dados de forma consolidada. O desenho da base de dados favorece os relatórios, a análise de grandes volumes de dados e a obtenção de informações estratégicas que podem facilitar a tomada de decisão. DATA MART (entreposto ou bazar de dados) é sub-conjunto de dados de um DATA WAREHOUSE (armazém de dados). Geralmente são dados referentes a um assunto em especial (ex: Vendas, Estoque, Controladoria) ou diferentes níveis de sumarização (ex: Vendas Anual, Vendas Mensal, Vendas 5 anos), que focalizam uma ou mais áreas específicas. Seus dados são obtidos do DW, desnormalizados e indexados para suportar intensa pesquisa. DSS (Decision Support Systems) - Um conjunto de programas e dados necessários para permitir a análise e a tomada de decisão em uma organização. Esse tipo de sistema contém um banco de dados, uma base de conhecimentos sobre a área em questão, uma "linguagem" utilizada para formular problemas e questões e um programa de modelagem para testar decisões alternativas. E-MAG - Padrão de Acessibilidade de Governo Eletrônico (www.governoeletronico.gov.br/emag) E-PING - Padrão de Interoperabilidade de Governo Eletrônico (www.governoeletronico.gov.br/eping) ETL (Extract Transform Load (Extração, Transformação e Carga) - processo de extrair dados de um sistema (um banco de dados), transformá-los de alguma forma e inseri-los em outro banco de dados especial, o DATA WAREHOUSE (DW). JOOMLA ­ Sistema de Gestão de Conteúdo, desenvolvido em PHP LAN - Grupo de computadores e outros dispositivos dispersos por uma área relativamente limitada e interligados por um link de comunicação que permite a qualquer dispositivo interagir com qualquer outro equipamento da rede. NBR-ISO/IEC 1779 - equivalente brasileira da ISO/IEC 17799. OLAP (Online Analytical Processing) - sistema de banco de dados relacional capaz de tratar consultas mais complexas que aquelas tratadas por bancos de dados relacionais padrão, através do acesso
+70
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+multidimensional aos dados (exibição dos dados através de diferentes critérios), da capacidade de cálculo intensivo e de técnicas de indexação especializadas. OLTP (Online Transaction Processing) - Processamento de transações em tempo-real. Sistemas que se encarregam de registrar todas as transações contidas em uma determinada operação organizacional. PL/SQL - Extensão da linguagem padrão SQL para o SGBD Oracle da Oracle Corporation. PMI - Project Management Institute ­ Instituto da Gerência de Projeto. PMP ­ Project Management Professional ­ Profissional de Gerência de Projetos. PMBOK - Project Management Body of Knowledge - Conhecimento da Estrutura de Gerência de Projetos. UML ­ Unified Modeling Language. UP ­ Unified Process - processos da UML ­ Unified Modeling Language. WAN- rede de comunicação que interliga áreas geograficamente separadas. WOKFLOW- Um conjunto de programas que auxilia o acompanhamento e o gerenciamento de todas as atividades de um projeto, do início ao fim.
+
+71
+
+Processo nº. 338.579 Fl. nº _________ Serv.
+
+ANEXO E DO CONTRATO PLANO DE DESENVOLVIMENTO DE SISTEMA Apresentamos, em atendimento ao previsto na alínea ________ do Contrato do CNJ nº.__________, o plano referente ao Projeto de Sistema ou módulo, onde estão especificadas detalhadamente todas as etapas de sua concepção. SISTEMA/MÓDULO: _______________________________________________ Quantidade de Pontos de Função : ___________________________________ Tecnologia: ______________________________________________________
+
+Descrição
+
+Período de Execução
+
+Serviço Etapa I Serviço Etapa II Serviço Etapa III Serviço Etapa IV Serviço Etapa V Serviço Etapa VI Serviço Etapa VII Serviço Etapa VIII
+
+Data de entrega do sistema/módulo:_______________________________ Data de entrega do código-fonte:__________________________________ Data de entrega dos produtos:____________________________________ Outras informações pertinentes:___________________________________ Local e data ___________________________________ Assinatura e carimbo (Representante Legal) Nome: Cargo: Telefone de contato: E-mail de contato: (Representante Legal)
+72
+
+

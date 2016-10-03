@@ -1,0 +1,1222 @@
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+EDITAL
+PREGÃO ELETRÔNICO PE.DAQ.G.0324.2009
+www.furnas.com.br(Fornecedores/Editais)
+
+Serviços técnicos de desenvolvimento do sistema SSB na plataforma Dot Net ­ web, utilizando-se a Técnica de Análise de Pontos de Função e Processo de Desenvolvimento Unificado
+LIMITE DE ACOLHIMENTO DE PROPOSTA E ABERTURA DA PROPOSTA: 04/11/2009, às 10 horas. INÍCIO DA SESSÃO DE DISPUTA DE PREÇOS: 04/11/2009, às 14 horas.
+
+1/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+SEÇÃO I ­ INSTRUÇÕES AOS LICITANTES SEÇÃO II ­ DISPOSIÇÕES GERAIS SEÇÃO III ­ HABILITAÇÃO SEÇÃO IV ­ CONTRATO ­ MODELO
+
+SEÇÃO V ­ CONDIÇÕES ESPECÍFICAS DE PROPOSTA
+
+Este EDITAL, composto das seções acima relacionadas, foi expedido em 19 de outubro de 2009.
+
+Marcelo Brandão Carneiro Departamento de Aquisição
+
+2/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+SEÇÃO I INSTRUÇÕES AOS LICITANTES
+
+1. 2. 3. 4. 5. 6. 7. 8.
+
+PREÂMBULO OBJETO DA LICITAÇÃO DEFINIÇÕES ESCLARECIMENTOS SOBRE O EDITAL CREDENCIAMENTO DIREITOS E RESPONSABILIDADES DOS LICITANTES ACOLHIMENTO DAS PROPOSTAS ELETRÔNICAS NO SÍTIO DO BANCO DO BRASIL PARTICIPAÇÃO
+
+3/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 1. PREÂMBULO
+
+PE.DAQ.G.0324.2009
+
+1.1. Esta Licitação na modalidade de Pregão, na forma eletrônica, por meio da utilização de recursos de tecnologia da informação ­ INTERNET, do tipo "Menor Preço", é regida por este EDITAL e de conformidade com a Lei nº 10.520, de 17.07.2002, Decreto 5.450, de 31.05.2005, Lei Complementar nº 123 de 14.12.2006, Decreto 6.204 de 05.09.2007 e, subsidiariamente, pela Lei 8.666 de 21.06.93, com alterações posteriores, em suas últimas versões. 1.2. O Pregão Eletrônico será realizado em sessão pública, por meio da INTERNET, mediante condições de segurança ­ criptografia e autenticação ­ em todas as suas fases. O Pregão Eletrônico poderá ser acessado pelo sítio de FURNAS (http://www.furnas.com.br ­ Fornecedores / Editais) ou pelo sítio do BANCO DO BRASIL (http://www.licitacoes-e.com.br). 1.3. Os trabalhos serão conduzidos por funcionário de FURNAS, denominado Pregoeiro, mediante a inserção e monitoramento de dados gerados ou transferidos para o aplicativo constante do sítio do BANCO DO BRASIL (http://www.licitacoes-e.com.br) e realizados de acordo com a legislação indicada no subitem 1.1 acima. 1.4. As instruções estabelecidas neste EDITAL de Licitação determinam os procedimentos que orientarão o presente processo licitatório até a assinatura do respectivo CONTRATO administrativo. Alegações, por parte dos LICITANTES, de desconhecimento destas instruções, bem como das disposições legais acima especificadas, não serão aceitas como razões válidas para justificar quaisquer erros ou divergências encontradas em seus Documentos de Habilitação e/ou PROPOSTAS. 1.5. A presente Licitação tem âmbito nacional, não sendo aceita a participação de empresas em consórcio. 1.6. O LICITANTE não pode, em hipótese alguma, modificar o preço e as condições de sua PROPOSTA, após o término da sessão, sob alegação de insuficiência de informações relativas aos SERVIÇOS. 1.7. Os recursos financeiros para a presente Licitação são próprios de FURNAS. 1.8. A Documentação de Habilitação e as PROPOSTAS deverão atender a todas as exigências contidas no EDITAL. Qualquer descumprimento por parte do LICITANTE poderá implicar a sua inabilitação ou desclassificação da sua PROPOSTA. 1.9. A participação do LICITANTE nesta Licitação implica o conhecimento integral dos termos e condições inseridos neste instrumento convocatório, bem como das demais normas legais que disciplinam a matéria. 2. OBJETO DA LICITAÇÃO 2.1. A presente Licitação compreende a contratação de SERVIÇOS, conforme descrito na Seção V. 3. DEFINIÇÕES 3.1. Para efeito do EDITAL e de quaisquer documentos relativos a esta Licitação, os termos abaixo, quando aplicáveis, grafados em maiúsculas, no singular ou no plural, terão o seguinte significado: EDITAL - Conjunto de documentos emitidos por FURNAS, contendo os procedimentos e requisitos a serem observados na preparação, apresentação, análise e avaliação da Documentação de Habilitação e das PROPOSTAS, para a prestação de SERVIÇOS objeto desta Licitação. PROPOSTA FORMAL ESCRITA - Conjunto completo de documentos enviados a FURNAS, compreendendo todos os dados e informações relacionados à prestação dos SERVIÇOS de que trata o EDITAL, inclusive tabelas de preços, dados comerciais, dados técnicos, apêndices, anexos e outras informações complementares apresentadas pelo LICITANTE.
+
+4/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+PROPOSTA ELETRÔNICA - Conjunto de dados (preços, informações e anexos) a serem informados pela internet (www.licitacoes-e.com.br). LICITANTE - Pessoa jurídica que adquiriu o presente EDITAL e seus elementos constitutivos/anexos e apresentou PROPOSTA ELETRÔNICA. SERVIÇOS - Atividades a serem desenvolvidas pela CONTRATADA, inerentes ao objeto desta licitação e definidas no EDITAL. CONTRATADA - Sociedade à qual tenha sido adjudicada a prestação dos SERVIÇOS, incluindo os seus representantes legais, sucessores e cessionários. CONTRATO - Acordo formal celebrado entre FURNAS e a CONTRATADA, consubstanciando as regras e condições que regerão a prestação dos SERVIÇOS. INSPETOR - Corpo técnico de FURNAS ou qualquer organização autorizada por escrito por FURNAS para agir como seu representante, no que se refere à fiscalização dos SERVIÇOS. RECEBIMENTO PROVISÓRIO ­ Documento emitido por FURNAS, ratificando a execução dos SERVIÇOS. RECEBIMENTO DEFINITIVO - Documento emitido por FURNAS, após o decurso do prazo de observação ou vistoria, que comprove a adequação do objeto aos termos contratuais, confirmando a aceitação da totalidade dos SERVIÇOS. 4. ESCLARECIMENTOS SOBRE O EDITAL 4.1. Caso surjam dúvidas com relação ao conteúdo do EDITAL, o LICITANTE poderá consultar FURNAS, por escrito, exclusivamente por meio eletrônico, via internet, no seguinte endereço: dccpg@furnas.com.br 4.2. Na consulta deverão ser indicados o número desta Licitação e o seu objeto, devendo a mesma ser recebida por FURNAS até três dias úteis anteriores à data fixada para abertura da sessão pública. 4.3. Caso FURNAS venha emitir suplemento ao EDITAL e/ou esclarecimentos sobre o mesmo, estes serão disponibilizados no sítio http://www.licitacoes-e.com.br, em "Documentos da Licitação", deste Pregão. 4.4. É de responsabilidade do LICITANTE manter-se atualizado quanto a quaisquer alterações e/ou esclarecimentos sobre o EDITAL, através de consulta permanente ao sítio acima indicado, não cabendo a FURNAS a responsabilidade pela não observância desse procedimento. 4.5. A resposta de FURNAS, sem identificar a fonte que solicitou os esclarecimentos, será disponibilizada a todos no sítio indicado no subitem 4.3 acima. 4.6. Não deverão ser considerados pelos participantes na formulação de suas PROPOSTAS, quaisquer informações ou esclarecimentos obtidos de forma diversa da estabelecida acima. 5. CREDENCIAMENTO 5.1. Os LICITANTES ou seus representantes legais deverão estar previamente credenciados junto ao BANCO DO BRASIL (órgão provedor), antes da data de realização do Pregão. 5.2. Para acesso ao sistema eletrônico, os interessados em participar do Pregão deverão dispor de chave de identificação e senha pessoal (intransferíveis), obtidas junto às Agências do BANCO DO BRASIL S.A., sediadas no País. 5.3. As pessoas jurídicas ou firmas individuais deverão credenciar representantes, mediante a apresentação de procuração, original ou cópia autenticada, por instrumento público ou particular, com firma reconhecida, atribuindo aos mesmos poderes para formular lances de preços e praticar todos os demais atos e operações no sítio http://www.licitacoes-e.com.br.
+5/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+5.4. Em sendo sócio, proprietário ou dirigente (ou assemelhado) da empresa LICITANTE, deverá apresentar original ou cópia autenticada do respectivo Estatuto ou CONTRATO Social, no qual estejam expressos seus poderes para exercerem direitos e assumir obrigações em decorrência de tal investidura. 5.5. A chave de identificação e a senha poderão ser utilizadas em qualquer Pregão Eletrônico, salvo quando canceladas por solicitação do credenciado ou do BANCO DO BRASIL, devidamente justificada. 5.6. As informações e/ou alterações relativas ao credenciamento e a outros assuntos poderão ser obtidas através do Suporte Técnico do Banco do Brasil, nos seguintes telefones: 3003-0500 (capitais e regiões metropolitanas) e 0800 729 0500 (para as demais localidades), ou na cartilha para fornecedores, disponível na opção "introdução às regras do jogo" no sítio http://www.licitacoese.com.br. 6. DIREITOS E RESPONSABILIDADES DOS LICITANTES 6.1. Responder por todas as transações que forem efetuadas em seu nome no sistema, assumindo como firmes e verdadeiras todas as suas PROPOSTAS e lances. 6.2. Responder pela veracidade e exatidão de todas as descrições dos SERVIÇOS ofertados. Caso ocorra oferta de SERVIÇOS em desacordo com as especificações definidas no EDITAL, o LICITANTE assumirá todas as responsabilidades cíveis e criminais daí decorrentes, inclusive danos e prejuízos causados a FURNAS e a terceiros. 6.3. Observar e cumprir todas as leis e regulamentações, inclusive fiscais e tributárias, aplicáveis aos SERVIÇOS que ofereça. 6.4. Acompanhar as suas operações no sistema licitacoes-e, ficando responsável pela perda de negócios em decorrência de não cumprimento de prazos ou quaisquer outros avisos emitidos no referido sistema e não observados pela falta de acompanhamento, inclusive de sua desconexão do sistema. 6.5. É de exclusiva responsabilidade do LICITANTE o sigilo da senha, bem como seu uso em qualquer transação efetuada, diretamente ou por seu representante, não cabendo a FURNAS ou ao BANCO DO BRASIL a responsabilidade por quaisquer danos decorrentes do eventual uso indevido da senha, ainda que por terceiros. 6.6. O credenciamento do LICITANTE e de seu representante junto ao órgão provedor implica a responsabilidade legal pelos atos praticados e a presunção de capacidade técnica para realização das transações inerentes ao Pregão, na forma eletrônica. 6.7. Comunicar formal e imediatamente ao provedor do sistema (BANCO DO BRASIL) qualquer acontecimento que possa comprometer o sigilo ou a inviabilidade do uso da senha, para imediato bloqueio de acesso. 7. ACOLHIMENTO DAS PROPOSTAS ELETRÔNICAS DE PREÇOS NO SÍTIO DO BANCO DO BRASIL 7.1. O LICITANTE deverá observar as datas e horários limites previstos no EDITAL para o acolhimento e abertura da PROPOSTA, atentando também para a data e horário estabelecidos para início da disputa. 7.2. Todas as referências de tempo no EDITAL, no aviso e durante a sessão pública observarão, obrigatoriamente, o horário de Brasília ­ DF e, dessa forma, serão registrados no sistema eletrônico e na documentação relativa ao certame. 7.3. Os LICITANTES deverão disponibilizar a PROPOSTA, elaborada conforme Seção V, e, se for o caso, o respectivo anexo, a partir da data de início de acolhimento de PROPOSTA até a data e hora do limite de acolhimento da PROPOSTA, exclusivamente, por meio do sistema eletrônico, quando, então, encerrar-se-á, automaticamente, a fase de acolhimento de PROPOSTA.
+
+6/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+7.3.1. A declaração falsa relativa ao cumprimento dos requisitos de Habilitação e PROPOSTA, disposta no subitem 8.3 desta Seção I, sujeitará o LICITANTE às sanções previstas no item 9 da Seção II; 7.3.2. Até a data limite de acolhimento da PROPOSTA, os LICITANTES poderão retirar ou substituir a PROPOSTA anteriormente apresentada. 7.4. O LICITANTE deverá apresentar, obrigatoriamente, cotação para todos os itens de cada lote deste EDITAL. 7.4.1. O LICITANTE poderá participar de um ou mais lotes (quando aplicável). 7.5. O preenchimento da PROPOSTA, no sítio do BANCO DO BRASIL, é de exclusiva responsabilidade do LICITANTE, não cabendo a FURNAS ou ao BANCO DO BRASIL qualquer responsabilidade. O preenchimento incorreto da PROPOSTA, inclusive de preços, acarretará a sua desclassificação. 7.6. A apresentação da PROPOSTA implicará a plena aceitação, por parte do LICITANTE, das condições estabelecidas neste EDITAL. Observação: O Anexo da "Proposta Eletrônica" poderá ser elaborado nos formatos Zipfile (.zip), Rich Text (.rtf) ou Portable Document (.pdf), ou quaisquer outros, desde que permitidos e compatíveis com o sistema Licitacoes-e., e poderão ter o tamanho máximo de 500kB. O sistema aceita que sejam anexados diversos arquivos, desde que cada um não ultrapasse o tamanho de 500kB. 8. PARTICIPAÇÃO 8.1. A participação no Pregão, na forma eletrônica, dar-se-á por meio da digitação de sua chave de acesso e da senha pessoal e intransferível do representante credenciado e subseqüente encaminhamento da PROPOSTA ELETRÔNICA de preços, exclusivamente por meio do sistema eletrônico do BANCO DO BRASIL, observados datas e horários limites estabelecidos no EDITAL. 8.2. A informação dos dados para acesso poderá também ser obtida na página inicial do sítio http://www.furnas.com.br, opção "Fornecedores/Editais". 8.3. Para participação no Pregão Eletrônico, o LICITANTE deverá manifestar, em campo próprio do sítio http://www.licitacoes-e.com.br, que cumpre plenamente os requisitos de habilitação e que sua PROPOSTA está em conformidade com as exigências do instrumento convocatório. 8.4. O LICITANTE que desejar usufruir dos benefícios concedidos pela LC 123/06 deverá atender aos requisitos da referida Lei, e manifestar em campo próprio do sistema http://www.licitacoes-e.com.br que é microempresa (ME) ou empresa de pequeno porte (EPP). 8.5. Caso a microempresa (ME) ou empresa de pequeno porte (EPP) assinale, equivocadamente, no sistema eletrônico, a alternativa de que não cumpre os requisitos estabelecidos na Lei Complementar nº 123/06, será considerado pelo sistema, para todos os fins, que a mesma optou por não se beneficiar, nesta licitação, do regime diferenciado e favorecido previsto na mencionada Lei, não cabendo, posteriormente, qualquer reclamação e/ou recurso visando alterar essa situação.
+
+7/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+SEÇÃO II DISPOSIÇÕES GERAIS
+
+1. 2. 3. 4. 5.
+
+OBJETO CONTEÚDO DA PROPOSTA FORMAL ESCRITA VALIDADE DA PROPOSTA FORMAL ESCRITA CRITÉRIOS DE JULGAMENTO PARTICIPAÇÃO E PROCEDIMENTOS DA SESSÃO DO PREGÃO NA INTERNET
+
+6. ENVIO DA PROPOSTA FORMAL ESCRITA E DA DOCUMENTAÇÃO DE HABILITAÇÃO PARA ANÁLISE 7. 8. 9. RECURSOS ADJUDICAÇÃO DO CONTRATO SANÇÕES ADMINISTRATIVAS
+
+10. DISPOSIÇÕES FINAIS
+
+8/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 1. OBJETO 1.1. Esta Seção II contém as instruções a serem observadas pelo LICITANTE. 2. CONTEÚDO DA PROPOSTA FORMAL ESCRITA 2.1. A PROPOSTA deverá conter todos os dados solicitados na Seção V.
+
+PE.DAQ.G.0324.2009
+
+2.2. Para elaboração da PROPOSTA, o LICITANTE deverá considerar todas as condições descritas neste EDITAL, inclusive as dispostas na Seção V (CONDIÇÕES ESPECÍFICAS DA PROPOSTA). 2.3. No preenchimento da Planilha de Preços, o LICITANTE deverá contemplar a totalidade de custos para a prestação dos SERVIÇOS a serem contratados, tais como despesas financeiras, operacionais, administrativas, todos os tributos, lucros e quaisquer outros aqui não mencionados, porém necessários à prestação dos SERVIÇOS, de acordo com o especificado no Modelo de CONTRATO, constante da Seção IV deste EDITAL. 2.3.1. O LICITANTE deverá anexar à PROPOSTA FORMAL ESCRITA documento que comprove qualquer benefício/incentivo fiscal obtido com base na legislação vigente. 2.4. FURNAS poderá, a qualquer tempo, solicitar a composição detalhada dos preços apresentados na PROPOSTA. 2.5. A PROPOSTA FORMAL ESCRITA, obrigatoriamente preenchida em papel timbrado do LICITANTE, não deverá apresentar qualquer rasura ou emenda, exceto as necessárias à correção de erros cometidos pelo LICITANTE, caso em que deverão ser obrigatoriamente rubricadas pelo signatário da PROPOSTA. O descumprimento deste requisito implicará a rejeição da PROPOSTA. 2.5.1. Todas as folhas da PROPOSTA FORMAL ESCRITA e da Documentação de Habilitação, inclusive as folhas índice e de separação, deverão ser rubricadas e numeradas seqüencialmente, mesmo quando organizadas em dois ou mais volumes, sem falhas ou repetições. 2.6. Em caso de discrepância entre o conteúdo da Tabela de Preços e o de outras partes da PROPOSTA, prevalecerá o primeiro. 2.7. Em caso de discrepância entre os preços unitário e total, prevalecerão os primeiros. 3. VALIDADE DA PROPOSTA FORMAL ESCRITA 3.1. A PROPOSTA deverá ser válida pelo prazo de 60 (sessenta) dias corridos, contados a partir da data fixada para sua apresentação, conforme subitem 6.1 desta Seção II. 4. CRITÉRIOS DE JULGAMENTO 4.1. Para julgamento será adotado o critério de MENOR PREÇO GLOBAL POR LOTE, e os SERVIÇOS a serem contratados serão realizados sob o regime de empreitada, conforme descrito na Seção V. 4.2. No julgamento da Documentação de Habilitação e da PROPOSTA, enviadas a FURNAS, o Pregoeiro poderá sanar erros e/ou falhas que não alterem a sua substância e sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de habilitação e classificação. 4.3. Nas licitações será assegurado, como critério de desempate, preferência de contratação para as microempresas (ME) e empresas de pequeno porte (EPP). 4.3.1. Entende-se por empate aquelas situações em que as PROPOSTAS ELETRÔNICAS apresentadas pelas microempresas (ME) e empresas de pequeno porte (EPP) sejam iguais ou até 5% (cinco por cento) superiores ao melhor preço.
+
+9/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+4.4. Para efeito do disposto no subitem 4.3 acima, ocorrendo o empate, proceder-se-á da seguinte forma: I ­ a microempresa (ME) ou empresa de pequeno porte (EPP) mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado em seu favor o objeto licitado; II ­ no caso de equivalência dos valores apresentados pelas microempresas (ME) e empresas de pequeno porte (EPP) que se encontrem nos intervalos estabelecidos no subitem 4.3.1 desta Seção II, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta. 4.4.1. Na hipótese da não contratação nos termos previstos no subitem 4.4, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame. 4.4.2. O disposto no subitem 4.4 somente se aplicará quando a melhor oferta inicial não tiver sido apresentada por microempresa (ME) ou empresa de pequeno porte (EPP). 5. PARTICIPAÇÃO E PROCEDIMENTOS DA SESSÃO DO PREGÃO NA INTERNET 5.1. A partir do horário previsto no EDITAL, a sessão pública na Internet será aberta por comando do Pregoeiro com a utilização de sua chave de acesso e senha. 5.1.1. Os LICITANTES poderão participar da sessão pública na Internet, utilizando suas chaves de acesso e senhas. 5.1.2. O Pregoeiro verificará as PROPOSTAS apresentadas, desclassificando aquelas que não estejam em conformidade com os requisitos estabelecidos no EDITAL. 5.1.3. A desclassificação de PROPOSTA será sempre fundamentada e registrada no sistema, com acompanhamento em tempo real por todos os participantes. 5.1.4. As PROPOSTAS contendo a descrição do objeto, valor e eventuais anexos estarão disponíveis na Internet. 5.1.5. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os LICITANTES. 5.2. O sistema ordenará, automaticamente, as PROPOSTAS classificadas pelo Pregoeiro e somente estas participarão da fase de lances. 5.3. Classificadas as PROPOSTAS, o Pregoeiro dará início à fase competitiva, quando então os LICITANTES poderão encaminhar lances exclusivamente por meio do sistema eletrônico. 5.3.1. Aberta a etapa competitiva, os representantes dos LICITANTES deverão estar conectados ao sistema para participar da sessão de lances. 5.3.2. Os LICITANTES poderão oferecer lances sucessivos, observados o horário fixado para abertura da sessão e as regras estabelecidas no EDITAL. 5.3.3. No que se refere aos lances, o LICITANTE será imediatamente informado do seu recebimento e do valor consignado no registro. 5.3.4. O LICITANTE somente poderá oferecer lance inferior ao último por ele ofertado e registrado pelo sistema. 5.3.5. Não serão aceitos dois ou mais lances iguais, prevalecendo aquele que for recebido e registrado primeiro.
+
+10/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+5.3.6. Durante a sessão pública, os LICITANTES serão informados, em tempo real, do valor do menor lance registrado. O sistema não identificará o autor do lance aos demais participantes. 5.3.7. A etapa inicial de lances da sessão pública será encerrada por decisão do Pregoeiro, quando então o sistema eletrônico encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até trinta minutos, aleatoriamente determinado pelo sistema, findo o qual será automaticamente encerrada a recepção de lances. 5.3.7.1. O sistema informará o LICITANTE e o valor da PROPOSTA de menor preço imediatamente após o encerramento da etapa de lances; 5.3.7.2. Finda a etapa de lances e para fins de atender a Lei Complementar nº 123/06, o procedimento de empate será detectado automaticamente na sala de disputa. O sistema identificará a existência da situação de empate informando o nome da microempresa (ME) ou empresa de pequeno porte (EPP). 5.3.7.2.1. A microempresa (ME) ou empresa de pequeno porte (EPP), melhor classificada e que apresentou proposta de valor igual ou até 5% (cinco por cento) superior ao melhor preço do lote, será convocada, pelo Pregoeiro, para apresentar novo lance de valor inferior ao da empresa arrematante. 5.3.7.2.2 O novo lance deverá ser inferior ao menor lance registrado para o lote e apresentado, ainda na sala de disputa, no prazo máximo de até 5 (cinco) minutos, sob pena de preclusão. Durante o período, apenas a microempresa (ME) ou empresa de pequeno porte (EPP) convocada poderá registrar o novo lance. Obs.: É de responsabilidade do LICITANTE a sua conexão com o sistema eletrônico durante todo o procedimento, inclusive durante o prazo acima referido para o exercício do direito previsto neste subitem. 5.3.7.2.3. Não havendo manifestação da microempresa (ME) ou empresa de pequeno porte (EPP) melhor classificada, o sistema verificará se há outra em situação de empate, realizando o chamado de forma automática. Não havendo mais nenhuma empresa em situação de empate, o sistema emitirá mensagem, devendo o Pregoeiro dar encerramento à disputa do lote. 5.3.8. Encerrada a etapa de lances, o Pregoeiro examinará a PROPOSTA classificada em primeiro lugar e verificará a habilitação do LICITANTE conforme disposições do EDITAL. 5.3.9. Não ocorrendo a contratação da microempresa (ME) ou empresa de pequeno porte (EPP), melhor classificada na forma do inciso I do subitem 4.4, serão analisadas, sucessivamente, as propostas remanescentes que atenderem ao subitem 5.3.7.2.1, obedecida a ordem classificatória do encerramento da etapa de lances, sendo, porém, a convocação e o novo lance efetuados pelo "Chat Mensagens" do sistema licitacoes-e. 5.3.9.1. Esgotado o procedimento do subitem anterior, o processo licitatório continuará com a empresa originalmente vencedora, e não ocorrendo a sua contratação, serão analisadas, sucessivamente, as demais PROPOSTAS remanescentes, obedecida a ordem classificatória do encerramento da etapa de lances, assim como sua habilitação. 5.3.10. O Pregoeiro poderá encaminhar, pelo sistema licitacoes-e, contraproposta ao LICITANTE que tenha apresentado lance mais vantajoso, para que seja obtida a melhor PROPOSTA, observado o critério de julgamento, não se admitindo negociar condições diferentes daquelas previstas no EDITAL, e assim decidir a aceitação da mesma. 5.3.11. A negociação será realizada por meio do sistema licitacoes-e, podendo ser acompanhada pelos demais LICITANTES. 5.4. No caso de desconexão do Pregoeiro, no decorrer da etapa de lances, se o sistema eletrônico permanecer acessível aos LICITANTES, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados.
+
+11/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+5.5. Quando a desconexão do Pregoeiro persistir por tempo superior a dez minutos, a sessão do Pregão na forma eletrônica será suspensa e reiniciada somente após comunicação aos participantes, que será feita no endereço eletrônico http://www.licitacoes-e.com.br. 6. ENVIO DA PROPOSTA FORMAL ESCRITA E DA DOCUMENTAÇÃO DE HABILITAÇÃO PARA ANÁLISE 6.1. Tanto a Documentação de Habilitação original ou cópia autenticada, bem como a PROPOSTA original, deverão ser apresentadas, pela empresa classificada em 1º lugar, identificadas na forma abaixo, em até três dias úteis, contados após a solicitação do Pregoeiro no sítio do BANCO DO BRASIL:
+Pregão PE.DAQ.G.0324.2009 Documentação de Habilitação e PROPOSTA LICITANTE:
+
+6.1.1. Seguem, abaixo, os dados para o envio das mesmas: Endereço: FURNAS Centrais Elétricas S.A. Departamento de Aquisição Rua Real Grandeza, 219 ­ Bloco C ­ sala 703 ­ Botafogo CEP 22.281-900 ­ Rio de Janeiro ­ RJ 6.1.2. O não recebimento da Documentação de Habilitação e da PROPOSTA, no prazo e no endereço acima mencionados, acarretará a desclassificação do LICITANTE. 6.2. Se a PROPOSTA não for aceitável ou se o LICITANTE não atender às exigências habilitatórias, o Pregoeiro examinará a PROPOSTA subseqüente e assim sucessivamente, na ordem de classificação, até a apuração de uma PROPOSTA que atenda ao EDITAL. 6.3. Na situação a que se refere o subitem anterior, o Pregoeiro poderá negociar com o LICITANTE para que seja obtido um melhor preço. 6.4. Sendo aceitável a oferta será verificado o atendimento das condições habilitatórias pelo LICITANTE que a tiver formulado. 6.5. Constatado o atendimento às exigências fixadas no EDITAL, será declarado o LICITANTE vencedor. 6.6. A indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativas à sessão pública constarão de ata circunstanciada divulgada no sistema eletrônico, sem prejuízo das demais formas de publicidade previstas na legislação pertinente. 6.7. Não se considerará qualquer oferta de vantagem não prevista no EDITAL. 6.8. Na avaliação das PROPOSTAS não serão considerados itens recomendados pelos LICITANTES. 7. RECURSOS 7.1. Qualquer LICITANTE poderá, em até 24 horas a contar da declaração do vencedor, de forma motivada, manifestar sua intenção de recorrer, exclusivamente em campo próprio do sistema do BANCO DO BRASIL (http://www.licitacoes-e.com.br), quando lhe será concedido o prazo de 3 (três) dias úteis para apresentar as razões de recurso, ficando os demais LICITANTES, desde logo, intimados para, querendo, apresentarem contra-razões em igual prazo, que começará a contar do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos elementos indispensáveis à defesa dos seus interesses. 7.2. A falta de manifestação motivada do LICITANTE quanto à intenção de recorrer, nos termos acima, importará a decadência desse direito, ficando o Pregoeiro autorizado a adjudicar o objeto ao LICITANTE declarado vencedor.
+12/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+7.3. O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 7.4. Os autos do processo permanecerão com vista franqueada aos interessados, no Departamento de Aquisição, situado na Rua Real Grandeza, 219, sala 703, Bloco "C", Botafogo ­ Rio de Janeiro ­ RJ. 8. ADJUDICAÇÃO DO CONTRATO 8.1. Após a homologação do Pregão, o adjudicatário será convocado, por escrito, para assinar o CONTRATO. O adjudicatário terá o prazo de até dez dias para enviar a FURNAS o CONTRATO assinado. 8.2. FURNAS somente assinará o CONTRATO com o LICITANTE vencedor se este estiver com as provas de regularidade, relativas à Seguridade Social (CND) e ao Fundo de Garantia do Tempo de Serviço ­ FGTS (CRF), atualizadas à época da assinatura do CONTRATO. 8.3. O CONTRATO a ser firmado seguirá o modelo contido na Seção IV. 8.4. Quando o vencedor da Licitação não fizer a comprovação referida no subitem 8.2 ou recusar-se a assinar o CONTRATO, FURNAS poderá convocar outro LICITANTE, desde que respeitada a ordem de classificação, para, depois de comprovados os requisitos habilitatórios e feita a negociação, assinar o CONTRATO, sem prejuízo das Sanções Administrativas previstas no item 9 desta Seção II. 9. SANÇÕES ADMINISTRATIVAS 9.1. Aquele que, convocado dentro do prazo de validade de sua PROPOSTA, não assinar o CONTRATO, deixar de entregar documentação exigida no EDITAL, apresentar documentação falsa, ensejar o retardamento da execução de seu objeto, não mantiver a PROPOSTA, falhar ou fraudar na execução do CONTRATO, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, garantido o direito à ampla defesa, ficará impedido de licitar e de contratar com FURNAS e poderá ser descredenciado do cadastro desta, pelo prazo de até cinco anos, sem prejuízo das multas previstas em EDITAL e no CONTRATO e das demais cominações legais. 10. DISPOSIÇÕES FINAIS 10.1. O presente EDITAL e seus anexos, bem como a PROPOSTA do LICITANTE adjudicatário, farão parte integrante do CONTRATO, independentemente de transcrição. 10.2. É facultada ao Pregoeiro ou à autoridade competente, em qualquer fase da Licitação, a promoção de diligência destinada a esclarecer ou complementar a instrução do processo. 10.3. Fica assegurado a FURNAS o direito de, no interesse da Administração, anular ou revogar, a qualquer tempo, no todo ou em parte, a presente Licitação, dando ciência aos participantes, na forma da legislação vigente. 10.4. Os LICITANTES não terão direito a indenização em decorrência da anulação do procedimento licitatório, ressalvado o direito do contratado de boa-fé de ser ressarcido pelos encargos que tiver suportado no cumprimento do CONTRATO. 10.5. FURNAS publicará o extrato do CONTRATO no Diário Oficial da União ­ DOU, até 20 (vinte) dias da data de sua assinatura. 10.6. Os LICITANTES são responsáveis pela fidelidade e legitimidade das informações e dos documentos apresentados em qualquer fase da Licitação. 10.7. Após a apresentação da PROPOSTA não caberá desistência, salvo se por motivo justo decorrente de fato superveniente e aceito pelo Pregoeiro. 10.8. A falta de atendimento às exigências formais, porém não essenciais, contempladas no EDITAL, não importará o afastamento do LICITANTE, desde que seja possível a aferição da sua qualificação e a exata compreensão da sua PROPOSTA, durante a realização da sessão pública de Pregão.
+13/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+10.9. As normas que disciplinam este Pregão serão sempre interpretadas em favor da ampliação da disputa entre os interessados, desde que não comprometam o interesse da Administração, os princípios norteadores da Licitação, a finalidade e a segurança da contratação. 10.10. A homologação do resultado desta Licitação não implicará o direito à contratação. 10.11. Os casos omissos serão decididos pelo Pregoeiro, em consonância com a legislação reportada no subitem 1.1 da Seção I deste EDITAL.
+
+14/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+SEÇÃO III
+
+HABILITAÇÃO
+
+1. 2. 3. 4. 5.
+
+OBJETO PREPARO DA DOCUMENTAÇÃO DE HABILITAÇÃO DOCUMENTAÇÃO A SER APRESENTADA MICROEMPRESAS (ME) E EMPRESAS DE PEQUENO PORTE (EPP) INFORMAÇÃO SOBRE FATO SUPERVENIENTE
+
+ANEXO DA SEÇÃO III - DECLARAÇÃO (MODELO)
+
+15/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 1. OBJETO
+
+PE.DAQ.G.0324.2009
+
+1.1. Esta Seção III contém as instruções a serem observadas pelo LICITANTE no preparo e apresentação da Documentação de Habilitação. 1.2. Toda a documentação apresentada pelo LICITANTE, para fins de habilitação, deverá pertencer à empresa que efetivamente irá prestar os SERVIÇOS, ou seja, o número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) deverá ser o mesmo em todos os documentos, exceto aqueles que, obrigatoriamente, pela própria natureza, comprovadamente, forem emitidos somente em nome da matriz. 2. PREPARO DA DOCUMENTAÇÃO DE HABILITAÇÃO 2.1. Os documentos necessários à habilitação, listados abaixo, deverão ser apresentados da seguinte forma: original ou por qualquer processo de cópia autenticada por cartório ou por empregado credenciado de FURNAS, ou publicação em órgão da imprensa oficial. No caso específico das certidões emitidas através da Internet, a autenticação será feita por FURNAS mediante confirmação de sua veracidade no sítio do órgão emissor. 3. DOCUMENTAÇÃO A SER APRESENTADA 3.1. Documentação relativa à Habilitação Jurídica: a) registro comercial, no caso de empresa individual; b) ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, em se tratando de sociedades empresárias, e, no caso de sociedades por ações, acompanhado de documentos de eleição de seus administradores; c) inscrição do ato constitutivo, em caso de sociedades simples, acompanhada de prova da diretoria ou equivalente em exercício; d) decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no país, e ato de registro ou autorização para funcionamento, expedido pelo órgão competente, quando a atividade assim o exigir. 3.2. Documentação relativa à Regularidade Fiscal: a) prova de inscrição no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (CNPJ/MF); b) provas de regularidade com a Seguridade Social (CND) e o Fundo de Garantia do Tempo de Serviço - FGTS (CRF), demonstrando situação regular no cumprimento dos encargos sociais instituídos por lei; c) prova de regularidade para com as Fazendas Federal, Estadual e Municipal, quando for o caso, do domicílio ou sede do LICITANTE; d) prova de inscrição no Cadastro de Contribuintes Municipal e Estadual, se houver, relativo ao domicílio ou sede do LICITANTE, pertinente ao seu ramo de atividade e compatível com o objeto do Certame. 3.3. Documentação relativa à Qualificação Técnica: a) Atestado(s) de Capacidade Técnica, emitido(s) por pessoa(s) jurídica(s) de direito público ou privado, que comprove(m) a execução de serviços de desenvolvimento de sistemas, na plataforma Dot Net ­ web, com as seguintes características abaixo: · · · Ter utilizado na execução do referido serviço a linguagem VB Net; Ter utilizado na execução do referido serviço o Processo de Desenvolvimento Unificado (RUP); Ter utilizado na execução do referido serviço, a Técnica de Análise de Pontos de Função (APF) e que o respectivo serviço tenha envolvido sistemas que alcançaram pelo menos 1240 (um mil duzentos e quarenta) pontos de função Ter utilizado na execução do referido serviço frameworks orientados a objeto para fins de estruturar a arquitetura do software em camadas.
+
+·
+
+16/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+3.4. Documento relativo ao disposto no Inciso XXXIII do Art. 7º da Constituição Federal: a) Declaração relativa ao cumprimento do disposto no inciso XXXIII do Art. 7º da Constituição Federal, conforme modelo, anexo. Juntamente com a declaração, deverá ser enviada cópia de toda a documentação necessária, devidamente autenticada, que permita: a.1) a verificação de ser(em) o(s) signatário(s) representante(s) legal(is) do LICITANTE (Contrato, Estatuto, Procuração ou outro documento equivalente); a.2) a conferência da(s) respectiva(s) assinatura(s) caso não reconheça(m) a firma (cópia da identidade ou outro documento equivalente). 3.5. Documentação relativa à Qualificação Econômico-financeira: a) Certidão Negativa de Falência, Recuperações Judiciais e Extrajudiciais, expedida pelo cartório distribuidor da sede da pessoa jurídica. b) Balanço patrimonial e demonstração de resultado do último exercício social, exigíveis e apresentados na forma da Lei, que comprovem que a empresa possui Patrimônio Liquido positivo, vedada a sua substituição por balancetes ou balanços provisórios. c) A comprovação da boa situação financeira da Proponente será aferida com base nos valores obtidos pela aplicação das fórmulas a seguir, resultando nos quocientes de Liquidez geral (LG), Liquidez Corrente (LC), Grau de Endividamento (GE), Solvência Geral (SG) e de Garantia de Capital de Terceiros (GCT): LG = Ativo Circulante + Realizável a Longo Prazo > 0,5 Passivo circulante + Exigível a Longo Prazo LC = _Ativo Circulante > 0,5 Passivo circulante GE = _Exigibilidades Ativo Total SG = _Ativo Total Exigibilidades < 1
+
+> 1
+
+GCT = Patrimônio Líquido > 0,5 Exigibilidades 3.6. Todas as certidões deverão estar válidas na data limite de entrega da PROPOSTA FORMAL ESCRITA. 3.6.1. Caso as citadas certidões não possuam validade específica, observada a legislação em vigor, somente serão aceitas se emitidas, no máximo, 60 (sessenta) dias antes da data da entrega da PROPOSTA FORMAL ESCRITA. 3.7. Caso o LICITANTE esteja com cadastro atualizado em FURNAS na data de entrega da PROPOSTA FORMAL ESCRITA serão considerados os documentos existentes no Cadastro, referentes aos subitens 3.1, 3.2 e 3.5, desta Seção, desde que estejam com validade. 3.7.1. A validade dos documentos do LICITANTE no Cadastro deverá ser verificada no sítio de FURNAS (www.furnas.com.br ­ fornecedores - cadastramento de fornecedores ­ consultas sobre processo de cadastramento).
+
+17/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 4. MICROEMPRESAS (ME) E EMPRESAS DE PEQUENO PORTE (EPP)
+
+PE.DAQ.G.0324.2009
+
+4.1. As microempresas (ME) e empresas de pequeno porte (EPP) deverão apresentar toda a documentação exigida para as demais empresas, mesmo que a regularidade fiscal apresente alguma restrição. 4.1.1. A falsidade de declaração prestada no sítio http://www.licitacoes-e.com.br objetivando os benefícios da LC nº123/06, caracterizará o crime de que trata o art. 299 do Código Penal, sem prejuízo do enquadramento em outras figuras penais e das sanções previstas neste Edital. 4.2. Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de 4 (quatro) dias úteis, cujo termo inicial corresponderá ao momento em que o LICITANTE for declarado o vencedor do certame, para a regularização da documentação, pagamento ou parcelamento do débito e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. 4.3. A não regularização da documentação, no prazo previsto no subitem 4.2 acima, implicará a decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei no 8.666, de 21 de junho de 1993, sendo facultado à FURNAS convocar os LICITANTES remanescentes, na ordem de classificação. 5. INFORMAÇÃO SOBRE FATO SUPERVENIENTE 5.1. O LICITANTE fica obrigado, sob as penalidades legais, a informar a FURNAS qualquer circunstância ou fato ocorrido após a apresentação da Documentação de Habilitação que importe em alteração de suas condições de Habilitação.
+
+18/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+DECLARAÇÃO
+
+_______________________________ (LICITANTE), inscrito no CNPJ nº ________________________, por intermédio de seu(s) representante(s) da(s) legal(is) o(s) nº(s) Sr. (s)_________________________________________________, e do(s) CPF(s) nº(s) portador(es) identidade(s) ____________________________
+
+___________________, DECLARA(M), para fins do disposto no inciso V do art. 27 da Lei nº 8.666, de 21 de junho de 1993, acrescido pela Lei nº 9.854, de 27 de outubro de 1999, que não emprega(m) menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega(m) menor de dezesseis anos. Ressalva: emprega(m) menor, a partir de quatorze anos, na condição de aprendiz ( ).
+
+_____________,____ de _____________ de 2009.
+
+__________________________________________ (representante(s) legal(is) - (firma reconhecida)
+
+(observação: em caso afirmativo, assinalar a ressalva acima)
+
+19/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+SEÇÃO IV
+
+CONTRATO E GARANTIA - MODELOS
+
+1. 2.
+
+MODELO DE CONTRATO MODELO DE GARANTIA - FIANÇA BANCÁRIA
+
+20/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+1. MODELO DE CONTRATO
+
+FURNAS CENTRAIS ELÉTRICAS S.A. CONTRATADA: OBJETO: Contratação de serviços técnicos de desenvolvimento do sistema SSB na plataforma Dot Net - web, em VB Net, utilizando-se a Técnica de Análise de Pontos de Função (APF), conforme padronização do IFPUG, e Processo de Desenvolvimento Unificado (RUP).
+
+PE.DAQ.G.0324.2009 Valor Estimado do Contrato: R$ Recursos Financeiros: próprios
+
+21/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+ÍNDICE
+
+CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA CLÁUSULA -
+
+OBJETO DOCUMENTOS COMPLEMENTARES EXCLUSIVIDADE GARANTIA DE CUMPRIMENTO DO CONTRATO GARANTIA DOS SERVIÇOS DESCRIÇÃO DOS SERVIÇOS OBRIGAÇÕES DA CONTRATADA OBRIGAÇÕES DE FURNAS PREÇOS CONDIÇÕES DE FATURAMENTO E PAGAMENTO CONTROVÉRSIA SOBRE SERVIÇOS SUBCONTRATAÇÃO, CESSÃO, TRANSFERÊNCIA E DAÇÃO EM GARANTIA INADIMPLEMENTO DA CONTRATADA MULTAS POR INADIMPLEMENTO RESCISÃO CONSEQUÊNCIAS DA RESCISÃO DEDUÇÕES PRAZO TRIBUTOS NOVAÇÃO VALOR DO CONTRATO CONTRIBUIÇÕES PARA O INSS E FGTS RECEBIMENTO DOS SERVIÇOS PREVISÃO ORÇAMENTÁRIA ENGENHARIA DE SEGURANÇA INDUSTRIAL RESPONSABILIDADE POR DANOS OU PREJUÍZOS FORO
+
+22/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO CONTRATO que, entre si, fazem, de um lado, FURNAS CENTRAIS ELÉTRICAS S.A. e, de outro,............... tendo por objeto a contratação de empresa especializada na prestação de serviços de técnicos de desenvolvimento do sistema SSB na plataforma Dot Net - web, em VB Net, utilizando-se a Técnica de Análise de Pontos de Função (APF), conforme padronização do IFPUG, e Processo de Desenvolvimento Unificado (RUP).
+
+PE.DAQ.G.0324.2009
+
+FURNAS CENTRAIS ELÉTRICAS S.A., empresa concessionária de serviço público de energia elétrica, com sede e Escritório Central na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Rua Real Grandeza, n 219, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda sob o n 23.274.194/0001-19, neste ato denominada FURNAS, e, de outro lado, ................................................................... com sede na Rua ..................................................................., na Cidade ............................................................................., Estado.................., inscrita no mesmo Cadastro sob o n ....................................................., doravante simplesmente designada CONTRATADA, representadas as partes por seus Diretores e/ou Procuradores "in fine" assinados, têm, entre si, ajustado o presente CONTRATO, cuja celebração foi autorizada pelo documento n ......................................................, que se regerá de conformidade com a Lei nº 10.520, de 17.07.2002, Decreto 5.450 de 31.05.2005 e, subsidiariamente, pela Lei 8.666/93 de 21.06.93, com as alterações posteriores, sendo estes documentos em suas últimas versões, e pelas cláusulas e condições seguintes: CLÁUSULA - OBJETO Contratação de empresa especializada na prestação de serviços técnicos de desenvolvimento do sistema SSB na plataforma Dot Net - web, em VB Net, utilizando-se a Técnica de Análise de Pontos de Função (APF), conforme padronização do IFPUG, e Processo de Desenvolvimento Unificado (RUP). CLÁUSULA - DOCUMENTOS COMPLEMENTARES Para melhor caracterização do objeto do CONTRATO e das obrigações das partes, consideram-se peças dele integrantes e complementares, independentemente de anexação, em tudo aquilo que com ele não conflitarem, os seguintes documentos: a) EDITAL de licitação PE.DAQ.G.0324.2009 e eventuais suplementos; b) Toda a correspondência trocada entre FURNAS e a CONTRATADA; c) Proposta da CONTRATADA no............................., datada de .................../.................../.................... §1o - Ocorrendo divergências entre o estipulado nos documentos mencionados nesta cláusula e o CONTRATO, prevalecerão as disposições do CONTRATO, seguindo-se as dos restantes documentos, na mesma ordem em que se encontram acima mencionados. §2o - Não terão eficácia quaisquer exceções aos documentos emanados de FURNAS, formuladas pela CONTRATADA, em relação às quais FURNAS não haja, por escrito, se declarado de acordo. CLÁUSULA - EXCLUSIVIDADE A presente contratação não importa em conceder exclusividade à CONTRATADA com relação ao seu objeto, pelo que, concomitantemente, FURNAS poderá manter ajustes idênticos com outras empresas.
+o o o o
+
+23/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO CLÁUSULA - GARANTIA DE CUMPRIMENTO DO CONTRATO
+
+PE.DAQ.G.0324.2009
+
+Para garantir o fiel e perfeito cumprimento de todas as obrigações assumidas neste Instrumento Contratual, a CONTRATADA, dentro de 15 (quinze) dias de sua assinatura, fará entrega à FURNAS de uma das garantias abaixo discriminadas, correspondente a 5 % (cinco por cento) do valor do Instrumento Contratual (CLÁUSULA ­ VALOR DO CONTRATO): a) Caução em dinheiro, a ser depositada na Tesouraria do Escritório Central de FURNAS; b) Fiança Bancária, emitida por instituição bancária aceita por FURNAS, consoante modelo por esta última estipulado; c) Seguro Garantia, feito junto a empresas de seguros e/ou resseguros autorizada a operar no mercado brasileiro pela Superintendência de Seguros Privados - SUSEP, aceita por FURNAS, de acordo com modelo de apólice estabelecido na circular SUSEP 232, de 03.06.03 com cobertura adicional para atendimento aos artigos 6° e 80, inciso III, da Lei 8.666/93 e artigo 2° da Lei 8.987/95. c1) juntamente com a referida apólice, deverá ser apresentado documento comprobatório do ressegurador que declare a contratação do resseguro para a apólice entregue, assim como certidão de regularidade fiscal junto à SUSEP; c2) neste caso, FURNAS verificará mensalmente, a condição de regularidade, durante o prazo de vigência contratual. §1º - A Garantia terá validade até a emissão, por FURNAS, do Termo de Recebimento Definitivo deste CONTRATO, previsto na CLÁUSULA - RECEBIMENTO DOS SERVIÇOS. §2º - Nenhum pagamento será feito à CONTRATADA até que seja aceita, por FURNAS, a Garantia de que trata o "caput" desta Cláusula. §3º - A Garantia referida nesta Cláusula terá seu valor atualizado sempre que ocorrer qualquer alteração nos preços contratados, de tal modo que seja mantido o percentual de 5% (cinco por cento) sobre o valor deste CONTRATO, devendo a CONTRATADA providenciar, às suas custas, a respectiva atualização da Garantia, sob pena de bloqueio dos pagamentos devidos. §4o - Caso ocorra o vencimento da Garantia antes do encerramento das obrigações contratuais, a CONTRATADA deverá providenciar, as suas custas, a respectiva renovação, sob pena de bloqueio dos pagamentos devidos. §5o - FURNAS poderá deduzir da Garantia multas e penalidades previstas neste CONTRATO, bem como o valor dos prejuízos que lhe forem causados. §6o - No caso de execução da Garantia, em decorrência do disposto no parágrafo anterior, a CONTRATADA se obriga a complementá-la às suas expensas, no prazo máximo de 10 (dez) dias, que se contará do aviso escrito de FURNAS, sob pena de bloqueio dos pagamentos. §7o - A Garantia será devolvida à CONTRATADA, após a emissão do Termo de Recebimento Definitivo a que se refere o §1o desta cláusula, em até 30 (trinta) dias após sua solicitação pela CONTRATADA. §8o ­ Na hipótese de prorrogação ou extensão do prazo contratual, será exigida, no prazo de 30 (trinta) dias, sob pena de suspensão de todos os pagamentos devidos à CONTRATADA, nova garantia, cujos valores e prazos serão previamente fixados, por FURNAS, nos termos desta cláusula.
+
+24/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO CLÁUSULA - GARANTIA DOS SERVIÇOS
+
+PE.DAQ.G.0324.2009
+
+Os serviços serão garantidos por 6 (seis) meses após a emissão do termo de recebimento definitivo. CLÁUSULA - DESCRIÇÃO DOS SERVIÇOS Serviços técnicos especializados de desenvolvimento do sistema SSB na plataforma Dot Net - web, em VB Net, utilizando-se a Técnica de Análise de Pontos de Função (APF), conforme padronização do IFPUG, e Processo de Desenvolvimento Unificado (RUP), conforme descrito no Anexo III ­ Projeto Básico da Seção V do EDITAL. CLÁUSULA - OBRIGAÇÕES DA CONTRATADA a) Manter consistentes e atualizados todos os artefatos produzidos e/ou alterados durante a execução dos serviços contratados. b) Garantir que todas as entregas efetuadas estejam compatíveis e totalmente em conformidade aos produtos utilizados por FURNAS, conforme Item 6.3, do Anexo III, da Seção V, do Edital, cabendo a FURNAS tomar ciência e autorizar o uso de ferramentas cuja versão seja diferente daquelas previstas e em uso em FURNAS. c) FURNAS terá ampla liberdade de atualizar as versões dos sistemas operacionais, linguagens de desenvolvimento de sistemas, ferramentas de apoio ao desenvolvimento de sistemas, todos de sua propriedade ou de seu direito de uso, segundo sua necessidade e conveniência administrativa, cabendo, nestes casos, à CONTRATADA manter a compatibilidade, evoluindo e adaptando-se à respectiva mudança. Tal prerrogativa deve-se à necessidade em manter atualizado e operacional o parque computacional de FURNAS, dispondo de ferramentas e produtos modernos e atualizados que correspondam as exigências cada vez maiores de inovação em sua área de atuação. d) Obedecer todas as normas, padrões, processos e procedimentos de FURNAS incluindo o Processo de Desenvolvimento de Sistemas de FURNAS. e) a CONTRATADA deverá enviar a FURNAS, quando aplicável, juntamente com a Nota Fiscal ou fatura de prestação dos serviços, um demonstrativo com a composição da base de cálculo da retenção adicional, identificando os trabalhadores com nome, matrícula, remuneração total, tipo de aposentadoria especial (15, 20 ou 25 anos) e valor da retenção adicional, em cumprimento ao definido no § 4º, inciso I da CLÁUSULA - CONTRIBUIÇÕES PARA O FGTS E O INSS ; f) a CONTRATADA deverá enviar a FURNAS, caso as atividades exercidas pelos trabalhadores não permitam a concessão de aposentadoria especial nos termos da legislação vigente, juntamente com sua Nota Fiscal ou fatura, declaração neste sentido e sob as penas da lei, o que será condição para liberação dos pagamentos.
+
+g) preparar e fornecer aos seus empregados o formulário PPP, quando exigível, na forma da Lei; h) apresentar, em 15(quinze) dias contados a partir do recebimento de FURNAS dos subsídios necessários, e manter no local da prestação dos SERVIÇOS os laudos técnicos e documentos exigidos na legislação previdenciária vigente (LTCAT, PCMSO, PGR, PPRA e PCMAT) quando pertinente aos SERVIÇOS executados devidamente atualizados; i) apresentar a FURNAS anualmente, ou a qualquer tempo, quando lhe forem solicitados, os referidos laudos técnicos e documentos.
+
+A CONTRATADA se obriga a manter, durante toda a execução do CONTRATO, em §1 compatibilidade com as obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas na Licitação.
+
+o
+
+25/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO CLÁUSULA - OBRIGAÇÕES DE FURNAS Constituem-se obrigações de FURNAS, além de outras previstas neste CONTRATO:
+
+PE.DAQ.G.0324.2009
+
+a) notificar a CONTRATADA de todas as falhas, erros, imperfeições ou irregularidades que encontrar na prestação dos serviços, dando-lhe, inclusive, prazo para sua correção; b) fornecer à CONTRATADA os subsídios necessários para a elaboração dos laudos técnicos e documentos previstos na legislação previdenciária em vigor; c) exigir da CONTRATADA os laudos técnicos e documentos previstos na legislação previdenciária em vigor (LTCAT, PCMSO, PGR, PPRA e PCMAT); d) exigir da CONTRATADA, quando aplicável, a declaração, sob as penas da lei, de que as atividades exercidas pelos segurados empregados no presente contrato não estão sujeitas à concessão de aposentadoria especial. CLÁUSULA - PREÇOS FURNAS pagará à CONTRATADA, pelos serviços objeto deste CONTRATO, os preços abaixo discriminados:
+
+ITEM 1
+
+DESCRIÇÃO Desenvolvi mento do sistema SSB
+
+PREÇO (R$)
+
+§1º - FURNAS não se obriga a efetuar pagamentos na totalidade estimada na CLÁUSULA ­ VALOR DO CONTRATO, pagando apenas o valor correspondente aos serviços comprovadamente executados e aceitos pela mesma. §2º - Os preços estabelecidos neste CONTRATO são fixos e irreajustáveis, salvo se, a cada período de 12 (doze) meses, contado da data de apresentação da proposta, as condições de qualidade e de preço, no mercado, quando aplicáveis, determinem a sua revisão para mais ou para menos, na forma da legislação vigente. CLÁUSULA - CONDIÇÕES DE FATURAMENTO E PAGAMENTO §1º - Aprovadas as faturas, FURNAS pagará à CONTRATADA em 30 (trinta) dias corridos, contados a partir da data da apresentação dos documento de cobrança. §2º - Para que FURNAS possa cumprir, dentro do prazo estabelecido, com a sua obrigação relativa ao pagamento dos documentos de cobrança emitidos por conta deste Instrumento Contratual, a CONTRATADA deverá observar as seguintes disposições: a) até o 5º (quinto) dia útil contado da data do evento contratual gerador do faturamento, a CONTRATADA emitirá e apresentará a FURNAS, em 2 (duas) vias, o documento de cobrança, no órgão abaixo indicado: FURNAS CENTRAIS ELÉTRICAS S.A. Divisão de Controle de Pagamentos - DCPG.F Rua Real Grandeza, 219 - bloco A, sala 202 CNPJ: 23.274.194/0001 -19 INSC. Estadual: 81.418.667 b) caso a CONTRATADA apresente as faturas após o quinto dia útil, a cada dia de atraso o prazo de pagamento mencionado no "caput" desta cláusula, será prorrogado na mesma proporção;
+
+26/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+c) os documentos de cobrança deverão indicar o número e o objeto deste Instrumento Contratual, não se admitindo, portanto, documentos que façam referência a diversos instrumentos contratuais; d) as solicitações de pagamentos decorrentes deste Instrumento Contratual serão pagas por FURNAS através de depósito na conta corrente da CONTRATADA. Para tanto, fica a mesma obrigada a informar o banco, a agência, a praça e a conta corrente para acatar tais créditos, sem o que FURNAS não efetuará os pagamentos; e) fica vedado o desconto ou o endosso de duplicatas extraídas com base neste Instrumento Contratual, não se responsabilizando FURNAS por seu pagamento, se verificado dito desconto ou endosso. Em qualquer hipótese, FURNAS não se responsabilizará por acréscimos, bancários ou não, no valor das duplicatas, sejam a título de juros, comissão, taxas de permanência e outros; f) desde já fica acertado que o comprovante de depósito bancário se constituirá em documento probatório de quitação das obrigações decorrentes deste Instrumento Contratual; g) o não cumprimento, pela CONTRATADA, do disposto nas alíneas desta cláusula, no que for aplicável, facultará a FURNAS devolver o documento de cobrança e contar novo prazo de vencimento, a partir da reapresentação; h) na hipótese de ocorrência de erro ou de haver dúvida no documento de cobrança que acompanha a solicitação de pagamento, FURNAS pagará apenas a parcela não controvertida no prazo contratual, ficando a parcela restante para ser paga após a solução final da controvérsia, no prazo de seis dias úteis, a contar da data em que as dúvidas forem solucionadas e a fatura for aprovada por FURNAS; i) a emissão, pela CONTRATADA, da nota fiscal/fatura específica de que trata esta cláusula, bem como a apresentação do demonstrativo e dos demais documentos previstos na Cláusula ­ Obrigações da Contratada constituem condição para liberação dos pagamentos devidos à CONTRATADA. A não observância, pela CONTRATADA, do disposto neste parágrafo ensejará, ainda, aplicação das demais penalidades. §3o - FURNAS não se responsabiliza por qualquer despesa bancária, nem por qualquer outro pagamento não previsto neste Instrumento Contratual. §4º. Nenhum pagamento será realizado sem que o FORNECEDOR demonstre que está em situação regular relativa à Seguridade Social (CND) e ao Fundo de Garantia por Tempo de Serviço (CRF). CLÁUSULA - CONTROVÉRSIA SOBRE SERVIÇOS Ocorrendo controvérsia em relação a quaisquer dos serviços objeto deste CONTRATO, a CONTRATADA prosseguirá na sua execução, obedecendo às determinações de FURNAS, até e após a decisão final. Parágrafo Único ­ FURNAS rejeitará, no todo ou em parte, o serviço que for executado em desacordo com o CONTRATO, até a decisão final da controvérsia. CLÁUSULA - SUBCONTRATAÇÃO, CESSÃO, TRANSFERÊNCIA E DAÇÃO EM GARANTIA Não será permitida a subcontratação parcial dos serviços, sem a prévia e expressa autorização de FURNAS. Nenhum vínculo contratual haverá entre FURNAS e eventuais subcontratadas, quando permitida a subcontratação. Ficam vedadas a subcontratação total, bem como a cessão, a transferência e a dação em garantia deste Instrumento Contratual a terceiros. CLÁUSULA - INADIMPLEMENTO DA CONTRATADA A CONTRATADA será considerada inadimplente na ocorrência de quaisquer dos fatos abaixo discriminados: a) inobservância ou cumprimento irregular de quaisquer disposições contidas neste CONTRATO;
+27/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+b) desatendimento das determinações regulares da autoridade designada para acompanhar e fiscalizar a execução dos SERVIÇOS, assim como de seus superiores; c) cometimento reiterado de faltas na sua execução, devidamente anotadas pela Fiscalização de FURNAS; d) paralisação dos SERVIÇOS, sem justa causa e prévia comunicação a FURNAS; e) lentidão do seu cumprimento, levando FURNAS a comprovar a impossibilidade de conclusão dos SERVIÇOS nos prazos estipulados; f) inobservância das especificações técnicas, projetos ou prazos; g) atraso nos prazos de início ou conclusão dos SERVIÇOS; h) emprego de pessoal inabilitado. CLÁUSULA - MULTAS POR INADIMPLEMENTO A CONTRATADA ficará sujeita a multas por inadimplemento, conforme prevêem os parágrafos desta cláusula. §1º - Na hipótese de paralisação injustificada dos SERVIÇOS, FURNAS aplicará, a partir do momento de sua ocorrência, uma multa diária correspondente a 0,5% (meio por cento) do valor do último faturamento mensal, até o limite de 10% (dez por cento) do valor do Instrumento Contratual. §2º- No caso de descumprimento de qualquer outra disposição contratual, será aplicada à CONTRATADA a multa de 5% (cinco por cento) sobre o valor deste CONTRATO. §3º - As multas previstas nos parágrafos anteriores serão aplicadas independentemente da multa rescisória prevista na CLÁUSULA - CONSEQUÊNCIAS DA RESCISÃO. §4º - Nas hipóteses acima, FURNAS poderá, a qualquer momento, rescindir de pleno direito o CONTRATO, sem prejuízo da aplicação da multa rescisória, independentemente das acima estipuladas, pagando os valores devidos até a data da rescisão. CLÁUSULA - RESCISÃO São motivos para a rescisão deste INSTRUMENTO CONTRATUAL: a) o inadimplemento da CONTRATADA; b) a subcontratação total do objeto deste Instrumento Contratual, a associação da CONTRATADA com outrem, a cessão ou transferência total ou parcial, bem como a dação em garantia; c) o deferimento de recuperação judicial, a decretação de falência ou a instauração de insolvência civil da CONTRATADA; d) a dissolução da sociedade da CONTRATADA; e) a alteração social ou modificação da finalidade ou da estrutura da empresa, que prejudique a execução deste INSTRUMENTO CONTRATUAL; f) cisão, fusão ou incorporação da CONTRATADA se, a critério de FURNAS, tais operações importarem em modificação da qualificação técnica, idoneidade profissional ou capacidade financeira da mesma; g) a ocorrência de caso fortuito ou força maior, regularmente comprovada, impeditiva da execução dos serviços; h) razões de interesse público de alta relevância e amplo conhecimento, justificadas e determinadas pela Diretoria de FURNAS e exaradas em processo administrativo a que se refere este INSTRUMENTO CONTRATUAL; i) a supressão de serviços em limite superior ao previsto na Lei no. 8666/93;
+28/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+j) a suspensão da execução dos serviços, por ordem escrita de FURNAS, por prazo superior a 120 (cento e vinte) dias, salvo em decorrência de calamidade pública, grave perturbação da ordem interna ou guerra, ou, ainda, por repetidas suspensões que totalizem o mesmo prazo; k) o atraso superior a 90 (noventa) dias dos pagamentos devidos por FURNAS, decorrentes de serviços ou parcelas destes já recebidos ou executados, salvo em caso de calamidade pública, grave perturbação da ordem interna ou guerra; l) a não liberação, por FURNAS, do local da execução dos serviços, no prazo contratual; m) o descumprimento do disposto no inciso V do art. 27 da Lei 8.888/93, sem prejuízo das sanções penais cabíveis. §1º Na hipótese de recuperação judicial da CONTRATADA ficará a critério de FURNAS manter ou não este INSTRUMENTO CONTRATUAL. §2º A rescisão do presente Instrumento Contratual obedecerá ao procedimento previsto no artigo 79, da Lei no. 8666/93. CLÁUSULA - CONSEQUÊNCIAS DA RESCISÃO A rescisão contratual acarretará as conseqüências descritas nesta cláusula. §1º - A rescisão contratual, com base nas hipóteses previstas nas alíneas "a" a "f" e "m" da CLÁUSULA RESCISÃO, sujeitará a CONTRATADA ao pagamento de multa correspondente a 5% do valor atualizado deste CONTRATO (cláusula 23), cobrável mediante execução, sem prejuízo da aplicação das penalidades previstas na CLÁUSULA - MULTAS POR INADIMPLEMENTO, até a data da rescisão. §2º - A rescisão do presente CONTRATO, com fundamento nos motivos constantes das alíneas "a" a "f" e "m" da CLÁUSULA - RESCISÃO, ensejará, ainda: I - a retenção dos créditos decorrentes do CONTRATO, até o limite dos prejuízos causados a FURNAS. II ­ a execução da Garantia Contratual, consoante disposto na CLÁUSULA ­ GARANTIA DE CUMPRIMENTO DO CONTRATO, para ressarcir FURNAS dos valores das multas e indenizações a ela devidas. §3º - Quando a rescisão ocorrer com base no disposto nas alíneas "g" a "l" da CLÁUSULA - RESCISÃO, sem culpa da CONTRATADA, terá ela direito: I ­ aos pagamentos devidos pela execução do CONTRATO até a data da rescisão. II ­ à devolução da Garantia de Cumprimento do Contrato. §4º - Se a rescisão se der com apoio no que prevêem as alíneas "h" a "l" da CLÁUSULA - RESCISÃO, sem culpa da CONTRATADA, ela terá ainda direito ao ressarcimento dos prejuízos regularmente comprovados. §5º - Na hipótese dos dois parágrafos anteriores, nenhuma outra indenização será devida por FURNAS à CONTRATADA, em virtude da rescisão, devendo esta retirar do local dos serviços todos os bens de sua propriedade. CLÁUSULA - DEDUÇÕES FURNAS poderá deduzir de quaisquer créditos da CONTRATADA, débitos, indenizações ou multas, por ela incorridos. Parágrafo Único - Tais débitos, indenizações ou multas são, desde já, considerados, pelas partes, dívidas líquidas e certas, e cobráveis mediante execução forçada, constituindo este CONTRATO título executivo extrajudicial (artigo 585, Inciso II do CPC).
+29/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO CLÁUSULA - PRAZO
+
+PE.DAQ.G.0324.2009
+
+O prazo deste CONTRATO é de 11 (onze) meses, contado a partir da data de sua assinatura, podendo ser prorrogado dentro do limite da Lei n0 8.666.93. CLÁUSULA - TRIBUTOS Todos os tributos Federais, Estaduais e Municipais, encargos e contribuições parafiscais, eventualmente devidos pela execução dos SERVIÇOS objeto deste CONTRATO, correm por conta exclusiva da CONTRATADA, que também se responsabiliza pelo perfeito e exato cumprimento de todas as obrigações e formalidades que a lei a ela atribua. §1º - Os tributos e contribuições, quando devidos na fonte, serão retidos na forma da lei, fazendo-se os pagamentos à CONTRATADA por seu valor líquido. §2º - Caso sejam criados, após a assinatura do CONTRATO, novos tributos, encargos ou contribuições parafiscais, ou modificada a base de cálculo e /ou alíquotas dos atuais, de forma a aumentar ou diminuir o ônus da CONTRATADA, com repercussão na economia contratual, será o preço revisado, de modo a cobrir as diferenças comprovadamente decorrentes destas alterações. §3º - A CONTRATADA, não obstante o acima disposto, obriga-se a, caso venha a ser autuada pela Fazenda Federal, Estadual ou Municipal, no que concerne ao objeto deste CONTRATO, defender-se com empenho e zelo perante as autoridades competentes. §4º - Face ao disposto no "caput" desta cláusula, FURNAS não se responsabiliza pelo ressarcimento de quaisquer multas, correção monetária, penalidades, juros e outras despesas resultantes da não observância de obrigações tributárias, trabalhistas e previdenciárias, pela CONTRATADA. §5º - A CONTRATADA deverá fornecer a FURNAS cópia autenticada das guias de recolhimento do Imposto Sobre Serviços de Qualquer Natureza (ISSQN), correspondente ao mês imediatamente anterior, juntamente com a fatura da prestação de serviços. CLÁUSULA - NOVAÇÃO A não utilização, por FURNAS, de quaisquer dos direitos a ela assegurados neste CONTRATO, ou na lei, em geral, ou a não aplicação de quaisquer sanções neles previstas, não importa em novação quanto a seus termos, não devendo, portanto, ser interpretada como renúncia ou desistência de aplicação ou de ações futuras. Todos os recursos postos à disposição de FURNAS, neste CONTRATO, serão considerados como cumulativos e não alternativos, inclusive em relação a dispositivos legais e regulamentares. CLÁUSULA - VALOR DO CONTRATO Para todos os efeitos, inclusive eventual imposição de penalidades, o valor deste CONTRATO é igual ao custo final dos serviços contratados, incluindo suas revisões e eventuais acréscimos. Na hipótese de ainda não ser conhecido o custo final como acima definido, adotar-se-á o valor estimado de R$ ............................................................................ (....................................................................................................................................). CLÁUSULA - CONTRIBUIÇÕES PARA O INSS E FGTS Obriga-se a CONTRATADA a manter-se inteiramente quite com as contribuições previdenciárias devidas ao INSS e com as contribuições para o Fundo de Garantia por Tempo de Serviço ­ FGTS. §1° - Para esse efeito a CONTRATADA, juntamente com qualquer faturamento dos serviços objeto deste CONTRATO apresentará a FURNAS os comprovantes de recolhimento dos valores devidos ao INSS e ao Fundo de Garantia por Tempo de Serviço ­ FGTS, acompanhados das respectivas folhas de pagamento, para fins de verificação de sua regularidade, sem prejuízo do direito que assistirá a FURNAS de, a seu único juízo, exigir que seja dita comprovação ministrada através de certidão competente.
+30/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+§2° - Verificada, em qualquer tempo, a existência de débitos provenientes do não recolhimento de contribuições ao INSS e ao FGTS, por parte da CONTRATADA, fica FURNAS autorizada a promover o respectivo resgate, cujo montante será deduzido de quaisquer faturamentos ou créditos da CONTRATADA oriundos deste CONTRATO. §3° - Nos casos que assim a legislação determinar, as contribuições devidas ao INSS serão retidas, em nome da CONTRATADA, por FURNAS, de conformidade com a norma pertinente à matéria. §4º - Caso as atividades exercidas no cumprimento deste CONTRATO exponham o trabalhador a agentes nocivos que lhe permitam a concessão de aposentadoria especial após 15 (quinze), 20 (vinte) ou 25 (vinte e cinco) anos, deverá ser efetuado um acréscimo de 4% (quatro por cento), 3% (três por cento) ou 2% (dois por cento), respectivamente, na retenção a que se refere à legislação previdenciária. I - o adicional a que se refere este parágrafo incidirá somente sobre o valor dos serviços prestados por estes segurados, se previsto neste instrumento a utilização de trabalhadores na execução de atividades que os exponham a agentes nocivos, e, sendo possível a identificação dos trabalhadores, do valor de cada serviço, das atividades a serem executadas e dos tipos de aposentadoria especial. II - caso seja previsto neste CONTRATO a utilização destes trabalhadores, sem que haja a discriminação do valor de cada um dos serviços contratados e havendo a possibilidade de identificação, entre o total de trabalhadores, dos envolvidos ou não com as atividades que os exponham a agentes nocivos, e sendo possível ainda discriminar as atividades a serem exercidas, o tipo de aposentadoria especial e a identificação dos trabalhadores, a base de cálculo sobre a qual incidirá o adicional a que se refere este parágrafo será proporcional ao número de prestadores envolvidos naquelas atividades. III - na hipótese de haver neste CONTRATO a previsão de utilização destes trabalhadores, sem que haja a possibilidade de identificação de seu número, o adicional de que trata este parágrafo será de 2% (dois por cento) e incidirá sobre a mesma base de cálculo utilizada para efetuar a retenção de 11% (onze por cento), perfazendo o total de 13% (treze por cento), valor este que será destacado pela CONTRATADA em sua nota fiscal/fatura. §5º - No caso previsto no inciso "I" do § 4º desta cláusula, deverá ser emitida Nota Fiscal específica pela CONTRATADA que espelhe o valor referente ao acréscimo de 4%, 3% ou 2%. CLÁUSULA - RECEBIMENTO DOS SERVIÇOS O recebimento dos serviços ora contratados se dará da seguinte forma: §1º - Até 15 (quinze) dias corridos após a comunicação da CONTRATADA de conclusão dos SERVIÇOS objeto deste CONTRATO, FURNAS emitirá termo circunstanciado de RECEBIMENTO PROVISÓRIO, que será assinado pelas partes. §2º - O RECEBIMENTO PROVISÓRIO não implica em aceitação definitiva dos serviços. §3º - Após o decurso do prazo de observação ou vistoria que comprove a adequação do objeto aos termos contratuais, limitado a 30 (trinta) dias corridos contados a partir da data de assinatura do termo de RECEBIMENTO PROVISÓRIO, FURNAS emitirá termo circunstanciado de RECEBIMENTO DEFINITIVO, que será assinado pelas partes. CLÁUSULA - PREVISÃO ORÇAMENTÁRIA Os recursos orçamentários correspondentes a esta contratação são próprios de FURNAS e está identificado no quadro abaixo:
+Categoria Econômica Código Funcional Programático
+
+Custeio
+
+---
+
+31/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO CLÁUSULA - ENGENHARIA DE SEGURANÇA INDUSTRIAL
+
+PE.DAQ.G.0324.2009
+
+Na execução do objeto deste CONTRATO, obriga-se a CONTRATADA a respeitar a legislação vigente sobre Segurança e Higiene do Trabalho, acatando, outrossim, recomendações específicas outras que, nesse sentido, lhes sejam feitas por FURNAS, sob pena de suspensão dos trabalhos e sem exoneração de culpa da CONTRATADA pelo atraso na execução dos serviços. CLÁUSULA - RESPONSABILIDADE POR DANOS OU PREJUÍZOS A CONTRATADA obriga-se a pagar toda e qualquer indenização por danos ou prejuízos, causados por ela ou seus prepostos a FURNAS ou a terceiros, ficando FURNAS autorizada a descontar de quaisquer créditos da mesma, decorrentes deste Instrumento Contratual, a importância necessária ao ressarcimento de tais danos ou prejuízos. À CONTRATADA competirá, quando solicitada, apresentar a FURNAS documento hábil, comprovando ter o prejudicado dado plena, geral, rasa e irrevogável quitação pela indenização recebida, referente aos danos ou prejuízos sofridos. CLÁUSULA - FORO As partes elegem o foro central da cidade do Rio de Janeiro, Estado do Rio de Janeiro, para qualquer ação ou execução decorrente deste CONTRATO, com renúncia a qualquer outro, por mais privilegiado que o seja. E, por se acharem justas e contratadas, assinam as partes o presente instrumento, em 03 (três) vias de igual teor e para um só efeito, na presença das testemunhas abaixo.
+
+Rio de Janeiro,
+
+FURNAS CENTRAIS ELÉTRICAS S.A.
+
+________________________________ CONTRATADA ________________________________ Testemunhas:
+
+_________________________ Nome: CPF: _________________________ Nome: CPF:
+
+32/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 2. MODELO DE GARANTIA ­ FIANÇA BANCÁRIA
+
+PE.DAQ.G.0324.2009
+
+Rio de Janeiro, FURNAS CENTRAIS ELÉTRICAS S.A. Rua Real Grandeza , 219 Rio de Janeiro ­ RJ 1. Ciente de que entre FURNAS CENTRAIS ELÉTRICAS S.A., empresa concessionária de serviço público de energia elétrica, com sede e Escritório Central na Rua Real Grandeza no 219, na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, inscrita no Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda sob o no 23.274.194/0001-19, adiante designada FURNAS, e __________________________, com sede na _________________(Cidade e Estado), inscrita no citado Cadastro, sob o no _________________, doravante denominada AFIANÇADA, foi celebrado, em ____________________________, o Contrato no ___________, tendo por objeto _____________________, Contrato este que integra a presente Fiança, tal como se todos os seus termos e condições fossem aqui transcritos, o Banco ________________________, obrigando-se por si e eventuais sucessores, garante FURNAS pelo fiel e perfeito cumprimento de todas e cada uma das obrigações assumidas pela AFIANÇADA no instrumento aludido, até o valor de R$____________________(__________________________________________________). 2. Imediatamente após aviso escrito de FURNAS informando a quantia devida pela AFIANÇADA, em razão da inobservância das obrigações estipuladas no Contrato acima referido, ou em virtude de pagamento, a qualquer título, feito por FURNAS a terceiros credores da AFIANÇADA, por motivo do Contrato no ________, este Banco, como fiador e principal pagador, depositará em nome de FURNAS, no estabelecimento bancário por ela indicado, a citada quantia, até o limite da presente Fiança. 3. O Banco renuncia expressamente a qualquer notificação prévia por modificações que FURNAS e a AFIANÇADA venham a introduzir no Contrato no__________, no curso de sua execução, exceto se houver alteração do seu valor total. 4. Esta garantia terá validade até a emissão do TERMO DE RECEBIMENTO DEFINITIVO, segundo o previsto na Cláusula ­ RECEBIMENTO DOS SERVIÇOS do mencionado Contrato, obrigando-se o Banco a, antes de considerá-la vencida, obter de FURNAS a confirmação de que os serviços foram efetivamente aceitos e de que a AFIANÇADA adimpliu todas as obrigações estabelecidas no Contrato no________________. 5. Declaram os signatários da presente, sob as penas da lei, que estão devidamente habilitados a firmá-la, conforme___________ (artigo ___ dos Estatutos Sociais, ou procuração, ou _____________). 6. O Banco renuncia, também, expressamente, através da presente, ao benefício de ordem estatuído no Artigo 827 do Código Civil Brasileiro em vigor. 7. Fica eleito, para solução de controvérsias derivadas da presente garantia, o foro da Comarca do Rio de Janeiro, Estado do Rio de Janeiro, com expressa renúncia a qualquer outro, por mais privilegiado que o seja. Assinaturas dos representantes do Banco
+
+_________________________________________________________ (Firmas reconhecidas)
+
+33/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+SEÇÃO V
+
+CONDIÇÕES ESPECÍFICAS DE PROPOSTA
+
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+
+OBJETO DA LICITAÇÃO REGIME DE CONTRATAÇÃO DESCRIÇÃO DOS SERVIÇOS DESCRIÇÃO DOS LOCAIS DE PRESTAÇÂO DOS SERVIÇOS PRAZOS PLANILHA DE PREÇOS CRITÉRIOS DE MEDIÇÃO E FATURAMENTO CRONOGRAMAS ORÇAMENTO CONHECIMENTO DOS LOCAIS DE PRESTAÇÃO DOS SERVIÇOS
+
+ANEXO I - PLANILHA DE COMPOSIÇÃO DO PREÇO GLOBAL ANEXO II ­ Cronograma Físico/Financeiro ANEXO III - Projeto Básico ANEXO IV ­ Modelo do Documento OS ­ Ordem de Serviço ANEXO V ­ Modelo de Acordo de Serviços Contratados ­ ASC ANEXO VI ­ Nível de Qualidade de Serviços ­ NQS
+
+34/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 1. OBJETO DA LICITAÇÃO
+
+PE.DAQ.G.0324.2009
+
+1.1. Constitui objeto da presente licitação a contratação de SERVIÇOS de desenvolvimento do sistema SSB na plataforma Dot Net - web, em VB Net, utilizando-se a Técnica de Análise de Pontos de Função (APF), conforme padronização do IFPUG, e Processo de Desenvolvimento Unificado (RUP), conforme ambiente operacional especificado no ANEXO III ­ Projeto Básico, desta Seção. 2. 2.1. 3. REGIME DE CONTRATAÇÃO Os serviços a serem contratados serão realizados sob o regime de empreitada por preço global. DESCRIÇÃO DOS SERVIÇOS
+
+3.1. A descrição dos serviços e os requisitos técnicos encontram-se no ANEXO III ­ Projeto Básico, desta Seção. 4. DESCRIÇÃO DOS LOCAIS DE PRESTAÇÃO DOS SERVIÇOS
+
+4.1 Os serviços contratados serão executados nas dependências da CONTRATADA e atenderão às instalações no Rio de Janeiro, vide endereços relacionados no Item 9 - "Local de Retirada e Entrega dos Artefatos Referentes às Solicitações e Especificações" no ANEXO III ­ Projeto Básico, desta Seção. 4.2 Para os serviços previstos no subitem 4.9 do ANEXO III ­ Projeto Básico, desta seção, quando realizados nas dependências de FURNAS, será de responsabilidade da CONTRATADA o deslocamento dos profissionais envolvidos na prestação dos serviços, inclusive quanto às despesas de passagem e hospedagem, caso não disponha de profissionais residentes nas localidades citadas. 4.3 Quando os serviços estiverem sendo realizados nas dependências de FURNAS, os profissionais da CONTRATADA sempre exercerão suas atribuições em ambiente segregado com acompanhamento e orientação do Gerente de Projeto da mesma, responsável pela realização dos serviços contratados, que atuará como Preposto. 4.3.1 FURNAS se responsabilizará pela disponibilização de toda a infra-estrutura dentre os quais, destacam-se os equipamentos necessários, versão dos produtos (softwares) e as instalações físicas do ambiente segregado. 4.3.2 O expediente se dá em horário comercial de 08:30 às 17:00 horas, de segunda a sexta-feira, obedecendo o calendário de trabalho de FURNAS. 4.3.3 Sempre que o horário de expediente for alterado, a CONTRATADA será comunicada formalmente por FURNAS. 4.4 FURNAS não arcará com custos adicionais relacionados ao deslocamento de profissionais da CONTRATADA. 5. PRAZOS
+
+5.1. Os serviços deverão ser executados dentro de um prazo máximo de 5 (cinco) meses. O prazo deste CONTRATO é de 11 (onze) meses, contado a partir da data de sua assinatura, podendo ser prorrogado dentro do limite da Lei no. 8.666.93.
+
+35/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 6. 6.1. PLANILHA DE PREÇOS
+
+PE.DAQ.G.0324.2009
+
+Deverá constar da PROPOSTA FORMAL ESCRITA a seguinte planilha, datada e assinada: I) Planilha de Composição do Preço Global, conforme modelo constante no ANEXO I desta Seção.
+
+6.2. Lembramos que o LICITANTE, ao preencher sua PROPOSTA no sítio do Banco do Brasil, deverá considerar como Preço unitário o valor referente ao Preço Global de sua PROPOSTA e como quantidade o valor 01 (um). NOTAS: 1. Os preços propostos para a prestação dos serviços deverão contemplar todos os custos e despesas necessários à perfeita e completa realização dos serviços, nos termos do presente CONTRATO, incluindo as verbas, mas a elas não se limitando, tais como valor da folha de pagamento, custos direto e indireto, encargos sociais, trabalhistas e previdenciários, encargos e contribuições parafiscais, despesas financeiras, operacionais e administrativas, seguros, supervisão, despesas com licenciamento de veículos, todos os tributos, lucro, dentre outros, e quaisquer outras despesas necessárias à fiel prestação dos serviços, inclusive as aqui não mencionadas expressamente. 2. Para cotação dos Preços o LICITANTE deverá atentar para todas as orientações contidas neste EDITAL, especialmente àquelas citadas na Seção IV ­ CONTRATO E GARANTIA - MODELOS. 3. O LICITANTE poderá apresentar a Planilha de Preços, devidamente preenchida e sem identificação de sua empresa, e anexá-la ao sítio do Banco do Brasil. 7. CRITÉRIOS DE MEDIÇÃO E FATURAMENTO
+
+7.1. Os faturamentos somente ocorrerão após homologação dos produtos entregues de acordo com o cronograma físico/financeiro, proporcional ao número de pontos de função contratados na iteração, exemplificado no modelo do Anexo II desta Seção, de acordo com a tratativa das ordens de serviço descritas no ANEXO III ­ Projeto Básico, desta Seção, e seguindo a CLÁUSULA - CONDIÇÕES DE FATURAMENTO E PAGAMENTO do contrato desta LICITAÇÃO. 8. CRONOGRAMAS
+
+8.1. Deverão ser preenchidos e anexados à PROPOSTA FORMAL ESCRITA, além da Planilha mencionada no item 6 acima, o seguinte documento:  Cronograma Físico/Financeiro, conforme modelo constante no ANEXO II desta Seção, considerando: · · O prazo total de execução de 5 (cincro) meses; Critérios e condições de medição e pagamentos, estabelecidos no presente EDITAL.
+
+36/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO ANEXO I ­ Planilha de Composição de Preço Global Lote Item
+
+PE.DAQ.G.0324.2009
+
+Descrição do Serviço
+
+Preço Total R$
+
+Serviços técnicos especializados de desenvolvimento do sistema SSB na plataforma Dot Net - web, em VB Net, 1 utilizando-se a Técnica de Análise de Pontos de Função e Processo de Desenvolvimento Unificado Preço Global
+
+37/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO ANEXO II - Cronograma físico/financeiro Cronograma físico Duração prevista Etapa Descrição
+
+PE.DAQ.G.0324.2009
+
+(Dias úteis + data do início do contrato) D + 15
+
+Ambientação
+
+Fase de transferência de conhecimento de FURNAS para a CONTRATADA Desenvolvimento do primeiro conjunto de casos de uso Aceitação do primeiro conjunto de casos de uso Desenvolvimento do segundo conjunto de casos de uso e manutenção corretiva da Iteração 1 Aceitação do segundo conjunto de casos de uso Desenvolvimento do terceiro conjunto de casos de uso e manutenção corretiva da Iteração 2 Aceitação do terceiro conjunto de casos de uso Desenvolvimento do quarto conjunto de casos de uso e manutenção corretiva da Iteração 3 Aceitação do quarto conjunto de casos de uso Desenvolvimento do quarto conjunto de casos de uso e manutenção corretiva da Iteração 4 Manutenção corretiva restante e aceite final
+
+Iteração 1 Aceitação 1
+
+D + 35 D + 45
+
+Iteração 2
+
+D + 55
+
+Aceitação 2
+
+D + 65
+
+Iteração 3
+
+D + 75
+
+Aceitação 3
+
+D + 85
+
+Iteração 4
+
+D + 95
+
+Aceitação 4
+
+D + 105
+
+Iteração 5
+
+D + 115
+
+Aceite final
+
+D + 140
+
+38/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO Cronograma financeiro Etapa Descrição Aceitação do primeiro conjunto de casos de uso Aceitação do segundo conjunto de casos de uso Aceitação do terceiro conjunto de casos de uso Aceitação do quarto conjunto de casos de uso Manutenção corretiva restante e aceite final Duração prevista (Dias úteis + data do início do contrato) D + 45
+
+PE.DAQ.G.0324.2009
+
+Valor Proporcional ao número de pontos de função contratados na Iteração 1 Proporcional ao número de pontos de função contratados na Iteração 2 Proporcional ao número de pontos de função contratados na Iteração 3 Proporcional ao número de pontos de função contratados na Iteração 4 Proporcional ao número de pontos de função contratados na Iteração 4
+
+Aceitação 1
+
+Aceitação 2
+
+D + 65
+
+Aceitação 3
+
+D + 85
+
+Aceitação 4
+
+D + 105
+
+Aceite final
+
+D + 140
+
+Obs: Os cronogramas acima são modelos.
+
+39/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO ANEXO III - Projeto Básico 1. OBJETO
+
+PE.DAQ.G.0324.2009
+
+1.1 O presente projeto básico tem por objetivo o fornecimento de condições, critérios e características técnicas para subsidiar o processo de licitação visando à contratação de empresa para serviços técnicos especializados de desenvolvimento do sistema SSB na plataforma Dot Net - web, em VB Net, utilizando-se a Técnica de Análise de Pontos de Função (APF), conforme padronização do IFPUG, e Processo de Desenvolvimento Unificado (RUP), conforme ambiente operacional especificado neste documento. 1.1.1 Entende-se que os serviços a serem prestados devem seguir os padrões visuais definidos por FURNAS. 1.1.2 Entende-se que o desenvolvimento será baseado em arquitetura WEB. 2. VOLUME ESTIMADO 2.1 O volume total estimado do serviço é de 1.240 (um mil duzentos e quarenta) PONTOS DE FUNÇÃO, durante a vigência do contrato. 2.2 A CONTRATADA se obriga a aceitar, nas mesmas condições contratuais, acréscimos ou supressões nos serviços, de até 25% (vinte e cinco por cento) do valor inicial atualizado do CONTRATO, em conformidade com a Lei 8.666/1993. 3. DETALHAMENTO DOS SERVIÇOS A SEREM CONTRATADOS 3.1 A contratação de serviços é atribuição do Gestor do Contrato, que é o profissional de FURNAS encarregado de gerir o contrato. 3.2 Os contatos entre a Contratada e FURNAS no escopo do contrato de serviço serão concentrados no Gestor ou em pessoa por ele indicada. 3.3 Poderão ser contratados os serviços de DESENVOLVIMENTO E MANUTENÇÃO abaixo definidos, sendo que a contratação corresponderá a parte ou ao todo de uma ou mais fases das Metodologias de Desenvolvimento de Sistemas utilizadas por FURNAS que será apresentado na etapa de Ambientação. 3.3.2 Neste edital é prevista a contratação predominantemente de serviços das fases de construção e transição dentro de 1 (um) ASC. 3.3.3 Serviços de TESTE e DOCUMENTAÇÃO são inerentes aos serviços contratados e deverão ser executados sob as expensas da CONTRATADA conforme definido abaixo. 3.4 A CONTRATADA se compromete a manter equipe qualificada a prestar os serviços demandados por FURNAS, descrito neste documento. 3.4.1 A qualificação da equipe poderá ser verificada a critério de FURNAS pela avaliação de currículos vitae, do próprio serviço prestado e se baseará também na plataforma tecnológica descrita no Item 6.3, deste anexo. 3.4.2 Por solicitação de FURNAS, devidamente justificada, a CONTRATADA deverá providenciar a substituição imediata dos profissionais alocados na prestação dos serviços que não possuam a qualificação exigida ou que venham a prejudicar o bom andamento dos serviços. 3.5 A CONTRATADA se compromete a executar serviços de Desenvolvimento do novo Sistema de Segurança de Barragens (SSB), a partir de especificações estabelecidas ou validadas por FURNAS e em conformidade com seu Processo de Desenvolvimento de Sistemas.
+40/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+3.6 A CONTRATADA se compromete a executar serviços de Manutenção do novo sistema SSB. 3.6.1 Entende-se como manutenção no novo sistema SSB com o objetivo de prevenção, correção de falhas, implementação de melhorias ou adaptações, classificadas conforme abaixo: 3.6.1.1 Manutenção Corretiva - Consiste na correção de defeitos no aplicativo em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento da aplicação e quaisquer desvios em relação aos requisitos aprovados pelo Gestor. 3.6.1.1.1 Os custos de manutenção corretiva são de responsabilidade da CONTRATADA, durante o período de garantia da aplicação. 3.6.1.2 Manutenção Adaptativa - Adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e SGBD, que não impliquem em inserção, alteração ou exclusão de funcionalidades. 3.6.1.3 Manutenção Evolutiva - Corresponde a inclusão, alteração e exclusão de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio. 3.6.1.4 Manutenção Perfectiva ­ Corresponde às adequações da aplicação à necessidade de melhorias, sem alteração de funcionalidades, sob o ponto de vista do usuário. 3.6.1.4.1 A finalidade da manutenção perfectiva é promover a melhoria de performance, a facilidade de manutenção e usabilidade da aplicação. 3.7 Serviços de Documentação do novo aplicativo SSB. 3.7.1 A elaboração de documentação referente aos serviços de desenvolvimento ou manutenção realizados pela CONTRATADA é obrigatória e sem custo adicional a FURNAS e devem estar em conformidade com o estabelecido pelo Processo de Desenvolvimento de Sistemas de FURNAS. 3.8 Teste integrado 3.8.1 Testes Funcionais 3.8.1.1 FURNAS exigirá a implementação e a execução de Testes Funcionais sobre o produto de software construído pela empresa contratada, baseado nos casos de testes a serem elaborados pela CONTRATADA, conforme metodologia adotada por FURNAS. 3.8.1.2 Entende-se como Teste Funcional aquele realizado sobre um componente de software isoladamente (por exemplo, um programa escrito em Dot Net), que deve abranger pelo menos as técnicas de teste Caixa Preta e Caixa Branca relativas aos Casos de Testes especificados e enviados por FURNAS. 3.8.2 Teste Integrado 3.8.2.1 FURNAS exigirá a execução de Teste Integrado sobre o produto de software construído pela empresa contratada. 3.8.2.2 Entende-se como Teste Integrado aquele realizado através da navegação de forma progressiva e ordenada pelas telas ou estruturas internas do software onde seus elementos são combinados e testados para avaliação das suas interações. 3.8.2.3 A CONTRATADA deve entregar junto com os artefatos construídos toda a documentação contendo o mapeamento da navegação interna realizada e demais evidências do teste integrado, que servirão de subsídio para as atividades de auditoria do trabalho de teste.
+41/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 3.8.3 Teste de Sistema
+
+PE.DAQ.G.0324.2009
+
+3.8.3.1 FURNAS exigirá também a execução e evidenciação do teste de sistema sobre o produto desenvolvido, de forma a garantir pleno atendimento aos requisitos funcionais do aplicativo e a requisitos não-funcionais específicos de acordo com a especificidade do mesmo. 3.8.3.2 Entende-se como Teste de Sistema a execução controlada do aplicativo, verificando se o seu comportamento ocorre de acordo com o especificado nos documentos em anexo à ordem de serviço, buscando assim mostrar se os resultados estão respeitando os padrões estabelecidos no Processo de Desenvolvimento de Sistemas de FURNAS. 3.8.4 A CONTRATADA deve entregar junto com os artefatos construídos toda a documentação contendo as evidências de todos os testes implementados e executados, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado pela(s) empresa(s) de teste ou pelo Contratante. 3.8.5 FURNAS se reserva ao direito de aplicar auditoria sobre o código-fonte entregue pela CONTRATADA e para isso, utilizará como insumos: o código-fonte, a especificação de programas, o modelo de arquitetura de solução e os padrões de codificação definidos pela companhia. 3.8.6 Os serviços de auditoria do trabalho de teste e de auditoria sobre o código-fonte poderão ser realizados por FURNAS ou empresa por ela contratada. 4. METODOLOGIA DE DESENVOLVIMENTO DE SISTEMAS 4.1 FURNAS utiliza métodos customizados/adaptados para o desenvolvimento e gerenciamento de sistemas de informação. 4.2 As metodologias utilizadas por FURNAS são aderentes aos paradigmas de desenvolvimento de software do mercado, como a Análise Orientada a Objeto e Processo Unificado de Desenvolvimento. 4.3 As metodologias de desenvolvimento de sistemas de FURNAS prevêem a entrega de artefatos obrigatórios, considerados partes integrantes dos serviços executados pela CONTRATADA. 4.4 O modelo de desenvolvimento da CONTRATADA deverá suportar, para a prestação de serviços objeto deste CONTRATO, o ciclo de desenvolvimento de sistemas e as metodologias definidas por FURNAS com a produção e entrega de todos os artefatos estabelecidos. 4.5 As metodologias adotadas por FURNAS, bem como os modelos de artefatos, serão entregues, em definitivo, quando da assinatura deste CONTRATO e poderão ser alterados a qualquer momento, a critério de FURNAS. 4.6 No caso de alteração das metodologias vigentes, a CONTRATADA se obriga a adaptar-se, no prazo máximo de 30 (trinta) dias corridos, a partir da comunicação formal por FURNAS, podendo ser prorrogado, desde que aceitas as justificativas apresentadas, adotando-a em todos os novos projetos e/ou serviços contratados a partir de então. 4.6.1 No ato da comunicação formal FURNAS disponibilizará a nova versão da metodologia, em conjunto com os modelos de artefatos. 4.6.2 FURNAS se compromete a avaliar as justificativas técnicas da CONTRATADA, se a alteração impactar no incremento do esforço, e negociará com a mesma, se for o caso. 4.6.3 As alterações que modifiquem o equilíbrio econômico-financeiro do contrato serão formalmente celebradas por meio de termo aditivo, desde que comprovado o aumento dos encargos da CONTRATADA.
+42/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+4.7 FURNAS possui em seu Processo de Desenvolvimento de Sistemas atividades relacionadas à Garantia da Qualidade (SQA). 4.7.1 Pela relevância e características, as atividades relacionadas à Garantia de Qualidade devem ser realizadas, exclusivamente, por FURNAS ou empresa ou preposto designado por ela. 4.7.2 FURNAS fará a inspeção naqueles artefatos que são fundamentais para garantir a qualidade dos sistemas e por isso entende que tais atividades são de sua responsabilidade. 4.7.2.1 Entende-se por Atividades Exclusivas de FURNAS: Atividades internas de FURNAS Validação e aprovação dos modelos Validação das estimativas de tamanho, custo, prazo Validação dos casos de teste Validação da arquitetura de solução e prospecção de soluções Validação dos Artefatos produzidos pela CONTRATADA Área TI TI TI TI TI
+
+4.7.2.1.1 Entende-se por Artefato, todo e qualquer componente (tais como códigos fonte, documentos ou relatórios) que integram o sistema a ser desenvolvido. 4.8 É de responsabilidade da CONTRATADA a produção de todos os artefatos previstos nas metodologias com a devida qualidade assegurada, com exceção daqueles cuja responsabilidade de geração seja exclusivamente de FURNAS ou empresas/prepostos designados por ela. 4.9 A migração entre os ambientes de desenvolvimento, homologação e implantação e a fase de transferência de conhecimento e tecnologia serão executadas nas instalações de FURNAS. 4.9.1 O treinamento, compreendido na fase de transferência de conhecimento e tecnologia, deve possibilitar a Furnas, ao término da implantação e garantia sobre o desenvolvimento e/ou manutenção realizados, o desenvolvimento de melhorias e manutenções no software desenvolvido, independente da CONTRATADA. 4.9.2 O conteúdo programático do treinamento deve englobar pelo menos os seguintes assuntos: · Procedimentos de instalação e implantação; · Parametrizações e configurações; · Funcionalidades; · Arquitetura interna e módulos; · Documentação técnica. 4.9.3 O fornecedor deve informar a data de treinamento em até 48 horas após a emissão do Termo de Recebimento Definitivo de cada aceitação prevista. O prazo para realização do treinamento deve ser de até 30 dias após a emissão do Termo. 4.9.4 Os conteúdos sugeridos para cada tipo de treinamento devem ser entendidos como mínimos, ficando a critério da CONTRATADA a inclusão de outros tópicos que se fizerem necessários. 4.9.5 A cada Ordem de Serviço, a CONTRATADA deve especificar o conteúdo dos treinamentos e as respectivas cargas horárias.
+
+43/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+4.9.6 A responsabilidade e os custos de provimento da infra-estrutura necessária para a realização dos treinamentos (salas e infra-estrutura de hardware e software) são de responsabilidade de FURNAS. Demais responsabilidades e custos (como material didático, preparação, transporte e execução do treinamento) são da CONTRATADA. 4.9.7 Para a realização dos treinamentos está prevista a participação de 2 (duas) a 4 (quatro) pessoas. 4.9.8 FURNAS se compromete a comunicar a CONTRATADA, com até 15 dias antes da realização do treinamento, caso o número de pessoas treinadas seja diferente do previsto. 4.10 É de responsabilidade da CONTRATADA a implantação do sistema desenvolvido, a execução de testes e a transferências de todos os artefatos elaborados durante a execução dos serviços no ambiente de DESENVOLVIMENTO fornecido por FURNAS no âmbito da migração. 4.11 É de responsabilidade compartilhada entre a CONTRATADA e FURNAS a implantação do sistema desenvolvido. 4.11.1 A CONTRATADA deve prover pessoal qualificado para acompanhar a equipe designada por FURNAS para executar a migração no ambiente também definido por FURNAS. 5. PADRÕES 5.1 A CONTRATADA se compromete a obedecer todas as normas, padrões, processos e procedimentos de FURNAS incluindo o Processo de Desenvolvimento de Sistemas de FURNAS. 6. AMBIENTE OPERACIONAL DE FURNAS 6.1 A CONTRATADA deverá utilizar as mesmas ferramentas e tecnologias adotadas por FURNAS considerando ainda a versão dos produtos. 6.1.1 Entretanto, a qualquer momento as ferramentas e tecnologias poderão ser alteradas e a CONTRATADA fica obrigada a manter compatibilidade e adaptar-se no prazo estipulado por FURNAS, que comunicará formalmente as alterações de ambiente. 6.1.2 As alterações previstas serão formalmente celebradas por meio de termo aditivo e resguardará a manutenção do equilíbrio econômico-financeiro do contrato, desde que comprovado o aumento dos encargos da CONTRATADA. 6.2 Para isto, FURNAS se compromete a comunicar formalmente à CONTRATADA as alterações, e estipular prazo compatível para que ocorra a adequação à nova plataforma tecnológica. 6.3 ARQUITETURA TECNOLÓGICA WEB 6.3.1 Caracteriza-se pelo uso de servidores de WEB e navegadores. Permite que as estações de trabalho de uma empresa consultem páginas com estrutura e conteúdo WEB, hospedadas em servidores específicos. O ambiente de FURNAS caracteriza-se por: · Sistema Operacional: o Windows server 2003, Windows XP Professional SP2/SP3 · Linguagens: o ASP Net o VB Net o Linguagens de Script Cliente: JavaScript, VBScript, HTML, DHTML, XHTML o Linguagens de Script Servidor: VBScript (ASP) · Banco de Dados: o Oracle 10g Release 10.2.0.3.
+
+44/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO · · · ·
+
+PE.DAQ.G.0324.2009
+
+· · ·
+
+Padrões de Desenvolvimento: o .Net framework 3.5. o FURNAS Sicorp ­ Framework de desenvolvimento utilizado em FURNAS. Browsers o Internet Explorer 6 ou superior Tecnologias de Suporte ao desenvolvimento: o Servidores IIS 6 o XML Ferramentas de Desenvolvimento: o Visual Studio 2005 o Ferramentas de Gerência de Mudanças, de Configuração e de Requisitos  Clear Quest 7.0.1  Clear Case 7.0.1  Requisite Pro 7.0.1 Outros componentes  Dundas Chart Builder versão 3.0  Dundas Chart 6.2.0.1740  Crystal Report versão 8 Ferramentas de Teste: o Fitnesse Imagens: JPEG, PNG e GIF Arquivos seqüenciais
+
+7. SEGURANÇA 7.1 Os produtos gerados pela contratada deverão respeitar todos os padrões de segurança estabelecidos por FURNAS. 8. FORMA DE SOLICITAÇÃO DOS SERVIÇOS 8.1 O início da prestação de serviços pela CONTRATADA deverá ser precedido do estabelecimento do Nível de Qualidade de Serviço (NQS) a ser observado. 8.2 O NQS é a base de referência para sustentar que a evolução e medição dos serviços ocorrerão de forma satisfatória para ambas as partes. 8.3 O objetivo do referido NQS é definir os indicadores e parâmetros de medição para as atividades, assim como os respectivos critérios de aceitação e rejeição, conforme Anexo VI desta Seção. 8.4 O NQS contém indicadores de medição do desempenho e operacional dos níveis de serviços que poderão ser ajustados, a critério de FURNAS e em conjunto com a CONTRATADA, no prazo máximo de 30 (trinta) dias após a assinatura do Contrato, conforme modelo apresentado. 8.5 Por solicitação das partes poderá haver uma revisão para a avaliação do cumprimento dos Acordos de Serviços. 8.6 Para o início da prestação de serviço deverá ser desenvolvido um Acordo de Serviços Contratados ­ ASC formalizando os compromissos entre FURNAS e a CONTRATADA para desenvolvimento do Projeto, conforme Anexo V ­ Modelo ASC ­ Acordo de Serviços Contratados. 8.6.1 Havendo necessidade de alterações nas condições estipuladas no ASC que venham a alterar o teor do Acordo original, serão reavaliados os compromissos assumidos entre as partes, no âmbito do ASC. 8.7 Só poderão ser emitidas Ordens de Serviço após o preenchimento e assinatura do ASC, exceto para construção dos artefatos necessários à realização da medição inicial do projeto.
+45/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+8.7.1 A solicitação para início da execução dos serviços ocorrerá por meio do documento, conforme ANEXO IV ­ Modelo de OS - Ordem de Serviço, assinado pelo responsável de FURNAS pelo acompanhamento dos serviços. 8.7.2 A Ordem de Serviço descreve o serviço a ser executado, visando autorizar seu início, delimitando o prazo e condições de aceite dos produtos. 8.7.3 Para projetos, o responsável por FURNAS deverá emitir quantas Ordens de Serviço julgar necessário durante o seu desenvolvimento, levando em consideração as definições contidas no ASC. 8.7.4 No caso em que a Ordem de Serviço for cancelada por solicitação de FURNAS, o trabalho comprovadamente executado deverá ser avaliado e pago. 8.7.5 FURNAS poderá optar pela entrega parcelada dos produtos referentes a uma OS. 8.7.5.1 Deverão ser identificados na OS as previsões de entregas intermediárias, com seus respectivos desembolsos, em relação ao serviço objeto da mesma. 8.7.5.2 Para cálculo das datas de previsão de entrega e dos valores a serem remunerados, deverão ser utilizadas as regras especificadas no Item 10 ­ Medição dos Serviços, Item 15 ­ Prazo de Atendimento dos Serviços pela CONTRATADA, e cláusula de contrato relativa aos preços e sua repactuação. 8.7.5.3 Não será estabelecida previsão de entrega e/ou desembolso quando não puder ser claramente identificado e validado os artefatos e produtos correspondentes. 9. LOCAL DE RETIRADA E ENTREGA DOS ARTEFATOS REFERENTES AS SOLICITAÇÕES E ESPECIFICAÇÕES 9.1 O local previsto para retirada e entrega dos artefatos referentes as solicitações e especificações dos serviços é o abaixo relacionado: FURNAS Centrais Elétricas SA Endereço: Rua Real Grandeza, 219 ­ Bloco C ­ Sala 404 ­ Botafogo CEP: 22.281-900 ­ Rio de Janeiro - RJ 9.2 Para o caso de alteração do local listado acima, FURNAS comunicará o novo endereço. 10. MEDIÇÃO DOS SERVIÇOS 10.1 Os serviços realizados serão medidos utilizando-se a técnica de Análise em Pontos de Função, baseado na versão 4.2.1 do CPM (Counting Practices Manual), publicado pelo IFPUG (International Function Points User Group). 10.2 A utilização de novas versões da metodologia ficará a critério de FURNAS, que mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA. 10.2.1 No caso de alterações na metodologia de medição de serviços será resguardada a manutenção do equilíbrio econômico-financeiro do contrato, por meio de termo aditivo, caso seja comprovadamente necessário e justificado tecnicamente. 11. CONTAGENS DURANTE O PROJETO 11.1 Antes da formalização do ASC será realizada por FURNAS ou empresa ou preposto que ele venha a designar a contagem de PF's inicial estimada ou detalhada que subsidiará o estabelecimento do prazo e o planejamento de entregas e dos desembolsos financeiros.
+
+46/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+11.1.1 Para este EDITAL a primeira contagem foi realizada por FURNAS. O resultado é um ASC englobando 1.240 (um mil duzentos e quarenta) pontos de função a serem planejados dentro de 5 (cinco) iterações no prazo total de 5 (cinco) meses. 11.1.2 A segunda contagem será efetuada por FURNAS ou empresa ou preposto por ele designado e pela CONTRATADA, após a conclusão do projeto ou serviço, sendo permitido à CONTRATADA validar esta contagem. 11.1.3 Os resultados das contagens produzidas por FURNAS, ou empresa por ela designada, serão disponibilizados em documento próprio. 11.1.4 Ao término de uma fase, a CONTRATADA poderá solicitar a FURNAS recontagem, para fins de revisão dos valores de desembolso (realizados e/ou a realizar) quando identificado aumento do número de PONTOS DE FUNÇÃO, em virtude de detalhamento dos requisitos. 11.1.5 Da mesma forma, quando identificada diminuição do número de PONTOS DE FUNÇÃO, FURNAS, no término de uma OS, poderá determinar a recontagem, para fins de revisão dos valores de desembolso (realizados e/ou a realizar). 11.1.6 Qualquer alteração no número de PONTOS DE FUNÇÃO contratados para o serviço deverá ser previamente aprovada por FURNAS e formalizada. 11.1.6.1 Nesse caso o ASC deverá ser ajustado e na ausência de ASC a formalização se dará em OS. 12 DIVERGÊNCIAS DE CONTAGEM 12.1 No caso de existir divergência por parte da CONTRATADA quanto às contagens realizadas, esta deverá encaminhar pedido de revisão formal a FURNAS, indicando profissional especializado do seu quadro, para realizar, juntamente com profissional indicado por FURNAS, de mesmo perfil, a revisão das contagens e elaborarem proposta final para a solução do impasse. 12.2 Estes profissionais terão o prazo de até 5 (cinco) dias úteis para indicar uma solução conjunta para o impasse. 12.2.1 A existência de divergências quanto às contagens não autoriza à CONTRATADA a onerar os prazos ou o nível de atendimento previsto neste Projeto Básico. 12.2.2 O prazo máximo para encaminhamento de solicitações de revisão pela CONTRATADA é de até 5 (cinco) dias úteis, após FURNAS disponibilizar a contagem. 12.2.3 Caso a CONTRATADA não se pronuncie neste prazo a contagem será automaticamente considerada validada pela CONTRATADA. 13 FORMAS DE CONTAGEM POR CATEGORIA DE SERVIÇO 13.1 O tamanho dos projetos/serviços será calculado tomando-se por base as definições do item de medição dos serviços, constante neste Projeto Básico. 13.2 A utilização dos diversos tipos de contagem e obtenção do custo do projeto/serviço está demonstrada na tabela abaixo. Entende-se por "baseline" o saldo dos pontos de função entregues e os pontos de função ainda a disposição para contratação.
+
+47/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+TABELA DE CONTAGENS E CUSTO POR TIPO DE SERVIÇO TIPO DE SERVIÇO INDICATIVA TIPO DE CONTAGEM ESTIMADA Na fase de Levantamento inicial dos requisitos DETALHADA SIM, a partir do detalhamento dos requisitos e SEMPRE deverá ser realizada ao final da implantação para determinar o "baseline". CUSTO/PRODUTIVIDADE DO SERVIÇO
+
+DESENVOLVIMENT O DE NOVOS SISTEMAS
+
+Não se aplica.
+
+O custo do serviço será de: 100% do valor de um APF, vezes a quantidade de APF da(s) fase(s) contratada(s). Para todos os projetos/serviços de manutenção evolutiva, serão aplicadas as regras abaixo, independente do tamanho: Funcionalidades INCLUIDAS ­ serão remuneradas em 100% do valor do ponto de função vezes a quantidade de APF da(s) fase(s) contratada(s); Funcionalidades ALTERADAS ­ serão remuneradas em 50% do valor do ponto de função vezes a quantidade de APF da(s) fase(s) contratada(s); e terão seu fator de produtividade reduzido em 50%; Funcionalidades EXCLUIDAS ­ serão remuneradas em 25% do valor do ponto de função vezes a quantidade de APF da(s) fase(s) contratada(s); e terão seu fator de produtividade reduzido em 75%. O custo do serviço será: 49% do valor do custo de um APF, vezes a quantidade de APF do serviço O custo do serviço será: 33% do valor do custo de um APF, vezes a quantidade de APF do serviço. Não se aplica.
+
+MANUTENÇÃO EVOLUTIVA
+
+Não se aplica.
+
+Na fase de levantamento inicial dos requisitos.
+
+SIM, a partir do detalhamento dos requisitos e SEMPRE deverá ser realizada ao final da implantação para determinar o "baseline".
+
+MANUTENÇÃO ADAPTATIVA
+
+Não se aplica.
+
+Não se aplica.
+
+SIM, para determinar o tamanho do serviço a ser contratado. SIM, para determinar o tamanho do serviço a ser contratado SIM, para determinar o tamanho da correção e estabelecer novo "baseline".
+
+MANUTENÇÃO PERFECTIVA MANUTENÇÃO CORRETIVA NA GARANTIA
+
+Não se aplica.
+
+Não se aplica.
+
+Não se aplica.
+
+Não se aplica.
+
+14 QUALIDADE E DESEMPENHO: 14.1 Índice aceitável de defeitos 14.1.1 FURNAS não aceitará desempenho dos serviços inferior aos padrões acordados no NQS. 14.1.2 Para atestar os serviços e emitir o Termo de Aceite, será facultado a FURNAS submeter os artefatos produzidos pela CONTRATADA a testes em ferramentas especializadas para avaliação de aspectos de qualidade.
+
+48/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+14.1.3 As alterações propostas nos artefatos testados tratam-se de Manutenção Corretiva e deverão ser efetuadas sem qualquer tipo de ônus financeiro para FURNAS, respeitando, inclusive, os requisitos não funcionais elaborados anteriormente e padrões previamente fornecidos. 14.1.4 O índice aceitável de defeitos acima referenciado não exime a CONTRATADA das obrigações de corrigi-los, sem ônus para FURNAS. 15 PRAZO DE ATENDIMENTO DOS SERVIÇOS PELA CONTRATADA 15.1 A CONTRATADA deverá observar os prazos para o atendimento dos tipos de serviços, conforme tabela abaixo. 15.2 Os prazos máximos estabelecidos contemplam a execução de todas as fases definidas na Metodologia de Desenvolvimento de FURNAS. 15.2.1 Tabela de Prazos de Atendimento de Serviços
+TABELA DE PRAZOS DE ATENDIMENTO
+PRAZO PARA PRAZO PARA CATEGORIA DO SERVIÇO INICIAR O ATENDIMENTO SOLUÇÃO DO PROBLEMA (em horas corridas) PRAZO PARA SOLUÇÃO DA CAUSA DO PROBLEMA (em horas corridas) PRAZO PARA EXECUÇÃO DO SERVIÇO FORMA DE ACIONAMENTO
+
+MANUTENÇÃO Ferramenta CORRETIVA (em garantia) Em até 3 (três) dias úteis, contados da data de recebimento da OS ­ Ordem de Serviço. Em até 3 (três) dias úteis, contados da data de recebimento da OS ­ Ordem de Serviço. 2 horas 4 horas 8 horas ou telefone
+
+MANUTENÇÃO ADAPTATIVA
+
+DEFINIDO FURNAS, ASC/OS.
+
+por na
+
+Ferramenta
+
+MANUTENÇÃO PERFECTIVA
+
+DEFINIDO FURNAS, ASC/OS.
+
+por na
+
+Ferramenta
+
+49/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+TABELA DE PRAZOS DE ATENDIMENTO
+PRAZO PARA INICIAR O ATENDIMENTO PRAZO PARA SOLUÇÃO DO PROBLEMA (em horas corridas) PRAZO PARA SOLUÇÃO DA CAUSA DO PROBLEMA (em horas corridas) PRAZO PARA EXECUÇÃO DO SERVIÇO
+
+CATEGORIA DO SERVIÇO
+
+FORMA DE ACIONAMENTO
+
+MANUTENÇÃO EVOLUTIVA
+
+DESENVOLVIMENT O DE NOVOS APLICATIVOS
+
+Em até 3 (três) dias úteis, contados da data de recebimento da OS ­ Ordem de Serviço. Em até 05 (cinco) dias úteis, contados da data recebimento da OS ­ Ordem de Serviço.
+
+DEFINIDO FURNAS, ASC/OS.
+
+por na
+
+Ferramenta
+
+DEFINIDO FURNAS, ASC/OS.
+
+por na
+
+Ferramenta
+
+15.2.2 Os prazos máximos de entrega, a serem observados, para execução dos serviços de desenvolvimento de novos aplicativos e manutenção evolutiva, nunca poderão ser 20% superiores ao prazo previsto na ASC/OS. 15.3 A CONTRATADA não precisará apresentar a FURNAS, para validação e aceite, proposta de prazo para execução dos serviços que obtiverem pontuação abaixo de 05 (cinco) pontos de função. 15.3.1 Caso o prazo de execução proposto pela CONTRATADA não atenda as necessidades de FURNAS, novos prazos deverão ser apresentados. 15.4 A CONTRATADA poderá solicitar, ainda, um prazo adicional, quando justificada e comprovada a necessidade, em função de complexidade da solução a ser desenvolvida, ficando a critério de FURNAS, aceitar ou não as justificativas e o novo prazo apresentado pela CONTRATADA. 15.4.1 O prazo adicional, no caso de aceite por FURNAS, será adicionado ao prazo total do serviço ou projeto contratado. 15.5 A solicitação de prazo adicional para atendimento não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação por FURNAS, ficam mantidas as condições estipuladas para o serviço. 15.5.1 Caso a justificativa não atenda a FURNAS prevalecerá o prazo inicialmente estipulado. 16 ALTERAÇÃO DE ESPECIFICAÇÃO 16.1 Alteração de especificação é a mudança solicitada durante a execução do serviço de desenvolvimento de novo sistema ou manutenção de um sistema existente. 16.1.1 Tal alteração decorre da revisão das necessidades negociais atendidas pelo sistema, não estando relacionada com o simples detalhamento dos requisitos e Casos de Uso licitados inicialmente. 16.1.2 Dessa forma, funcionalidades alteradas e excluídas só serão consideradas como alteração se estiverem relacionadas a um requisito ou Caso de Uso já detalhado.
+50/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+16.2 A alteração de especificação deverá ser formalizada em ASC/OS à CONTRATADA e seguirá a metodologia em uso de FURNAS. 16.3 Estas solicitações de mudanças podem ou não ocasionar variações no tamanho do sistema que nem sempre são refletidas na contagem de pontos de função do sistema e serviços já desenvolvidos. 16.4 Devido às alterações de especificações solicitadas por FURNAS, a CONTRATADA replanejará as atividades já realizadas utilizando a metodologia em vigor e calculará o retrabalho, se couber. 16.4.1 Para fins de replanejamento do serviço, será realizada uma nova contagem para atualização da quantidade de PF's e do prazo levando em consideração a(s) fase(s)/entrega(s) e ainda não executada(s). 16.5 As variações no número de pontos de função, decorrentes da alteração de especificação, deverão ser previamente aprovadas por FURNAS e, havendo necessidade de desembolso, o mesmo deverá ocorrer por meio de OS específica. 16.5.1 Nesse caso o ASC deverá ser redimensionado para o trabalho a ser executado. 17 RELACIONAMENTO COM A CONTRATADA 17.1 A CONTRATADA deverá acusar recebimento da ASC e/ou OS, indicando a data e horário de seu recebimento, através de um Termo de Recebimento. 17.2 Para ASC: 17.2.1 A CONTRATADA contará com o prazo máximo de 2 (dois) dias úteis a partir da data de recebimento, para realizar a validação do ASC em relação aos parâmetros de qualidade previamente definidos, bem como para solicitar ajustes, esclarecimentos adicionais, ou ainda, sugerir modificações nos termos. 17.2.2 No caso de acatada por FURNAS a revisão solicitada, a qual se dará no prazo máximo de 2 (dois) dias úteis, reinicia-se a contagem do prazo de atendimento a partir da data em que FURNAS reapresentar o ASC. 17.2.3 No caso de rejeição por FURNAS do pedido de revisão formulado pela CONTRATADA, a qual se dará no prazo máximo de 2 (dois) dias úteis, o prazo de atendimento estabelecido inicialmente não será alterado. 17.3 Para OS: 17.3.1 A CONTRATADA contará com o prazo máximo de 2 (dois) dias úteis, a partir da data de recebimento, para realizar a validação da OS ou para solicitar ajustes, esclarecimentos adicionais. 17.3.2 No caso de acatada por FURNAS a revisão solicitada, a qual se dará no prazo máximo de 2 (dois) dias úteis, reinicia-se a contagem do prazo de atendimento a partir da data em que FURNAS reapresentar a OS. 17.3.3 No caso de rejeição por FURNAS do pedido de revisão formulado pela CONTRATADA, a qual se dará no prazo máximo de 2 (dois) dias úteis, o prazo de atendimento estabelecido inicialmente não será alterado.
+
+51/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 18 FORMA DE RELACIONAMENTO
+
+PE.DAQ.G.0324.2009
+
+18.1 A CONTRATADA se obriga a disponibilizar, sem custo adicional para FURNAS, no mínimo, os seguintes canais de atendimento durante o horário comercial praticado por FURNAS: · · · TELEFONE; E-MAIL; Software de Acompanhamento (portal);
+
+18.2 Os canais de atendimento da CONTRATADA, e-mail e software de acompanhamento, deverão prever: 18.2.1 A recepção e tratamento diferenciado das OS, por tipo e criticidade da demanda, respeitando os prazos constantes neste Projeto Básico. 18.2.2 O acompanhamento de todo o processo de atendimento por FURNAS. 18.3 A CONTRATADA se obriga a disponibilizar, no ato da assinatura do CONTRATO, os números de telefones e os endereços de e-mail. 18.4 Software para Acompanhamento dos Serviços 18.4.1 A CONTRATADA deverá prover FURNAS de informação detalhada da execução dos serviços, por meio de ferramenta, em tempo real, protegida por senha. 18.4.2 A CONTRATADA fica responsável pela manutenção do software em funcionamento, sem erros, durante toda a vigência do CONTRATO. 18.4.3 Em caso de solicitação por FURNAS, a CONTRATADA se obriga, ainda, a disponibilizar mensalmente novas consultas e/ou relatórios na ferramenta de acompanhamento dos serviços, sem custo adicional. 18.4.4 Sempre que solicitado por FURNAS e obrigatoriamente ao término da vigência do CONTRATO, a CONTRATADA transferirá a base de dados do projeto, juntamente com o modelo e dicionário de dados do software, em mídia digital, formato de arquivo texto ou outro previamente acordado entre as partes. 18.4.5 O software deverá prever o atendimento automatizado e diferenciado das demandas de serviços e projetos, por criticidade, em conformidade com os prazos e condições para atendimento de serviços, bem como o acompanhamento da sua execução e dos níveis de qualidade de serviço firmados. 18.4.6 Deve ainda emitir todos os registros de ocorrências do projeto e ordem de serviço. 18.4.7 Os Termos de Recebimento e os Termos de Aceite deverão estar automatizados na ferramenta de atendimento. 18.4.8 Excepcionalmente, no caso de indisponibilidade do acesso ao software, a CONTRATADA deverá disponibilizar as informações sobre serviços em andamento utilizando-se de outro meio, previamente acordado com FURNAS. 18.4.9 A ferramenta de acompanhamento deverá ser disponibilizada com interface WEB e prover relatórios de ocorrências, atendimentos e níveis de qualidade de serviço com no mínimo, as informações e funcionalidades relacionadas a seguir: · · Identificação da OS, número e data de solicitação; Tipo e descrição do serviço contratado;
+52/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO · · · · · · · · · · · · ·
+
+PE.DAQ.G.0324.2009
+
+Data, hora da solicitação, inicio previsto, fim previsto, quantidade de dias e quantidade de horas/PF's estimadas por FURNAS; Percentual de realização e fase de execução dos serviços; Data e hora de finalização do atendimento; Gerente de Projetos; Relação de documentos ou artefatos gerados no decorrer da execução do serviço, com descrição sucinta do conteúdo e conexão de hipertexto para acesso aos mesmos; Plataforma, tecnologias e ferramentas utilizadas na execução do serviço e das tarefas/ atividades (linguagem, banco de dados, softwares de apoio); Identificação do projeto, complexidade e criticidade do projeto/aplicativo; Quantidade de defeitos do projeto/aplicativo; Quantidade de defeitos do escopo solicitado na OS; Registros de problemas e comentários; Armazenamento histórico de todas as informações, assim como versões de todos os documentos; Apuração dos níveis de qualidade de serviço contratados, por tipo de serviço, com apresentação de gráficos; Cronograma de cada OS/ASC, prevendo integração com o MS Project Server, contendo: o Datas de inicio e fim de cada tarefa/atividade - prevista e realizada na execução do serviço; o Marcos exigido para as entregas ­ data e descrição dos entregáveis; o Identificação de atividades pendentes, por tipo, por fase, por inicio previsto; o Andamento do serviço ou projeto e de suas tarefas/atividades. o Registro de Pagamentos efetuados por projeto/serviço/demanda.
+
+19 FORMA DE EXECUÇÃO DOS SERVIÇOS 19.1 A CONTRATADA deverá apresentar, conforme prazos de atendimento de projetos/serviços definidos neste Projeto Básico, o plano de atendimento da demanda, que deverá conter, de acordo com o Processo de Desenvolvimento de Sistemas de FURNAS a ser utilizado, documentos que forneçam as seguintes informações: 19.1.1 O cronograma proposto para atendimento. 19.1.2 O plano de atendimento deverá prever, ainda, todas as atividades propostas para a transferência do conhecimento e tecnologia, em conformidade com o estabelecido no Item 24 "Transferência de Conhecimento e Tecnologia". Todas as atividades a serem desenvolvidas pela CONTRATADA durante a execução dos serviços estão previstas nas Metodologias de Desenvolvimento de Sistemas de FURNAS. 19.2 FURNAS se reserva ao direito de rever o conteúdo mínimo do plano de atendimento quando de seu interesse e a CONTRATADA se obriga a adaptar-se, no prazo máximo de 5 (cinco) dias úteis, a partir da comunicação formal por FURNAS, podendo ser prorrogado, desde que aceitas as justificativas apresentadas, adotando-a em todos os novos projetos e/ou serviços contratados a partir de então. 19.3 No início da execução do contrato, a CONTRATADA se obriga a realizar todas as customizações necessárias em seus processos, ferramentas e metodologias, sem ônus para FURNAS, no sentido de adequá-las e/ou compatibilizá-las aos padrões de FURNAS. 19.3.1 Se durante a evolução do contrato surgirem novas customizações demandadas por FURNAS, as mesmas serão formalizadas com a entrega da nova metodologia e será garantido o equilíbrio econômico-financeiro do contrato. 19.4 Durante a vigência do CONTRATO, o contato dos profissionais da CONTRATADA restringe-se aos profissionais da área de desenvolvimento e manutenção de sistemas de FURNAS, responsáveis pelo acompanhamento do projeto ou serviço contratado, salvo quando acompanhados por estes ou com sua autorização.
+53/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO 20 PONTO FOCAL DE ATENDIMENTO
+
+PE.DAQ.G.0324.2009
+
+20.1 Durante toda a vigência do CONTRATO, a CONTRATADA deverá apresentar um Profissional que responderá por ela, a FURNAS. Será responsável pela ligação entre FURNAS e a CONTRATADA; 21 ENTREGA DOS SERVIÇOS CONTRATADOS 21.1 A entrega formal dos serviços contratados a FURNAS deverá ser realizada através da reapresentação da OS, pela CONTRATADA, identificando as informações inerentes aos serviços entregues em relação ao que foi previsto/contratado. 21.2 A quantidade de entregas de serviços pela CONTRATADA deverá corresponder, no mínimo, às previsões de entrega da OS, em conformidade com os prazos de entrega discriminados neste Projeto Básico. 21.3 Os serviços deverão ser entregues pela CONTRATADA em mídia digital e formato definido por FURNAS, apresentado no momento da contratação. 22 RECEBIMENTO E ACEITE DOS SERVIÇOS CONTRATADOS 22.1 Será considerado recebido e aceito o serviço que estiver de acordo com as especificações e critérios estabelecidos na OS. 22.2 O Termo de Recebimento é o instrumento utilizado para ateste das entregas parciais e/ou totais de uma OS. 22.3 O Termo de Aceite é o instrumento de ateste do serviço contratado, emitido quando todas as entregas forem recebidas, testadas e com a transferência do conhecimento realizada. 22.3.1 Após o recebimento dos serviços executados pela CONTRATADA, FURNAS terá um prazo de 15 (quinze) dias úteis a partir da entrega do serviço estabelecido na OS, para emitir o Termo de Aceite, ficando após este prazo a CONTRATADA autorizada a faturar o valor referente ao Termo de Aceite, conforme definição contratual, condicionada a realização da transferência do conhecimento a FURNAS, conforme Item 24 ­ "Transferência de Conhecimento e Tecnologia" deste Projeto Básico. 22.4 Para identificar a conformidade dos serviços entregues pela CONTRATADA estes serão avaliados e classificados por FURNAS no Termo de Recebimento, considerando-se os seguintes critérios: 22.4.1 Rejeitado ­ quando o índice de defeitos da entrega não atingir a meta especificada na NQS ou OS, sujeitando-se a CONTRATADA às penalidades estabelecidas para o caso. 22.4.2 Recebido - quando o(s) artefato(s) entregue(s) forem recebidos integralmente por FURNAS, não cabendo nenhum ajuste. 22.4.3 Recebido com Ajustes - quando o índice de defeitos da entrega não atingir a meta especificada na NQS mas estiver dentro de um limite de aceitabilidade. Nesta situação FURNAS apresentará à CONTRATADA uma relação de ajustes a serem realizados, com prazo para adequação negociado com a CONTRATADA limitado a 5 (cinco) dias úteis ou 10% (dez por cento) do prazo de desenvolvimento, o que for maior. 22.4.3.1 Caso não realize integralmente os ajustes no prazo estabelecido, a entrega será considerada rejeitada e a empresa estará sujeita às penalidades previstas.
+
+54/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+22.4.3.2 Finalizados todos os ajustes por parte da CONTRATADA, FURNAS emitirá o Termo de Recebimento para efeito de faturamento. 22.4.3.3 A emissão do Termo de Recebimento classificado como "Recebido com Ajustes" ou "Rejeitado" não autoriza a Contratada a faturar os serviços, sendo necessária a emissão do Termo de Recebimento com classificação "Recebido" para isto. 23 SUPERVISÃO DA EXECUÇÃO DO CONTRATO 23.1 FURNAS indicará, formalmente, no ato da assinatura do CONTRATO o(s) responsável(eis) pela supervisão do CONTRATO e dos serviços contratados. 23.1.1 FURNAS poderá indicar outro(s) responsável(eis), a qualquer momento, bastando apenas comunicar formalmente à CONTRATADA. 23.1.2 O relacionamento relativo à gestão do contrato será realizado nas dependências de FURNAS, exceto em situações excepcionais onde haja o entendimento e anuência de FURNAS para mudança do local. 23.2 A CONTRATADA deverá indicar, formalmente, no ato de assinatura do CONTRATO ou sempre que alterados, pelo menos 01 (um) Supervisor de Execução do CONTRATO, que deverá atuar como seu representante junto ao departamento de desenvolvimento de FURNAS no Rio de Janeiro. O representante indicado pela CONTRATADA deverá também atuar no acompanhamento da execução do CONTRATO e dos serviços contratados. 23.4 A CONTRATADA deverá, ainda, indicar formalmente, no ato de assinatura do CONTRATO ou sempre que alterado, um Supervisor de CONTRATO, que deverá atuar como seu representante principal junto a FURNAS. 23.4.1 O Supervisor de CONTRATO será o responsável pelo acompanhamento da execução total do CONTRATO e dos serviços prestados pela CONTRATADA. 23.4.2 Os Supervisores de contrato deverão ter disponibilidade de atendimento a FURNAS em qualquer instante em função das necessidades de relacionamento com a CONTRATADA. 23.5 A CONTRATADA deverá, no ato da contratação e, sempre que os profissionais forem alterados, identificar 1 (um) ponto focal que estará à disposição para atendimento telefônico e presencial a FURNAS. 24 TRANSFERÊNCIA DE CONHECIMENTO E TECNOLOGIA 24.1 A transferência de Conhecimento e Tecnologia consiste no fornecimento de informações para que a equipe técnica da Área de Tecnologia da Informação de FURNAS obtenha todos os conhecimentos necessários ao perfeito entendimento da solução - arquitetura, dados, objetos, funções, construção e instalação, estando capacitados ao final do serviço contratado a manter e produzir a solução. 24.2 O processo de transferência deverá prever palestras, treinamentos, entrega da documentação ainda não recebida por FURNAS, visando a transferência de todo o conhecimento adquirido durante o processo de desenvolvimento aos profissionais identificados por FURNAS. 24.3 A CONTRATADA se obriga a disponibilizar a FURNAS a formalização dos procedimentos de instalação nos ambientes de FURNAS do serviço executado, contemplando todas as atividades técnicas necessárias, em todas as plataformas tecnológicas envolvidas, para que o software torne-se plenamente operacional no referido ambiente.
+
+55/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+24.4 Caberá a CONTRATADA zelar e assegurar a transferência de todo conhecimento adquirido ou produzido, relativamente a serviços em andamento ou finalizados, para FURNAS ou outra CONTRATADA designada por FURNAS. 24.5 FURNAS se compromete a disponibilizar pessoal técnico para o recebimento da transferência de conhecimento em data acordada entre as partes. 25 GARANTIA 25.1 A CONTRATADA garantirá cada serviço prestado pelo período de 6 (seis) meses, contados da data de implantação da solução no ambiente de produção, mesmo após a finalização do CONTRATO. 25.2 Caberá a CONTRATADA, no período de garantia, sem ônus para FURNAS, realizar toda a correção decorrente dos erros ou falhas cometidas na execução dos serviços contratados e/ou decorrentes de integração e adequação sistêmica, desde que, comprovadamente, não tenham se dado em razão das especificações feitas por FURNAS. 25.2.1 O prazo máximo para correção de defeitos deverá seguir o estipulado na tabela constante do Item 15 "Prazo de Atendimento dos Serviços pela Contratada". 25.3 Caso um componente de software e/ou artefato, referentes a um serviço contratado, sejam alterados por FURNAS, a garantia cessará apenas para estes produtos.
+
+56/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO Anexo IV ­ Modelo do Documento OS ­ Ordem de Serviço
+
+PE.DAQ.G.0324.2009
+
+1. A Ordem de Serviço é o documento oficial de FURNAS para encaminhamento de demandas e deverá ser identificada por um número seqüencial, mês e ano da solicitação, devendo conter o código do Projeto ou do Serviço de Manutenção, fornecido pela ferramenta e conter, ainda no mínimo as informações apresentadas no modelo à seguir. 2. O Modelo aqui apresentado é ilustrativo e poderá sofrer ajustes, se for o caso, na implantação do processo operacional junto a CONTRATADA.
+FURNAS CONTRATADA: 1. IDENTIFICAÇÃO DA OS Sistema: SiXXX - Sistema Migrado ( ) Código do Projeto Nome do Projeto Tipo: ( ) Novo Desenvolvimento Serviço de Manutenção Tipo: ( ) Corretiva ( )Não Corretiva Líder de Projeto (Furnas) Analistas (Furnas) ORDEM DE SERVIÇO OS xxxx-nnnn
+
+( ) Mehoria
+
+( ) Manutenção
+
+( )Sistemas Migrados Telefone de Contato Telefone de Contato e-mail e-mail
+
+2. INFORMAÇÕES SOBRE O SERVIÇO Descrição dos Produtos contratados e a data de entrega Anexar documentação disponível para atendimento da demanda. Categoria de Serviços Quantidade do serviço a contratar em Pontos de Função () (X ) () Cliente/Servidor Internet/Intranet ____________ Tecnologia / Linguagem ( X ) Dot Net VBNet ( ) Dot Net C# ( ) Java ( ) _______________
+
+Revisão da OS nº Assinatura ou Autorização do Líder do Projeto 3. CANCELAMENTO DA OS Motivo Assinatura ao Autorização do Líder de Projeto 4. Informações da Contratada Data/Hora do Aceite do Serviço Data início Testes
+
+Prazo estimado para retorno Data
+
+Data: Quantidade Trabalhadas de Horas
+
+Prazo limite p/entrega: Data fim testes
+
+Responsável pela Qualidade Data da entrega do produto
+
+Nome e assinatura do Responsável da CONTRATADA 5. VALIDAÇÃO DO PRODUTO Recebimento do Produto (Nome e assinatura e data) Testes realizados
+
+Retorno de não conformidades para a CONTRATADA Motivo Responsável pelos testes 6. Aceite do Serviço Líder do Projeto Nome e Assinatura Nome e Assinatura Assinatura Data Data Data
+
+57/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO Instruções de preenchimento
+Campos CABEÇALHO ­ ORDEM DE SERVIÇO ­ OS Descrição
+
+PE.DAQ.G.0324.2009
+
+OS No.
+
+Numero da OS. Preencher com o código do Projeto ou do Serviço de Manutenção, seguido de numeração seqüencial. Exemplo: 052-0001, 093-9999
+
+CONTRATADA IDENTIFICAÇÃO DA OS
+
+Preencher com o nome da empresa CONTRATADA para executar o Serviço.
+
+Informar a sigla do Sistema, o nome do Subsistema e do Módulo. Sistema Migrado Código do Projeto Nome do projeto Tipo do Projeto Serviço de Manutenção Líder de Projeto / Telefone de contato / Email Analista(s) / Telefone de contato / E-mail INFORMAÇÕES SOBRE O SERVIÇO Descrição dos Produtos contratados e a data de entrega Anexos Descrever os serviços a serem contratados e sua respectiva data de entrega. Assinalar os tipos de documentos, anexados à OS, necessários para o desenvolvimento do serviço contratado. Informar a quantidade total de Pontos de Função do Serviço encomendado, conforme previsto no instrumento contratual vigente. Informar a quantidade total de horas encomendado, conforme previsto no contratual vigente. do Serviço instrumento Informar se o sistema encontra-se sobre o regime de manutenção da operacionalidade de forma terceirizada. Informar o código do projeto. Informar o nome do projeto. Informar o Tipo de projeto, quando for o caso. Assinalar o tipo de serviço de manutenção, quando for o caso. Preencher com o nome do Líder de Projeto de FURNAS, seu telefone e e-mail. Preencher com o nome, telefone e e-mail do(s) Analista(s) responsáveis pela Especificação do Produto a ser desenvolvido.
+
+Quantidade do serviço a contratar em APF
+
+Quantidade do serviço a contratar em Horas Categoria de Serviços
+
+Assinalar o ambiente a ser desenvolvido, conforme as categorias de serviços previstas no contrato. Assinalar a linguagem a ser adotada. Quando necessário, conferir a tabela do Contrato, relativa a Categoria de Serviço X Linguagens Preencher com o número da OS anteriormente cancelada. (Ver descrição do campo Cancelamento da OS) Informar a expectativa de prazo para execução do serviço. Autorizar o envio da OS para a CONTRATADA. Preencher com a data de liberação para a CONTRATADA.
+
+Linguagem
+
+Revisão da OS nº Prazo estimado para retorno Assinatura/autorização do Líder de Projeto Data
+
+58/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+CANCELAMENTO DA OS Explicar o motivo pelo qual a OS foi cancelada. Motivo Quando a OS tratar de diversos Produtos, e apenas parte será cancelada, registrar neste campo os itens cancelados e abrir nova OS para os demais itens. Autorizar o cancelamento da OS. Preencher com a data de cancelamento do serviço.
+
+Assinatura/autorização do Líder de Projeto Data INFORMAÇÕES DA CONTRATADA Data/Hora do Aceite do Serviço
+
+Informar a data e hora de aceite do serviço pela CONTRATADA. Informar o prazo limite para entrega, de forma a atender a expectativa de prazo para retorno de FURNAS. Quando ocorrer discordância entre a expectativa de prazo do solicitante e o prazo estimado pela CONTRATADA, as partes devem acordar novo prazo, alterando os campos do formulário. Registrar o número de horas efetivamente trabalhadas, a fim de subsidiar a base de métricas de projetos mantida por FURNAS. Informar a data de início dos testes realizados pela CONTRATADA, para garantir a qualidade do produto elaborado. Informar a data de término dos testes realizados pela CONTRATADA, para garantir a qualidade do produto elaborado. Atestar que os testes foram realizados e que o produto atende os requisitos especificados. Registrar a data efetiva da liberação do produto.
+
+Prazo limite p/ entrega
+
+Quantidade de horas trabalhadas
+
+Data início testes
+
+Data fim testes
+
+Responsável pela Qualidade Data de entrega do produto VALIDAÇÃO DO PRODUTO Recebimento produto Testes realizados Retorno de não-conformidades para a CONTRATADA (Motivo/Nome/Assinatura/Data) Responsável pelos testes Assinatura Data ACEITE DO PRODUTO / SERVIÇO Líder de Projeto Assinatura Data
+
+Registrar o Nome, assinatura e data de recebimento do produto. Informar que os testes foram realizados e o produto está de acordo. Informar, quando for o caso, o motivo, a data e o responsável pelo retorno à CONTRATADA, de produto(s) que apresentaram erros durante os testes de desenvolvimento. Ocorrendo mais de uma devolução à CONTRATADA, registrar neste campo. Informar o nome do responsável pelos testes. Liberar o produto testado. Registrar a data de liberação do produto testado.
+
+Indicar o nome do Líder de Projeto. Atestar o Aceite do Serviço. Informar a data de Aceite do Serviço.
+
+59/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO Anexo V ­ Modelo de Acordo de Serviços Contratados ­ ASC
+
+PE.DAQ.G.0324.2009
+
+1. O ASC - Acordo de Serviço Contratados estabelece as condições operacionais para controle e acompanhamento da execução dos Serviços de Desenvolvimento e Manutenção de sistemas demandados por FURNAS. 2. O modelo aqui apresentado é ilustrativo e poderá sofrer ajustes, se for o caso, na implantação do processo. Acordo de Serviços Contratados
+
+Sistema: Nome do Sistema Subsistema: Nome do Subsistema Módulo: Nome do Módulo
+Versão <1.0> Histórico de Revisões
+Data Versão Motivo Autor
+
+Esta tabela visa manter o histórico de atualizações Visto das Áreas Envolvidas
+Área Capacidade Produtiva <Conforme prática, complementar com as áreas envolvidas> Data Responsável Comentários
+
+OBJETO DO ACORDO DE SERVIÇOS CONTRATADOS O presente instrumento tem por objeto a regulamentação da execução terceirizada de projetos de desenvolvimento e manutenção de programas de computador, com base no CONTRATO DE <NOME DO CONTRATO> e seus Aditivos, celebrado entre a FURNAS Centrais Elétricas S.A. (CONTRATANTE) e Nome da CONTRATADA, CONTRATADA em (dd de Mês de aaaa). VIGÊNCIA Incluir a data de início e término do serviço contratado, de acordo com o detalhamento do serviço a ser contratado e/ou o cronograma físico-financeiro. Atentar para que o prazo de execução esteja dentro dos limites do prazo do Contrato. OBJETIVO DO SERVIÇO CONTRATADO Descrever sucintamente os objetivos do serviço contratado. CARACTERÍSTICAS DOS SERVIÇOS A SEREM CONTRATADOS Identificar, conforme definido no Contrato vigente, o tipo de Serviço a contratar, a forma de Medição dos Serviços, a forma de execução e a aplicação de Fatores de Redução.
+
+60/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+DETALHAMENTO DO SERVIÇO A SER CONTRATADO Detalhar o serviços contratado, como por exemplo, as Fases / Etapas / Atividades da Metodologia de Desenvolvimento de Sistemas contratadas para serviços de desenvolvimento de sistemas, detalhando as atividades e seus respectivos produtos, esforço, custo e datas de entrega. Caso a representação possua um detalhamento de esforço e custos das atividade/produtos contratados no Cronograma Físico-financeiro, anexado ao acordo, o mesmo detalhamento não precisará estar declarado neste tópico. NEGOCIAÇÃO COM ÁREAS DE FURNAS Cabe ao Líder de Projeto de FURNAS mobilizar as Áreas de FURNAS que tenham algum tipo de participação no desenvolvimento do serviço, quando solicitado formalmente pela CONTRATADA. MUDANÇAS NA ESPECIFICAÇÃO INICIAL DO PROJETO A CONTRATANTE poderá a qualquer tempo solicitar modificações na matéria da especificação inicial de projeto, advindas de negociações futuras, modificações estas que deverão ser registradas, com o entendimento comum entre Contratante e Contratada, por meio de novas versões deste acordo (ASC). Em caso de alterações na especificação de componentes/programas em processo de construção, deverá ser emitida nova Ordem de Serviço ­ OS (autorização para execução do serviço) para as alterações propostas e um Termo de Aditamento ao Acordo de Serviço Contratado. Mensuração dos Serviços Contratados Duração, Esforço e Custo. A tabela abaixo se refere à contratação de serviços de desenvolvimento de sistemas (Metodologia Estruturada). Adaptar quando se tratar de outros serviços, como documentação, por exemplo. Atentar para que os custos e a duração estejam compatíveis com este acordo ou com o cronograma físicofinanceiro anexado ao ASC. Excluir esta tabela quando não aplicável.
+1.Mensuração dos Serviços Contratados Tamanho total do Projeto em Pontos de Função Duração, Esforço e Custo. <A tabela abaixo se refere à contratação de serviços de desenvolvimento de sistemas (metodologia RUP). Atentar para que os custos e a duração estejam compatíveis com este acordo com o cronograma físicofinanceiro anexado ao ASC. Excluir esta tabela quando não aplicável.> Total de horas dos Serviços
+
+<Números de Pontos de Função> Fase da Metodologia de Desenvolvimento de Sistemas Iniciação Elaboração Análise Programação Análise Programação Homologação Implantação
+
+<Este campo aplica-se para demandas de serviços não mensuráveis em Pontos de Função> DURAÇÃO ESFORÇO (Horas) (R$)
+
+Construção
+
+Transição Somatório Geral
+
+61/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO METODOLOGIAS E PADRÕES UTILIZADOS
+
+PE.DAQ.G.0324.2009
+
+Conforme prescrito no Contrato, a Contratada deverá executar os serviços ora contratados em conformidade com as Metodologias para Desenvolvimento de Sistemas de FURNAS vigente quando firmado este contrato. A CONTRATANTE deverá disponibilizar à CONTRATADA, em meio físico (CÓPIA IMPRESSA E MEDIA ELETRÔNICA), todos os normativos e documentos de referência necessários à correta condução dos serviços, bem como os modelos de documentos previstos pela metodologia empregada. A utilização dos modelos fornecidos e a obediência às normas associadas são de caráter obrigatório pela CONTRATANTE e CONTRATADA. A CONTRATADA disponibilizará os produtos gerados através de medias digitais, em formatos definidos pela CONTRATANTE, que deverão ser entregue pessoalmente pelo preposto da CONTRATADA. Ordens de Serviço ­ OS (item opcional) A autorização da CONTRATANTE para desenvolvimento dos produtos pela Contratada será efetivada por meio de Ordens de Serviço sendo este o instrumento formal de controle e acompanhamento do desenvolvimento e da entrega de produtos. Acompanhamento e Controle A CONTRATANTE se reserva o direito de acompanhar e controlar os serviços executados pela CONTRATADA, conforme previsto em Contrato. A CONTRATADA manterá uma infraestrutura de gerência de configuração, de modo a assegurar o controle de versões dos ativos de software mantidos, o estabelecimento de linhas de base e a recuperação de versões anteriores, caso necessário. A CONTRATADA manterá uma infraestrutura de gerência de mudanças, com a finalidade de permitir o registro, a classificação, a priorização e o acompanhamento do atendimento às solicitações de alterações nos projetos. Quando razões de segurança ou de infraestrutura impossibilitarem a inclusão direta dos produtos no repositório definido pela CONTRATANTE, estes deverão ser entregues por meio eletrônico, devidamente identificados e com o padrão de formato de disponibilização dos arquivos estabelecido por Furnas. A CONTRATADA terá seus produtos e processos verificados e avaliados pela CONTRATANTE, conforme a metodologia de FURNAS. O aceite formal se dará, por parte da CONTRATANTE, através da homologação da Ordem de Serviço que demandou o serviço, ensejando o seu faturamento. A CONTRATANTE, de comum acordo com a CONTRATADA, estabelecerá a periodicidade de reuniões, denominados Pontos de Controle, com a finalidade de avaliar o andamento do serviço contratado, analisar o processo e os produtos, registrar boas e más práticas e propor melhorias no processo. Os pontos de controle, bem como todas as decisões tomadas, devem ser registrados em atas assinadas por representantes de ambas as partes. A CONTRATADA apresentará, nos Pontos de Controle, o Relatório de Acompanhamento dos Serviços Contratados, contendo as pendências e suas respectivas responsabilidades, e considerações gerais sobre o andamento dos trabalhos, além do cronograma atualizado. ENTREGA/ACEITE DE PRODUTOS E TRANSFERÊNCIA DE CONHECIMENTO A entrega dos produtos deverá ser formalizada pela CONTRATADA ao Gerente de Projetos da CONTRATANTE por meio da OS.
+62/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+No caso de algum serviço composto por vários produtos, ter um de seus produtos não ser aceito pela CONTRATANTE, por não estar conforme, o serviço não será liberado para faturamento. É de responsabilidade da CONTRATADA a emissão de comunicados formais à CONTRATANTE ao final do prazo limite para homologação do produto, em casos de não cumprimento dos prazos de homologação de produtos, impedindo assim a continuidade dos trabalhos. O Gerente de Projetos de FURNAS notificará formalmente à CONTRATADA os produtos não homologados, seguidos da descrição do problema identificado. Deverão ser previstos procedimentos para transferência de conhecimento sobre o serviço para a CONTRATANTE. CARACTERÍSTICAS TÉCNICAS <item opcional>
+Linguagem Hardware SGBD/Sistema de Arquivos Software Sistemas Operacionais Middleware
+
+<Quando possível, anexar Modelo de Arquitetura de Solução do projeto. >
+
+Matriz de Comunicação
+Evento Meio de Comunicação Responsável Destinatário Periodicidade
+
+A Matriz de Comunicação deverá conter os eventos mais significativos entre CONTRATANTE e CONTRATADA, tais como Reuniões Pontos de Controle, Entrega de Relatórios de Acompanhamento, Entregas dos Produtos constantes do Acordo, com responsáveis pelos eventos e sua periodicidade. CRONOGRAMA FÍSICO-FINANCEIRO (Item opcional) Colar o Cronograma Físico-financeiro. Esse cronograma deve ser customizado às características de cada serviço contratado. CONSIDERAÇÕES GERAIS Adaptar este item às necessidades do projeto ou do serviço a contratar Quando todos os serviços especificados neste acordo forem concluídos e aceitos pela CONTRATANTE o Líder de Projeto, com acompanhamento do Supervisor de Tecnologia, emitirá o documento "Registro de Encerramento de Contrato/Acordo de Serviços Contratados". No caso de quaisquer dúvidas (sanções, multas, etc.) devem ser consultados o Contrato e seus aditivos. <Local>,<dd> de <Mês> de <aaaa>. Gerente de Projetos
+_________________________________ Gerente de Projetos FURNAS _________________________________ Responsável de TI FURNAS _________________________________ Representante Técnico da Contratada
+
+63/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO Anexo VI ­ Nível de Qualidade de Serviços ­ NQS
+
+PE.DAQ.G.0324.2009
+
+1. Este anexo estabelece os níveis de qualidade de serviço a serem observados durante a execução dos Serviços de Desenvolvimento e Manutenção de sistemas demandados por FURNAS. 2. O modelo aqui apresentado é ilustrativo e poderá sofrer ajustes, se for o caso, na implantação do processo operacional junto a CONTRATADA.
+
+Nível de Qualidade de Serviço ­ FURNAS NQS - Garantia de nível de Qualidade de Serviço oferecido para FURNAS Contratada Contratante Área: Área: Representante: Representante: Email: Email: Data: Objetivos do acordo
+
+ANO:
+
+Garantir o fornecimento e cumprimento dos serviços e produtos contratados, conforme indicado nesse documento, baseado nos indicadores: esforços, métricas, limites, através de acordo formal de compromisso junto a FURNAS.
+Descrição do Acordo
+
+Condições Gerais A CONTRATANTE quer garantido o fornecimento e cumprimento dos serviços oferecidos para FURNAS conforme as condições indicadas nesse documento, no que se refere às especificações e indicadores aqui definidos. Qualquer interrupção/alteração/inclusão nos serviços oferecidos devem ser negociados previamente entre CONTRATANTE e CONTRATADA. A CONTRATANTE quer garantir que quaisquer inclusões de serviços venham acompanhadas de seus respectivos compromissos e indicadores. A CONTRATANTE quer garantir que quaisquer alterações surgidas nos serviços oferecidos tenham atualizados seus respectivos compromissos e indicadores. A CONTRATADA se compromete em atender os serviços oferecidos para todo indicado neste acordo. Renegociação Semestralmente, após a análise dos relatórios, qualquer das partes envolvidas poderá solicitar, se necessário, a renegociação dos níveis de qualidade de serviço, em virtude de alterações que possam ter ocorrido no ambiente ou da identificação de novos aspectos de interesse ignorados até o momento. Caso solicitado, a renegociação deverá ocorrer no prazo de 30 (trinta) dias corridos de forma a não comprometer a prestação dos serviços. Se identificada a necessidade de alteração dos limites mínimos de desempenho, estes poderão ser modificados a critério de FURNAS. FURNAS conforme
+
+64/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+Indicadores
+
+PE.DAQ.G.0324.2009
+
+Relacionamos a seguir os indicadores que regerão os critérios para avaliação dos serviços contratados:
+# Sigla Métrica Disponibilidade do software para acompanhament o dos serviços Eficiência de Cumprimento do Prazo Tempo de Resposta (atendimento) a problemas/dema nda Índices de NãoConformidade Índice de Divergências no Planejamento Definição A percentagem de tempo que o ambiente da CONTRATADA está disponível para a CONTRATANTE Tempo que se passa para que uma demanda seja efetivamente resolvida em relação ao prazo acordado Tempo que se passa desde o momento que a contratante reportou um problema/uma demanda até o momento em que é informado o início do Atendimento pela CONTRATADA Artefatos rejeitados em relação aos entregues. Problemas de divergências dos artefatos em relação ao planejamento do projeto / pacote Fórmula Forma de Medição > 98 %
+
+1
+
+DAT
+
+DAT =
+
+Qtd horas disp p/ uso *100 Qtd .horas.mes
+
+2
+
+EFP
+
+EFP =
+
+ Pr azo. previsto  T .de.resolução
+
+>0,9
+
+3
+
+TRA
+
+TRA= Hor. Início de Atendimento ­ Hor. Abertura
+
+Verificar a tabela de prazos do Edital >0,1 >0,8
+
+5 8
+
+INF DIV
+
+INF =
+DIV =
+
+Qtdrejeitados Qtdentregues
+
+ artef .rejeitados (da.amostra )  artef . planejados (da.amostra )
+
+Pd =
+9 DEF Índice de Defeitos Índice de defeitos por Pontos de Função (Tabela de Defeitos)
+
+Tde Ts
+
+Tde=Total de Defeitos encontrados Ts=Tamanho do Serviço em Pontos de Função
+
+<0,2
+
+Tabela de Defeitos:
+1 2 3 4 5 DOCUMENTOS - (ADERÊNCIA/CONFORMIDADE) Documentos fora do padrão estabelecido por FURNAS Erros de escrita Existência de Não Conformidades de Baixa severidade Existência de Não Conformidades de Alta severidade Conteúdo em desacordo com os requisitos TOTAL PESO PRODUTO - (ADERÊNCIA AOS REQUISITOS) O produto NÃO atende aos requisitos funcionais O produto NÃO atende aos requisitos não-funcionais O produto NÃO atende às regras de negócio TOTAL PESO PRODUTO - (CODIFICAÇÃO) Passos de casos de uso não considerados Lógica duplicada Função desnecessária Verificação de variável incorreta Iteração de loop errada Ausência da condição de teste Ausência de cálculos solicitados Equação insuficiente ou incorreta Operando ou operador na equação incorreto Falha de arredondamento ou de truncagem Falha de conversão Perda de precisão Lançamentos de Exceções não tratados ou tratados incorretamente Chamada errada de subrotina Local incorreto de chamada de subrotina Erro de Compilação Argumentos inconsistentes da subrotina Média Baixa Baixa Média Média Peso 3 1 1 3 3 14
+
+1 2 3
+
+Altíssima Altíssima Altíssima
+
+40 40 40 125
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+
+Média Média Baixa Média Média Média Média Média Média Média Média Média Média Média Média Alta Média
+
+3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 5 3
+
+65/66
+
+FURNAS
+
+CENTRAIS ELÉTRICAS S.A.
+
+EDITAL DE PREGÃO ELETRÔNICO
+
+PE.DAQ.G.0324.2009
+
+18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+
+DOCUMENTOS - (ADERÊNCIA/CONFORMIDADE) Dados inicializados incorretamente Dados acessados ou armazenados incorretamente Índice ou flag com valor incorreto Variável de dados referenciada incorretamente Dados referenciados fora dos limites Escala ou unidade dos dados incorreta Dados dimensionados incorretamente Tipo de variável incorreta Escopo do dado incorreto Variável subscrita incorretamente Recursividade utilizada em situação proibida Atribuição de nomes diferentes a uma mesma variável (no mesmo local de memória) Variável definida e nunca utilizada Uso de variável global proibida Uso de comentários de forma que possa expor detalhes de implementação Desrespeito à nomeação padronizada de variáveis Erro de formatação de código (número de caracteres por linha, identação) Passagem incorreta de parâmetros entre programas Variável usada antes de ser inicializada Leitura de arquivo não aberto ou depois de o mesmo ter sido fechado Código inalcançável (código-morto) Utilização Incorreta ou Violação de Camadas no padrão SICORP Organização de classes/pacotes/arquivos em desacordo com padrão SICORP Não realização de críticas de dados no navegador(browser) de Internet Documentação de código inexistente ou em desacordo com a implementação Não realização de críticas de dados na camada de Internet Objetos que não mantenham seus estados consistentes Transações incorretamente implementadas Lançamento de Exceções de forma incorreta Regras de negócio implementadas em componentes de SGBD (triggers, stored procedures ou functions) Uso de instruções de SQL proprietárias Má reutilização de código (código clonado) Implementação incorreta de LOG ARMAZENAMENTO DE DADOS Nomenclatura de campos/atributos fora do padrão Dimensionamento inadequado de espaço Dados internos incorretos ou faltantes TOTAL PESO ARQUITETURA DE SOLUÇÃO Arquitetura de solução em desacordo com padrões Utilização de componentes de software não homologados TOTAL PESO TOTAL PESO GERAL
+
+Média Média Média Média Média Média Média Média Média Média Média Média Baixa Média Baixa Baixa Baixa Média Média Média Baixa Média Média Média Média Média Média Média Baixa Média Baixa Baixa Baixa
+
+Peso 3 3 3 3 3 3 3 3 3 3 3 3 1 3 1 1 1 3 3 3 1 3 3 3 3 3 3 3 1 3 1 1 1 85 5 5 5 15
+
+1 2 3
+
+Alta Alta Alta
+
+1 2
+
+Alta Alta
+
+5 5 10 249
+
+OBSERVAÇÕES FURNAS adotará indicadores para avaliar o desempenho dos serviços contratados. Quando não forem cumpridos pela CONTRATADA os limites mínimos de desempenho previstos, serão aplicadas as multas determinadas no contrato. Para todos os cálculos de Indicadores deve-se considerar a mesma unidade de medida.
+
+66/66
+
+

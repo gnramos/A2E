@@ -1,0 +1,420 @@
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I Projeto Básico
+
+1
+
+Banco de Brasília ­ Diretoria de Tecnologia ÍNDICE 1. Objeto ....................................................................................... 2. Detalhamento do Objeto ......................................................... 3. Condições de Execução dos Serviços .................................. 3.1 Local de Execução dos Serviços ............................... 3.2 Plataforma Tecnológica .............................................. 3.3 Volume dos Serviços .................................................. 3.4 Prazo para a Execução dos Serviços ........................ 2 3 6 6 6 7 7
+
+3.5 Formalização da Solicitação de Serviços de Abstenções Não-Corretivas ...................... ..................................... 9 3.6 Aceite dos Serviços Solicitados pelo BRB ............ 3.7 Pagamento dos Serviços ............................................ 4. Artefatos Gerados no Relacionamento BRB/Contratada ....... 5. Serviço de Mensuração das Solicitações do BRB ............... 6. Qualidade dos Serviços Prestados .......................................... 7. Obrigações da Contratada ........................................................ 8. Ajustes nos pagamentos e Penalidades .................................. 9. Fase de Transição ..................................................................... 10. Desempenho Esperado em Produção .................................... 11. Considerações Finais ............................................................... 10 10 11 12 14 17 18 21 21 21
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+2
+
+1
+
+Objeto
+
+Contratação de empresa de prestação de serviços de informática para execução de serviços técnicos especializados de desenvolvimento, manutenção e sustentação de sistemas. 1.1 Desenvolvimento de sistemas compreende: o desenvolvimento de novos sistemas com base na metodologia utilizada pelo BRB; 1.2 Manutenção de sistemas compreende: manutenções evolutivas e adaptativas, atualização da documentação dos sistemas e serviços de precificação de demanda ­ mensuração, orçamento e cronograma; 1.3 Sustentação de sistemas compreende: manutenções corretivas e atendimento de questionamentos sobre os sistemas, também chamado de suporte funcional; 1.4 O grupo de sistemas informatizados relacionados a seguir serão objeto de manutenção e de sustentação: Automação bancária: ABA VÍDEO ABX AUTORIZADOR DE TRANSAÇÕES APB INTEGRAÇÃO COM SPB ATB CAIXA (AGÊNCIAS E PABS) ATC CAIXA (CORRESPONDENTES NÃO BANCÁRIOS) AUT HOST BKL AUTORIZADOR BANKLINK BKT BANKNET DFC DISPENSADORA DE FOLHAS DE CHEQUE HRX INTEGRAÇÃO REDES EXTERNAS MON MONITOR DE SISTEMAS PRO INTEGRADOR SISTEMAS CORPORATIVOS SGA SISTEMA GERENCIADOR DE ACESSOS SIA AUTOMAÇÃO BANCÁRIA - SERVIÇOS DE INFRAESTRUTURA SMD SMS DISPENSER TLB TELEBANCO
+
+Automação de escritório: ACI SISTEMA DE CONTROLE DE ACIONISTAS ACR APLICATIVO DE CRÉDITO RURAL AFP SISTEMA DE PAGAMENTO A PESSOAL AGE AGENDAS DA AGÊNCIA VIRTUAL AGR AGENDA DE RENEGOCIAÇÕES BRB/CFI BMF BOLSA MERCANTIL E FUTURO BOL SISTEMA DE CONTROLE DE BOLSA E CUSTÓDIA (TEMABOL) CAN CONTROLA AS OPERAÇÕES EM CURSO ANORMAL - PARA AUDITORIA CBP SISTEMA DE CONSULTA A BASE PERMANENTE CFT CAPTAÇÃO E FIDELIZAÇÃO PELO TELEMARKETING CMS CONTROLE DE MATRÍCULAS E SOLICITAÇÕES CMT SISTEMA DE CONTROLE DE MATERIAIS DE EXPEDIENTE CNB CORRESPONDENTE NÃO BANCÁRIO COL COLETA DE INFORMAÇÕES PARA O BACEN COM SISTEMA DE CÁLCULO DA CORREÇÃO MONETÁRIA (BRB, DTVM E CFI) CPG SISTEMA DE CONTAS A PAGAR CPJ CONTROLE DE PROCESSO JUDICIAIS (EASY OFFICE) EFP SISTEMA EMISSOR DE FOLHA DE PONTO FGT EXTRATO DE FGTS - PLANOS VERÃO E COLLOR FOR FORMULÁRIOS ELETRÔNICOS GPR SISTEMA DE GERENCIAMENTO DE PERFORMANCE GPW GERENCIADOR DE PAGAMENTO WEB HCA CONTROLE E ACOMPANHAMENTO DE CAMPANHAS HCF FATURA FECHADA DE CARTÕES DE CRÉDITO
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+3
+
+HCO SISTEMA DE GERENCIAMENTO DE COBRANÇAS HMD MONITORAÇÃO DAS REDES EXTERNAS INC SISTEMA DE INFORMAÇÕES CADASTRAIS (TEMACLI) INV INVENTÁRIOS DE CREDORES E DEVEDORES DOS NÚCLEOS CONTÁBEIS ITB INTEGRAÇÕES DA TESOURARIA COM O BACEN LIQ SISTEMA DE LIQUIDAÇÃO FINANCEIRA (TEMACCF) MAP SISTEMA DE CONTROLE DA CAIXA DE ASSISTÊNCIA DA BRB SAÚDE OCR SISTEMA DE CONTROLE DE OCORRÊNCIAS OOF OPEN OFFICE OVG SISTEMA DE GESTÃO DE OUVIDORIA PDV PROGRAMA DE DESLIGAMENTO VOLUNTARIO INCENTIVADO PLD PREVENÇÃO A LAVAGEM DE DINHEIRO POA SISTEMA DE PONTOS DE AUDITORIA PUP PORTAL DOS PROJETOS RCF RECIBOS CONTÁBEIS FINANCEIROS ROT ROTINAS GENÉRICAS SAC SISTEMA DE CONTROLE DE ACIONISTAS SAV SISTEMA ATENDIMENTO VIRTUAL SCC SISTEMA DE CONTROLE DE CURSOS SCF SISTEMA DE CONTROLE DE FUNDAÇÕES SCG SISTEMA DE GERENCIAMENTO GEDEP SEC SISTEMA DE EXPOSIÇÃO CAMBIAL SER SISTEMA DE ENVIO DE REQUISIÇÕES SID SISTEMA DE INDICADORES DE DESEMPENHO SLD SISTEMA DE CONTROLE DE OCORRÊNCIAS DE LAVAGEM DE DINHEIRO SLT SISTEMA LIMPA TRILHO SMC SISTEMA PARA O MERCADO DE CÂMBIO SMT SOLICITAÇÃO DE MATERIAL SOC SISTEMA DE SAÚDE OCUPACIONAL
+
+2
+
+Detalhamento do Objeto
+2.1. Os serviços de desenvolvimento, manutenção e sustentação de sistemas referem-se as atividades que devem ser feitas em grupos de sistemas de propriedade do BRB a fim de que eles continuem prestando serviços às áreas de negócio e pressupõe as seguintes atividades:  imersão de profissionais nas instalações do BRB na fase de transição, para absorção dos sistemas, no primeiros 60 (sessenta) dias do Contrato e para iniciar o complemento da documentação mínima dos sistemas, se necessário; receber e responder questionamentos relativos ao sistema (in loco / telefone / meios eletrônicos); atualizar a documentação dos sistemas após manutenção corretiva, evolutiva ou adaptativa; suporte especialista, como por exemplo, prover análise técnica de impacto no sistema sustentado para subsidiar a execução de demandas evolutivas/adaptativas; participação em atividades conjuntas com o BRB de planejamento e controle dos serviços prestados; gerar relatórios de acompanhamento gerencial com indicativo de desempenho dos serviços prestados; análise e precificação(mensuração, orçamento e cronograma) de demandas (para manutenções evolutivas e adaptativas); manutenções corretivas, evolutivas e adaptativas conforme definição nos itens 2.6.1, 2.6.2 e 2.6.3 abaixo.
+
+      
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+4
+
+2.2. Os serviços de desenvolvimento, manutenção e sustentação serão prestados pela Contratada remotamente através de acesso a rede do BRB e ao ambiente descrito no item 3.2. O BRB garante a disponibilidade desse ambiente 24 h por dia e 7 dias por semana, exceto em situações alheias à vontade e controle do BRB, bem como nas situações previamente planejadas de parada para manutenção, normalmente executadas apenas no fim de semana. Caso haja indisponibilidade do ambiente do BRB, não haverá prejuízo à Contratada. 2.3. Para a absorção dos sistemas a serem colocados em manutenção e sustentação, o BRB disponibilizará os recursos humanos necessários para a transmissão de conhecimentos e como documentação, no mínimo, o Modelo de Entidade e Relacionamento Lógico e Físico, os dicionários de dados, os códigos fonte e a documentação de procedimentos de cada sistema. As informações para a construção do artefato seqüência de processamento batch estão disponíveis em ferramenta de mercado utilizada pelo BRB. 2.4. A complementação do conjunto de documentação dos sistemas ficará a cargo da Contratada, sem custo adicional para o BRB. O complemento do conjunto da documentação deverá ser elaborado no máximo em 180 dias após o início de vigência do Contrato e passará a ser propriedade do BRB. A não entrega nesse prazo poderá sujeitar a Contratada a penalidades conforme descrito no item 8 deste anexo. 2.5. O que o BRB considera como conjunto de documentação dos sistemas está listado no quadro abaixo. A Contratada deverá receber a documentação entregue pelo BRB, constante do item 2.3, e deverá complementá-la, em até 180 dias após o início de vigência do Contrato.
+
+Conjunto de documentação Visão Geral do Sistema(apresentação) Documento de Requisitos de Sistema Regras de Negócio Modelo de Entidade e Relacionamento - Lógico Dicionário de Dados Documentação de Arquitetura de Software Modelo de Entidade e Relacionamento ­ Físico Seqüência de processamento "Bacth" Código Fonte Documentação de Procedure
+2.6. As manutenções nos sistemas informatizados sustentados são do seguinte tipo:
+
+2.6.1. Manutenções corretivas compreendendo a detecção, o diagnóstico e a correção de erros ou falhas ocorridas em ambiente de Produção (proativamente, decorrentes de incidentes ou de questionamentos). Como erro ou falha entende-se a geração de resultado diferente do previsto, em decorrência da não observância de regra de negócio ou em decorrência de problema no ambiente computacional onde a aplicação é executada e que para sua solução exijam correção na aplicação. 2.6.2. Manutenções evolutivas, mediante solicitação do BRB. É o tipo de serviço de manutenção orientado para execução de alterações em códigos de programa e/ou componentes já existentes, que visem melhorias de desempenho, manutenibilidade, adaptabilidade ou usabilidade ou para o acréscimo de novas funcionalidades ou extensão de funcionalidades existentes.
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+5
+
+2.6.3. Manutenções adaptativas, mediante solicitação do BRB, compreendendo a adequação dos sistemas a mudanças externas (negócio, legislação, ambiente operacional) sem inserção de novas funcionalidades. Podem ser feitas para melhoria de desempenho através da otimização de códigos ou recursos que facilitem futuras evoluções e podem ainda abranger a conversão de linguagem de programação. Por conversão entende-se o processo de mudança das aplicações do sistema para uma plataforma tecnológica desejada, preservando as regras de negócio nela contidas, e a estrutura de funcionalidades existentes. 2.7. Na execução dos serviços de manutenção corretiva, adaptativa ou evolutiva está incluída a execução das atividades de teste, homologação e implantação das implementações realizadas e a criação ou atualização dos artefatos de documentação dos sistemas em sustentação, conforme descrito neste anexo. 2.8. Para a execução das demandas solicitadas pelo BRB (manutenções evolutivas e adaptativas) deve haver, previamente a precificação (mensuração, orçamento e cronograma) da demanda e o "de acordo" da área de negócio gestora do sistema. A obtenção do "de acordo" da área de negócio ficará a cargo da área de tecnologia do BRB. A Contratada deverá concluir a precificação no máximo após 10 dias da solicitação do serviço pelo BRB. Caso a Contratada apresente a necessidade de alteração da demanda e o BRB acate a alteração, o prazo de dez dias será contado a partir desse aceite. 2.9. A aprovação ou recusa do dimensionamento e do orçamento relativo à demanda ocorrerá em um prazo máximo de 5 (cinco) dias úteis. Esse prazo pode ser renegociado, sempre para mais, caso haja interesse do BRB. 2.10. Demandas precificadas e não aprovadas não trarão nenhum custo adicional ao BRB, a menos que a especificação dos requisitos do sistema tenha sido feita pela Contratada. Nesse caso a Contratada será remunerada por esse serviço. 2.11. O atendimento a questionamentos relativos aos sistemas sustentados refere-se ao acolhimento e a solução de questões relativas ao funcionamento dos sistemas, formuladas por gestores dos negócios, por pessoal técnico da área de tecnologia do BRB ou por usuários dos sistemas. Para tanto a Contratada deverá disponibilizar um telefone para o contato do HelpDesk, das 8:00 h às 18:00 h, e para a área de Produção do BRB, durante 24 horas, bem como disponibilizar ainda meios eletrônicos de comunicação. 2.12. Na execução dos serviços, a Contratada deverá aplicar os procedimentos preconizados pela metodologia utilizada no processo de desenvolvimento de sistemas do BRB de Brasília. 2.13. Havendo modificação no modelo de dados do sistema, na fase de elaboração do modelo lógico, é necessário obter a concordância da equipe de Administração de Dados (AD) do BRB para que o novo modelo seja colocado no ambiente de Desenvolvimento do BRB. Podem ser necessárias reuniões com a equipe de administração de dados para validação das alterações do modelo. Essas reuniões, se necessárias, ocorrerão no ambiente do BRB. Os modelos de dados do BRB estão disponíveis em software específico e a Contratada deverá possuir esse software nas suas instalações. Passos necessários para a validação do modelo: a) Modificar o Modelo de Dados; b) Verificar/Validar o Modelo de Dados; c) Solicitar aprovação do Modelo de Dados pela AD.
+
+3. Condições de Execução dos Serviços
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+6
+
+3.1.
+
+Local de Execução dos Serviços
+
+3.1.1. As instalações da Contratada, para prestação do serviço, deverão se situar na localidade de Brasília com exceção das instalações que a empresa utiliza após a decomposição interna de seus serviços, como por exemplo, para a execução de serviços de fábrica de software, desde que não comprometam a qualidade dos serviços prestados para o BRB. 3.1.2. A Contratada deverá se conectar à rede do BRB para gravação dos artefatos atualizados ou criados e para acesso aos ambientes de Desenvolvimento, Teste e Homologação, sendo sua atribuição providenciar os recursos de hardware, software e comunicação necessários para o acesso, às suas expensas, sem custos adicionais para o BRB. 3.1.3. Os recursos necessários são microcomputadores conectados em uma rede local metropolitana e uma conexão TCP/IP com o BRB com capacidade suficiente para a prestação dos serviços. 3.1.4. O BRB providenciará acesso criterioso dos técnicos da Contratada ao ambiente de Desenvolvimento, Testes e Homologação e às bibliotecas de programas, de procedimentos e de descrições de dados, às ferramentas de manuseio de dados, de tratamento de programas e de submissão de procedimentos. 3.1.5. As interações com o pessoal técnico e de negócio do BRB necessárias à execução dos serviços ocorrerão nas instalações do Banco, em Brasília, cabendo à Contratada a responsabilidade pelo deslocamento dos profissionais envolvidos na prestação dos serviços, quando necessário. 3.1.6. A infraestrutura tecnológica necessária à prestação do serviço contratado deverá estar operacional no prazo máximo de 60 (sessenta) dias contados do início de vigência do Contrato, ocasião em que será objeto de inspeção pelo BRB. Nesse ínterim, durante o processo de absorção dos sistemas pela Contratada, serão utilizadas as instalações prediais e computacionais do BRB. A não observância desse prazo sujeitará a Contratada a aplicação de penalidades conforme descrito no item 8 deste anexo. 3.1.7. A equipe encarregada das atividades de manutenção corretiva poderá, a critério do BRB, ser localizada nas instalações do próprio BRB.
+
+3.2.
+
+Plataforma Tecnológica
+
+3.2.1 Gerenciadores de Banco de Dados: DMS II ORACLE 10g MS SQL Server 2000 3.2.2 Sistemas Operacionais: UNISYS MCP-AS Windows NT/2000 Linux Red Hat 3.2.3 Ambiente Operacional Internet: Internet Information Server V3.0 3.2.4 Linguagens de Desenvolvimento: COBOL
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+7
+
+ALGOL Delphi V3.0 ou superior Java V1.3.1 ou superior XML ASP C C++ 3.2.5 Ferramentas de Apoio ao Desenvolvimento: MS Visual Studio 2000 Eclipse Netbeans Jbuilder
+
+3.3.
+
+Volume dos Serviços
+
+3.3.1. O esforço em horas mensais atualmente despendido pelo BRB com a manutenção corretiva, atendimento a questionamentos sobre os sistemas(suporte funcional) objeto dessa licitação é de 1.176 horas mensais. 3.3.2. Além das manutenções corretivas citadas no item anterior, o desenvolvimento de sistemas, as demandas evolutivas e adaptativas, as atualizações de documentação dos sistemas e serviços de precificação de demanda solicitadas alcançam, atualmente, em 12 meses, 50.400 horas. Considerando-se média de 12 horas por Ponto de Função, temos então, um total previsto de 4.200 Pontos de Funções em 12 meses. 3.3.3. Não há previsão quanto à distribuição das solicitações de serviço ao longo dos meses, sendo responsabilidade da Contratada ajustar-se com vistas ao atendimento dos serviços solicitados pelo BRB de acordo com os prazos máximos declarados no item 3.4.
+
+3.4.
+
+Prazo para a Execução dos Serviços
+
+3.4.1. Para os serviços de manutenção corretiva serão adotados os prazos e criticidade da Tabela I abaixo. As manutenções corretivas que procuram acertar erros conseqüentes das manutenções evolutivas e adaptativas serão contadas estatisticamente para efeito de auferição de qualidade e, se for o caso, imposição de penalidades conforme item 8. A criticidade será informada pelo BRB no momento da notificação da ocorrência. Criticidade Início do Atendimento Atendimento previsto Incidente com paralisação do Imediatamente Em até 1 (uma) sistema ou comprometimento após a hora grave de dados, processo ou notificação do ambiente. BRB à empresa Característica Incidente sem paralisação do Em até 1(uma) Em até 2 horas sistema, mas com hora. a partir do início comprometimento mediano de do atendimento dados, processo ou ambiente. Extensão do Prazo Mediante contato e justificativa apresentada pela Contratada e aceita pelo BRB.
+
+Nível 1
+
+Nível 2
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+8
+
+Nível 3
+
+Incidente sem paralisação do Em até sistema, e com pequeno ou (uma) hora nenhum comprometimento de dados, processo ou ambiente. Manutenções decorrentes questionamentos
+
+1 Em até 3 (três) horas a partir do início do atendimento
+
+Nível 4
+
+corretivas Em até 4 Em até dois de (quatro) horas (dois) dias úteis
+
+Tabela I: prazos máximos para manutenções corretivas 3.4.2. Para os serviços de manutenção evolutiva e adaptativa, os prazos máximos estão listados na Tabela II abaixo. Essa tabela será utilizada pelo BRB como referência para confirmação dos prazos de atendimento das demandas já precificadas e aprovadas, tomando-se como base o tamanho do serviço em Pontos de Função.
+Prazos máximos para realização de serviços Tamanho do serviço emPrazo máximoPrazo máximo p/ o início do atendimento da Pontos de Função em meses solicitação (dias úteis)
+
+50 2,8 3 dias 100 3,3 3 dias 200 4,4 7 dias 300 5,4 7 dias 400 6,2 7 dias 500 6,8 15 dias 600 7,5 15 dias 700 8,1 15 dias 800 8,8 15 dias 900 9,4 15 dias 1000 10,1 15 dias 1100 10,7 15 dias 1200 11,4 15 dias 1300 12,0 15 dias 1400 12,7 15 dias 1500 13,3 15 dias 1600 14,0 15 dias 1700 14,6 15 dias 1800 15,3 15 dias 1900 15,9 15 dias 2000 16,6 15 dias Tabela II: prazos máximos para manutenções evolutivas e adaptativas 3.4.3. Para serviços inferiores a 50 Pontos de Função, o prazo máximo será determinado em dias e obtido pela multiplicação da quantidade de Pontos de Função por 1,68 (um inteiro e sessenta e oito centésimos) com arredondamento para o inteiro imediatamente superior. No caso de quantidades de Pontos de Função intermediárias aos valores da tabela, o prazo máximo será determinado por interpolação. 3.4.4. Prazos máximos superiores aos definidos no item 3.4.2 poderão ser excepcionalmente admitidos a critério do BRB quando condições não esperadas venham a interferir no andamento do serviço. 3.4.5. O prazo de cada serviço contratado será formalizado pelo BRB e a Contratada na Ordem de Serviço. O descumprimento do prazo definido na Ordem de Serviço poderá implicar em penalidades conforme descrito no item 8.
+
+3.5.
+
+Formalização da Solicitação de Serviços de Manutenções Não-Corretivas
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+9
+
+3.5.1. A solicitação de execução do serviço será formalizada por meio de Ordem de Serviço que conterá a descrição do serviço, sua estimativa inicial em pontos de função, o orçamento e cronograma de conclusão. 3.5.2. A Ordem de Serviço especificará:
+
+3.5.2.1. A relação dos artefatos a serem entregues pelo BRB à Contratada como parte da especificação do serviço e aqueles que deverão ser produzidos e entregues pela Contratada como resultado da contratação. A relação de artefatos encontra-se no item 4.3. 3.5.2.2. O cronograma de entregas dos artefatos pela Contratada, de aceite dos artefatos pelo BRB e de desembolsos pelo BRB. Atrasos nas entregas de artefatos sem alterações nos requisitos e isento de culpa pelo BRB, penalizarão a empresa, conforme item 8 ­ penalidades deste anexo. 3.5.2.3. A freqüência de atualização, no ambiente do BRB, das versões dos artefatos a serem produzidos. 3.5.2.4. O Responsável Técnico do BRB que acompanhará o desenvolvimento dos serviços e o Responsável Técnico da Contratada que responderá pela prestação do serviço. 3.5.3. Para demandas menores que 50 pontos de função o preenchimento da OS será simplificado com a especificação do mínimo necessário para a execução do serviço. 3.5.4. Com exceção da definição do sistema, da especificação de requisitos funcionais e de sistemas e da elaboração do projeto lógico, as demais fases do ciclo de vida do desenvolvimento de sistemas serão objeto de prestação de serviço pela Contratada, ou seja: elaboração do projeto detalhado, construção e implantação. A princípio a especificação de todos os requisitos estará a cargo do BRB. Caso o BRB opte por solicitar à Contratada a especificação de requisitos, o valor do serviço, em pontos de função, será acrescentado na precificação da manutenção. A Ordem de Serviço sempre deverá se referir a todas as fases executadas pela Contratada. 3.5.5. A critério do BRB poderá ser definida a necessidade de acompanhamento da execução de qualquer serviço por técnicos do BRB in loco, ou na sua impossibilidade, através de informações solicitadas extraordinariamente e que não estejam contempladas na ferramenta de acompanhamento fornecida pela Contratada ou nos artefatos acordados. A necessidade de acompanhamento pelo BRB não deverá comprometer os prazos de execução dos serviços pela Contratada.
+
+3.6.
+
+Aceite do Serviço Solicitado pelo BRB
+
+3.6.1. O BRB emitirá o Termo de Aceitação do Serviço no prazo definido na OS, após a inspeção e teste dos artefatos entregues. Poderá haver prorrogação, a critério do BRB, de até 50% do prazo inicial previsto para o aceite. 3.6.2. A partir do aceite pelo BRB e após o início da prestação do serviço pela Contratada, alterações solicitadas serão tratadas como novas Ordens de Serviço. 3.6.3. As não-conformidades identificadas durante a inspeção dos serviços contratados serão corrigidas pela Contratada, sem ônus para o BRB, mantendo a consistência da documentação correspondente.
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+10
+
+3.6.4. A inspeção pode gerar a recusa de artefatos por motivo de vícios de qualidade ou por não observância dos padrões adotados pelo BRB. Será tolerado um índice de recusa de artefatos por vícios de qualidade igual ou inferior a 10% dos artefatos previstos na OS. Índices de recusa de artefatos por OS superiores a 10% do total de artefatos previstos na OS, não prorrogarão o prazo de entrega do serviço e facultarão ao BRB a aplicação de penalidades, conforme definido no item 8 deste anexo. 3.6.5. A emissão de aceite pelo BRB não exime a Contratada da responsabilidade pela correção de erros porventura identificados dentro do prazo de vigência do Contrato e após o seu encerramento, dentro do prazo de garantia fornecido pela Contratada, sem ônus para o BRB, desde que o erro ou falha, comprovadamente, não se dê em função de falhas do BRB.
+
+3.7.
+
+Pagamento dos serviços
+
+3.7.1. Será efetuado pagamento de um valor mensal fixo, que remunerará as manutenções corretivas, o atendimento a questionamentos sobre os sistemas (suporte funcional) de demandas ou solicitações. O pagamento será feito, no mês imediatamente subseqüente ao mês da prestação do serviço. O pagamento será efetuado mediante apresentação de fatura emitida pela Contratada. Durante a fase de transição não será pago o valor mensal fixo. 3.7.2. Para desenvolvimento e manutenções evolutivas e adaptativas os desembolsos do BRB estarão restritos ao pagamento dos serviços repassados, efetivamente executados e aceitos integralmente para cada Ordem de Serviço. O pagamento será feito com base na contagem final dos pontos de função da demanda solicitada multiplicado pelo valor unitário do ponto de função. 3.7.2.1. Para manutenções evolutivas e adaptativas solicitadas pelo BRB, a Ordem de Serviço ­ OS ­ conterá o cronograma de desembolso que deverá prever o pagamento de parcelas, associadas ao cronograma de entrega de artefatos, num montante de até 70% do valor total do serviço. Os 30% restantes serão pagos após 30 (trinta) dias da conclusão da OS. A data de conclusão da OS será a de emissão do aceite da última entrega a ela referente. 3.7.3. Os pagamentos ocorrerão sempre mediante a apresentação de Nota Fiscal e Fatura de Pagamento correspondente aos serviços entregues. 3.7.4. Eventuais ajustes decorrentes de diferenças entre as contagens, estimativa e final de Pontos de Função, bem como dedução de valores relativos a ajustes no pagamento e multas, conforme estabelece o item 8, serão efetuados na última parcela de desembolso prevista.
+
+4. Artefatos Gerados no Relacionamento BRB/Contratada
+Durante toda a execução dos serviços da Contratada, o BRB primará pelo controle de qualidade. 4.1 Os artefatos a serem entregues pela Contratada serão declarados no documento "Ordem de Serviço" elaborado a partir das demandas solicitadas pelo BRB ­ manutenções evolutivas e adaptativas. Para manutenções corretivas, a empresa atualizará os artefatos afetados pela manutenção e apresentará um relatório mensal das intervenções efetuadas, para acompanhamento do BRB.
+
+4.2
+
+4.3 A Tabela III, abaixo, lista os artefatos que podem ser gerados ou atualizados pela Contratada com resultado do desenvolvimento e das manutenções corretivas, evolutivas e adaptativas:
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+11
+
+Artefatos
+
+Manutenção Corretiva Regra de Negócio Ambiente
+
+Manutenção evolutiva adaptativa
+
+Desenvolvimento
+
+Geração de informações
+
+Especificação independente de plataforma Visão Geral do Sistema (Apresentação) X Documento de Requisitos de Sistema X Regras de Negócio X Modelo de Entidade e Relacionamento ­ Lógico X X Dicionário de Dados X X Documento de Arquitetura de Software X X X Referência Cruzada X X X Modelo de Entidade e Relacionamento ­ Físico X X X Projeto de Interfaces X X X Mapa de Navegação e Permissões de Acesso X X X Seqüência de Processamento Batch X X X Código Fonte X X X Documentação de Procedure X X X Plano de Teste X X X Relatório Final de Teste X Evidência dos Testes Aplicados X X X Plano de Homologação X X Planilha de Teste para Homologação X X Roteiro de Homologação X X Questões Identificadas na Homologação Relatório de Homologação Plano de Implantação X Documento de Controle de Mudança X X X Manual de Operação X X Manual de Usuário X X Ata de Reunião X Cronograma de Trabalho X Orçamento/cronograma de desembolso financeiro X Relatório de Mensuração X Específico para Análise e Projeto Estruturado e Projeto Orientado a Objetos Especificação de Componentes X X X Diagrama Geral de Transação X X X Caso de uso X X Protótipo de Tela X Diagrama de Atividades X X Diagrama de Classe de Analise X X Diagrama de Seqüência X X Diagrama de Classe de Projeto X X X Classes de Teste X X X Diagrama de Transição de Estados X X X Diagrama de Componentes X X X Especificação de Tela X X X
+
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+
+X X X X X X
+
+X
+
+X X X X
+
+X X
+
+Tabela III - artefatos gerados/atualizados pela Contratada 4.4 Para demandas menores que 50 pontos de função, se acordado entre a Contratada e o BRB, poderá haver menor exigência de artefatos, desde que não haja comprometimento da qualidade dos serviços.
+
+5 Serviço de Mensuração das Solicitações do BRB
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+12
+
+5.1 Os serviços de desenvolvimento, manutenção evolutiva e adaptativa serão mensurados em Pontos de Função. A contagem de Pontos de Função será efetuada no repasse dos serviços (Contagem Estimativa) e na conclusão dos serviços (Contagem Final) pela Contratada, cabendo ao BRB efetuar a validação dessas contagens. 5.2 A contagem de Pontos de Função será baseada na metodologia descrita no Manual de Práticas e Contagens (Counting Practices Manual Release 4.2), publicado pelo IFPUG (International Function Point Users Group), em 2005 ou a que for vigente à época da contratação. 5.3 A contagem estimativa de Pontos de Função será efetuada pela Contratada após o recebimento dos requisitos pelo BRB. A contagem estimativa, poderá ser feita de acordo com as técnicas de contagem estimativa definidas pela NESMA - Netherlands Software Metrics Users Association, a critério da Contratada desde que ela informe a metodologia utilizada em cada caso. 5.4 Caso ocorram alterações sobre os requisitos do sistema, objeto dos serviços de mensuração, no período de execução desses serviços, ficará caracterizada mudança de escopo, devendo ser reavaliada a dimensão dos serviços para efeito do faturamento. 5.5 A distribuição percentual de Pontos de Função por fase do processo de desenvolvimento de aplicativos adotada pelo BRB é apresentada na Tabela IV, abaixo. O percentual de distribuição já considera o esforço de gestão relativo às etapas a serem executadas pela Contratada. Distribuição percentual de Pontos de Função por fases do processo de desenvolvimento % de Distribuição Fases 3% Definição do Sistema 13 % Especificação de Requisitos 11 % Elaboração do Modelo Lógico 28 % Elaboração do Projeto Detalhado 34 % Construção 7% Integração e Homologação 4% Implantação Tabela IV: distribuição de esforço de desenvolvimento no BRB 5.6 A princípio as fases de Definição do Sistema e o serviço de especificação de requisitos funcionais não serão objeto de contratação. Entretanto, conforme descrito no item 3.5.4, os requisitos de sistema também podem ficar a cargo da Contratada e nesse caso terão sua remuneração incluída na OS. 5.7 A quantidade de Pontos por Função base da remuneração do serviço solicitado será de acordo com o tamanho da demanda em Pontos de Função e de acordo com a declarada na descrição do serviço na Ordem de Serviço. 5.8 O BRB adotará os critérios descritos na Tabela V, abaixo, na apuração do tamanho em pontos de função dos projetos contratados para fins de remuneração, de acordo com o tipo de serviço: Critérios de Apuração por Tipo de Serviço Tipo de Serviço Desenvolvimento e Manutenção Evolutiva Descrição Complementação e/ ou Alteração aplicativo existente. Contagem (fórmula) PFBRB Evolutiva = (PF Incluído + PFBRB Alterado + PFBRB Excluído) * Fator de Impacto
+onde: PFBRB Alterado = PF Alterado * 0,6 PFBRB Excluído = PF Excluído * 0,4
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+13
+
+Manutenção Adaptativa Manutenção Adaptativa ­ outro ambiente
+
+Alteração de aplicativo existente mudança externa Conversão de um aplicativo para outro ambiente.
+
+Idem anterior PFBRB Adaptativa = PF Aplicativo Adaptação * Fator de
+
+Tabela V: apuração de pontos de função por tipo de serviço
+
+obs.: (1) Nas fórmulas acima, entende-se por PF a quantidade de pontos de função apurada pela técnica de Análise de Pontos de Função ou abordagem NESMA. Entende-se por PFBRB a quantidade de pontos de função obtida com base na aplicação de multiplicadores definidos pelo BRB sobre o valor PF apurado. obs.: (2) O BRB adotará o valor 1,00 (um) como Fator de Ajuste para todos os projetos, razão pela qual esse fator não está representado nas fórmulas. obs.: (3) Como Fator de Impacto, serão adotados os seguintes valores: 1,0 para desenvolvimento e manutenções evolutivas ou adaptativas em COBOL 1,3 para desenvolvimento e manutenções evolutivas ou adaptativas com camada de apresentação Web obs.: (4) Como Fator de Adaptação, serão adotados os seguintes valores: 0,35 (trinta e cinco centésimos) na conversão de aplicativo do ambiente da alta plataforma(cobol) para baixa(Java, Dephi, etc.) 0,15 (quinze centésimos) na mudança de versão de produtos ou de ambiente operacional
+
+Equivalência em PF de Itens Não Mensuráveis
+Item Layout de telas e arquivos Contempla alterações de layouts de telas ou arquivos sem que haja alteração de funcionalidade. Campos e Variáveis Contempla a inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas sem que tenha havido mudança na funcionalidade. Mensagens Contempla alteração de mensagens de retorno a usuários. Menus Contempla a inclusão, alteração ou exclusão de menus ou telas de ajuda a usuário (helps). Base de Cálculo Fator de equivalência em PF 0,04
+
+Quantidade de itens de layout alterados
+
+Quantidade de campos
+
+0,08
+
+Quantidade de mensagens alteradas Quantidade de telas incluídas ou alteradas Quantidade excluídas de telas
+
+0,04
+
+0,1 0,02
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+14
+
+Dados Hard Coded Contempla a inclusão, alteração ou exclusão de
+
+dados pertencentes a listas (combo box) ou tabelas físicas.
+Code Table Contempla a necessidade de criação, alteração ou exclusão de tabelas Code Table e respectivas funcionalidades.
+
+Quantidades de dados
+
+0,04
+
+Inclusão de Tabela Alteração de Tabela Exclusão de Tabela Inclusão de Funcionalidade Alteração de Funcionalidade Exclusão de Funcionalidade
+
+1,00 0,60 0,40 0,30 0,20 0,10
+
+Tabela VI: itens não mensuráveis - correspondência em PF
+
+5.9 Caso haja divergências iguais ou superiores a 5% entre o BRB e a Contratada em relação às contagens de pontos de função do serviço efetuado, representantes do BRB e da Contratada deverão se reunir para resolver as divergências. Caso as divergências sejam inferiores a 5%, prevalecerá a contagem arbitrada pelo BRB. 5.10 A Contratada após fazer a contagem detalhada, disponibilizará o resultado em conjunto com a documentação dos fatores que embasaram a contagem. A critério do BRB pode ser solicitada à Contratada documentação adicional para a validação da contagem. 5.11 No caso de haver alteração de escopo, após a estimativa, deve ser gerado um documento contendo dados que registrem a alteração de escopo e uma avaliação comparativa da precificação antes e depois da alteração, enfatizando o impacto decorrente da alteração. 5.12 Todos e quaisquer produtos desenvolvidos pela Contratada para a execução dos serviços objeto desta licitação, serão de propriedade do BRB, incluindo-se arquivos em meio magnético, códigos fonte, códigos executáveis, documentação e outros gerados no contexto dos serviços.
+
+6 Qualidade dos Serviços Prestados
+6.1 O serviço entregue deverá atender aos requisitos de qualidade de software em suas características operacionais, manutenibilidade e a adaptabilidade a novos ambientes além de respeitar os padrões definidos pelo BRB. 6.2 Relativamente às características operacionais, a qualidade do serviço prestado será avaliada em termos de sua correção, confiabilidade, eficiência, integridade e usabilidade. Com relação ao aspecto de adaptabilidade os serviços serão avaliados em termos de portabilidade, reusabilidade e interoperabilidade. 6.3 A Contratada deve preparar massa de dados para teste de programas ou procedimentos, de modo a detectar erros, garantindo a funcionalidade dos programas; 6.4 A Contratada deve executar o conjunto de ações destinadas à verificação, validação e correção de programas ou procedimentos, de acordo com o especificado;
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+15
+
+6.5 Consideram-se atividades relativas à qualidade dos serviços implementados, as atividades de Inspeção para identificação de defeitos nos produtos criados durante o processo de manutenção corretiva, evolutiva ou adaptativa, através da execução de revisão nos produtos. A lista abaixo se aplica diferentemente dependendo do tipo de manutenção: o o o o Revisão da Especificação de Requisitos Revisão da Especificação de Programas Avaliação do Código-fonte de Programas Revisão do Teste Unitário, do Teste de Integração, do Teste de Funcionalidade, do Teste de Carga e Desempenho, do Teste de Regressão e do Teste de Gestor
+
+6.6 Testes 6.6.1 De acordo com a descrição dos serviços, ficará a cargo da Contratada o efetivo teste nos sistemas. Testar o sistema significa verificar se todos os requisitos foram atendidos e como os defeitos são detectados e enviados. O teste enfatiza a qualidade do produto e adota práticas que procuram: a) localizar e documentar defeitos na qualidade do software, b) avisar de forma geral sobre a qualidade observada no software, c) validar as suposições feitas nas especificações de design e requisito através de demonstração concreta, d) validar as funções do software conforme projetadas e e) verificar se os requisitos foram implementados de forma adequada. Consideram-se como serviços de testes a serem executados pela Contratada: · · · · · · · · · Levantamento de informações do sistema para os testes. Planejamento dos Testes que consiste em elaborar Estratégia de Testes, Cenário de Testes, Roteiro de Testes e Casos de Testes. Implementação de roteiros de testes e casos de testes. Geração da Massa de Testes. Execução dos Testes. Evidenciação dos testes. Registro de ocorrências dos Testes. Avaliação e Validação dos Testes. Fornecimento de informações de controle e acompanhamento da execução dos serviços de testes, como parte do serviço que está sendo executado.
+
+6.6.2
+
+6.7 Homologação 6.7.1 De acordo com a descrição dos serviços, ficará a cargo do BRB a efetiva homologação do sistema. Homologar significa certificar a qualidade. Busca garantir que os requisitos de qualidade dos clientes do BRB sejam integralmente atendidos. Esses requisitos de qualidade contemplam: · · · os requisitos do ambiente de Produção, que requer, para o aplicativo um comportamento estável e com baixo consumo de recursos os requisitos de segurança, buscando proteger as informações de clientes, a integridade dos dados, da aplicação e do ambiente. os requisitos do negócio disponibilizando o sistema para avaliação do usuários quanto ao atendimento dos requisitos contratado
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+16
+
+· · 6.7.2
+
+o acompanhamento da execução dos testes no ambiente de homologação. o acompanhamento das atividades de homologação pelo usuário gestor
+
+O BRB possui um ambiente específico para este fim que é o espelho do ambiente de produção, assegurando que o comportamento do sistema não será alterado quando transferido para o ambiente de Produção. O BRB utiliza para as atividades de homologação de sistemas o processo definido na sua própria Metodologia de Sistemas.
+
+6.7.3
+
+6.8 Os serviços de testes e homologação serão executados no ambiente de testes e homologação do BRB, plataforma tecnológica descrita no item 3.2. 6.9 Os seguintes relatórios de acompanhamento devem ser gerados pela Contratada, mensalmente, a fim de garantir o nível dos serviços: 1. Relatório de resolução, dentro do prazo acordado, de pontos apontados pela fiscalização do BRB ou levantados pela própria Contratada. 2. Relatório de conformidade dos prazos na resolução de incidentes e na correção de erros. 3. Relatórios de defeitos resultantes de manutenções feitas pela Contratada. 4. Relatório do percentual de OS que foram atendidas dentro do prazo. 5. Relatório do percentual de OS que respeitaram o orçamento proposto. 6. Relatório da quantidade de dias que as precificações foram entregues após a solicitação do BRB. É esperado que acima de 90% das precificações sejam entregues dentro do prazo de 10 dias. 7. Relatório da produtividade alcançada pela Contratada na execução dos seus serviços. É esperado que semestralmente haja aumento de produtividade comparado ao período anterior a partir do segundo semestre de contrato.
+
+7 Obrigações da Contratada
+7.1 Iniciar a fase de transição - absorção dos sistemas - imediatamente após o início de vigência do Contrato. A fase de transição deverá estar encerrada até 60 (sessenta) dias contados do início de vigência do Contrato. 7.2 Gerenciar seus recursos humanos na execução dos serviços solicitados pelo BRB realizando as atividades relativas ao repasse e acompanhamento do serviço. 7.3 Manter disponível equipe de sustentação que possibilite a correção dos erros nos prazos acordados contratualmente, de forma a minimizar as paralisações em sistemas em Produção e que possibilite, também, receber e responder questionamentos relativos ao sistema pessoalmente, no telefone ou por meios eletrônicos. 7.4 Capacitar às suas expensas, sempre que julgar necessário, os profissionais envolvidos na execução dos serviços.
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+17
+
+7.5 Utilizar e disponibilizar para o uso do BRB, sem custo adicional, solução sistematizada com interface WEB que possibilite o acompanhamento da execução dos serviços demandados. A solução disponibilizada deve possuir as seguintes informações e funcionalidades mínimas: a) acompanhamento dos serviços contratados e suas respectivas ordens de serviço, por meio de consultas, relatórios e gráficos, possibilitando a análise da situação e a comparação dos serviços realizados em relação ao previsto; acompanhamento dos custo dos serviços contratados e suas respectivas faturas, por meio de consultas, relatórios e gráficos, possibilitando a análise do custo realizado em relação ao previsto ; relatórios gerenciais com informações de ocorrências de atendimento a demandas emergenciais e corretivas; base histórica com o comparativo entre estimativas e realizado de esforço, prazo, custo e níveis de serviço.
+
+b)
+
+c)
+
+d)
+
+7.6 Impedir qualquer modificação nos sistemas sob sua responsabilidade sem que haja solicitação registrada para tal finalidade, exceto em situações emergenciais, que deverão ser, posteriormente, devidamente registradas e justificadas. 7.7 Permitir, a qualquer momento, a pedido do BRB, a realização de auditorias de qualidade e segurança, relativamente aos serviços objeto do presente Contrato. 7.8 Orientar sua equipe técnica quanto à utilização da metodologia de desenvolvimento de aplicativos do BRB. 7.9 Garantir a qualidade do software em suas características operacionais, manutenibilidade e a adaptabilidade a novos ambientes e assegurar que o software produzido seja eficiente quanto ao desempenho e consumo de hardware, e seja seguro. 7.10 Manter sigilo sobre quaisquer informações do BRB às quais tenha acesso, obrigando-se a tratar como "segredos comerciais e confidenciais", quaisquer informações, dados, processos, fórmulas, códigos, fluxogramas, diagramas lógicos, dispositivos e modelos relativos aos serviços ora contratados, utilizando-os apenas para as finalidades previstas na contratação, não podendo revelá-los ou facilitar a sua revelação a terceiros. Nesse sentido, a Contratada deverá entregar ao BRB Termo de Confidencialidade, assinado pelos seus representantes legais. 7.11 Prestar informações e esclarecimentos sobre os serviços prestados em no máximo de dois dias úteis a contar da solicitação feita pelo BRB. 7.12 Garantir os serviços realizados, cabendo-lhe toda a manutenção corretiva decorrente de seus erros ou falhas cometidos durante o desenvolvimento dos serviços contratados e erros ou falhas decorrentes de integração, a qualquer tempo, durante a vigência do Contrato e durante o período de garantia, após o seu encerramento, sem ônus para o BRB, desde que o erro ou falha, comprovadamente, não se dê em função de falhas do BRB. 7.13 Informar à administração do BRB as irregularidades detectadas, de acordo com o grau de repercussão no Contrato. 7.14 Perceber problemas/dificuldades/reclamações do BRB em relação à Contratada, buscando soluções.
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+18
+
+7.15 Ao término do Contrato, a Contratada, durante o período de garantia repassará informações e conhecimento a uma nova Contratada, se for o caso, ou ao BRB caso este deseje internalizar o sistema.
+
+8 Ajuste nos Pagamentos e Penalidades
+8.1 Para o acompanhamento e avaliação dos serviços da Contratada, será exigido Nível de Serviço (INS), baseando-se no cumprimento das obrigações contratadas. 8.1.1 Os procedimentos para ajustes se darão dentro dos seguintes INDICADORES DE NÍVEL DE SERVIÇO (INS):
+INDICADOR Nº 01 - Prazo de atendimento de demandas (OS). Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Início de Vigência Descrição Garantir o cumprimento das ordens de serviço (OS) dentro dos prazos estipulados Cumprir prazos definidos e acordados para a execução dos serviços Controle de solicitação de serviços Por OS Mensal A verificação se dará pela divisão do Tempo Gasto na Conclusão do Serviço (TGCS) pelo Tempo Máximo de Atendimento (TMA) definido na OS, usando a seguinte fórmula: TGCS / TMA = índice "X" Data de publicação do extrato do Contrato no DODF. Índices: até X  1 - 100% do valor da OS 1 < X  1,1 ­ 99% do valor da OS 1,1 < X  1,2 ­ 98% do valor da OS 1,2 < X  1,4 ­ 96% do valor da OS 1,4 < X  1,6 ­ 94% do valor da OS 1,6 < X  1,8 ­ 92% do valor da OS X > 1,8 ­ 90% do valor da OS igual ou acima de 10% e inferior a 20% das OS com índice "X" acima de 1 ­ multa de 2% do valor total das OS concluídas no do mês e do valor mensal das manutenções corretivas; igual ou acima de 20% e inferior a 30% das OS com índice "X" acima de 1 ­ multa de 5% do valor total das OS do mês e do valor mensal das manutenções corretivas; igual ou acima de 30% das OS com índice "X" acima de 1 ­ multa de 10% do valor total das OS do mês e do valor mensal das manutenções corretivas. a) O valor a ser pago será conforme a faixa de ajustes de pagamento do INS, de acordo com o índice a ser encontrado pela divisão do TGCS pelo TMA. Observações b) Caso haja mais de 10% (dez por cento) do total de OS executadas no decorrer do mês com índice "X" superior a "1" (um), será aplicada uma multa sobre o valor total efetivamente pago no mês, de acordo com os percentuais estabelecidos no item "Sanções" deste INS.
+
+Faixas de ajuste no pagamento
+
+Sanções
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+19
+
+INDICADOR Nº 02 - Prazo para execução de serviços de manutenção corretiva (MC). Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Início de Vigência Descrição Garantir a correção de erros de sistema ­ manutenção corretiva - dentro dos prazos estipulados no item 3.4.1 deste Anexo. Cumprir prazos definidos e acordados para a execução dos serviços Controle de solicitação de serviços Por ocorrência (MC) Mensal A verificação se dará pelo registros das MC e quantidade de horas até a conclusão Data de publicação do extrato do Contrato no DODF. Índices: 01) 90% das MC's concluídas sem atraso e 10% concluídas com até 1 hora de atraso ­ 100% do valor mensal da MC; 02) 90% das MC's concluídas sem atraso e 10% concluídas com até 2 horas de atraso - 99% do valor da MC; 03) 90% das MC's concluídas sem atraso e 10% concluídas com até 3 horas de atraso - 98% do valor da MC; 04) 90% das MC's concluídas sem atraso e 10% concluídas com até 4 horas de atraso - 97% do valor da MC;; 05) 80% das MC's concluídas sem atraso, 10% concluídas com até 1hora de atraso e 10% concluídas com até 2 horas de atraso ­ 96 % do valor da MC;; 06) 80% das MC's concluídas sem atraso, 10% concluídas com até 1hora de atraso e 10% concluídas com até 3 horas de atraso ­ 95 % do valor da MC; 07) 80% das MC's concluídas sem atraso, 10% concluídas com até 1hora de atraso e 10% concluídas com até 4 horas de atraso ­ 94 % do valor da MC; 08) 80% das MC's concluídas sem atraso, 10% concluídas com até 1hora de atraso e 10% concluídas com até 5 horas de atraso ­ 93 % do valor da MC; Mais de 20% das MC's concluídas com atraso ­ multa de sobre o valor mensal dos serviços de manutenção Mais de 30% das MC's concluídas com atraso ­ multa de sobre o valor mensal dos serviços de manutenção Mais de 40% das MC's concluídas com atraso ­ multa de sobre o valor mensal dos serviços de manutenção Para todas as ocorrências de atraso superiores a 4 horas 0,25% de multa por hora de atraso. 10% calculada 15% calculada 20% calculada será acrescido
+
+Faixas de ajuste no pagamento
+
+Sanções
+
+a) O valor a ser pago será conforme a faixa de ajustes de pagamento do INS, de acordo com as quantidades de ocorrências de atraso e o numero de horas. Observações b) Caso haja mais de 20% (vinte por cento) do total de MC concluídas com atraso, será aplicada multa sobre o valor mensal dos serviços de MC, de acordo com os percentuais estabelecidos no item "Sanções" deste INS. c) A multa para este INS não ultrapassará a 30% do valor mensal dos serviços.
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+20
+
+INDICADOR Nº 03 - Não-conformidades dos artefatos (NC) Item Finalidade Meta a cumprir Instrumento de medição Forma de acompanhamento Periodicidade Mecanismo de Cálculo Início de Vigência Descrição Acompanhar a qualidade do serviços ao longo do processo de desenvolvimento Obter artefatos em conformidade com as especificações do sistema Controle de aceitação de artefatos Por aceite Mensal A verificação se dará pela contagem de ocorrências de artefatos devolvidos por não estarem em conformidade com as especificações do sistema Data de publicação do extrato do Contrato no DODF. Índices: 01) até 5% de artefatos não-conformes ­ 100% do valor faturável relativos às OS; 01) até 10% de artefatos não-conformes ­ 99% do valor faturável relativos às OS; 01) até 15% de artefatos não-conformes ­ 98% do valor faturável relativos às OS; Mais de 15% de artefatos não-conformes ­ multa de 5% calculada sobre o valor faturável relativos às OS; Mais de 20% de artefatos não-conformes ­ multa de 10% calculada sobre o valor faturável relativos às OS; Mais de 30% de artefatos não-conformes ­ multa de 20% calculada sobre o valor faturável relativos às OS;
+
+Faixas de ajuste no pagamento
+
+Sanções
+
+Para todas as ocorrências de artefatos não-conforme será acrescido 0,25% de multa por ocorrência.
+a) Caso haja mais de 15% (quinze por cento) do total de artefatos nãoconformes no decorrer do mês, será aplicada uma multa sobre o valor total faturável relativo às OS, de acordo com os percentuais estabelecidos no item "Sanções" deste INS. b) a multa para este INS não ultrapassará a 30% do valor mensal dos serviços.
+
+Observações
+
+8.2 Além das penalidades acima mencionadas, a Contratada estará sujeita, garantida prévia defesa e sem prejuízo da possibilidade de rescisão do Contrato, a aplicação de multa, nos seguintes casos: 8.2.1 no caso de atraso injustificado na disponibilização das instalações e início da prestação dos serviços de desenvolvimento, manutenções corretivas, evolutivas e adaptativas, para a qual está previsto o prazo máximo de 60 (sessenta) dias após a publicação do extrato do Contrato no Diário Oficial do Distrito Federal, a Contratada estará sujeita à multa de R$ 1.000,00 (mil reais) por dia de atraso; 8.2.2 a não entrega do conjunto de documentação mínima no prazo máximo de 180 dias após a publicação do extrato do Contrato no Diário Oficial do Distrito Federal, conforme descrito nos itens 2.4 e 2.5, penalizará a Contratada em 10% do valor fixo a ser pago mensalmente.
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+CONCORRÊNCIA DIRAD/CPLIC Nº 001/2010
+
+ANEXO I
+
+21
+
+9 Fase de Transição
+9.1 O BRB considera transição de serviços, a absorção ou passagem de atividades e serviços de uma Contratada para outra. 9.2 Na fase de transição, até 60 (sessenta) dias após o início da vigência do Contrato, a Contratada estará assimilando o conhecimento do conjunto de sistemas junto ao BRB e a Contratada anterior. Para tal, a Contratada irá alocar técnicos em regime de imersão (imersão = lotação em tempo parcial ou total de profissionais da Contratada nas instalações do BRB, visando à absorção de conhecimentos e informações úteis para a manutenção dos sistemas) no ambiente do BRB. 9.3 O BRB se compromete a disponibilizar os recursos humanos necessários para a transmissão de conhecimentos. Caso a Contratada deseje assumir alguma manutenção evolutiva, durante a fase de transição, essa será negociada entre as partes. 9.4 A princípio, a exigência do cumprimento do Nível de Serviço será feita após a fase de transição. Caso os 60 dias da fase de transição não sejam suficientes para a Contratada alcançar os níveis de INS acordados, o prazo poderá ser estendido, a critério do BRB. 9.5 O BRB disponibilizará à Contratada, preliminarmente ao início dos serviços e em meio magnético, todos os normativos e metodologias de sua autoria e/ou de utilização para as manutenções corretivas, evolutivas ou adaptativas. Caberá ao BRB disponibilizar novas versões dos normativos e metodologias, sempre que houver alterações.
+
+10 Desempenho Esperado em Produção
+10.1 As manutenções corretivas, evolutivas e adaptativas realizadas pela Contratada devem seguir as normas do ambiente de Produção do BRB. As metas para o desempenho das manutenções efetuadas pela Contratada são as seguintes:
+
+· ·
+· · ·
+
+respeito à janela bacth (período máximo de execução das rotinas bacth fora do horário comercial) estabelecida para o sistema pelo BRB; evitar indisponibilidade dos sistemas da automação bancária em qualquer horário e dos sistemas de automação de escritório na janela online (horário comercial); respeitar as melhores práticas para alocação de arquivos segundo definido pelo BRB; respeitar as normas para utilização de aplicativos conforme definido pelo BRB; respeitar as normas de implantação do BRB.
+
+11 Considerações Finais
+11.1 Caberá à Contratada designar Gerente de Contrato que terá como responsabilidade, entre outras, assegurar que ambos (a Contratada e o BRB) estejam cientes de suas responsabilidades para com o sucesso do projeto, conforme o acordado e especificado no Contrato. Para desempenhar essa função bem como as demais que se seguem, a Licitante vencedora do certame deverá apresentar o nome de um Gerente de Projetos, com certificação PMP (Project Management Professional), anexando o currículo do profissional bem como cópias de sua certificação PMP e de sua ficha funcional. 11.2 Os manuais de Usuário, Sistema e Produção serão atualizados pela Contratada, sempre que se fizer necessário em virtude de serviços realizados. 11.3 É facultada à Contratada a proposição de melhorias nos sistemas, as quais, uma vez aprovadas pelo BRB, seguirão o fluxo normal de atividades de manutenção dos tipos evolutiva ou adaptativas.
+
+D:\_LICITAÇÕES\CONCORRÊNCIA\EDITAL\2010\CP2010001-Anexo01- Projeto Básico.odt
+
+

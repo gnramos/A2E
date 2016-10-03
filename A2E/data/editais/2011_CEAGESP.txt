@@ -1,0 +1,607 @@
+1.
+
+PREÂMBULO 1.1-EDITAL DE LICITAÇÃO: PREGÃO ELETRÔNICO Nº 35/2011 1.2-PROCESSO: Nº 142/2010 1.3-ÁREA INTERESSADA: DETIN ­ Departamento de Tecnologia da Informação
+
+1.4-TIPO DE LICITAÇÃO: MENOR PREÇO GLOBAL. 1.5-FUNDAMENTO LEGAL: Esta Licitação será regida pela Lei nº 10.520/2002, Decretos nº 5.450/2005, nº 3.722/2001, nº 4.485/2002 e, subsidiariamente, pela Lei nº 8.666/93, e demais normas pertinentes e pelas condições estabelecidas pelo presente edital. 1.6-SESSÃO PÚBLICA DO PREGÃO ELETRÔNICO: Data: 22/08/2011 Horário: 09h30 (horário de Brasília/DF) ENDEREÇO ELETRÔNICO: www.comprasnet.gov.br 1.6.1- Na data e horário indicados acima, terá início a sessão pública deste Pregão, no sítio www.comprasnet.gov.br. 1.6.2 As licitantes deverão realizar visita técnica a Sede da CEAGESP -
+
+Companhia de Entrepostos e Armazéns Gerais de São Paulo ­ Avenida Doutor Gastão Vidigal, 1946, portão IV, Edifício Sede III, 2º Andar (DETIN), São Paulo, SP, até o dia 18/08/2011, objetivando tomar conhecimento dos equipamentos e do ambiente operacional utilizado. A visita deverá ser agendada previamente junto a Gerência de Informática através do telefone 11 3643-3705.
+2.- OBJETO: Registro de Preços para contratação de serviços técnicos especializados em análise, desenvolvimento e manutenção de Sistemas, em regime de Fábrica de Software, utilizando-se a Técnica de Análise de Pontos de Função, conforme padronização do IFPUG, visando atender, de forma continuada, às necessidades de Tecnologia da Informação da CEAGESP, incluindo o fornecimento de ferramenta de desenvolvimento rápido de aplicações (RAD) para ambiente WEB, assim como capacitação técnica, desenvolvimento assistido e suporte técnico na ferramenta, conforme especificações, quantitativos e condições contidas no constantes Anexo I ­ TERMO DE REFERÊNCIA. 2.1. - As quantidades constantes do ANEXO I são estimativas de consumo, não obrigando a CEAGESP à aquisição total.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+1/51
+
+3.- DOS ANEXOS 3.1Fazem parte integrante do presente edital os seguintes anexos: ANEXO I - TERMO DE REFERÊNCIA ANEXO II - ATESTADO DE VISITA TÉCNICA ANEXO III - DECLARAÇÃO DE PROPRIEDADE INTELECTUAL ANEXO IV - MINUTA DE ATA DE REGISTRO DE PREÇOS ANEXO V - MINUTA DE CONTRATO
+
+3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 4.
+
+DA PARTICIPAÇÃO NA LICITAÇÃO 4.1 Poderão participar deste Pregão os interessados que estiverem previamente credenciados no Sistema de Cadastramento Unificado de Fornecedores - SICAF e perante o sistema eletrônico provido pela Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão, por meio do sítio www.comprasnet.gov.br. 4.2 O cadastramento no SICAF poderá ser realizado pelo interessado em qualquer unidade de cadastramento dos órgãos ou entidades da Presidência da República, dos Ministérios, das Autarquias e das Fundações que participam do Sistema Integrado de Serviços Gerais - SISG, localizados nas Unidades da Federação. 4.3 Para ter acesso ao sistema eletrônico, os interessados em participar deste Pregão deverão dispor de chave de identificação e senha, pessoal e intransferível, obtidas junto ao provedor do sistema, onde também deverão informar-se a respeito do seu funcionamento, regulamento e receber instruções detalhadas para sua correta utilização. 4.4 O uso da senha de acesso pela licitante é de sua responsabilidade exclusiva, incluindo qualquer transação por ela efetuada diretamente, ou por seu representante, não cabendo ao provedor do sistema ou a CEAGESP responsabilidade por eventuais danos decorrentes do uso indevido da senha, ainda que por terceiros. 4.5 Não poderão participar deste Pregão: a) consórcio de empresa, qualquer que seja sua forma de constituição; b) empresa em recuperação extrajudicial e com processo de falência, em concordata ou recuperação judicial decretadas em sentença transitada em julgado; c) empresa suspensa de licitar e contratar com a CEAGESP; d) empresa que esteja declarada inidônea para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade; e) empresa cujo objeto social não seja pertinente e compatível com o objeto deste Pregão; f) pessoa física ou empresa que tenha débitos para com a CEAGESP g) empresa em cuja composição societária possua sócios de empresas suspensas de licitar, contratar e/ou tenha débitos para com a CEAGESP;
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+2/51
+
+h) empresa que, comprovadamente por sua culpa, não tenha cumprido integralmente contrato com a CEAGESP, independentemente do objeto contratado; e, i) cooperativa de mão-de-obra, de acordo com o Termo de Conciliação Judicial firmado entre o Ministério Público do Trabalho e a Procuradoria Geral da União em 05/06/2003. 4.6 Como requisito para participação neste Pregão, a licitante deverá declarar, em campo próprio do sistema eletrônico, que está ciente e concorda com as condições contidas neste edital e que cumpre plenamente os requisitos de habilitação definidos no item 5 - DA HABILITAÇÃO. 4.7 A declaração falsa relativa ao cumprimento dos requisitos de habilitação e proposta sujeitará a licitante às sanções previstas neste Edital. 5. DA HABILITAÇÃO 5.1- A habilitação das licitantes será verificada por meio do SICAF, nos documentos por ele abrangidos, e por meio da documentação complementar especificada neste Edital. 5.1.1- A licitante deverá apresentar habilitação parcial válida no SICAF ou apresentar os documentos que supram tal habilitação. 5.2- A licitante deverá apresentar, ainda, a seguinte documentação complementar: a) declaração de que não possui, em seu quadro de pessoal, empregado com menos de 18 (dezoito) anos em trabalho noturno,perigoso ou insalubre e de 16 (dezesseis) anos em qualquer trabalho, salvo na condição de aprendiz a partir de 14 anos, nos termos do inciso XXXIII do art. 7º da Constituição Federal. a.1) a declaração de que trata esta subcondição deverá ser preenchida de forma eletrônica, em campo próprio do Sistema, por ocasião do envio da proposta. b) Comprovação de Registro da Plataforma RAD junto ao INPI ­ Instituto Nacional da Propriedade Industrial e junto a ABES ­ Associação Brasileira das Empresas de Software, ou junto a ASSESPRO - Associação das Empresas Brasileiras de Tecnologia da Informação. c) Comprovação de aptidão técnica para desenvolvimento, instalação, configuração e mentoring, mediante apresentação de Certificado emitidas pelo fabricante da Plataforma RAD em nome da empresa licitante. d) Comprovação de aptidão técnica para desenvolvimento, instalação, configuração e mentoring, mediante a apresentação de Certificado emitido pelo fabricante da Plataforma RAD, dos Cursos de Certificação ITIL, PMI e curso Superior em Tecnologia comprovado através de certificados de conclusão em nome dos profissionais a serem alocados no projeto.
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+3/51
+
+e) Um ou mais atestado(s) de capacidade técnica, em nome da licitante, fornecidos por pessoas jurídicas de direito público ou privado, em papel timbrado do emitente, assinado, com telefone, fax, e-mail, CNPJ e endereço de identificação do assinante, comprovando aptidão para o desempenho de atividade pertinente e compatível em características, quantidades e prazos com o objeto desta licitação. e.1) A capacidade técnica das licitantes também poderá ser atestada mediante diligências promovidas pela CEAGESP, visando à efetiva comprovação da citada capacidade das licitantes de atender os ditames do presente edital e seus anexos. f) Balanço Patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, que comprovem a boa situação financeira da empresa, vedada a sua substituição por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais quando encerrados há mais de 03 (três) meses da data de apresentação da proposta. g) A boa situação financeira será avaliada pelos índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC) resultantes da aplicação das seguintes fórmulas abaixo, extraídas da Instrução Normativa nº 05/95, que implantou o Sistema de Cadastramento Unificado de Fornecedores ­ SICAF:
+
+ATIVO CIRCULANTE + REALIZ. A LONGO PRAZO LG = -----------------------------------------------------------------------PASSIVO CIRCULANTE + EXIG. A LONGO PRAZO ATIVO TOTAL SG = ------------------------------------------------------------PASSIVO CIRCULANTE + EXIG. A LONGO PRAZO ATIVO CIRCULANTE LC = ---------------------------------------------------------------PASSIVO CIRCULANTE g.1) Comprovação de que possui patrimônio liquido mínimo de 10% (dez por cento) do valor da contratação , se qualquer dos índices de Liquidez Geral, Solvência Geral e Liquidez Corrente, a serem apurados por intermédio da consulta on-line ao SICAF apresentar resultado igual ou menor que 1 (um).
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+4/51
+
+h) Atestado de visita técnica - ANEXO II; i) Declaração de Propriedade Intelectual ­ ANEXO III; j) Certidão negativa de Falência, Concordata ou Recuperação judicial, expedida pelo distribuidor judicial da sede da licitante (Justiça Estadual). 5.3-A verificação em sítios oficiais de órgãos e entidades emissores de certidões constitui meio legal de prova. Quando omissas quanto ao prazo de validade, deverão ter sido expedidas a menos de 180 (cento e oitenta) dias da data da apresentação da proposta comercial. 6. DA FORMA DE ENCAMINHAMENTO DAS PROPOSTAS DE PREÇOS 6.1-As propostas de preços deverão ser encaminhadas pelas licitantes, exclusivamente por meio do sistema eletrônico, até a data e horário marcados para abertura da sessão, quando, então, encerrar-se-á automaticamente a fase de recebimento de propostas. 6.2-Até a abertura da sessão, a licitante poderá retirar ou substituir a proposta anteriormente encaminhada. 6.3-O preço deverá ser proposto em valor por item anual do serviço ofertado, em moeda nacional, contendo a descrição do serviço, de acordo com especificações e solicitações contidas no Anexo I. 6.4-Nos preços cotados, deverão estar incluídos todos os insumos que os compõem, tais como as despesas com tributos, taxas, seguros e quaisquer outros que incidam direta ou indiretamente na contratação dos serviços objeto desta Licitação. 6.4.1 - No valor cotado, quando o licitante for domiciliado fora do Estado de São Paulo, deverá estar incluso o ICMS do Estado de São Paulo e não o do Estado de Origem, para compor o aludido valor, uma vez que por força de legislação tributária a CEAGESP é obrigada a recolher o diferencial de alíquota entre o Estado de Origem e de São Paulo. O diferencial será descontado da fatura. 6.5-O prazo de validade da proposta deve ser de 60 (sessenta) dias corridos, contados da data da entrega das propostas. A CEAGESP poderá solicitar prorrogação da validade referida, por igual prazo. 6.5.1-Decorrido o prazo de validade das propostas, sem convocação para assinatura da Ata de Registro de Preços, ficam as licitantes liberadas dos compromissos assumidos. 6.6- No caso de empate entre duas ou mais propostas, a classificação se fará, obrigatoriamente, por sorteio, em ato público, para o qual todos os licitantes serão convocados, vedado qualquer outro processo. 6.7. Qualquer elemento que possa identificar a licitante importa a desclassificação da proposta.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+5/51
+
+7. DA SESSÃO DO PREGÃO 7.1- No dia e horário marcados, ocorrerá a sessão pública deste Pregão, dirigida pelo Pregoeiro(a) designado para o evento, no sítio www.comprasnet.gov.br, em conformidade com este Edital e seus Anexos, com a divulgação dos valores das propostas eletrônicas recebidas, não havendo nesse momento a identificação dos participantes. 7.2. A comunicação entre o Pregoeiro(a) e as licitantes ocorrerá exclusivamente mediante troca de mensagens, em campo próprio do sistema eletrônico. 7.3. Cabe à licitante acompanhar as operações no sistema eletrônico durante a sessão pública do Pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de qualquer mensagem emitida pelo sistema ou de sua desconexão. 7.4. Da Classificação das Propostas 7.4.1. O Pregoeiro(a) verificará a conformidade das propostas com os requisitos estabelecidos neste Edital, motivadamente, aquelas que estiverem em desacordo com este Edital, observados os requisitos, as especificações técnicas e os parâmetros mínimos de desempenho. 7.4.2. Somente as licitantes com propostas classificadas participarão da fase de lances. 7.4.2.1. O sistema ordenará, automaticamente, as propostas classificadas pelo Pregoeiro(a). 7.4.3. O desatendimento de exigências formais não essenciais não importará no afastamento da licitante, desde que, sejam possíveis as aferições das suas qualificações e as exatas compreensões da sua proposta, durante a realização da sessão pública do pregão. 7.5. Dos Lances 7.5.1. Aberta a etapa competitiva, as licitantes classificadas poderão encaminhar lances exclusivamente por meio do sistema eletrônico, sendo imediatamente informadas do recebimento e respectivo horário de registro e valor. 7.5.2. As licitantes poderão oferecer lances sucessivos, não sendo aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar. 7.5.3. A licitante somente poderá oferecer lance inferior ao último por ela ofertado e registrado no sistema. 7.5.4. Durante o transcurso da sessão, as licitantes serão informadas, em tempo real, do valor do menor lance registrado, vedada a identificação da ofertante.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+6/51
+
+7.5.5. Os lances apresentados e levados em consideração para efeito de julgamento serão de exclusiva e total responsabilidade da licitante, não lhe cabendo o direito de pleitear qualquer alteração, seja para mais ou para menos. 7.5.6. Durante a fase de lances, o Pregoeiro(a) poderá excluir, a seu critério, lance cujo valor for considerado inexeqüível. 7.5.7. A desistência em apresentar lance implicará na manutenção do último preço apresentado pela licitante, para efeito de ordenação das propostas. 7.5.8. A etapa de lances da sessão pública será encerrada por decisão do Pregoeiro(a). 7.5.9. O sistema eletrônico encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até 30 (trinta) minutos, aleatoriamente determinado, findo o qual será automaticamente encerrada a recepção de lances. 7.6. Da Desconexão do Pregoeiro(a)
+
+7.6.1. Se ocorrer a desconexão do Pregoeiro(a) no decorrer da etapa de lances, se o sistema eletrônico permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados. 7.6.2. No caso de desconexão do Pregoeiro(a) por tempo superior a 10 (dez) minutos, a sessão do Pregão será suspensa automaticamente e terá reinício somente após comunicação expressa aos participantes no sítio www.comprasnet.gov.br. 7.7. Da Negociação 7.7.1. Após o encerramento da etapa de lances, o Pregoeiro(a) poderá encaminhar contraproposta diretamente à licitante que tenha apresentado o lance mais vantajoso, para que seja obtida melhor proposta, observado o critério de julgamento e o valor de referência, não se admitindo negociar condições diferentes das previstas neste Edital. 7.7.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelas demais licitantes. 7.8. Da Aceitabilidade da Proposta 7.8.1. Encerrada a etapa de lances e concluída a negociação, quando houver, o Pregoeiro(a) examinará a proposta classificada em primeiro lugar, quanto à compatibilidade do preço em relação ao valor estimado para a contratação. 7.8.2. Não será considerada qualquer oferta de vantagem não prevista neste Pregão, inclusive financiamentos subsidiados ou a fundo perdido. 7.8.3. Será rejeitada a proposta que apresentar valores irrisórios ou de valor zero, incompatíveis com os preços de mercado acrescidos dos respectivos encargos, exceto quando se referirem a materiais e instalações de propriedade da licitante, para os quais ela renuncie à parcela ou à totalidade da remuneração.
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+7/51
+
+7.8.4. O Pregoeiro(a) poderá solicitar parecer da área técnica ou jurídica da CEAGESP, para orientar sua decisão. 7.8.5. No julgamento das propostas, o Pregoeiro(a) poderá sanar erros ou falhas que não alterem a substancia das propostas, dos documentos e sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de habilitação e classificação. 7.8.6. Se a proposta do primeiro colocado não for aceitável ou se a licitante não atender às exigências habilitatórias, o Pregoeiro(a) examinará a proposta subseqüente e, assim, sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda a todos os requisitos do edital. 7.8.7. Havendo aceitação da proposta classificada em primeiro lugar quanto à compatibilidade de preço, o Pregoeiro(a) solicitará da respectiva licitante o encaminhamento dos documentos de habilitação. 7.8.8. O Pregoeiro(a) fixará prazo à licitante para o envio da proposta de preços contendo as especificações detalhadas do objeto, com os preços unitário e total, e Quadro Quantitativo, readequados ao lance vencedor. Será exigida somente para a aceitação de proposta da licitante melhor classificada. 7.9. Do Exame dos Documentos de Habilitação 7.9.1. Superada a fase de classificação, o Pregoeiro(a) passará ao exame da habilitação das licitantes através de consulta "on-line" ao Sistema de Cadastro Unificado de Fornecedores - SICAF, nos documentos por ele abrangidos, e por meio da documentação complementar especificada no item 5.2. 7.9.2. A licitante deverá apresentar habilitação parcial válida no SICAF e cumprir com o disposto no inciso XXXIII, do art. 7º, da Constituição Federal. 7.9.3. A verificação em sítios oficiais de órgãos e entidades emissores de certidões constitui meio legal de prova. 7.9.4. Os documentos que não estejam contemplados no SICAF, inclusive quando houver necessidade de envio de anexos, deverão ser encaminhados via FAX (11) 36433875 no prazo de 2 (duas) horas. Os documentos e anexos exigidos, quando remetidos via fax, deverão ser apresentados em original ou por cópia autenticada, no prazo de 48 horas após o encerramento da sessão. 7.9.4.1. Sob pena de inabilitação, os documentos encaminhados para habilitação deverão ser apresentados em original, ou em cópia autenticada em Cartório competente, ou publicação em órgão da Imprensa Oficial ou em cópias simples, desde que acompanhadas dos originais para conferência e autenticação do Pregoeiro(a) ou de sua equipe; estar em nome da licitante, e, preferencialmente, com o número do CNPJ e o respectivo endereço.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+8/51
+
+7.9.4.2. Não serão aceitos "protocolos de entrega" ou "solicitação de documentos" em substituição aos documentos requeridos no presente Edital e seus Anexos. 7.9.4.3. Se a licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se a licitante for a filial, todos os documentos deverão estar em nome da filial, exceto aqueles documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome da matriz. 7.9.5. Havendo necessidade de analisar os documentos exigidos no item 5.2 o Pregoeiro(a) suspenderá a sessão informando no "chat" o novo dia, data e horário para continuidade da sessão pública. 7.9.6.Se o primeiro colocado não for considerado habilitado, serão convocadas as demais licitantes, na ordem de classificação, para exame de seus documentos de habilitação. 7.9.7.A licitante deverá apresentar, no prazo máximo fixado pelo(a) Pregoeiro(a), Proposta Comercial e o Quadro Quantitativo, no molde daquele constante do ANEXO I, adequando os preços unitários ao valor total proposto. 7.9.8.Constatado o atendimento às exigências fixadas neste Edital, a licitante será declarada vencedora. 7.10. Dos Recursos 7.10.1. Declarado o vencedor, qualquer licitante poderá, durante a sessão pública, de forma imediata e motivada, em campo próprio do sistema, manifestar sua intenção de recorrer. 7.10.2.O Pregoeiro(a) fará juízo de admissibilidade da intenção de recurso manifestada, aceitando-a ou, motivadamente, rejeitando-a, em campo próprio do sistema. 7.10.3. A recorrente que tiver sua intenção de recurso aceita deverá registrar as razões do recurso, em campo próprio do sistema, no prazo de 3 (três) dias, ficando as demais licitantes, desde logo, intimadas a apresentar contra-razões, também via sistema, em igual prazo, que começará a correr do término do prazo da recorrente, sendo-lhes assegurada vista imediata dos autos do processo. 7.10.4. Não serão conhecidos os recursos interpostos após os respectivos prazos legais, bem como os que forem enviados por fax e os que não contiverem a identificação e assinatura do responsável legal ou preposto da empresa. 7.10.5. A falta de manifestação imediata e motivada da intenção de interpor recurso, no momento da sessão pública deste Pregão, implica decadência desse direito, ficando o Pregoeiro(a) autorizado a adjudicar o objeto à licitante vencedora. 7.10.6. O recurso contra decisão do Pregoeiro(a) não terá efeito suspensivo. 7.10.7. O acolhimento do recurso importará na invalidação apenas dos atos insuscetíveis de aproveitamento.
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+9/51
+
+7.10.8. A decisão do Pregoeiro(a) deverá ser motivada e submetida à apreciação da autoridade competente. 7.11. Do Registro dos Atos da Sessão 7.11.1. A indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativas à sessão pública do Pregão constarão de ata divulgada no sistema eletrônico, sem prejuízo das demais formas de publicidade previstas na legislação pertinente. 7.11.2.Todas as atas emitidas pelo sistema serão assinadas pelo Pregoeiro(a) e sua Equipe de Apoio, e autuadas no processo.
+
+8. DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO 8.1. Inexistindo manifestação recursal, caberá ao Pregoeiro(a) a adjudicação do objeto da licitação à licitante vencedora, e a homologação do resultado pela autoridade competente da CEAGESP. 8.2. Havendo interposição de recurso, após o julgamento, caberá a autoridade competente da CEAGESP a adjudicação do objeto da licitação à licitante vencedora, seguindo-se a competente homologação do procedimento licitatório. 8.3. A homologação do resultado desta licitação não implicará em direito à assinatura da Ata de Registro de Preços com a CEAGESP.
+
+9. DOS ESCLARECIMENTOS E DA IMPUGNAÇÃO AO EDITAL 9.1-Até 02 (dois) dias úteis, antes da data fixada para abertura da sessão pública, qualquer pessoa poderá impugnar o presente edital, na forma eletrônica, através do e-mail cpl@ceagesp.gov.br. 9.2.- O Pregoeiro(a), auxiliado pelo setor responsável pela elaboração do Edital, decidirá sobre a petição no prazo de 24 horas. 9.2.1. Acolhida a impugnação contra este Edital, será designada nova data para a realização da licitação. 9.3. Os pedidos de esclarecimentos referentes a este processo licitatório, devem ser enviados ao Pregoeiro(a), até 03 (três) dias úteis antes da data fixada para abertura da sessão pública, exclusivamente por meio eletrônico, através do e-mail cpl@ceagesp.gov.br. 9.3.1. A resposta ao pedido de esclarecimento formulado será divulgada no endereço eletrônico www.comprasnet.gov.br, por meio do link Acesso Livre > Pregões > Agendados, ficando os interessados em participar do certame obrigados a acessá-la para a obtenção das informações prestadas.
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+10/51
+
+10. DA REVOGAÇÃO E DA ANULAÇÃO 10.1-O Presidente da CEAGESP poderá revogar a presente licitação por razões de interesse público decorrente de fato superveniente, ou anulá-la na hipótese de comprovada ilegalidade, sem que caiba aos interessados qualquer indenização, reembolso ou compensação. 11. DA ATA DE REGISTRO DE PREÇOS 11.1- Dos Prazos 11.1.1. A Ata de Registro de Preços terá validade por 12 (doze) meses, computadas nestes as eventuais prorrogações, contados a partir da data de sua assinatura, nos termos do art.4º, caput, do Decreto nº 3.931/2001.
+
+11.1.2.Fica estabelecido o prazo de 03 (três) dias úteis, a contar da convocação emitida
+pela SEAGE ­ Seção de Elaboração e Apoio à Gestão de Contratos, para assinatura da ATA DE REGISTRO DE PREÇOS, sob pena de aplicação da sanção descrita no item 12, deste edital. 11.1.3. A efetivação da contratação do serviço se caracterizará pela assinatura de termo de contrato ­ ANEXO V, podendo ser prorrogado pelo período de 48 (quarenta e oito) meses de acordo com o permissivo legal. 11.2- Da Manutenção das Condições de Habilitação
+
+.
+11.2-1. Para assinar a ATA DE REGISTRO DE PREÇOS o adjudicatário deverá comprovar a regularidade da habilitação parcial junto ao SICAF.
+
+11.3- Da Forma de Pagamento 11.3.1.Os pagamentos serão efetuados através do Departamento Financeiro da CEAGESP, através da emissão de boletos bancários e da Nota Fiscal Fatura, faturados para pagamento até o 5º (quinto) dia útil do mês subseqüente ao da prestação do serviço, após as emissões e aceite das notas fiscais que deverão especificar todas as operações, materiais e equipamentos realizados, com os valores e respectivas composições, nos termos da Cláusula Quinta do Anexo IV. 11.3.2. O prazo para pagamento ocorrerá a partir da liquidação da nota fiscal emitida, isto é, após o aceite da Nota fiscal de Fatura e relatório de medição por parte do gestor Técnico.
+
+12. DAS SANÇÕES 12.1. Recusando-se o adjudicatário a assinar a Ata de Registro de Preços no prazo estabelecido no item 11.1.2. ou não comprovando as condições de habilitação, estará sujeito às seguintes sanções, assegurado o direito de ampla defesa:
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+11/51
+
+a) Multa de 10 % (dez por cento) do valor de sua proposição de preços; b) Impedimento em licitar e contratar com a CEAGESP pelo prazo de até 02 (dois) anos e o descredenciamento do seu Cadastro de Fornecedores e no SICAF; c) Responder por perdas e danos ocasionados à CEAGESP, os quais serão apurados em competente processo, levando em conta as circunstâncias que tenham contribuído para a ocorrência do fato; d) Declaração de inidoneidade para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos. 12.2. Sem ·prejuízo das penalidades previstas nos subitens precedentes deste Edital, o Pregoeiro(a) ou a CEAGESP poderá, inabilitar a licitante ou desclassificar a proposta comercial sem que isto gere direitos indenizatórios ou de reembolso, caso tome conhecimento de fato ou circunstância que desabone a idoneidade comercial ou afete a capacidade financeira, técnica, jurídica ou de produção da licitante. 12.3. O Pregoeiro(a) poderá reconsiderar a punição aplicada, ou fazer subir o recurso à autoridade competente, devidamente informado, que decidirá pelo seu provimento ou não. 12.4. A licitante que injustificada e infundadamente se insurgir contra a decisão do Pregoeiro(a) ou autoridade superior, quer através da interposição de recurso administrativo ou ação judicial fica, desde logo, ciente que, caso seja o seu pedido indeferido, será acionada judicialmente para reparar danos causados à CEAGESP, se ficar comprovado, através do devido processo legal, que sua ação teve caráter procrastinatório. 12.5. Pelo ·inadimplemento total ou parcial da Ata de Registro de Preços, ou por imperícia, independentemente de rescisão, a adjudicatária ficará sujeita as penalidades previstas na Cláusula Décima do Anexo IV - Minuta da Ata de Registro de Preços. 12.6. Da Cumulação de Sanções
+
+12.6.1. As sanções de descredenciamento do Cadastro de Fornecedores da CEAGESP e do SICAF poderão ser aplicadas cumulativamente com a multa, facultada a defesa prévia, no prazo de cinco dias úteis, a contar da data de publicação na imprensa oficial. 12.7- Da Convocação das Licitantes Remanescentes 12.7.1. Caso o adjudicatário não apresente situação regular no ato da assinatura da Ata de Registro de Preços se recuse assinar o instrumento equivalente, serão convocadas para assiná-la as licitantes remanescentes, observada a ordem de classificação. 12.8 - Da Extensão das Penalidades 12.8.1. As sanções previstas no item 12.1. letras "b" à "d", e outras que couberem, poderão, também, ser aplicadas à licitante que:
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+12/51
+
+a) b) c) d) e)
+
+apresentar documentação falsa; ensejar o retardamento da execução do objeto do certame; não mantiver a proposta; falhar ou fraudar a execução da ATA; comportar-se de modo inidôneo ou cometer fraude fiscal.
+
+12.8.2. As sanções previstas nos itens anteriores poderão ser aplicadas em conjunto com o disposto na Lei 8.666/93 e demais legislações pertinentes. 12.8.3. As penalidades serão obrigatoriamente registradas no Sistema de Cadastramento de Fornecedores ­ SICAF, e no caso de suspensão de licitar, o licitante será descredenciado por igual período, sem prejuízo das multas previstas e das demais cominações legais.
+
+13. - CONSIDERAÇÕES FINAIS 13.1. Caso os prazos definidos neste edital não estejam expressamente indicados na proposta, os mesmos serão considerados como aceitos para efeito de julgamento deste Pregão. 13.2.Os licitantes não terão direitos a indenização em decorrência da anulação do procedimento licitatório, ressalvado o direito do contrato de boa-fé a ser ressarcido pelos encargos que tiver suportado no cumprimento do contrato. 13.3.Qualquer modificação no presente Edital será divulgada pela mesma forma que se divulgou o texto original, reabrindo-se o prazo inicialmente estabelecido, exceto quando, inquestionavelmente, a alteração não afetar a formulação da proposta. 13.4.Este Pregão poderá ter a data de abertura da sessão pública transferida, por conveniência exclusiva da CEAGESP.
+
+13.5. É facultada à CEAGESP, em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou a complementar a instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar originariamente da proposta.
+
+São Paulo, 04 de agosto de 2011. CEAGESP ­ COMPANHIA DE ENTREPOSTOS E ARMAZÉNS GERAIS DE SÃO PAULO
+
+WENCESLAU MASSAYUKI DAMURA Pregoeiro
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+13/51
+
+ANEXO I PROCESSO Nº 142/2010 PREGÃO ELETRÔNICO Nº 35/2011 TERMO DE REFERÊNCIA TERMO DE REFERÊNCIA PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE SERVIÇOS TÉCNICOS DE DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS APLICATIVOS WEB E DE FORNECIMENTO DE FERRAMENTA DE DESENVOLVIMENTO RÁPIDO DE APLICAÇÕES ­ RAD, INCLUINDO CAPACITAÇÃO, DESENVOLVIMENTO ASSISTIDO E SUPORTE TÉCNICO.
+
+1. OBJETO Contratação de serviços técnicos especializados em análise, desenvolvimento e manutenção de Sistemas, em regime de Fábrica de Software, utilizando-se a Técnica de Análise de Pontos de Função, conforme padronização do IFPUG, visando atender, de forma continuada, às necessidades de Tecnologia da Informação da CEAGESP, incluindo o fornecimento de ferramenta de desenvolvimento rápido de aplicações (RAD) para ambiente web, assim como capacitação técnica, desenvolvimento assistido e suporte técnico na ferramenta, conforme especificações, quantitativos e condições descritos abaixo:
+
+a) Desenvolvimento por Ponto de Função: 10.000 (dez mil) b) Licença: 10 (dez) c) Treinamento: 10 (dez) pessoas d) Mentoring Assistido: 1.000h (mil horas) e) Suporte on-line por prazo mínimo de 12 meses: para 10 (dez) licenças 2. JUSTIFICATIVA A CEAGESP se ressente da necessidade de aquisição de um software gerador de código fonte para agilizar os processos de Implantação e manutenção dos sistemas produzidos na Seção de Desenvolvimento de Sistemas. O mercado já dispõe hoje de uma gama de produtos, que podem contribuir sobremaneira para, no bojo do prosseguimento ao processo de modernização tecnológica da CEAGESP, dominarmos uma ferramenta capaz de assegurar a interação do usuário com a aplicação ao longo do ciclo de desenvolvimento, o que melhora a qualidade da aplicação, do ponto de vista do usuário, e assegura a
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+14/51
+
+implementação de todas as mudanças desejadas, garantindo desta forma maior desempenho das equipes de desenvolvedores. 3. GARANTIA
+
+3.1 O fornecedor deverá proceder a substituição necessária do produto, caso entregue com defeitos ou imperfeições.
+
+3.2 O fornecedor deverá dar garantia dos serviços de Implementação e de desenvolvimento realizados, com validade de 90 (noventa) dias, com relação a problemas técnicos de funcionamento, contados a partir da emissão do termo de aceite de cada módulo. 4. BENEFÍCIOS São esperados os seguintes benefícios com a presente contratação: a) Possibilidade de maiores integrações; b) Possibilidade de utilização de recursos para todas as unidades; c) Agilidade no atendimento a demanda de desenvolvimento e manutenção de sistemas; d) Maior produtividade no processo de desenvolvimento de sistemas melhorando o desempenho e reduzindo custos; e) Otimização no uso dos recursos destinados à área de sistemas por meio do estabelecimento de métrica de software;
+
+5. ABRANGÊNCIA E ESCOPO DOS SERVIÇOS A contratação dos serviços visa atender às necessidades de desenvolvimento de aplicativos, projetos, componentes de sistemas de informações, no conceito de fábrica de software, utilizando-se a análise de pontos de função para mensurar a funcionalidade, complexidade e permitir o dimensionamento dos custos para o desenvolvimento dos projetos, abrangendo: a) Apoio no desenvolvimento de novos projetos e sistemas de informação sejam eles transacionais ou de suporte a decisão;
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+15/51
+
+b) Apoio no desenvolvimento e manutenção de programas e rotinas existentes; c) Apoio no desenvolvimento e manutenção de sistemas de suporte as decisões existentes; d) Apoio no desenvolvimento e manutenção do Portal e da Intranet da CEAGESP; e) Teste e registro de testes, validação e documentação das soluções implementadas; Os serviços a serem prestados são de natureza técnica, envolvendo, de um modo geral, a identificação e a análise de problemas, a formulação de alternativas de solução, e o detalhamento destas alternativas. Todos os arquivos como os códigos fonte, documentação original, levantamentos, protótipos, modelos e qualquer outro arquivo que faça parte do projeto ou que se faça necessário como imagens, bibliotecas, etc, devem ser produzidos
+
+preferencialmente em software livre e estarem disponíveis em nosso servidor, salvo quando especificado. As atividades de codificação deverão estar em conformidade com os padrões de codificação definidos pela CEAGESP, devendo ser formalizado: a) A equipe de técnicos e consultores que realizará o trabalho. b) Os responsáveis pelo projeto em cada área. c) Agendamento para as visitas, reuniões para coleta de requisitos implementações ou testes. d) Um cronograma de desenvolvimento, pós levantamento . e) Todas as tecnologias envolvidas devem ser niveladas para o padrão da época do desenvolvimento ou disponibilidade da CEAGESP. As atividades de testes de programas (controle e garantia da qualidade) deverão abranger os aspectos abaixo, independentemente da tecnologia utilizada: Todos os testes devem abranger "Testes de Volume", fornecendo a apuração de suas métricas quando assim couber como, por exemplo, tempo de execução.
+
+Teste Unitário: Verificação de um componente de um software, através de teste funcional, desenvolvido a partir da especificação das funções previstas para componente, ou de teste estrutural, desenvolvido a partir da descrição da estrutura do componente.
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+16/51
+
+Teste de Integração: Técnica sistemática para construção da estrutura de programa, realizando-se ao mesmo tempo teste para descobrir erros associados a interfaces. O objetivo é, a partir dos módulos testados ao nível de unidade, construir a estrutura de programa que foi determinada pelo projeto. O teste de integração cuida das questões associadas aos duplos problemas da verificação e construção de programas.
+
+O resultado de cada teste (evidência objetiva), para cada versão de programa desenvolvido, deverá ser entregue à CEAGESP, juntamente com a versão do programa.
+
+Os serviços técnicos profissionais de desenvolvimento por Ponto de Função deverão ser executados por pessoal fornecido pela COMPROMISSÁRIA, nas instalações e com recursos tecnológicos e físicos fornecidos pela mesma (off-site). Este segmento de serviços será dimensionado através da métrica de Análise Pontos de Função, utilizando a padronização do IFPUG V.4.1 ou superior, que mede as funcionalidades requisitadas e recebidas pelo usuário para Projetos de
+
+Desenvolvimento e de Manutenção, independentemente da tecnologia utilizada. Isso permitirá que a CEAGESP efetue desembolsos exclusivamente pelos serviços efetivamente prestados, concentre-se no gerenciamento dos resultados, flexibilize o atendimento de demandas e, principalmente, calcule de forma confiável o preço a ser pago pelos serviços realizados. 6. PRAZO DO REGISTRO DE PREÇO O prazo de validade do Registro de Preço será de um ano, a contar da data de assinatura da ata pelo licitante vencedor. 7. PRAZO PARA ENTREGA / EXECUÇÃO As licenças serão entregues em 30 (trinta) dias , dentro do prazo de validade do Registro de Preço, à medida que o CEAGESP demandar novas quantidades de licenças e a execução dos serviços deverão ser iniciados no prazo de até 30 dias úteis da assinatura do termo de contrato ­ ANEXO V.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+17/51
+
+8. FORMA DE PAGAMENTO Os pagamentos serão efetuados através do Departamento Financeiro da CEAGESP, através da emissão de boletos bancários e da Nota Fiscal Fatura, faturados para pagamento até o 5º (quinto) dia útil do mês subseqüente ao da prestação do serviço, após as emissões e aceite das notas fiscais que deverão especificar todas as operações, materiais e equipamentos realizados, com os valores e respectivas composições, nos termos da Cláusula Quinta do Anexo IV. O prazo para pagamento ocorrerá a partir da liquidação da nota fiscal emitida, isto é, após o aceite da Nota fiscal de Fatura e relatório de medição por parte do gestor Técnico. 9. RESPONSABILIDADES DA COMPROMISSÁRIA 9.1. A COMPROMISSÁRIA é responsável por todos os encargos fiscais, previdenciários e obrigações previstas na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época apropriada; 9.2. A COMPROMISSÁRIA é responsável por todas as despesas dos seus técnicos, necessárias à execução do serviço; 9.3. A COMPROMISSÁRIA é responsável também por todas as providências e obrigações estabelecidas na legislação específica de acidentes de trabalho, quando forem vítimas seus técnicos no desempenho dos serviços e em conexões com ele, ainda que acontecidos nas dependências da Contratante. 10. RESPONSABILIDADES DA COMPROMISSÁRIA 10.1. Disponibilizar a infra-estrutura necessária para a execução das atividades de treinamento, quando for o caso, e de consultoria on site; 11. RESPONSÁVEL PELOS SERVIÇOS O Departamento de Tecnologia da Informação ­ DETIN será o órgão da Contratante responsável pelo acompanhamento e fiscalização dos serviços executados pela COMPROMISSÁRIA.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+18/51
+
+ESPECIFICAÇÕES TÉCNICAS
+1.ESPECIFICAÇÕES OBRIGATÓRIOS TÉCNICAS PARA A FERRAMENTA RAD ­ REQUISITOS
+
+1.1Gerar sistemas que sejam capazes de se comunicar com outros sistemas através dos padrões de mercado, principalmente webservices. 1.2Gerar sistema compatível com os seguintes bancos de dados: SQL Server, Oracle, Postgree, FireBird e MySQL. 1.3Possibilitar a operação e manutenção do sistema gerado independente da ferramenta em que este foi desenvolvido. 1.4Dispor de instaladores e desinstaladores pelo menos para a versão Windows. 1.5Possuir controle de acesso integrado. 1.6Possuir controle de acesso baseado em grupos de usuários para desenvolvimento e uso das aplicações. 1.7Cobrir as seguintes etapas do ciclo de vida de desenvolvimento de software: prototipação, implementação, teste e documentação. 1.8Gerar sistemas aplicativos para a plataforma Web, compatíveis com AJAX. 1.9Gerar sistemas com arquitetura, no mínimo em três camadas (cliente, servidor e banco de dados). 1.10Gerar sistemas com independência do Sistema Operacional. 1.11Possuir procedimentos totalmente visuais, tanto no desenvolvimento de rotinas de software quanto no design de interfaces. 1.12Permitir a confecção de aplicações sem conhecimentos específicos em linguagens de programação, porém, garantindo aderência às premissas técnicas especificadas conforme demais requisitos expostos. 1.13Ser de fácil manuseio, absorção e aprendizado permitindo a capacitação das equipes de desenvolvimento em um curto espaço de tempo. 1.14 Gerar sistemas em diferentes linguagens de programação, contemplando pelo menos Java e .Net. 1.15Gerar de forma automática toda documentação de projeto em formato digital dos sistemas produzidos (pelo menos nos formatos DOC ou HTML).
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+19/51
+
+1.16Permitir versionamento dos objetos criados (formulários, relatórios, regras de negócios e menus). 1.17Ser homologado para execução no servidor JBOSS, Apache Tomcat 5.5 ou superior e IIS. 1.18Ser baseado no conceito de controle de transação, mantendo a integridade do Banco de Dados em casos de queda de energia e falha de hardware / software/cleint. 1.19Suporte à execução da aplicação nos navegadores Internet Explorer, Firefox, Chrome, Opera compatíveis com as versões de uso de mercado e últimas versões finais, seguindo as recomendações da W3C sem o uso de hack's . 1.20Possuir um repositório de objetos para reuso completo ou parcial. 1.21Possuir um visualizador de dependências (Análise de Impacto e Mudanças). 1.22Dispor dos recursos necessários para trabalhar com leitores biométricos. 1.23Permitir a manipulação de arquivos XML. 1.24Gerar aplicações com log de auditória, de forma automática e parametrizável. 1.25Permitir a criação e manutenção do banco de dados de acordo com a estrutura dos formulários. 1.26Permitir que os sistemas criados sejam capazes de autenticar o usuário da aplicação gerada no Active Directory e LDAP. 1.27Gerar aplicações com suporte a biometria. 1.28Consumir (chamar/executar) componentes COM 1.29Deve permitir a duplicação de recursos ex.: tela, processos, etc. 1.30Permitir realização de testes e simulações sem a disponibilização em produção do recurso. 1.31 Ser capaz de funcionar normalmente em ambiente virtualizado. 1.32 O sistema deve trabalhar simultaneamente com mais de um banco de dados. 2.CARACTERÍSTICAS GERAIS OBRIGATÓRIAS PARA OS SISTEMAS GERADOS 2.1 As características Gerais discriminadas abaixo são aplicáveis a todos os sistemas disponibilizados pela COMPROMISSÁRIA. 2.2 Para o desenvolvimento das atividades, deve-se utilizar uma abordagem ágil como SCRUM, RUP ou XP, utilizando notações UML. 2.3 Todos os sistemas devem possuir uma seção de gerencia on-line contendo:
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+20/51
+
+a) Seção para cadastro e gerência de perfis e usuários, unificada. b) Seção para cadastro e manutenção de parâmetros. 2.4 Todo parâmetro deve ter opção de cadastro ou alteração via interface, nunca deve estar fixo no código. 2.5 Os Sistemas deverão possuir interface amigável, de operacionalização simples, intuitiva e simplificada, exigindo pouco trabalho do usuário. 2.6 Os Sistemas deverão possuir uma ferramenta para permitir a criação de Exportações e Importações para arquivos texto com os dados e layout definidos pelo usuário. 2.7 Os Sistemas deverão possuir uma ferramenta que permita a Geração de Gráficos de diversos tipos e formatos, a partir de dados a serem selecionados pelo usuário. 2.8 Os Sistemas deverão possuir um Gerador de Consultas Avançado permitindo ao usuário a escolha dos dados (mais de uma coluna) e a sua classificação segundo os critérios: igual, diferente, maior ou igual, menor ou igual, começando com, contendo, período, período relativo. Este mecanismo deverá permitir salvar esta consulta para sua posterior utilização. 2.9 Os Sistemas deverão possuir um Gerador de Relatórios permitindo ao usuário criar seus próprios relatórios, escolhendo os dados, os filtros, a classificação, os cálculos e a definição do layout. 2.10Os Sistemas deverão possibilitar visualizar em tela todos os relatórios gerados pelos sistemas, antes de sua impressão, e permitir escolher a impressora da rede onde se deseja fazer a impressão. 2.11Os Sistemas deverão possibilitar gravar arquivos nos formatos TXT, RTF, HTML, PDF e XLS, todos os relatórios Gerados pelo sistema ou outros formatos livres. 2.12Os Sistemas deverão possuir manual em formato de help on-line em português sensível ao contexto com acesso através de tecla atalho. 2.13Os Sistemas deverão possuir integração total com todos os outros sistemas. 2.14Os Sistemas deverão possuir telas com um grid configurável que permitam ocultar a visualização das colunas indesejáveis.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+21/51
+
+2.15Os Sistemas deverão possuir um mecanismo de ordenação das colunas de forma crescente ou decrescente. 2.16Os Sistemas deverão possuir telas com um mecanismo de memorização das ultimas configurações realizadas quanto ao posicionamento da tela, exibição das colunas e sua ordenação. 2.17Os Sistemas deverão possuir telas com a opção de exportar o conteúdo visualizado para os formatos TXT, HTML, XML, clipboard, ou outros formatos livres. 2.18Possibilitar que o trafego de dados seja totalmente criptografado. 2.19Os Sistemas deverão possuir telas com a opção de impressão direta do conteúdo visualizado. 2.20Os Sistemas deverão possuir telas com a opção de importação de dados a partir de arquivos de origens nos formato TXT, DBF, Access, XML, interbase/firebird e ODBC, fazendo o mapeamento dos campos a serem importados e permitindo apagar ou não os dados já existentes na tabela de destino. 2.21Os Sistemas deverão possuir um editor de Fórmulas com diversas funções disponíveis e verificador de expressão criada. 2.22Os Sistemas deverão possuir um gerenciador de "Permissão de Acesso" para cada sistema e para cada usuário por grupos, permitido a inclusão, alteração e exclusão do usuário pelo administrador dos sistemas. 2.23Os Sistemas deverão permitir efetuar login de acesso remoto criptografado. 2.24Os Sistemas deverão permitir a visualização das opções do menu somente para usuários que possuem autorização de acesso. 2.25Os Sistemas deverão permitir registrar todas as operações de acesso, inclusão, alteração, exclusão e dados, efetuada pelo usuário, por data e terminal de acesso, (log) para posterior realização de auditoria interna pelos usuários autorizados. 2.26A rede utilizada é a própria do cliente (LAN e WAN) com os computadores interligados usando o Sistema Operacional Windows e Linux. Os sistemas compartilharão seus dados em rede com vários acessos ao mesmo tempo (multiusuários) e vários processamentos ao mesmo tempo (multitarefas). Diversos usuários do sistema contábil
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+22/51
+
+poderão, por exemplo, empenhar ao mesmo tempo, emitir relatórios e também fazer consultas no sistema. 2.27Os Sistemas deverão possuir recursos de ajuda com informações sobre a utilização dos mesmos durante a sua operação (help on line). Em cada tela do sistema deverá ser exibida, através de uma tecla rápida, todas as informações para ajuda no preenchimento de cada campo da tela. Com isto os usuários terão mais segurança e agilidade no trabalho. 2.28Todos os sistemas deverão conter gerador de relatórios com a opção de execução de rotinas ou procedimentos armazenados em bancos de dados antes e após a chamada deste, para criação e análise de opções solicitadas pelo cliente. Este gerador de relatórios deverá ser capaz de confeccionar e emitir em pouco tempo, relatórios e consultas criadas pelo próprio usuário dentro do cliente, além de permitir ordenação, totais, subtotais, quebras, agrupamento e outras parametrizações. Também deve ser possível a chamada de subrelatórios de maneira interna. 2.29Todos os Sistemas deverão possuir um controle completo de senhas para cada usuário e para cada função do sistema. Através da senha de acesso de cada usuário é possível o controle de acesso a cada tela do sistema e dentro de cada tela o acesso a cada componente e transação como a inclusão de um cadastro, a alteração, a consulta e a exclusão também serão autorizadas para cada senha. Sendo assim, otimizando o nível de segurança dos dados do cliente uma vez que um usuário não autorizado a excluir ou alterar informações somente poderá consultá-los naquela tela. 2.30Todos os Sistemas deverão possuir integridade de dados. Apresentarão também um recurso completo de auditoria interna do sistema com parametrização. Todas as transações e dados (Inclusão, alteração, exclusão, etc.,) que ocorrerem em cada um dos sistemas e em cada uma das telas, serão registradas em um arquivo específico para este fim. Havendo a necessidade, usuários previamente autorizados, emitirão o relatório de auditoria, onde deverá constar a data, hora, senha de acesso e todas as transações em cada sistema e de cada usuário da rede. 2.31A COMPROMISSÁRIA deverá disponibilizar suporte técnico, com a operação do computador do cliente a distancia, através de site, sem a necessidade de visita pessoal. 2.32Todos os módulos têm número de cadastros ilimitados.
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+23/51
+
+2.33Todos os sistemas fornecidos deverão permitir que a partir da Ferramenta RAD, objeto deste certame, seja possível a criação e/ou alteração de todas as telas, base de dados, implementação de novos campos e de novas regras de negócio, novas opções nos menus, elaboração de listagens e relatórios, permitindo assim a CEAGESP efetuar qualquer mudança em todos os menus, telas, relatórios, processamentos, com o intuito de atender a demanda e conveniência dos setores envolvidos no âmbito dos sistemas para torná-lo mais eficiente, sem prévio aviso à Empresa COMPROMISSÁRIA. 2.34Possuir a capacidade de executar e, se for o caso, receber resposta de aplicativo externo. 2.35Todo o processamento que exija maiores processamentos, deve ser executado pela camada de aplicação, BD ou serviço (Web service). 2.36Se for necessário para controle/funcionamento do aplicativo, os dados/dicionário deste, nunca devem se misturar com os dados de negócio 2.37Toda a documentação deve ser feita e salva preferencialmente em formato de software aberto. 2.38Todos os dados armazenados nas tabelas no BD devem obrigatoriamente estar normalizados ao menos até a 3ªFN (terceira forma normal). 2.39A geração de relatórios e processamentos massivos não devem ultrapassar 50 minutos.
+
+3.LICENÇAS PARA DESENVOLVIMENTO CARACTERÍSITCA(S): Licença de desenvolvedor da ferramenta RAD, no caso em que a ferramenta necessite de software instalado no cliente e que a licença seja cobrada. Unidade: LICENÇA Quantidade mínima de contratação: 01 4.CAPACITAÇÃO NÍVEL BÁSICO CARACTERÍSTICA(S): treinamento para 10 (dez) alunos, num mínimo de 64 horas. Unidade: TURMA Quantidade mínima de contratação: 02
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+24/51
+
+5.DESENVOLVIMENTO ASSISTIDO CARACTERÍSTICA(S): desenvolvimento assistido no modelo de Mentoring. Unidade: HORA Quantidade mínima de contratação: 40h 6.SUPORTE TÉCNICO E GARANTIA DAS LICENÇAS DE DESENVOLVIMENTO CARACTERÍSTICA(S): consiste na manutenção corretiva e na atualização da versão das licenças de desenvolvimento, na prestação de serviços necessários para manter o ambiente de produção e de desenvolvimento em perfeito funcionamento, bem como dirimir as dúvidas técnicas relativas ao uso e à operação da ferramenta, como também as dúvidas relativas ao desenvolvimento de aplicações, pelo período de 12 (doze) meses. Unidade: ANO Quantidade mínima de contratação: 01 7.DESENVOLVIMENTO POR PONTO DE FUNÇÃO CARACTERÍSTICA(S): execução de serviços técnicos, especializados de análise, desenvolvimento e manutenção de sistemas, em regime de fábrica de software, utilizando-se a técnica do IFPUG, compreendendo atividades relativas à: levantamento de requisitos, especificação, análise, prototipação, projeto, codificação, testes, homologação, implantação, treinamento, documentação, integração e migração de sistemas de informação. Unidade: Ponto de Função Quantidade mínima de contratação: 400 Pontos de Função 8.ESPECIFICAÇÕES COMPLEMENTARES 8.1. FORMA DE LICENCIAMENTO DA FERRAMENTA RAD a) Licenciamento permanente por usuários desenvolvedores concorrentes e/ou simultâneos. b) O software poderá ser instalado em todas as máquinas da CEAGESP, porém a liberação para utilização do mesmo se dará por intermédio de hardkey ou de função interna, que deverá controlar e habilitar o número de usuários simultâneos. c) A licença da ferramenta RAD tem caráter permanente não tendo relação direta com questões de suporte que tem foco nas correções, atualizações e suporte, assim, não deverá ter mecanismos de bloqueio, limitações ou controles externos para esse fim, salvo Hard Keys, chaves ou outros fornecidas para autenticação do produto e que deve ser fornecido no momento da aquisição. d) As licenças devem possibilitar o uso em ambiente duplicados para teste.
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+25/51
+
+8.2. TREINAMENTO DE DESENVOLVEDORES NO USO DA FERRAMENTA RAD a) A COMPROMISSÁRIA providenciará as configurações de software necessárias aos treinamentos dos usuários da ferramenta. b) As aulas poderão ser ministradas nas dependências da CEAGESP ou da COMPROMISSÁRIA, conforme decisão da CEAGESP, em dias úteis com duração máxima de 8 (oito) horas, utilizando sempre ambiente de teste instalado, quando será fornecido local apropriado e equipamentos necessários (microcomputador, projetor e tela de projeção) para o perfeito desempenho das atividades de treinamento. c) Para o curso, deverá ser fornecido material impresso e eletrônico. Certificados reconhecidos pela Fabricante, aos participantes. d) Deverá conter instruções de todos os recursos da ferramenta e em detalhes para uso de múltiplos Bancos de Dados. e) Deverá conter instruções dos procedimentos de instalação, configuração e manutenção dos ambientes abrangidos, inclusive questões sobre ambientes virtualizados.
+
+8.3. DESENVOLVIMENTO ASSISTIDO a) O desenvolvimento assistido consiste na prestação de serviço de auxílio ao desenvolvimento de, no mínimo, 1 (uma) aplicação ou funcionalidade, por um especialista em desenvolvimento de sistemas na ferramenta fornecida, com o objetivo de repassar conhecimento e melhores práticas em desenvolvimento de aplicativos no ambiente da solução. Também tem por fim dar maior velocidade à operacionalização do serviço de desenvolvimento de aplicações locais. b) O(s) profissional(is) alocado(s) para essa fase deverá(ão) ter certificado de desenvolvedor homologado pelo fabricante do produto ou por empresa devidamente autorizada pelo fabricante do produto, a ser apresentado no início da fase de desenvolvimento assistido. c) Para esta fase estão previstas até 1.000 (mil) horas de trabalho. d) A CEAGESP reserva-se o direito de solicitar a substituição do(s)
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+26/51
+
+profissional(is) locado(s) de forma fundamentada, por intermédio do órgão fiscalizador. e) A aplicação contemplada pelo desenvolvimento assistido será definida pela CEAGESP, compreendendo todos os serviços e requerimentos das fases de levantamento de requisitos, projeto, geração, testes,
+
+homologação e produção da aplicação. 8.4. OBRIGAÇÕES DA CONTRATANTE a) Permitir o acesso do pessoal técnico necessário à execução dos serviços, respeitadas as disposições legais regulamentares. b) Prestar à COMPROMISSÁRIA, em tempo hábil, as informações disponíveis e necessárias à execução dos serviços. c) Promover o acompanhamento e a fiscalização dos serviços prestados. d) Promover a homologação dos módulos, aplicações e sistemas
+
+desenvolvidos pela COMPROMISSÁRIA em até 15 dias úteis do seu respectivo recebimento dos mesmos pela CEAGESP. Findado este período, caso a CEAGESP não apresente solicitação de alteração ou ajuste, os mesmos serão considerados homologados e aceitos pela CEAGESP. e) Emitir os termos de aceite e/ou encaminhar para o ateste dos gestores e para as áreas usuárias, quando for o caso, as faturas emitidas e produtos dos serviços prestados. f) Notificar a COMPROMISSÁRIA, por escrito, admitindo-se a utilização de correio eletrônico, acerca da ocorrência de eventuais imperfeições no curso da execução dos serviços, fixando prazo para sua correção. g) Pagar as faturas de serviços e/ou produtos de acordo com as condições de pagamentos constantes deste Edital. h) Os pedidos de execução de serviço serão efetivados via OS (Ordem de Serviço).
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+27/51
+
+9.OUTROS ASPECTOS RELACIONADOS À IMPLANTAÇÃO E À MANUTENÇÃO DA SOLUÇÃO FORNECIDA 9.1. Responsabilidades Contratuais a) Não serão aceitas alegações posteriores de desconhecimento das características do ambiente de operacionalização, das máquinas nas quais os produtos serão instalados ou de processos que as ferramentas irão suportar. b) A COMPROMISSÁRIA deverá entregar o produto na sua versão mais recente e executar os serviços associados anteriormente descritos no Item "2" deste Anexo. c) A atualização contempla o fornecimento da última versão estável de ferramenta RAD. d) Deverá executar a primeira instalação do ambiente de produção acompanhada pelos técnicos da CEAGESP. e) A COMPROMISSÁRIA não poderá subcontratar, ceder ou transferir, total ou parcialmente, parte alguma do contrato. A fusão, cisão ou incorporação somente serão admitidas com o consentimento prévio e por escrito da CONTRATANTE e desde que não afetem a boa execução do contrato.
+
+9.2. Demais obrigações da COMPROMISSÁRIA a) Dar início à fase de operacionalização e capacitação perfil suporte (fase 1), no prazo estipulado no Item 6 deste Anexo. b) Entregar os componentes da solução, tais como a(s) mídia(s) de instalação e manual(is) original(is) do sistema fornecido(s) pelo fabricante, modelo de dados da ferramenta e licenças de uso do sistema no período correspondente à fase 1. c) Instalar todos módulos da ferramenta RAD nos servidores de aplicação e de banco de dados da CEAGESP , se a solução possuir tais módulos. d) Identificar e comunicar à contratante o(s) responsável(eis) pela interface de comunicação entre a COMPROMISSÁRIA e a CEAGESP . e) Acatar as orientações da contratante, sujeitando-se a mais ampla e irrestrita fiscalização, prestando os esclarecimentos solicitados e
+
+atendendo às reclamações formuladas.
+Pregoeiro COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+28/51
+
+f) Manter, durante toda a execução do contrato, as condições de habilitação e qualificação exigidas na licitação. g) Prestar esclarecimentos à contratante sobre eventuais atos ou fatos noticiados que a envolvam independentemente de solicitação. h) Tratar com sigilo e confidencialidade e não fazer uso indevido de quaisquer informações, dados, processos, fórmulas, códigos, modelos, diagramas e dispositivos relativos aos serviços contratados, utilizando-os para as finalidades previstas, não podendo revelá-los ou facilitar sua revelação a terceiros ou divulgá-los, sob as penalidades cabíveis.
+
+Planilha de Quantidades DESCRIÇÃO Licença Ferramenta RAD Suporte Ferramenta RAD UNID Licença Licença QTDE 10 10 10 10.000 1.000 VALOR UNITÁRIO VALOR TOTAL
+
+Treinamento para Ferramenta RAD Pessoa Desenvolvimento Por Ponto de PF Função Mentoring Assistido H/H
+
+Objeto Contratação de serviços técnicos especializados de desenvolvimento e manutenção de Sistemas e Aplicativos WEB
+
+CÓDIGO COMPRASNET 22128
+
+Valor total global em R$
+
+R$ 2.715.213,34
+
+VALOR TOTAL GLOBAL ESTIMADO: R$ 2.715.213,34 (dois milhões, setecentos e quinze mil, duzentos e treze reais e trinta e quatro centavos).
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+29/51
+
+ANEXO II PROCESSO Nº 142/2010 PREGÃO ELETRÔNICO Nº 35/2011 ATESTADO DE VISITA TÉCNICA
+
+Atestamos para fins de participação no Processo Licitatório epigrafado que o Sr ____________________________________, portador da cédula de identidade RG nº____________, representando a licitante ________________________________, inscrita no CNPJ sob nº ____________________, com sede na cidade de ___________________________, sito na Rua/ Av ________________________nº_______ - telefone (0xx00)_____________________, compareceu nas dependências da (Unidade respectiva), para tomar conhecimento de todas as informações e das condições locais para o cumprimento das obrigações objeto da licitação. A licitante declara ter visitado todas as áreas/dependências, eliminando todas as dúvidas relacionadas aos serviços previstos no Edital.
+
+São Paulo (SP), ____ de _______________de 2011.
+
+_________________________________________ Carimbo e Assinatura do representante CEAGESP
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+30/51
+
+ANEXO III PROCESSO Nº 142/2010 PREGÃO ELETRÔNICO Nº 35/2011 DECLARAÇÃO DE PROPRIEDADE INTELECTUAL
+
+DECLARO, para os devidos fins, que todos os produtos e toda a propriedade intelectual advindos da prestação dos serviços pela empresa .................................................., inscrita no CNPJ sob o Nº ................................, estabelecida no endereço ...................................................................., relativas à Pregão Eletrônico nº .........../2011, serão de propriedade exclusiva da CEAGESP.
+
+Cidade/UF, __ de ______ de _____.
+
+___________________________________________ Nome da empresa Representante Legal CPF Endereço ­ telefone E-mail
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+WENCESLAU MASSAYUKI DAMURA
+
+31/51
+
+ANEXO IV PROCESSO Nº142/2010 PREGÃO ELETRÔNICO Nº 35/2011 MINUTA DE ATA DE REGISTRO DE PREÇOS
+
+Pela presente ATA DE REGISTRO DE PREÇOS, de um lado a CEAGESP - COMPANHIA DE ENTREPOSTOS E ARMAZÉNS GERAIS DE SÃO PAULO, com sede na Avenida Doutor Gastão Vidigal, nº 1.946, CEP 05316-900, na Vila Leopoldina, no município de São Paulo, no Estado de São Paulo, inscrita no Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda - CNPJ/MF sob nº 62.463.005/0001-08, com Inscrição Estadual nº 111.350.904.113, doravante simplesmente denominada CEAGESP e, neste ato, representada na forma de seu Estatuto Social, por seu Diretor Presidente xxxxxxxxxxxxxxxxx (NOME COMPLETO), portador do RG nº X.XXX.XXX-X SSP/SP e do CPF/MF nº XXX.XXX.XXX-XX e por seu Diretor (Nomeação Completa) xxxxxxxxxxxxxxxxx (NOME COMPLETO), portador do RG nº X.XXX.XXX-X SSP/SP e do CPF/MF nº XXX.XXX.XXX-XX e, de outro lado, a RAZÃO SOCIAL DA COMPROMISSÁRIA , com sede na Avenida XXXXXX XXXXXX xxxxxxx, nº x.xxx, CEP xxxxxx-xxx, na Vila XXXXXXXXXX, no município de xxx xxxxx, no Estado de xxx xxxxxxxx, inscrita no Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda - CNPJ/MF sob nº xx.xxx.xxx/xxxx-xx, com Inscrição Estadual nº xxx.xxx.xxx.xxx, doravante simplesmente denominada COMPROMISSÁRIA , neste ato representada por xxxxxxxxxxxxxxxxx (NOME COMPLETO), portador do RG nº X.XXX.XXX-X SSP/SP e do CPF/MF nº XXX.XXX.XXXXX, têm entre si justo e acertado, a presente ata, de acordo com a documentação contida no Processo CEAGESP nº 142/2010, Pregão Eletrônico nº 35/2011, sujeitando-se as partes às determinações legais, e com integral observância da Lei nº 10.520 de 17 de julho de 2002 e Decretos nºs 5.450 de 31 de maio de 2005, 3.722 de 09 de janeiro de 2001, 4.485 de 25 de novembro de 2002, 3.931 de 19 de setembro de 2001, 4.342 de 23 de agosto de 2002, Lei Complementar nº 123 de 14 de dezembro de 2006, da Lei Federal nº 8.666/93 e suas alterações e mediante cláusulas e condições a seguir enunciadas: CLÁUSULA PRIMEIRA ­ DO OBJETO: 1.1. - O objeto desta ATA é o Registro de Preços para contratação de serviços técnicos especializados de análise, desenvolvimento e manutenção de Sistemas, em regime de Fábrica de Software, utilizando-se a Técnica de Análise de Pontos de Função, conforme padronização do IFPUG, visando atender, de forma continuada, às necessidades de Tecnologia da Informação da CEAGESP, incluindo o fornecimento de ferramenta de desenvolvimento rápido de aplicações (RAD) para o ambiente Web, assim como capacitação técnica, desenvolvimento assistido e suporte técnico na ferramenta, conforme especificações, quantitativos e condições contidas no constantes Anexo I ­ TERMO DE REFERÊNCIA.
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+32/51
+
+1.1.1 - Estende-se este Pregão a contratação de empresa especializada na prestação de serviços técnicos de informática, para análise, desenvolvimento e manutenção (evolutiva, corretiva e adaptativa) de sistemas de informação, compreendendo atividades relativas à: levantamento de requisitos, especificação, análise, projeto, codificação, testes, homologação, implantação, treinamento, documentação, integração e migração de sistemas de informação, conforme as especificações e condições estabelecidas no ­ anexo I. Termo de Referência.
+1.2. Fazem parte integrante da presente ATA, independentemente de transcrição, as condições estabelecidas no ato convocatório, a proposta comercial da COMPROMISSÁRIA , as normas contidas na Lei nº 10.520/2002, nos Decretos nº 5.450/2005, 3.722/2001, 4.485/2002, 3.931/2001, 4.342/2002, na Lei Complementar nº 123/2006 e na Lei nº 8.666/93. CLÁUSULA SEGUNDA ­ DA VALIDADE DO REGISTRO DE PREÇOS: 2.1. A presente Ata de Registro de Preços terá validade por 12 (doze) meses, computadas nestes as eventuais prorrogações, contados a partir da data de sua assinatura, nos termos do art.4º, caput, do Decreto nº 3.931/2001. CLÁUSULA TERCEIRA ­ DA CONTRATAÇÃO E DA EXECUÇÃO DOS SERVIÇOS DOS FORNECIMENTOS E DOS PRODUTOS: 3.1. A efetivação da contratação do serviço se caracterizará pela assinatura de termo de contrato - ANEXO V. 3.2. Os instrumentos obrigacionais firmado entre a empresa vencedora e a CEAGESP se constituirão: do presente edital e seus anexos e da documentação apresentada pelo licitante. Sendo o instrumento contratual o termo de contrato assinado entre as partes independentemente de outras transcrições. 3.3. Os serviços e produtos que a COMPROMISSÁRIA coloca à disposição da CEAGESP deverão ser executados em estrita observância ao disposto nos presentes autos, bem como nas especificações contidas no ANEXO I - TERMO DE REFERÊNCIA, sendo vedada a subcontratação total ou parcial dos serviços objeto da presente ATA DE REGISTRO DE PREÇOS, sem autorização expressa da CEAGESP. 3.4. A recusa injustificada da licitante vencedora em assinar o instrumento contratual no prazo de 03(três) dias úteis, caracteriza o descumprimento total da obrigação assumida, sujeitando-a as penalidades legalmente estabelecidas, conforme a CLÁUSULA DÉCIMA - PENALIDADES, deste edital. 3.5. Prazo de vigência do contrato será até 12 (doze) meses, podendo ser prorrogado nos termos da legislação vigente.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+SEGES
+
+WENCESLAU MASSAYUKI DAMURA
+
+33/51
+
+CLÁUSULA QUARTA ­ DO PREÇO: 4.1. Para a prestação dos serviços e fornecimento dos produtos, objeto desta ATA, estima-se que a CEAGESP pagará à COMPROMISSÁRIA , a importância total global de R$ _________ (__________), composto pelos serviços, equipamentos, produtos, preços e quantidades. 4.2. Os preços relacionados na ata de registro de preços poderão sofrer alterações, obedecidas às disposições contidas no artigo 65, da Lei nº 8.666/93, em decorrência de eventual redução daqueles praticados no mercado, ou de fato que eleve o custo dos bens registrados. 4.3. O valor global e final apresentado na proposta, contempla toda mão-de-obra, custos direto e indireto, uniformes, EPI's, administração, encargos sociais, trabalhistas e previdenciários, encargos e contribuições parafiscais, tributos, despesas financeiras, operacionais e administrativas, lucro e quaisquer outros aqui não mencionados, de modo a constituir uma única contraprestação pela execução dos serviços e instalações dos produtos. 4.4. No valor cotado, quando o licitante for domiciliado fora do Estado de São Paulo, deverá estar incluso o ICMS do Estado de São Paulo e não o do Estado de Origem, para compor o aludido valor, uma vez que por força de legislação tributária a CEAGESP é obrigada a recolher o diferencial de alíquota entre o Estado de Origem e de São Paulo. O diferencial será descontado da fatura.
+
+CLÁUSULA QUINTA ­DAS CONDIÇÕES DE PAGAMENTO: 5.1. Os pagamentos serão efetuados através do Departamento Financeiro da CEAGESP, através da emissão de boletos bancários e da Nota Fiscal Fatura, faturados para pagamento até o 5º (quinto) dia útil do mês subseqüente ao da prestação do serviço, após as emissões e aceite das notas fiscais que deverão especificar todas as operações, materiais e equipamentos realizados, com os valores e respectivas. O prazo para pagamento ocorrerá a partir da liquidação da nota fiscal emitida, isto é, após o aceite da Nota fiscal de Fatura e relatório de medição por parte do gestor Técnico. 5.2. A percepção do valor faturado ficará condicionada a consulta prévia "on-line" ao SICAF, demonstrando situação regular da COMPROMISSÁRIA nos documentos por ele abrangidos, ou nos sítios oficiais dos órgãos emitentes das certidões. 5.3. A devolução dos documentos de cobrança, em hipótese alguma poderá se constituir em motivo para suspensão da execução dos serviços e produtos ora contratados por parte da COMPROMISSÁRIA .
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+SEGES
+
+WENCESLAU MASSAYUKI DAMURA
+
+34/51
+
+CLÁUSULA SEXTA ­ DOS TRIBUTOS E DEMAIS ENCARGOS: 6.1. Todos os tributos e demais encargos devidos em decorrência direta ou indireta, deste instrumento ou de sua execução, serão de exclusiva responsabilidade da COMPROMISSÁRIA que os recolherá, sem direito a reembolso. A CEAGESP, quando (ela) for a fonte retentora, descontará e recolherá, nos prazos previsto em lei, dos pagamentos que efetuar, a parte que for devida pela COMPROMISSÁRIA , segundo a legislação vigente. 6.2. Quando a CEAGESP for a responsável pela retenção na fonte e pelo recolhimento de tributos ou contribuições decorrentes da presente ATA DE REGISTRO DE PREÇOS e, por decorrência de erro de exclusiva responsabilidade da COMPROMISSÁRIA , vier a responder por custos ou ônus de qualquer natureza, promoverá o desconto dos valores devidos, atualizados, quando do pagamento imediatamente posterior à constatação do fato, de modo a ressarcir-se do custo causado, sem prejuízo da aplicação das penalidades contratuais e da promoção das ações legais e judiciais cabíveis. 6.3. Na hipótese de alteração de alíquotas, isenção ou instituição de tributos ou encargos, que incidam direta ou indiretamente sobre os SERVIÇOS e PRODUTOS ora contratados durante o período de vigência da presente, ATA a CEAGESP procederá da seguinte forma: a) em caso de alteração para menor ou isenção, a CEAGESP promoverá a redução do valor contratado nas mesmas bases e proporções decorrentes das reduções promovidas, procedendo o desconto do valor a ser pago quando do pagamento das parcelas vincendas; e b) em caso de alteração para maior ou instituição, a CEAGESP somente procederá ao pagamento da diferença mediante comprovação pela COMPROMISSÁRIA do ônus daí decorrente. 6.4. Fica a COMPROMISSÁRIA obrigada a apresentar mensalmente as Certidões e os comprovantes exigidos na CLÁUSULA QUINTA ­ DAS CONDIÇÕES DE PAGAMENTO. 6.4.1. A CEAGESP poderá solicitar à COMPROMISSÁRIA , quando julgar necessário ou entender conveniente, ao seu exclusivo critério, a exibição dos demais comprovantes de recolhimento dos tributos e encargos devidos que decorram direta ou indiretamente dos SERVIÇOS e PRODUTOS de que tratam a presente ATA DE REGISTRO DE PREÇOS. CLÁUSULA SÉTIMA ­ DAS OBRIGAÇÕES DA COMPROMISSÁRIA : 7.1. Constituem obrigações da COMPROMISSÁRIA , entre outras decorrentes desta ATA: a) responsabilizar-se integralmente pelos serviços na forma aqui pactuada e nos termos da legislação vigente;
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+35/51
+
+b) a COMPROMISSÁRIA deverá executar os serviços definidos no ANEXO I, obedecendo estritamente aos termos do presente instrumento, sob pena de aplicação das sanções previstas no artigo 87 da Lei nº 8.666/93; c) executar o objeto desta Ata, dentro da melhor técnica, bem como, refazer e repor, por sua conta e responsabilidade, aqueles considerados inadequados ou imperfeitos, ou que estiverem em desacordo com o ora pactuado, ficando a critério da CEAGESP aprovar ou rejeitar os serviços realizados; d) designar por escrito no ato do recebimento da Autorização de Serviços, um preposto que tenha poderes para resolução de possíveis ocorrências durante a execução desta ATA e com, dentre outras, as seguintes responsabilidades: d.1) comandar, coordenar e controlar a execução dos serviços contratados; d.1.1.) encaminhar à CEAGESP todas as faturas dos serviços e produtos prestados; d.1.2.) administrar todo e qualquer assunto relativo aos empregados;e d.1.3.) estar sempre em contato com a CEAGESP. . e) responsabilizar-se pelos danos causados diretamente a CEAGESP, seus funcionários ou a terceiros, decorrentes de sua culpa, dolo ou má fé na execução da ATA, não excluindo ou reduzindo essa responsabilidade fato da CEAGESP fiscalizar seu acompanhamento; f) utilizar para prestação dos serviços, profissionais com experiência comprovada neste ramo de atividade, não lhe sendo permitido delegar os trabalhos, ainda que parcialmente, sem anuência prévia da CEAGESP; g) prestar os serviços, objeto desta ATA, dentro da melhor técnica, e sem qualquer vínculo, seja de ordem trabalhista, tributária, previdenciária ou social com a CEAGESP; h) manter, durante toda execução da presente ATA, todas as condições de habilitação e qualificação exigidas na licitação, bem como atualizar seus dados (alterações de contratos/estatutos sociais, mudança de quadro societário ou responsabilidade administrativa, mudança de sede, etc) junto à CEAGESP; i) a COMPROMISSÁRIA obriga-se a manter sigilo absoluto sobre qualquer informação adquirida em virtude da execução da presente ATA, não podendo, sob qualquer pretexto utilizá-la para si ou para outrem, divulgar, revelar, reproduzir ou delas dar conhecimento a terceiros, responsabilizando-se em caso de descumprimento das obrigações assumidas, por eventuais perdas e danos e sujeitando-se às cominações legais;
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+36/51
+
+j) a COMPROMISSÁRIA deverá possuir, (de acordo com a legislação) todas as licenças dos softwares, alvarás e autorizações. k) Será de responsabilidade da COMPROMISSÁRIA , toda a logística de transporte de carga e descarga dos produtos até CEAGESP; e l) Todas as despesas que incidirem, direta ou indiretamente, sobre os preços dos serviços contratados e produtos serão de responsabilidade da COMPROMISSÁRIA . CLÁUSULA OITAVA ­ DAS OBRIGAÇÕES DA CEAGESP: 8.1. Constituem obrigações exclusivas da CEAGESP: 8.1.1. Fiscalizar o cumprimento das obrigações assumidas pela contratada, inclusive quanto à continuidade da prestação dos serviços, que, ressalvados os casos de força maior, justificados e aceitos pelo contratante, não devem ser interrompidos; 8.1.2. Emitir pareceres em todos os atos relativos à execução do contrato, em especial, A aplicações de sanções, alterações e repactuações do contrato; 8.1.3. Fornecer tempestivamente, todas as condições necessárias ao bom desempenho do objeto ora contratado. 8.1.4. Anotar em registro próprio, todas as ocorrências relacionadas com a execução deste CONTRATO. 8.1.5. Determinar o que for necessário para a regularização de faltas ou defeitos constatados. 8.1.6. Exercer a fiscalização dos serviços técnicos especialmente designados.
+
+CLÁUSULA NONA - DA EXECUÇÃO, DO ACOMPANHAMENTO E DA FISCALIZAÇÃO: 9.1. Para fins de execução, do acompanhamento e da fiscalização do objeto da presente ATA, é designado de acordo com os normativos internos o Gestor das Formalidades, Preposto e Representante da CEAGESP.que deverá: a) proceder a solicitação de emissão de reserva financeira e empenho junto ao Departamento Financeiro ­ DEFIN; b) determinar e adotar todas medidas necessárias ao fiel cumprimento da presente ATA; e c) sugerir aplicação de sanções, caso os esclarecimentos da COMPROMISSÁRIA não sejam satisfatórios, encaminhando o processo à autoridade superior em tempo hábil para a adoção das medidas legais.
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+37/51
+
+9.2. Para cumprimento do acompanhamento e da fiscalização do objeto da presente ATA, é designado de acordo com os normativos internos o Gestor Técnico e o Suplente do Gestor Técnico, que deverão auxiliar o Gestor das Formalidades na execução do objeto da presente ATA. 9.2.1. O Gestor Técnico, poderá designar desde que expressamente, empregados do seu quadro, para auxiliarem no acompanhamento da execução do objeto da presente ATA. 9.2.2. O Gestor Técnico e os Auxiliares expressamente designados, em decorrência do acompanhamento da execução do objeto da presente ATA, e demais interesses da CEAGESP, deverão: a) emitir o Pedido de Fornecimento e formalizar a solicitação dos materiais, de acordo com as condições pactuadas; b) acompanhar os saldos físicos consumidos e em estoque, solicitar quando necessário a aquisição para reposição, para atendimento da demanda do(s) material(s), objeto desta ATA; c) acompanhar os saldos registrados e adquiridos, a fim de não exceder o pactuado; d) alertar o Gestor das Formalidades, quanto futuro esgotamento do saldo do(s) material(s), objeto desta ATA, para atendimento e suprimento da CEAGESP; e) enviar correspondência a COMPROMISSÁRIA, solicitando providências quanto aos prazos de entrega e outros fatores pertinentes a aquisição, do(s) material(s), objeto da presente ATA; f) anotar os dados relativos à execução das compras pactuadas e demais dados pertinentes às aquisições; g) receber o(s) material(s) objeto da presente ATA, de acordo com o solicitado para a reposição, registrando as ocorrências relevantes; h) proceder a guarda e estocagem do(s) material(s) de acordo com as recomendações e especificações do fabricante e da área técnica; i) comunicar o Gestor das Formalidades, solicitando providências quanto a faltas ou defeitos não sanados e outros fatores, que excederem sua competência; j) atestar o recebimento físico do(s) material(s), para fins de pagamento, se estiverem de acordo com o pactuado; e 9.2.3. O Gestor Técnico, acompanhará as ocorrências e relatórios técnicos, promovendo a autuação dos documentos no correspondente Processo Administrativo. 9.3. O Gestor das Formalidades e o Gestor Técnico, têm a responsabilidade de zelar pelo cumprimento da execução da ATA, e demais interesses da CEAGESP e, deverão:
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+38/51
+
+a) registrar todas as ocorrências relevantes, relativas ao objeto da presente ATA; b) determinar e adotar todas medidas necessárias ao fiel cumprimento da presente ATA; c) enviar correspondência a COMPROMISSÁRIA, solicitando esclarecimentos quanto a faltas ou defeitos, não sanados no prazo estabelecido; d) sugerir aplicação de sanções, caso os esclarecimentos da COMPROMISSÁRIA não sejam satisfatórios, encaminhando o processo à autoridade superior em tempo hábil para a adoção das medidas legais;e e) acompanhar os saldos do(s) material(s) registrado(s) e utilizado(s), adotando as providências necessárias para a manutenção de saldo de segurança do(s) material(s) objeto(s) desta ATA.
+
+CLÁUSULA DÉCIMA - PENALIDADES: 10.1. Pelo inadimplemento total ou parcial da ATA, independentemente de rescisão, a COMPROMISSÁRIA ficará sujeita, a critério da CEAGESP, às seguintes penalidades: a) advertência. b) multa de 10% (dez por cento), pela inexecução parcial da ATA, incidindo sobre o valor do saldo da mesma, por unidade/lote, na ocasião, no mês da infração. c) multa de 20% (vinte por cento) pela inexecução total da ATA, incidindo sobre o valor total da mesma, por unidade/lote, na ocasião, no mês da infração. d) pelo não atendimento de qualquer ordem de serviço verbal ou escrita, dentro do prazo estabelecido, ficará a COMPROMISSÁRIA sujeita à multa de até 5% (cinco por cento) do valor total do pagamento do mês de origem da irregularidade, a ser descontada no primeiro pagamento subseqüente à infração; e) pelo descumprimento parcial ou total das exigências previstas em legislação específica aos SERVIÇOS e PRODUTOS ora contratados, ficará a COMPROMISSÁRIA sujeita à multa de até 20% (vinte por cento) do valor total do pagamento do mês de origem da irregularidade da unidade/lote, a ser descontada no primeiro pagamento subseqüente à infração; f) pela inexecução total ou parcial do disposto nesta ATA e/ou seus anexos, ou por imperícia, poderá ser rescindida a contratação, ficando a COMPROMISSÁRIA impedida de licitar e contratar com a CEAGESP, pelo período de 02 (dois) anos, sem prejuízo do disposto nos demais subitens deste item.
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+39/51
+
+10.2. Além das multas previstas nas letras "a." à "e" do Item 10.1 da presente Cláusula, pelo inadimplemento ou pela inexecução total ou parcial do aqui disposto, por imperícia, ou outra falta grave que provoque dano ou prejuízo contra a CEAGESP, a COMPROMISSÁRIA poderá sofrer as seguintes sanções: a) na primeira reincidência de um mesmo tipo de infração, a CEAGESP aplicará multa com o dobro do valor da multa prevista nas letras"a." à "e" do Item 10.1. da presente Cláusula; e, b) na segunda reincidência de um mesmo tipo de infração, a CEAGESP aplicará a pena da rescisão contratual, conforme previsto na Cláusula Décima Primeira ­ Da Rescisão, da presente ATA. 10.3. As penalidades previstas nos Itens 10.1 e 10.2. da presente Cláusula são independentes entre si e, a aplicação de uma não exclui o aplicação de outra, podendo ainda, ser aplicadas em conjunto com as penalidades previstas na Lei Federal nº 8.666, de 21 de junho de 1993 e demais Leis pertinentes. 10.4. O valor das multas aplicadas deverá ser descontado no primeiro pagamento subseqüente ao cometimento da infração. 10.4.1. Quando o caso não permitir o desconto do valor das multas já no primeiro pagamento subseqüente ao cometimento da infração, conforme previsto no Item 10.4. supra, o desconto deverá ser efetuado quando do primeiro pagamento seguinte ao do subseqüente ao cometimento da infração, ou, na primeira oportunidade que ocorrer. 10.4.2. Na possibilidade de não ocorrer o pagamento do valor total das multas aplicadas, por insuficiência de saldo, ou, por qualquer outra possibilidade não prevista em ATA, a CEAGESP recorrerá à via judicial para cobrança do valor devido. 10.5. As multas previstas na presente Cláusula não tem caráter compensatório e, o seu pagamento não desobriga a COMPROMISSÁRIA da reparação de eventuais danos, perdas ou prejuízos que vier a acarretar à CEAGESP. 10.6. Em caso de constatação de fraude na execução da ATA, estará sujeita a COMPROMISSÁRIA as seguintes penalidades: a) Impedimento em licitar e contratar com a CEAGESP pelo prazo de até 02 (dois) anos e o descredenciamento do seu Cadastro de Fornecedores e no SICAF; b) Responder por perdas e danos ocasionados à CEAGESP, os quais serão apurados em competente processo, levando em conta as circunstâncias que tenham contribuído para a ocorrência do fato; c) Declaração de inidoneidade para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+SEGES
+
+WENCESLAU MASSAYUKI DAMURA
+
+40/51
+
+CLÁUSULA DÉCIMA PRIMEIRA - DA RESCISÃO: 11.1.: Constituem motivos para rescisão, desde que formalmente motivados nos autos do processo, assegurando-se sempre o princípio do contraditório e da ampla defesa: a) aqueles previstos na Lei nº 8.666/93; b) a inadimplência parcial ou total, por parte da COMPROMISSÁRIA , das cláusulas e condições estabelecidas na presente ATA; e c) a reincidência ou prática usual e constante de infrações na execução da presente Ata. 11.2. Será declarada rescindida a presente ATA DE REGISTRO DE PREÇOS mediante notificação, entregue diretamente ou por via postal, com prova de recebimento. 11.3. Ficará a critério da CEAGESP declarar rescindida a presente ATA DE REGISTRO DE PREÇOS nos termos desta cláusula e/ou aplicar as multas previstas neste na presente ATA e as demais penalidades previstas na Lei nº 8.666/93
+
+CLÁUSULA DÉCIMA SEGUNDA - DAS DISPOSIÇÕES FINAIS: 12.1. Ficam desde já o Gestor das Formalidades e o Gestor Técnico, responsáveis pelo acompanhamento da execução e encerramento definitivo da presente ATA ora firmada entre as partes. 12.2. E por estarem assim, justas e contratadas, firmam as partes a presente ATA em 02 (duas) vias de igual teor e forma, para os devidos fins e efeitos de direito. São Paulo, ___de___________________de 2011. CEAGESP ­ COMPANHIA DE ENTREPOSTOS E ARMAZÉNS GERAIS DE SÃO PAULO XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX Diretor Presidente Diretor (Nomeação Completa) RAZÃO SOCIAL DA COMPROMISSÁRIA ____________________________ Sócio TESTEMUNHAS XXXXXXXXXXXXXXXXXXXXXXXXXXXXX Gestor de Formalidade ____________________________ Sócio
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX Gestor Técnico
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+41/51
+
+ANEXO V PROCESSO Nº 142/2010 PREGÃO ELETRÔNICO Nº MINUTA DE CONTRATO /2011
+
+Pelo presente instrumento, de um lado a CEAGESP - COMPANHIA DE ENTREPOSTOS E ARMAZÉNS GERAIS DE SÃO PAULO, com sede na Avenida Doutor Gastão Vidigal, nº 1.946, CEP 05316-900, na Vila Leopoldina, no município de São Paulo, no Estado de São Paulo, inscrita no Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda CNPJ/MF sob nº 62.463.005/0001-08, com Inscrição Estadual nº 111.350.904.113, doravante simplesmente denominada CEAGESP e, neste ato, representada na forma de seu Estatuto Social, por seu Diretor Presidente xxxxxxxxxxxxxxxxx (NOME COMPLETO), portador do RG nº X.XXX.XXX-X SSP/SP e do CPF/MF nº XXX.XXX.XXX-XX e por seu Diretor (NOMEAÇÃO COMPLETA) xxxxxxxxxxxxxxxxx (NOME COMPLETO), portador do RG nº X.XXX.XXX-X SSP/SP e do CPF/MF nº XXX.XXX.XXX-XX e, de outro lado, a RAZÃO SOCIAL DA CONTRATADA, com sede na Avenida XXXXXX XXXXXX xxxxxxx, nº x.xxx, CEP xxxxxx-xxx, na Vila XXXXXXXXXX, no município de xxx xxxxx, no Estado de xxx xxxxxxxx, inscrita no Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda CNPJ/MF sob nº xx.xxx.xxx/xxxx-xx, com Inscrição Estadual nº xxx.xxx.xxx.xxx, doravante simplesmente denominada CONTRATADA, neste ato representada por xxxxxxxxxxxxxxxxx (NOME COMPLETO), portador do RG nº X.XXX.XXX-X SSP/SP e do CPF/MF nº XXX.XXX.XXX-XX, têm entre si justo e acertado, o presente contrato, de acordo com a documentação contida no Processo CEAGESP nº 142/2010, Pregão Eletrônico nº ____________/2011, sujeitando-se as partes às determinações legais, e com integral observância da Lei nº 10.520 de 17 de julho de 2002 e Decretos nºs 5.450 de 31 de maio de 2005, 3.722 de 09 de janeiro de 2001, 4.485 de 25 de novembro de 2002, Lei Complementar nº 123 de 14 de dezembro de 2006, da Lei Federal nº 8.666/93 e suas alterações e, mediante cláusulas e condições a seguir enunciadas:
+
+CLÁUSULA PRIMEIRA ­ DO OBJETO 1.1 Constitui objeto do presente instrumento a contratação de serviços técnicos
+
+especializados de análise, desenvolvimento e manutenção de Sistemas, em regime de Fábrica de Software, utilizando-se a Técnica de Análise de Pontos de Função, conforme padronização do IFPUG, visando atender, de forma continuada, às necessidades de Tecnologia da Informação da CEAGESP, incluindo o fornecimento de ferramenta de desenvolvimento rápido de aplicações (RAD) para o ambiente Web, assim como capacitação técnica, desenvolvimento assistido e suporte técnico na ferramenta, conforme especificações constantes do ANEXO I ­ TERMO DE
+REFERÊNCIA.
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+42/51
+
+1.2. Estende-se este Pregão a contratação de empresa especializada na prestação
+
+de serviços técnicos de informática, para análise, desenvolvimento e manutenção (evolutiva, corretiva e adaptativa) de sistemas de informação, compreendendo atividades relativas à: levantamento de requisitos, especificação, análise, projeto, codificação, testes, homologação, implantação, treinamento, documentação, integração e migração de sistemas de informação, conforme as especificações e condições estabelecidas no­ anexo I. Termo de Referência.
+1.3. Fazem parte integrante do presente instrumento, independentemente de transcrição, as condições estabelecidas no ato convocatório, a proposta comercial da CONTRATADA, as normas contidas na Lei nº 10.520/2002, nos Decretos nº 5.450/2005, 3.722/2001, 4.485/2002, Lei Complementar nº 123/2006 e, na Lei nº 8.666/93
+
+CLÁUSULA SEGUNDA ­ DA EXECUÇÃO DOS SERVIÇOS a) Os serviços que a CONTRATADA coloca à disposição da CEAGESP deverão ser executados em estrita observância ao disposto nos presentes autos, bem como nas especificações contidas no ANEXO I - TERMO DE REFERÊNCIA, sendo vedada a subcontratação total ou parcial dos serviços objeto do presente CONTRATO, sem autorização expressa da CEAGESP. a.a) Os serviços deverão ser executados de forma a garantir os melhores resultados, cabendo à CONTRATADA otimizar a gestão de seus recursos - quer humanos quer materiais - com vistas à qualidade dos serviços e à satisfação da CEAGESP. A CONTRATADA responsabilizar-se-á integralmente pelos serviços contratados, cumprindo, evidentemente, as disposições legais que interfiram em sua execução. CLÁUSULA TERCEIRA ­ DO PRAZO 3.1.A presente contratação terá vigência de até 12 (doze) meses sucessivos e ininterruptos, contados a partir da emissão da Ordem de Serviços, prorrogável por iguais e sucessivos períodos, até 48 (quarenta e oito) meses, nos termos da Lei. CLÁUSULA QUARTA ­ DO PREÇO 4.1 Para a prestação dos serviços e fornecimento dos produtos, objeto desta CONTRATO, a CEAGESP pagará à CONTRATADA, a importância total global de R$ _________ (__________), composto pelos serviços, equipamentos, produtos, preços e quantidades, conforme descriminado a seguir:_______________________________________________. Os preços serão os compostos na Ata de Registro de Preços.
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+43/51
+
+CLÁUSULA QUINTA ­ DA VIGÊNCIA E DO REAJUSTE 5.1. A vigência do presente CONTRATO iniciiará partir de sua assinatura do termo de contrato, sendo certo, contudo, que será pelo período de 12 meses podendo ser prorrogado de acordo com o permissivo legal. 5.2. Após o período citado no item anterior o preço dos serviços objeto do presente contrato serão reajustados a cada 12 (doze) meses, contados da data da emissão da primeira Ordem de Serviços, com base na variação do IPCA, do mesmo período.
+
+CLÁUSULA SEXTA ­ DAS CONDIÇÕES DE PAGAMENTO 6.1. A percepção do valor faturado ficará condicionada a consulta prévia "on-line" ao SICAF, demonstrando situação regular da CONTRATADA nos documentos por ele abrangidos, ou nos sítios oficiais dos órgãos emitentes das certidões. 6.2. Os pagamentos ficarão condicionados à apresentação, pela CONTRATADA, dos documentos e procedimentos abaixo listados, os quais deverão ser cumpridos até o 5º (quinto) dia útil do mês subseqüente ao da prestação dos serviços: a) Carta de Solicitação de Pagamento; b) Relatório de Serviços devidamente aprovado pelo Gestor Técnico da CEAGESP; c) Nota Fiscal ou Fatura contendo a especificação detalhada do Valor a ser pago, com a descrição exata dos serviços efetivamente prestados; d) Certificado de Regularidade perante o FGTS - Fundo de Garantia do Tempo de Serviço - CRF; e) Certidão Conjunta Negativa de Débitos relativos a Tributos Federais e a Dívida Ativa da União, ou Certidão Conjunta Positiva com efeito de negativa, expedida pela Receita Federal do Brasil e/ou Procuradoria-Geral da Fazenda Nacional, da sede da licitante; f) Certidão Negativa de Débito, ou Certidão Positiva com efeito de negativa relativa a Previdência Social, expedida pela Previdência Social. 6.3. O Departamento Financeiro ­ DEFIN, da CEAGESP, fará a análise da regularidade dos demais documentos e das demais exigências contratuais e legais, quando então, apurada a sua completa regularidade, será providenciado o pagamento devido. 6.4. O pagamento ocorrerá até o 5º (quinto) dia útil subseqüente ao da apresentação da Carta de Solicitação de Pagamento, após cumpridas as obrigações e solicitações dos subitens anteriores. 6.5. Na constatação de erro ou de divergência entre as informações constantes da Carta de Solicitação de Pagamento, da Nota Fiscal ou da Fatura, do Relatório de Serviços, especialmente em relação aos serviços efetivamente prestados, ou, na inobservância de quaisquer das demais exigências, a CEAGESP fará a devolução dos documentos até o regular cumprimento das obrigações ora estabelecidas por parte da CONTRATADA,
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+44/51
+
+devendo, então, o pagamento correspondente ocorrerá até o 10º (décimo) dia útil subseqüente ao da reapresentação da Carta de Solicitação de Pagamento, após cumpridas tais obrigações. 6.6. A devolução dos documentos de cobrança, em hipótese alguma poderá se constituir em motivo para suspensão da execução dos serviços ora contratados por parte da CONTRATADA.
+
+CLÁUSULA SÉTIMA ­ DOS TRIBUTOS E DEMAIS ENCARGOS 7.1. Todos os tributos e demais encargos devidos em decorrência direta ou indireta, deste instrumento ou de sua execução, serão de exclusiva responsabilidade da CONTRATADA que os recolherá, sem direito a reembolso. A CEAGESP, quando (ela) for a fonte retentora, descontará e recolherá, nos prazos previsto em lei, dos pagamentos que efetuar, a parte que for devida pela CONTRATADA, segundo a legislação vigente. 7.1.1. A CEAGESP se reservar o direito de solicitar à CONTRATADA, quando entender conveniente, a exibição dos comprovantes de recolhimento dos tributos e demais encargos devidos direta ou indiretamente, por conta deste instrumento. 7.2. Quando a CEAGESP for a responsável pela retenção na fonte e pelo recolhimento de tributos ou contribuições decorrentes do presente CONTRATO e, por decorrência de erro de exclusiva responsabilidade da CONTRATADA, vier a responder por custos ou ônus de qualquer natureza, promoverá o desconto dos valores devidos, atualizados, quando do pagamento imediatamente posterior à constatação do fato, de modo a ressarcir-se do custo causado, sem prejuízo da aplicação das penalidades contratuais e da promoção das ações legais e judiciais cabíveis. 7.3. Na hipótese de alteração de alíquotas, isenção ou instituição de tributos ou encargos, que incidam direta ou indiretamente sobre os SERVIÇOS ora contratados durante o período de vigência do presente CONTRATO, a CEAGESP procederá da seguinte forma: a) em caso de alteração para menor ou isenção, a CEAGESP promoverá a redução do valor contratado nas mesmas bases e proporções decorrentes das reduções promovidas, procedendo o desconto do valor a ser pago quando do pagamento das parcelas vincendas; e b) em caso de alteração para maior ou instituição, a CEAGESP somente procederá ao pagamento da diferença mediante comprovação pela CONTRATADA do ônus daí decorrente. 7.4. Fica a CONTRATADA obrigada a apresentar mensalmente as Certidões e os comprovantes exigidos na CLÁUSULA SEXTA ­ DAS CONDIÇÕES DE PAGAMENTO. 7.4.1. A CEAGESP poderá solicitar à CONTRATADA, quando julgar necessário ou entender conveniente, ao seu exclusivo critério, a exibição dos demais comprovantes de recolhimento dos tributos e encargos devidos que decorram direta ou indiretamente dos
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+45/51
+
+SERVIÇOS de que tratam o presente CONTRATO. CLÁUSULA OITAVA ­ DAS OBRIGAÇÕES DA CONTRATADA 8.1. Constituem CONTRATO: obrigações da CONTRATADA, entre outras decorrentes deste
+
+a) responsabilizar-se integralmente pelos serviços na forma aqui pactuado e nos termos da legislação vigente; b) a CONTRATADA deverá executar os serviços definidos no ANEXO I, obedecendo estritamente aos termos do presente instrumento, sob pena de aplicação das sanções previstas no artigo 87 da Lei nº 8.666/93; c) executar o objeto deste CONTRATO, dentro da melhor técnica, bem como, refazer e repor, por sua conta e responsabilidade, aqueles considerados inadequados ou imperfeitos, ou que estiverem em desacordo com o ora pactuado, ficando a critério da CEAGESP aprovar ou rejeitar os serviços realizados; d) designar por escrito, no ato do recebimento da Ordem de Serviços, preposto que tenha poder para representar a CONTRATADA a fim de dirimir as questões técnico/operacionais, durante a execução deste CONTRATO; e) a CONTRATADA tem obrigação de corrigir, sob suas expensas, no total ou em parte, o objeto do CONTRATO em que se verificarem vícios, defeitos ou incorreções resultantes do fornecimento; f) os serviços não poderão ser subempreitados sem a aprovação da CEAGESP. A CONTRATADA deverá consultar a CEAGESP por escrito. Caso seja aprovada a sua solicitação de subempreitar serviços, tal ato não implica em aceitação de transferência de responsabilidade; g) responsabilizar-se pelos danos causados diretamente à CEAGESP, seus funcionários ou a terceiros, decorrentes de sua culpa, dolo ou má fé na execução do CONTRATO, não excluindo ou reduzindo essa responsabilidade fato da CEAGESP fiscalizar seu acompanhamento; h) utilizar para prestação dos serviços, profissionais com experiência comprovada neste ramo de atividade, não lhe sendo permitido delegar os trabalhos, ainda que parcialmente, sem anuência prévia da CEAGESP; i) prestar os serviços, objeto deste CONTRATO, dentro da melhor técnica, e sem qualquer vínculo, seja de ordem trabalhista, tributária, previdenciária ou social com a CEAGESP; manter, durante toda execução do presente CONTRATO, todas as condições de habilitação e qualificação exigidas na licitação, bem como atualizar seus
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+j)
+
+WENCESLAU MASSAYUKI DAMURA
+
+46/51
+
+dados (alterações de contratos/estatutos sociais, mudança de quadro societário ou responsabilidade administrativa, mudança de sede, etc) junto à CEAGESP; e, k) a CONTRATADA obriga-se a manter sigilo absoluto sobre qualquer informação adquirida em virtude da execução do presente CONTRATO, não podendo, sob qualquer pretexto utilizá-la para si ou para outrem, divulgar, revelar, reproduzir ou delas dar conhecimento a terceiros, responsabilizandose em caso de descumprimento das obrigações assumidas, por eventuais perdas e danos e sujeitando-se às cominações legais. 8.2. Constituem ainda, obrigações exclusivas da CONTRATADA, além das elencadas acima: a) a CONTRATADA deverá fornecer durante a vigência do contrato, qualquer equipamento ou material necessário à implantação e execução dos serviços; b) a CONTRATADA deverá manter a CEAGESP sempre informada das melhorias ou facilidades que possam ser introduzidas para aperfeiçoamento dos SERVIÇOS ora contratados. CLÁUSULA NONA ­ DAS OBRIGAÇÕES DA CEAGESP 9.1. Constituem obrigações exclusivas da CEAGESP: 9.1.1. Fornecer tempestivamente, todas as condições necessárias ao bom desempenho do objeto ora contratado. 9.1.2. Anotar em registro próprio, todas as ocorrências relacionadas com a execução deste CONTRATO. 9.1.3. Determinar o que for necessário para a regularização de faltas ou defeitos constatados. CLÁUSULA DÉCIMA - DA EXECUÇÃO, DO ACOMPANHAMENTO E DA FISCALIZAÇÃO 10.1. Para fins de execução, do acompanhamento e da fiscalização do objeto do presente CONTRATO é designado de acordo com os normativos internos o Gestor das Formalidades, Preposto e Representante da CEAGESP. 10.2. Para cumprimento do acompanhamento e da fiscalização do objeto do presente CONTRATO, é designado de acordo com os normativos internos o Gestor Técnico e o Suplente do Gestor Técnico, que deverão auxiliar o Gestor das Formalidades na fiscalização da execução do objeto do presente CONTRATO. 10.2.1. O Gestor Técnico poderá designar, desde que expressamente, empregados do seu quadro para auxiliarem no acompanhamento da execução do objeto do presente CONTRATO.
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+47/51
+
+10.2.2. O Gestor Técnico e os Auxiliares expressamente designados, em decorrência do acompanhamento da execução do objeto do presente CONTRATO, e demais interesses da CEAGESP, deverão: 10.2.2.1. enviar correspondência à CONTRATADA, solicitando providências quanto aos prazos e outros fatores pertinentes a execução do objeto do presente CONTRATO; 10.2.2.2. comunicar o Gestor das Formalidades, solicitando providências quanto a faltas ou defeitos não sanados e outros fatores que excederem sua competência. 10.2.3. O Gestor Técnico acompanhará as ocorrências e relatórios técnicos, promovendo a autuação dos documentos no correspondente Processo Administrativo. 10.3. O Gestor das Formalidades e o Gestor Técnico têm a responsabilidade de zelar pelo cumprimento da execução do presente CONTRATO e demais interesses da CEAGESP e, deverão: a) registrar todas as ocorrências relevantes, relativas ao objeto do presente CONTRATO; b) determinar e adotar todas as medidas necessárias ao fiel cumprimento do presente CONTRATO; c) enviar correspondência a CONTRATADA, solicitando esclarecimentos quanto a faltas ou defeitos não sanados no prazo estabelecido; e d) sugerir aplicação de sanções, caso os esclarecimentos da CONTRATADA não sejam satisfatórios, encaminhando o processo à autoridade superior em tempo hábil para a adoção das medidas legais.
+
+CLÁUSULA DÉCIMA PRIMEIRA - PENALIDADES
+
+11.1. Pelo inadimplemento total ou parcial do CONTRATO, independentemente de rescisão, a CONTRATADA ficará sujeita, a critério da CEAGESP, às seguintes penalidades: a) advertência; b) multa de 10% (dez por cento), pela inexecução parcial do CONTRATO, incidindo sobre o valor do saldo do mesmo, na ocasião; c) multa de 20% (vinte por cento) pela inexecução total do CONTRATO, incidindo sobre o valor total do mesmo;
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+48/51
+
+d) pelo não atendimento de qualquer ordem de serviço, dentro do prazo estabelecido, ficará a CONTRATADA sujeita à multa de até 5% (cinco por cento) do valor total do pagamento do mês de origem da irregularidade, a ser descontada no primeiro pagamento subseqüente à infração; e) pelo descumprimento parcial ou total das exigências previstas em legislação específica aos SERVIÇOS ora contratados, ficará a CONTRATADA sujeita à multa de 20% (vinte por cento) do valor total do pagamento do mês de origem da irregularidade, a ser descontada no primeiro pagamento subseqüente à infração; e, f) pela inexecução total ou parcial do disposto neste CONTRATO e/ou seus anexos, ou por imperícia, poderá ser rescindida a contratação, ficando a CONTRATADA impedida de licitar e contratar com a CEAGESP, pelo período de 02 (dois) anos, sem prejuízo do disposto nos demais subitens deste item. 11.2. Além das multas previstas nas letras "b." à "e" do Item 11.1 da presente Cláusula, pelo inadimplemento ou pela inexecução total ou parcial do aqui disposto, por imperícia, ou outra falta grave que provoque dano ou prejuízo contra a CEAGESP, a CONTRATADA poderá sofrer as seguintes sanções: a) na primeira reincidência de inadimplemento de um mesmo tipo de infração, com penalidade de multa, a CEAGESP aplicará multa com o dobro do valor da multa prevista nas letras"b." à "e" do Item 11.1. da presente Cláusula; e, b) na segunda reincidência de inadimplemento de um mesmo tipo de infração, com penalidade de multa, a CEAGESP aplicará a pena da rescisão contratual, conforme previsto na Cláusula Décima Terceira ­ Da Rescisão, do presente CONTRATO. 11.3. As penalidades previstas nos Itens 11.1 e 11.2. da presente Cláusula são independentes entre si e, a aplicação de uma não exclui o aplicação de outra, podendo ainda, ser aplicadas em conjunto com as penalidades previstas na Lei Federal nº 8.666, de 21 de junho de 1993 e demais Leis pertinentes. 11.4. O valor das multas aplicadas deverá ser descontado no primeiro pagamento subseqüente ao cometimento da infração. 11.4.1. Quando o caso não permitir o desconto do valor das multas já no primeiro pagamento subseqüente ao cometimento da infração, conforme previsto no Item 11.4. supra, o desconto deverá ser efetuado quando do primeiro pagamento seguinte ao do subseqüente ao cometimento da infração, ou, na primeira oportunidade que ocorrer. 11.4.2. Na possibilidade de não ocorrer o pagamento do valor total das multas aplicadas, por insuficiência de saldo, ou, por qualquer outra possibilidade não prevista em CONTRATO, a CEAGESP recorrerá à via judicial para cobrança do valor devido. 11.5. As multas previstas na presente Cláusula não tem caráter compensatório e, o seu pagamento não desobriga a CONTRATADA da reparação de eventuais danos, perdas ou
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+49/51
+
+prejuízos que vier a acarretar à CEAGESP. 11.6. Além das penalidades previstas na presente Cláusula, pelo inadimplemento ou pela inexecução parcial ou total do Objeto ora contratado ou, por imperícia, o presente CONTRATO poderá ser rescindido conforme previsto na Cláusula Décima Segunda ­ Da Rescisão. 11.7. Em caso de constatação de fraude na execução do CONTRATO, estará sujeita a CONTRATADA as seguintes penalidades: a) Impedimento em licitar e contratar com a CEAGESP pelo prazo de até 02 (dois) anos e o descredenciamento do seu Cadastro de Fornecedores e no SICAF; b) Responder por perdas e danos ocasionados à CEAGESP, os quais serão apurados em competente processo, levando em conta as circunstâncias que tenham contribuído para a ocorrência do fato; e c) Declaração de inidoneidade para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos.
+
+CLÁUSULA DÉCIMA SEGUNDA - DA RESCISÃO 12.1. Constituem motivos para rescisão contratual, assegurado sempre o princípio do contraditório e da ampla defesa: e) a segunda reincidência de um mesmo tipo de infração, conforme previsto na letra "b." do Item 11.2. da Cláusula Décima Primeira ­ Das Penalidades; e f) a inexecução ou o inadimplemento parcial ou total do presente CONTRATO, ou o cometimento de imperícia ou falta grave que, provoque dano ou prejuízo à CEAGESP; g) a realização de serviços não contratados h) a sub-contratação parcial ou total dos SERVIÇOS ora contratados, em desacordo com o estabelecido na Cláusula Segunda - Da Execução dos Serviços; i) o descumprimento ao disposto no § 3º do art. 195 da Constituição Federal, bem como os artigos 55, VIII e 78, I da Lei Federal nº 8.666, de 21 de junho de 1993 e suas posteriores alterações; e, j) o descumprimento das demais disposições da Lei Federal nº 8.666, de 21 de junho de 1993 e suas posteriores alterações e, demais leis pertinentes. 12.2. Por dar causa à rescisão do CONTRATO ora firmado entre as Partes, ficará a CONTRATADA impedida de participar de licitações e de contratar com a CEAGESP pelo período de 02 (dois) anos, sem prejuízo da aplicação das demais sanções previstas na
+Pregoeiro COJUR- Coordenadoria Jurídica SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+50/51
+
+legislação pertinente. 12.3. A CONTRATADA poderá apresentar justificativas sobre eventuais motivos de força maior que impeçam a realização dos SERVIÇOS ora contratados ou o cumprimento das condições previstas no presente CONTRATO, ficando ao exclusivo critério da CEAGESP o julgamento das justificativas apresentadas, para efeitos de rescisão contratual. CLÁUSULA DÉCIMA TERCEIRA - DO FORO: 13.1. Fica eleito o Foro da Comarca de São Paulo, com renúncia expressa a qualquer outro, por mais privilegiado que seja, para dirimir quaisquer dúvidas oriundas deste CONTRATO.
+
+CLÁUSULA DÉCIMA QUARTA - DAS DISPOSIÇÕES FINAIS 14.1. Ficam desde já o Gestor das Formalidades e o Gestor Técnico, responsáveis pelo acompanhamento da execução e encerramento definitivo do presente CONTRATO ora firmada entre as partes. 14.2. E por estarem assim, justas e contratadas, firmam as partes o presente CONTRATO em 02 (duas) vias de igual teor e forma, para os devidos fins e efeitos de direito.
+
+São Paulo,
+
+de
+
+de 2011.
+
+CEAGESP ­ COMPANHIA DE ENTREPOSTOS E ARMAZÉNS GERAIS DE SÃO PAULO XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Diretor Presidente Diretor (Nomeação Completa)
+
+RAZÃO SOCIAL DA CONTRATADA
+___________________________________________ Sócio ___________________________________________ Sócio
+
+TESTEMUNHAS XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Pregoeiro
+
+COJUR- Coordenadoria Jurídica
+
+SEAGE
+
+WENCESLAU MASSAYUKI DAMURA
+
+51/51
+
+

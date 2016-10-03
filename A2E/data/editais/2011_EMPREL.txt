@@ -1,0 +1,891 @@
+Empresa Municipal de Informática
+
+EMPREL
+COMISSÃO PERMANENTE DE LICITAÇÃO PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 A Empresa Municipal de Informática ­ EMPREL, através do Pregoeiro designado pelas Portarias nºs 020, 021 de 01 de janeiro de 2006 e considerando a Portaria nº 2.374/2011, comunica aos interessados a abertura do Processo Licitatório nº 014/2011 - Pregão Presencial para Registro de Preços nº 013/2011, regido pela Lei pela Lei nº 10.520/2002, Decretos Federais nºs 3.555/2000, 3.931/2001, dos Decretos Municipais nºs 19.205/2002, 19.789/2003, 20.573/2004 e 23.127/2007, Portaria nº 008 de 13 de janeiro de 2011 e pela Lei nº 8.666, de 21/06/1993 com suas alterações, sob o regime de execução indireta, do tipo Menor Preço Global, para fornecimento através do Registro de Preços por solicitação da Diretoria de Negócios e Sistemas Corporativos ­ DNC da EMPREL, através da Comunicação Interna nº 027/2011, datada de 21/10/2011, cujo objeto encontra-se devidamente detalhado neste instrumento. O procedimento Licitatório e a Ata / Contrato que dele resultar obedecerão, integralmente as leis acima citadas, devendo os envelopes de proposta e documentação serem entregues às 15h (quinze horas) do dia 05 de dezembro de 2011, na sala da CPL da EMPREL, situada à Rua 21 de Abril, 3370 Torrões, nesta cidade, tendo início nesse mesmo horário o credenciamento dos interessados, seguido da abertura dos envelopes das PROPOSTAS. 1.0. DO OBJETO 1.1. Registro de Preços para contratação de serviços técnicos especializados de documentação, desenvolvimento e manutenção de Sistemas e Aplicativos que tenha JAVA ou PHP como tecnologia predominante a serem executados em regime de Fábrica de Software, visando atender às necessidades da EMPREL. Para dimensionamento das demandas será utilizada a técnica de Análise de Pontos de Função, padrão do IFPUG, com validade de até 12 (doze) meses, de acordo com as especificações e condições constantes do Anexo II - Termo de Referência do edital. 1.2. O produto final objeto desta licitação será de propriedade da EMPREL, vedada a sua divulgação por qualquer meio ou sua reprodução total ou parcial sem expressa autorização desta, ficando o licitante sujeito às penalidades aplicáveis nos termos deste edital. 1.3. A propriedade de que trata o item anterior, decorre da cessão definitiva à EMPREL dos direitos autorais dos produtos do trabalho realizado e dos direitos patrimoniais de uso. Para tanto, os licitantes, por intermédio de seus representantes, apresentarão declaração em original ou cópia autenticada, com firma reconhecida em cartório, conforme modelo Anexo VI, não sendo admitida a assinatura da referida declaração no momento da sessão.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.761-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+1.4. Acompanham este Edital os seguintes anexos: 1.4.1. 1.4.2. 1.4.3. 1.4.4. ANEXO I ANEXO II ANEXO III ANEXO IV MINUTA DA ATA DE REGISTRO DE PREÇOS; TERMO DE REFERÊNCIA; MODELO DE CREDENCIAMENTO; MODELO DE DECLARAÇÃO DE CUMPRIMENTO AOS REQUISITOS DE HABILITAÇÃO; MODELO DE PROPOSTA DE PREÇO; MODELO DE DECLARAÇÃO DE CESSÃO DE DIREITOS AUTORAIS E PATRIMONIAIS MODELO DE DECLARAÇÃO REFERENTE AO TRABALHO DO MENOR; PORTARIA N° 008, DE 13 DE JANEIRO 2011; MINUTA DE CONTRATO.
+
+1.4.5. ANEXO V 1.4.6. ANEXO VI 1.4.7. ANEXO VII 1.4.8. ANEXO VIII 1.4.9. ANEXO IX -
+
+2.0. DOS RECURSOS ORÇAMENTÁRIOS 2.1. Os recursos alocados para a realização do objeto desta licitação são oriundos das dotações orçamentárias nº 45 01 2.520 .3.3. 90. 39 66 fontes 100 e 241. 3.0. DA PARTICIPAÇÃO 3.1. No dia, hora e local indicados no preâmbulo deste Edital, os proponentes deverão entregar ao Pregoeiro o documento de credenciamento conforme modelo ANEXO III, 01(um) envelope lacrado, contendo a Proposta e 01(um) envelope lacrado contendo os Documentos de Habilitação do licitante; 3.1.1. Os envelopes devem ser dirigidos à EMPREL, e identificados com o nome, a denominação ou a razão social do licitante, a modalidade e o número desta licitação (PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011), com as seguintes e respectivas identificações: EMPRESA, RAZÃO SOCIAL OU DENOMINAÇÃO DO LICITANTE ENVELOPE Nº 01 ­ PROPOSTA DE PREÇOS PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 EMPRESA, RAZÃO SOCIAL OU DENOMINAÇÃO DO LICITANTE ENVELOPE Nº 02 ­ DOCUMENTOS DE HABILITAÇÃO PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+2
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+3.2. Os representantes dos licitantes deverão comparecer à sessão pública do Pregão, munidos de procuração pública ou particular, ato constitutivo, estatuto ou contrato social, e do seu documento de identidade, para credenciamento, junto ao Pregoeiro, com os seguintes requisitos: a) A procuração deverá ser em original com firma reconhecida em cartório ou após o reconhecimento da firma, cópia autenticada, conter os poderes para formular verbalmente lances de preços e praticar todos os demais atos pertinentes à licitação em nome do licitante, conforme modelo Anexo III do Edital; b) O ato constitutivo, estatuto ou contrato social deverá ser acompanhado da ata de eleição da última diretoria, se for o caso, devendo conter o nome do representante do licitante, e os poderes para exercer direitos e assumir obrigações contratuais em nome da empresa, em originais ou cópias autenticadas. 3.2.1. A condição de Microempresa e Empresa de Pequeno Porte, para efeito do tratamento diferenciado previsto na Lei Complementar nº 123/2006, deverá ser comprovada mediante a apresentação da certidão expedida pela Junta Comercial, nos termos da Instrução Normativa do DNRC nº 103, publicado no D.O do dia 22/05/2007. Obs: A certidão de que trata este subitem deverá ser entregue ao Pregoeiro em separado dos envelopes "PROPOSTA" e "DOCUMENTAÇÃO". 3.2.2. É vedada a representação de mais de um licitante por um mesmo representante legal ou procurador no processo Licitatório, sob pena de exclusão dos licitantes do processo.
+
+3.3.
+
+Instaurada a sessão, os licitantes, por intermédio de seus representantes, apresentarão Declaração de Cumprimento aos requisitos de Habilitação, conforme modelo Anexo IV, que deverá ser assinada por representante legal da mesma com expressos poderes para tal. 3.3.1. Na hipótese do representante assinar a referida declaração deverá comprovar que tem poderes para tal. Não sendo esta hipótese, a declaração deverá ser apresentada com firma reconhecida em cartório. As credenciais e a declaração de que tratam os subitens 3.2 e 3.3 devem ser apresentadas em separado dos envelopes nºS 01 e 02 e serão anexadas ao processo. Os representantes que não portarem documentos que os credenciem e os identifiquem não poderão rubricar documentos ou praticar outros atos pertinentes a esta licitação.
+
+3.3.2.
+
+3.3.3.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+3
+
+Empresa Municipal de Informática
+
+EMPREL
+3.4. Não poderão concorrer: a) b)
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Consórcios de empresas, qualquer que seja sua forma de constituição; Licitantes que tenham sido declarados inidôneos para licitar ou contratar com a Administração Pública Direta ou Indireta, Federal, Estadual ou Municipal (art. 87, inciso IV da lei 8.666/93), enquanto perdurar a punição, desde que o ato tenha sido publicado no Diário Oficial relativo ao órgão que o praticou;
+
+c) Licitantes punidos com suspensão temporária do direito de licitar ou contratar com a Administração (art. 87, inciso III da lei 8.666/93), enquanto perdurar a punição, desde que o ato tenha sido publicado no Diário Oficial do Município; d) As pessoas enquadradas no artigo 9º da Lei nº 8.666/93.
+
+3.5. Somente poderão participar da presente licitação as empresas especializadas cujo objeto social especifique atividades pertinentes e compatíveis com o objeto deste Edital. 3.6. Visando agilizar o fluxo dos serviços desta comissão, para o certame sugere-se aos licitantes enumerar sequencialmente e/ou datar a documentação. Ex.: Credenciamento =C01/10, C02/10,....,C10/10 Proposta = P01/25, P02/25,.......,P25/25 Habilitação = H01/22, H02/22, H03/22,......, H22/22
+
+4.0. DA PROPOSTA ­ ENVELOPE Nº 01 4.1. A proposta deverá ser redigida no idioma português, em real, sem rasuras, emendas ou entrelinhas, ser datilografada ou digitada em papel timbrado, datada e assinada por representante legal do licitante, na última folha, e rubricada nas demais, apresentando preços correntes e de mercado, sem quaisquer acréscimos em virtude de expectativa inflacionária ou custo financeiro, devendo incluir todas as despesas, tais como: tributos, seguros, fretes, taxas e contribuições e quaisquer outros custos incidentes decorrentes do objeto licitado, independentemente de declaração do licitante. Sugerimos ainda conter os dados descritos abaixo: a) Qualificação da empresa para elaboração da Ata de Registro de Preços e do Contrato : Dados do Licitante: RAZÃO SOCIAL
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+4
+
+Empresa Municipal de Informática
+
+EMPREL
+ENDEREÇO COM CEP FONE/FAX E-MAIL (se houver) CNPJ INSCRIÇÃO ESTADUAL INSCRIÇÃO MUNICIPAL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Comprovante de domicílio bancário que contenha as seguintes informações: nº do banco, nº da agência, nº da conta corrente e o nº do CNPJ da empresa (empresa que não possua cadastro na Gerência de Credenciamento de Fornecedores - SEFIN - PR) para gerar Empenho. b) Qualificação do representante legal da empresa com poderes para firmar a Ata de Registro de Preços e do Contrato:
+NOME NACIONALIDADE
+
+PROFISSÃO ESTADO CIVIL CARGO NA EMPRESA RG CPF RESIDÊNCIA/DOMICÍLIO 4.2. A proposta deverá conter: 4.2.1. A razão social do licitante, seu endereço completo (rua/avenida, número, bairro, cidade, CEP, UF), telefone, fax e endereço eletrônico (email), número desta licitação; 4.2.2. Os preços de cada etapa/produto do trabalho, o valor do ponto de função e o preço total, expressos em moeda nacional, em algarismo e seguindo o modelo de proposta Anexo V deste edital; 4.2.3. Prazo de validade da Proposta: no mínimo de 60 (sessenta) dias a partir da data marcada para entrega dos envelopes de proposta e documentação. 4.3. A proposta de preços ainda deverá conter: a) A descrição e especificações dos serviços, conforme o Anexo II ­ Termo de Especificações Técnicas; b) Quantidade Estimada de Produtos: 15.000 (quinze mil) pontos de função; c) Preço unitário e o preço global expresso em moeda nacional vigente, em algarismo e por extenso;
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+5
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+d) Forma de Pagamento: será relativo aos Pontos de Função entregues e aprovados; e) Prazo de execução: 12 meses após a assinatura do contrato; f) Prazo inicial para execução: a partir da assinatura do contrato; g) Prazo de Garantia dos Serviços: 06 (seis) meses após o aceite. 4.4. No preço deverão estar incluídas todas e quaisquer despesas com mão-deobra, material de consumo, equipamentos, treinamentos, prêmios de seguro, taxas, inclusive de administração, emolumentos e quaisquer despesas operacionais, bem como todos os encargos trabalhistas, previdenciários, fiscais e comerciais, despesas e obrigações financeiras de qualquer natureza e outras despesas diretas e indiretas necessárias à perfeita execução do objeto, além de auxílio alimentação ou refeição, vales-transporte e quaisquer outras vantagens pagas aos empregados, enfim, todos os componentes de custo dos serviços, inclusive o lucro. Toda e qualquer taxa que incidir sobre o objeto. 4.5. Para cada parcela de entrega/serviços, os preços cotados deverão ser à vista (fixos e irreajustáveis) e expressos em moeda nacional, incluídos todos os encargos e despesas. 4.6. O prazo de pagamento será de até 15(quinze) dias úteis após o recebimento definitivo, mediante a apresentação da Nota Fiscal / Fatura contendo o devido atesto do servidor responsável. 4.7. Ocorrendo divergência entre o preço unitário e o preço total calculado na proposta, prevalecerá o primeiro, corrigindo-se os valores finais. Havendo erro de cálculo, o Pregoeiro efetuará as retificações, considerando os valores unitários indicados na proposta do licitante, multiplicados pelas quantidades previstas no formulário proposta. E em caso de divergência entre o valor em algarismos e o valor por extenso, prevalecerá este último. O resultado final após as retificações efetuadas pelo Pregoeiro será considerado no julgamento como sendo a proposta do licitante. 4.8. A proposta do licitante deverá atender a todas as exigências contidas no Anexo II - Termo de Referência, caso contrário sua proposta será considerada desclassificada. 4.9. Antes de vencido o prazo de validade da proposta, a Administração ou o pregoeiro poderá solicitar que o licitante, mediante declaração expressa, prorrogue o período de validade da proposta. 4.10. A empresa vencedora do certame deverá fornecer a sua proposta em mídia digital em formato PDF (Portable Document Format) a esta comissão, após a sua adjudicação.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+6
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+4.11. Informar funcionário responsável pela Gerência do Contrato na Empresa, de modo a possibilitar um acesso para suporte, dúvidas e solicitações de serviço durante o período de vigência do mesmo. 4.12. A proposta não pode apresentar valor inferior a um centavo de real, conforme a Lei nº 9.069 de 29 de junho de 1995. 4.13. Não serão aceitos preços acima daqueles estimados pela Administração, conforme cotações existentes no processo. 4.14. O licitante deverá apresentar sua Proposta para o objeto licitado, o qual será julgado de acordo com subitem 6.2 deste Edital. 5.0. DA HABILITAÇÃO ­ ENVELOPE Nº 02 5.1. Para fins de habilitação, os licitantes deverão apresentar os seguintes documentos: 5.1.1. Habilitação Jurídica: 5.1.1.1. Certificado de Habilitação de Firmas - CHF expedido pela Gerência de Credenciamento de Fornecedores da Secretaria de Finanças da Prefeitura do Recife, que ainda esteja em vigor, e o objeto social especifique atividade pertinente e compatível com a solicitação deste Edital, ou poderá apresentar: a) Registro comercial, em caso de empresa individual, acompanhado de cédula de identidade do representante legal da empresa; b) Ato constitutivo, estatuto social ou contrato social em vigor da empresa, devidamente registrado, em se tratando de empresa comercial, e, em caso de sociedades por ações, acompanhado de comprovação de eleição dos atuais administradores da empresa ou Certidão Simplificada emitida pela Junta Comercial; c) Inscrição de ato constitutivo, em caso de sociedades civis, acompanhado de comprovação da diretoria em exercício. 5.1.2. Regularidade Fiscal 5.1.2.1. Prova de regularidade para com a Fazenda Municipal do domicílio ou sede do licitante, considerando-se que:
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+7
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+a) Os licitantes com domicílio ou sede no Município Recife deverão apresentar Certidão Negativa Débitos Fiscais expedida pela Gerência Arrecadação e Cobrança (GAC) da Secretaria Finanças da Prefeitura do Recife;
+
+do de de de
+
+b) Os licitantes com domicílio ou sede localizados em outro Município, deverão apresentar a prova de regularidade referente ao município de origem, por meio de Certidão(ões) Negativa(s) englobando todos os tributos (mobiliários e imobiliários), e a Certidão Narrativa expedida pela Secretaria de Finanças da Prefeitura do Recife; b.1) Os licitantes com domicílio ou sede localizados em outro município, que forem inscritos como contribuintes do Município do Recife, deverão apresentar a prova da regularidade referente ao município de origem (na forma da alínea "b") e a Certidão Negativa indicada na alínea "a" deste subitem; b.2) Os licitantes que não possuírem imóveis cadastrados no município de origem, deverão apresentar Certidão Negativa ou outra equivalente informando que não possui cadastro imobiliário. 5.1.2.2. Prova de Inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ) atualizado e que especifique o objeto licitado; Prova de regularidade relativa às Contribuições Previdenciárias e as de Terceiros através da apresentação de Certidão Negativa de Débito (CND) expedida pela Secretaria da Receita Federal do Brasil; Prova de regularidade relativa ao Fundo de Garantia por Tempo de Serviço (FGTS), através da apresentação do CRF - Certificado de Regularidade do FGTS, expedido pela Caixa Econômica Federal; Prova de regularidade para com a Fazenda Estadual do domicílio ou sede do licitante; Prova de regularidade para com a Fazenda Federal, através das seguintes certidões: a) Certidão quanto à Dívida Ativa da União expedida pela Procuradoria da Fazenda Nacional;
+
+5.1.2.3.
+
+5.1.2.4.
+
+5.1.2.5. 5.1.2.6.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+8
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+b) Certidão de Quitação de Tributos e Contribuições Federais, expedida pela Secretaria da Receita Federal do Brasil. 5.2. Qualificação Técnica O licitante deverá apresentar: 5.2.1. Comprovação de aptidão para desempenho de atividade pertinente e compatível em características, quantidades e prazos com o objeto desta licitação, através de Atestado(s) Fornecido(s) por Pessoa Jurídica de Direito Público ou Privado (no mínimo um), devidamente elaborado em papel timbrado do emitente e assinado pelo responsável pela informação nela contida, preferencialmente, com firma reconhecida e que comprove a aptidão do licitante para o desempenho da atividade e compatível em características com o objeto ora licitado, contendo no mínimo, os seguintes dados: a) Nome, CNPJ/MF, endereço completo com telefone da empresa emitente e assinatura do responsável; b) Objeto do contrato (tipo de serviços executados ou em execução, com quantitativos e prazos contratuais); c) Afirmação de que a empresa prestou ou está prestando os serviços corretamente, atendendo a todas as condições contratuais; 5.2.2. Na hipótese da necessidade de confirmação de quaisquer informações dos atestados ou certidões apresentados para fins de habilitação, a EMPREL se reserva o direito de solicitar aos licitantes o(s) respectivo(s) Contrato(s) de prestação de serviços/fornecimento, sem prejuízo da faculdade de realizar diligências, na forma do § 3º do Art. 43 da Lei n° 8.666/93; 5.2.3. O licitante poderá apresentar no momento da sessão a comprovação de que a empresa possui profissionais que encontram-se em condições efetivas de desempenhar seus serviços relativo com as funções técnicas, tendo em vista a especificidade inerente ao desenvolvimento das funcionalidades, na plataforma tecnológica do objeto, podendo ser efetuada por intermédio de cópia autenticada do Contrato Social devidamente registrado na Junta Comercial, se sócio ou proprietário, da Carteira de Trabalho, Contrato de Trabalho, Ficha Funcional devidamente assinada e registrada no Ministério do Trabalho, ou ainda cópias autenticadas do Contrato de Prestação de Serviços, devidamente registrado em cartório.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+9
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+5.2.3.1. Caso não seja apresentada no momento da sessão a comprovação acima, o licitante vencedor deverá apresentá-la até a data de assinatura do contrato, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei nº 8.666/93. 5.2.4. Declaração de Capacitação Física; declaração que a empresa possui instalações físicas, equipamentos e pessoal técnico especializado para o cumprimento do objeto da licitação, assinada pelo representante legal do proponente, e de que, se considerado adjudicatário do objeto da presente licitação, manterá um responsável técnico pela execução dos serviços, objeto do presente Pregão. 5.3. Qualificação Econômico ­ Financeira 5.3.1. Certidão Negativa de Falência ou Concordata expedida pelo distribuidor da Justiça do domicílio ou sede do licitante em data não anterior a 180 (cento e oitenta) dias da data da entrega dos envelopes de proposta e documentação. 5.3.2. Balanço patrimonial e demais demonstrações contábeis do último exercício social, exigíveis e apresentáveis, na forma da lei, que comprovem a boa situação financeira da empresa, através de índices de liquidez corrente e liquidez geral iguais ou maiores que 1,00(um), calculados com base na seguinte fórmula: a) ILC = Ativo Circulante -------------------------Passivo Circulante Ativo Circulante + Realizável a Longo Prazo ------------------------------------------------------------Passivo Circulante + Exigível a Longo Prazo
+
+b) ILG =
+
+5.3.2.1. Os balanços e demonstrações contábeis devem vir acompanhados do termo de abertura e encerramento, com assinaturas do representante legal da empresa e do contabilista registrado no Conselho Regional de Contabilidade, com registro da Junta Comercial, em todas as páginas, sendo vedada a sua substituição por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais quando encerrados há mais de 03(três) meses da data da apresentação da proposta, nos Municípios onde as Demonstrações Contábeis forem enviadas através do Sistema Digital, só serão aceitos os envios através do Sistema Público de Escrituração Digital(SPED) devidamente registrados pelo Ministério da Fazenda e da Secretaria da Receita Federal do Brasil. As
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+10
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Sociedades Anônimas deverão apresentar os balanços e as demonstrações contábeis publicadas em jornal. 5.3.2.2. A atualização referida no subitem anterior deverá ser efetuada em (R$) reais, acompanhada da respectiva memória de cálculos, assinada por contador, com o respectivo número de registro no Conselho Regional de Contabilidade. 5.3.2.3. As empresas que apresentem índices de liquidez geral e corrente inferior a 1 (um), deverão comprovar que possuem capital social ou patrimônio líquido de, no mínimo, 10% (dez por cento) do valor da contratação. 5.4. Declarações 5.4.1. Declaração do licitante sobre a Cessão de Direitos Autorais e Patrimoniais, conforme modelo Anexo VI deste edital. 5.4.2. Declaração do licitante afirmando o cumprimento do disposto no Inciso XXXIII do art. 7º da Constituição Federal combinado com o artigo 27, V da Lei nº 8.666/1993, conforme modelo Anexo VII deste edital. 5.5. Os documentos necessários à habilitação poderão ser apresentados em uma única via, em original, por qualquer processo de cópia autenticada em cartório competente, ou publicação em órgão da imprensa oficial, podendo ainda, ser apresentados por cópia para serem autenticados pelo Pregoeiro no dia de abertura do envelope de habilitação, desde que venham acompanhados de seus respectivos originais, vedada sua apresentação através de cópia produzida via fax símile ou cópia que não esteja legível. Os documentos que forem emitidos via Internet terão sua autenticidade verificada nos respectivos sites. 5.6. Os documentos que não tiverem prazo de validade estabelecido pelo órgão expedidor somente serão válidos desde que tenham sido expedidos, no máximo, dentro dos 60 (sessenta) dias anteriores à data fixada para o recebimento dos envelopes, ressalvado o disposto no subitem 5.3.1 do Edital. 5.7. Será inabilitado o licitante que deixar de apresentar quaisquer documentos exigidos ou apresentá-los em desacordo com as exigências do edital.
+
+6.0. DO PROCESSAMENTO E JULGAMENTO 6.1. A licitação será processada e julgada de acordo com as disposições da Lei nº 10.520/2002, aplicando-se subsidiariamente o Decreto Federal nº 3.555/2000, Lei nº 8.666/93 e o Decreto Municipal nº 19.789/2003, considerando a PROPOSTA que apresente o MENOR VALOR GLOBAL que atenda todas as exigências deste Edital, sendo observados os seguintes procedimentos:
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+11
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+a) No dia, hora e local designado no Edital, na presença dos licitantes e demais pessoas presentes ao ato público, o pregoeiro, juntamente com a equipe de apoio, executará a rotina de credenciamento; b) Declarada aberta a sessão e verificadas as credenciais, o pregoeiro solicitará a assinatura das licitantes presentes, na "Declaração de Cumprimento aos Requisitos de Habilitação", conforme inciso IV do art. 4º da Lei nº 10.520/02, exceto para licitante sem representante credenciado, e receberá, em envelopes devidamente lacrados, a proposta e os documentos exigidos para habilitação; c) Em nenhuma hipótese serão recebidos envelopes contendo as propostas e os documentos de habilitação fora do prazo estabelecido neste Edital; d) Serão abertos, primeiramente, os envelopes, logo após será iniciada a leitura dos preços e verificação das propostas, que serão classificadas pelo Pregoeiro, no critério de Menor Preço Global, promovendo-se a desclassificação provisória das demais; e) Não havendo tempo suficiente para conclusão das etapas e/ou surgirem dúvidas que não possam ser dirimidas de imediato, os motivos serão consignados em ata e a continuação dar-se-á em sessão a ser convocada posteriormente; e.1) A interrupção dos trabalhos de que trata o item "e" somente dar-se-á, em qualquer hipótese, após comunicação aos licitantes presentes; e.2) Os envelopes não abertos, já rubricados no fecho, obrigatoriamente, pelo Pregoeiro e pelos representantes legais dos Licitantes presentes, ficarão em poder do Pregoeiro e sob sua guarda até nova reunião oportunamente marcada para o prosseguimento dos trabalhos; f) Abertura de oportunidade para lances verbais e sucessivos dos representantes dos licitantes, cuja proposta tenha sido classificada em primeiro lugar, e das propostas que apresentem valor até 10% (dez por cento) acima da primeira classificada; f.1) Não havendo pelo menos 03 (três) propostas classificadas nas condições definidas no item anterior, o pregoeiro classificará, para apresentação de lances, as melhores propostas, até o máximo de 03 (três), quaisquer que sejam os preços ofertados; f.2) Os lances deverão ser verbais e sucessivos e devem ter valores distintos e decrescentes, os intervalos de lances serão livres e serão considerados do valor do ponto de função.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+12
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+f.3) A desistência de apresentação de lances verbais, quando convocado pelo Pregoeiro, implicará exclusão do licitante da etapa de lances verbais, mantendo-se o último preço apresentado. g) Examinada a proposta classificada em primeiro lugar, quanto ao objeto e valor, caberá ao Pregoeiro decidir, motivadamente, a respeito de sua aceitabilidade. h) Abertura do envelope contendo os documentos de habilitação apresentado pelo licitante, cuja proposta tenha sido classificada em primeiro lugar; i) Deliberação sobre a habilitação do licitante classificado em primeiro lugar ou sobre sua inabilitação, prosseguindo-se, no segundo caso, com a abertura do envelope contendo os documentos de habilitação dos licitantes sucessivos na ordem de classificação, até a apuração de um que atenda às exigências deste edital; j) Nas situações previstas nas alíneas "h" e "i" deste item, o Pregoeiro poderá negociar diretamente com o proponente classificado em primeiro lugar, para que seja obtido preço melhor; k) Comunicação do resultado do julgamento, declarado o licitante vencedor, após o que os demais licitantes poderão manifestar imediata e motivadamente a intenção de recorrer, quando lhes será concedido o prazo de 03 (dias) dias, para apresentação do recurso, ficando aqueles que não recorreram, desde logo intimados para apresentar contra-razões em igual número de dias, que começarão a correr do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos autos; k.1) A falta de manifestação imediata e motivada do licitante, importará a decadência do direito de recurso e a adjudicação do objeto desta licitação, pelo pregoeiro, ao vencedor; l) Rubrica dos documentos pelo pregoeiro, equipe de apoio e representantes dos licitantes; m) Elaboração de ata da sessão, com assinatura pelo pregoeiro, equipe de apoio e representantes dos licitantes; n) Devolução dos envelopes contendo os documentos de habilitação dos licitantes remanescentes, com exceção dos documentos dos licitantes com propostas classificadas em 2º (segundo) e 3º (terceiro) lugar, que ficarão retidos até a data de assinatura do Contrato pelo licitante vencedor, devendo as empresas retirá-las no período de até 30 (trinta) dias, após a data de assinatura da Ata de Registro de Preços, sob pena de inutilização dos mesmos;
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+13
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+o) Somente será habilitado o licitante que preencher os requisitos exigidos, na data da sessão do Pregão e que apresentar, na sessão de prosseguimento, os documentos atualizados. 6.2. O critério de julgamento será o de Menor Preço Global, admitindo-se como critério de aceitabilidade os preços compatíveis com os de mercado. 6.3. Na desclassificação de propostas, observar-se-á o que determina o art. 48 da Lei n° 8.666/93. 6.4. A classificação das propostas dar-se-á pela ordem crescente dos preços propostos e, no caso de empate, o pregoeiro realizará o sorteio, na forma do § 2º do artigo 45 da Lei nº 8.666/1993. 7.0. DA HOMOLOGAÇÃO E DA ADJUDICAÇÃO 7.1. A autoridade competente da EMPREL efetuará a homologação do processo, conforme inciso XXII do artigo 4º da Lei nº 10.520/2002, e, no caso de interposição de recurso administrativo, fará a adjudicação do objeto ao vencedor, após a decisão do recurso. 7.2. Não havendo interposição de recurso, a adjudicação do objeto será efetuada pelo Pregoeiro, observando o disposto no subitem 6.1, alínea "k" deste Edital. 8.0. DA FORMALIZAÇÃO DA ATA DE REGISTRO DE PREÇOS E DO CONTRATO 8.1. Este Pregão, e seus respectivos Anexos, farão parte integrante da Ata de Registro de Preços e do contrato a ser assinado entre a EMPREL e o licitante vencedor, no qual ficará estabelecido que o Foro da Cidade de Recife, o único competente para dirimir todas e quaisquer dúvidas oriundas dos termos da presente licitação e respectivo instrumento contratual.
+
+8.2. O adjudicatário terá o prazo de 05 (cinco) dias úteis para assinar a Ata de Registro de Preços e do Contrato, contados a partir da convocação, observado o disposto no art. 64 da Lei nº 8.666/93. 8.3. A Contratada deverá apresentar à EMPREL para o objeto licitado, no prazo de até 20 (vinte) dias, após a assinatura do contrato a comprovação de garantia de execução contratual no valor de 5% (cinco por cento) do valor do contrato, conforme § 2º, do artigo 56 da Lei nº 8.666/93, com prazo de validade, no mínimo, igual ao prazo de vigência do contrato, dentre as opções abaixo: I - A fiança será prestada por instituição financeira, devendo constar, entre outras condições, a renúncia expressa ao benefício do artigo 827 do Código Civil Brasileiro;
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+14
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+II - O seguro ­ garantia consistirá na emissão de apólice, por entidade seguradora em funcionamento no Brasil, em favor da EMPREL; III - A caução em dinheiro será depositada na conta corrente da EMPREL. 8.3.1. A garantia contratual, verificado o cumprimento das obrigações contratuais, será devolvida mediante requerimento da CONTRATADA, no prazo de 30 (trinta) dias, contados do termo de finalização da execução do objeto licitado; A garantia efetuada mediante caução em dinheiro será atualizada de acordo com a variação do índice de rendimento da caderneta de poupança para o 1º dia do mês, excluídos os juros, calculada proporcionalmente, quando for o caso, a contar da data do depósito até o seu efetivo levantamento, devendo o depósito ser efetuado na C/C Nº 6858-6 ­ Agência 3234-4 ­ BANCO DO BRASIL S/A, efetuado em nome da EMPREL. A referida caução será restituída após a execução do contrato.
+
+8.3.2.
+
+8.4. O prazo de vigência da Ata de Registro de Preços e do Contrato serão de até 12 (doze) meses, tendo como termo de início a data de sua assinatura. 8.5. 8.6. O contrato poderá ser prorrogado, conforme o art. 57 da Lei nº 8.666/93. Na hipótese de prorrogação do contrato observar-se-á o disposto no Decreto Municipal nº 23.127 de 17 de outubro de 2007. 8.6.1. A revisão dos preços dos serviços contratados poderá ser admitida nos termos do Decreto Municipal nº 23.127 de 17 de outubro de 2007, após 12(doze) meses, a contar da data da proposta. 8.7. É vedada a subcontratação do objeto desta licitação, no todo ou em parte. 8.8. A Contratada será responsável pelos encargos trabalhistas, previdenciários, securitários, fiscais, comerciais, civis e criminais resultantes da execução do contrato, inclusive no tocante aos seus empregados. 8.9. Obriga-se a Contratada a manter, durante a vigência da Ata de Registro de Preços e do Contrato, em compatibilidade com as obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas nesta licitação. 8.10. Na hipótese de alterações contratuais observar-se-á o art. 65 da Lei 8.666/93.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+15
+
+Empresa Municipal de Informática
+
+EMPREL
+9.0. DA GARANTIA DOS SERVIÇOS 9.1.
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+A licitante deverá garantir durante 06 (seis) meses após o aceite da demanda pela EMPREL, toda a manutenção corretiva decorrente de erros ou falhas na realização dos serviços, sem ônus adicionais para a EMPREL. O atendimento à execução das correções deverá ser procedido conforme o Anexo II - Termo de Referência do edital.
+
+10.0. DO PRAZO E DA EXECUÇÃO DO OBJETO 10.1. A infra-estrutura e ferramenta necessária para início dos trabalhos deverá estar à disposição da EMPREL a partir da assinatura do Contrato. Os serviços contratados serão executados nas dependências da Contratada e sua execução será no prazo de 12 (doze) meses. 10.2. A Contratada deverá executar o objeto licitado de acordo com as disposições do Anexo II - Termo de Referência do edital. 11.0. DAS CONDIÇÕES DE RECEBIMENTO DO OBJETO 11.1. O objeto desta Licitação será recebido: a) Provisoriamente, na Diretoria de Negócios e Sistemas Corporativos ­ DNC da EMPREL, Rua 21 de Abril, nº 3370, Torrões ­ Recife-PE, pela Equipe Técnica responsável por seu acompanhamento e fiscalização, mediante termo circunstanciado, assinado pelas partes, em até 15 (quinze) dias consecutivos da comunicação escrita do contratado; b) Definitivamente, pela Equipe Técnica, mediante termo circunstanciado, homologando o trabalho realizado e os produtos deste advindos, após o decurso do prazo de observação ou de vistoria, que comprove a adequação do objeto aos termos contratuais, prazo esse não superior a 90 (noventa) dias. 11.2. No aceite dos serviços, a quantidade de Pontos de Função contratados poderá ser reavaliada pela EMPREL, visando sua adequação aos requisitos e características reais do serviço executado. 11.3. As Ordens de Serviço, a critério da EMPREL, poderão ser divididas em função das Fases do Ciclo de Desenvolvimento ou produtos intermediários definidos pelas metodologias adotadas pela EMPREL. 11.4. Os serviços, objeto desta licitação, serão dimensionados e contratados conforme as necessidades da EMPREL.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+16
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+11.5. Todos os produtos resultantes dos serviços desenvolvidos pela Contratada deverão ser entregues à EMPREL, que terá direito de propriedade sobre os mesmos, inclusive códigos fonte, documentação, componentes básicos e bibliotecas, utilizados no desenvolvimento. 11.6. A aceitação final dos serviços não acarretará, de modo algum, a exoneração da Contratada da responsabilidade civil e técnica por futuros eventos decorrentes ou relacionados com a execução dos mesmos. 11.6.1. Caso os softwares apresentem falhas ou vícios de execução, dar-se-á de imediato, por escrito, ciência à CONTRATADA para que esta proceda, incontinente, as correções apontadas. 11.7. A Contratada deverá informar, por escrito, à Diretoria de Negócios e Sistemas Corporativos ­ DNC de imediato, a ocorrência de qualquer fato ou condição que, justificadamente, possa atrasar ou impedir a execução do objeto, sugerindo à EMPREL as medidas necessárias para a solução do impasse. 12.0. FORMA DE PAGAMENTO DOS SERVIÇOS/AQUISIÇÕES 12.1. Os pagamentos serão efetuados no prazo de até 15 (quinze) dias úteis, do mês subseqüente aos Serviços que forem realizados, após a aceitação definitiva, mediante a apresentação da Nota Fiscal/Fatura, na Diretoria de Negócios e Sistemas Corporativos ­ DNC, com atesto pelo servidor responsável, comprovando a efetiva realização da entrega. 12.2. Nenhum pagamento será efetuado ao fornecedor enquanto pendente de liquidação qualquer obrigação. Esse fato não será gerador de direito a reajustamento de preço ou a atualização monetária. 13.0. DAS OBRIGAÇÕES DA CONTRATANTE 13.1. As obrigações da EMPREL estão descritas no Anexo II ­ Termo de Referência e na minuta do contrato, anexos II e IX do edital. 14.0. DAS OBRIGAÇÕES DA CONTRATADA 14.1. As obrigações da Contratada estão descritas no Anexo II - Termo de Referência e na minuta do contrato, anexos II e IX do edital.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+17
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+15.0. DOS RECURSOS ADMINISTRATIVOS 15.1. Dos atos da Administração decorrentes desta licitação poderão ser interpostos recursos administrativos, com base no que determina a Lei nº 10.520/2002, aplicando-se supletivamente o art. 109 da Lei nº 8.666/93, observando-se o disposto no subitem 6.1, alínea "k" deste Edital. 15.2. Os recursos serão dirigidos ao Presidente da EMPREL, desde que o licitante tenha se manifestado motivadamente na sessão pública do Pregão, e deverão ser entregues diretamente ao Pregoeiro, na sala da CPL na Rua 21 de Abril, 3370 -Torrões nesta cidade, no horário de 8h(oito horas) às 12h(doze horas) e de 13h(treze horas) às 17h(dezessete horas). 15.3. O acolhimento de recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 16.0. DAS SANÇÕES 16.1. As penalidades aplicadas a ambas as partes contratantes são as previstas no Estatuto Federal Licitatório, na hipótese de inexecução total ou parcial deste instrumento, dentro dos padrões estipulados no Processo Licitatório nº 014/2011. 16.2. A inexecução total ou parcial do objeto licitado sujeitará a CONTRATADA às seguintes penalidades, assegurados o contraditório e a ampla defesa, na forma do artigo 87 da Lei nº 8.666/93: a) Advertência; b) Multa, correspondente de até 10% (dez por cento) do valor total do objeto licitado; c) Suspensão temporária da participação em licitação e impedimento de contratar com a Administração, por prazo não superior a 02 (dois) anos (art. 87, III, da Lei nº 8.666/93);
+
+d) Declaração de inidoneidade para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a autoridade que aplicou a penalidade, depois do ressarcimento à Administração pelos prejuízos resultantes e após decorrido o prazo de sua aplicação (art. 87, IV, da Lei nº 8.666/93). Parágrafo Primeiro ­ O valor da multa será aplicado/descontado após ser dado direito de defesa para a Contratada, procedendo a EMPREL com o desconto do pagamento a ser realizado na fatura ou por meio de cobrança judicial.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+18
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Parágrafo Segundo ­ As sanções estipuladas acima poderão ser aplicadas de forma cumulativa, ou não, a depender da gravidade das violações contratuais. 16.3. Independente da multa prevista no item 16.2, acima, a EMPREL poderá ainda, aplicar as sanções previstas no artigo 86 e seguintes da Lei nº 8.666/93. 16.4. O licitante que, convocado dentro do prazo de validade de sua proposta, não assinar a Ata de Registro de Preços, deixar de entregar ou apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo ou cometer fraude fiscal, ficará impedido de licitar e contratar com o Município, e será descredenciado do Certificado de Habilitação de Firmas ­ CHF expedido pela Gerência de Credenciamento de Fornecedores da Secretaria de Finanças da Prefeitura do Recife, pelo prazo de até 05(cinco) anos, sem prejuízo das multas previstas neste edital e das demais cominações legais. 17.0. DA RESCISÃO CONTRATUAL 17.1. A inexecução total ou parcial do objeto desta licitação ensejará a sua rescisão, conforme disposto nos artigos 77 a 80 da Lei Federal Nº 8.666/93. 17.2. Os casos de rescisão contratual deverão ser formalmente motivados nos autos do processo, assegurado o contraditório e a ampla defesa; 17.3. A rescisão do Contrato poderá ser: 17.3.1. Determinada por ato unilateral e escrito da Administração, nos casos enumerados nos incisos I a XII e XVII do artigo 78 da Lei Federal Nº 8.666/93, ou nas hipóteses do artigo 79 do mesmo diploma legal, quando cabível. 17.3.2. A rescisão Administrativa ou amigável deverá ser procedida de autorização escrita e fundamentada da autoridade competente. 18.0. DAS DISPOSIÇÕES GERAIS 18.1. Constituem anexos deste instrumento convocatório, dele fazendo parte integrante, os respectivos Anexos. 18.2. É facultado ao Pregoeiro ou autoridade superior, em qualquer fase da licitação, fazer uso da prerrogativa conferida pelo § 3º do artigo 43 da Lei nº 8.666/93, promover diligências destinadas a esclarecer ou complementar a instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar originariamente da proposta.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+19
+
+Empresa Municipal de Informática
+
+EMPREL
+18.3.
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Reserva-se a EMPREL o direito de revogar esta licitação, por razões de interesse público decorrente de fato superveniente devidamente comprovado, pertinente e suficiente para justificar tal conduta, devendo anulá-la por ilegalidade, de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente fundamentado, nos termos do art. 49, da Lei nº 8.666/93.
+
+18.4. Qualquer impugnação deverá ser entregue diretamente na CPL, no horário de expediente das 8h (oito horas) às 12h (doze horas) e de 13h (treze horas) às 17h (dezessete horas), até o segundo dia útil da sessão de entrega dos envelopes de proposta e da habilitação. 18.5. Não serão admitidas impugnações enviadas via fax ou apresentadas de forma ilegível. Somente serão admitidas se apresentadas em original e protocoladas na CPL da EMPREL. 18.6. A divulgação dos resultados, referentes a esta licitação, será disponibilizada no Site da Prefeitura. 18.7. Quaisquer pedidos de esclarecimentos sobre esta licitação deverão ser solicitados ao Pregoeiro, através do e-mail cpl@recife.pe.gov.br em arquivo PDF no prazo de até 02(dois) dias úteis antes do recebimento dos envelopes. Os questionamentos e respostas, avisos e alterações estarão disponibilizados no endereço eletrônico www.recife.pe.gov.br no link licitações ­ avisos/ acompanhamento ano atual. 18.7.1. Se houver mudança da data de abertura da sessão, os interessados que retiraram no portal através do protocolo gerado pelo sistema, serão comunicados através de e-mail. 18.8. Os interessados poderão solicitar cópia deste instrumento convocatório na Sala da CPL, na Rua 21 de Abril, 3370 ­ Torrões, nesta cidade, mediante o pagamento do valor de R$ 0,15 (quinze centavos de real) por folha. 18.9. Os licitantes poderão optar pela retirada do edital via Internet, através do endereço eletrônico www.recife.pe.gov.br, no link licitações (este sem custos), devendo efetuar o preenchimento do formulário eletrônico, indicando nome, endereço, CNPJ, telefone, fax e e-mail, com antecedência de até 24(vinte e quatro) horas da data de apresentação dos envelopes de documentação e proposta. 18.10. Os casos omissos neste Edital serão resolvidos nos termos da Lei nº 10.520/2002 e da Lei nº 8.666 de 21.06.1993. 18.11. Aplicam-se a este Edital as disposições da Lei n° 8.666/93 e respectivas alterações que regulamentam as licitações promovidas pela Administração Pública, na Lei nº 10.520/2002, Decreto Federal nº 3.555/2000, assim como os Decretos Municipais nºs 19.205/2002, 19.789/2003, 20.573/2004 e 23.127/2007e a Portaria nº 008 de 13 de janeiro de 2011.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+20
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+18.12. A empresa vencedora assumirá integral e exclusivamente a responsabilidade no que diz respeito às obrigações fiscais, trabalhistas, previdenciárias e todos os demais encargos que porventura venham a incidir sobre o objeto deste Pregão. 18.13. O licitante é responsável pela fidelidade e legitimidade das informações e dos documentos apresentados em qualquer fase da licitação. 18.14. Na hipótese de sobrevirem fatos imprevisíveis, ou previsíveis, porém de consequências incalculáveis, retardadores ou impeditivos da execução do ajustado, ou ainda, em caso de força maior, caso fortuito ou fato do príncipe, configurando álea econômica extraordinária e extracontratual, a relação que as partes pactuaram inicialmente entre os encargos da empresa Contratada e a retribuição do Contratante poderá ser revisada, com vistas à manutenção do equilíbrio econômico-financeiro do contrato. 18.15. Quaisquer tributos ou encargos legais criados pelo Governo Federal, alterados ou extintos, bem como a superveniência de disposições legais, quando ocorridas após a data de apresentação da proposta, de comprovada repercussão nos preços contratados, implicarão a revisão destes para mais ou para menos, conforme o caso, desde que devidamente comprovados através de cálculos e a documentação pertinente. 18.16. Para fins de dirimir controvérsias decorrentes desta licitação, será considerado domicílio contratual eleito pelas partes a cidade do Recife, sendo unicamente competente o respectivo Foro. Recife, 16 de novembro de 2011.
+
+Fernando Ramos Pregoeiro da EMPREL Equipe de apoio: · · · · José Edson Belarmino de Oliveira (Pregoeiro Suplente) Berenice Alves de Oliveira Bartolomeu Lourenço de Souza Maria Lúcia de Araújo Silva
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+21
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+COMISSÃO PERMANENTE DE LICITAÇÃO PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 TIPO: MENOR PREÇO
+
+ANEXO I - MINUTA DA ATA DE REGISTRO DE PREÇOS Interessado: EMPREL Aos ...... dias do mês de ..................... do ano dois mil e onze, na Empresa Municipal de Informática ­ EMPREL, situada à Rua 21 de Abril, 3370, Torrões, Recife PE, reuniram-se o Presidente, Sr. WELLINGTON BATISTA DA SILVA, brasileiro, casado, bacharel em sociologia, inscrito no CPF/MF sob o nº 402.920.614-04, portador da cédula de identidade nº 2.533.708-SSP/PE e o Diretor de Negócios e Sistemas Corporativos, Sr. ADILSON DA SILVA, brasileiro, casado, analista de sistemas, inscrito no CPF/MF sob o nº 391.128.104-87, portador da cédula de identidade nº 2.686.034-SSP-PE e a Empresa................................................................ com sede à ......................................................., inscrito no CNPJ sob o nº ......................................................... neste ato representada pelo senhor(a) ......................................., inscrito no CPF/MF sob o nº.................................., para proceder, nos termos da Lei nº 10.520/2002, Decretos Federais nºs 3.555/2000, 3.931/2001, dos Decretos Municipais nº s 19.205/2002, 19.789/2003, 20.573/2004 e 23.127/2007 e do Edital de Pregão Presencial para Registro de Preços nº 013/2011 ­ EMPREL, para contratação de serviços técnicos especializados de documentação, desenvolvimento e manutenção de Sistemas e Aplicativos que tenha JAVA ou PHP como tecnologia predominante a serem executados em regime de Fábrica de Software, de acordo com as especificações descritas no anexo II ­ Termo de Referência do edital, pelo período de até 12 (doze) meses, de acordo com as especificações e condições constantes no anexo II - Termo de Referência do edital. Abaixo descritos os lotes homologados em nome da empresa acima citada, com respectivos preços. DESCRIÇÃO DOS SERVIÇOS PONTOS PREÇO UNITÁRIO PREÇO GLOBAL DE FUNÇÃO (R$) (R$) (valor por extenso)
+
+Valor global da proposta: R$
+
+Fica declarado que os preços constantes da presente ata, portanto registrados, são válidos pelo prazo de até 12(doze) meses, de comum acordo entre as partes, contado da data de assinatura deste instrumento.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+22
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+As obrigações da Empresa Registrada e da EMPREL, condições gerais, assim como as penalidades encontram-se no Edital de Embasamento do Pregão Presencial para Registro de Preços nº 013/2011. Nada mais havendo a ser declarado, foi encerrada a presente ata que, após lida e aprovada, será assinada pelas partes.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL WELLINGTON BATISTA DA SILVA Presidente
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL ADILSON DA SILVA Diretor de Negócios e Sistemas Corporativos
+
+Representante Legal da Empresa Vencedora
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+23
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+COMISSÃO PERMANENTE DE LICITAÇÃO PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 TIPO: MENOR PREÇO ANEXO II - TERMO DE REFERÊNCIA 1. Justificativa_______________________________________________________ A EMPREL armazena e mantêm em seu datacenter um conjunto de sistemas informatizados que foram construídos ao longo dos seus 40 anos de existência. Todos estes sistemas são utilizados de forma corporativa pela Administração Municipal para gerir os processos nas suas diversas áreas de atuação. As empresas da área de tecnologia da informação de um modo geral, e em particular a EMPREL, tem se deparado ao longo do tempo com a necessidade de adequar os seus sistemas às diversas plataformas de desenvolvimento utilizadas pelo mercado de TIC. Cada uma destas plataformas, muitas vezes, utiliza linguagens de programação específicas com características próprias. As transformações que essas tecnologias provocam nos processos empresariais afetam todas as camadas da arquitetura corporativa, desde o direcionamento estratégico até a plataforma computacional e rede física na qual a empresa opera. Esse contexto geralmente ocasiona problemas de falta de integração entre os sistemas e, conseqüentemente, dificulta o compartilhamento das informações, a manutenção corretiva e a manutenção evolutiva destes sistemas. A evolução tecnológica e a crescente solicitação por sistemas que informatizem os processos da PCR ­ Prefeitura da Cidade do Recife tem gerado um volume de serviços por vezes superior a capacidade de atendimento da EMPREL. Estas solicitações exigem que tenhamos em nossos quadros profissionais que dominem diversas tecnologias de modo a atender as solicitações com a celeridade que é requisitada. Portanto, a fim de se evitar a solução de continuidade nos diversos projetos coordenados pela EMPREL no âmbito da PCR e pela constatação que não há no quadro de funcionários da EMPREL o número suficiente de profissionais especializados com conhecimento e habilidades necessários para a execução dessas atividades no tempo requerido pelos demandantes, torna-se fundamental a contratação de empresas especializadas com profundo domínio nas plataformas tecnológicas especificadas, bem como em metodologias e processos ágeis de desenvolvimento de software, que possam prestar serviços à EMPREL na modalidade de Fábrica de Software. 2. Objeto____________________________________________________________ Contratação de serviços técnicos especializados de documentação, desenvolvimento e manutenção de Sistemas e Aplicativos que tenha JAVA ou PHP como tecnologia
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+24
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+predominante a serem executados em regime de Fábrica de Software, visando atender às necessidades da EMPREL. Para dimensionamento das demandas será utilizada a técnica de Análise de Pontos de Função, padrão do IFPUG. 3. Volume Estimado___________________________________________________ O volume total estimado será de 15.000 (quinze mil) Pontos de Função, durante a vigência do contrato. A vigência deste contrato é de 12 (doze) meses após a assinatura do mesmo, podendo ser renovado por igual período por necessidade da Emprel. A CONTRATADA se obriga a aceitar, nas mesmas condições contratuais, acréscimo nos serviços, de até 25% (vinte e cinco por cento) do volume inicial deste CONTRATO, em conformidade com a Lei 8.666/1993. Critérios de Qualificação Técnica Será desclassificada a licitante que deixar de cumprir qualquer dos itens listados na tabela abaixo: Item 01 02 03 04 Descrição Certificado NBR/ISO 9001 para Fábrica de Software ou Desenvolvimento de Software. Certificação CMMi nível 3 ou superior ou MPSBr Nivel C ou Superior. Certificado NBR/ISO 9001 para Fábrica de Teste. A empresa deverá comprovar o desenvolvimento de mais de 5.000 (cinco mil) Pontos de Função somados em todos os projetos de desenvolvimento de software e/ou fábrica de software (Comprovados por atestados de capacidade técnica emitidos por clientes). Atestado de capacidade técnica de prestação de serviços desenvolvimento e manutenção de sistemas utilizando a plataforma Java (ênfase JEE) ou PHP 5.3 ou superior e software de gerência de banco de dados relacional (SGBDR). Atestado de capacidade técnica de prestação de serviços de desenvolvimento ou manutenção de sistemas com a utilização de ferramentas de análise de qualidade de código e ferramentas de integração contínua. Atestado de capacidade técnica de prestação de serviços de desenvolvimento e manutenção de sistemas utilizando a plataforma Java (Ênfase em JEE) com frameworks Wicket ou JSF ou Struts 2, Hibernate ou JDO ou EJB e Spring ou Hivemind, utilizando um modelo de fábrica de software remoto (fora das instalações do cliente) baseado em processo formalmente definido em ANS. Atestado de capacidade técnica de prestação de serviços de desenvolvimento de software realizados com base no padrão de gerenciamento de projetos definidos pelo PMI (Project Management Institute), de acordo com o Project Management Body of Knowledge (PMBOK). Experiência em desenvolvimento de software realizado com base nas práticas de desenvolvimento com metodologias Ágeis.
+
+05
+
+06
+
+07
+
+08
+
+09
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+25
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+4. Critério de_Julgamento das Propostas ______________________________ A licitante poderá apresentar representante localizado na Região Metropolitana de Recife desde que se comprometa a: Dentro do prazo de 6 (seis) meses , contados a partir da assinatura do contrato, apresentar para a unidade que prestará o serviço na Região Metropolitana de Recife os certificados idênticos a unidade que recebeu os atestados. A equipe que executará o serviço deverá ter obrigatoriamente profissionais com no mínimo as seguintes certificações: · Profissional com Certificação em Ponto de Função ­ Certified Function Point Specialist (CFPS). Profissional com Certificação PMP ­ Project Management Professional (PMP). Profissional com Certificação Sun Certified Java Programmer. Profissional com Certificação em Teste ­ International Software Testing Qualifications Board (ISTQB). Profissional com Certificação Product Owner ­ Certified Scrum Product Owner. Profissional com Certificação ScrumMaster ­ Curso Oficial ScrumMaster (CSM). Certified
+
+· · ·
+
+· ·
+
+Caso o serviço seja prestado inicialmente (até o prazo de 6 meses estabelecidos no edital) por unidade fora da Região Metropolitana de Recife, a empresa deverá transferir para a unidade de Recife pelo menos 6 (seis) profissionais da unidade referenciada que tenham as certificações acima e mantê-los na unidade de Recife, e alocados no projeto, por pelo menos 6 (seis) meses. No caso da CONTRATADA precisar, por motivo de força maior, substituir algum dos profissionais, deverá ter a mesma capacitação técnica do substituído. 5. Condições de Repasse dos Serviços__________________________________ Os serviços serão formalizados pela EMPREL por intermédio da ferramenta de controle de mudança à CONTRATADA a ser detalhada posteriormente e que deverá conter informações que permitam a gestão do repasse e execução dos serviços, tais como: Escopo do serviço a ser executado; Contagem Estimada de Pontos de Função (Function Points Analysis) conforme a
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+26
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+metodologia descrita no Manual de Práticas e Contagens (Counting Practices Manual) Versão 4.2 ou superior, publicado pelo IFPUG (International Function Point Users Group). A norma de utilização da métrica acima referida consta deste Termo de Especificação Técnica. 6. Condições de Execução dos Serviços__________________________________ A EMPREL reserva-se o direito de contratar os serviços de forma total ou parcial. Entende-se por total a contratação de um projeto completo, que tem as fases de requisitos, análise e projetos, construção e testes. Contratação parcial é a execução apenas dos serviços de construção e testes do software. As ordens de produção dos artefatos repassadas à CONTRATADA serão desempenhadas na Região Metropolitana do Recife, em função da necessidade de uma interação mais próxima entre os profissionais da fábrica de software contratada e os analistas da EMPREL, com o intuito de dinamizar estas produções, a EMPREL, quando necessário, reservasse o direito de autorizar a realização destas ordens de produção em unidades da CONTRATADA fora do estado, se houver.
+
+6.1. Serviço Projeto Completo___________________________________________ Esse tipo de serviço consiste na definição, análise, construção e testes do software na tecnologia e padrões definidos a partir dos requisitos identificados pela equipe da EMPREL. É de responsabilidade da equipe da EMPREL, a confecção dos artefatos de entrada descritos na seção 6.1.1 e da equipe da CONTRATADA, a elaboração dos artefatos de saída descritos na seção 6.1.2 que atendam os critérios de aceitação previstos na seção 6.1.3. 6.1.1. Artefatos de Entrada Documento de Requisitos: Descreve os requisitos funcionais e não funcionais do projeto, bem como o escopo não contemplado; Documento da Arquitetura: Contém as principais definições da arquitetura do projeto. Tem como objetivo principal servir de referência para o desenvolvimento do sistema, promovendo o reuso de padrões e componentes. 6.1.2. Artefatos de Saída · Especificação de Casos de Uso ou Especificação Funcional: Descreve o fluxo de eventos, entradas e saídas do caso de uso e/ou funcionalidade do sistema; Protótipo da Interface: Descreve o modelo de interface (padrão visual);
+
+·
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+27
+
+Empresa Municipal de Informática
+
+EMPREL
+·
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Modelo de Entidade e Relacionamento: Descreve o modelo lógico e físico dos elementos do banco de dados; Dicionário de Dados: Descreve a nomenclatura dos elementos do banco de dados em conformidade com o padrão de nomenclatura constante na MEDS; Código fonte referente à implementação dos requisitos na linguagem acordada, incluindo classes de testes unitários; Relatório com o resultado da inspeção do código fonte. A inspeção deve analisar os padrões de desenvolvimento, tais como: comentário, uso de constantes, nomenclatura das funções e das variáveis, variáveis sem uso, aderência a arquitetura definida para o projeto, métodos e classes extensos e métodos com número alto de estruturas condicionais e repetições aninhadas; Projeto de Testes: Descreve os casos de testes que devem ser executados na aplicação; Relatório com o resultado dos testes funcionais a partir dos casos de testes.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+6.1.3. Critérios de Aceitação Os aspectos que serão considerados para aceitação do RELEASE parcial ou final da aplicação pela EMPREL são: · 100% da documentação entregue, devidamente aprovada e dentro dos critérios estabelecidos na MEDS ­ Metodologia EMPREL de Desenvolvimento de Sistemas; Implementação de 100% do escopo previsto para o RELEASE; 100% de atendimento aos padrões de codificação e boas práticas definidas para o projeto, estabelecidos na MEDS ­ Metodologia EMPREL de Desenvolvimento de Sistemas; Cumprimento dos seguintes itens com relação à correção de defeitos identificados durante a aceitação da solução: 100% de correção dos defeitos classificados como "Críticos"; índice de defeitos de baixa severidade (Trivial e Minor) inferior a 0,2 defeitos por ponto de função. Este índice será calculado pela razão do número de erros pelo número de pontos de função acordados.
+
+· ·
+
+·
+
+· ·
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+28
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+6.2. Serviço de Construção_____________________________________________ Esse tipo de serviço consiste na construção de software na tecnologia e padrões definidos a partir da documentação acordada. Sendo de responsabilidade da equipe da EMPREL a confecção dos artefatos de entrada descritos na seção 6.2.1 e a equipe da CONTRATADA a elaboração dos artefatos de saída descritos na seção 6.2.2 que atendam os critérios de aceitação previstos na seção 6.2.3. 6.2.1. Artefatos de Entrada · Documento de Requisitos: Descreve os requisitos funcionais e não funcionais do projeto, bem como o escopo não contemplado; Especificação de Casos de Uso ou Especificação Funcional: Descreve o fluxo de eventos, entradas e saídas do caso de uso e/ou funcionalidade do sistema; Protótipo da Interface: Descreve o modelo de interface (padrão visual); Documento da Arquitetura: Contém as principais definições da arquitetura do projeto. Tem como objetivo principal servir de referência para o desenvolvimento do sistema, promovendo o reuso de padrões e componentes; Modelo de Entidade e Relacionamento: Descreve o modelo lógico e físico dos elementos do banco de dados; Dicionário de Dados: Descreve a nomenclatura dos elementos do banco de dados em conformidade com o padrão de nomenclatura constante na MEDS; Projeto de Testes: Descreve os casos de testes que devem ser executados na aplicação; Projeto da Aplicação - Um dos artefatos de entrada no modelo de construção é o projeto da aplicação que corresponde a um conjunto de artefatos geralmente descritos na linguagem UML ou um esqueleto de código onde são definidas as assinaturas dos métodos.
+
+·
+
+· ·
+
+·
+
+·
+
+·
+
+·
+
+6.2.2. Artefatos de Saída · Código fonte referente à implementação dos requisitos na linguagem acordada, incluindo classes de testes unitários; Relatório com o resultado da inspeção do código fonte. A inspeção deve analisar os padrões de desenvolvimento, tais como: comentário, uso de constantes, nomenclatura das funções e das variáveis, variáveis sem uso,
+
+·
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+29
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+aderência a arquitetura definida para o projeto, métodos e classes extensos e métodos com número alto de estruturas condicionais e repetições aninhadas; · Relatório com o resultado dos testes funcionais a partir dos casos de testes.
+
+6.2.3. Critérios de Aceitação Os aspectos que serão considerados para aceitação do RELEASE parcial ou final da aplicação pela EMPREL são: · · Implementação de 100% do escopo previsto para o RELEASE; 100% de atendimento aos padrões de codificação e boas práticas definidas para o projeto, estabelecidos na MEDS ­ Metodologia EMPREL de Desenvolvimento de Sistemas; Cumprimento dos seguintes itens com relação à correção de defeitos identificados durante a aceitação da solução: 100% de correção dos defeitos classificados como "Críticos"; índice de defeitos de baixa severidade (Trivial e Minor) inferior a 0,2 defeitos por ponto de função. Este índice será calculado pela razão do número de erros pelo número de pontos de função acordados.
+
+·
+
+· ·
+
+7. Condições da Gestão de Contratos dos Serviços_________________________ Todos os templates dos artefatos expostos neste termo de referência estão disponíveis no site da MEDS ­ Metodologia de Desenvolvimento de Sistemas da EMPREL l e deverão ser utilizados pela CONTRATADA. O processo de gestão de contratos da EMPREL se fará com base neste termo de referência, que se desdobrará em um Acordo de Nível de Serviços (ANS) entre a EMPREL e a CONTRATADA. A CONTRATADA deverá apresentar um plano de projeto ao final do planejamento que conduzirá a execução do projeto, bem como o registro das reuniões de acompanhamento que deverão ser realizadas em uma periodicidade semanal na sede da EMPREL. A eficiência e eficácia dos serviços serão medidas por indicadores, que devem ser analisados em conjunto com a EMPREL e devem ser registradas as ações decorrentes desta análise. São exemplo destes indicadores:
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+30
+
+Empresa Municipal de Informática
+
+EMPREL
+·
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Entregas no Prazo, que tem por objetivo avaliar se as entregas planejadas estão ocorrendo dentro do prazo. Entende-se por entrega, quaisquer artefatos planejados para serem entregues num determinado marco; Densidade de Defeitos, que tem por objetivo avaliar a número de erros detectados pela EMPREL durante os testes de homologação; Produtividade, que tem por objetivo avaliar a eficácia da CONTRATADA nas diversas fases, se aplicável, do projeto.
+
+·
+
+·
+
+8. Condições de Aceitação dos Serviços__________________________________ Os serviços somente serão considerados completos/aceitos, após aceitação pelo Gestor do Contrato da EMPREL, ou por pessoas por ele oficialmente indicadas. Para isso, a demanda deve atender os critérios de aceitação descritos na seção 6.1.3 e 6.2.3. 9. Condições de Pagamento de Serviço___________________________________ Os encargos financeiros da EMPREL restringir-se-ão ao pagamento dos serviços repassados, efetivamente executados e aceitos integralmente para cada solicitação de serviço registrado na ferramenta de controle de mudanças. No preço contratado estão incluídas todas e quaisquer despesas com mão-de-obra, material de consumo, equipamentos, treinamentos, prêmios de seguro, taxas, inclusive de administração, emolumentos e quaisquer despesas operacionais, bem como todos os encargos trabalhistas, previdenciários, fiscais e comerciais, despesas e obrigações financeiras de qualquer natureza e outras despesas diretas e indiretas necessárias à perfeita execução do objeto do contrato, além de auxílio alimentação ou refeição, vales-transporte e quaisquer outras vantagens pagas aos empregados, enfim, todos os componentes de custo dos serviços, inclusive o lucro. Pela execução dos serviços contratados, a EMPREL pagará à CONTRATADA conforme cronograma de desembolso, o valor correspondente aos pontos de função estimados para o serviço, usando-se, como base para o faturamento, o valor unitário do ponto de função de R$ ... (......................) para serviços de Projeto Completo (descrito na seção 6.1) ou de R$ ... (......................) para serviços de Construção (descrito na seção 6.2), que corresponde a 65% do valor total do ponto de função.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+31
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+O cronograma de desembolso estabelece o seguinte compromisso: Etapa Artefatos Valor Valor Proporcional Proporcional (Projeto (Construção) Completo) 20% 20% 40% 20% 0% 60% 20%
+
+Planejamento Plano de Projeto Execução Execução Aceitação Documento de Requisitos Documento de A&P Código Fonte da Aplicação Aplicação Construída
+
+Execução dos Testes de 20% Aceitação Relatório de Aceitação
+
+No caso de projetos que demandem execução de longa duração, pode-se definir entregas intermediárias (RELEASE PARCIAL) que deve ser acordado entre as partes. No aceite dos serviços, a quantidade de Pontos de Função estimada pela CONTRATADA deverá ser reavaliada pela EMPREL, utilizando-se da técnica detalhada da contagem de pontos de função, visando assim, sua adequação dos custos aos requisitos e características reais do serviço executado. 10. Garantia dos Serviços______________________________________________ Os serviços da FÁBRICA têm uma garantia de 06 (seis) meses após o aceite da demanda pela EMPREL. 10.1. Escopo_________________________________________________________ A garantia consiste na assistência técnica e suporte aos produtos entregues pela CONTRATADA com relação às manutenções corretivas a serem realizadas nos produtos disponibilizados. Abrange a correção de erros encontrados no código implementado, desde que o ambiente (configuração do Sistema Operacional, do Banco de Dados ou do Servidor de Aplicação) e o código fonte desses objetos não tenham sofrido alterações por parte do cliente após aceitação. Não está contemplado na garantia:
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+32
+
+Empresa Municipal de Informática
+
+EMPREL
+· ·
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Análise e execução de manutenções evolutivas; Ajustes no código para adequá-lo a novos padrões de desenvolvimento estabelecidos posteriormente ao início da demanda; Ajuste no código para adequá-lo a alterações na plataforma tecnológica estipulada para a demanda, seja pela implantação de novas versões, seja pela inclusão ou exclusão de ferramentas ou produtos; Esclarecimento de dúvidas do usuário final quanto ao uso do sistema.
+
+·
+
+·
+
+10.2. Acionamento da Garantia__________________________________________ A CONTRADADA disponibilizará atendimento de 2ª feira à 6ª feira das 08:00 às 18:00, excetuando os feriados, para qualquer necessidade relacionada com a atividade de manutenção corretiva durante o período da garantia estabelecido com a EMPREL. O atendimento padrão de solicitações associadas à manutenção corretiva deverá seguir o seguinte procedimento: · No momento em que for identificado algum problema nas funcionalidades do sistema, a ocorrência deverá ser registrada na ferramenta de gerência de mudança adotada; A EMPREL deverá avaliar a severidade, conforme padrão descrito no item 14 desde documento. A CONTRADADA deverá apoiar esta atividade, avaliando o esforço da correção e negociando o prazo para seu atendimento. A prioridade deve respeitar as regras de severidade do erro reportado, podendo ser modificado essa prioridade pelo cliente.
+
+·
+
+11.0 Prazo de Atendimento____________________________________________ A CONTRATADA deverá estar apta para o atendimento no horário comercial de (8h às 18h de segunda-feira a sexta-feira). A CONTRATADA terá até 24 horas úteis para registrar o recebimento da demanda na ferramenta de controle de mudanças alterando o estado da solicitação de mudança para "EM ANÁLISE". A CONTRATADA terá até 40 horas úteis para analisar, aceitar ou rejeitar os artefatos de entrada conforme os itens 6.1.1 e 6.2.1, anexados na ferramenta de controle de mudanças.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+33
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Caso a CONTRATADA rejeite toda a demanda solicitada, a mesma deverá alterar o estado da solicitação de mudança para "CANCELADA", expondo os motivos da não aceitação na ferramenta de controle de mudanças. Caso a CONTRATADA rejeite algum dos artefatos de entrada, a mesma deverá alterar o estado da solicitação de mudança para "PENDÊNCIA EXTERNA", registrando na ferramenta de controle de mudanças qual o artefato rejeitado e o motivo da rejeição e re-atribuir a solicitação de mudança para o Gerente de Projeto da EMPREL. Caso a CONTRATADA aceite a demanda, deverá alterar o estado da solicitação de mudança para "ATRIBUÍDA PARA DESENVOLVIMENTO". A partir deste momento, a CONTRATADA deverá manter a maquina de estado da ferramenta de controle de mudanças atualizada, registrando as fases de "EM DESENVOLVIMENTO". Finalizando a etapa de desenvolvimento, a CONTRATADA deverá alterar o estado da solicitação de mudança para "DESENVOLVIMENTO COMPLETO" e inicia a execução dos testes. Para dar início ao teste da solicitação de mudança, é necessário que a CONTRATADA altere o estado para "EM TESTE". Após termino dos testes, a CONTRATADA deverá alterar o estado da solicitação de mudança para "VERIFICADA" e re-atribuir para o Gerente de Projeto da EMPREL. Caso o Gerente de Projeto rejeite algum ou todos os artefatos de saída previstos no item 6.1.2 e 6.2.2, o mesmo deverá alterar o estado da(s) solicitação de mudança(s) para "REABERTA" e atribuí-la novamente a CONTRATADA. Caso os artefatos de saída forem aprovados pelo Gerente de Projeto da EMPREL, o mesmo deverá continuar os procedimentos descritos no plano de projeto. Para os registros de erros na ferramenta de controle de mudanças, a CONTRATADA deverá iniciar o atendimento nos prazos descritos conforme classificação da severidade da solicitação.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+34
+
+Empresa Municipal de Informática
+
+EMPREL
+Categoria do Serviço Criticidade
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Prazo para Prazo para Iniciar o Conclusão do Atendimento Atendimento 08 horas úteis 16 horas úteis 32 horas úteis 16 horas uteis 32 horas úteis 40 horas úteis
+
+Forma de Acionamento Ferramenta Ferramenta Ferramenta
+
+Manutenção Corretivas (Após Homologação) Manutenção Corretivas (Após Homologação) Manutenção Corretivas (Após Homologação)
+
+Alta Média Baixa
+
+12.0. Ferramentas____________________________________________________ A EMPREL recomenda as seguintes ferramentas: · · Open Office ou Br Office para produção e/ou leituras de documentos; Argo UML para a elaboração dos diagramas UML, na versão utilizada pela EMPREL no ato da contratação; DBVisualizer para produção do modelo de dados, na versão utilizada pela EMPREL no ato da contratação; Eclipse ou RAD para desenvolvimento na tecnologia JAVA ou PHP, na versão utilizada pela EMPREL no ato da contratação; Websphere, Tomcat ou JBOSS como servidor de aplicação em ambiente LINUX, na versão utilizada pela EMPREL no ato da contratação; Wicket ou JSF como desenvolvimento da camada de apresentação na versão utilizada pela EMPREL no ato da contratação; Hibernate, JDO ou EJB para desenvolvimento da camada de persistência independente de banco, na versão utilizada pela EMPREL no ato da contratação; Spring ou Hivemind para desenvolvimento da camada de negócio na versão utilizada pela EMPREL no ato da contratação. Oracle, DB2 Mainframe (Acesso através de Webservice implementando socket SSL v3) e DB2 Linux ou PostGreeSQL, na versão utilizada pela EMPREL no ato da contratação;
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+35
+
+Empresa Municipal de Informática
+
+EMPREL
+·
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+REDMINE como ferramenta de controle de mudanças na versão utilizada pela EMPREL no ato da contratação; HUDSON/JENKINS como ferramenta de integração contínua de código na versão utilizada pela EMPREL no ato da contratação; PMD ou SONAR como ferramenta de análise de código na versão utilizada pela EMPREL no ato da contratação; SVN como ferramenta de controle de versão de código na versão utilizada pela EMPREL no ato da contratação.
+
+·
+
+·
+
+·
+
+13.0. Responsabilidades______________________________________________
+
+·
+
+As etapas de levantamento de requisitos, quando aplicável, e homologação serão realizadas, pelas características especificas, nas instalações da EMPREL. Caso a atividade demande contato com usuários finais, a equipe da CONTRATADA sempre exercera suas atribuições sob acompanhamento e orientação do profissional da EMPREL responsável pelo projeto. A CONTRATADA deverá estar apta a iniciar a execução do objeto licitado no ato da assinatura do contrato. A CONTRATADA se responsabilizará pela disponibilização de toda a infraestrutura e ferramentas descritas no Item 11, necessária para execução do serviço em sua sede. Todos os produtos resultantes dos serviços desenvolvidos pela CONTRATADA deverão ser entregues a EMPREL, que terá direito de propriedade sobre os mesmos, inclusive códigos fonte, documentação, componentes básicos e bibliotecas, utilizados no desenvolvimento. A CONTRATADA se compromete a alocar, em todos os serviços contratados, profissionais com perfis e qualificações adequados, mantendo ao longo do Contrato todas as condições que garantiram sua habilitação e qualificação neste processo licitatório. A qualificação dos profissionais deverá ser comprovada através da apresentação dos currículos dos profissionais, sempre que solicitado pela EMPREL. Para atendimento ao item 7, a CONTRATADA deverá alocar Gerente de Projetos com formação de nível superior na área de informática, com certificação PMP e experiência mínima de 12 meses na função.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+36
+
+Empresa Municipal de Informática
+
+EMPREL
+·
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Para atendimento ao item 6, a CONTRATADA deverá alocar Analistas de Sistemas com formação de nível superior na área de informática e experiência mínima de 12 meses na função. Para atendimento ao item 6, a CONTRATADA deverá alocar pelo menos 20% da equipe de engenheiros de software com certificado Java/J2EE pela Sun Microsystems ou por entidade certificadora autorizada pela Sun Microsystems. A CONTRATADA deverá prover a EMPREL de informação detalhada da execução dos serviços, por meio de ferramenta, em tempo real, protegida por senha. Todos os custos envolvidos na prestação de serviços correrão por conta da CONTRATADA.
+
+·
+
+·
+
+·
+
+14.0. Tabela de Severidades___________________________________________ A tabela abaixo apresenta as descrições de cada severidade que servirá para classificar cada solicitação de mudança quanto ao seu impacto.
+
+Severidade Descrição das Severidades Blocker Critical Um problema que impede a continuação dos trabalhos sobre o produto até seja resolvido. Um problema crítico que faz o produto do trabalho inadequado para o uso e/ou ser incapaz prestar os serviços. Os problemas desta severidade resultam geralmente na substituição ou no reparo de todos os produtos que contêm o artigo defeituoso. Se o produto não ainda tiver sido enviado com o defeito, o defeito fará com que o produto fique inadequado para a entrega até que esteja resolvido. Um problema sério que produza a perda intermitente das funcionalidades ou degrade o desempenho. Os problemas desta severidade usualmente resultam numa descontinuação da produção e distribuição do produto até que o problema seja corrigido. Um problema moderado que restringe, mas não impede, o usuário de realizar a função desejada. O cliente provavelmente ignorará o problema ou encontrará um caminho alternativo. Os problemas conhecidos com esta severidade podem ser liberados em um produto somente se os riscos forem avaliados, documentados, e aprovados pelo gerente de projeto.
+
+Major
+
+Normal
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+37
+
+Empresa Municipal de Informática
+
+EMPREL
+Minor
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+Trivial
+
+Um problema menor que não impeça o usuário de realizar as funções desejadas. O cliente pode ou não perceber o problema, e é improvável registrar uma queixa. A percepção do cliente da qualidade de produto pode ser danificada se diversos problemas como essa severidade forem evidentes. A correção destes problemas pode ser adiada para um release seguinte sem justificação formal. Um problema transparente invisível ao cliente. A correção destes problemas pode ser adiada para o próximo release sem justificação formal.
+
+15.0. VALOR MÁXIMO PARA CONTRATAÇÃO_____________________________ O preço máximo para a contratação é de R$ 12.690.000,00 (doze milhões, seiscentos e noventa mil reais) relativos ao período dos 12 (doze) meses.
+
+Recife, 16 de novembro de 2011. Fernando Ramos Pregoeiro da EMPREL
+
+COMISSÃO PERMANENTE DE LICITAÇÃO PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 TIPO: MENOR PREÇO ANEXO III - CREDENCIAMENTO
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+38
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+À EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL PREGOEIRO: Ref.: PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 A EMPRESA__________________________________, com sede à Rua__________inscrita no CNPJ/MF sob o nº________________, neste ato representada por _______________________________, nacionalidade, estado civil, profissão, inscrito no CPF/MF sob o nº ___________, portador do RG nº ________, residente e domiciliado à Rua ___________________,n.º ___, bairro _____ CidadeEstado, nomeia e constitui seu bastante procurador Sr(a). ________________, nacionalidade, profissão, inscrito no CPF/MF sob o nº ________e RG nº _____________, residente e domiciliado(a) à rua _____________________, nº ___bairro_____, cidade, estado, outorgando-lhes poderes para representar a empresa em processos licitatórios perante as repartições públicas, em quaisquer modalidades, especialmente em pregão presencial, podendo para tanto, apresentar documentos, formular verbalmente lances de preços, firmar declarações, manifestar interesse de recorrer, renunciar ou apresentar razões e contra-razões de recursos administrativos, assinar atas e praticar todos os demais atos necessários ao fiel cumprimento deste mandato.
+
+Local e Data ____________________________________________________________ Assinatura, nome e número de identidade do declarante OBSERVAÇÃO: APRESENTAR FORA DOS ENVELOPES
+
+COMISSÃO PERMANENTE DE LICITAÇÃO - C.P.L. PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 TIPO: MENOR PREÇO
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+39
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+ANEXO IV ­ DECLARAÇÃO DE CUMPRIMENTO AOS REQUISITOS DE HABILITAÇÃO À EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL PREGOEIRO: Ref.: PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 (NOME DA EMPRESA)_______________________________CNPJ nº____________, (ENDEREÇO COMPLETO)___________________________________, declara, sob as penas da lei, que até a presente data inexistem fatos impeditivos para a sua habilitação, no presente processo licitatório, ciente da obrigatoriedade de declarar ocorrências posteriores.
+
+Local e Data ____________________________________________________________ Assinatura, nome e número de identidade do declarante OBSERVAÇÃO: APRESENTAR FORA DOS ENVELOPES
+
+COMISSÃO PERMANENTE DE LICITAÇÃO PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+40
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+ANEXO V - MODELO DE PROPOSTA DE PREÇOS
+À
+
+EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL PREGOEIRO: Ref.: PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 A EMPRESA____________________________ vem perante este Pregoeiro, apresentar a seguinte Proposta de Preços para contratação de serviços técnicos especializados de documentação, desenvolvimento e manutenção de Sistemas e Aplicativos que tenha JAVA ou PHP como tecnologia predominante a serem executados em regime de Fábrica de Software, pelo período de até 12 (doze) meses, acordo com as especificações e condições constantes do anexo II - Termo de Referência do edital, conforme tabela abaixo: 1. DESCRIÇÃO DOS SERVIÇOS PONTOS PREÇO UNITÁRIO PREÇO GLOBAL DE FUNÇÃO (R$) (R$) (valor por extenso)
+
+Valor global da proposta: R$
+
+2. Validade da proposta: mínimo de 60 (sessenta) dias contados da data da sessão pública para entrega dos envelopes ao Pregoeiro. 3. Prazo de pagamento: de até 15(quinze) dias após o recebimento definitivo, mediante a apresentação da Nota Fiscal / Fatura contendo o devido atesto do servidor responsável. 4. Prazo de Garantia dos Serviços: 06 (seis) meses após o aceite. 5. Prazo de vigência do objeto: de até 12 (doze) meses; 6. Declaramos, para os devidos fins, que nos preços cotados estão incluídas todas despesas incidentes sobre o objeto licitado. Local, de de 2011. ____________________________________ Assinatura do representante legal da empresa (identificação/nome/carimbo) COMISSÃO PERMANENTE DE LICITAÇÃO PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+41
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+ANEXO - VI MODELO DE DECLARAÇÃO DE CESSÃO DE DIREITOS AUTORAIS E PATRIMONIAIS
+À
+
+EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL PREGOEIRO: Ref.: PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+A EMPRESA__________________________________, com sede à Rua _________, inscrita no CNPJ/MF sob o nº___________ , inscrito no CNPJ n°..................., por intermédio de seu representante legal, no qual assina em nome da outorgante, o(a) Sr(a)...................................., portador(a) da Carteira de Identidade nº............................ e do CPF nº ........................., com expressos poderes para tanto, DECLARA para os fins acima que cede de forma definitiva à EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL todos os direitos autorais, bem como os direitos patrimoniais de uso, concernentes aos produtos do trabalho realizado.
+
+Local e Data ____________________________________________________________ Assinatura, nome e número de identidade do declarante
+
+COMISSÃO PERMANENTE DE LICITAÇÃO - C.P.L. PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+42
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+TIPO: MENOR PREÇO ANEXO VII - DECLARAÇÃO REFERENTE AO TRABALHO DO MENOR À EMPREL ­ EMPRESA MUNICIPAL DE INFORMÁTICA PREGOEIRO: Ref.: PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+................................., inscrito no CNPJ n°..................., por intermédio de seu representante legal o(a) Sr(a)...................................., portador (a) da Carteira de Identidade no............................ e do CPF no ........................., DECLARA, para fins do disposto no inciso V do art. 27 da Lei no 8.666, de 21 de junho de 1993, acrescido pela Lei no 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega menor de dezesseis anos. Ressalva: emprego menor, a partir de quatorze anos, na condição de aprendiz ( ).
+
+...................... (data) ....................... (representante legal) (Observação: em caso afirmativo, assinalar a ressalva acima)
+
+COMISSÃO PERMANENTE DE LICITAÇÃO - C.P.L. PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011 TIPO: MENOR PREÇO
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+43
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+ANEXO VIII ­ PORTARIA Nº 008 DE 13 DE JANEIRO DE 2011 14/Jan/2011 :: Edição 7 ::
+
+Cadernos do Poder Executivo Secretaria de Finanças Secretário: Marcelo Barros Portaria PORTARIA Nº. 008 DE 13 DE JANEIRO DE 2011. A SECRETÁRIA DE FINANÇAS EM EXERCÍCIO, no uso de suas atribuições que lhe são conferidas pelo artigo 61, inciso V, da Lei Orgânica do Município do Recife, e considerando o que estabelece o § 1º do art. 2º do Decreto nº 19.205 de 08 de março de 2002 e o art. 2º do Decreto nº 20.573 de 06 de agosto de 2004, e considerando ainda a solicitação contida no Ofício Nº 343/2010 - DPR/EMPREL RESOLVE I - Delegar competência à EMPRESA MUNICIPAL DE INFORMÁTICA EMPREL para, no exercício de 2011, proceder a instauração e realização de licitação nas modalidades PREGÃO (PRESENCIAL E ELETÔNICO) ou CONCORRÊNCIA PARA REGISTRO DE PREÇOS. II - EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL deverá encaminhar a SEFIN relatório apresentando os parâmetros econômicos da contratação, quando da sua efetivação. III - Os preços registrados deverão ser publicados no Diário Oficial do Recife. IV - Esta Portaria entra em vigor da data de sua publicação, retroagindo seus afeitos a 03 de janeiro de 2011. Recife, 13 de janeiro de 2011 Ângela Maria Távora Weber Secretária de Finanças em Exercício COMISSÃO PERMANENTE DE LICITAÇÃO - C.P.L. PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REISTRO DE PREÇOS Nº 013/2011 TIPO: MENOR PREÇO
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+44
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+ANEXO IX ­ MINUTA DE CONTRATO DAJ ­ Nº....../2011 CONTRATO COM EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE DOCUMENTAÇÃO, DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS E APLICATIVOS QUE TENHA JAVA ou PHP COMO TECNOLOGIA PREDOMINANTE A SEREM EXECUTADOS EM REGIME DE FÁBRICA DE SOFTWARE, QUE ENTRE SI CELEBRAM A EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL E A CONTRATADA NA MODALIDADE PREGÃO PARA REGISTRO DE PREÇOS Nº 013/2011, PROCESSO LICITATÓRIO Nº 014/2011, NOS TERMOS DOS DECRETOS MUNICIPAIS NºS 19.205/2002, 20.573/2004, 23.127/2007, NA PORTARIA Nº 008 DE 13 DE JANEIRO DE 2011, E LEI Nº 8.666/93. Pelo presente instrumento de contrato celebrado entre as partes, a saber, de um lado a EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL, Empresa Pública Municipal dotada de personalidade jurídica de direito privado, estabelecida nesta cidade, na Rua 21 de abril, nº 3370 - Torrões, inscrita no CNPJ/MF n. 11.006.269/0001-00, neste ato representada por seu Diretor Presidente, Sr. WELLINGTON BATISTA DA SILVA, brasileiro, casado, sociólogo, inscrito no CPF/MF sob o nº 402.920.614-04, portador da cédula de identidade nº 2.533.708 SSP/PE, e por seu Diretor de Negócios e Sistemas Corporativos, Sr. ADILSON DA SILVA, brasileiro, casado, analista de sistemas, inscrito no CPF/MF sob o nº 391.128.104-87, portador da cédula de identidade nº 2.686.034-SSP-PE, doravante denominada EMPREL e do outro lado a CONTRATADA estabelecida à Rua .............., 0000 - Bairro - Cidade/Estado, inscrita no CNPJ/MF sob o nº ..............................., inscrição estadual sob o nº ....................., neste ato representada pelo Sr. ......................., nacionalidade, estado civil, profissão, inscrito no CPF/MF sob o nº ................................., portador da cédula de Identidade nº ..................... SSP/...., residente e domiciliado na ............................, doravante simplesmente denominada .............................., firmam o presente contrato, com fundamento nos Decretos Municipais nºs 19.205/2002, 23.127/2007, na Portaria nº 008 de 13 de janeiro de 2011, e Lei nº 8.666/93, mediante as cláusulas e condições seguintes:
+
+CLÁUSULA PRIMEIRA - DO OBJETO 1.1. Contratação de empresa especializada na prestação de serviços técnicos especializados de documentação, desenvolvimento e manutenção de sistemas e
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+45
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+aplicativos que tenha JAVA ou PHP como tecnologia predominante a serem executados em regime de fábrica de software, de acordo com as especificações e condições constantes do Anexo II - Termo de Referência do edital. CLÁUSULA SEGUNDA - DA DOCUMENTAÇÃO CONTRATUAL 2.1. Faz parte integrante deste Contrato, o Processo Licitatório nº 014/2011, Pregão Presencial para Registro de Preços nº 013/2011, seus anexos e a proposta da CONTRATADA. CLÁUSULA TERCEIRA - DOS RECURSOS ORÇAMENTÁRIOS 3.1. Os recursos alocados para a realização do objeto desta licitação são oriundos das dotações orçamentárias nº 45 01 2.520 .3.3. 90. 39 66 fontes 100 e 241 da EMPREL. CLÁUSULA QUARTA ­ DO PREÇO E DA FORMA DE PAGAMENTO 4.1. O valor total do contrato é de até R$...............................( conforme a tabela abaixo: DESCRIÇÃO DOS SERVIÇOS ),
+
+PONTOS PREÇO UNITÁRIO PREÇO GLOBAL (R$) DE FUNÇÃO (R$)
+
+4.2. Os pagamentos serão efetuados no prazo de até 15(quinze) dias úteis, do mês subseqüente à entrega dos equipamentos / Instalação e a realizações dos serviços de manutenção preventiva e corretiva do objeto licitado, mediante a apresentação Nota Fiscal / Fatura, devidamente atestada pela Gerência de Suporte Básico ­ GSB da EMPREL, comprovando a efetiva entrega dos Equipamentos / Instalação e serviços de manutenção do objeto licitado. 4.3. Nenhum pagamento será efetuado à Contratada enquanto pendente de liquidação de qualquer obrigação que lhe for imposta em virtude do presente contrato, de penalidade ou inadimplência, sem que isso gere direito ao reajustamento de preços. CLÁUSULA QUINTA - DOS PRAZOS E CONDIÇÕES DE ENTREGA/ EXECUÇÃO DO OBJETO 5.1. A infraestrutura e ferramenta necessária para início dos trabalhos deverá estar à disposição da EMPREL a partir da assinatura do Contrato. Os serviços
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+46
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+contratados serão executados nas dependências da Contratada, que deve se localizar na região metropolitana do Recife. 5.2. A Contratada deverá executar o objeto licitado de acordo com as disposições do Anexo II - Termo de Especificações Técnicas deste Edital. 5.3. O recebimento do objeto deste Pregão se dará da seguinte forma: a) Provisoriamente, na Diretoria de Negócios e Sistemas Corporativos ­ DNC da EMPREL, Rua 21 de Abril, nº 3370, Torrões ­ Recife-PE, pela Equipe Técnica responsável por seu acompanhamento e fiscalização, mediante termo circunstanciado, assinado pelas partes, em até 15 (quinze) dias consecutivos da comunicação escrita do contratado; b) Definitivamente, pela Equipe Técnica designada pela autoridade competente, mediante termo circunstanciado, homologando o trabalho realizado e os produtos deste advindos, após o decurso do prazo de observação ou de vistoria, que comprove a adequação do objeto aos termos contratuais, prazo esse não superior a 90 (noventa) dias.
+
+5.4. No aceite dos serviços, a quantidade de Pontos de Função contratados poderá ser reavaliada pela EMPREL, visando sua adequação aos requisitos e características reais do serviço executado. 5.5. As Ordens de Serviço, a critério da EMPREL, poderão ser divididas em função das Fases do Ciclo de Desenvolvimento ou produtos intermediários definidos pelas metodologias adotadas pela EMPREL. 5.6. Os serviços, objeto desta licitação, serão dimensionados e contratados conforme as necessidades da EMPREL. 5.7. Todos os produtos resultantes dos serviços desenvolvidos pela Contratada deverão ser entregues à EMPREL, que terá direito de propriedade sobre os mesmos, inclusive códigos fonte, documentação, componentes básicos e bibliotecas, utilizados no desenvolvimento. 5.8. A aceitação final dos serviços não acarretará, de modo algum, a exoneração da Empresa Registrada da responsabilidade civil e técnica por futuros eventos decorrentes ou relacionados com a execução dos mesmos. 5.8.1. Caso os softwares apresentem falhas ou vícios de execução, dar-se-á de imediato, por escrito, ciência à CONTRATADA para que esta proceda, incontinente, as correções apontadas. 5.9. A Contratada deverá informar, por escrito, à Diretoria de Negócios e Sistemas Corporativos ­ DNC de imediato, a ocorrência de qualquer fato ou condição que, justificadamente, possa atrasar ou impedir a execução do objeto, sugerindo à EMPREL as medidas necessárias para a solução do impasse.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+47
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+5.10.O recebimento Provisório ou Definitivo pela EMPREL dos serviços objeto do presente Edital não exclui a responsabilidade do licitante pela veracidade das informações e pela qualidade e quantidade do objeto licitado fornecidos, devendo atender a todas as exigências deste Edital e seus Anexos, sob pena de ser considerado inadimplente, devendo ser aplicadas às sanções previstas neste Edital. CLÁUSULA SEXTA - DA VIGÊNCIA 6.1. O prazo de vigência do contrato será de 12 (doze) meses, tendo como termo de início a data de sua assinatura, podendo ser prorrogado nos termos do art. 57, da Lei nº 8.666/1993. 6.1.1. No caso de prorrogação, a CONTRATADA deverá: · Caso o mercado esteja, por razões tecnológicas ou contábeis ou por novas realidades de negócios, praticando preços mais baixos, reajustarse-ão os valores contratuais.
+
+6.2. Na hipótese de prorrogação do contrato observar-se-á o disposto na Lei nº 10.192 de 14 de fevereiro de 2001, em seu art. 3º parágrafo 1º. O índice que servirá de reajuste será o IPCA, fornecido pelo IBGE, conforme disposição do Decreto Municipal nº 23.127 de 17 de outubro de 2007. CLÁUSULA SÉTIMA - DAS OBRIGAÇÕES DA CONTRATADA 7.1. A CONTRATADA obriga-se a executar os serviços na forma e termos reportados neste instrumento contratual, e conforme especificações contidas no Processo Licitatório nº 014/2011, Pregão Presencial para Registro de Preços nº 013/2011, e seus anexos.
+
+7.2. Obriga-se a CONTRATADA a manter, durante a vigência do contrato, as obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas no Processo Licitatório nº 014/2011, Pregão Presencial para Registro de Preços nº 013/2011. 7.3. Responsabilizar-se por danos causados diretamente à EMPREL ou a terceiros, na forma prevista no art. 70 da Lei nº 8.666/1993. 7.4. Responder pelos danos causados diretamente à Administração da EMPREL ou a terceiros, decorrentes de sua culpa ou dolo, quando da execução dos serviços, não excluindo ou reduzindo essa responsabilidade à fiscalização ou ao acompanhamento pela EMPREL. 7.5. A Contratada será responsável pelos encargos trabalhistas, previdenciários,
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+48
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+securitários, fiscais, comerciais, civis e criminais resultantes da execução do contrato, inclusive no tocante aos seus empregados. CLÁUSULA OITAVA - DAS GARANTIAS DOS SERVIÇOS 8.1. A licitante deverá garantir durante 06 (seis) meses após o aceite da demanda pela EMPREL, toda a manutenção corretiva decorrente de erros ou falhas na realização dos serviços, sem ônus adicionais para a EMPREL. O atendimento à execução das correções deverá ser procedido conforme o Anexo II - Termo de Referência do Processo Licitatório nº 014/2011, Pregão Presencial para Registro de Preços nº 013/2011. CLÁUSULA NONA ­ DAS OBRIGAÇÕES DA EMPREL 9.1. Efetuar o pagamento do serviço ora contratado, na forma prevista na cláusula quarta deste contrato; 9.2. Fornecer à CONTRATADA todas as informações relacionadas com os serviços, ora contratados. 9.3. Notificar, por escrito, à CONTRATADA a respeito de quaisquer irregularidades constatadas nos serviços contratados. 9.4. Responsabilizar-se pela fiscalização dos serviços contratados a ser exercido pelo setor competente. CLAÚSULA DÉCIMA ­ DA GARANTIA CONTRATUAL 10.1. A Contratada deverá apresentar à EMPREL, no prazo de até 20 (vinte) dias, após a assinatura do contrato a comprovação de garantia de execução contratual no valor de 5% (cinco por cento) do valor do contrato, conforme § 2º, do artigo 56 da Lei nº 8.666/93, com prazo de validade, no mínimo, igual ao prazo de vigência do contrato, dentre as opções abaixo: I - A fiança será prestada por instituição financeira, devendo constar, entre outras condições, a renúncia expressa ao benefício do artigo 827 do Código Civil Brasileiro; II - O seguro ­ garantia consistirá na emissão de apólice, por entidade seguradora em funcionamento no Brasil, em favor da EMPREL; III - A caução em dinheiro será depositada na conta corrente da EMPREL. 10.1.1. Garantia contratual, verificado o cumprimento das obrigações contratuais, será devolvida mediante requerimento da CONTRATADA,
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+49
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+no prazo de 30 (trinta) dias, contados do termo de finalização da execução do objeto licitado; 10.1.2. A garantia efetuada mediante caução em dinheiro será atualizada de acordo com a variação do índice de rendimento da caderneta de poupança para o 1º dia do mês, excluídos os juros, calculada proporcionalmente, quando for o caso, a contar da data do depósito até o seu efetivo levantamento, devendo o depósito ser efetuado na C/C Nº 6858-6 ­ Agência 3234-4 ­ BANCO DO BRASIL S/A, efetuado em nome da EMPREL. A referida caução será restituída após a execução do contrato. CLÁUSULA DÉCIMA PRIMEIRA ­ DAS PENALIDADES 11.1. As penalidades aplicadas a ambas as partes contratantes são as previstas no Estatuto Federal Licitatório, na hipótese de inexecução total ou parcial deste instrumento, dentro dos padrões estipulados no Processo Licitatório nº 014/2011, Pregão Presencial para Registro de Preços nº 013/2011. 11.2. A inexecução total ou parcial do objeto licitado sujeitará a CONTRATADA às seguintes penalidades, assegurados o contraditório e a ampla defesa, na forma do artigo 87 da Lei nº 8.666/93: a) Advertência; b) Multa, correspondente de até 10% (dez por cento) do valor total do objeto licitado; c) Suspensão temporária da participação em licitação e impedimento de contatar com a Administração, por prazo não superior a 02 (dois) anos (art. 87, III, da Lei nº 8.666/93); d) Declaração de inidoneidade para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a autoridade que aplicou a penalidade, depois do ressarcimento à Administração pelos prejuízos resultantes e após decorrido o prazo de sua aplicação (art. 87, IV, da Lei nº 8.666/93). Parágrafo Primeiro ­ O valor da multa será aplicado/descontado após ser dado direito de defesa para a Contratada, procedendo a EMPREL com o desconto do pagamento a ser realizado na fatura ou por meio de cobrança judicial. Parágrafo Segundo ­ As sanções estipuladas acima poderão ser aplicadas de forma cumulativa, ou não, a depender da gravidade das
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+50
+
+Empresa Municipal de Informática
+
+EMPREL
+violações contratuais.
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+11.3. Independente da multa prevista no item 11.2, a EMPREL poderá ainda, aplicar as sanções previstas no artigo 86 e seguintes da Lei nº 8.666/93. CLÁUSULA DÉCIMA SEGUNDA - DA RESCISÃO CONTRATUAL 12.1. Este contrato poderá ser rescindido, conforme preceitua o art. 77 e seguintes da Lei nº 8.666/1993, e especificamente pela EMPREL de forma unilateral com fundamento no inciso II, do art. 58 c/c inciso I, do art. 79 da Lei nº 8.666/1993 a qualquer tempo independente de notificação judicial ou extrajudicial, bem como no caso de declaração de insolvência dos seus Sócios Gerentes ou Diretores e na verificação de imperícia, negligência ou desídia na prestação de serviços. 12.2. Amigável, com fulcro no inciso II, do art.79 da Lei nº 8.666/93. 12.3. Os casos de rescisão contratual serão formalmente motivados nos autos do processo, assegurando-se o contraditório e a ampla defesa. 12.4. Além dos motivos consignados na referida cláusula, a EMPREL poderá, a qualquer momento, dar por rescindido o mesmo contrato, devendo, para tanto, notificar a CONTRATADA com antecedência mínima de 30 (trinta) dias. CLÁUSULA DÉCIMA TERCEIRA - DA SUCESSÃO 13.1. O presente instrumento obriga as partes CONTRATANTES e aos seus sucessores, que na falta delas assumem a responsabilidade pelo integral cumprimento das obrigações contidas no mesmo. CLÁUSULA DÉCIMA QUARTA - DA LEGISLAÇÃO APLICÁVEL 14.1. O presente contrato reger-se-á pelas normas estabelecidas no Estatuto Federal Licitatório, Lei nº 8.666, de 21 de junho de 1993 e pelas regras inclusas no Processo Licitatório nº 014/2011, Pregão Presencial para Registro de Preços nº 013/2011. Nos casos omissos, aplicar-se-ão os princípios gerais do Direito. CLÁUSULA DÉCIMA QUINTA - DA PUBLICAÇÃO 15.1. Conforme disposto no parágrafo único do art. 61 da Lei Federal nº 8.666/93, o presente instrumento contratual será publicado na forma de extrato no Diário Oficial do Município, como condição de sua eficácia contra terceiros. CLÁUSULA DÉCIMA SEXTA - DAS DISPOSIÇÕES FINAIS
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+51
+
+Empresa Municipal de Informática
+
+EMPREL
+
+PROCESSO LICITATÓRIO Nº 014/2011 PREGÃO PRESENCIAL PARA REGISTRO DE PREÇOS Nº 013/2011
+
+16.1. É vedada a subcontratação do objeto deste contrato, no todo ou em parte. 16.2. Para adaptar e atualizar as disposições deste Contrato às alterações jurídicas e/ou econômicas que ocorrerem durante sua vigência, a EMPREL promoverá a elaboração de Aditivo contratual, nos termos do art. 65 da Lei nº 8.666/93. 16.3. Os termos e condições aqui estipulados, substituem todos e quaisquer entendimentos anteriores, verbais e/ou por escrito, constituindo este documento, o que evidencia as transações objeto deste contrato. CLÁUSULA DÉCIMA SÉTIMA - DO FORO 17.1. Com renúncia a qualquer outro por mais privilegiado que seja as partes elegem o Foro da Comarca do Recife, Estado de Pernambuco, como competente para dirimir todas e quaisquer dúvidas oriundas do presente contrato, com fundamento no art.55, § 2º da Lei nº 8.666/93. Estando assim, as partes justas e contratadas, assinam o presente instrumento em 03 (três) vias, de igual teor e forma, com as testemunhas abaixo nomeadas e a todo ato presentes, para que se produzam seus jurídicos e legais efeitos. Recife, de de 2011.
+
+EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL Wellington Batista da Silva Diretor Presidente EMPRESA MUNICIPAL DE INFORMÁTICA - EMPREL Adilson da Silva Diretor de Negócios e Sistemas Corporativos CONTRATADA TESTEMUNHAS: 1.______________________________________________________________________ NOME R.G. CPF/MF 2.______________________________________________________________________ NOME R.G. CPF/MF
+
+EMPRESA MUNICIPAL DE INFORMÁTICA ­ EMPREL Rua 21 de abril, 3370, Torrões, Recife ­ PE. CEP 50.7621-350 Tel.(0**81) 3355.7015 ­ Fax: (0**81) 3355.7104
+
+52
+
+

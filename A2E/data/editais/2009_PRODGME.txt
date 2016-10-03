@@ -1,0 +1,1150 @@
+EDITAL DE LICITAÇÃO Modalidade : PREGÃO ELETRÔNICO N.º 008/2009 Tipo : MENOR PREÇO Processo n.º: 5141001 000053/2009 Objeto: REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE MÓDULOS DE SOFTWARE ESPECIFICADOS E ANALISADOS PELA PRODEMGE, CORRESPONDENTES A 25.000 (VINTE E CINCO MIL) PONTOS DE FUNÇÃO CODIFICADOS SOB A GERÊNCIA E SUPERVISÃO DA PRODEMGE, UTILIZANDO ABORDAGEM ORIENTADA A OBJETOS E LINGUAGEM JAVA Início da sessão do pregão: 17/04/2009 ÀS 09:00
+
+RECIBO A Empresa _____________________________________________________ retirou este Edital de licitação e deseja ser informada de qualquer alteração pelo e-mail ________________________ ou pelo fax: ___________________.
+
+____________________________, aos ___/___/_____.
+
+Nome completo: ____________________________________________________
+
+Cargo:____________________________________________________________
+
+___________________________________ (Assinatura)
+
+OBS.: ESTE RECIBO DEVERÁ SER REMETIDO À GERÊNCIA DE SUPRIMENTO E APOIO LOGÍSTICO (GSL) ­ PRODEMGE, PELO FAX (31) 3339-1252 P/ EVENTUAIS COMUNICAÇÕES AOS INTERESSADOS, QUANDO NECESSÁRIO.
+
+1
+
+EDITAL DE LICITAÇÃO Modalidade : PREGÃO ELETRÔNICO N.º 008/2009 Tipo : MENOR PREÇO ÍNDICE 1- PREÂMBULO 2- DO OBJETO 3 - DAS CONDIÇÕES DE PARTICIPAÇÃO 4 - DO CREDENCIAMENTO 5 - DO PAGAMENTO 6 - DAS PROPOSTAS COMERCIAIS 7 - DA DOCUMENTAÇÃO 8 - DA SESSÃO DO PREGÃO 9 - DOS RECURSOS 10 - DA HOMOLOGAÇÃO 11 - DO REGISTRO DE PREÇOS 12 - DOS ÓRGÃOS PARTICIPANTES 13 - DAS CONDIÇÕES PARA CONTRATAÇÃO 14 - DAS SANÇÕES ADMINISTRATIVAS 15 - DISPOSIÇÕES GERAIS ANEXO I - TERMO DE REFERÊNCIA ANEXO I-A ­ ESPECIFICAÇÕES TÉCNICAS ANEXO I-B ­ PROCESSO DE CODIFICAÇÃO ANEXO I-C ­ ARQUITETURA DE APLICAÇÕES JAVA ANEXO I-D ­ GUIA DE CONTAGEM DE PONTOS DE FUNÇÃO ANEXO II - MINUTA DE CONTRATO ANEXO III - MINUTA DA ATA DE REGISTRO DE PREÇOS ANEXO IV - MINUTA DE TERMO DE ADESÃO PARA CARONAS ANEXO V - MODELO DE CURRÍCULO ANEXO VI - PORTARIA PP-027/2005
+
+2
+
+EDITAL DE LICITAÇÃO PREGÃO ELETRÔNICO N° 008/2009 ­ TIPO: MENOR PREÇO
+
+1­ PREÂMBULO 1.1 - A Companhia de Tecnologia da Informação do Estado de Minas Gerais ­ PRODEMGE, na qualidade de Órgão Gerenciador, realizará a licitação na modalidade "Pregão Eletrônico", do tipo "Menor Preço", objetivando o Registro de Preços para contratação de módulos de software especificados e analisados pela Prodemge correspondentes a 25.000 (vinte e cinco mil) pontos de função codificados sob a gerência e supervisão da Prodemge, utilizando abordagem orientada a objetos e linguagem Java, conforme disposto neste Edital e Anexos. O Pregão será realizado no site www.compras.mg.gov.br, conforme espelho de pedidos nº 690 de 22/10/2008, emitido pela Gerência de Processo de Software e Deliberação da Diretoria nº 211/2008 de 17/09/2008. 1.2 ­ O Pregão será realizado por Pregoeiro e Equipe de Apoio, designados pela Portaria da Presidência PP 022/2008, de 24/06/2008. 1.3 ­ A competência para assinatura deste Edital foi delegada pela Portaria da Presidência PP 0008/2009, de 20/03/2009. 1.4 ­ O Pregão será regido pela Lei Federal nº. 10.520, de 17 de julho de 2002, Lei Estadual n.º 14.167, de 10 de janeiro de 2002, pela Lei Federal n.º 8.666/93, e suas alterações, Lei Complementar n.º 123/2006, de 14 de dezembro de 2006, pelos Decretos Estaduais 44.431 de 29 de dezembro de 2006, 44.515 de 14 de maio de 2007, 44.630, de 03 de outubro de 2007, 44.786 e 44.787, de 18 de abril de 2008 e 44.918, de 07 de outubro de 2008, e demais normas pertinentes e pelas condições estabelecidas pelo presente Edital. 1.5 ­ O PREGÃO ocorrerá no dia 17/04/2009 no site www.compras.mg.gov.br. ENCAMINHAMENTO DA PROPOSTA COMERCIAL: INÍCIO dia 03/04/2009 às 08:00; TÉRMINO dia 17/04/2009, às 09:00. ABERTURA DAS PROPOSTAS COMERCIAIS: INÍCIO dia 17/04/2009, às 09:00. 1.6 ­ Para todas as referências de tempo contidas neste Edital será observado o horário de Brasília (DF). 1.7 ­ A moeda desta licitação é o Real,vedada qualquer oferta vinculada à moeda estrangeira.
+
+3
+
+2­ DO OBJETO 2.1 ­ Constitui objeto desta licitação o Registro de Preços para contratação de módulos de software especificados e analisados pela Prodemge correspondentes a até 25.000 (vinte e cinco mil) pontos de função codificados sob a gerência e supervisão da Prodemge, utilizando abordagem orientada a objetos e linguagem Java, conforme disposto neste Edital e Anexos. 2.1.1 ­ Poderá ser registrado mais de um preço, nos termos do artigo 12 do Decreto 44.787/2008 (ver subitem 11.1.4). 2.1.2 ­ As propostas serão para a totalidade dos pontos não sendo aceitas propostas parciais. 2.1.3 ­ No caso da participação de empresas reunidas em consórcio, deverá ser indicada a quantidade de pontos a ser executada por cada consorciado, totalizando os 25.000 pontos. 2.1.4 ­ Os serviços poderão ser prestados nas instalações da Proponente, da Prodemge ou dos clientes da Companhia. 2.1.5 ­ Todas as despesas relativas co remuneração, pessoal, estadia, alimentação, transporte, encargos, tributos e qualquer outra despesa para a execução dos contratos são de inteira responsabilidade da Proponente e em nenhuma hipótese poderão ser repassados à Prodemge. 2.2 ­ Os serviços a serem entregues encontram-se descritos no Anexo I-B. 3 ­ DAS CONDIÇÕES DE PARTICIPAÇÃO 3.1 ­ Poderão participar da presente licitação as pessoas jurídicas do ramo pertinente ao objeto licitado, isoladas ou reunidas em consórcio, previamente credenciados perante o Portal de Compras do Estado de Minas Gerais. 3.1.1 ­ No caso de consórcio a empresa líder deverá deter a senha de acesso ao Sistema Eletrônico, onde será realizado o Pregão. 3.2 ­ Não poderão participar os interessados que se encontrarem sob falência, concurso de credores, dissolução, liquidação, empresas estrangeiras que não funcionam no país, nem aqueles que tenham sido declarados inidôneos para licitar ou contratar com a Administração Pública ou punidos com suspensão do direito de licitar e contratar com a Administração Pública Estadual. 3.2.1 ­ Para fins de habilitação, será feita consulta ao CAFIMP ­ Cadastro de Fornecedores Impedidos de Licitar com a Administração Pública Estadual, conforme disposto no art. 32 do Decreto Estadual 44.431/06.
+
+4
+
+4 ­ DO CREDENCIAMENTO 4.1 ­ Para acesso ao sistema eletrônico, os interessados deverão credenciar-se pelo site www.compras.mg.gov.br (opção "CADASTRO DE FORNECEDORES"), conforme instruções nele contidas e no Decreto 44.431/06. 4.1.1 ­ O credenciamento implica o recebimento da senha eletrônica de acesso ao sistema enviada através de e-mail pelo Gestor do Credenciamento da Secretaria de Estado de Planejamento e Gestão - SEPLAG. 4.1.2 ­ As informações complementares para credenciamento poderão ser obtidas pelos telefones: 0800 940 2000 (para Minas Gerais) e 31 3516-0399 (celular e demais localidades). 4.2 ­ O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, cujo uso é de responsabilidade exclusiva da Proponente, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou à Secretaria de Estado de Planejamento e Gestão - SEPLAG, coordenadora do sistema eletrônico, responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros. 4.3 ­ O credenciamento da Proponente junto ao sistema eletrônico implica na responsabilidade legal pelos atos praticados e a presunção de capacidade técnica para a realização das transações inerentes ao Pregão eletrônico, sob pena da aplicação das sanções previstas no item 14 do presente Edital. 5 ­ DO PAGAMENTO 5.1 ­ As condições de pagamento encontram-se no Termo de Referência ­ Anexo I e na Minuta do Contrato ­ Anexo II. 5.2 ­ O faturamento correspondente às operações do consórcio, se houver, será efetuado pelas pessoas jurídicas consorciadas, mediante a emissão de Nota Fiscal ou Fatura próprios, proporcionalmente à participação de cada uma no empreendimento, nos termos da Instrução Normativa RFB 834 de 26 de março de 2008 6­ DAS PROPOSTAS COMERCIAIS 6.1 ­ As Propostas Comerciais deverão ser enviadas através do site www.compras.mg.gov.br, na opção "PROPOSTAS DE LOTES DE PREGÃO ELETRÔNICO", até as 09:00 do dia 17/04/2009, após o preenchimento do formulário eletrônico, com manifestação em campo próprio do sistema sobre atendimento aos requisitos de habilitação, inexistência de fatos impeditivos, restrição na documentação fiscal (para micro e pequenas empresas, se for o caso) e ciência e concordância com as informações contidas no Edital e Anexos.
+
+5
+
+6.2 ­ O prazo de validade será de 60 (sessenta) dias a contar da data marcada para a abertura das mesmas. 6.3 ­ Nos preços propostos deverão estar incluídos todos os tributos, encargos e custos, transporte, hospedagem, alimentação, instalações físicas ou quaisquer outros ônus que porventura possam recair sobre a prestação de serviços, o objeto da presente licitação, que em nenhuma hipótese poderão ser repassados à Prodemge. 6.4 ­ A proponente deverá lançar no campo próprio do Portal Compras-MG, o valor unitário e total de cada item e o valor total da proposta para o lote. 6.4.1 ­ No Sistema, valor unitário do item é igual ao valor total do item e corresponde ao valor total de 25.000 pontos de função. 6.4.2 ­ No Sistema, o valor total da proposta para o lote único é igual ao valor total do item. 6.4.3 ­ O Portal Compras-MG não efetua as operações, porém emite aviso de erro na parte superior do vídeo quando as mesmas estão incorretas e solicita a correção. 6.5 ­ No caso da participação de empresas reunidas em consórcio, deverá ser indicada, também, a quantidade de pontos a ser executada por cada consorciado, totalizando os 25.000 pontos. 6.5.1 ­ Esta informação deverá estar contida em documento impresso, que deverá ser enviado juntamente com os documentos de habilitação (ver subitem 8.3.4) . 7­ DA DOCUMENTAÇÃO 7.1­ HABILITAÇÃO JURÍDICA 7.1.1 ­ Ato constitutivo, estatuto ou contrato social e seus aditivos em vigor, devidamente registrados, em se tratando de sociedades comerciais, e no caso de sociedade de ações, acompanhadas de documentos de eleição de seus administradores. 7.1.2 ­ Inscrição do ato constitutivo, no caso de sociedades civis, acompanhada de prova de diretoria em exercício. 7.1.3 ­ Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo Órgão competente, quando a atividade assim o exigir. 7.2 ­ QUALIFICAÇÃO ECONÔMICO-FINANCEIRA 7.2.1 ­ Balanço Patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, vedada a sua substituição por balancetes ou
+6
+
+balanços provisórios, podendo ser atualizados, quando encerrados há mais de 3 (três) meses da data da apresentação da proposta, pela variação do IPCA (Índice de Preços ao Consumidor Amplo) ocorrida no período, comprovando que o licitante possui boa situação financeira, avaliada pelos índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC), iguais ou superiores a 1 (um). 7.2.1.1 - Entende-se por apresentados na forma da lei, o Balanço Patrimonial e Demonstrações Contábeis, devidamente datados e assinados pelo responsável da empresa, e por profissional de contabilidade habilitado e devidamente registrado no Conselho Regional de Contabilidade. 7.2.1.2 - O Balanço Patrimonial e Demonstrações Contábeis deverão ser apresentados em cópia autenticadas das folhas do livro diário onde os mesmos se encontram transcritos, acompanhados de cópias autenticadas dos termos de abertura e encerramento dos respectivos livros, ou por publicações em jornais de grande circulação ou diário oficial, quando se tratar de Sociedade Anônima. 7.2.1.3 - A boa situação financeira será avaliada pelos índices mencionados acima, resultantes da aplicação das seguintes fórmulas:
+LG = ATIVO CIRCULANTE + REALIZÁVEL A LONGO PRAZO PASSIVO CIRCULANTE + EXIGÍVEL A LONGO PRAZO
+
+SG =
+
+ATIVO TOTAL PASSIVO CIRCULANTE + EXIGÍVEL A LONGO PRAZO
+
+LC =
+
+ATIVO CIRCULANTE PASSIVO CIRCULANTE
+
+7.2.2­ Certidão Negativa de Falência e Recuperação Judicial, expedida pelo cartório distribuidor da sede da pessoa jurídica, de acordo com inciso II do artigo 31 da Lei 8.666/93. 7.2.3 ­ No caso de empresas reunidas em consórcio os indicadores de análise de balanço da empresa líder do consórcio deverão atender as exigências do item 7.2.1, sendo aceitáveis índices inferiores de analise do balanço para as demais participantes do consórcio. 7.2.4 ­ Apresentar declaração de que, caso venha a ser contratada, apresentará, no ato de assinatura do instrumento jurídico, garantia do contrato, no valor de 1º(um por cento) do valor estimado da contratação. 7.2.4.1 ­ A garantia contratual será pelo prazo de execução do contrato, podendo ser exigida pela Contratante sua prorrogação nas hipóteses de: atraso na entrega dos serviços; dilatação do prazo de vigência do instrumento contratual, ampliação do objeto do contrato, nos limites permitidos pela Lei 8.666/93, com suas alterações, quando será exigido o reforço da garantia contratual.
+7
+
+7.2.5 ­ A Proponente poderá optar, por uma das seguintes modalidades de garantia: 7.2.5.1 ­ Caução em dinheiro ou títulos da Dívida Pública. Em se tratando de caução em dinheiro este será realizado mediante depósito pela Proponente em conta remunerada, que será indicada pela PRODEMGE. O recibo de depósito constitui-se na comprovação da garantia. OBS.: Em se tratando de títulos da Dívida Pública esta deverá estar em conformidade com as normas do órgão público emissor. 7.2.5.2 ­ Fiança Bancária ou Seguro Garantia. Apresentar a Carta de Fiança ou o Seguro Garantia, expedida por estabelecimento bancário ou securitário, contendo a seguinte identificação: - Pregão nº. 008/2009 ­ Governo do Estado de Minas Gerais/PRODEMGE com indicação clara e precisa do valor garantido. 7.3 ­ REGULARIDADE FISCAL 7.3.1 ­ Cópia da Inscrição no Cadastro Nacional de Pessoa Jurídica ­ CNPJ. 7.3.2 ­ Prova de regularidade para com a Fazenda Federal do domicílio ou sede da Proponente, ou outra equivalente, na forma da Lei apresentando a Certidão Conjunta Negativa relativa a Tributos Federais e à Dívida Ativa da União e/ou Certidão de Tributos Federais e Certidão de Dívida Ativa. 7.3.3 ­ Prova de regularidade para com a Fazenda Estadual, se for o caso. Parágrafo Único: Se a prova de regularidade para com a Fazenda Estadual for expressa por mais de uma certidão, a Proponente vencedora deverá apresentá-la junto com os demais documentos. 7.3.4 ­ Cópia do Certificado de Regularidade perante o FGTS, ou expedida pelo site próprio (via Internet), conforme legislação em vigor. 7.3.5 ­ Cópia da Certidão Negativa de Débito (CND) perante o INSS, ou expedida pelo site próprio (via Internet), conforme legislação em vigor. 7.4 ­ QUALIFICAÇÃO TÉCNICA 7.4.1 ­ EXPERIÊNCIA DA EMPRESA EM CODIFICAÇÃO JAVA 7.4.1.1 ­ Comprovar aptidão da empresa isolada ou do consórcio para execução dos serviços objeto desse Registro de Preços, mediante a apresentação de um ou mais atestados demonstrando que a Proponente executou contratos, cuja somatória indique a realização de codificação em regime de Fábrica de Software de módulos de software utilizando plataforma Java Enterprise Edition (Java EE) com no mínimo 5.000 (cinco mil) pontos de função.
+
+8
+
+7.4.1.1.1 ­ O atestado ou os atestados deverão ser emitidos em português por pessoa jurídica de direito público ou privado nacional e deverão conter: a - o nome da entidade que está emitindo o atestado; b - o nome do sistema ou sistemas desenvolvidos; c - a indicação de que foi utilizada a linguagem Java; d - a quantidade de pontos de função utilizados na codificação; e - a qualidade do serviço prestado; f - informação de que o prazo para execução do trabalho acordado no contrato ou na ordem de execução do serviço foi cumprido ; g - a data da emissão do atestado; h - o nome do responsável pela assinatura do atestado e o cargo do mesmo na entidade atestante. 7.4.1.1.2 ­ Os cinco mil pontos de função de codificação poderão ser comprovados em um ou mais atestados, desde que a somatória dos mesmos em um ou mais contratos seja igual ou superior ao quantitativo exigido para comprovação da experiência em codificação utilizando a linguagem Java. 7.4.2 ­ EXPERIÊNCIA DA EMPRESA EM GERENCIAMENTO DE PROJETOS 7.4.2.1 ­ Comprovação de obtenção de nível de maturidade em avaliação do modelo CMM1 / CMMI2 / MPS.BR3 em qualquer unidade organizacional do Proponente, ou em processo de certificação. 7.4.2.1.1 ­ A comprovação de obtenção do nível de maturidade deverá ser realizada através de apresentação de cópia do resultado de avaliação ou documento equivalente emitido por parceiro do SEI4 autorizado para tal, no caso de avaliações CMM ou CMMI, ou emitido pela SOFTEX5 ou parceiro autorizado, no caso de avaliações MPS.BR. 7.4.2.1.2 ­ Nos casos de processo em certificação, deverá ser apresentada declaração das mesmas entidades descritas no subitem anterior, de que a Proponente está em processo de certificação. 7.4.3 ­ PESSOAL TÉCNICO ADEQUADO E DECLARAÇÃO DE DISPONIBILIDADE DA EQUIPE GERENCIAL MÍNIMA PARA ATUAR NOS CONTRATOS COM A PRODEMGE 7.4.3.1 ­ EQUIPE GERENCIAL MÍNIMA Como critério de Qualificação Técnica, para a etapa de habilitação apresentar
+1
+
+O CMM (Capability Maturity Model) é um modelo desenvolvido pelo SEI ( Software Engineering Institute) para avaliação da maturidade dos processos de software de uma organização e para identificação das práticas chave que são requeridas para aumentar a maturidade desses processos. Mais informações podem ser obtidas em www.sei.cmu.edu/cmm/. 2 O CMMI (Capability Maturity Model Integration) é uma evolução do CMM e procura estabelecer um modelo único para o processo de melhoria corporativo, integrando diferentes modelos e disciplinas. Mais informações podem ser obtidas em www.sei.cmu.edu/cmmi/. 3 O MPS.BR é um programa para Melhoria de Processo do Software Brasileiro coordenado pela Associação para Promoção da Excelência do Software Brasileiro (SOFTEX), contando com apoio do Ministério da Ciência e Tecnologia (MCT), da Financiadora de Estudos e Projetos (FINEP) e do Banco Interamericano de Desenvolvimento (BID). Mais informações podem ser obtidas em " www.softex.br/mpsbr/". 4 SEI - Software Engineering Institute (http://www.sei.cmu.edu/). 5 SOFTEX - Associação para Promoção da Excelência do Software Brasileiro (http://www.softex.br/).
+9
+
+relação nominal, acompanhada de comprovantes de formação e experiência profissional, da equipe gerencial mínima que será alocada nos contratos celebrados com a Prodemge, durante a vigência da Ata de Registro de Preços, nas parcelas de relevância técnica relativas à Coordenação do Projeto e à Apuração do Ponto de Função: 7.4.3.1.1 - Coordenação do Projeto - 1 (um) Profissional de nível superior, detentor de certificado Project Management Professional ­ PMP emitido pelo Project Management Institute ­ PMI; ou que comprove experiência mínima de 5 (cinco) anos na coordenação de projetos de TI. 7.4.3.1.2 ­ Métricas de Ponto de Função - 1 (um) Profissional de nível superior, detentor do Certificado - Certified Function Point Specialist ­ CFPS emitido pelo International Function Point Users Group ­ IFPUG ou que comprove experiência mínima de 03 (três) anos na utilização da técnica de contagem de Pontos de Função. 7.4.3.1.3 ­ A empresa deverá apresentar declaração de que os profissionais indicados serão alocados nos Contratos celebrados com a Prodemge em decorrência da Ata de Registro de Preços. 7.4.3.1.4 ­ A empresa isolada ou o consórcio deverá apresentar declaração, devidamente assinada por cada profissional indicado nominalmente (subitens 7.4.3.1.1 e 7.4.3.1.2), de que ele atuará pessoalmente nos contratos firmados com a Prodemge, em decorrência da Ata de Registro de Preços 7.4.3.1.5 ­ A inobservância das exigências de apresentação e alocação no contrato da equipe gerencial mínima, com a composição e o perfil ora estabelecidos, no ato de assinatura do instrumento contratual ou durante a execução do contrato, será considerado inadimplência contratual, ensejando as penalidades previstas na Minuta de Contrato - Anexo II ou o cancelamento da Ata de Registro de Preços, conforme o caso. 7.4.3.1.6 ­ A substituição dos profissionais indicados durante a assinatura e a execução do contrato somente será permitida por outro com as mesmas qualificações exigidas neste Edital e desde que comprovadas pela Prodemge. 7.4.3.2 ­ DECLARAÇÃO DE DISPONIBILIDADE DA EQUIPE TÉCNICA DE CODIFICAÇÃO 7.4.3.2.1 ­ Declaração de que tem disponibilidade para alocar nos contratos os seguintes profissionais: a. 2 (dois) profissionais de nível superior que comprovem experiência mínima de 3 (três) anos como Analista de Requisitos em projetos de desenvolvimento de software.
+
+10
+
+b. 1 (um) profissional de nível superior detentor de certificado Sun Certified Enterprise Architect (SCEA) emitido por qualquer Authorized Worldwide Prometric Testing Center ou que comprove experiência mínima de 3 (três) anos como arquiteto Java em projetos de desenvolvimento de software. c. 7 (sete) profissionais detentores de certificado Sun Certified Java Programmer (SCJP) (SCEA) emitido por qualquer Authorized Worldwide Prometric Testing Center ou que comprovem experiência mínima de 2 (dois) anos como Programador na plataforma Java EE em projetos de desenvolvimento de software. d. 10 (dez) profissionais que comprovem experiência mínima de 1 (um) ano como Programador no framework padrão da Prodemge, conforme descrito no item 2.1 do Anexo I-A desse Edital. 7.4.3.2.1.1 ­ O nome e os comprovantes de formação e experiência da equipe técnica serão apresentados no ato de assinatura de cada contrato. 7.4.3.2.1.2 ­ O quantitativo de profissionais em cada contrato dependerá do quantitativo de pontos de função contratado. 7.4.3.2.1.3 ­ Esses profissionais não poderão ser substituídos por estagiários. 7.4.3.2.2 ­ DEMAIS PROFISSIONAIS A SEREM ALOCADOS NO CONTRATO A critério da empresa isolada ou do consórcio e com vista à conclusão do projeto com todas as suas especificações no cronograma acordado, poderão ser agregados à equipe mínima, a cada contratação, outros profissionais com perfil diferente do exigido, incluindo estagiários. 7.4.3.3 ­ COMPROVANTES DE FORMAÇÃO PROFISSIONAL 7.4.3.3.1 ­ A graduação, será comprovada pela apresentação do certificado de conclusão do curso ou documento equivalente. 7.4.3.3.2 ­ A Certificação será comprovada pela cópia do respectivo certificado. 7.4.3.3.3 ­ Nos casos de processo em certificação, deverá ser apresentada declaração de que o profissional está em processo de certificação. 7.4.3.4 ­ COMPROVAÇÃO DE EXPERIÊNCIA PROFISSIONAL A experiência profissional deverá ser descrita no currículo conforme modelo Anexo. 7.4.3.5 ­ EQUIPES PARA ATUAREM JUNTO A CARONAS 7.4.3.5.1 ­ No caso de a empresa isolada ou do consórcio aceitar a adesão de Carona ao Registro de Preços, deverá manter a mesma composição e perfil profissional das equipes, não havendo necessidade de manter os mesmos profissionais indicados para o contrato com a Prodemge.
+11
+
+7.4.3.5.2 ­ A comprovação das equipes e do perfil dos profissionais indicados na hipótese do item anterior será de responsabilidade do órgão ou entidade Carona contratante dos serviços. 7.4.4 ­ COMPROVAÇÃO DE QUE TOMOU CONHECIMENTO DAS CONDIÇÕES LOCAIS NA PRODEMGE PARA EXECUÇÃO DO OBJETO DA LICITAÇÃO. 7.4.4.1 ­ Declaração de que está ciente de que a Prodemge padronizou sua plataforma de codificação de módulos de software conforme Portaria Prodemge PP027/2005 ­ Anexo VI e que a utilização desta ferramenta é condição necessária ao cumprimento do objeto dos contratos decorrentes da Ata de Registro de Preços. 7.4.4.1.1 ­ Para fins de emissão da Declaração de que trata o item anterior, caso julgue necessário complementar as informações constantes do Termo de Referência e conhecer "in Locum" o ambiente da Prodemge para receber os esclarecimentos, a Proponente poderá agendar Visita Técnica, até três dias úteis anteriores à data prevista para abertura desta licitação. 7.4.4.1.2 ­ A Visita Técnica deverá ser agendada com o Sr. ADEMILSON JORGE DE BARROS MONTEIRO através do e-mail gps@prodemge.gov.br ou através do telefone. (31) 3339-1256. 7.4.4.1.3 ­ No caso de Contratos a serem celebrados com órgãos ou entidades na qualidade de Carona ficará a cargo da beneficiária, discutir com os interessados a necessidade de utilização do padrão adotado na Prodemge, não sendo obrigatória a manutenção, neste caso, da exigência habilitatória contida na declaração do subitem 7.4.4.1, no ato de assinatura do contrato. 7.4.5 ­ DA QUALIFICAÇÃO TÉCNICA DOS CONSÓRCIOS Nos termos do artigo 33, inciso III da Lei 8666/93, a qualificação técnica do consórcio poderá ser representada pela soma da capacidade técnica das empresas consorciadas, na proporção de sua respectiva participação. 7.5 ­ DA HABILITAÇÃO DAS EMPRESAS REUNIDAS EM CONSÓRCIO 7.5.1 ­ Deverá ser comprovada a existência de compromisso público ou particular de constituição de consórcio, com indicação da empresa-líder, que deverá atender às condições de liderança estipuladas no Edital e será a representante das consorciadas perante a Prodemge. 7.5.2 ­ Cada empresa consorciada deverá apresentar a documentação de habilitação exigida no ato convocatório desta licitação. 7.5.3 ­ As empresas consorciadas não poderão participar, na mesma licitação, de mais de um consórcio ou em forma isolada.
+
+12
+
+7.5.4 ­ As empresas consorciadas serão solidariamente responsáveis pelas obrigações do consórcio nas fases de licitação e durante a vigência do contrato. 7.5.5 ­ No consórcio de empresas brasileiras e estrangeiras, a liderança caberá, obrigatoriamente, à empresa brasileira, observado o disposto no subitem 7.5.1. 7.5.6 ­ Antes da celebração do contrato, deverá ser promovida a constituição e o registro do consórcio, nos termos do compromisso referido subitem 7.5.1. 7.5.7 ­ É permitida a participação de pequenas empresas em consórcio na forma prevista no art. 56 da Lei Complementar nº. 123, de 14 de dezembro de 2006, aplicando-se-lhe o disposto nos subitem 7.5.3 e 7.5.4. 7.5.8 ­ A empresa líder representará o consórcio perante a Prodemge. 7.6 ­ DECLARAÇÃO Juntamente com os documentos referidos neste item (7 - DA DOCUMENTAÇÃO), deverá ser apresentada, para fins de habilitação, a declaração a seguir, que deverá ter assinatura identificada do representante legal ou procurador: DECLARAÇÃO A empresa .................................................., CNPJ n.º ............................... sediada no ................................ declara, sob as penas da lei, que: a) até a presente data inexistem fatos impeditivos para sua habilitação no presente processo licitatório, ciente da obrigatoriedade de declarar ocorrências posteriores. b) em suas instalações, não há menores de 18 anos realizando trabalho noturno, perigoso ou insalubre e não há menores de 16 anos realizando qualquer trabalho, salvo na condição de aprendiz, a partir de 14 anos. c) entre os dirigentes, sócios e responsáveis técnicos, não há empregado ou Diretor da Prodemge nem de outro ente da Administração Estadual. d) declaração de que executará os trabalhos com todos os recursos relativos a espaço físico, equipamentos e materiais de qualquer natureza de sua inteira responsabilidade e que, por solicitação da Prodemge, em caso de necessidade de trabalho conjunto, alocará sua equipe em Belo Horizonte, assumindo todas as despesas desta operação. e) enquadra-se ao disposto no art. 3º da Lei Complementar Federal nº 123, de 14 de dezembro de 2006. (aplicável somente para Microempresa e Empresa de Pequeno Porte) Declaro, ainda, compromisso de informar formalmente ao CAGEF a ocorrência de qualquer fato impeditivo posterior a esta declaração que interfira nos dados constantes dos registros cadastrais do Estado de Minas Gerais, inclusive em relação ao porte do fornecedor declarado acima. Data e local _____________________________________ assinatura do Diretor ou Representante Legal
+
+13
+
+7.6.1 ­ Esta declaração no caso de Consórcio deverá ser apresentada por todas as consorciadas. 7.6.2 ­ As declarações apresentadas para este certame não precisam ter firma reconhecida. As assinaturas serão conferidas pelo Pregoeiro e equipe de apoio com base na documentação do representante legal. 7.6.3 ­ Em caso de dúvida sobre a autenticidade da assinatura, pode-se exigir o reconhecimento de firma, conforme previsto no artigo 17 da Lei Estadual n.º 14.184/02. 7.6.4 ­ Serão aceitos no processo, para todos os efeitos legais, documentos elaborados e assinados por meio de recursos de certificação digital, realizada por autoridade certificadora credenciada no âmbito da Infra-Estrutura de Chaves Pública Brasileira - ICP Brasil. 7.7 ­ DISPOSIÇÕES GERAIS DA HABILITAÇÃO - CAGEF 7.7.1 ­ A Proponente que é inscrita no Cadastro Geral de Fornecedores do Estado de Minas Gerais - CAGEF, possuindo o Certificado de Registro Cadastral ­ Cadastramento, emitido pelo Portal de Compras, com a validade em vigor, poderá substituir os documentos constantes nos subitens 7.1.1, 7.2.1, 7.2.2, 7.3.1, 7.3.3, 7.3.4 e 7.3.5. 7.7.1.1 ­ Na hipótese dos documentos indicados no CRC estarem vencidos ou de não constarem no relatório, os mesmos deverão ser apresentados com validade em vigor. 7.7.1.2 ­ Serão analisados no certificado somente os documentos exigidos para este certame, sendo desconsiderados todos os outros documentos, mesmo que estejam com validade expirada. 7.7.1.3 ­ No caso de consórcio a inscrição no CAGEF poderá ser de todos ou alguns dos proponentes, desde que a não cadastrada apresente toda a documentação solicitada. 8 ­ DA SESSÃO DO PREGÃO 8.1 ­ DO INÍCIO DA SESSÃO 8.1.1 ­ No horário marcado no preâmbulo, terá início a sessão do pregão. 8.1.2 ­ O Pregoeiro e equipe de apoio abrirão as propostas e analisarão imediatamente as mesmas, observando as regras de aceitação previstas no Edital. 8.1.3 ­ Os representantes das Proponentes participantes têm a obrigação de permanecer presentes à sessão, desde o início previsto no Edital até a adjudicação, ressalvadas as interrupções informadas no chat.
+14
+
+8.2 ­ DA SESSÃO DE LANCES 8.2.1 ­ Após a análise das propostas, o Pregoeiro iniciará a sessão de lances, convidará as Proponentes classificadas a apresentarem lances através do sistema eletrônico. 8.2.2 ­ Durante o transcurso da sessão pública, serão divulgadas, em tempo real, todas as mensagens trocadas no chat do sistema, inclusive valor e horário do menor lance registrado pelas Proponentes, vedada a identificação do fornecedor e alertas do sistema. 8.2.3 ­ A Proponente poderá oferecer lance inferior ao último por ele ofertado e registrado no sistema. 8.2.3.1 ­ No caso de lance inferior a 50% do último lance/proposta registrada para aquela Proponente, o sistema enviará um alerta desse fato antes da confirmação do mesmo. 8.2.3.2 ­ Se a Proponente encaminhar lance incorreto, poderá solicitar a exclusão do último lance ao Pregoeiro. 8.2.3.2.1 ­ O Pregoeiro não poderá excluir um lance se a Proponente não clicar no local próprio solicitando a exclusão. 8.2.3.2.2 ­ É de total responsabilidade da Proponente a solicitação de exclusão ou a manutenção de seus lances. 8.2.3.3 ­ No caso de empate entre dois ou mais lances, prevalecerá aquele que for recebido e registrado em primeiro lugar. 8.2.4 ­ Ao Pregoeiro é facultada a definição de percentual ou valor mínimo de diferença entre os lances e tempo máximo para sua formulação, no início da fase de lances. 8.2.5 ­ Caso a Proponente não realize lances, permanecerá o valor da proposta eletrônica apresentada para efeito da classificação final. 8.2.6 ­ No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do pregão, o sistema eletrônico poderá permanecer acessível às Proponentes para a recepção dos lances. O Pregoeiro, quando possível, dará continuidade à sua atuação no certame, sem prejuízo dos atos realizados. 8.2.6.1­ Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do Pregão será suspensa e terá reinício somente após a comunicação expressa aos participantes de novo horário para sua continuidade no Portal Compras-MG ou se for o caso de nova data. 8.2.7­ O encerramento da fase de lances será por decisão do Pregoeiro, mediante
+15
+
+encaminhamento de aviso de "TEMPO DE IMINÊNCIA", com a informação dos minutos para início do tempo randômico. 8.2.7.1 ­ Transcorrido o tempo de iminência, terá início o tempo randômico, período de tempo de 5 (cinco) até 30 (trinta) minutos aleatoriamente determinado pelo sistema eletrônico - Portal Compras-MG, findo o qual será automaticamente encerrada a recepção de lances. 8.3 ­ DO JULGAMENTO 8.3.1 ­ O critério de julgamento será o de MENOR PREÇO para a Proposta Global. 8.3.1.1 ­ Quando necessário, o Pregoeiro poderá solicitar à Proponente de menor preço que demonstre a exequibilidade de seus preços, através do envio, por fax ou por meio eletrônico, de planilha de custos, readequada ao lance proposto, ou prova de contratação em andamento com preços semelhantes, para análise e decisão sobre a aceitação do menor preço, observando o procedimento disposto no artigo 13, inciso XXX, do Decreto 44.786/2008. 8.3.2 ­ Declarada encerrada a etapa competitiva de lances, as ofertas serão ordenadas para classificação a partir do menor preço. 8.3.3 ­ O Pregoeiro examinará a aceitabilidade da primeira proposta classificada, quanto ao objeto e valor, decidindo motivadamente a respeito. 8.3.4 ­ Sendo aceitável a oferta de menor preço, o sistema informará quem é a Proponente detentora da melhor oferta e esta deverá enviar de imediato, no prazo de até 1 hora, sua documentação de habilitação (item 8) e informações da proposta (subitem 6.5): a) encaminhamento via Fax (31) 33391252; b) entrega diretamente ao Pregoeiro, em envelope fechado. Neste caso a documentação será entregue na Gerência de Suprimento e Apoio Logístico, Rua da Bahia, 2277, sala 105, Prédio I em Belo Horizonte/MG. 8.3.4.1 ­ Havendo dúvida quanto à autenticidade do documento, o Pregoeiro abrirá prazo de 2 (dois) dias para apresentação do documento original. 8.3.4.2 ­ Como requisito para a assinatura do contrato, a Proponente vencedora deverá encaminhar os documentos atualizados exigidos no Edital, que estiverem com validade vencida. 8.3.5 ­ Constatado o atendimento das exigências fixadas no Edital, a Proponente será habilitada e terá a melhor proposta válida. 8.3.6 ­ Se a proposta não for aceitável ou se a Proponente não atender às exigências habilitatórias, o Pregoeiro examinará as demais propostas subsequentes
+16
+
+classificadas, verificando a sua aceitabilidade, quanto ao objeto e valor, procedendo à verificação das condições de habilitação da Proponente, até a apuração de uma proposta que atenda ao Edital. 8.3.7 ­ Caso não se realizem lances, será verificada a conformidade entre a proposta de menor preço e o valor estimado da contratação estabelecido no Preço de Referência. 8.3.8 ­ Após a apuração da melhor proposta válida, observada a classificação das propostas até o momento, será assegurado às pequenas empresas, o direito de preferência à contratação, conforme previsto na Lei Complementar 123/2006 e o Decreto Estadual 44.630/2007. 8.3.8.1 ­ São consideradas pequenas empresas, conforme artigo 2º do Decreto 44.630/2007, as empresas de pequeno porte ­ EPP e microempresas ­ MP. 8.3.9 ­ Serão observadas as regras indicadas nos próximos subitens, para fins de preferência das pequenas empresas. 8.3.9.1 ­ Após a habilitação da Proponente de melhor preço, observadas as regras acima, o Pregoeiro, mediante aviso do SISTEMA, convocará, via chat, a pequena empresa detentora da proposta de menor valor dentre aquelas que estejam na situação de empate, ou seja, cujos valores sejam iguais ou superiores até 5% (cinco por cento) em relação ao valor apresentado pela Proponente habilitada, para que apresente novo lance INFERIOR ao melhor lance, no prazo de 5 (cinco) minutos, sob pena de preclusão do direito de preferência. 8.3.9.2 ­ Realizado novo lance, nos termos do subitem anterior, o Pregoeiro examinará a aceitabilidade deste, quanto ao objeto e valor, decidindo motivadamente a respeito. 8.3.9.3 ­ Sendo aceitável a nova oferta de preço, a confirmação das condições habilitatórias da pequena empresa obedecerá ao procedimento previsto no item 8.3.4. 8.3.9.3.1 ­ A Proponente deverá encaminhar, conforme item 8.3.4, toda a documentação exigida neste Edital, inclusive os documentos relativos à regularidade fiscal, mesmo que esta apresente alguma restrição, conforme dispõem os artigos 42 e 43 da Lei Complementar nº. 123, de 14 de dezembro de 2006 e artigo 4º do Decreto Estadual 44.630/2007. 8.3.9.3.2 ­ Havendo alguma restrição na comprovação da regularidade fiscal da pequena empresa será assegurado o prazo de 2 (dois) dias úteis (prorrogáveis por igual período, a critério da Administração) para a regularização. 8.3.9.3.3 ­ A contagem do prazo a que se refere o item anterior será o dia em que a proposta da Proponente for aceita .
+
+17
+
+8.3.9.3.4 ­ A não regularização da documentação, no prazo previsto no subitem anterior, implicará decadência do direito à contratação, sem prejuízo das sanções previstas na legislação vigente. 8.3.9.3.5 ­ Se houver a necessidade de abertura do prazo para a pequena empresa regularizar sua documentação fiscal, o Pregoeiro deverá suspender a sessão de pregão e registrar em Ata que todos os presentes ficam, desde logo, intimados a comparecer no dia e horário informados para a retomada da sessão de pregão. 8.3.9.4 ­ Constatado o atendimento das exigências fixadas no Edital, será concluída a fase de habilitação. 8.3.9.5 ­ Se a pequena empresa não apresentar proposta de preços ou não atender às exigências de habilitação, o Pregoeiro convocará as pequenas empresas remanescentes que estiverem na situação de empate prevista no subitem 8.3.9.1, na ordem classificatória, para o exercício do mesmo direito. 8.3.10 ­ Após a aplicação do critério de desempate, se houver, o Pregoeiro poderá negociar com o autor da oferta de menor valor com vistas à redução do preço. 8.3.11 ­ Caso não haja pequena empresa dentro da situação de empate ou não ocorra a apresentação de nova proposta de preço ou não sejam atendidas as exigências documentais de habilitação, será mantido o resultado inicial (item 8.3.5). 8.3.12 ­ O disposto no subitem 8.3.9 somente se aplicará quando a melhor oferta válida não tiver sido apresentada por pequena empresa. 8.3.13 ­ Havendo apenas uma proposta, esta poderá ser aceita, desde que atenda a todos os termos do Edital e que seu preço seja compatível com o preço de referência estabelecido no processo licitatório. 8.3.13.1­ Constatado o atendimento pleno às exigências Editalícias, a Proponente com proposta única será detentora da melhor proposta válida. 8.3.14 ­ Após habilitação terá início a manifestação de intenção de recursos, conforme previsto no próximo item. 9 ­ DOS RECURSOS 9.1 ­ Concluída a fase de habilitação do fornecedor, qualquer Proponente poderá manifestar imediata e motivadamente a intenção de recorrer. 9.1.1 ­ O Pregoeiro informará o tempo em que o sistema ficará aberto para recebimento das intenções de recurso. 9.1.2 ­ Finalizado o prazo, o Pregoeiro realizará o juízo de admissibilidade das intenções de recurso, decidindo imediatamente sobre o aceite ou não.
+
+18
+
+9.1.2.1 ­ O não aceite das intenções de recurso deverá ser motivado. 9.1.3 ­ Será concedido o prazo de 3 (três) dias úteis para apresentação das razões de recurso, ficando as demais Proponentes desde logo intimadas para apresentar contra-razões em igual número de dias, contados do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos autos. 9.1.4 ­ Os procedimentos para interposição de recurso, compreendida a manifestação da intenção da Proponente durante a sessão pública, serão realizados exclusivamente por meio do sistema eletrônico, em formulários próprios. 9.1.5 ­ O encaminhamento das razões do recurso e de eventuais contra-razões pelos demais Proponentes, poderá ser feita das seguintes formas: a) por meio do sistema eletrônico, em formulários próprios; b) por meio de documentos, devidamente identificados, mediante protocolo, no Correio Central Prodemge, sito à Rua da Bahia, n.º 2277, sala 105, Bairro Lourdes, Belo Horizonte, Minas Gerais. 9.1.5.1 ­ Não serão reconhecidos os recursos interpostos após os respectivos prazos legais, bem como os que forem enviados por fax. 9.2 ­ Na falta de manifestação imediata e motivada, nos termos definidos no item 9.1, a Proponente terá o direito de recurso decaído. 9.3 ­ Os recursos deverão ser decididos no prazo de 5 (cinco) dias úteis. 9.4 ­ O acolhimento de recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 9.5 ­ O resultado do recurso será divulgado no site www.prodemge.gov.br e comunicado a todas Proponentes via fax ou e-mail. 10 ­ DA HOMOLOGAÇÃO 10.1 ­ A Proponente vencedora submeter-se-á, antes da homologação do processo, a prova prática de conceito para validação de proficiência no ambiente tecnológico da Prodemge, em conformidade com o descrito no item 8 do Anexo I-A. 10.1.1 ­ A prova será realizada em conformidade com os critérios estabelecidos no Anexo I-A. 10.1.2 ­ Será constituída, por Portaria da Presidente da Prodemge, uma Comissão de Avaliação e o resultado do teste será aprovado pelo Diretor de Desenvolvimento de Sistemas.
+
+19
+
+10.1.3 ­ Todos os Proponentes que desejarem ter seus preços registrados, conforme previsto no subitem 11.1.4, deverão apresentar a prova prática, se convocados para contratação, e se sujeitarão aos mesmos critérios dispostos nos subitens anteriores. 10.1.4 ­ A aceitação e a rejeição da prova serão motivadas em ata da Comissão de Avaliação. 10.2 ­ Inexistindo manifestação recursal, o Pregoeiro declarará a Proponente vencedora, com a posterior homologação do resultado do Registro de Preços pela Diretoria da Prodemge. 10.3 ­ Havendo interposição de recurso, após o julgamento, a Diretoria da Prodemge declarará a vencedora e homologará o procedimento licitatório à Proponente de melhor oferta. 10.4 ­ A publicidade da homologação www.prodemge.gov.br e www.compras.mg.gov.br. 11­ DO REGISTRO DE PREÇOS 11.1 ­ Homologado o resultado da licitação, o órgão gerenciador, respeitada a ordem de classificação, convocará a empresa isolada ou em consórcio vencedora para assinatura da Ata de Registro de Preços, no prazo de 5 (cinco) dias úteis contados da data do recebimento da convocação. 11.1.1 ­ O prazo que trata o subitem anterior será contado depois de cumpridos os requisitos de publicidade. 11.1.2 ­ A convocação será dirigida ao Representante da empresa vencedora por email ou fax. 11.1.3 ­ A ARP será assinada por 02 (dois) Diretores da PRODEMGE - órgão gerenciador e pela Proponente cujos preços foram registrados. 11.1.4 ­ Conforme permitido no artigo 12 do Decreto 44787/2008, além dos preços do primeiro colocado, será registrado, na ordem de classificação, preço de outro fornecedor, desde que a oferta esteja em valor igual ou inferior à referência e atendidas as condições habilitatórias. 11.1.4.1 ­ Caso o 1º beneficiário não apresente situação regular no ato da assinatura do contrato, ou recuse-se a assiná-lo ou na impossibilidade do atendimento, a Prodemge poderá contratar com o 2º beneficiário com preço registrado na ARP. 11.1.4.2 ­ O Proponente pode declinar de ter seu preço registrado pela PRODEMGE, mediante comunicação escrita ao Pregoeiro. será realizada nos sites
+
+20
+
+11.2 ­ A ARP não obriga o órgão gerenciador a contratar os módulos de software nas quantidades estimadas, podendo realizar licitações específicas para contratação, obedecida a legislação pertinente, hipótese que, em igualdade de condições, o beneficiário do Registro de Preços terá preferência, conforme art. 27 do Decreto Estadual 44.787. 11.3 ­ Os preços registrados serão constantes por 12 (doze) meses. 11.4 ­ A Ata poderá ser prorrogada por igual período, nos termos do Decreto 44.787/2008. Os preços poderão ser atualizados pelo INPC, vedada qualquer vinculação a moeda estrangeira. 11.5 ­ A ARP poderá ter os preços impugnados, por petição fundamentada durante sua vigência por: a) b) c) d) órgãos do sistema de controle interno e externo, na forma da Lei; cidadãos e pessoas jurídicas, legalmente representadas; titulares dos respectivos órgãos carona; fornecedores de bens e prestadores de serviços.
+
+11.5.1 ­ As denúncias, petições e impugnações anônimas, não identificadas ou não fundamentadas adequadamente, serão arquivadas pela autoridade competente. 11.5.2 ­ O prazo para apreciação da petição e impugnação, regularmente identificada e fundamentada será de cinco dias úteis, a contar do recebimento. 11.6 ­ Os termos aditivos para alterarem quantidades, a que se refere a alínea "b" do inciso
+I do art. 65 da Lei 8.666/93, poderão decorrer de posteriores contratos celebrados com os órgãos participantes ou caronas, estando vedado o aumento do quantitativo da ARP, pelo órgão gerenciador.
+
+11.7 ­ Aplicam-se as demais disposições contidas no capítulo IV do Decreto 44.787/2008 a este Edital e aos contratos dele decorrentes. 12­ DOS ÓRGÃOS PARTICIPANTES 12.1 ­ Não há órgãos participantes neste processo. 12.2 ­ As adesões por caronas deverão ser previamente autorizadas pelo órgão gerenciador e seguirão todas as disposições do Decreto 44.787/2008 e demais normas pertinentes, inclusive quanto ao modelo do termo de adesão, adotado neste Edital, Anexo IV. 12.2.1 ­ Caberá ao fornecedor beneficiário da ARP, observadas as condições nela estabelecidas, optar pela aceitação ou não do fornecimento, desde que não prejudique as obrigações anteriormente assumidas.
+
+21
+
+13­ DAS CONDIÇÕES PARA CONTRATAÇÃO 13.1 ­ A PRODEMGE fará as contratações mediante a convocação do fornecedor para, no prazo de 48 (quarenta e oito) horas, assinar o contrato, conforme artigo 62 da Lei 8666/93. 13.2 ­ Para fins de contratação a empresa deverá comprovar que manteve regular os documentos exigidos para sua habilitação neste processo licitatório. 13.3 ­ Nos impedimentos do atendimento pelo primeiro colocado, a Prodemge poderá contratar com os demais fornecedores com preço registrado na ARP, a serem convocados conforme sua ordem de classificação ao final do Pregão e registrado na ARP (conforme item 11.1.4), para negociação contratual. 14 ­ DAS SANÇÕES ADMINISTRATIVAS 14.1 ­ Na forma prevista no art. 12 da Lei nº 14.167, de 2002, garantida a ampla defesa, poderá ser aplicada sanção de impedimento de licitar e contratar com órgãos e entidades da Administração Estadual, àquele fornecedor que: a) apresentar documentação falsa; b) deixar de apresentar documentação exigida para o certame; c) ensejar o retardamento da execução do objeto da licitação; d) não mantiver a proposta; e) falhar ou fraudar a execução do futuro contrato; f) comportar-se de modo inidôneo; g) cometer fraude fiscal, h) sendo beneficiário do registro de preços, recusar-se a assinar a ARP, autorização de fornecimento ou similar, dentro do prazo estabelecido. 14.2 ­ As sanções serão obrigatoriamente registradas no CAFIMP, devendo o fornecedor ser descredenciado junto ao Cadastro de Fornecedores do Estado de M.G., do órgão ou entidade promotora da licitação, por igual período, sem prejuízo das multas e das demais cominações legais previstas no respectivo instrumento contratual. 14.3 ­ Além da caracterização do descumprimento da obrigação assumida, poderão ser aplicadas ao detentor da ARP, as seguintes sanções: I- Advertência, que será aplicada sempre por escrito pela Diretoria da Prodemge; II- Multas; III- Rescisão unilateral do contrato sujeitando-se a CONTRATADA ao pagamento de indenização ao CONTRATANTE; IV- Suspensão temporária do direito de licitar com a PRODEMGE; V- Indenização ao CONTRATANTE referente à diferença de custo para contratação de outra Proponente; VI- Declaração de inidoneidade para licitar e contratar com a Administração Pública, no prazo não superior a 5 (cinco) anos;
+22
+
+VII- cancelamento da ARP pelo órgão gerenciador. 14.4 ­ A multa será aplicada à razão de 0,1% (um décimo por cento) sobre o valor total do fornecimento, por dia de atraso, não podendo exceder, cumulativamente, a 10 % do valor contratado. 14.5 ­ As sanções acima descritas poderão ser aplicadas cumulativamente ou não, de acordo com a gravidade da infração, facultada ampla defesa à CONTRATADA, no prazo de 5 (cinco) dias úteis a contar da intimação do ato. 14.6 ­ O órgão gerenciador da ARP deverá aplicar as penalidades por infrações decorrentes do procedimento licitatório e gestão da ARP e descumprimento dos contratos que ele ajustar, cabendo a cada órgão participante ou carona aplicar as penalidades por descumprimento dos contratos por ele ajustados. 14.6.1­ As sanções relativas ao inadimplemento de obrigações contratuais serão aplicadas pelo órgão contratante e deverão ser comunicadas a PRODEMGE, para fins de registro de avaliação do fornecedor detentor da ARP. 14.7 ­ DA EXTENSÃO DAS PENALIDADES 14.7.1 ­ A suspensão de participar em licitação e contratar poderá ser também aplicada àqueles que: I- Retardarem a execução do Pregão; II- Demonstrarem não possuir idoneidade para contratar com a Administração; III- Apresentarem declaração falsa ou cometerem fraude fiscal; IV- Frustrarem ou fraudarem mediante ajuste ou combinação ou outro expediente, o caráter competitivo do processo licitatório, com intuito de obter para si ou para outrem, vantagem decorrente deste Registro de Preços. 15 ­ DISPOSIÇÕES GERAIS 15.1 ­ Este Edital deverá ser lido e interpretado na íntegra. Após o encaminhamento da proposta, não serão aceitas alegações de falhas ou irregularidades de quaisquer de suas cláusulas e condições e esta comunicação não terá efeito de recurso. 15.2 ­ Da sessão do pregão, o sistema gerará ata circunstanciada, na qual estarão registrados todos os atos do procedimento e as ocorrências relevantes, que estará disponível para consulta, após o fechamento do processo, no site 15.3 ­ É facultado ao Pregoeiro ou à Autoridade Superior em qualquer fase do julgamento promover diligência destinada a esclarecer ou complementar a instrução do processo e a aferição do preço ofertado, bem como solicitar a órgãos competentes a elaboração de pareceres técnicos destinados a fundamentar suas decisões de homologação.
+
+23
+
+15.4 ­ Após o término da fase de lances, a Proponente detentora do menor preço informará por chat seu CNPJ para que a Prodemge realize consulta ao Portal de Compras do Estado para a impressão do CRC para a verificação da regularidade dos documentos. 15.5 ­ Os documentos que não possuírem prazo de validade estabelecido pelo órgão expedidor ou pelo Edital, deverão estar datados dos últimos 180 (cento e oitenta) dias até a data de abertura da sessão do Pregão. 15.6 ­ A Prodemge realizará consulta nos portais onde foram emitidas as provas de regularidade para a verificação de autenticidade dos documentos. 15.7 ­ A presente licitação somente poderá ser revogada por razões de interesse público, decorrente de fato superveniente devidamente comprovado, ou anulada, no todo ou em parte, por ilegalidade de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente comprovado. 15.8 ­ O Pregoeiro, no interesse da Administração, poderá relevar omissões puramente formais observadas na documentação e proposta, desde que não contrariem a legislação vigente e não comprometam a lisura da licitação, sendo possível a promoção de diligência destinada a esclarecer ou a complementar a instrução do processo. 15.9 ­ Caberá a empresa credenciada acompanhar as operações no sistema eletrônico durante a sessão pública do Pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão. 15.10 ­ A subcontratação total ou parcial do seu objeto, a associação do contratado com outrem, a cessão ou transferência, total ou parcial, bem como a fusão, cisão ou incorporação, poderão ser admitidas, desde que aprovadas pela Prodemge. 15.11 ­ A presente licitação poderá ser revogada por razões de interesse público, decorrente de fato superveniente devidamente comprovado, ou anulada, no todo ou em parte, por ilegalidade de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente comprovado. 15.12 ­ O Edital deste Pregão poderá ser retirado no site www.prodemge.gov.br , no site www.compras.mg.gov.br, ou à Rua da Bahia, nº 2.277, sala 105, prédio I, Bairro Lourdes, Belo Horizonte/MG, na Gerência de Suprimento e Apoio Logístico. 15.13 ­ Até o quinto dia após a publicação do aviso do Edital, contado na forma do parágrafo único do art. 10, do Decreto 44.786/2008, qualquer pessoa, inclusive a Proponente, poderá solicitar esclarecimentos ou impugnar o ato convocatório do Pregão e, somente será considerada se apresentada ao protocolo da Gerência de Suprimento e Apoio Logístico - GSL, da PRODEMGE, Rua da Bahia, 2277, sala 105, Prédio I, Belo Horizonte/MG.
+
+24
+
+15.14 ­ Informações complementares que visam obter maiores esclarecimentos sobre a presente licitação serão prestadas pelo Pregoeiro, no horário de 08:30 a 12:30 ou de 14:30 a 18:30, de segunda a sexta-feira, pelo telefone (31) 3339.1338, fax (31) 3339-1252 ou email compras@prodemge.gov.br. 15.13 ­ Fazem parte integrante deste Edital :  Anexo I ­ Termo de Referência;  Anexo I-A ­ Especificações Técnicas  Anexo I-B ­ Processos de Codificação  Anexo I-C ­ Arquitetura de Aplicações Java  Anexo I-D ­ Guia de Contagem de Pontos de Função Anexo II ­ Minuta de Contrato; Anexo III ­ Minuta da Ata de Registro de Preços; Anexo IV ­ Minuta do Termo de adesão para caronas; Anexo V ­ Modelo de Currículo; Anexo VI ­ Portaria PP-027/2005.
+
+    
+
+Belo Horizonte, 01 de abril de 2009
+
+Celina Rosália de Lana Roldão da Silva Superintendência de Infraestrutura
+
+25
+
+ANEXO I TERMO DE REFERÊNCIA PREGÃO N.º PE 008/2009 Área Demandante: Gerência de Processo de Software - GPS Data do Pregão: 17/04/2009
+
+OBJETO: REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE MÓDULOS DE SOFTWARE ESPECIFICADOS E ANALISADOS PELA PRODEMGE, CORRESPONDENTES A 25.000 (VINTE E CINCO MIL) PONTOS DE FUNÇÃO CODIFICADOS SOB A GERÊNCIA E SUPERVISÃO DA PRODEMGE, UTILIZANDO ABORDAGEM ORIENTADA A OBJETOS E LINGUAGEM JAVA
+
+Responsável: Diretoria de Desenvolvimento de Sistemas 1) LOTE ITEM QTDE. UN. DESCRIÇÃO DO OBJETO DESCRIÇÃO
+
+01
+
+01
+
+CONTRATAÇÃO DE MÓDULOS DE SOFTWARE ESPECIFICADOS E ANALISADOS PELA PRODEMGE, CORRESPONDENTES A 25.000 PONTO (VINTE E CINCO MIL) PONTOS DE FUNÇÃO 25.000 DE CODIFICADOS SOB A GERÊNCIA E FUNÇÃO SUPERVISÃO DA PRODEMGE, UTILIZANDO ABORDAGEM ORIENTADA A OBJETOS E LINGUAGEM JAVA
+
+Especificações Técnicas: Conforme Anexos I-A, I-B, I-C e I-D. Justificativa de necessidade e aplicação: Conforme Deliberação da Diretoria 221/2008 de 17/09/2008. Avaliação de Custo: Conforme preço de referência constante no processo. Critérios de aceitabilidade do objeto: Para aceitação da melhor proposta, o Pregoeiro considerará o menor preço e o atendimento das condições de habilitação exigidas no Edital. Prazo de execução: Conforme Anexos I e II.
+
+26
+
+Local de execução: Conforme Anexos I e II. Cronograma Físico-Financeiro: Não se aplica Condições de Pagamento: Conforme Anexos I e II. Deveres das partes: Conforme Anexos I e II. Procedimentos de Fiscalização e Gerenciamento do Contrato: O responsável pela fiscalização do contrato ou instrumento equivalente é o titular da Gerência de Processo de Software da Diretoria de Desenvolvimento de Sistemas. Demais condições essenciais para o fornecimento ou para a prestação do serviço demandado pela Administração: Conforme Anexos I e II. Sanções Cabíveis: Conforme disposto na legislação vigente, no Edital e Anexos.
+
+27
+
+ANEXO I-A ESPECIFICAÇÃO TÉCNICA 1. OBJETO Contratação de módulos de software especificados e analisados pela Prodemge correspondentes a 25.000 (vinte e cinco mil) pontos de função codificados sob a gerência e supervisão da Prodemge, utilizando abordagem orientada a objetos e linguagem Java. Os itens a serem entregues encontram-se descritos no Anexo I-B. 2. CODIFICAÇÃO DO PRODUTO 2.1 - Tendo em vista que o jCompany Developer Suite6 é solução tecnológica padrão para desenvolvimento na plataforma Java Enterprise Edition (Java EE) na Prodemge conforme portaria PP-027/2005, os módulos de software demandados serão codificados utilizando a versão 5.1 dessa solução. No entanto, poderão ser solicitados módulos de software que utilizem outras versões do jCompany ou mesmo outros frameworks Java EE, a critério da Prodemge. 2.2 - As versões do jCompany Developer Suite e dos frameworks Java EE a serem utilizadas na codificação serão definidas individualmente para cada módulo de software pela Prodemge. 2.3 - O servidor de aplicação, o sistema gerenciador de banco de dados e quaisquer outras soluções utilizadas para implantação dos módulos de software serão definidos individualmente pela Prodemge para cada módulo de software. 2.3.1 - O indicativo tecnológico preferencial da Prodemge para sistema gerenciado de banco de dados é o Oracle e para servidores de aplicação o Apache Tomcat e o JBoss. 2.4 - A codificação dos módulos de software deverá observar os itens descritos no Anexo I-B - Processo de Codificação, onde estão indicadas as etapas, os responsáveis, bem como, os documentos e demais artefatos envolvidos. 2.5 - O Processo de Codificação detalhado no Anexo I-B e que norteará a construção dos módulos de software, bem como os templates apresentados, derivam do PDSOO que é o processo padrão da Prodemge para desenvolvimento de software de sistemas orientados a objeto. 2.5.1 - O PDSOO define padrões e convenções que devem ser seguidos quando da confecção dos artefatos a serem entregues. 2.5.2 - O PDSOO encontra-se à disposição para consultas na sede da Prodemge, sendo de propriedade intelectual da Prodemge. 2.5.3 - A ferramenta a ser utilizada para registro e acompanhamento de defeitos entre a
+
+6
+
+O jCompany Developer Suite é uma solução multidimensional para aprimoramento da produtividade e da qualidade dos processos de desenvolvimento baseados em tecnologia Java EE (http://www.powerlogic.com.br).
+
+28
+
+Prodemge e a Contratada é o Mantis7 que ficará hospedado no ambiente da Prodemge. 2.5.4 - O Enterprise Architect8 é a ferramenta utilizada internamente para modelagem dos módulos de software, conforme determinado no processo. Quando requeridos, os modelos porventura criados pela Prodemge serão disponibilizados para a Contratada no formato original da ferramenta. 2.6 - Os módulos de software deverão ser codificados respeitando arquitetura baseada em orientação por objetos e no design pattern MVC conforme descrito no Anexo I-C ­ Arquitetura de Aplicações Java. 2.6.1 - A Prodemge desenvolveu vários componentes para implementar alguns requisitos comuns aos seus sistemas, tais como segurança, trilha de auditoria, registro em log, acesso a mainframe. Tais componentes foram construídos como uma camada bridge acoplada ao JCompany. A Contratada deverá utilizar esses componentes, sob orientação da Prodemge. Nesses casos, os requisitos implementados por esses componentes não serão remunerados. 3. MEDIÇÃO DO PRODUTO 3.1 - A medição dos módulos de software será realizada através da contagem dos pontos de função baseada nas regras descritas abaixo:  Para novos módulos de software, serão utilizadas as regras de contagem conforme padrão do IFPUG (International Funtion Point Users Group), publicadas no Manual de Práticas de Contagem (CPM - Counting Practices Manual), versão 4.2.1, ou a que estiver vigente no momento, a critério da Prodemge.  Para alterações em módulos de software, serão utilizadas as regras de contagem de projetos de melhoria definidas pela NESMA (Netherlands Metrics Users Association).  Para tratar algumas situações não contempladas pelas regras do IFPUG ou da NESMA ou mesmo situações onde as regras não estão suficientemente claras ou objetivas (por exemplo, múltiplas mídias), será utilizado o Guia de Contagem de Pontos de Função elaborado pela Prodemge e anexado a este edital (Anexo I-D). Esse guia esclarece e complementa regras de contagem do IFPUG e da NESMA para situações da Prodemge, além de orientar e definir as medições feitas em pontos de função em projetos de software. 3.2 - A Prodemge não utilizará Fator de Ajuste, ou seja, serão utilizados somente os Pontos de Função Não Ajustados. 3.3 - No caso de existir divergência entre a contagem de pontos de função da Contratada e da Prodemge em até 5% (cinco por cento) inclusive, prevalecerá a contagem da Prodemge. Se a diferença for superior a 5%, a Contratada deverá indicar um profissional do seu quadro com certificação atualizada Certified Function Point Specialist (CFPS), para realizar, juntamente com profissional indicado pela Prodemge, a revisão das contagens para juntos elaborarem proposta final para a solução do impasse.
+7 8
+
+Mantis é um sistema baseado na Web para rastreamento de bugs disponível em http://www.mantisbt.org/. Enterprise Architect é uma ferramenta de análise e desenho UML que cobre todo o ciclo de vida do software e que está disponível em http://www.sparxsystems.com.au/.
+
+29
+
+3.4 - A Prodemge utilizar-se-á de um documento chamado Ordem de Codificação (OC) para autorizar a codificação dos módulos de software. Cada OC será composta pelas funções a serem entregues pela Contratada, sendo que as funções de dados serão inseridas na Ordem de Codificação que contém a primeira função de transação que a mantém ou a referencia. Observações:   Funções de transação são aquelas caracterizadas na técnica de Análise de Pontos de Função como Entrada Externa (EE), Saída Externa (SE) ou Consulta Externa (CE). Funções de dados são aquelas caracterizadas na técnica de Análise de Pontos de Função como Arquivo Lógico Interno (ALI) ou Arquivo de Interface Externa (AIE).
+
+4. PAGAMENTO 4.1 - A liberação da fatura para pagamento ficará condicionada à apresentação do Termo de Encerramento da Ordem de Codificação (Anexo I-B) e dos documentos comprobatórios da idoneidade financeira e fiscal da Contratada, em especial o recolhimento de todos os tributos incidentes sobre suas atividades, de qualquer natureza, incluídos impostos, taxas, contribuições sociais e encargos previdenciários. 4.2 - O valor a ser pago para a contratada pela Ordem de Codificação será obtido pela aplicação da fórmula abaixo:
+
+Onde:  VPOC é o valor a ser pago pela execução da Ordem de Codificação;  QtPFOC é a quantidade total de pontos de função, calculada pela soma dos pontos de função de cada função de transação e de dados presentes na Ordem de Codificação.  VPFContratado é o valor do ponto de função contratado; 4.3 - Nenhum pagamento será efetivado pela Prodemge sem que a unidade administrativa demandante do módulo de software, através de seu gerente, ateste, por escrito, que os produtos previstos em contrato foram correta e integralmente entregues. 4.4 - Não serão remuneradas alterações para correção de defeitos em módulos de software entregues pela Contratada dentro do prazo de garantia. 4.4.1 - Entende-se por defeito: comportamentos inadequados que causem problemas de uso ou funcionamento do sistema e quaisquer desvios em relação aos requisitos aprovados. 5. OBRIGAÇÕES DAS PARTES 5.1 - As obrigações das partes encontram-se descritas na minuta de contrato anexa a este edital.
+30
+
+6.
+
+CONFIDENCIALIDADE
+
+6.1 - Os itens referentes à confidencialidade encontram-se descritas na minuta de contrato anexa a este edital na seção de Segurança da Informação.
+
+7.
+
+QUALIDADE E ATENDIMENTO
+
+7.1 - Os itens referentes à qualidade e atendimento encontram-se descritas na minuta de contrato anexa a este edital nas seções de Níveis de Serviço e Penalidades.
+
+8.
+
+PROVA PRÁTICA DE CONCEITO
+
+8.1 - A Proponente de melhor proposta e a segunda classificada submeter-se-ão, antes da homologação do processo, a prova prática de conceito para validação de proficiência no ambiente tecnológico da Prodemge. 8.2 - A prova consistirá na implementação, utilizando a solução jCompany Developer Professional Suite 5.1, de 04 (quatro) casos de uso especificados pela Prodemge. 8.2.1 - As empresas receberão como insumos para a prova de conceito os seguintes artefatos: (a) DT2 - ERSw - Especificação de Requisitos de Software e (b) P2 - Protótipo; (c) P3 - Modelo de Dados Relacional; descritos no ANEXO I-B PROCESSO DE CODIFICAÇÃO e que detalham os casos de uso a serem implementados. 8.2.2 - O banco de dados necessário para implementação dos 4 (quatro) casos de uso será criado pela Prodemge antes da prova de conceito e todas as informações necessárias para conexão ao mesmo serão fornecidas antes da prova. 8.3 - A prova ocorrerá 05 (cinco) dias após fase de classificação das propostas, nas instalações da Prodemge, com acompanhamento de técnicos da empresa e com a duração máxima de 16 (dezesseis) horas distribuídas em 2 (dois) dias úteis conforme horário abaixo:  08:30h às 12:30h;  14:00h às 18:00h. 8.3.1 - No primeiro dia deverão ser implementados e entregues 2 (dois) casos de uso que necessariamente seguirão alguma lógica padrão do JCompany. 8.3.2 - No segundo dia deverão ser implementados e entregues os outros 2 (dois) casos de uso que poderão ou não seguir alguma lógica padrão do JCompany. 8.3.3 - As Proponentes poderão alocar até 4 (quatro) profissionais para a realização da prova. 8.3.4 - O resultado entregue pela participante ao final de cada dia deverá ser uma aplicação WEB Java empacotada no formato "war" (web application archive). 8.3.5 - O hardware e o software necessário para a realização da prova de conceito será de
+31
+
+inteira responsabilidade das empresas participantes, ficando sob a diligência da equipe da Prodemge durante e após o período de realização da prova até a conferência do ambiente utilizado e do resultado apresentado. 8.4 - Será constituída, por Portaria da Presidente da Prodemge, uma Comissão de Avaliação que averiguará se o resultado entregue atende aos requisitos especificados. 8.4.1 - A averiguação dos resultados será realizada mediante execução de testes funcionais utilizando casos de testes elaborados previamente pela Prodemge, sobre o resultado entregue pela participante. 8.4.1.1 - Os testes funcionais serão realizados no produto entregue pelo participante ao final de cada dia de prova, buscando validar se os requisitos funcionais, tais como os casos de uso e regras de negócio, foram implementados de acordo com o especificado. 8.4.1.2 - Os casos de testes serão disponibilizados para os participantes da prova prática de conceito somente após o final do segundo dia de prova. 8.4.2 - O ambiente de testes onde a aplicação será testada possui as seguintes características: 8.4.2.1.1 Servidor de aplicação Tomcat 6.0 rodando no sistema operacional Windows XP Professional com J2SE 5.0 (jre 1.5.1); 8.4.2.1.2 SGBD Oracle Database 10g.
+
+8.4.3 - O resultado da prova será divulgado até 72 horas após o limite determinado para o término da prova de conceito do segundo dia. 8.4.4 - O participante será considerado reprovado na prova nas seguintes situações: 8.4.4.1 - Não entrega do arquivo "war" dentro horário estipulado;
+
+8.4.4.2 - Existência de qualquer erro na aplicação que impeça a sua execução no ambiente de testes determinado; 8.4.4.3 8.4.4.4 testes, de: 8.4.4.4.1 8.4.4.4.2 - Não implementação de qualquer requisito funcional solicitado; - Detecção, durante a averiguação dos resultados e com base nos casos de
+
+qualquer defeito de severidade ALTA; 10 (dez) ou mais defeitos de severidade MÉDIA;
+
+Parágrafo único - A severidade dos defeitos está descrita no item Níveis de Serviço da Minuta do Contrato em anexo. 8.4.4.5 - O resultado da prova prática de conceito deverá ser aprovado pelo Diretor de Desenvolvimento de Sistemas.
+32
+
+ANEXO I-B PROCESSO DE CODIFICAÇÃO 1. Introdução O objetivo deste documento é apresentar o processo de codificação de módulos de software, descrevendo suas etapas, responsabilidades e artefatos gerados. São componentes do processo os artefatos listados no quadro abaixo, para os quais são definidas siglas para efeito de identificação. Sigla DT1 DT2 DT3 DT4 DT5 DT7 DT8 DT9 DT10 DG1 DA1 DA2 DA3 DA4 DA6 P2 P3 Artefato Documento de Visão ERSw - Especificação de Requisitos de Software Relatório de Homologação Planilha de Contagem de Pontos de Função Guia de Usabilidade DASw - Documento de Arquitetura de Software Plano de testes Casos de testes Relatório de Evidência de Testes Cronograma Solicitação de Módulo de Software OC - Ordem de Codificação Termo de Encerramento da Ordem de Codificação Termo de Aceite Ateste Protótipo Modelo de Dados Relacional (compreende diagrama ER, script DDL e mapeamento objeto-relacional)
+
+P4 Código fonte Onde: DG - Documento DT- Documento Gerencial Técnico
+
+DA - Documento Administrativo
+
+P - Produto
+
+Os modelos com o conteúdo dos documentos estão definidos nas seções seguintes. Para aqueles que deverão ser gerados pelo fornecedor, a Prodemge disponibilizará o arquivo em meio magnético, quando de sua utilização.
+
+33
+
+2. Fluxo de Trabalho
+act FluxoConstrucaoVisaoExterna PRODEMGE FORNECEDOR
+
+INÍCIO
+
+DT7 DASw
+
+E1 - Emissão da Solicitação de Módulo de Softw are
+
+E2 - Av aliação do Fornecedor
+
+DA1 Solicitação de Módulo de Sof tware
+
+DG1 Cronograma (Preliminar)
+
+DT1 Documento de Visão
+
+P2 Protótipo
+
+DT2 Especif icação de Requisitos
+
+E3 - Homologação da Av aliação do Fornecedor
+
+DT8 Plano de Testes
+
+DT5 Guia de Usabilidade DA1 Solicitação de Módulo de Sof tware (assinada e com contagem PF)
+
+DT4 Planilha de PF
+
+DG1 Cronograma
+
+DT3 Relatório de Homologação
+
+[Não] Aceita? [Sim]
+
+E4 - Emissão de Ordem de Codificação
+
+P3 - Modelo de Dados Relacional
+
+DA2 E6 - Homologação do Ordem de Desenho do Softw are Codif icação
+
+E5 - Elaboração do Desenho do Softw are
+
+[Não]
+DT3 Relatório de Homologação
+
+Aceito? [Sim]
+
+Artef atos de Desenho
+
+DT9 Casos de Testes
+
+E8 - Testes Estáticos e Funcionais
+
+E7 - Codificação e Testes
+
+DT10 Relatório de Ev idência de Teste
+
+[Não] Aceito? [Sim]
+
+P4 - Código Fonte
+
+DT10 Relatório de Ev idência de Testes
+
+E9 - Testes de Sistemas
+
+[Não]
+DT3 Relatório de Homologação
+
+Aceito? [Sim]
+
+E10 - Encerramento da OC
+
+DA3 Termo Encerramento da OC
+
+[Não] Última OC? [Sim]
+
+E11 - Emissão da Fatura
+
+E13 - Encerramento da Solicitação
+
+E12 - Liberação do Faturamento
+
+Fatura DA3 Termo Encerramento da OC (assinado)
+
+DA4 Termo de Aceite
+
+DA6 Ateste
+
+FIM
+
+34
+
+3. Descrição do Trabalho
+Etapa E1 - Emissão da Solicitação de Módulo de Software Descrição A Prodemge emite a Solicitação de Módulo de Software e a envia junto com os documentos necessários para que seja feita a avaliação pelo fornecedor. A pedido da Contratada, a Prodemge poderá fornecer os diagramas de análise constantes da ERSw em seu formato original: .eap, (ferramenta Enterprise Architect da Sparxs Systems). Responsável Prodemge Artefatos Artefatos gerados: - DA1 - Solicitação de Módulo de Software Artefatos encaminhados: - DT1 - Documento de Visão (caso tenha sido elaborado) - DT2 - Especificação de Requisitos de Software (ERSw) - DT5 - Guia de Usabilidade - DG1 - Cronograma (Preliminar) - DT7 - Documento de Arquitetura de Software (DASw) - DT8 - Plano de Testes - P2 - Protótipo Fornecedor Artefatos gerados: - DA1 - Solicitação de Módulo de Software assinada e com contagem de PF. - DG1 - Cronograma atualizado - DT4 - Planilha de PF Observação
+
+E2 - Avaliação do fornecedor
+
+O fornecedor avalia a demanda, faz a contagem de pontos de função e propõe o cronograma para a codificação baseando-se no cronograma preliminar recebido.
+
+35
+
+Etapa E3 - Homologação da avaliação do fornecedor
+
+Descrição A Prodemge analisa o cronograma e a contagem de Pontos de função enviada pela fábrica externa. Se forem aceitos o cronograma proposto pela fábrica e a estimativa de pontos de função, gera-se Ordem de Codificação (Etapa 7). Caso contrário, o gestor técnico negocia com o fornecedor as divergências encontradas no cronograma ou na contagem de PF para juntos chegarem a um consenso sobre os ajustes necessários. .
+
+Responsável Prodemge
+
+Artefatos Artefatos gerados: - DT3 - Relatório de Homologação
+
+Observação
+
+E4 - Emissão da Ordem de Codificação
+
+A Prodemge emite a Ordem de Codificação autorizando a sua execução. Procede-se assim sucessivamente até que as Ordens de Codificação sejam esgotadas.
+
+Prodemge
+
+Artefatos gerados: - DA2 - Ordem de Codificação - P3 - Modelo de Dados Relacional (compreende diagrama ER, script DDL e mapeamento objeto-relacional de classes e atributos)
+
+A codificação poderá ser realizada por liberações, a critério da Prodemge. Nesse caso, serão geradas várias OC para uma única Solicitação de Módulo de Software.
+
+36
+
+Etapa E5 - Elaboração do Desenho do Software
+
+Descrição O fornecedor gera outros artefatos relativos ao desenho do software e os casos de teste e encaminha-os para a Prodemge. Serão gerados como "Artefatos de Desenho" os seguintes artefatos: - Desenho final das interfaces; - Artefatos de desenho gerados pelo fornecedor. O fornecedor deverá fazer o desenho final das interfaces, seguindo padrões definidos pela Prodemge. Cabe salientar que o protótipo entregue pela Prodemge não contém o desenho final das interfaces. Seu objetivo é validar junto ao cliente os campos, comandos e a navegação entre as telas; não há preocupação com o leiaute. Os casos de testes deverão contemplar todas as regras e requisitos presentes nos artefatos de elaboração enviados. Caso o fornecedor gere em seu processo de codificação, artefatos que complementem o desenho das funcionalidades solicitadas, em adição àqueles produzidos pela Prodemge, esses artefatos devem ser enviados para aprovação. O fornecedor poderá propor melhoramentos aos artefatos de desenho entregues pela Prodemge buscando melhorar a qualidade do produto. As modificações propostas devem ser comunicadas, aprovadas e efetuadas pela Prodemge.
+
+Responsável Fornecedor
+
+Artefatos Artefatos gerados: - Artefatos de Desenho - DT9 - Casos de testes
+
+Observação Os padrões a serem seguidos no desenho das interfaces de usuário podem variar entre módulos de software diferentes.
+
+37
+
+Etapa E6 - Homologação do Desenho do Software
+
+Descrição A Prodemge recebe e analisa os artefatos gerados pelo fornecedor na Etapa 5, emitindo o Relatório de Homologação correspondente. Se houver alguma incorreção ou inconsistência nos artefatos, eles deverão ser devolvidos ao fornecedor através do Relatório de Homologação para ajustes. Caso não haja incorreção, a Prodemge retorna para o fornecedor o relatório homologando o produto e autorizando a sua codificação.
+
+Responsável Prodemge
+
+Artefatos Artefatos gerados: - DT3 - Relatório de Homologação
+
+Observação
+
+38
+
+Etapa E7 - Codificação e testes
+
+Descrição O fornecedor faz a codificação dos casos de uso de acordo com a OC. Os arquivos de código fonte produzidos pelo fornecedor deverão conter, em seu cabeçalho, identificadores dos casos de uso, a fim de garantir a rastreabilidade entre requisitos e sua implementação. O padrão de criação desses identificadores será fornecido pela Prodemge. Além disso, seguindo as boas práticas de programação, deverão ser criados arquivos de configuração isolados das classes Java contendo informações tais como acesso a banco de dados, parâmetros para envios email, parâmetros do broker, nível e utilização de log, entre outros. Além do código fonte, deverão ser enviados também documentos contendo os passos necessários para realização do deploy da aplicação, além do arquivo war. Após codificação, o fornecedor realiza os testes de casos de uso conforme definido no Plano de Testes e nos Casos de Testes, os quais devem ter sido previamente aprovados pela Prodemge, e gera o Relatório de Evidência de Testes. Deverá ser entregue também qualquer script de banco de dados utilizado para gerar massa de dados necessária à execução dos testes. Caso haja correções a serem realizadas, identificadas nas etapas seguintes, elas devem ser efetuadas de forma a sanar as anomalias apontadas. Os testes devem ser refeitos e devem ser retornados os arquivos modificados e o Relatório de Evidência de Testes à Prodemge, sucessivamente, até que sejam corrigidos todos os itens da Ordem de Codificação.
+
+Responsável Fornecedor
+
+Artefatos Artefatos gerados: - P4 - Código fonte - DT10 - Relatório de Evidência de Testes
+
+Observação
+
+39
+
+Etapa E8 - Testes estáticos e funcionais
+
+Descrição A Prodemge realiza os testes estáticos e funcionais conforme especificado no Plano de Testes e nos Casos de Testes. Se os testes estáticos e funcionais apontarem algum problema, solicita ao fornecedor a realização dos acertos. Os testes estáticos incluem a verificação da conformidade dos códigos gerados em relação ao desenho proposto e em relação ao framework adotado. Incluem também a análise do uso de boas práticas reconhecidas pelo mercado, bem como qualquer padrão de codificação estabelecido pela Prodemge durante o projeto.
+
+Responsável Prodemge
+
+Artefatos Artefatos gerados: - DT10 - Relatório de Evidência de Testes
+
+Observação
+
+E9 - Testes de sistema
+
+A Prodemge realiza os testes de sistema e encaminha o Relatório de Homologação para o fornecedor. Se os testes não apontarem nenhum problema, deve ser gerado o Relatório de Homologação e a OC poderá ser encerrada. Caso contrário a Prodemge solicita ao fornecedor a realização dos acertos.
+
+Prodemge
+
+Artefatos gerados: - DT3 - Relatório de Homologação
+
+E10 Encerramento da OC E11 - Emissão de fatura
+
+Após a homologação das entregas previstas em cada OC, a Prodemge emite o Termo de Encerramento da OC. O fornecedor, ao receber o Termo de encerramento da OC, gera a fatura correspondente aos produtos entregues. Envia a fatura e cópia do Termo de encerramento assinado para o Correio Central da Prodemge.
+
+Prodemge
+
+Artefatos gerados: - DA3 - Termo de Encerramento da OC Artefatos gerados: - Fatura Artefatos encaminhados: - DA3 - Termo de Encerramento da OC assinado
+
+Fornecedor
+
+40
+
+Etapa E12 - Liberação do faturamento
+
+Descrição A Prodemge recebe os documentos encaminhados pelo fornecedor, avalia e libera o faturamento para o fornecedor. Após todas as Ordens de Codificação serem homologadas, a Prodemge emite o Termo de Aceite referente ao módulo de software solicitado. Esta etapa corresponde ao encerramento administrativo das entregas previstas do módulo de software.
+
+Responsável Prodemge
+
+Artefatos Artefatos gerados: - DA6 - Ateste (de circulação interna na Prodemge) Artefatos gerados: - DA4 - Termo de Aceite
+
+Observação
+
+E13 Encerramento da Solicitação
+
+Prodemge
+
+41
+
+4. Documentos do Processo 4.1. Solicitação de Módulo de Software
+
+4.2. Ordem de Codificação
+43
+
+44
+
+4.3. Termo de Encerramento da Ordem de Codificação
+
+45
+
+4.4. Termo de Aceite
+
+46
+
+4.5. Cronograma O cronograma deve, preferencialmente, ser feito no Microsoft Project. No entanto, se o fornecedor não tiver condições de utilizar essa ferramenta, o mesmo deve conter, no mínimo, as informações contidas no template abaixo:
+
+47
+
+4.6. Planilha de Contagem de Pontos de Função
+
+48
+
+49
+
+4.7. Especificação de Requisitos de Software
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+4.8. Documento de Arquitetura de Software
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+4.9. Plano de Testes
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+4.10.
+
+Caso de Teste
+
+85
+
+86
+
+87
+
+88
+
+89
+
+4.11.
+
+Relatório de Evidência de Testes
+
+90
+
+91
+
+92
+
+93
+
+4.12.
+
+Relatório de Homologação
+
+94
+
+ANEXO I-C ARQUITETURA DE APLICAÇÕES JAVA As aplicações deverão ser codificadas respeitando uma arquitetura baseada em orientação por objetos e no design pattern MVC. Além do MVC, a arquitetura da aplicação também deve prever a separação lógica entre a camada de negócios e a de acesso aos dados. Para tal fim, a cada módulo de software, a Prodemge irá determinar o framework utilizado em sua codificação, sendo que predominantemente será utilizado o jCompany Developer Suite. Caso seja utilizado outro framework, a Prodemge irá fornecer a sua documentação. A utilização do framework designado é obrigatória. No processo de homologação do produto, sua arquitetura será verificada no que tange aos seguintes requisitos:  A lógica da camada de serviços de negócio deve poder ser alterada sem que sejam necessárias alterações em outras camadas;  Implementações específicas do SGBD utilizado deverão estar encapsuladas e desacopladas (em DAO's) das outras camadas, de modo a permitir tanto a modificação do esquema de tabelas quanto a migração do esquema para outro SGBD sem que sejam necessárias mudanças nas outras camadas. Nota: classes deverão ser usadas para encapsular os registros de dados extraídas das tabelas relacionais. Caso seja necessário, essas classes (equivalentes aos VO's do padrão de projeto Value Object) poderão ser passadas entre as camadas da aplicação, permitindo a separação entre os detalhes da implementação física em banco de dados das camadas de negócio e de interface.  Os serviços da camada de negócios devem poder ser invocados tanto localmente quanto remotamente, permitindo que o servidor de Web e o SGBD possam estar em máquinas distintas.
+
+95
+
+ANEXO I-D
+
+Guia de Contagem APF
+Versão 1
+
+Autores: Vanessa Aparecida de Chagas Mendes Willian R. Araújo
+
+Belo Horizonte
+
+20/03/2009
+
+96
+
+Versões
+Versão <versão> Comentário < comentários da versão > Data Autor
+
+< dd/mm/aaaa > <nome do autor>
+
+97
+
+Sumário
+1 2 Introdução .................................................................................................................. 101 Fundamentos Gerais da APF ....................................................................................... 102
+2.1 2.2
+2.2.1 2.2.2
+
+Objetivos da APF: A que a técnica se propõe.................................................................... 102 A referência para medição: O Usuário e a Visão do Usuário.............................................. 102
+Usuário ................................................................................................................................................102 Visão do Usuário ..................................................................................................................................103
+
+2.3
+2.3.1
+
+Tipos de Requisitos de Software ...................................................................................... 104
+Exemplos de cada tipo de requisito de software ................................................................................104
+
+2.4
+2.4.1 2.4.2 2.4.3
+
+Tipos de Entidades de Dados ........................................................................................... 105
+Dados de Negócio ................................................................................................................................105 Dados de Referência ............................................................................................................................106 Dados de Código ..................................................................................................................................107
+
+2.5
+2.5.1 2.5.2
+
+O que é o 'F' da APF: O que é Função ............................................................................... 108
+Requisitos de Armazenamento Funcional (ALI/AIE) ............................................................................109 Requisitos de Transação (EE/SE/CE) ....................................................................................................111
+
+2.6
+2.6.1 2.6.2 2.6.3 2.6.4 2.6.5 2.6.6 2.6.7 2.6.8
+
+Juntando as pontas: O processo de medição .................................................................... 112
+Propósito da Contagem .......................................................................................................................112 Tipo de Contagem e Escopo da Contagem ..........................................................................................112 Fronteira da Aplicação .........................................................................................................................113 Exemplo 1 ............................................................................................................................................113 Exemplo 2 ............................................................................................................................................114 Diretrizes para Estabelecer a Fronteira da Aplicação ..........................................................................114 Problemas no Estabelecimento Incorreto da Fronteira da Aplicação .................................................115 Exemplo ...............................................................................................................................................115
+
+2.7
+
+Cálculo dos Pontos de Função não Ajustados ................................................................... 117
+
+2.7.1 Contagem das funções tipo dado e das funções tipo transação .........................................................117 2.7.2 Valor do Fator de Ajuste ......................................................................................................................118 2.7.3 ..................................................................................................................................................................118 2.7.4 Cálculo dos Pontos de Função Ajustados ............................................................................................119
+
+2.8
+2.8.1
+
+Melhoria (manutenção) em Software .............................................................................. 119
+Tipos de Manutenção de Software ......................................................................................................119
+
+3
+
+Análise de Cenários (Casos de Contagem) ................................................................... 121
+3.1
+3.1.1 3.1.2 3.1.3 3.1.4
+
+Cenário 1 ­ Comunicação entre sistemas utilizando tecnologias específicas ...................... 121
+Conceito ...............................................................................................................................................121 Abordagem ..........................................................................................................................................121 Exemplo 1 ............................................................................................................................................121 Exemplo 2 ............................................................................................................................................122
+
+3.2
+3.2.1 3.2.2 3.2.3
+
+Cenário 2 ­ Consulta / validação e exibição de dados durante uma transação .................. 124
+Conceito ...............................................................................................................................................124 Abordagem ..........................................................................................................................................124 Exemplo 1 ............................................................................................................................................124
+
+3.3
+3.3.1 3.3.2
+
+Cenário 3 ­ Dados de Código ........................................................................................... 125
+Conceito ...............................................................................................................................................125 Abordagem ..........................................................................................................................................125 98
+
+3.3.3
+
+Exemplo 1 ............................................................................................................................................125
+
+99
+
+Sumário de Figuras
+Figura 1 - Tipos de requisitos conforme norma ISO/IEC 1443 ________________________ 104 Figura 2 - Hierarquia de funções na APF ________________________________________ 108 Figura 3 - Exemplo de contribuição de função na APF ______________________________ 109 Figura 4 - Funções de transações e dados x Fronteira da Aplicação ___________________ 109 Figura 5 - Exemplo de requisitos de armazenamento funcional _______________________ 110 Figura 6 - Processo de medição _______________________________________________ 112 Figura 7 - Exemplo de Fronteira da Aplicação ____________________________________ 115
+
+100
+
+Introdução
+A Análise de Pontos de Função (APF) é uma técnica padronizada pela International Funcion Point Users Group ­ IFPUG (www.ifpug.org) ­ que visa medir o desenvolvimento e manutenção de software em termos significativos para os seus usuários, com base na visão de negócio. O ponto de função é a unidade utilizada para tal fim e busca em um único número ponderar os requisitos funcionais de armazenamento e processamento de uma aplicação ou projeto. As regras, procedimentos e práticas de contagem estão definidos no Counting Practices Manual ­ CPM ­ atualmente em sua versão 4.2.1. Na medida em que a técnica se baseia na visão do usuário e também em aspectos de sua aplicação que demandam uma interpretação das regras e procedimentos, o próprio manual de contagem recomenda que haja um Guia Local de Contagem com as interpretações locais dessas regras gerais. A finalidade deste documento é cumprir esse papel, facilitando o uso da técnica de análise de pontos de função dentro do contexto de desenvolvimento e manutenção de sistemas específicos de uma organização. Portanto, funciona como um complemento ao CPM. O princípio é fornecer uma referência local comum que torne mais prática a aplicação dos conceitos e regras definidos pelo IFPUG com a sua exemplificação em situações peculiares a Prodemge e também oriente quanto à contagem nas situações em que o IFPUG ainda não oferece orientação prática ou objetiva. Este documento está sujeito a novas atualizações sempre que necessário. Qualquer sugestão, questionamento ou esclarecimento sobre o seu conteúdo deve ser enviado para gps@prodemge.com.br.
+
+101
+
+1.
+
+Fundamentos Gerais da APF
+
+Objetivos da APF: A que a técnica se propõe
+A APF propõe-se a: Medir a funcionalidade que o usuário solicita e recebe. Para efeitos da contagem de pontos de função, funcionalidade refere-se à capacidade do software interagir com o usuário e armazenar os seus dados. Existem regras, procedimentos e práticas definidos no CPM visando identificar as funções do software que oferecem essas capacidades e a ponderar numericamente cada uma delas conforme o seu tipo e complexidade. O termo função e funcionalidade podem ser considerados sinônimos nesse contexto. Medir o desenvolvimento e a manutenção de software de forma independente da tecnologia utilizada para sua implementação. As regras, procedimento e práticas definidos no COM, tanto para identificação das funções quanto para a determinação de sua complexidade, têm o princípio comum de utilizar como referência a visão do usuário - a perspectiva do negócio em que o software está inserido.
+
+-
+
+Além destes objetivos, o processo de contagem de pontos de função deve ser: Simples o suficiente para minimizar o trabalho adicional envolvido no processo de medição. As regras e procedimentos de contagem observam esse princípio de simplicidade. O desenvolvimento de software envolve tanta complexidade que aqueles que realizam a contagem e que têm origem técnica acabam tendo mais dificuldade que aqueles que realizam a contagem e vêm de uma área usuária. Uma medida consistente entre vários projetos e organizações. Este objetivo do processo de contagem refere-se tanto à reprodutibilidade de uma medição quanto ao significado associado à medição por diferentes pessoas em diferentes projetos e organizações.
+
+-
+
+A referência para medição: O Usuário e a Visão do Usuário
+A identificação de qualquer tipo de funcionalidade é feita com base na fronteira da aplicação. Essa por sua vez é definida numa perspectiva do usuário e, portanto, é importante que o analista de pontos de função tenha sempre o conceito de usuário em foco ao realizar uma medição.  Usuário
+
+Usuário para APF significa: Qualquer pessoa que especifique requisitos funcionais; ou Qualquer pessoa ou coisa que interaja com o sistema a qualquer momento.
+
+102
+
+Com base nessa definição, é correto dizer que para uma determinada aplicação a ser medida temos como seus usuários, por exemplo: os gestores do negócio que o software atenderá (stakeholders); outras aplicações relacionadas ou componentes de hardware que recebem ou enviam dados para ela; a pessoa física que o usa; seus usuários finais e agentes governamentais (exigências regulatórias do governo normalmente abrangem boa parte dos requisitos de um software). O conceito de ator em um caso de uso é uma boa aproximação do conceito de usuário (que interage com o sistema) para a APF. Um ator não está restrito a ser uma pessoa física interagindo com o sistema, podendo ser outra aplicação ou mesmo algum componente de hardware, desde que também interaja com o sistema. Se a contagem de pontos de função fosse baseada apenas no conceito de usuário como sendo uma pessoa física, não seria possível medir sistemas que não têm interface com o usuário final. No entanto, a técnica pode ser aplicada também nestas situações. Levando-se em consideração essa amplitude do conceito de usuário, durante uma contagem de pontos de função convém buscar no conjunto de usuários possíveis aquele(s) cuja visão melhor representa as funções que a aplicação fornece. Por exemplo, o sistema Detrannet (http://www.detrannet.mg.gov.br/) tem como usuários os proprietários de veículos, proprietários de carteira de habilitação, interessados em ter habilitação, interessados em comprar determinado veículo etc. Basear a contagem dessa aplicação somente na visão dos usuários finais é ter uma visão limitada da aplicação. É fundamental levar em consideração também a visão do usuário que especifica os requisitos e as regras de negócio, neste caso, funcionário do CPD Detran e também a Secretaria da Fazenda, que define as regras de pagamentos referentes a ela.  Visão do Usuário
+
+A visão do usuário é a descrição formal das necessidades de negócio do usuário em sua própria linguagem (de negócio, não de TI). Os desenvolvedores têm o papel de traduzir essa informação em uma linguagem técnica necessária ao provimento de uma solução de tecnologia. Ela é usada para contar pontos de função, desde que seja uma descrição das suas funções de negócio e também seja aprovada pelo usuário. A visão do usuário é representada por diversos artefatos, alguns deles gerados pelo desenvolvedor durante a especificação dos requisitos: documento de visão, especificação de requisitos, casos de uso, modelo de dados (conceitual ou modelo de classes). Em termos mais objetivos, podemos dizer que a visão do usuário contrasta com uma visão técnica. Ao realizar a análise de pontos de função, não se deve assumir que uma tabela em banco de dados ou arquivo no sistema operacional, por exemplo, equivalha necessariamente a um arquivo na perspectiva do usuário. É possível, e até comum, existirem tabelas ou arquivos incluídos na solução tecnológica que não sejam individualmente contados como arquivos quando da análise de pontos de função, onde a visão do usuário é a referência. Analogamente, devem-se observar os diferentes formulários em papel usados pelos usuários em seus processos de negócio. Várias telas podem ser usadas para preencher um único formulário visando uma melhor apresentação, mas na visão do usuário existe apenas uma única transação para o preenchimento do mesmo.
+
+103
+
+Entradas de dados para o sistema em que esses são recebidos por diferentes meios como arquivos de passagem de movimento ou digitação em tela e que independentemente do meio as entradas têm a mesma lógica de processamento, idênticas na visão do usuário, tipicamente correspondem a uma única transação na análise de pontos de função. O oposto também ocorre, um único relatório ou arquivo de movimento gerado pelo sistema pode corresponder a várias transações na visão do usuário. Para facilitar essa distinção entre aquilo que é ou não percebido pela visão do usuário, pela visão dos processos de negócio do usuário, é conveniente classificar os tipos de requisitos dos sistemas e, conseqüentemente, dos projetos que os desenvolvem e os mantêm.
+
+Tipos de Requisitos de Software
+A norma ISO/IEC 1443 distingue três tipos de requisitos do usuário:
+
+Figura 1 - Tipos de requisitos conforme norma ISO/IEC 1443
+
+Apesar de a APF se propor a medir apenas os requisitos funcionais, os outros tipos de requisitos também são importantes e devem sempre ser considerados numa estimativa de esforço ou custo. Assim, num contrato de desenvolvimento e manutenção de software por PF, o preço (R$/PF) deve contemplar todo o cenário de requisitos não funcionais que deverão ser atendidos. A visão do usuário não é estática e na medida em que o ciclo de vida de uma aplicação passa pelos seus diversos estágios, a sua medição é alterada. Contagens anteriores à especificação completa de requisitos funcionais são estimativas do tamanho medido nessa ocasião.  Exemplos de cada tipo de requisito de software
+
+A seguir alguns exemplos de requisitos de software: Requisito Funcional: Caso de uso Gerir funcionário, Caso de uso Apurar freqüência, Caso de uso Apurar resultado do concurso Requisito de Qualidade: o Usabilidade: paginação, ordenação, calendário pop-up. o Desempenho: tempo de resposta para uma funcionalidade.
+104
+
+o Confiabilidade: Segurança acesso, segurança dos dados. Requisito Técnico: versão do navegador em que o sistema irá executar.
+
+Tipos de Entidades de Dados
+A Análise de Pontos de Função trabalha com três tipos de dados: Dados do Negócio Dados de Referência Dados de Código
+
+As primeiras duas categorias de entidades são normalmente identificadas para satisfazer os Requisitos Funcionais do Usuário, e como tais, estas entidades serão analisadas para contagem como arquivos lógicos (veja Parte 2, Capítulo 2). A terceira categoria de dados, apresentada neste capítulo como "Dados de Código", existe normalmente para satisfazer requisitos técnicos mais propriamente do que requisitos funcionais. As diferentes categorias de dados estão descritas a seguir para auxiliar na identificação.  Dados de Negócio
+
+Dados de Negócio podem também ser referenciados como Dados Centrais do Usuário ("Core User Data") ou Objetos de Negócio. Estes tipos de dados refletem a informação necessária para ser guardada e recuperada pela área funcional tratada pela aplicação. Dados de Negócio normalmente representam um percentual significativo das entidades identificadas. A maior parte tem as seguintes características: Lógicas o Obrigatório para a operação da área funcional do usuário; o Identificável pelo usuário (normalmente por um usuário do negócio); o Mantido pelo usuário (normalmente por um usuário do negócio); o Armazenam Dados Centrais do Usuário para auxiliar as transações do negócio o Muito dinâmico ­ operações normais do negócio fazem com que eles sejam regularmente referenciados, incluídos, alterados e excluídos rotineiramente. o Reportável. Físicas o Têm campos chave e normalmente muitos atributos (Janeiro de 2005 Manual de Práticas de Contagem de Pontos de Função 1-7. Parte 2 ­ Práticas de Contagem Dados de Código) o Podem ter de zero a infinitos registros Exemplos:
+105
+
+o Arquivo de Cliente, Arquivo de Nota Fiscal, Arquivo de Funcionário, Arquivo de Função o Arquivo de Função, dentro do Sistema de Gerenciamento, deveriam incluir itens como:      Número da Função Nome da Função Nome da Divisão Data de Início na Função, etc.
+
+Dados de Referência
+
+Dados deste tipo são armazenados para auxiliar as regras de negócio para a manutenção dos Dados de Negócio. Ex.: em uma aplicação de Folha de Pagamento eles devem ser os dados armazenados de Taxas de Impostos Governamentais para cada faixa salarial e a data em que a taxa do imposto se tornou efetiva. Normalmente os Dados de Referência representam um pequeno percentual das entidades identificadas. A maior parte tem as seguintes características: Lógicas o Obrigatório para a operação da área funcional do usuário o Identificável pelo usuário (normalmente por um usuário do negócio) o Normalmente mantido pelo usuário (normalmente por um usuário administrativo) o Normalmente criado quando a aplicação é instalada pela primeira vez e mantido intermitentemente o Armazena os dados para auxiliar nas atividades centrais do usuário o Pouco dinâmico ­ ocasionalmente altera em resposta a mudanças no ambiente das áreas funcionais, processos funcionais externos e/ou regras de negócio. o Transações processando Dados de Negócio freqüentemente necessitam acessar os Dados de Referência Físicas o Têm campos chave e muitos atributos (Manual de Práticas de Contagem de Pontos de Função 1-8. Parte 2 ­ Práticas de Contagem Dados de Código Janeiro de 2005). o Normalmente pelo menos um registro ou um número limitado de registros (Manual de Práticas de Contagem de Pontos de Função 1-9. Parte 2 ­ Práticas de Contagem Dados de Código - Janeiro de 2005). Exemplos o Tarifas da Função, Tarifas Abatidas, Tarifas dos Impostos, Dissídio o Arquivo de Tarifas da Função ­ armazena informações sobre as tarifas a serem pagas para cada tipo de função e a habilidade exigida para aquele tipo de função  Tipo da Função  Situação, Tarifa do Cargo, Data Efetiva (1:n)  Descrição da habilidade da Função (1:n)
+
+-
+
+-
+
+106
+
+
+
+Dados de Código
+
+O usuário nem sempre especifica diretamente os Dados de Códigos, às vezes chamados de Lista de Códigos ou Dados de Tradução. Em outros casos ele é identificado pelo desenvolvedor em resposta a um ou mais requisitos técnicos do usuário. Dados de Código fornece uma lista de valores válidos que um atributo descritivo pode ter. Tipicamente os atributos dos Dados de Códigos são Códigos, Descrição e/ou outros atributos padrão descrevendo o código. Ex.: abreviação comum, data inicial, data final, dados de trilha de auditoria etc. Quando os códigos são usados em Dados do Negócio, é necessário ter um meio de tradução para converter o código em alguma coisa mais familiar ao usuário. A fim de satisfazer requisitos técnicos, os desenvolvedores muitas vezes criam uma ou mais tabelas contendo os Dados de Códigos. Logicamente, o código e sua referida descrição têm o mesmo significado. Sem uma descrição, o código nem sempre pode ser entendido claramente. A diferença chave entre Dados de Códigos e Dados de Referência é: · Com Dados de Código, você pode substituir um pelo outro sem alteração do significado dos Dados do Negócio. Ex.: Código do Aeroporto X Nome do Aeroporto, Código da Cor X Descrição da Cor. · Com Dados de Referência você não pode substituir (Ex.: Código do Imposto com a Alíquota do Imposto) As transações que existem exclusivamente para a manutenção de dados de código não devem ser consideradas processos elementares, assim como os dados de código não devem ser contados como arquivos referenciados nos processos elementares que os leiam e/ou atualizem. A maior parte dos Dados de Código tem as seguintes características: - Lógicas o Dados são obrigatórios para a área funcional, mas armazenado opcionalmente como um arquivo de dados o Geralmente não identificado como parte dos requisitos funcionais; ele é normalmente identificado como parte do projeto para satisfazer requisitos técnicos; o Às vezes mantidos pelo usuário (normalmente por um usuário do suporte); o Armazenam dados para padronizar e facilitar atividades do negócio e transações do negócio; o Essencialmente estático ­ apenas alterado em resposta a mudanças na maneira que se opera o negócio; o Transações do negócio acessam Dados de Código para melhorar casos de entradas de dados, melhorar a consistência de dados, garantir integridade de dados, etc.; o Se reconhecido pelo usuário:  Às vezes é considerado como um grupo do mesmo conjunto de dados;  Pode ser mantido utilizando a mesma lógica de processamento - Físicas o Constitui-se de campos chave e normalmente um ou dois atributos apenas (código e descrição). o Tipicamente tem um número estável de registros. o Às vezes desnormalizado e armazenado em uma tabela física com outros Dados de Código. o Pode ser implementado de diferentes formas (ex.: em uma aplicação
+107
+
+separada, dicionário de dados ou hard-coded dentro de um software). - Exemplos o Estado:  Código do Estado  Descrição do Estado o Tipo de Pagamento:  Código do Tipo de Pagamento  Descrição do Tipo de Pagamento
+
+O que é o 'F' da APF: O que é Função
+A análise de pontos de função "quebra" o sistema em partes (denominadas funções ou funcionalidades) que permitem ao usuário - ou em outras palavras - que fornecem uma função ao usuário de: Interação com o sistema (Requisitos de Transação); Armazenamento dos seus dados (Requisitos de Armazenamento).
+
+As funcionalidades do sistema são, portanto, classificadas em: funções tipo dados e tipo transação. Cada um desses tipos é adicionalmente detalhado em tipos mais específicos. O diagrama abaixo ilustra essa hierarquia de classificação de funções:
+
+Figura 2 - Hierarquia de funções na APF
+
+Depois de identificada, cada função deve ser enquadrada como um dos tipos de função apresentados acima e ter a sua complexidade funcional avaliada como baixa, média ou alta. Conforme seu tipo de função e a sua complexidade funcional, a funcionalidade recebe a sua contribuição à contagem de pontos de função não ajustados do projeto ou aplicação. O diagrama abaixo ilustra, por exemplo, a contribuição das funções classificadas como entradas externas.
+
+108
+
+Figura 3 - Exemplo de contribuição de função na APF
+
+A forma como o usuário entende o software, como ele enxerga o software como uma unidade, é fundamental nesse processo. É a referência para a identificação de todos os tipos de função. No contexto das regras de contagem, essa referência é materializada na forma da fronteira da aplicação (.
+
+Figura 4 - Funções de transações e dados x Fronteira da Aplicação
+
+
+
+Requisitos de Armazenamento Funcional (ALI/AIE)
+
+Um determinado requisito de armazenamento de dados será classificado como arquivo lógico interno (ALI) quando existir algum processo compreendido por essa fronteira da aplicação que os mantenham e como arquivo de interface externa (AIE) quando for também um arquivo lógico interno em outra aplicação, mas seja apenas lido por processos compreendidos pela fronteira da aplicação em análise.
+
+109
+
+As funções tipo dado são identificadas usando como critério a forma como o usuário agrupa os dados que o sistema armazena para ele. Fazer uma analogia com o conceito de documento ou formulário é uma boa forma de entender a lógica desse agrupamento na análise de pontos de função. Por exemplo, um documento como o pedido de compra possui uma série de dados relacionados entre si. Mesmo que esses dados sejam armazenados em três tabelas em um banco de dados relacional, ainda assim para a análise de pontos de função o seu conjunto como um todo é considerado um grupo logicamente relacionado de dados. As seguintes perguntas dão apoio na avaliação se um grupo de entidades deve ser contado como um único arquivo lógico: Do ponto de vista do negócio, apenas um documento ou formulário corresponde aos dados mantidos nas diferentes entidades em análise? Existe uma relação de dependência entre essas diferentes entidades? Se os dados de uma entidade forem retirados do sistema, os dados da outra ainda assim tem significado para o negócio? Usando a metáfora do arquivo como um móvel que guarda documentos, os dados dessas entidades seriam guardadas no mesmo armário ou em armários distintos? Imagine como é (ou seria) o procedimento manual.
+
+-
+
+Observe que muitas vezes dois documentos de negócio independentes ­ ainda que interrelacionados entre si ­ têm uma dependência introduzida pela modelagem dos dados. Por exemplo, a relação entre "serviços contratados" e "serviços":
+
+Figura 5 - Exemplo de requisitos de armazenamento funcional
+
+No negócio em questão existe o contrato (dado de negócio) e a tabela de serviços (dado de referência). Como resultado da modelagem de sistemas, será definido a entidade "serviços contratados" dependente de contrato e de serviços. Na análise de pontos de função, dois arquivos lógicos são identificados, porém os dados de "serviços contratados" são contabilizados apenas junto aos dados de "contrato". Outra diretriz geral para identificação dos arquivos lógicos é sempre pensar no modelo conceitual dos dados. Se este for um artefato disponível pelo processo de desenvolvimento, a contagem de ALI e AIE fica facilitada. Cada entidade no modelo conceitual corresponderá a um ALI ou AIE. Por fim, em um diagrama de fluxo de dados, os arquivos lógicos corresponderiam aos depósitos de dados e as transações (vide próxima seção) corresponderiam aos fluxos de dados. As definições para o Arquivo Lógico Interno e o Arquivo de Interface Externa são: Arquivo Lógico Interno (ALI): um grupo logicamente relacionado de
+110
+
+dados ou informações de controle, identificável pelo usuário, mantido dentro da fronteira da aplicação sendo contada. Sua principal intenção é armazenar dados mantidos através de uma ou mais transações da aplicação sendo contada. Exemplo: tabelas de banco de dados atualizadas pela aplicação. Arquivo de Interface Externa (AIE): um grupo logicamente relacionado de dados ou informações de controle, identificável pelo usuário, mantidos fora da fronteira da aplicação sendo contada. Sua principal intenção é armazenar dados referenciados através de uma ou mais transações da aplicação sendo contada. Exemplo: tabelas de banco de dados lidas pela aplicação, mas atualizadas por outra aplicação.  Requisitos de Transação (EE/SE/CE)
+
+Os requisitos de transação do sistema para serem mapeados para uma função tipo transação devem obrigatoriamente receber e/ou enviar dados ou informação de controle pela fronteira da aplicação. Para esse fim podemos entender a fronteira da aplicação como uma tela ou um relatório por exemplo. As transações representam os requisitos de processamento do usuário. São classificadas em entradas externas (EE), consultas externas (CE) e saídas externas (SE). O critério fundamental para a sua identificação é atender ao conceito de processo elementar: menor unidade de atividade significativa para o usuário, que seja completa em si mesma e deixe a aplicação em um estado consistente. Considerando essas explicações seguem as definições de Entrada Externa, Saída Externa e Consulta Externa: Entrada Externa (EE): é um processo elementar que processa dado ou informações de controle originadas de fora da fronteira da aplicação. Sua principal intenção é manter um ou mais arquivos lógicos internos e/ou alterar o comportamento do sistema. Exemplo: incluir cliente, alterar cliente, excluir cliente. Saída Externa (SE): é um processo elementar que envia dado ou informações de controle para fora da fronteira da aplicação. Sua principal intenção é apresentar informação ao usuário através de lógica de processamento que não seja apenas uma simples recuperação de dados ou informações de controle. Seu processamento deve, obrigatoriamente, conter algum cálculo ou fórmula matemática, ou criar dados derivados, ou manter um arquivo lógico interno, ou alterar o comportamento do sistema. Exemplo: relatório de totais de faturamento por cliente. Consulta Externa: é um processo elementar cuja principal intenção é apresentar informação ao usuário pela simples recuperação de dados ou informações de controle de arquivos lógicos internos (ALI) ou arquivos de interface externa (AIE). Sua lógica de processamento não contém fórmula matemática ou cálculos, não cria dado derivado,
+111
+
+não mantém arquivo lógico interno (ALI) durante o processamento nem modifica o comportamento do sistema.
+
+Juntando as pontas: O processo de medição
+ Propósito da Contagem
+
+Ao realizar uma medição de pontos de função, a primeira providência a se tomar é descobrir o propósito daquele trabalho. É descobrir qual a pergunta de um problema de negócio se quer responder com aquela contagem. Esse propósito é o que definirá qual o tipo e o escopo da contagem, assim como influenciará no posicionamento da fronteira da aplicação.
+
+Figura 6 - Processo de medição
+
+
+
+Tipo de Contagem e Escopo da Contagem
+
+O passo seguinte é determinar o tipo daquela contagem. São três os tipos de contagem: Projeto de Desenvolvimento, Projeto de Melhoria e Aplicação (contagem da base instalada, ou baseline são sinônimos). A determinação do tipo de contagem basicamente tem impacto em quais funcionalidades da aplicação (ou de conversão de dados) serão incluídas em determinada contagem - o escopo da contagem. Por exemplo, na contagem de um projeto de desenvolvimento, todas as funcionalidades construídas ou customizadas serão incluídas no escopo junto com toda funcionalidade de conversão de dados necessária à implantação do sistema. Já na contagem de um projeto de melhoria, além dessas funcionalidades de conversão de dados, as funcionalidades incluídas, alteradas ou excluídas pelo projeto também estão no escopo da contagem. O projeto de melhoria visa medir aquelas manutenções classificadas como manutenção adaptativa. A contagem da aplicação não inclui em seu escopo as funções de conversão de dados, mas dependendo do propósito pode incluir todas as funcionalidades da aplicação ou apenas aquelas em uso quando da contagem.
+
+112
+
+
+
+Fronteira da Aplicação
+
+É uma premissa fundamental para a contagem de pontos de função que estabelece o limite entre a aplicação e o que é externo a ela. Um erro no estabelecimento da fronteira leva todo o trabalho posterior da contagem a ser inutilizado. Ela é definida com base no ponto de vista de negócio, não em considerações técnicas (por exemplo, arquitetura do sistema). Geralmente a fronteira da aplicação costuma estar bem explícita, não havendo dificuldade para sua definição. Um artefato que representa o conceito da fronteira da aplicação é o diagrama de contexto (diagrama de caso de uso, DFD nível zero, DFD de nível mais alto). Ele representa todo o sistema como um único processo e é composto por fluxos de dados (no DFD) ou relacionamentos entre atores e casos de uso (Diagrama de caso de uso) que mostram as interfaces entre o sistema e as entidades externas. O diagrama é uma forma de representar o objeto do estudo, o projeto, e sua relação com o ambiente. Um diagrama de contexto permite identificar os limites dos processos, as áreas envolvidas com o processo e os relacionamentos com outros processos e elementos externos à empresa (ex.: clientes, fornecedores).  Exemplo 1
+
+Diagrama de Contexto - Análise essencial
+
+113
+
+
+
+Exemplo 2
+
+Diagrama de Contexto - UML
+
+Um erro muito comum é pensar na fronteira com base na implementação física do sistema, como por exemplo, separar as fronteiras pelo número de camadas do sistema, ou pela quantidade de programas executáveis. Esta não deve ser a diretriz.  Diretrizes para Estabelecer a Fronteira da Aplicação
+
+Há algumas dicas que podem ajudar na identificação da fronteira: Obter uma documentação do fluxo de dados no sistema e traçar uma linha em volta para destacar quais partes são internas e externas à aplicação; Verificar como os grupos de dados são mantidos; Identificar áreas funcionais pela atribuição de propriedade de certos objetos de análise, como entidades e processos; Comparar os critérios utilizados em outras métricas como esforço, custo, duração, defeitos. As fronteiras para a APF e as outras métricas deveriam ser as mesmas; Verificar como a aplicação é gerenciada; se é desenvolvida ou mantida na sua totalidade por uma equipe única ou equipes distintas;
+114
+
+-
+
+Verificar se o software possui ordens de serviços específicas e independentes; Se há usuários distintos especificando requisitos para cada parte do software.
+
+O conceito de fronteira é tão importante que o ideal é que se estabeleça de antemão um inventário das aplicações da organização. A idéia é apenas identificar e listar todas elas (o inventário das funções de cada aplicação também é interessante). Todas as contagens de pontos de função realizadas devem usar como base as fronteiras estabelecidas previamente. A fronteira é um conceito que dificilmente muda entre as contagens de pontos de função. Ou seja, as diversas medições dos projetos de melhoria na aplicação, terão como base a mesma fronteira.  Problemas no Estabelecimento Incorreto da Fronteira da Aplicação
+
+No caso de uma fronteira posicionada de maneira incorreta, por exemplo, um sistema com dois componentes, mas cada um deles sendo tratado como uma aplicação na APF, o somatório dos PFs de cada componente será bem superior ao total de PFs que haveria se houvesse uma única fronteira para os dois componentes.  Exemplo
+
+Se considerarmos o sistema de auto-atendimento (Figura 7) e o sistema de conta corrente como sistemas diferentes (duas fronteiras de aplicação), uma operação de saque contaria como duas entradas: a 1ª no Auto-atendimento que referencia 1 AIE e a outra no Contacorrente. Se for somente uma aplicação tem-se um único processo elementar que acessa 1 ALI.
+
+Auto-atendimento (A)
+
+Se há uma única fronteira, há somente a EE do saque
+
+Conta-corrente (B)
+
+EE - Saque
+
+Fronteira menor
+
+Fronteira menor
+
+EE - Autorização de saque
+
+Saldo conta Saldo caixa Figura 7 - Exemplo de Fronteira da Aplicação
+
+Pistas de posicionamento incorreto da fronteira: Aplicação com número excessivo de AIEs de outro sistema. Isto indica alto grau de acoplamento com o outro sistema, indicando que provavelmente a "aplicação" é apenas um módulo do outro sistema.
+115
+
+-
+
+Manutenções conjuntas: quando um sistema sempre sofre manutenção junto com outro, é também uma indicação de que ele não tem "força" para ser uma aplicação independente.
+
+116
+
+Cálculo dos Pontos de Função não Ajustados
+Uma vez definidas essas premissas, o analista de pontos de função pode realizar em qualquer ordem uma das três atividades: Medir as funções tipo dados; Medir as funções tipo transação; e/ou Determinar o valor do fator de ajuste.
+
+As duas primeiras consistem na identificação, na determinação da complexidade funcional e no cálculo da contribuição de cada função no escopo da contagem aos pontos de função não ajustados (UFPC). Pontos de função não ajustados, porque nessa ponderação não entra qualquer requisito técnico ou de qualidade ajustando o resultado da ponderação dos requisitos funcionais.  Contagem das funções tipo dado e das funções tipo transação
+
+Nesse passo são identificadas todas as funções tipo dado (ALI/AIE) e funções tipo transação (EE/SE/CE) do sistema. As complexidades são determinadas e associadas. A cada complexidade existe uma quantidade de pontos de função correspondente (contribuição aos pontos de função não ajustados). Vide tabela abaixo:
+Complexidade Funcional
+TR TD
+
+Contribuição
+Tipo de Função Arquivo Lógico Interno Arq. de Interf. Externa Entrada Externa Saída Externa Consulta Externa Baixa 7 PF 5 PF 3 PF 4 PF 3 PF Média 10 PF 7 PF 4 PF 5 PF 4 PF Alta 15 PF 10 PF 6 PF 7 PF 6 PF
+
+<20 Baixa Baixa Média <5 Baixa Baixa Média <6 Baixa Baixa Média
+
+20-50 Baixa Média Alta 5-15 Baixa Média Alta 6 -19 Baixa Média Alta
+
+>50 Média Alta Alta >15 Média Alta Alta >19 Média Alta Alta
+
+1 2-5 >5
+AR TD
+
+EE SE e CE*
+
+<2 2 >2
+AR TD
+*
+
+<2 >3
+
+2-3
+
+117
+
+
+
+Valor do Fator de Ajuste
+
+Esse ajuste, agora opcional, é feito pela ponderação de 14 características gerais de sistema (GSC) quanto ao seu nível de influência (DI) no projeto/aplicação: de nenhuma influência (0) até uma grande influência (5). O manual de práticas de contagem oferece uma série de orientações específicas para cada característica geral de sistema visando uma maior uniformidade na determinação do respectivo nível de influência. A soma desses níveis de influência (TDI) pode, portanto, variar entre 0 e 70. A técnica define que esse ajuste aos pontos de função não ajustados deve ser numa faixa de 35%. Daí a fórmula para o cálculo do valor do fator de ajuste:
+
+
+
+118
+
+
+
+Cálculo dos Pontos de Função Ajustados
+
+De posse desses insumos, dependendo do tipo de contagem uma fórmula específica será usada para calcular a contagem dos pontos de função. O cálculo final dos pontos de função ajustados consiste basicamente em multiplicar o fator de ajuste pelos pontos de função não ajustados. Porém existem fórmulas específicas para cada tipo de contagem:
+
+Melhoria (manutenção) em Software
+ Tipos de Manutenção de Software
+
+Adaptativa (evolutiva): Inclui modificações para atender novos requisitos de negócio, requisitos de negócio em processo de mudança, ou para adicionar funcionalidade não presente em uma versão anterior. Pode também incluir modificações necessárias ao atendimento de requisitos técnicos. É iniciada por solicitações de negócio para adicionar, modificar e/ou excluir funcionalidades de negócio. É sinônimo do conceito de uma "melhoria" como definido pelo IFPUG. Corretiva: Inclui as modificações referentes ao reparo de defeitos. Não envolve mudanças às funcionalidades do negócio, mas garante que a funcionalidade previamente entregue execute como solicitado. O esforço associado com esta atividade deveria ser atribuído ao projeto de desenvolvimento ou de melhoria original que foi responsável pela introdução do defeito.
+119
+
+Perfectiva (preventiva): Mudanças no hardware ou software executadas para prevenir defeitos futuros ou falhas. Por exemplo, reestruturar programas ou dados para aumentar a facilidade de manutenção e para prevenir defeitos. Podem incluir modificações para atualização de plataforma de suporte ou software de sistema, otimização de performance e outras atividades afins à manutenção de acordos de nível de serviço. Não existem modificações na funcionalidade de negócio associada com este trabalho. Apesar da análise de pontos de função não ser útil para estimar estas atividades, as características gerais de sistema podem ser afetadas e deveriam ser revisadas quanto a mudanças. Em casos de modularização, como lidar com os ALIs e AIEs? Existem muitos sistemas que são especificados, aprovados e negociados por módulos. Nesse caso, como lidar com ALIs e AIEs? Uma das bases principais da Análise de Pontos de Função é a fronteira da aplicação. O fato de estar sendo especificado por módulos não muda a fronteira da aplicação. Estamos dentro da mesma aplicação. Assim, um ALI ou AIE que foi identificado e contado em um determinado módulo, não será contado novamente no módulo seguinte, onde apareceu pela segunda vez. Da mesma forma, um ALI que foi contado em um determinado módulo não será considerado um AIE no módulo seguinte, "porque está fora da fronteira da aplicação" (nesse caso, o módulo que está sendo contado). Eles podem (e devem) ser colocados nas funções de dados da contagem, mas como documentação da contagem das funções de transação, com valor 0 (zero).
+
+120
+
+2.
+
+Análise de Cenários (Casos de Contagem)
+
+Cenário 1 ­ Comunicação entre sistemas utilizando tecnologias específicas
+ Conceito
+
+Uma aplicação precisa usar dados mantidos por outra  Abordagem
+
+Se um sistema (A) tem como requisito acessar dados mantidos em outro sistema (B) há um AIE presente na contagem dos PFs de A independente da forma como o acesso é feito (seja via tabela do banco de dados, seja via web-service, seja via broker ou qualquer outro middleware)  Exemplo
+
+Situação Quando há envio ou recebimento de dados de/para outro sistema. Ambos estão na mesma rede e em plataformas diferentes.
+
+121
+
+Água e energia EE - Incluir responsável
+
+Consulta - nome responsável
+
+SIAD
+
+Responsável fatura
+(from Usuários)
+
+Oracle ­ Faturas Precisa-se saber quem é o responsável
+
+Broker
+
+Adabas ­ Unidade Administrativa do Estado
+
+Tela de Cadastro de Responsável Fatura: Cod ­ unidade: Nome unidade: Mês/ano: Água e energia: Java / Web / Linux SIAD: Natural / Adabas
+
+Análise Água e Energia tem o requisito de acessar dados de Unidade Administrativa mantida pelo SIAD; Unidade Administrativa é uma AIE para Água e Energia; O Broker é apenas tecnologia para acessar os dados do SIAD, não afeta a contagem; Todas as transações de Água e Energia que precisam de dados de Unidade Administrativa vão considerar este AIE como um AR.
+
+
+
+Exemplo
+
+Situação Quando há envio ou recebimento de dados de/para outro sistema. Os sistemas não estão na mesma rede e na mesma plataforma.
+
+122
+
+Get/Post INFOSCIP EE - Cadastrar Engenheiro Nº CREA CREA
+
+Ator Arquivo XML com dados do engenheiro
+
+AL I
+
+AL I
+
+AL I
+
+Projeto Segurança
+
+Usuário
+
+Engenheiros
+
+Tela de Cadastro de Engenheiro Nº CREA: CPF: Botão validar Engº CREA
+
+Dados Engenheiro
+
+Análise Para o INFOSCIP: Entrada Externa - Cadastrar Engenheiro O Cadastro do Engenheiro do CREA é um AIE Somente são contados como TD do AIE os campos utilizados (só para reforçar) Consultar dados do Engenheiro do CREA não é um processo elementar. Isso faz parte do processo de entrada (válido também para o exemplo 1). O cadastro de Engenheiros é um AR na transação de Cadastrar Engenheiro. Se na hora em que os dados forem apresentados o engenheiro desistir de se cadastrar, ainda assim não é um processo elementar. Se isso tiver sentido por si só então o sistema terá essa consulta separadamente.
+
+Mesmo que houvesse essa consulta independente, a transação de cadastro de engenheiro continuaria sendo contada do mesmo jeito, com os mesmos TDs e ARs.
+
+123
+
+Cenário 2 ­ Consulta / validação e exibição de dados durante uma transação
+ Conceito
+
+Um processo elementar é composto de vários passos (ou regras de negócio) e que cada uma delas isoladamente não pode ser contada como uma transação.  Abordagem
+
+Se durante o processamento de uma transação dados são recuperados de algum arquivo lógico (por exemplo, consultados no banco de dados) e apresentados ao usuário não implica que este passo sozinho seja um processo elementar.  Exemplo
+
+Situação Durante uma inclusão de dados, há uma consulta para complementar os dados da inclusão ou dar clareza ao processo. Exemplo
+
+SIAME EE ­ Incluir processo jurídico
+
+Tela de Inclusão de Processo Jurídico Nº Processo: Comarca:
+
+Ator Código
+
+Adolescente Nome Adolescente Nome Mãe do Adolescente
+
+AL I
+
+AL I
+
+Buscar adolescente Processo Jurídico Adolescente
+
+Análise (Abordagem) Consultar e exibir o nome do adolescente e da mãe do adolescente não é um processo elementar. Faz parte do processo Incluir Processo Jurídico
+
+124
+
+Cenário 3 ­ Dados de Código
+ Conceito
+
+São uma implementação de requisitos técnicos e não devem influenciar o tamanho funcional da aplicação, apesar de poderem representar até metade do modelo de dados em terceira forma normal. Dados de Código fornecem uma lista de valores válidos que um atributo descritivo pode ter. Tipicamente os atributos dos Dados de Códigos são Códigos, Descrição e/ou outros atributos padrão descrevendo o código. Ex.: abreviação comum, data inicial, data final, dados de trilha de auditoria etc.  Abordagem
+
+Não se contam as tabelas que são dados de código como ALIs ou AIEs e nem as transações que operam exclusivamente sobre estes dados (exemplo: CRUD).  Exemplo
+
+Situação Se uma tabela é somente código e descrição e é usada para substituição, mas é determinante na definição de uma regra de negócio, aí ela é dado de referência. Exemplo: Tela de cadastro da ocupação/uso. (definida no módulo 1)
+
+125
+
+Regra de negócio definida no módulo 2 que referencia dados de ocupação.
+Caso (s) de uso a que se aplica Descrição 1. Pré-cadastrar projeto de segurança O tipo do projeto será definido de acordo com suas condições específicas de cada projeto: Cálculo da área total: 1. Se a edificação ou área de risco for de ocupação: C (independente da divisão) ou G (independente da divisão) ou M (apenas divisão 002), então: 1.1 Área total = Área a construir + Área construída + Área utilizável Senão 1.2 Área total = Área a construir + Área construída Identificação da edificação 1. O projeto será do tipo "Projeto Técnico" se: 1.1 Possuir uma área total maior que 750 m2 (ou) 1.2 Necessite dos sistemas de proteção "Sistema de proteção por extintores e hidrantes" ou "Sistema de proteção por extintores, hidrantes e instalações especiais" (ou) 1.3 Necessite das medidas de segurança "Proteção de estruturas contra o calor" ou "Comprovação da situação de separação entre edificações e área de risco" (ou) 1.4 Pertencer a ocupação "F" com público acima de 100 pessoas. 2. O projeto será do tipo "Projeto Técnico Simplificado" se: 2.1 Possuir área total acima de 200 m2 e inferior ou igual a 750 m2 (e) 2.2 Não necessite dos sistemas de proteção "Sistema de proteção por extintores e hidrantes" ou "Sistema de proteção por extintores, hidrantes e instalações especiais" (e) 2.3 Não necessite das medidas de segurança "Proteção de estruturas contra o calor" ou "Comprovação da situação de separação entre edificações e área de risco" (e) 2.4 Pertencer a ocupação "F" com público menor ou igual a 100 pessoas. O projeto será do tipo "Projeto Técnico para eventos temporários" se: 3.1 O tipo edificação do projeto é "Evento temporário". O projeto será do tipo "Procedimento simplificado" se: 4.1 Possuir área total menor que ou igual a 200 m2 (e) 4.2 Pertencer as ocupações "A", "B", "C", "D" ou a divisão "F-8" com público abaixo de 100 pessoas (e) 4.3 Não necessite dos sistemas de proteção "Sistema de proteção por extintores e hidrantes" ou "Sistema de proteção por extintores, hidrantes e instalações especiais" (e) 4.4 Não necessite das medidas de segurança "Proteção de estruturas contra o calor" ou "Comprovação da situação de separação entre edificações e área de risco"
+
+3.
+
+4.
+
+Análise Do jeito que está continua sendo dados de código, pois estas regras de negócio estão embutidas no código e não associadas à ocupação. Para deixar de ser dados de código a Ocupação deveria armazenar, além do código e descrição, atributos que dizem respeito às regras de negócio, que estão no código.
+126
+
+ANEXO II MINUTA DE CONTRATO CONTRATO DE PRESTAÇÃO DE SERVIÇOS N.º PS-XXX/09 ENTRE A COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO DO ESTADO DE MINAS GERAIS ­ PRODEMGE E EMPRESA ISOLADA OU CONSÓRCIO. Pelo presente instrumento particular que, entre si fazem, de um lado, a Companhia de Tecnologia da Informação do Estado de Minas Gerais ­ PRODEMGE, com sede na cidade de Belo Horizonte, Estado de Minas Gerais, na Rua da Bahia, n.º 2.277, Bairro Santo Antônio, CNPJ/MF n.º 16.636.540/0001-04 e Inscrição Estadual n.º 062.908.129 00-52, neste ato representada em conformidade com seu Estatuto Social, pela Diretora-Presidente, Sra. Isabel Pereira de Souza, e pelo Diretor de Desenvolvimento de Sistemas, Sr. Sérgio Augusto Gazzola, doravante denominada simplesmente PRODEMGE, e a empresas isolada ou Consórcio XXXXX, conforme registro em anexo, representado pela empresa Líder XXXXX, com sede na cidade de XXXXXX, Estado de XXXXX, na Rua XXX n.º XXX, Bairro XXXXX, CNPJ/MF n.º XXXXX/XXXX-XX, representada pelo Sr. XXXXXXX, doravante denominado simplesmente empresa isolada ou CONSÓRCIO, de acordo com a Ata de Registro de Preços nº XXX/2009, do Processo Licitatório Pregão Eletrônico n.º 008/2009, tudo em conformidade com a Lei Estadual n.º 14.167, de 10/01/2002, da Lei 10.520, de 17/07/2002, Decreto Estadual n.º 44.786 e o de nº 44.787, ambos de 18/04/2008 e subsidiariamente pela Lei Federal n.º 8.666/93 e suas alterações, e demais normas pertinentes, resolvem as partes celebrar o presente Contrato de Prestação de Serviços, doravante denominado "Contrato", que se regerá pela Lei n.º 8.666, de 21/06/93 e posteriores alterações e pela Lei nº 8.078 de 11/09/90, e de acordo com as seguintes cláusulas e condições, abaixo descritas, mutuamente aceitas e reciprocamente outorgadas, por si e sucessores: CLÁUSULA PRIMEIRA ­ DO OBJETO 1.1 - Contratação de módulos de software especificados e analisados pela PRODEMGE, correspondentes a xxxx (xxxxxxxxxxxxxxxx) pontos de função codificados sob a gerência e supervisão da PRODEMGE, utilizando abordagem
+127
+
+orientada a objetos e linguagem Java, conforme especificações constantes nos Anexos do Edital do Processo Licitatório. 1.2 - Integra o presente Contrato, para todos os fins de direito, a proposta comercial da EMPRESA ISOLADA ou CONSÓRCIO, datada de XX/XX/XX.
+
+CLÁUSULA SEGUNDA - DA EXECUÇÃO DOS SERVIÇOS 2.1 ­ As versões do jCompany Developer Suite e do Java a serem utilizadas na codificação serão definidas individualmente para cada módulo de software pela PRODEMGE. 2.2 ­ O servidor de aplicação, o sistema gerenciador de banco de dados e quaisquer outras soluções utilizadas para implantação dos módulos de software serão definidos individualmente pela PRODEMGE para cada módulo de software. 2.3 - A codificação de módulos a serem demandados, deverá ser acordada formalmente entre a PRODEMGE e a EMPRESA ISOLADA ou CONSÓRCIO, no que se refere a quantidade de pontos de função e definição de prazos. 2.4 - A codificação dos módulos de software deverá observar os itens descritos nos Anexos do Edital onde estão indicadas as etapas, os responsáveis, bem como, os documentos e demais artefatos envolvidos. 2.5 ­ Os módulos de software deverão ser construídos respeitando arquitetura baseada em orientação por objetos e no design pattern MVC conforme descrito nos Anexos do Edital. CLÁUSULA TERCEIRA ­ DAS OBRIGAÇÕES DAS PARTES 3.1 - São obrigações da EMPRESA ISOLADA ou CONSÓRCIO: 3.1.1 ­ designar, para cada módulo de software demandado, um responsável técnico pela recepção e avaliação dos artefatos entregues pela PRODEMGE reportando as dúvidas e considerações que deverão ser analisadas em conjunto, de forma a garantir o pleno entendimento dos requisitos a serem atendidos. §1º: O responsável técnico da EMPRESA ISOLADA ou CONSÓRCIO deverá atuar como um mediador entre sua equipe de codificação e a equipe de analistas de requisitos da PRODEMGE, buscando sanar dúvidas de sua equipe. Caso necessário, ele será o responsável por elucidá-las perante à equipe da PRODEMGE. §2º: O profissional citado no item 3.1.1, supra, será também responsável pela entrega do(s) módulo(s) de software(s) codificado(s).
+128
+
+§3º: Um mesmo profissional poderá ser responsável por mais de um módulo de software. 3.1.2 ­ providenciar, em suas instalações e às suas expensas, a infra-estrutura de hardware e software necessária para a codificação dos módulos de software de acordo com as tecnologias especificadas pela PRODEMGE; 3.1.3 - garantir que os módulos de software entregues estejam em condições plenas de operação, em conformidade com todos os requisitos técnicos e o ambiente operacional da PRODEMGE; 3.1.4 ­ garantir, por um prazo de 6 (seis) meses, que todas as manutenções corretivas decorrentes de defeitos identificados nos módulos de software entregues serão executadas nos prazos acordados, sem ônus para a PRODEMGE, independentemente da vigência contratual. Parágrafo único: O prazo supracitado será contado a partir do aceite da PRODEMGE registrado no Termo de Encerramento da Ordem de Codificação descritos nos Anexos do Edital. 3.1.5 - entregar, quando do recebimento do Termo de Encerramento da Ordem de Codificação e no momento da rescisão deste contrato, a documentação e o material em meio físico de propriedade da PRODEMGE ou de terceiros, que foram repassados pela PRODEMGE; 3.1.6 - destruir no final do contrato os produtos e documentos de propriedade da PRODEMGE em meio digital, dentre eles, as especificações do produto, códigosfonte, documentos do negócio do cliente, bibliotecas de classes , componentes e frameworks; 3.1.7 - atender a todas as especificações e requisitos entregues pela PRODEMGE, dentro dos prazos acordados, sujeitando-se às penalidades previstas neste contrato em caso de descumprimento deste item; 3.1.8 ­ gerar as massas de testes necessárias à execução dos testes relativos aos módulos de software codificados; 3.1.9 ­ participar de reuniões com a PRODEMGE para esclarecimentos adicionais acerca do produto a ser codificado ou alterado. Essas reuniões, que também poderão ser solicitadas pela EMPRESA ISOLADA ou CONSÓRCIO, serão agendadas pela PRODEMGE sempre que julgar necessário, sem limite de quantidade, sem freqüência predefinida e, preferencialmente, no ambiente da PRODEMGE; 3.1.10 ­ arcar com todos os custos necessários ao bom andamento dos trabalhos, especialmente de viagem, hospedagem, alimentação e transporte dos seus funcionários, incluindo aqueles decorrentes da participação dos profissionais da EMPRESA ISOLADA ou CONSÓRCIO nas reuniões citadas no item anterior;
+129
+
+3.1.11 - arcar com todas as despesas e remuneração do seu pessoal envolvido na codificação dos módulos de software, cumprindo rigorosamente as exigências da legislação trabalhista, previdenciária, tributária e fiscal, de seguro, higiene e segurança do trabalho, assumindo todas as obrigações e encargos legais inerentes e respondendo integralmente pelo ônus resultante das infrações cometidas; 3.1.12 - manter a qualquer época, inclusive após o término dos trabalhos, completo sigilo sobre dados e informações fornecidas pelo PRODEMGE, não os divulgando, usando ou fornecendo a terceiros, sem a prévia e expressa autorização da PRODEMGE; 3.1.13 ­ aceitar solicitação de alteração em funcionalidades codificadas somente quando aprovadas pelo gestor do contrato da PRODEMGE, arcando com eventuais custos extras pela não observação deste item; 3.1.14 ­ apresentar e alocar a equipe gerencial mínima com composição e perfil estabelecidos na etapa de Habilitação ­ Qualificação Técnica do Pregão; 3.1.15 ­ apresentar relação nominal da equipe técnica de codificação que será alocada para execução dos serviços deste contrato, acompanhada dos respectivos comprovantes de formação e experência profissional, conforme condições exigidas na etapa de Habilitação ­ Qualificação Técnica do Pregão e no Edital; 3.1.16 ­ manter durante a execução do contrato a equipe gerencial mínima apresentada na etapa de Habilitação ­ Qualificação Técnica do Pregão e a equipe técnica de codificação apresentada conforme item 3.1.15. §1º: A inobservância das exigências de apresentação e alocação neste contrato da equipe gerencial mínima será considerada inadimplência contratual, ensejando assim, as penalidades previstas na Cláusula Décima Primeira deste contrato ou cancelamento da Ata de Registro de Preços, conforme o caso. §2º: A substituição de profissionais indicados para a equipe gerencial mínima e para a equipe técnica de codificação, somente será permitida por outros profissionais com as mesmas qualificações exigidas no Edital de Licitação e desde que comprovadas pela PRODEMGE. §3º: É vedada a alocação de estagiários na equipe técnica de codificação mínima. §4º: Com vista à conclusão do objeto CONSÓRCIO em conformidade com as especificações contidas no cronograma acordado entre as parte e a critério da EMPRESA ISOLADA ou CONSÓRCIO, poderão ser agregados à equipe gerencial mínima e à equipe técnica de codificação mínima apresentadas,
+130
+
+outros profissionais com perfil diferente do exigido no Edital de Licitação, incluindo estagiários. 3.1.17 - A EMPRESA ISOLADA ou CONSÓRCIO comprometer-se-á a cumprir os prazos acordados com a PRODEMGE, através de cronogramas e outros documentos integrantes do processo. Estes prazos incluem os relativos a qualquer entrega prevista neste edital, bem como os relativos a correções de defeitos identificados nos módulos de software durante os testes realizados pela PRODEMGE; Parágrafo único: O não cumprimento dos prazos estabelecidos ou acordados acarretará aplicação de multa; 3.1.18 - cumprir os compromissos e obrigações indicados neste contrato, respondendo cada uma das Consorciadas individual e solidariamente por todas as obrigações de ordem fiscal e administrativas até a conclusão e recebimento definitivo do objeto contratual (cláusula somente no caso de CONSÓRCIO). 3.1.19 - garantir que o CONSÓRCIO não terá sua composição ou constituição alterada ou sob qualquer forma modificada sem a prévia anuência da PRODEMGE (cláusula somente no caso de CONSÓRCIO).
+
+3.2 - São obrigações da PRODEMGE: 3.2.1 - designar um gestor do contrato, responsável pela entrega e recepção dos artefatos utilizados e gerados no processo de codificação, bem como ser o contato com A EMPRESA ISOLADA ou CONSÓRCIO em relação a informações e questionamentos de ordem administrativa surgidos durante o processo; 3.2.2 - designar um gestor técnico, responsável pelo contato com A EMPRESA ISOLADA ou CONSÓRCIO em relação a informações e questionamentos de ordem técnica surgidos durante o processo. Esse gestor será o responsável também pelos testes e homologação dos produtos gerados pela EMPRESA ISOLADA ou CONSÓRCIO; 3.2.3 - acompanhar, periodicamente, o cumprimento das entregas dos produtos previstos em contrato, dentro dos padrões de qualidade e produtividade estabelecidos; 3.2.4 - fornecer a EMPRESA ISOLADA ou CONSÓRCIO as informações e documentação necessárias à codificação dos módulos de software; 3.2.5 ­ fornecer a EMPRESA ISOLADA ou CONSÓRCIO os frameworks, bibliotecas de classes e rotinas padrões da PRODEMGE, necessários à codificação dos módulos de software, de forma a manter a compatibilidade com as versões e o ambiente utilizado na Companhia.
+131
+
+CLÁUSULA QUARTA ­ NÍVEIS DE SERVIÇO - SLA 4.1 - Os prazos acordados com a PRODEMGE devem ser rigorosamente cumpridos. Estes prazos incluem os relativos a qualquer entrega prevista neste Contrato ou no Edital de Licitação, bem como os relativos a correções de defeitos identificados nos módulos de software durante os testes realizados pela PRODEMGE. 4.2 - A partir da assinatura do contrato, a EMPRESA ISOLADA ou CONSÓRCIO deverá ter capacidade para entregar mensalmente um ou mais módulos de software totalizando, no mínimo, o quantitativo de 1.500 (um mil e quinhentos) pontos de função/mês. Entretanto, em função das variações de demanda, este quantitativo pode ser de até 3.000 (três mil) pontos de função/mês. Nesse caso a PRODEMGE deverá informar essa necessidade à Contratada com antecedência mínima de 20 (vinte) dias úteis, para que a mesma possa se estruturar a fim de atender essa demanda. 4.3 - Os prazos máximos para as etapas previstas no Fluxo de Trabalho, constante nos Anexos do Edital, estão estabelecidos abaixo de acordo com a quantidade de pontos de função demandados, respeitando-se a capacidade definida no item anterior:
+
+Prazo máximo para Avaliação da Solicitação de Módulo de Software (etapa E2)1 (em dias úteis) De 1 a 200 4 (quatro) De 201 a 400 4 (quatro) De 401 a 600 5 (cinco) De 601 a 800 6 (seis) De 801 a 1000 7 (sete) 1001 a 1500 9 (nove) 1501 a 2000 11 (onze) Acima de 2001 15 (quinze)
+1.
+
+Tamanho em Pontos de Função (PF)
+
+Prazo máximo para início da Elaboração do Desenho do Software (etapa E5) (em dias úteis)2 3 (três) 3 (três) 4 (quatro) 4 (quatro) 5 (cinco) 5 (cinco) 5 (cinco) 7 (sete)
+
+Prazo máximo para finalização Codificação e Testes (etapa E7) (em meses) 2 2 (dois meses)
+
+2.
+
+O prazo será contabilizado a partir do recebimento da Solicitação de Módulo de Software pela EMPRESA ISOLADA ou CONSÓRCIO. O prazo será contabilizado a partir do recebimento da Ordem de Codificação de Módulo de Software pela EMPRESA ISOLADA ou CONSÓRCIO.
+
+132
+
+4.4 - As correções de defeitos nos módulos de software desenvolvidos pela EMPRESA ISOLADA ou CONSÓRCIO que já estejam em ambiente de produção deverão ser corrigidos conforme tabela abaixo, a partir de sua comunicação pela Prodemge, considerando regime de atendimento 5x8. Crititicidade ALTA MÉDIA BAIXA Prazo para início do atendimento (em horas corridas) 1 hora 4 horas 8 horas Prazo para solução do problema (em horas corridas) 2 horas 8 horas 16 horas Prazo para solução da causa raiz do problema (em horas corridas) 6 horas 24 horas 48 horas
+
+4.4.1- A criticidade do defeito é definida pela Prodemge em função da criticidade do sistema e da severidade do defeito, conforme tabela a seguir:
+Criticidade do Sistema BAIXA Severidade do Defeito ALTA MÉDIA BAIXA MÉDIA BAIXA BAIXA MÉDIA ALTA MÉDIA BAIXA ALTA ALTA ALTA MÉDIA
+
+4.4.1.1 - O grau de severidade do defeito é determinado conforme descrito abaixo:  ALTA: defeito que cause parada ou queda constante no sistema, perda de dados, falha de segurança, travamento;  MÉDIA: defeito em qualquer funcionalidade do sistema em que não se aplique as situações definidas para a severidade ALTA.  BAIXA: defeito de leiaute, nomenclatura, disposição de campos, ortografia. 4.5 - Nos módulos de software entregues pela EMPRESA ISOLADA ou CONSÓRCIO, não poderá ser encontrado nenhum defeito de criticidade ALTA, sob pena de sofrer as sanções dispostas neste contrato. 4.6 - A densidade calculada de defeitos de criticidade MÉDIA e ALTA encontrados nos módulos de software entregues não poderá ultrapassar o valor de 0,2 (dois décimos) de defeitos por ponto de função, sob pena de sofrer as sanções dispostas neste contrato 4.6.1 - A densidade de defeitos é calculada pela divisão da quantidade de defeitos de severidade MÉDIA e ALTA encontrados no módulo de software entregue pelo tamanho em pontos de função do respectivo módulo. 4.7 - A entrega de contagem de pontos de função de módulos de software pela EMPRESA ISOLADA ou CONSÓRCIO não poderá conter erro superior à margem de 20% (vinte) em relação à contagem final acordada, sob pena de sofrer as
+133
+
+sanções dispostas neste contrato. CLÁUSULA QUINTA ­ DA VIGÊNCIA O prazo de vigência deste contrato é de 12 (doze) meses, a contar da data de sua assinatura, podendo ser prorrogado pelas partes por igual ou menor prazo, a critério da PRODEMGE e no interesse das partes, sempre mediante a assinatura de Termo Aditivo, observado o limite previsto na legislação pertinente, não sendo admitida a forma tácita. CLÁUSULA SEXTA ­ DO PREÇO, DA FORMA DE PAGAMENTO E REAJUSTE 6.1 - A PRODEMGE pagará a EMPRESA ISOLADA ou CONSÓRCIO o valor de R$ XXXXX (XXXXXXXX) por Ponto de Função, através de medição mensal, que deverá observar as seguintes quantidades a serem faturadas pelas consorciadas:  Empresa A - XX pontos de função;  Empresa B - XX pontos de função
+
+6.2 - O preço global estimado do presente contrato é de R$ XXXXXXXX (XXXXXXXXXXXXXXXXXX) no qual já estão incluídas todas as despesas especificadas na proposta comercial da EMPRESA ISOLADA ou CONSÓRCIO, incluídos tributos, encargos sociais, custos, materiais, frete até o destino e quaisquer outros ônus que porventura possam recair sobre a contratação do objeto do presente contrato, os quais ficarão a cargo, única e exclusivamente, da EMPRESA ISOLADA ou CONSÓRCIO. 6.3 - Os documentos de cobrança serão emitidos,(pela empresa isolada ou) por cada consorciada proporcionalmente à participação de cada uma neste contrato, nos termos do artigo 4º da Instrução Normativa RFB nº 834, de 26/03/2008, com ateste da empresa Líder do CONSÓRCIO e enviados até o dia 25 do mês subseqüente ao da efetiva prestação do serviço, com vencimento programado para 30 dias após seu recebimento no Correio Central da PRODEMGE, na Rua da Bahia 2.277 ­ Belo Horizonte/MG.
+
+§ 1º - O atraso na entrega dos documentos de cobrança implicará prorrogação do vencimento em tantos dias úteis quantos forem os dias de atraso. § 2º - No campo de descrição da Nota Fiscal deverá ser discriminado o número do contrato a que se refere o serviço. 6.4 ­ A EMPRESA ISOLADA ou as CONSORCIADAS concordam que seus créditos derivados da prestação de serviços ora contratada, sejam depositados pela
+134
+
+PRODEMGE em qualquer das agências do Banco ITAÚ, em contas abertas pelas Consorciadas em seu próprio nome. Parágrafo único - O desconto de títulos ou cobrança bancária somente poderá ser efetuado com a prévia autorização escrita da PRODEMGE. 6.5 - A periodicidade mínima para reajuste ou revisão de preços será de 1 (um) ano. Havendo prorrogação deste contrato, após 12 (doze) meses de vigência, os preços poderão ser reajustados pela variação do INPC referente ao mês anterior do reajuste. 6.6 ­ A liberação da fatura para pagamento ficará condicionada à apresentação do Termo de Encerramento da Ordem de Codificação descritos nos Anexos do Edital e dos documentos comprobatórios da idoneidade financeira e fiscal da EMPRESA ISOLADA ou CONSÓRCIO, em especial o recolhimento de todos os tributos incidentes sobre suas atividades, de qualquer natureza, incluídos impostos, taxas, contribuições sociais e encargos previdenciários. 6.7 ­ Nenhum pagamento será efetivado pela PRODEMGE sem que a unidade administrativa demandante do módulo de software, através de seu gerente, ateste, por escrito, que os produtos previstos em contrato foram correta e integralmente entregues. CLÁUSULA SÉTIMA ­ DA RESCISÃO 7.1 - Além das hipóteses previstas na Lei n.º 8.666/93, o presente contrato poderá ser rescindido, independentemente de pré-aviso e/ou notificação judicial ou extrajudicial, na ocorrência das seguintes hipóteses: a) falência, recuperação judicial, liquidação judicial ou extrajudicial que se aplique a EMPRESA ISOLADA ou ao CONSÓRCIO; b) descumprimento, pela EMPRESA ISOLADA ou CONSÓRCIO, de quaisquer das obrigações assumidas no presente instrumento, ressalvado o direito de ressarcimento por perdas e danos na forma da lei. 7.2 - A PRODEMGE poderá rescindir este contrato, a qualquer momento, mediante comunicado por escrito com no mínimo 30 (trinta) dias de antecedência. CLÁUSULA OITAVA ­ DOS TRIBUTOS Os tributos que gravem ou venham a gravar este instrumento serão de responsabilidade da parte a que, por força da lei, couber seu recolhimento.
+
+135
+
+CLÁUSULA NONA ­ DA CESSÃO A subcontratação total ou parcial do seu objeto, a associação da EMPRESA ISOLADA ou CONSÓRCIO com outrem, a cessão ou transferência, total ou parcial, bem como a fusão, cisão ou incorporação, poderão ser admitidas, desde que aprovadas pela PRODEMGE. CLÁUSULA DÉCIMA ­ DAS PENALIDADES 10.1 - As penalidades aplicáveis pela inadimplência a qualquer das obrigações assumidas neste instrumento são as que a Lei n.º 8.666, de 21/06/93 e posteriores alterações prevêem em seus artigos 86, 87 e 88. e as que o Decreto Estadual 44.431, de 29/12/2006 prevê em seu artigo 18; 10.2 - O descumprimento, total ou parcial, das obrigações assumidas caracterizará a inadimplência da EMPRESA ISOLADA ou CONSÓRCIO, sujeitando todas as consorciadas às seguintes penalidades: I - advertência que será aplicada sempre por escrito; II - A entrega de qualquer artefato pela EMPRESA ISOLADA ou CONSÓRCIO fora do prazo acordado com a Prodemge através de cronogramas e outros documentos integrantes do processo ou o não cumprimento dos prazos estabelecidos nesse edital pela EMPRESA ISOLADA ou CONSÓRCIO, está sujeita à aplicação de multa de 1% (um por cento) mais 0,2% (dois décimos por cento) por dia de atraso sobre o valor do contrato, limitado a 10%. IIA - A correção de defeitos em um prazo superior ao estipulado neste edital está sujeita à aplicação multa de 0,5% por hora de atraso sobre o valor da ordem de codificação, limitado a 10% por defeito. IIB - A entrega de contagem de pontos de função de módulos de software pela EMPRESA ISOLADA ou CONSÓRCIO com erro superior à margem de 20% (vinte por cento) em relação à contagem final acordada está sujeita à aplicação de multa de 1% (um por cento) mais 0,1% (um décimo por cento) para cada ponto percentual acima da margem estipulada sobre o valor da Solicitação de Módulo de Software, limitado a 10%. IIC - A entrega de módulos de software desenvolvidos pela EMPRESA ISOLADA ou CONSÓRCIO com densidade de defeitos encontrados superior ao limite de 0,2 (dois décimos) defeitos por ponto de função ou com algum defeito de criticidade ALTA, está sujeita à aplicação de multa de 1% (um por centro) mais 0,05% (cinco centésimos por cento) por defeito gerado acima do limite estipulado sobre o valor da Ordem de Codificação de Módulo de Software, limitado a 10%.
+
+136
+
+§ 1º - Na situação descrita acima, além da penalidade prevista, o módulo será considerado não entregue, sendo devolvida a EMPRESA ISOLADA ou CONSÓRCIO para correções e nova entrega. IID - O não atendimento à capacidade de entrega mensal de módulos de software definida neste edital, está sujeita à aplicação de multa de 2% (dois) mais 0,1% (um décimo) por ponto de função demandado e não atendido até o limite definido nesse edital, sobre o valor do contrato, limitado a 10%. III - suspensão temporária do direito de licitar com a PRODEMGE; IV - declaração de inidoneidade para licitar e contratar com a ADMINISTRAÇÃO PÚBLICA, no prazo não superior a 5 (cinco) anos; V - rescisão unilateral do Contrato sujeitando-se a EMPRESA ISOLADA ou CONSÓRCIO ao pagamento de indenização à PRODEMGE por perdas e danos. 10.2.1 ­ a multa indenizatória poderá ser aplicada, após regular processo administrativo, garantida a prévia defesa a EMPRESA ISOLADA ou CONSÓRCIO, no caso de descumprimento de qualquer cláusula ou condição do contrato ou do Edital; 10.2.2 - as sanções previstas nesta Cláusula poderão ser aplicadas cumulativamente ou não, de acordo com a gravidade da infração, facultada ampla defesa a EMPRESA ISOLADA ou CONSÓRCIO, no prazo de 05 (cinco) dias úteis a contar da intimação do ato. 10.3 - Nenhuma parte será responsável perante a outra pelos atrasos ocasionados por motivo de força maior ou caso fortuito. § 1º - A PRODEMGE é competente para aplicar, nos termos da Lei Estadual 13.994, de 18/09/01, da Lei Federal 8.666, 21/06/93, as penalidades de suspensão temporária e declaração de inidoneidade. § 2º - As multas detalhadas nesta cláusula serão aplicadas nas demais hipóteses de inexecução total ou parcial das obrigações assumidas. § 3º - O valor das multas aplicadas deverá ser recolhido à PRODEMGE no prazo de 5 (cinco) dias a contar da data da notificação, podendo ainda, ser descontado das Notas Fiscais e/ou Faturas por ocasião do pagamento, ou cobrado judicialmente se julgar conveniente. § 4º - A critério da Administração poderão ser suspensas as penalidades, no todo ou em parte, quando o atraso na entrega do serviço for devidamente justificado pela EMPRESA ISOLADA ou CONSÓRCIO e aceito pela PRODEMGE, que fixará novo prazo, este improrrogável, para a completa execução das obrigações assumidas.
+137
+
+CLÁUSULA DÉCIMA PRIMEIRA ­ DA SEGURANÇA DA INFORMAÇÃO 11.1 - O CONSÓRCIO assume o compromisso de sempre permanecer em conformidade com as recomendações de segurança da informação e com os preceitos estabelecidos pela Política de Segurança da Informação da PRODEMGE. 11.2 - Todos os membros da EMPRESA ISOLADA ou CONSÓRCIO que integrarem as equipes de trabalho seja na formulação, no planejamento, desenvolvimento, execução, instalação do produto do objeto do presente Contrato, deverão assumir compromisso, mediante assinatura junto a Gerência Integrada de Riscos e Sistemas Empresariais, no termo de sigilo. 11.3 - Toda e qualquer informação relativa ao contrato e aos frutos provenientes deste, somente poderá ser divulgada com a anuência expressa e tácita das partes signatárias do presente contrato. 11.4 - A divulgação de informação de forma indevida ou sem as necessárias autorizações, conforme reza o termo de sigilo, torna um direito previsto no corpo do presente contrato, a reparação moral ou material por via judicial da parte que se julgar prejudicada. 11.5 - As obrigações previstas no item 11.2 sobreviverão ao término do presente Contrato e serão válidas por 5 anos, responsabilizando as partes contraentes, pelos seus representantes, empregados, assessores, advogados, prepostos, agentes e outros que com elas mantenham relação comercial ou profissional, e por ventura venham a violar o compromisso de sigilo aqui previsto, sem prejuízo do direito de regresso para ressarcimento das perdas sofridas em virtude dos atos praticados por aqueles. CLÁUSULA DÉCIMA SEGUNDA ­ DA GARANTIA DE EXECUÇÃO CONTRATUAL 12.1 ­ A EMPRESA ISOLADA ou CONSÓRCIO deverá prestar garantia contratual dentre aquelas constantes no §1º, artigo 56, da Lei 8666/93 e alterações, visando à perfeita execução do objeto desta licitação, correspondente a 5% (cinco por cento) do valor do contrato, até cinco dias úteis após a data da convocação para assinatura do Termo de Contrato ou equivalente, que deverá ser entregue na Gerência de Finanças da PRODEMGE. 12.1.1 - A garantia contratual poderá ser prestada pela empresa Líder do CONSÓRCIO ou pelos membros integrantes do CONSÓRCIO na proporção de sua respectiva participação (cláusula somente para o caso de CONSÓRCIO). 12.2 - A garantia prestada pela EMPRESA ISOLADA ou CONSÓRCIO será liberada ou restituída após a emissão do Termo de Recebimento Definitivo do objeto, expedido pela Unidade Administrativa responsável pela fiscalização do contrato.
+138
+
+12.3 - Quando se tratar de fiança bancária, deverá constar do instrumento a renúncia expressa pelo fiador, dos benefícios previstos no artigo 828 do Novo Código Civil; CLÁUSULA DÉCIMA TERCEIRA ­ DAS CORRESPONDÊNCIAS 13.1 - Todos os entendimentos sobre este CONTRATO, bem como comunicações, notificações, solicitações ou avisos somente terão valor, quando feitos por escrito. Caso sejam levados em mão, devem ser entregues mediante recibo, no qual sejam identificados a correspondência e o destinatário. 13.1.1 - Para efeito do disposto no "caput" desta cláusula, as correspondências mantidas entre as partes deverão ser protocoladas nos endereços constantes no preâmbulo deste Contrato. 13.1.2 - A PRODEMGE não considera nem acata correspondências enviadas "via fax". CLÁUSULA DÉCIMA QUARTA ­ DAS DISPOSIÇÕES GERAIS 14.1 - A mera tolerância não implicará perdão, renúncia, novação ou alteração do pactuado. 14.2 - Os encargos trabalhistas, sociais, fiscais e previdenciários, bem como seguro de acidentes de trabalho e outras obrigações legais e administrativas decorrentes de vínculo empregatício da EMPRESA ISOLADA ou CONSÓRCIO com seus empregados são de sua exclusiva responsabilidade. 14.3 - A PRODEMGE poderá exigir a qualquer momento a apresentação dos seguintes documentos, e outros que se fizerem necessários, sob pena de reter o valor correspondente aos pagamentos devidos até a regularização das obrigações pendentes: I - prova de regularidade para com as Fazendas Federal, Estadual e Municipal do domicílio ou sede das CONSORCIADAS, compreendendo a Certidão de Quitação de Tributos e a Certidão quanto a Dívida Ativa, Certidão Negativa junto ao INSS e FGTS; II - ou outras equivalentes na forma da lei, expedidas em cada esfera de governo pelo órgão competente. 14.4 - O presente Contrato não gera qualquer vínculo empregatício entre a PRODEMGE e a EMPRESA ISOLADA ou CONSÓRCIO e seus profissionais, e, ainda, de profissionais de empresas contratadas pela EMPRESA ISOLADA ou CONSÓRCIO, não cabendo à PRODEMGE nenhuma responsabilidade trabalhista ou previdenciária em função dos produtos entregues.
+139
+
+CLÁUSULA DÉCIMA QUINTA ­ DA PROPRIEDADE INTELECTUAL A propriedade de todos os produtos eventualmente gerados na execução do presente contrato é exclusiva da PRODEMGE, não cabendo a EMPRESA ISOLADA ou CONSÓRCIO qualquer reivindicação de autoria e propriedade. CLÁUSULA DÉCIMA SEXTA ­ DO FORO Fica eleito o foro da Comarca de Belo Horizonte, Capital do Estado de Minas Gerais, para solução de litígio ou conflito resultante da execução do Contrato ora ajustado, com renúncia expressa de qualquer outro, por mais privilegiado que seja. E assim, justas e avençadas, firmam este Contrato em 02 (duas) vias de igual forma e teor, com 2 (duas) testemunhas a tudo presentes.
+
+Belo Horizonte, ___ de _____________de 2009. Companhia de Tecnologia da Informação do Estado de Minas Gerais ­ PRODEMGE
+
+_____________________________ Isabel Pereira de Souza Diretora-Presidente
+
+________________________________ Sérgio Augusto Gazzola Diretor de Desenvolvimento de Sistemas
+
+EMPRESA ISOLADA ou CONSÓRCIO _____________________________ XXXXXXXXXXX
+
+Testemunha:
+
+Testemunha:
+
+_____________________________
+Nome: CPF: RG n.°:
+
+______________________________
+Nome: CPF: RG n.°:
+
+140
+
+ANEXO III MINUTA DA ATA DE REGISTRO DE PREÇOS Em xx de xxxxxxxxxxx de 2009, acordaram como Órgão Gerenciador, a Companhia de Tecnologia da Informação do Estado de Minas Gerais ­ PRODEMGE, com sede na cidade de Belo Horizonte, Estado de Minas Gerais, na Rua da Bahia, 2277, Bairro Lourdes, inscrita no CNPJ/MF 16.636.540/0001-04 e Inscrição Estadual 062.908.129.0052, neste ato representada, em conformidade com seu Estatuto Social, pela Diretora Presidente, Isabel Pereira de Souza, e pela Diretora de Gestão Empresarial, Maria Celeste Cardoso Pires, e, como Beneficiárias, a empresa xxxxxxxxxxxxxxxxxxxxxxxxx, com sede à xxxxxxxxxxxxxx, Bairro xxxxxxxxxxx, na cidade xxxxxxxxxxxxx, no Estado xxxxxxxxxxxxxxxx, neste ato representada pelo Sr. xxxxxxxxxxxxxx, cargo xxxxxxxxxxxx e a empresa xxxxxxxxxxxxxxxxxxxxxxxxx, com sede à xxxxxxxxxxxxxx, Bairro xxxxxxxxxxx, na cidade xxxxxxxxxxxxx, no Estado xxxxxxxxxxxxxxxx, neste ato representada pelo Sr. xxxxxxxxxxxxxx, cargo xxxxxxxxxxxx, pela assinatura da Ata de Registro de Preços xxx/2009, sujeitando-se às regras da Lei Federal nº. 8.666, de 21/06/1993, e suas alterações posteriores, Lei Estadual nº. 14.167, de 10/01/2002, Lei Estadual nº. 13.994, de 18/09/2001, Decreto 44.787 de 18 de abril de 2008, pelas condições estabelecidas pelo Edital do Pregão Eletrônico nº. 008/2009 e demais normas pertinentes e aplicáveis. 1. CLÁUSULA PRIMEIRA - DO OBJETO 1.1 ­ Constitui objeto o Registro de Preços para contratação de módulos de software especificados e analisados pela Prodemge correspondentes a 25.000 (vinte e cinco mil) pontos de função codificados sob a gerência e supervisão da Prodemge, utilizando abordagem orientada a objetos e linguagem Java. 2. CLÁUSULA SEGUNDA ­ DOS PREÇOS REGISTRADOS 2.1 ­ O preço registrado para a contratação de módulos de software especificados e analisados pela Prodemge correspondentes a 25.000 (vinte e cinco mil) pontos de função codificados sob a gerência e supervisão da Prodemge, utilizando abordagem orientada a objetos e linguagem Java é de: Beneficiário xx xx Colocação 1º 2º Preço unitário R$ xx,xx R$ xx,xx Preço total R$ xx,xx R$ xx,xx
+
+CLÁUSULA TERCEIRA ­ DO PRAZO DE VIGÊNCIA 3.1 ­ Os preços registrados serão constantes por 12 (doze) meses. 3.2 ­ A Ata poderá ser prorrogada por igual período, nos termos do Decreto 44.787/2008. Os preços poderão ser atualizados pelo INPC, vedada qualquer vinculação a moeda estrangeira.
+141
+
+CLÁUSULA QUARTA ­ DAS CONDIÇÕES A SEREM OBSERVADAS NAS FUTURAS CONTRATAÇÕES 4.1 ­ A PRODEMGE fará as contratações mediante a convocação do fornecedor primeiro colocado para, no prazo de 48 (quarenta e oito) horas, assinar o contrato. 4.1.1 ­ O beneficiário deverá comprovar a manutenção das condições demonstradas para habilitação para assinar o instrumento contratual. 4.1.2 ­ Caso o 1º beneficiário não apresente situação regular no ato da assinatura do contrato, ou recuse-se a assiná-lo ou na impossibilidade do atendimento pelo primeiro colocado, a Prodemge poderá contratar com o 2º beneficiário com preço registrado nesta ARP, conforme sua classificação ao final do Pregão. 4.3 ­ As adesões por caronas deverão ser previamente autorizadas pelo órgão gerenciador e seguirão todas as disposições do Decreto 44.787/2008 e o disposto no item 4.1.2. CLÁUSULA QUINTA - DOS ÓRGÃOS PARTICIPANTES DO REGISTRO DE PREÇOS. 5.1 ­ Não há órgãos participantes neste registro de Preços. Belo Horizonte, xx de xxxxxxxxxxxxxxx de 2009 Companhia de Tecnologia da Informação do Estado de Minas Gerais PRODEMGE ________________________ ______________________ Isabel Pereira de Souza Maria celeste Cardoso Pires Diretor Presidente Diretora de Gestão Empresarial
+
+XXXXXXXXXXXXXXXXXXXXXXXXXX Beneficiário primeiro colocado ________________________ ________________________
+
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Beneficiário segundo colocado ________________________ ________________________
+
+142
+
+ANEXO IV MINUTA DE TERMO DE ADESÃO PARA CARONA Termo de Adesão que entre si celebram a Companhia de Tecnologia de Informação do Estado de Minas Gerais - PRODEMGE, na qualidade de Órgão Gerenciador e o(a) xxxxxxxxxx, na qualidade de Carona, para fins de contratação de módulos de software especificados e analisados pela Prodemge correspondentes a 25.000 (vinte e cinco mil) pontos de função codificados sob a gerência e supervisão da Prodemge, utilizando abordagem orientada a objetos e linguagem Java. Por este Termo de Adesão, o(a) _______________, inscrita(o) no CNPJ sob o n.° _________________, com sede na Rua/Av. ________, Bairro _________, Cidade _________, neste ato representado(a) pelo(a) Cargo, Sr(a) José Fulano de Tal, solicita a adesão, como carona, à ARP xxx/2009, originada do procedimento licitatório do Pregão Eletrônico 008/2009, promovido pela Companhia de Tecnologia de Informação do Estado de Minas Gerais - PRODEMGE, inscrita no CNPJ sob o n.° 16.636.540/0001-04, representada pela Diretora Presidente, Isabel Pereira de Souza, e pela Diretora de Gestão Empresarial, Maria Celeste Cardoso Pires, para fins de Registro de Preços para contratação de módulos de software especificados e analisados pela Prodemge correspondentes a 25.000 (vinte e cinco mil) pontos de função codificados sob a gerência e supervisão da Prodemge, utilizando abordagem orientada a objetos e linguagem Java. A quantidade solicitada é de _______ (xxxxxxxxxx) pontos de função. O gestor do contrato, para fins do cumprimento do art. 7º, inciso VI, será o Sr(a) xxxxxxxx. Belo Horizonte, xx de xxxxxxxxxxx de 2009 Ass.:______________________________________________________
+
+143
+
+ANEXO V MODELO DE CURRÍCULO 1. Nome: 2. Profissão: 3. Função junto à equipe: (ver subitens 7.4.3.1 e 7.4.3.2 do Edital) 4. Formação Profissional: a. Curso(s) concluído(s): Instituição __________________________ __________________________ __________________________ b. Certificação(cões) Instituição __________________________ __________________________ Tílulo _____________________________ _____________________________ Tílulo _____________________________ _____________________________ _____________________________
+
+5. Experiência Profissional: Descrever as experiências anteriores, o local de realização, o título do Sistema ou do projeto ou da atividade, relacionando as macro funções exercidas.
+
+Local e data: __________________, _____ de ________________ de _______
+
+Assinatura: ____________________________________________________
+
+Obs: no item 4 ressaltar a responsabilidade técnica do profissional junto à equipe.
+144
+
+ANEXO VI PORTARIA PP-027/2005
+
+PORTARIA DA PRESIDÊNCIA
+
+PP-027/2005
+
+PADRONIZAÇÃO DE AMBIENTE
+
+Válida a partir de:04/07/2005
+
+PORTARIA DA PRESIDÊNCIA O Diretor-Presidente da Prodemge, no uso de suas atribuições, decide: 1. Determinar, para efeito de Padronização do Ambiente de Desenvolvimento Java J2EE na Prodemge, a utilização da ferramenta J-Company como solução tecnológica,adquirida através do Pregão Eletrônico 009/2004. 2. Revogam-se as disposições em contrário. __________________________________ Maurício Azeredo Dias Costa Diretor-Presidente
+
+145
+
+

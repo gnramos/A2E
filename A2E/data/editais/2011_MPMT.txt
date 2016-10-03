@@ -1,0 +1,837 @@
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+EDITAL DO PREGÃO PRESENCIAL N.º 020/2011
+
+PROCESSO Nº: MODALIDADE: TIPO DE LICITAÇÃO:
+
+003071-001/2011 Pregão Presencial MENOR PREÇO
+
+DATA DA REALIZAÇÃO: 30/05/2011 HORÁRIO PARA CREDENCIAMENTO: 08h30min HORÁRIO PREVISTO PARA O INÍCIO DA SESSÃO: 09h LOCAL: Auditório da Procuradoria Geral de Justiça do Estado de Mato Grosso, na Rua Quatro, s/nº, Edifício Sede do Ministério Público, Centro Político Administrativo ­ CPA, Cuiabá-MT. O MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO/PROCURADORIA GERAL DE JUSTIÇA, inscrita no CNPJ n.º 03.507.415/0018-92, por intermédio do Pregoeiro Oficial (Port. nº. 124/2011-PGJ, de 30 de março de 2011, publicada no D.O.E./MT de 30/03/11) torna público que realizará na data, horário e local em epígrafe, a licitação na modalidade PREGÃO PRESENCIAL, tipo MENOR PREÇO, sob a égide da Lei nº 10.520, de 17/07/2002, subsidiada pela Lei nº 8.666/1993 e pelo Decreto Estadual nº 7.217/2006, observadas as condições estabelecidas neste Procedimento Licitatório e seus Anexos. A presente licitação, com seus autos processuais protocolizados pelo nº 003071001/2011, foi regularmente autorizada pelo Secretário-Geral de Administração do Ministério Público, após exame e parecer da Assessoria Jurídica da Diretoria Geral, nos termos do parágrafo único, do artigo 38, da Lei retro mencionada. O Edital e anexos deste Pregão Presencial encontra-se disponível no site do Ministério Público do Estado de Mato Grosso, no endereço www.mp.mt.gov.br (link Licitações), e também poderá ser fornecido em meio eletrônico aos interessados, mediante apresentação de equipamento para armazenamento de dados (cd, pendrive, etc.) à Gerência de Licitação na Sede da Procuradoria Geral de Justiça, Rua 4, s/n.º, Centro Político Administrativo, em dias úteis, entre os horários das 08h às 11h30 e das 14h às 17h30. 1 DO OBJETO 1.1 O presente Pregão Presencial tem por objeto a CONTRATAÇÃO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS DE ARQUITETURA E DESENVOLVIMENTO DE SISTEMA DE INFORMAÇÃO, MANUTENÇÃO CORRETIVA, ADAPTATIVA, EVOLUTIVA, PERFECTIVA E DOCUMENTAÇÃO; 1.2 Os serviços objeto do presente Edital deverão ser executados em conformidade ao especificado no Termo de Referência ­ Anexo I, devendo ser entregues completos, não cabendo quaisquer acréscimos de pagamento. 1.3 Não será permitida a subcontratação do objeto deste certame. 2 DOS DOCUMENTOS INTEGRANTES
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+1
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+2.1 São Partes integrantes deste instrumento como se nele transcrito: ANEXO I ANEXO II ANEXO III ANEXO IV ANEXO V ANEXO VI ANEXO VII ANEXO VIII 3 DA PARTICIPAÇÃO 3.1 Poderão participar do presente pregão todas as interessadas do ramo de atividade pertinente ao objeto desta contratação, desde que: 3.1.1 estejam legalmente constituídas e preencham os requisitos e condições previstas no presente Edital e seus Anexos; 3.1.2 não estejam sob falência, concordata, concurso de credores, dissolução, liquidação, recuperação judicial, fusão, cisão ou incorporação; 3.1.3 não estejam reunidas em consórcio e não sejam controladas, coligadas ou subsidiárias entre si; 3.1.4 não figure no quadro de Diretores, Responsáveis Técnicos ou Sócios da empresa ou firma, funcionário, servidor ou ocupante de cargo em comissão desta Procuradoria Geral de Justiça/Ministério Público do Estado de Mato Grosso; 3.1.5 não tenham sido declaradas inidôneas para licitar ou contratar com a Administração Pública ou punidas com suspensão do direito de licitar e contratar com o Ministério Público do Estado de Mato Grosso; 3.2 Estarão aptas a participar da licitação empresas estrangeiras, desde que funcionem no país e que detenham ramo de atividade pertinente ao objeto desta contratação. 4 DO CREDENCIAMENTO 4.1 A empresa licitante poderá se fazer representar nesta licitação por meio de pessoa física, apresentando ao Pregoeiro e equipe de apoio cópia ou original de Procuração Privada (Anexo III) ou Pública, ou ainda, de Carta de Preposição (Anexo IV), nos quais constem poderes específicos para formular ofertas, fazer lances, firmar declarações, interpor e desistir de recursos, assinar ata e todos os demais atos inerentes ao certame; 4.2 A empresa licitante deverá entregar à equipe de apoio uma cópia do Contrato Social ou instrumento equivalente, para comprovação da legitimidade de poderes do mandante para fins da outorga acima, da elaboração do contrato e da averiguação da pertinência do ramo de atividade ao objeto ora licitado; Termo de Referência; Modelo de Proposta de Preços; Modelo de Procuração; Modelo de Carta de Preposição; Declaração de Cumprimento dos Requisitos de Habilitação; Modelo de Declaração Diversa; Declaração para microempresa ou de pequeno porte; Minuta do Instrumento de Contrato
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+2
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+4.3 Ao iniciar a Sessão, os participantes deverão identificar-se exibindo documento de identidade oficial, com foto, e entregar uma cópia desse documento à equipe de apoio, bem como entregar a declaração da Empresa de que cumpre todos os requisitos do edital (Anexo V); 4.4 Caso o representante da empresa, na sessão, seja sócio ou proprietário, não haverá necessidade de apresentação dos documentos solicitados no item 4.1; 4.5 Os documentos relacionados neste tópico de credenciamento poderão ser apresentados em cópia autenticada por cartório competente ou em cópias simples, se e somente se, acompanhadas dos originais para autenticação pela equipe de apoio e deverão vir fora dos envelopes de habilitação e proposta; 4.6 A empresa licitante não poderá ser representada por mais de um agente credenciado, portanto, caso haja mais de um representante na sessão, a licitante deverá indicar e credenciar o interlocutor oficial; 4.7 O agente credenciado não poderá representar mais de uma licitante; 4.8 A critério do Pregoeiro, o credenciamento poderá ser aceito até o momento em que for declarada aberta a etapa de lances; 4.9 A proposta escrita da licitante ausente será validada para fins de classificação de acordo com o preço ofertado; 4.10 Considerar-se-á ausente a licitante cujo preposto não detenha procuração específica ou delegação de poderes de representação específica; ou que apenas tenha encaminhado os envelopes, ou seja, não tenha preposto. 4.11 Os documentos de credenciamento serão retidos pela Equipe do Pregão e juntados nos autos do processo administrativo retromencionado. 4.12 Nessa fase o licitante enquadrado na condição de microempresa - ME ou empresa de pequeno porte - EPP, caso queira se beneficiar do tratamento diferenciado disposto na Lei Complementar nº 123/2006, deverá apresentar declaração de seu enquadramento em um dos dois regimes, conforme anexo VIII ou comprovar tal condição. Caso não o faça, participará do certame mas não terá direito aos benefícios previstos na LC 123/06. 5 DA PROPOSTA E DA DOCUMENTAÇÃO HABILITATÓRIA 5.1 Os documentos necessários à habilitação e as propostas deverão ser apresentados, separadamente, em DOIS envelopes distintos, opacos, fechados e indevassáveis, contendo em sua parte externa, além do nome da proponente, os seguintes dizeres: a) ENVELOPE "A" ­ PROPOSTA DE PREÇOS PROCURADORIA GERAL DE JUSTIÇA/MT PREGÃO PRESENCIAL No 020/2011/MP-MT RAZÃO OU DENOMINAÇÃO SOCIAL DA LICITANTE E CNPJ b) ENVELOPE "B" - DOCUMENTOS DE HABILITAÇÃO PROCURADORIA GERAL DE JUSTIÇA/MT PREGÃO PRESENCIAL No 020/2011/MP-MT RAZÃO OU DENOMINAÇÃO SOCIAL DA LICITANTE E CNPJ
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+3
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+5.2 A ausência dos dizeres na parte externa não desclassificará a licitante, podendo ser inscritos; 5.3 Caso ocorra, por falta dos dizeres, abertura equivocada do envelope, o mesmo será imediatamente lacrado e rubricado por todos os presentes; 5.3.1 Quando, por lapso, a documentação de credenciamento estiver dentro de quaisquer dos envelopes (A ou B), esse será entregue ao licitante que estará autorizado a retirar essa documentação, devendo lacrá-lo em seguida, na presença de todos, uma vez que citado documento encontra-se no recinto, com vistas à ampliação da disputa; 5.4 A licitante ausente poderá participar da disputa encaminhando os envelopes "A" e "B", e, preferencialmente, um outro com a declaração de cumprimento dos requisitos do edital (Anexo V), ao Setor de Protocolo Geral (GAEXP) da Procuradoria Geral de Justiça, endereço constante do preâmbulo, em atenção ao Pregoeiro; 5.4.1 Não será inabilitada a licitante que não tiver protocolizado a declaração de cumprimento dos requisitos do edital, desde que entregue pelo preposto na fase de credenciamento. 5.5 Os documentos dos envelopes deverão ser originais ou autenticados em cartório, podendo também ser aceitas cópias simples e legíveis, porém nesse caso, obrigatoriamente devem ser acompanhadas do documento original, para autenticação, não sendo aceito documentos oriundos de fac-símile e, ainda, caso retirado da internet deverá ser apresentado o endereço eletrônico para a devida verificação. 5.6 A sessão poderá ser suspensa a qualquer momento para averiguação de documentação e esclarecimento de outros aspectos que o Pregoeiro julgar necessário ao perfeito andamento do certame. 6 DA SESSÃO PÚBLICA DE ABERTURA DO PREGÃO 6.1 No dia, hora e local fixados no preâmbulo deste ato convocatório, o Pregoeiro instaurará a sessão pública, destinada ao credenciamento dos representantes, ao recebimento dos envelopes de propostas de preços e de documentação. 6.2 Inicialmente será analisado o credenciamento dos representantes, devendo o Pregoeiro motivar suas decisões quanto a essa fase, consignando-as em ata. 6.3 Ultrapassada essa fase, será aberta a sessão, momento em que as licitantes deverão apresentar a declaração (modelo no Anexo V) de cumprimento aos requisitos de habilitação. O cumprimento dessa exigência é pré-requisito para participação no certame. 6.4 Não havendo expediente no dia marcado ou havendo outro fato superveniente que impeça ou retarde, sobremaneira, a realização da sessão, essa será realizada no primeiro dia útil subseqüente, na mesma hora e local, se outra data não for designada pelo Pregoeiro. 6.5 O Pregoeiro poderá, se julgar necessário para o bom andamento dos trabalhos, adiar a sessão, consignando-se em ata as circunstâncias ensejadoras da dilação e a nova data do certame; 6.5.1 Redesignada a sessão, todos os envelopes ficarão sob a guarda do Pregoeiro até o reinício dos trabalhos, devidamente lacrados e rubricados. 7 DA PROPOSTA DE PREÇOS - ENVELOPE "A"
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+4
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+7.1 A proposta comercial ­ Envelope II, deverá ser redigida em língua portuguesa, com clareza, sem ressalvas ou entrelinhas, formulada em papel timbrado, em uma via, datilografada ou impressa por meio de edição eletrônica de textos, sem emendas ou rasuras. Suas páginas devem estar rubricadas - exceto a última que deverá estar datada e assinada por pessoa com poderes para assumir obrigações em nome da empresa - e numeradas, e delas deverão constar no mínimo os seguintes requisitos: 7.1.1 Nome do proponente (razão social), endereço completo, aposição do carimbo com o número do CNPJ, número da inscrição no Cadastro de Contribuintes da Secretaria de Fazenda do Estado em que estiver estabelecida, telefone, e-mail, etc; 7.1.2 Dados da empresa licitante, relativos ao número do Banco, da Agência e da Conta Corrente, onde receberá os devidos pagamentos, caso seja declarada vencedora do certame; 7.1.3 O preço unitário por Pontos de Função e valor global da Proposta, expresso em reais, conforme Anexo II ­ Modelo de Proposta de Preços; 7.1.4 Uma única cotação de preço; 7.1.5 Valores expressos em algarismos e por extenso; 7.1.6 Prazo de validade da proposta consignado de no mínimo sessenta dias contados da data estipulada para a realização da sessão; 7.1.6.1 A proposta que não indicar o prazo, será considerada como de sessenta dias. 7.1.7 Se da proposta constar condições materiais mais vantajosas que as exigidas neste edital, elas não serão consideradas para efeito de escalonamento das ofertas, mas vincularão o proponente na execução contratual. 7.2 Os preços são de exclusiva e total responsabilidade da empresa licitante, não sendo admitidos quaisquer acréscimos, supressões ou retificações nas propostas depois de apresentadas, salvo os aceitos pelo Pregoeiro por motivo justo, decorrente de fato superveniente ou erro manisfesto e formal; 7.2.1 Os preços apresentados devem incluir todos os custos e despesas, tais como: custos diretos e indiretos, tributos incidentes, taxa de administração, serviços, encargos sociais, trabalhistas, seguros, fretes, treinamentos, lucros, dividendos e demais despesas necessárias ao cumprimento integral do objeto deste Edital e seus Anexos; 7.2.2 Quaisquer tributos, despesas e custos, diretos ou indiretos, omitidos na proposta ou incorretamente cotados serão considerados como inclusos no preço, não sendo considerados pleitos de acréscimos a esse ou qualquer título, devendo os serviços serem executados sem ônus adicional. 7.3 Qualquer divergência entre os valores unitários e totais, será considerado o primeiro, e entre os valores expressos em algarismo e por extenso, será considerado esse último; 7.4 Não se admitirá proposta com preços simbólicos, irrisórios ou de valor zero, incompatíveis com os de mercado, ainda que o ato convocatório não tenha estabelecido limites mínimos; 7.5 O Pregoeiro, caso necessário, poderá solicitar maiores esclarecimentos sobre a composição dos preços propostos;
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+5
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+7.6 Após apresentação da proposta, não caberá mais a desistência da licitante, salvo por motivo superveniente, devidamente comprovado e aceito pelo Pregoeiro; 7.7 Não serão aceitas propostas: alternativas, submetidas a termo, condição ou encargo ou com preços indeterminados; 7.8 Será DESCLASSIFICADA a proposta de preços que: 7.8.1 Não atender às exigências do ato convocatório da licitação; 7.8.2 Estiver omissa, vaga, com irregularidades ou defeitos insanáveis, capazes de dificultar o julgamento; 7.8.3 Impuser condições que possam induzir mais de um resultado ou ressalvas em relação às estabelecidas neste Edital. 7.8.4 Tiver, salvo erro manifesto e sanável, especificações em desacordo com o estabelecido no Edital; 7.8.5 Tiver valores consideravelmente superiores aos estimados ou com preços manifestamente inexeqüíveis, assim considerados a proposta que não demonstrar sua viabilidade econômica, ou seja, custos de insumos coerentes com os de mercado. 7.9 A simples participação da licitante neste certame implica: 7.9.1 O pleno conhecimento e aceitação dos termos e condições do Edital e seus Anexos e da obrigação de cumprí-los fielmente, por sua conta e risco, pelos preços ora propostos, não cabendo nenhum acréscimo ou indenização posterior decorrente de erro de cálculo na elaboração; 7.9.2 O dever de apresentar em até quarenta e oito horas, exceto no caso de justificativa aceita pela Administração, que estabelecerá novo prazo, proposta atualizada, obedecendo a proporcionalidade dos preços; 7.9.3 O comprometimento de executar ou fornecer o objeto da licitação em total conformidade com as especificações do Edital e seus anexos. 7.9.4 Fica a critério do Pregoeiro sanar os erros manifestos ou meramente formais que não importem mudança na substância proposta; 8 DO DOCUMENTO PARA HABILITAÇÃO- ENVELOPE B 8.1 No envelope B ­ DOCUMENTO PARA HABILITAÇÃO, a proponente demonstrará a aptidão em assegurar a execução e o fiel cumprimento das obrigações previstas no Edital e seus Anexo. 8.2 Em substituição aos documentos exigidos no Edital, não serão aceitos protocolos de entrega ou solicitação de documento. 8.3 Se a licitante for a sociedade-matriz, os documentos devem constar em nome dela, se for a filial, o da filial, exceto os que por sua natureza constem somente em nome da matriz. 8.4 Comprovante de inscrição no CADASTRO GERAL DE FORNECEDORES - CGF, DO SISTEMA ESTADUAL DE ADMINISTRAÇÃO DO ESTADO DE MATO GROSSO E/OU inscrição no SISTEMA DE CADASTRAMENTO UNIFICADO DE FORNECEDORES ­ SICAF, devi-
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+6
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+damente acompanhadas respectivamente, do atestado de atualização cadastral ou espelho comprovando a regularidade e ainda os documentos elencados no item 8.6; 8.4.1 Todas as formas societárias que apresente cadastro SOMENTE no SISTEMA DE CADASTRAMENTO UNIFICADO DE FORNECEDORES ­ SICAF deverão apresentar Certidão Negativa de Falência e Concordata, expedida pelo distribuidor da sede da pessoa jurídica, com data de até 60 (sessenta) dias anteriores à data de apresentação das propostas; 8.5 A Licitante não inscrita em nenhum dos cadastros acima, deverá apresentar a documentação seguinte: 8.5.1 Habilitação jurídica (de acordo com o código civil (Lei nº 10.406, de 10 de janeiro de 2002): a) Cédula de identidade do representante da Licitante; b) Registro comercial, no caso de empresário; c) Ato constitutivo, estatuto ou contrato social em vigor, acompanhado de todas alterações ou da consolidação respectiva, devidamente registrado, em se tratando de sociedades empresárias, e, no caso de sociedade de ações, acompanhado dos documentos de eleição de seus administradores; d) Inscrição do ato constitutivo, no caso de sociedades simples, acompanhadas de prova de diretoria em exercício; e) Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País e, caso a atividade exija, o Ato de Registro ou autorização para funcionamento expedido pelo Órgão competente. f) Alvará de funcionamento ou outro documento no qual comprove a regularidade do funcionamento da licitante, expedida pela Prefeitura Municipal. 8.5.2 Regularidade Fiscal: a) Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ); b) Certidão conjunta de Dívida Ativa da União e Regularidade de Tributos Federais, expedida pela Receita Federal; c) Certidão Negativa de Débito Fiscal Estadual (CND), específica para participar de licitações emitida pela Secretaria de Estado de Fazenda do respectivo domicílio tributário; d) Certidão Negativa de Débito de competência da Procuradoria Geral do Estado do respectivo domicílio tributário; d1) Poderão ser apresentadas as respectivas Certidões descritas nas alíneas "c" e "d", de forma consolidada, de acordo com a legislação do domicílio tributário do licitante; e) Certidão de Regularidade do FGTS (CRF); f) Certidão Negativa de Débitos (CND-INSS); g) Certidão de regularidade de Tributos Municipais, expedida pela Prefeitura do respectivo domicílio tributário. 8.5.3 Qualificação Econômica-Financeira:
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+7
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+8.5.3.1 Certidão Negativa de Falência, expedida pelo distribuidor da sede da pessoa jurídica, ou de execução patrimonial, expedida no domicílio da pessoa física; datada dos últimos 60 (sessenta) dias, ou que esteja dentro do prazo de validade expresso na própria Certidão; 8.5.3.2 Apresentação, na forma da lei, do Balanço patrimonial e demonstrações contábeis do exercício último financeiro, vedada a substituição por balancetes ou balanços provisórios, podendo ser atualizados pelo IGP-DI-Fundação Getúlio Vargas ou outro indicador que o venha substituir caso encerrados há mais de 03 (três) meses da data do recebimento das propostas; a) Serão considerados aceitos, como na forma da lei o balanço patrimonial e demonstrações contábeis assim apresentados: a.1.) Sociedades regidas pela Lei nº 6.404/76 (sociedade anônima) - publicado no Diário Oficial, ou Publicado em jornal de grande circulação; ou por fotocópia registrada ou autenticada na Junta Comercial da sede; ou domicílio da licitante; a.2.) Sociedades por cota limitada (LTDA) - cópia dos Termos de Abertura e Encerramento do Livro Diário, devidamente autenticado na Junta Comercial da sede ou domicílio da licitante ou em outro Órgão equivalente; a.3.) Sociedades outras sujeitas ao regime estabelecido pela Lei Complementar nº 123, de 14 de dezembro de 2006 ­ Lei das Microempresas e das Empresas de Pequeno Porte "SIMPLES" - Cópia dos Termos de Abertura e Encerramento do Livro Diário, devidamente autenticada na Junta Comercial da sede ou domicílio da licitante ou em outro Órgão equivalente; ou Declaração simplificada do último imposto de renda; a.4.) Sociedades criadas no exercício em curso - Cópia do Balanço de Abertura devidamente registrado ou autenticado na Junta Comercial da sede ou domicílios das licitantes nos casos de sociedades anônimas. b) O balanço patrimonial, as demonstrações e o balanço de abertura deverão estar assinados pelos administradores das empresas constantes do ato constitutivo, estatuto ou contrato social e por Contador legalmente habilitado. 8.6 No envelope B - DOCUMENTOS PARA HABILITAÇÃO, todas as licitantes deverão apresentar: 8.6.1 Atestado de capacidade técnica emitido por pessoa jurídica de direito público ou de direito privado idônea, estabelecidas no território nacional, que comprove a prestação integral dos serviços ora licitados, demonstrando o efetivo cumprimento do que fora estabelecido no contrato ou instrumento equivalente, em conformidade com o serviços abaixo discriminados: 8.6.1.1 Desenvolvimento de software em ambiente WEB/Java EE especificamente com os Frameworks e Plataforma descritos no item 13.2 ARQUITETURA DE SISTEMAS, DO TERMO DE REFERÊNCIA ­ ANEXO I; 8.6.1.2 Atividades de análise e projeto em modelagem OO (Orientada a Objeto) com UML (Unified Modeling Language ­ Linguagem Unificada de Modelagem) para especificação de sistemas na plataforma Web/Java EE.
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+8
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+8.6.1.3 Demonstrar possuir pessoal técnico especializado composto de pelo menos 02 (dois) profissionais detentores de certificação Java (Sun ou Oracle), bem como experiência descrita na Tabela 2 ­ Perfil da Equipe do Item 14 ­ Qualificação Técnica dos Profissionais ­ Anexo I ­ Termo de Referência. 8.6.1.3.1 As experiências profissionais deverão ser comprovadas por meio de apresentação de documentos tais como: contratos de trabalho e/ou prestação de serviços, registro em carteira de trabalho ou documentos equivalentes; 8.6.1.3.2 A comprovação do vínculo profissional far-se-á por meio de cópia autenticada da ficha de registro ou da CTPS ­ Carteira de Trabalho e Previdência Social OU Contrato de Prestação de Serviço e do Contrato Social da Empresa ou Ata de Eleição da Diretoria, para o sócio ou proprietário.; 8.6.2 Declaração constante no Anexo V (modelo): a) de que a licitante, sob as penas do Art. 299 do Código Penal, terá a disponibilidade de executar os serviços licitados conforme previsto no edital, caso venha a vencer o certame, e de que cumpre os requisitos de habilitação; 8.6.3 Declaração constante no Anexo VI (modelo): a) de que cumpre o disposto no inciso XXXIII do art. 7º da Constituição e na Lei nº 9.854, de 27 de outubro de 1999; b) de que está adimplente com as obrigações contratuais firmadas com outras esferas da Administração Pública, não configurando inadimplência o cumprimento feito nos prazos de prorrogações formalmente solicitados e aceitos pela autoridade competente; c) de inexistência de fato superveniente ou impeditivo à habilitação, atestando a inexistência de circunstâncias que impeçam a empresa de participar de processo licitatório, na forma do art. 32, § 2º, da Lei nº 8.666/93 e alterações posteriores, salvo se declarado; 8.6.4 Declaração constante no Anexo VII (modelo), se for o caso: a) Enquadramento como ME ou EPP. 8.7 Os documentos poderão ser apresentados em original, em cópia autenticada por cartório, ou em cópia simples, se e somente se, acompanhadas do documento original, para autenticação pela equipe de apoio. 8.8 As empresas que enquadram-se no disposto na Lei Complementar nº 123 de 14 de dezembro de 2006, deverão apresentar toda a documentação exigida para efeito da comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição; 8.8.1 Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de 2 (dois) dias úteis, prorrogáveis por igual período, a critério da Administração, para a regularização; 8.8.2 A não-regularização da documentação, no prazo previsto, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei no 8.666, de 21 de junho de 1993. 8.9 Se os documentos de habilitação não estiverem completos e corretos, contrariarem os requisitos essenciais do Edital e anexos ou comprometerem a segurança do futuro contrato, a Pregoeiro, respeitado o princípio da ampla disputa, poderá motivadamente inabilitar a proponente.
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+9
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+9 DO JULGAMENTO 9.1 Declarada a abertura do certame, o Pregoeiro receberá e verificará a regularidade dos envelopes trazidos pelas licitantes, observando o preenchimento dos requisitos fixados neste edital e não serão admitidos novos proponentes; 9.2 Recebidos os envelopes, descaberá a desistência da proposta; 9.3 O julgamento da proposta será processado e julgado em consonância com as exigências do Edital e legislações pertinentes; 9.3.1 O critério de julgamento das propostas será do tipo MENOR PREÇO ; 9.4 Em seguida, o Pregoeiro procederá à abertura dos envelopes contendo a proposta de preços, examinando-á a fim de verificar o cumprimento das condições formais e materiais estabelecidas neste Edital, devendo ser desclassificada, de plano, a que estiver em desacordo; 9.5 As propostas de preços válidas, ou seja, que atendam ao edital, serão ordenadas em ordem crescente, e eleitos para participar da fase de lances os seus autores; 9.6 Caso haja o comparecimento de um único interessado ou uma só proposta admitida, o Pregoeiro dará continuidade ao procedimento sem a realização da fase de ofertas verbais, aplicando os dispositivos deste edital concernentes à aceitabilidade da proposta, à habilitação, à negociação do preço ofertado e à adjudicação; 9.7 A fase de lances se processará em rodadas consecutivas, nas quais os representantes das licitantes selecionadas poderão formular, sucessivamente, ofertas verbais, na oportunidade de cada uma, até que se obtenha o menor preço possível; 9.8 As licitantes só poderão ofertar um lance por rodada; 9.9 O primeiro lance caberá ao autor da proposta selecionada de maior preço. Logo depois, o Pregoeiro convidará individualmente, em ordem decrescente de preços, as demais licitantes selecionadas para ofertarem seus lances, seguindo a mesma seqüência nas rodadas subseqüentes; 9.10 Caso duas ou mais propostas escritas apresentem valores iguais, para se estabelecer a ordem de oferta de lances, serão realizados sorteios, cujos vencedores deverão assumir os lugares subseqüentes na seqüência; 9.11 Os lances deverão ter seus valores distintos e mais reduzidos do que os propostos anteriormente; 9.12 A formulação de lances não é obrigatória. A eventual recusa da licitante em ofertar lance, quando for convidada, seja na rodada inicial ou nas subseqüentes, implicará, apenas, sua exclusão da fase de lances nas rodadas ulteriores. Contudo, nessa hipótese, o preço da proposta escrita ou do último lance formulado, conforme o caso, será mantido, para efeito de ordenação das propostas; 9.13 O preço da proposta escrita da licitante sem representação continuará válido na etapa de lances, se ela for selecionada para tanto; 9.14 Caso não se realizem lances verbais, será verificada a conformidade entre a proposta escrita de menor preço e o valor estimado para a contratação, e também quanto aos aspectos de habilitação e negociação do preço ofertado;
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+10
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+9.15 Os lances deverão ficar adstritos à redução dos preços, não se admitindo ofertas destinadas a alterar outros elementos da proposta escrita; 9.16 Quando convidado a ofertar seu lance, o representante da licitante poderá requerer tempo, para analisar seus custos ou para consultar terceiros, podendo, para tanto, valer-se de celular. O tempo, se concedido, não poderá exceder 5 minutos; 9.17 O Pregoeiro deverá registrar os lances ofertados, podendo, para tal fim, usar meios eletrônicos de gravação; 9.18 Poderá o Pregoeiro atribuir parâmetros para apresentação de novos lances, a fim de dar maior celeridade à disputa, dentro da razoabilidade; 9.19 Quando for obtido o menor preço possível, a etapa de lances será concluída; 9.20 Declarada encerrada a fase de lances, o Pregoeiro procederá à classificação das licitantes e verificará se ocorre empate (ficto), nos termos do art. 44 da LC nº 123/06 (Estatuto Nacional da Microempresa ­ ME e da Empresa de Pequeno Porte ­ EPP), entre o lance mais bem classificado e os lances apresentados por empresas com direito a tratamento diferenciado; 9.21 Entende-se por empate (ficto) aquelas situações em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 5% (cinco por cento) superiores ao lance mais bem classificado, ou seja, o de menor valor; 9.21.1 ocorrendo o empate como considerado acima, proceder-se-á da seguinte forma: a) a microempresa ou empresa de pequeno porte será convocada para ofertar proposta inferior, cobrindo a proposta de menor valor, no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão; caso não apresente nova proposta, serão convocadas as remanescentes enquadradas na situação acima, na ordem classificatória, para o exercício do mesmo direito; b) no caso de equivalência nos valores apresentados pelas microempresas e empresas de pequeno porte que se encontrem nos intervalos estabelecido no § 2º, art. 44 da LC 123/06, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta; c) Na hipótese do não exercício de preferência, nos termos previstos na alínea "a", voltará à condição de primeira classificada a empresa autora da proposta de melhor preço originariamente apresentado na fase de lances. d) Não ocorrerá empate quando o melhor lance tiver sido apresentado por empresa que se enquadre como microempresa ou empresa de pequeno porte. 9.22 O Pregoeiro abrirá o envelope de habilitação da proponente vencedora da disputa para verificar se essa preenche os requisitos de habilitação exigidos no edital; 9.23 Atendidas as exigências e não havendo manifestação recursal, à licitante será adjudicado do item ou lote, conforme o caso, vencido na disputa; 9.24 Se a proposta não for aceita ou se a proponente desatender às exigências habilitatórias, o Pregoeiro examinará as subseqüentes, na ordem de classificação, e assim sucessivamente, até a apuração e declaração daquela que preencha plenamente os requisitos do edital; 9.25 Encerrada a sessão, lavrar-se-á ata circunstanciada registrando-se todas as ocorrências relevantes, a qual ao final será assinada por todos os presentes;
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+11
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+9.26 O Secretário-Geral do Ministério Público homologará o certame; no entanto, caso tenha havido manifestação recursal, também lhe incumbirá a respectiva adjudicação; 9.27 Aplicar-se-á o disposto no item 9.24, sem prejuízo das sanções cabíveis, quando a licitante-adjudicatária, convocada no prazo de validade da proposta, não apresentar regularidade fiscal no ato da assinatura do Contrato ou recusar-se a proceder a assinatura, imotivadamente ou se a razão apresentada não for aceita pela contratante. 10 DA IMPUGNAÇÃO DO ATO CONVOCATÓRIO 10.1 Decai do direito de pedir esclarecimento ou de impugnar os termos do Edital a licitante ou o cidadão que não o invocar em até dois ou cinco dias úteis, respectivamente, precedentes à data prevista do certame; 10.2 Caberá ao Pregoeiro decidir sobre o pedido de impugnação no prazo de vinte e quatro horas, a contar de sua certificação. 10.3 Acolhida a impugnação do ato convocatório, seus vícios serão sanados e, se necessário, nova data será designada para a realização do certame. 10.4 As consultas serão respondidas pelo e-mail licitacoes@mp.mt.gov.br, que comporá o processo. 10.4.1 Não serão aceitos pedidos de impugnação ao Edital encaminhados por e-mail ou fax. 11 DOS RECURSOS 11.1 Declarada a vencedora, qualquer licitante poderá manifestar imediata e motivadamente a intenção de recorrer, sendo, a partir de então, aberto prazo para apresentação das razões do recurso. 11.2 A síntese ou memorial do recurso será registrado na ata circunstanciada da sessão, momento a partir do qual contar-se-á 3 (três) dias corridos para apresentação de razões; e, transcorrido esse prazo, mais 3 (três) dias para as contra-razões das demais licitantes, garantida a vista imediata dos autos. 11.3 Decairá do direito de recorrer pela ausência de manifestação, falta de motivação ou pela apresentação intempestiva das razões pela licitante, hipóteses em que o resultado será adjudicado à licitante vencedora da etapa de lances em pauta. 11.4 O recurso contra decisão do Pregoeiro não terá efeito suspensivo. 11.5 Interpostas as razões e contra-razões, o Pregoeiro analisá-las-á, podendo, no prazo de 5 (cinco) dias úteis, reconsiderar sua decisão ou devolvê-las para decisão do Secretário-Geral do Ministério Público, por igual prazo, a partir da ciência do recurso. 11.6 O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 11.7 Decididos os recursos e constatada a regularidade dos atos procedimentais, o Procurador-Geral da Justiça adjudicará e homologará a presente licitação. 11.8 O resultado do recurso será divulgado mediante publicação no Diário Oficial do Estado de Mato Grosso e comunicado no site oficial do Ministério Público, no seguinte endereço www.mp.mt.gov.br, menu licitações.
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+12
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+12 DAS OBRIGAÇÕES 12.1 A adjudicatária se obriga, nos termos deste edital, a: 12.1.1 Comparecer para assinatura do contrato, no prazo de até 3 (três) dias úteis, contados da publicação da homologação e adjudicação, salvo se outro prazo for determinado, formalmente, pela Administração, sob pena de decair do direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei 8.666/93 e modificações da Lei 8.883/94; podendo, a critério da Administração, o prazo ser prorrogado; 12.1.2 Fornecer ou executar, conforme o caso, o objeto adjudicado no presente edital, no local, preços e nas condições indicadas neste edital; 12.1.3 Estar, como condição para assinatura do Contrato, com toda documentação exigida para participação deste certame em situação regular e apresentar todas as ALTERAÇÕES SOFRIDAS pelo contrato social ou documento equivalente, conforme o caso. 12.1.4 Encaminhar em até 48 (quarenta e oito horas) a proposta ajustada ao último lance, formalizada e preenchida adequadamente. Devendo ser assinada pelo representante legal, consignando o número do lote ou item (guardada a perfeita caracterização do objeto licitado, em conformidade com as descrições contidas no edital e seus anexos); 12.1.5 Retirar a nota de empenho no prazo de 24 horas a contar da assinatura do contrato, salvo se outra data for firmada pela contratante; 12.1.6 Cumprir, fielmente, suas prestações contratuais em conformidade com os termos deste Edital e dos seus anexos, e da proposta; 12.1.7 Responder administrativa, civil e penalmente por quaisquer danos materiais ou pessoais ocasionados à Contratante e/ou a terceiros, por seus empregados, em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, quando da execução dos serviços, inclusive por acidentes que causem invalidez permanente ou temporária, morte, perda ou destruições isentando a CONTRATANTE de todas e quaisquer reclamações cíveis, criminais ou trabalhistas que possam surgir; não excluindo ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento pela contratante, independentemente de outras cominações contratuais ou legais a que estiver sujeita; 12.1.7.1 O valor correspondente ao ressarcimento dos danos causados em bens de propriedade da CONTRATANTE, será debitado de acordo com o preço de mercado, no primeiro pagamento a que a empresa fizer jus ou, em função do montante ou interesse administrativo, recolhimento por depósito a favor da CONTRATANTE através de DARF, ou descontado da garantia; 12.1.8 Assumir a responsabilidade por todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria; 12.1.9 Assumir, ainda, a responsabilidade pelos encargos fiscais e comerciais resultantes da adjudicação do objeto deste Pregão; 12.1.10 Não opor embaraços ao acompanhamento e à fiscalização da execução contratual por parte do representante do MP-MT, devendo prestar todas as informações requeridas e atender às determinações do fiscal para a correção de eventuais vícios encontrados; 12.1.11 Cumprir outras determinações previstas na Lei n° 8.666/93 ;
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+13
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+12.1.12 Manter, durante a execução do contrato, todas as condições habilitatórias exigidas nesta licitação. 12.1.13 A equipe responsável deverá prestar a consultoria nas dependências desta Procuradoria Geral de Justiça; 12.1.14 Cumprir todas as obrigações descritas nos anexos deste edital (Termo de Referência e Contrato), como se transcritas aqui estivessem; 12.1.15 Acatar a qualquer momento, devido a uma real necessidade levantada pela fiscalização, solicitações de mudança do(s) funcionários responsáveis pelos serviços; 12.1.16 Manter, durante toda a execução do contrato, um preposto que atenderá de prontidão às necessidades contratuais junto ao fiscal da contratante; 12.1.17 Responsabilizar-se por eventuais paralisações dos serviços por parte dos seus empregados, sem repasse de qualquer ônus ao Contratante, para que não haja interrupção dos serviços prestados; 12.1.18 Repor, no prazo máximo de 5 (cinco) dias úteis contados a partir da respectiva intimação, após a devida comprovação, garantida previamente ampla defesa e contraditório, qualquer objeto da Contratante e/ou de terceiros que tenha sido danificado ou extraviado por seus empregados; 12.1.19 Atender, imediatamente, as solicitações da Contratante, apresentadas por escrito pelo gestor do contrato, quanto às substituições de empregado(s) considerando(s) inadequados para a prestação dos serviços ou conduta inconveniente; 12.1.20 Não transferir a outrem, por qualquer forma, nem mesmo parcialmente, nem subcontratar, qualquer das prestações e serviços a que está obrigada por força do presente Contrato, sem prévio assentimento escrito da CONTRATANTE; 12.1.21 Comprovar, sempre que solicitado pela PGJ/MP-MT, a quitação das obrigações trabalhistas, tributárias e, mensalmente, o recolhimento das contribuições sociais (Fundo de Garantia por Tempo de Serviço e Previdência Social) pertinentes aos seus empregados alocados no serviço decorrente da execução do Contrato, como condição à percepção do valor faturado; 12.1.22 Aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessárias em até 25% (vinte e cinco por cento) do valor inicial atualizado do Contrato. 12.2 Constituem obrigações da contratante: 12.2.1 Assegurar-se da boa execução dos serviços, verificando sempre o seu bom desempenho; 12.2.2 Verificar, para fins de constatação quanto à oportunidade e conveniência da manutenção do contrato, se os preços contratados estão em conformidade com as condições ofertadas na licitação, bem como compatíveis com aqueles praticados no mercado pelas demais prestadoras desses serviços; 12.2.3 Emitir pareceres em todos os atos relativos à execução do Contrato, em especial, aplicação de sanções, alterações e repactuações do Contrato; 12.2.4 Prestar as informações e os esclarecimentos solicitados pela Contratada;
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+14
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+12.2.5 Exercer a fiscalização dos serviços por servidores especialmente designados e documentar as ocorrências havidas, propor as adequações necessárias ao bom andamento dos serviços; 12.2.6 Fiscalizar o cumprimento das obrigações assumidas pela Contratada, inclusive quanto à continuidade da prestação dos serviços ou fornecimento de produtos, que, ressalvados os casos de força maior, justificados e aceitos pela Contratante, não deve ser interrompida; 12.2.7 Efetuar os pagamentos devidos; 12.2.8 Manter organizado e atualizado um sistema de controle sobre a execução contratual; 12.2.9 Atestar as notas fiscais, para tanto, verificando se a empresa mantém a regularidade fiscal, ou seja, sem que todas as certidões estejam regulares, as notas fiscais não poderão ser atestadas; 13 DAS SANÇÕES ADMINISTRATIVAS 13.1 O descumprimento injustificado das obrigações assumidas nos termos deste edital, sujeita a licitante vencedora a multas, consoante o caput e parágrafos do art. 86 da Lei no 8.666/93 e alterações posteriores, incidentes sobre o valor da Nota de Empenho, na forma seguinte: 13.1.1 Por atraso injustificado na execução do objeto: 13.1.1.1 atraso de até CINCO dias, multa diária de 0,25% (vinte e cinco centésimos por cento); 13.1.1.2 atraso superior a CINCO dias, multa diária de 0,50% (cinquenta centésimos por cento) sobre o total dos dias em atraso, sem prejuízo das demais cominações legais; 13.1.1.3 no caso de atraso no recolhimento da multa aplicada, incidirá nova multa sobre o valor devido, equivalente a 0,20% (vinte centésimos por cento) até CINCO dias de atraso e 0,40% (quarenta centésimos por cento) acima desse prazo, calculado sobre o total dos dias em atraso. 13.1.2 Pela inexecução parcial ou total das condições estabelecidas neste ato convocatório, a Administração poderá, garantida a prévia defesa, aplicar, também, as seguintes sanções: 13.1.2.1 advertência; 13.1.2.2 multa compensatória de até 20% (vinte por cento) sobre o valor homologado, atualizado, recolhida no prazo de 15 (quinze) dias corridos, contados da comunicação oficial, sem embargo de indenização dos prejuízos porventura causados ao Ministério Público do Estado de Mato Grosso; 13.1.2.3 suspensão temporária de participação em licitação e impedimento de licitar e contratar com a Procuradoria Geral de Justiça, bem como o cancelamento de seu certificado de registro cadastral no cadastro de fornecedores do Estado de Mato Grosso por prazo não superior a DOIS anos; 13.1.3 Se a adjudicatária não apresentar situação regular no ato da assinatura do Contrato sujeita-se à penalidade:
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+15
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+13.1.3.1 multa de 5% sobre o valor adjudicado; 13.1.4 Atraso quanto à obrigação de solucionar quaisquer problemas na execução do objeto, e, quanto à aceitação de acréscimos e supressões, na forma da Lei, no valor total da adjudicação: 13.1.4.1 atraso até 2 (dois) dias, multa de 5% (cinco por cento); 13.1.4.2 a partir do 3º (terceiro) até o limite do 5º (quinto) dia, multa de 10% (dez por cento), caracterizando-se a inexecução total da obrigação a partir do 6º (sexto) dia de atraso. 13.2 Nas hipóteses de apresentação de documentação inverossímil, cometimento de fraude ou comportamento de modo inidôneo, a licitante poderá sofrer, além dos procedimentos cabíveis de atribuição desta instituição e do previsto no art. 7º da Lei 10.520/02, quaisquer das sanções adiante previstas, que poderão ser aplicadas cumulativamente: 13.2.1 Desclassificação ou inabilitação, caso o procedimento se encontre em fase de julgamento; 13.2.2 Rescisão contratual; 13.3 As multas serão descontadas dos créditos da empresa contratada. Caso a CONTRATADA não tenha nenhum valor a receber da CONTRATANTE, ser-lhe-á concedido o prazo de 5(cinco) dias úteis, contados de sua intimação, para efetuar o pagamento. Após esse prazo, não sendo efetuado o pagamento, seus dados serão encaminhados ao Órgão competente para que seja inscrita na dívida ativa do Estado, podendo, ainda a Administração proceder a cobrança judicial do valor devido; 13.4 as penalidades aqui previstas têm caráter de sanção administrativa, conseqüentemente, a sua aplicação não exime o fornecedor da reparação de eventuais perdas e danos que seus atos venham acarretar à Procuradoria Geral de Justiça; 13.5 a aplicação de uma penalidade não exclui a das demais, quando cabíveis; 13.6 as penalidades serão, obrigatoriamente, registradas no Sistema de Cadastramento Unificado de Fornecedores - SICAF ou no Cadastro de Fornecedores do Estado de Mato Grosso CGF, e no caso de ficar impedido de licitar e contratar, o fornecedor deverá ser descredenciado por igual período, sem prejuízo das multas previstas no Edital e das demais cominações legais. 14 DO PAGAMENTO 14.1 O pagamento será efetuado, pelo Departamento Financeiro da Procuradoria Geral de Justiça, por meio de Nota de Ordem Bancária pelo Banco do Brasil S/A, em conta corrente indicada pela Contratada, à vista do documento fiscal apresentado pela contratada, devendo estar devidamente atestadas pelo setor responsável pela fiscalização e acompanhamento da execução do contrato, até 30 (trinta) dias após apresentação das faturas/notas fiscais; 14.1.1 Não será efetuado o pagamento do serviço que for considerado em total desacordo com a contratação e que vier a causar transtorno para a Contratante. 14.2 Junto às Notas Fiscais a licitante vencedora deverá obrigatoriamente apresentar Certidão Negativa de Débito dos Tributos Federais, Estaduais e Municipais, Certidão Negativa de Débito
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+16
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+do FGTS e INSS, sem as quais fica impossibilitada a efetivação da liquidação do pagamento. 14.3 A Procuradoria Geral de Justiça se reserva ao direito de descontar do pagamento os eventuais débitos da contratada, inclusive os relacionados com multas, danos e prejuízos contra terceiros. 15 DOS ACRÉSCIMOS E SUPRESSÕES 15.1 As licitantes estarão obrigadas a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% (vinte e cinco por cento) do valor atualizado do contrato, nos termos do §1º do art. 65 da Lei de licitações. 16 DA FISCALIZAÇÃO 16.1 A fiscalização será feita diretamente pelo MP-MT mediante servidor formalmente designado na forma do Art. 67 da Lei nº 8.666/93, a quem compete verificar se a Empresa está executando os trabalhos ou fornecendo o objeto adjudicado, observando o contrato e os documentos que o integram. 16.2 A fiscalização terá poderes para agir e decidir perante a Contratada, inclusive rejeitando fornecimentos ou serviços que estiverem em desacordo com o Contrato, obrigando-se desde já a Contratada a assegurar e facilitar o acesso da Fiscalização, aos serviços e a todos os elementos que forem necessários ao desempenho de sua missão. 16.3 A Fiscalização terá plenos poderes para sustar qualquer serviço, total ou parcialmente, que não esteja sendo executado dentro dos termos do contrato, dando conhecimento do fato ao responsável pela execução do contrato, sem que caiba à Contratada direito à qualquer indenização. 16.4 Cabe à Fiscalização verificar a ocorrência de fatos para os quais haja sido estipulada qualquer penalidade contratual. A Fiscalização informará ao setor competente quanto ao fato, instruindo o seu relatório com os documentos necessários, e em caso de multa, a indicação do seu valor. 16.5 Das decisões da Fiscalização, poderá a Contratada recorrer à Diretoria Geral do MP_MT, no prazo de 10 (dez) dias úteis da respectiva comunicação. Os recursos relativos a multas serão feitos na forma prevista na respectiva cláusula. 16.6 Ação e/ou omissão, total ou parcial, da Fiscalização, em qualquer circunstância, não eximirá a adjudicatária da integral responsabilidade pela execução do objeto deste Edital. 17 DAS DISPOSIÇÕES GERAIS
+
+17.1 Faculta-se ao Pregoeiro de ofício ou por iniciativa dos interessados, realizar, em qualquer fase da licitação, diligências destinadas a esclarecer ou complementar a instrução do processo, vedada a inclusão posterior de documento que deveria constar no ato da sessão pública. 17.2 O Secretário-Geral do Ministério Público poderá revogar a licitação por razões de interesse público decorrentes de fato superveniente, devidamente comprovado, pertinente e suficiente para justificar tal conduta, ou deverá anulá-la por ilegalidade, de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente fundamentado.
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+17
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+17.3 Corre por conta e risco da licitante todo o ônus decorrente de erro na elaboração da proposta apresentada, independentemente da condução ou do resultado do processo licitatório. 17.4 A licitante responsabilizar-se-á pela veracidade e legitimidade dos documentos e das informações ali contidas. 17.5 A licitante responsabilizar-se-á pelas declarações feitas no curso do processo licitatório pelo preposto credenciado. 17.6 Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e incluir-se-á o do vencimento, prorrogando-se para o dia útil imediatamente posterior ao vencimento caso não haja expediente normal no Ministério Público do Estado de Mato Grosso. 17.7 O Pregoeiro, em prol do interesse público, poderá sanar, relevar omissões ou erros puramente formais observados na documentação e na proposta, desde que não contrariem a legislação vigente e não comprometam a lisura da licitação, sendo possível a promoção de diligência destinada a esclarecer ou a complementar a instrução do processo; 17.8 As normas que disciplinam este pregão serão sempre interpretadas em favor da ampliação da disputa entre os interessados, sem comprometimento da segurança da futura aquisição. 17.9 Os casos omissos serão resolvidos pelo Pregoeiro, com observância das disposições constantes nas leis federais 10.520/02, 8.666/93 e no Decreto Estadual nº 7.217/2006. 17.10 As questões decorrentes deste edital e seus anexos, que não possam ser dirimidas no âmbito administrativo, serão processadas e julgadas pelo foro da Comarca de Cuiabá-MT, com exclusão de qualquer outro. 17.11 Os envelopes não abertos ficarão, após o encerramento das fases procedimentais até o prazo de 30 (trinta) dias úteis, na Procuradoria Geral de Justiça, à disposição das licitantes, após esse prazo, reserva-se no direito de fragmentá-los. Cuiabá, 17 de maio de 2011. Eduardo Maximiliano Queiroz de Souza Pregoeiro Oficial
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+18
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+PREGÃO PRESENCIAL Nº 020/2011/MP-MT ANEXO I TERMO DE REFERÊNCIA
+1 OBJETIVO Este Termo de Referência ­ TR tem como objetivo definir condições para a contratação de pessoa jurídica especializada na prestação de serviços de desenvolvimento de sistemas, com experiência comprovada na concepção, modelagem e construção, além de manutenção e sustentação, incluindo a elaboração de artefatos documentais e transferência de tecnologia para a CONTRATANTE. 2 OBJETO O objeto desta contratação é a prestação de serviços técnicos especializados na área de tecnologia da informação, compreendendo o desenvolvimento, manutenção corretiva, adaptativa, evolutiva ou perfectiva de sistemas de informação e portais; e documentação de sistemas de informação, por intermédio das atividades, de acordo com as especificações, padrões técnicos de desempenho e qualidade estabelecidos pela CONTRATANTE, mediante ordens de serviço dimensionadas pela técnica de contagem de Pontos por Função Ajustados ­ PFA, pagas pelo quantitativo mensal de resultados recebidos e homologados, acompanhadas da respectiva documentação prevista pela CONTRATANTE, no modelo de Fábrica de Software, na forma de serviços continuados. 2.1 ESPECIFICAÇÕES PRELIMINARES
+
+A métrica para estimativa de tamanho de software, a ser utilizada neste contrato, é Pontos de Função (Function Points), normatizada no Manual de Práticas e Contagens versão 4.2 (Counting Practices Manual - Release 4.2), publicado pelo IFPUG (International Function Point Users Group). O regime de Fábrica de Software implica no uso de uma forma sistematizada de desenvolvimento de software, apoiada em metodologia consolidada, utilizando processo controlado, repetitivo e padronizado de produção. 3 JUSTIFICATIVA
+·
+
+Com o objetivo de aprimorar a coleta de informações estatísticas do poder judiciário, em dezembro de 2007 o Conselho Nacional de Justiça ­ CNJ, editou a resolução nº 46 criando as Tabelas Processuais Unificadas do Poder Judiciário. Em dezembro 2010 o Conselho Nacional do Ministério Público - CNMP editou a resolução nº 63, criando as Tabelas Unificadas do Ministério Público, tendo como objetivo criar uma forma de padronizar e otimizar as atividades do Ministério Público a nível nacional. Nessa resolução nº 63, Art. 2º. é definido que:
+
+
+·
+
+·
+
+"As unidades do Ministério Público da União e dos Estados deverão adequar os seus
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+19
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+sistemas internos e concluir a implantação das Tabelas Unificadas do Ministério Público até 31 de dezembro de 2011, nos termos desta resolução."
+·
+
+A proposta do CNMP prevê que:
+
+
+"...as Tabelas são de observância obrigatória e deverão ser implantadas por todos os ramos do Ministério Público Federal ou Estadual, utilizando-se, preferencialmente, sistemas eletrônicos de controle processual."
+
+·
+
+As Tabelas Unificadas do Ministério Público apresentam uma nova estruturação, bem diferente da estruturação existente hoje nos sistemas que controlam os processos judiciais e extrajudiciais do MP-MT. Diante disso, há a necessidade do redesenvolvimento desses sistemas. Conhecendo e controlando todos os sistemas existentes no MP-MT, o Departamento de Tecnologia de Informação ­ DTI, observando as necessidades existentes do trabalho a ser realizado e visando o menor impacto possível para os usuários dos sistemas, adotou o uso da tecnologia Jboss Seam para substituir aquela atualmente utilizada para desenvolvimento e controle dos sistemas da instituição, tornando-os mais estáveis e com tempo menor de resposta para manutenção em relação ao atual. Considerando a existência de outros sistemas nesta instituição:
+ 
+
+·
+
+·
+
+A equipe DTI deverá mante-los em produção de maneira estável, sendo necessário administrar e monitorar os sistemas e o ambiente de execução/produção destes; A equipe DTI recebe demandas corretivas e evolutivas, originadas das necessidades diárias dos usuários dos sistemas;
+
+·
+
+A equipe de Desenvolvimento de Sistemas do Departamento de Tecnologia da Informação - DTI desta instituição não possui a experiência mínima necessária para o desenvolvimento de um sistema de ALTA complexidade e criticidade sem que seja prejudicado o atendimento dos sistemas atuais até o prazo estipulado de dezembro de 2011.
+
+4 DETALHAMENTO DOS SERVIÇOS 4.1
+·
+
+DESCRIÇÃO DOS SERVIÇOS Serviços de desenvolvimento de sistemas, relacionadas às fases do ciclo de vida de software, incluindo a geração dos artefatos relacionados no item: 4.2. ARTEFATOS GERADOS, e aderente a arquitetura descrita no item 13.2 ARQUITETURA DE SISTEMAS. As fases consideradas neste Termo de Referência são baseadas na Norma ABNT NBR ISO/IEC12207 ­ Processos de Ciclo de Vida de Software e relacionadas na Tabela 1 ­ Ciclo de Vida de Software, que especifica em quais fases a CONTRATADA irá atuar neste projeto. Tabela 1 ­ Ciclo de Vida de Software Fases Responsável pela Execução Elicitação de Requisitos CONTRATANTE
+
+·
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+20
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+Análise de requisitos de sistema CONTRATANTE Projeto de arquitetura de sistema CONTRATANTE (negócio) Análise de requisitos de software CONTRATANTE Projeto (design) de software CONTRATADA (Java EE) Construção de software CONTRATADA Integração de software CONTRATADA Teste de software CONTRATADA Teste de sistema CONTRATANTE Instalação de software CONTRATANTE
+·
+
+A CONTRATADA deverá adotar metodologia de desenvolvimento de sistemas utilizada pela CONTRATANTE, se obrigando a gerar e entregar artefatos listados no item 4.2. ARTEFATOS GERADOS e em conformidade com o item 13.2 ARQUITETURA DE SISTEMAS. ARTEFATOS GERADOS
+
+4.2
+
+4.2.1 Fase Projeto (design) de software
+· · ·
+
+Diagrama de Classes Documento de arquitetura Diagrama de atividades 4.2.2 Fase de Construção de software
+
+· · ·
+
+Códigos fonte Builds e componentes Javadoc 4.2.3 Fase de Teste de Software
+
+· · ·
+
+Plano de testes Programas-fonte de testes unitários e testes de stress Relatórios de execução de testes
+
+5 Medição das demandas
+·
+
+A medição das demandas será elaborada com base na métrica de contagem de Pontos por Função Ajustados, como medida para o esforço a ser realizado, inclusive os serviços de arquitetura e documentação de sistemas de informação. Esses serviços, quando se
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+21
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+configurarem em atividades que não puderem ser medidas em Pontos por Função serão contratados por resultados, e o esforço ficará previamente estabelecido conforme ANEXO A.
+·
+
+No caso da CONTRATADA identificar algum item não passível de medição deverá enviar relatório técnico à CONTRATANTE que avaliará e, se for o caso, irá estipular uma forma de medição para pagamento. A contagem de pontos por função realizada pela CONTRATADA deverá ser assinada por profissional com capacitação em Análise de Pontos de Função. A comprovação será feita mediante a apresentação do certificado ou diploma em nome do profissional.
+
+·
+
+6 CUSTOS DOS SERVIÇOS Os custos dos serviços relacionados ao presente Contrato serão definidos por Ordem de Serviço (OS), sendo o custo de cada OS definido pela seguinte fórmula: COS = CPF × TOS Onde: COS = Custo total da OS; CPF = Custo unitário do ponto de função contratado para execução das fases sob responsabilidade de execução da CONTRATADA; TOS = Tamanho efetivo do serviço especificado na OS, medido em quantidade de pontos de função. 7 FLUXO DE ENCAMINHAMENTO E HOMOLOGAÇÃO DOS SERVIÇOS
+· · ·
+
+Todos os serviços demandados pela CONTRATANTE serão formalizados por meio de Ordens de Serviço (OS), que deverão obedecer ao seguinte fluxo operacional: A CONTRATANTE emite OS especificando o serviço solicitado e relacionando os artefatos que detalham a especificação; A CONTRATADA avalia a demanda e procede a análise preliminar, registrando na OS a métrica em pontos de função, os artefatos que serão produzidos e os prazos de entrega; A CONTRATANTE reavalia a contagem de pontos de função apresentada, os artefatos que serão produzidos e os prazos de entrega, disponibiliza os artefatos conforme descritos em c) Disponibilizar os artefatos do item: 19 OBRIGAÇÕES DA CONTRATADA e autoriza a execução da OS; Em caso da CONTRATANTE discordar da métrica de pontos de função apresentada pela CONTRATADA, poderão em conjunto, CONTRATADA e CONTRATANTE, refazer a métrica de forma a chegarem a um acordo. Ao final desta fase a CONTRATADA deverá fornecer a métrica por estimativa da demanda e a CONTRATANTE deverá emitir o termo de aceite ou não da métrica;
+
+·
+
+·
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+22
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+· · ·
+
+A CONTRATADA executa os serviços e entrega os artefatos produzidos; A CONTRATANTE homologa os artefatos; Depois de homologados todos os artefatos relacionados na OS, inclusive os testes de integração, quando couber, a CONTRATANTE efetua a recontagem de pontos de função e formaliza o aceite definitivo, liberando a OS para faturamento; A CONTRATANTE terá prazo de até 30% (trinta por cento) do prazo acordado para a execução da OS para homologar a demanda. Não-conformidades identificadas na homologação dos artefatos serão corrigidas pela CONTRATADA, sem ônus para a CONTRATANTE, num prazo de até 20% (vinte por cento) do prazo acordado para a execução da OS; O aceite definitivo e liberação da OS para faturamento não exime a CONTRATADA de responsabilidade pela garantia do produto, conforme definida no item GARANTIA.
+
+·
+
+·
+
+8 ESTIMATIVA DE DEMANDA DO OBJETO A demanda a ser contratada foi estimada em 1.200 (mil e duzentos) PFA, sem garantia de consumo mínimo. O prazo será de 12 (doze) meses, podendo ser renovado por iguais e sucessivos períodos, até o limite previsto em lei. A CONTRATANTE possui atualmente uma equipe com capacidade de gerar demanda de no máximo 200 Pontos de Função por mês para a CONTRATADA, este item não obriga a CONTRATADA a realizar consumo mínimo de PFA conforme descrito acima. 9 ACOMPANHAMENTO E FISCALIZAÇÃO DOS SERVIÇOS A execução do Contrato será fiscalizada por Representante da CONTRATANTE, especialmente designado, cumprindo-lhe:
+·
+
+Acompanhar e fiscalizar os serviços, dirimir as dúvidas que surgirem no curso da sua prestação e de tudo dar ciência à CONTRATADA, para a fiel execução dos serviços durante toda a vigência do Contrato; Sem prejuízo da plena responsabilidade da CONTRATADA perante à CONTRATANTE e/ou a terceiros, os serviços estarão sujeitos a mais ampla e irrestrita fiscalização, a qualquer hora e em todos os locais. A presença do servidor designado como Representante não diminuirá a responsabilidade da empresa, por quaisquer irregularidades resultantes de imperfeições técnicas, emprego de material inadequado ou de qualidade inferior, que não implicarão co-responsabilidade da CONTRATANTE ou do servidor designado para a fiscalização; Representante da CONTRATANTE poderá sustar, recusar, mandar refazer quaisquer serviços, que estejam em desacordo com as especificações técnicas, e as constantes do TR, determinando prazo para a correção de possíveis falhas ou substituições de produtos em desconformidade com o solicitado; Eventuais irregularidades de caráter urgente deverão ser comunicadas, por escrito, ao Fiscal da CONTRATANTE com os esclarecimentos julgados necessários e, as informações sobre possíveis paralisações de serviços, a apresentação de relatório técnico ou razões
+
+·
+
+·
+
+·
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+23
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+justificadoras a serem apreciadas e decididas pelo servidor designado;
+·
+
+As decisões e providências sugeridas pela empresa ou julgadas imprescindíveis, que ultrapassarem a competência do Fiscal designado pela CONTRATANTE, deverão ser encaminhadas à autoridade superior, para a adoção das medidas cabíveis; O Fiscal e/ou Servidor designado deverá conferir os relatórios dos serviços executados pela CONTRATADA, por ocasião da entrega das Notas Fiscais ou Faturas, e atestar a prestação dos serviços, quando executados satisfatoriamente, para fins de pagamento; Ao Fiscal do Contrato fica assegurado o direito de exigir o cumprimento de todos os itens constantes do TR, da proposta da CONTRATADA e das cláusulas do futuro contrato, além de solicitar a substituição de qualquer empregado da CONTRATADA que: comprometa a perfeita execução dos serviços; crie obstáculos à fiscalização; não corresponda às técnicas ou às exigências disciplinares do Órgão; e cujo comportamento ou capacidade técnica sejam inadequados à execução dos serviços, que venha causar embaraço à fiscalização em razão de procedimentos incompatíveis com o exercício de sua função.
+
+·
+
+·
+
+10 RESPONSÁVEL PELO CONTRATO E EQUIPE DE SUPERVISÃO
+·
+
+O chefe do Departamento de Tecnologia da Informação da CONTRATANTE será o responsável pela fiscalização, podendo designar responsável pela inspeção, avaliação, aprovação e recebimento dos artefatos e produtos e Ordens de Serviços decorrentes da entrega de itens não mensuráveis. A CONTRATANTE deverá designar o responsável de cada OS e sua equipe de supervisão que farão, ao longo dos trabalhos, o acompanhamento e inspeção das atividades, a avaliação, a aprovação e a entrega dos artefatos e produtos definidos no presente TR ou OS, assim como a garantia de cumprimento dos prazos, utilização da metodologia e do uso dos critérios de qualidade e de segurança requeridos. Poderão ser solicitados, a qualquer tempo, à CONTRATADA, informações e esclarecimentos acerca do trabalho em andamento, bem como as necessárias correções. A participação de representante técnico da CONTRATADA em reuniões de levantamento, testes, entrevistas ou outros eventos de apoio deverá ser precedida de agendamento junto ao Fiscal do contrato.
+
+·
+
+·
+
+·
+
+11 ACEITAÇÃO DOS SERVIÇOS A CONTRATADA deverá garantir:
+· ·
+
+Entrega dos artefatos e produtos demandados nos prazos acordados nas respectivas OS; A qualidade dos artefatos entregues: documentos nos formatos e padrões estabelecidos, produtos de software (componentes de software e funcionalidades de sistemas) aderentes às especificações e sem erros de codificação; Os artefatos entregues deverão estar em total conformidade com o item 13.2. ARQUITETURA DE SISTEMAS;
+
+·
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+24
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+·
+
+Os produtos de softwares entregues deverão estar em total conformidade com os artefatos descritos em c) Disponibilizar os artefatos do item 19 OBRIGAÇÕES DA CONTRATADA; A CONTRATADA deverá, sem ônus para a CONTRATANTE, sempre que solicitada, fornecer todas as informações referentes à execução das OS para a CONTRATANTE. As OS deverão ser encaminhadas pelo DTI à CONTRATADA por Ofício ou sistema informatizado a critério da CONTRATANTE. A CONTRATADA, para cada OS recebida, deverá executar os artefatos encomendados, de acordo com os respectivos cronogramas, gerando produtos dentro dos padrões de qualidade e de compatibilidade técnica, conforme este termo de referência. A CONTRATADA deverá realizar a verificação da qualidade antes da entrega dos produtos gerados para a CONTRATANTE. A CONTRATANTE também realizará a sua verificação da qualidade com vistas ao aceite dos produtos gerados pela CONTRATADA. A CONTRATADA deverá efetuar as correções nas inconformidades encontradas pela CONTRATANTE, dentro dos prazos estabelecidos, sem ônus para a CONTRATANTE. A CONTRATANTE realizará a homologação de cada artefato recebido, constante na OS em no máximo 20 (vinte) dias úteis contados a partir da data da entrega do artefato. Caso um artefato desenvolvido pela CONTRATADA e entregue para homologação não seja aprovado pelo CONTRATANTE, a CONTRATADA deverá promover os ajustes necessários em um prazo correspondente a até 20 % (vinte por cento) do período utilizado pela CONTRATADA para o desenvolvimento do respectivo artefato, após a notificação da CONTRATANTE. Se as correções em inconformidades de um artefato, apontadas pela CONTRATANTE dentro dos prazos estabelecidos na OS gerarem retrabalho, neste ou em outros artefatos, as correções correrão por conta da CONTRATADA sem ônus para a CONTRATANTE.
+
+· · ·
+
+·
+
+· · ·
+
+·
+
+12 TRANSFERÊNCIA DE CONHECIMENTO E TRANSIÇÃO CONTRATUAL
+·
+
+A transferência de conhecimento, no uso das soluções desenvolvidas pela CONTRATADA, deverá ser viabilizado, sem ônus adicionais para a CONTRATANTE, conforme Plano de Transferência de Conhecimento (o qual fará parte do Plano de Implantação do Sistema) fornecido pela CONTRATADA durante a Fase de Homologação, em eventos específicos de transferência de conhecimento, preferencialmente em ambiente disponibilizado pela CONTRATADA, e baseado em documentos técnicos e/ou manuais específicos da solução desenvolvida. O cronograma e horários dos eventos deverão ser previamente aprovados pela CONTRATANTE. A CONTRATADA deverá descrever a metodologia que será utilizada para transferir conhecimento à DTI e aos usuários finais. A transferência de conhecimento, direcionada para os técnicos indicados pela CONTRATANTE deverá ser focado na solução adotada, de forma que haja transferência do conhecimento da tecnologia utilizada no desenvolvimento do sistema. Ao final da transferência, técnicos da CONTRATANTE deverão estar capacitados para realizarem a
+
+· ·
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+25
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+instalação, a manutenção e a evolução das funcionalidades do sistema.
+·
+
+Em ocorrendo nova licitação, com mudança de fornecedor dos serviços, a CONTRATADA signatária do contrato em fase de expiração, assim considerado o período dos últimos três meses de vigência, deverá repassar para a vencedora do novo certame, por intermédio de evento formal, os documentos necessários a continuidade da prestação dos serviços, bem como esclarecer dúvidas a respeito de procedimentos no relacionamento entre a CONTRATANTE e a CONTRATADA.
+
+13 EXIGÊNCIAS TÉCNICAS PARA PRESTAÇÃO DO SERVIÇO 13.1 PREPOSTO TÉCNICO
+
+A CONTRATADA designará 1 (um) profissional para atuar em tempo integral como Preposto Técnico, nas dependências da CONTRATANTE, com as seguintes responsabilidades:
+·
+
+Executar a gestão geral do contrato por parte da CONTRATADA, com a visão de todas as Ordens de Serviço ­ OS em desenvolvimento, objetivando garantir a execução dos serviços dentro dos prazos estabelecidos e atendendo todos os requisitos. Responder, perante a CONTRATANTE, pela execução técnica das Ordens de Serviço. Participar periodicamente, a critério da CONTRATANTE, de reuniões de acompanhamento das atividades referentes as OS em execução, em ambiente de interesse da CONTRATANTE, com representantes da CONTRATANTE; Levar para as reuniões periódicas de acompanhamento, as situações não resolvidas em nível de gerência das OS. O preposto técnico deverá conter experiência em Gerenciamento de Projetos. A comprovação será feita mediante a apresentação do certificado ou diploma em nome do profissional. ARQUITETURA DE SISTEMAS
+
+· ·
+
+· ·
+
+13.2
+
+13.2.1 Linguagem de desenvolvimento
+·
+
+Java 1.6.0_07-b06
+
+13.2.2 Frameworks Java EE · Jboss seam framework 2.1.2.GA
+· · ·
+
+Java Server Faces (jsf) 1.2 Richfaces 3.3.3 Hibernate 3.3 13.2.3 Ferramentas de desenvolvimento e teste
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+26
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+· · · ·
+
+Eclipse Galileo 3.5.2 TestNG ou Junit Jakarta Jmeter 2.4 Apache ant 1.8.1 13.2.4 PLATAFORMA
+
+· · ·
+
+Servidor de aplicação Jboss 5.1.0.GA Linux centos 5.5 SGBD Oracle 10G 13.2.5 MANUTENIBILIDADE
+
+· ·
+
+Considerando que futuras manutenções e correções serão realizadas, devem ser providos códigos fontes de quaisquer componentes ou frameworks utilizados; Considerando a possibilidade de crescimento dos sistemas, mesmo após estes serem implantados, a arquitetura deve permitir que novos componentes de software e novas funcionalidades sejam adicionadas aos sistemas; Tecnologias como componentes, classes ou frameworks que não sejam de código fonte aberto, devem ser avaliadas e autorizadas pela CONTRATANTE antes de sua utilização nos projetos. 13.2.6 USABILIDADE E ACESSIBILIDADE
+
+·
+
+· ·
+
+Compatibilidade com o navegadores Internet Explorer 6.0, 7.0 e 8.0 ou superior; A interface e navegabilidade do sistema deve ser intuitiva 13.2.7 DESEMPENHO
+
+· ·
+
+O sistema deverá ter capacidade para atender uma demanda de 1500 usuários, com picos de 300 usuários concorrentes. Deverá apresentar tempo de resposta de no máximo conforme:
+  
+
+Atualizações: 3 segundos Consultas: 5 segundos Relatórios: 30 segundos
+
+14 QUALIFICAÇÃO TÉCNICA DOS PROFISSIONAIS
+·
+
+Os profissionais a serem envolvidos nos serviços objeto deste Termo de Referência, deverão estar capacitados nos recursos que compõem o ambiente de desenvolvimento
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+27
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+da CONTRATANTE.
+·
+
+A CONTRATADA deverá comprovar que os profissionais envolvidos nos serviços apresentam qualificação mínima relacionada abaixo, comprovada por intermédio de contrato de trabalho, diploma, certificado ou atestado de entidade idônea em nome do profissional e da devida comprovação de que faz parte da equipe da licitante (contrato de prestação de serviço ou relação de empregados (RE) do mês subsequente à assinatura do contrato). Os requisitos obrigatórios foram colocados para orientar a CONTRATADA quanto ao perfil ideal para a CONTRATANTE e qualificação geral para executar os serviços.
+
+Tabela 2 ­ Perfil da Equipe Descrição Gerente de Projeto Experiência exigida
+· · ·
+
+Curso superior completo na área de informática ou qualquer curso superior com especialização na área de informática; Experiência de no mínimo 1 ano em gerenciamento de projetos e equipes de desenvolvimento de sistemas; Experiência de no mínimo 1 ano em contagem de pontos de função. Experiência mínima de 2 anos com desenvolvimento de softwares java EE para ambiente web com o paradigma da orientação a objetos. Experiência comprovada com os Frameworks Java EE relacionados no item 13.2. ARQUITETURA DE SISTEMAS. Experiência em desenvolvimento utilizando os servidores de aplicação Tomcat ou Jboss, sistema de controle de versões subversion para ambientes unix/linux. Experiência mínima de 2 anos com desenvolvimento de softwares java EE para ambiente web com o paradigma da orientação a objetos. Experiência comprovada com os Frameworks Java EE descritos no item 13.2.2 FRAMEWORKS JAVA EE. Experiência comprovada com as Ferramentas de desenvolvimento e teste relacionadas no item 13.2.3 FERRAMENTAS DE DESENVOLVIMENTO E TESTE. Experiência comprovada com a Plataform descrita no item 13.2.4 PLATAFORMA. Capacidade de criação de soluções para problemas complexos de negócio, desenvolvimento de componentes de software e componentes de interface de usuário baseados na web utilizando tecnologia ajax. Capacidade de identificar e solucionar problemas de performance e criar testes de stress.
+
+Desenvolvedor Pleno
+
+Java
+
+EE
+
+·
+
+· ·
+
+Desenvolvedor Sênior
+
+Java
+
+EE
+
+·
+
+· ·
+
+· ·
+
+·
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+28
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+15 LOCAL DE EXECUÇÃO DOS SERVIÇOS Os serviços referentes ao objeto deste termo de referência, deverão ser executados no Departamento de Tecnologia da Informação (DTI), da Procuradoria Geral de Justiça, localizado na Rua QUATRO, s/nº, Centro Político Administrativo, Cuiabá / MT, CEP: 78049-921. 16 GARANTIA
+·
+
+São considerados defeitos as implementações que estejam em desacordo com os requisitos estabelecidos ou com as especificações do sistema disponibilizados pela CONTRATADA conforme descrito em descritos em c) Disponibilizar os artefatos do item: 19 OBRIGAÇÕES DA CONTRATADA e as falhas ou funcionamentos irregulares identificados na operação normal do produto ou até mesmo em não-conformidade com o item 13.2 ARQUITETURA E SISTEMAS. A empresa CONTRATADA deverá apresentar garantias de funcionamento dos produtos desenvolvidos pelo período mínimo de 90 (noventa) dias, a contar da data de seu recebimento definitivo, comprometendo-se a efetuar as necessárias correções, sem ônus adicionais para a CONTRATANTE, durante este período. Este período servirá para avaliação, por parte da CONTRATANTE, dos artefatos recebidos, quando se verificará a aderência às normas, consistência e estabilidade dos rodutos entregues. Durante o período de 90 (noventa) dias acima mencionado, qualquer defeito nos produtos ou não correspondência aos requisitos especificados deverão ser reparados sem ônus para a CONTRATANTE. A garantia deverá incluir todos os produtos desenvolvidos. As manutenções poderão ser motivadas por eventuais impropriedades detectadas nos procedimentos desenvolvidos. Neste caso, caberá uma decisão conjunta, devidamente documentada, ressaltando os aspectos positivos ou imprescindíveis que justifiquem o empreendimento. A documentação deverá ser atualizada para refletir eventuais mudanças.
+
+·
+
+·
+
+17 SUPORTE TÉCNICO
+·
+
+O suporte técnico dos produtos deverá ser prestado durante todo o período de garantia dos produtos já entregues, mediante as condições que se seguem, sem qualquer ônus adicional para a CONTRATANTE. A CONTRATADA deverá especificar a equipe encarregada do atendimento e do suporte técnico dos produtos, fornecendo nomes, telefones, fax e endereços eletrônicos (email) ou sistema para o encaminhamento de chamadas remotas da equipe da CONTRATANTE. O suporte técnico será efetuado mediante contato telefônico, e-mail, presencialmente no ambiente da CONTRATANTE para:
+ 
+
+·
+
+· ·
+
+Resolução de problemas e dúvidas de configuração e utilização dos produtos; Correção de erros de quaisquer etapas do processo de desenvolvimento ou implantação;
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+29
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+
+
+Diagnóstico de problemas, com a correção dos erros detectados, e também a entrega da documentação atualizada das alterações efetuadas;
+
+18 PROPRIEDADES DO SOFTWARE
+·
+
+Serão de propriedade da CONTRATANTE todos os produtos gerados na vigência deste contrato, incluindo os dados, documentos e elementos de informação pertinentes à tecnologia de concepção, desenvolvimento, fixação em suporte físico de qualquer natureza e aplicação, tais como produtos de softwares, programas-fonte, classes e componentes, relatórios, diagramas, fluxogramas, modelos e arquivos, em conformidade com o artigo 111 da Lei 8666/93, com a Lei 9609/98, que dispõe sobre propriedade intelectual de programa de computador e com a Lei 9610/98, que dispõe sobre direito autoral, sendo vedada qualquer comercialização destes por parte da CONTRATADA . A utilização de soluções ou componentes proprietários da CONTRATADA ou de terceiros na construção dos programas ou quaisquer artefatos relacionados ao presente contrato, que possam afetar a propriedade do produto, deverá ser formalmente autorizada pela CONTRATANTE.
+
+·
+
+19 OBRIGAÇÕES DA CONTRATADA A empresa CONTRATADA deve cumprir fielmente as condições e exigências contidas neste Termo de Referência, e em especial:
+·
+
+· ·
+
+·
+
+·
+
+·
+
+·
+
+Executar os serviços por intermédio de profissionais qualificados, com experiência e conhecimento compatíveis com os serviços a serem realizados, conforme este TR, sujeitos à comprovação pela CONTRATADA; Submeter as decisões e os documentos técnicos dos Projetos à aprovação da DTI; Designar formalmente funcionários encarregados, capacitados, e aceitos pela CONTRATANTE, para supervisão permanente, durante todo o período de vigência do contrato, para representá-la técnica e administrativamente, ou fornecer informações sobre os serviços, sempre que necessário. A empresa deverá apresentar Preposto Técnico, a ser mantido no local dos serviços, para representá-la durante a execução do Contrato. Apresentar, por ocasião da assinatura do contrato, relação nominal dos empregados, acompanhada dos documentos que os identifiquem com qualificação para a prestação dos serviços; Para a assinatura do Contrato e para toda alteração de profissionais feita durante a sua vigência, a empresa deverá comprovar o perfil e experiência mínimos exigidos dos profissionais envolvidos na execução dos serviços mediante a apresentação de diplomas, certificados e currículo, inclusive comprovação em Carteira de Trabalho e/ou outro documento contratual, devendo o Fiscal do Contrato verificar o cumprimento dos requisitos; Substituir, imediatamente, a critério da CONTRATANTE, o funcionário do Quadro de Pessoal que se afastar, seja por motivo de férias, licença médica, licença paternidade etc, por outro profissional que reúna as mesmas qualificações do afastado, a serem conferidas pela Fiscalização; Substituir, imediatamente, a critério da CONTRATANTE, o profissional que seja considerado inapto para os serviços a serem prestados, seja por incapacidade técnica, atitude inconveniente ou que venha a transgredir as normas previstas no Contrato;
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+30
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+·
+
+· ·
+
+·
+
+·
+
+· ·
+
+Manter, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas pela CONTRATADA, todas as condições de habilitação e qualificação exigidas na licitação; Proibir a veiculação de publicidade ou qualquer outra informação acerca do objeto do contrato, salvo se houver prévia autorização da Administração do CONTRATANTE; Reparar, corrigir, remover e reconstruir, às suas expensas, no total ou em parte, os serviços efetuados referentes ao objeto em que se verifiquem vícios, defeitos ou incorreções resultantes da execução, conforme estabelecido neste TR; Manter sigilo, sob pena de responsabilidade civil, penal e administrativa, sobre todos os assuntos de interesse da CONTRATANTE ou de terceiros, que tomar conhecimento em razão da execução do objeto do Contrato, devendo orientar seus empregados nesse sentido. Os empregados deverão assinar Termo de Manutenção de Sigilo junto à CONTRATADA; Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando forem vítimas os seus profissionais no desempenho dos serviços ou em conexão com eles, ainda que acontecido em visita às dependências da CONTRATANTE; Comunicar por escrito qualquer anormalidade, prestando à CONTRATANTE os esclarecimentos julgados necessários; Orientar e exigir de seus profissionais:  Preservar a integridade e guardar sigilo das informações de que fazem uso, bem como zelar e proteger os respectivos recursos de processamento de informações;  Cumprir a política de segurança da informação, sob pena de incorrer nas sanções legais cabíveis;  Não compartilhar, sob qualquer forma, informações sigilosas com outros que não tenham necessidade de conhecer.
+
+20 OBRIGAÇÕES DA CONTRATANTE
+· · ·
+
+Disponibilizar infraestrutura física de hardware (desktops e servidores), conectividade de rede e mobiliário para a execução das atividades do projeto pela CONTRATADA. Disponibilizar infraestrutura lógica, repositórios para armazenamento de códigos fontes, sistemas de controle de versões, sistema de banco de dados. Disponibilizar os artefatos:
+   
+
+Casos de uso (obrigatório) Protótipo funcional (obrigatório) DER ­ Diagrama de Entidade e Relacionamento (obrigatório) Notações BPMN (quando necessário)
+
+· · ·
+
+Realizar testes dos componentes e funcionalidades desenvolvidos pela CONTRATADA e em caso de falhas, informar a CONTRATADA sobre o erros ocorridos. Manter pessoal técnico especializado para prestar esclarecimentos sobre os processos de negócio e requisitos das OS emitidas. Indicar pessoal técnico para acompanha o projeto e absorver conhecimento das tecnologias utilizadas no projeto.
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+31
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+· ·
+
+Proporcionar todas as facilidades para que a empresa possa desempenhar seus serviços dentro das normas e condições contratuais. Comunicar à empresa CONTRATADA as eventuais irregularidades observadas na execução dos serviços e/ou nos materiais entregues para adoção das providências saneadoras; Efetuar o pagamento na forma e nos prazos convencionados no Contrato; Aplicar as penalidades previstas para o caso do não cumprimento de cláusulas contratuais ou aceitar as justificativas apresentadas pela empresa
+
+· ·
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+32
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+ANEXO A TABELA DE CONTAGENS DE ESFORÇO POR TIPO DE SERVIÇO E TABELA DE ITENS NÃO MENSURÁVEIS EM PFA CONTRATANTE adota a Tabela de Itens não mensuráveis para a execução dos serviços de manutenção (corretiva, adaptativa, perfectiva) e documentação de sistemas de informação e portais, apresentada a seguir para calcular o esforço de atividades que não são passíveis de serem mensuradas pela técnica de Análise de Pontos de Função.
+
+Código
+
+Item não Mensurável
+
+Percentual Pontos Função
+
+de de
+
+01
+
+Alterações referentes aos layouts de telas, tais como: 0,04 de um ponto · Mudança de posição de campos em telas, em de função, para relatórios ou em layout de arquivos, sem que haja cada elemento. alteração em elementos de dados, arquivos referenciados ou informações de controle; · Inclusão, alteração ou exclusão de imagem; · Divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade; · Atualização de rótulos de dados sem que haja mudança de funcionalidade. Alterações referentes a Campos e Variáveis: · Inclusão, alteração ou exclusão em telas ou relatórios de campos e variáveis, sem que tenha havido mudança na funcionalidade; · Padronização de nom enclatura de campos e variáveis em programas e tabelas. 0,08 de um ponto de função, para cada dados/campos.
+
+02
+
+03
+
+Alterações de texto de mensagens de retorno ao usuário, 0,04 de um ponto desde que não façam parte de um ALI ou AIE. de função, para cada mensagem Alterações referentes a criação ou exclusão de telas para: · Adição ou reestruturação de menus de navegação estáticos; · Adição ou reestruturação de Ajuda (help estático); · Criação, alteração ou exclusão de páginas estáticas. 0,2 de um ponto de função, para Alteração e/ou Criação de uma tela. 0,1 de um ponto de função, para Exclusão de uma tela .
+
+04
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+33
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+05
+
+Alterações referentes à inclusão, alteração ou exclusão de 0,01 de um ponto dados pertencentes a listas (combobox), componentes de função, para corporativos ou tabelas físicas já existentes. cada dados/campos Alterações referentes a mudança de valores dos parâmetros 0,01 de um ponto (estáticos), sem que a lógica de processamento tenha sido de função, para alterada. cada parâmetro. Alterações referentes a criação de mais de uma camada de Será remunerado apresentação (diferente), desde que sejam as mesmas em 30% do funcionalidades com padrões visuais distintos. tamanho da Funcionalidade original . Alterações referentes à DDL em tabelas CODE TABLE e 1 ponto de função respectivas funcionalidades, de sistemas em produção (não para Inclusão de se aplica ao desenvolvimento de novos sistemas nem as tabela; atividades de "popular" a tabela), sendo previstas as seguintes atividades e seus percentuais de ponto de função: · Inclusão de tabela e funcionalidades; · Alteração da tabela e funcionalidades; · Excluir tabela e funcionalidades; · Inclusão de funcionalidade; · Alteração de funcionalidade; · Exclusão de funcionalidade.
+
+06
+
+07
+
+08
+
+Tabela: Itens não mensuráveis em PFA. No caso da CONTRATADA identificar algum item não passível de pontuação e que não conste da referida tabela, de verá ser enviado relatório técnico à CONTRATANTE que avaliará e, se for o caso, incluirá o novo item na tabela.
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+34
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+PREGÃO PRESENCIAL Nº 020/2011/MP-MT
+ANEXO II MODELO DE PROPOSTA DE PREÇOS
+
+Item
+
+Descrição Prestação de serviços de arquitetura e desenvolvimento de sistema de informação, manutenção corretiva, adaptativa, evolutiva, perfectiva e documentação. Valor Global
+
+Unidade
+
+Qtd.
+
+Valor Unitário
+
+Valor (R$)
+
+1
+
+PFA
+
+1200
+
+RAZÃO SOCIAL ENDEREÇO: CARIMBO DO CNPJ
+
+Nº C.N.P.J.
+
+TELEFONE: Nº FAX: BANCO: COD. AGÊNCIA: Nº C.CORRENTE: INSC. ESTADUAL: E-MAIL:
+
+LOCAL: DATA: APOSIÇÃO DO CARIMBO E ASSINATURA VALIDADE DA PROPOSTA ATÉ: ___/___/2011 (60 dias no mínimo).
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+35
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+PREGÃO PRESENCIAL Nº 020/2011/MP-MT ANEXO III MODELO DE PROCURAÇÃO
+
+Por meio deste instrumento particular, a Empresa (qualificação da Empresa), por intermédio do Sr. XXXX(qualificação), nomeia e constitui seu bastante procurador, o Sr. .........(nome completo do outorgado, (naturalidade, estado civil, profissão, carteira de identidade, CPF, endereço), com poderes para praticar todos os atos relativos à licitação na modalidade Pregão Presencial nº 020/2011/MP-MT, notadamente, para formular ofertas escritas e verbais, negociar preços, assinar documentos de habilitação, atas e instrumento de compromisso, interpor recursos e renunciar ao direito de propôlos, enfim todos e quaisquer atos indispensáveis ao bom e fiel cumprimento do presente mandato. (MUNICÍPIO/UF), ____ de ___________ de 2011
+
+________________________________________________ CARIMBO E ASSINATURA DO RESPONSÁVEL PELA EMPRESA (firma reconhecida)
+
+Obs: Deverá acompanhar esta procuração uma cópia autenticada, pois ficará retida no processo.
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+36
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+PREGÃO PRESENCIAL Nº 020/2011/MP-MT ANEXO IV MODELO DE CARTA DE PREPOSIÇÃO . A licitante ___________________________, inscrita no CNPJ pelo nº ____________________, com sede na Av./Rua_______________________, nomeia o(a) Sr.(a)______________________, portador(a) da Cédula de Identidade nº ________________________ e CPF nº __________________________, como seu preposto na licitação instaurada pelo Ministério Público do Estado de Mato Grosso, na modalidade Pregão Presencial nº 020/2011, para tanto, autoriza-o a apresentar proposta, formular lances verbais, negociar preços, declarar a intenção de recursos e praticar todos os demais atos inerentes ao certame. (MUNICÍPIO/UF), ___ de ________ de 2011
+
+_____________________________________ Assinatura do Representante Legal da Licitante
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+37
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+PREGÃO PRESENCIAL Nº 020/2011/MP-MT ANEXO V DECLARAÇÃO DE CUMPRIMENTO DOS REQUISITOS DE HABILITAÇÃO (entregue FORA dos envelopes "A" e "B") A empresa (nome da empresa), inscrita no CNPJ/MF Nº (n° do CNPJ), sediada em (endereço completo), por intermédio de seu representante legal o(a) Sr(a). (nome do representante), portador(a) da Carteira de Identidade n° (n° da CI) e do CPF n° (n° do CPF), DECLARA, sob as penas da Lei que: a. Terá a disponibilidade, caso venha a vencer o certame, de executar o objeto do PREGÃO PRESENCIAL Nº 020/2011, de acordo com a quantidade e especificações constantes no Edital e seus Anexos. b. Cumpre todos os requisitos de habilitação exigidos no Edital, ressalvadas as condições asseguradas pela Lei Complementar nº 123/2006.
+
+(Local e Data)
+
+(Nome e assinatura do representante legal e carimbo de CNPJ da empresa)
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+38
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+PREGÃO PRESENCIAL Nº 020/2011/MP-MT
+ANEXO VI MODELO DE DECLARAÇÃO DIVERSA A empresa (nome da empresa), inscrita no CNPJ/MF pelo nº (n° do CNPJ), sediada em (endereço completo), por intermédio de seu representante legal, Sr. (nome do representante), portador da Carteira de Identidade n° (n° da CI) e do CPF n° (n° do CPF), DECLARA, sob as penas da Lei que: a. Não está em inadimplência com execução de serviços, nem descumpriu qualquer Contratação com a Administração Pública Federal, Estadual ou Municipal, ou seja, não foi declarada inidônea pelo Poder Público, em qualquer esfera; b. Inexiste, até a presente data, fato superveniente impeditivo de habilitação, e está ciente da obrigatoriedade de declará-los posteriormente caso venham a ocorrer, ressalvadas as condições especiais asseguradas pela Lei Complementar nº 123/2006; c. Inexiste em seu quadro de funcionários menores de 18 anos em trabalho noturno, perigoso ou insalubre; menor de 16 anos, salvo na condição de aprendiz, a partir de 14 anos, nos termos do inciso XXXIII, do artigo 7° da Constituição Federal, inciso V, artigo 27 da Lei nº 8666/93.
+
+(Local e Data)
+
+(Nome e assinatura do representante legal e carimbo de CNPJ da empresa)
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+39
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+PREGÃO PRESENCIAL Nº 020/2011/MP-MT ANEXO VII MODELO DE DECLARAÇÃO PARA "ME" E "EPP"
+
+(nome/razão social) __________________, inscrita no CNPJ Nº _________________, por intermédio de seu representante legal, o(a) Sr(a) __________________________, portador(a) da Cédula de Identidade nº _____________________ e CPF nº _______________________, DECLARA, sob pena das sanções administrativas cabíveis e sob as penas da lei, ser microempresa ou empresa de pequeno porte nos termos de legislação vigente, não possuindo nenhum dos impedimentos previstos no §4º do artigo 3º da lei Complementar nº 123/06.
+
+(MUNICÍPIO/UF), ___ de ________ de 2011
+
+_____________________________________ Assinatura do Representante Legal da Licitante
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+40
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+PREGÃO PRESENCIAL Nº 020/2011/MP-MT
+ANEXO VIII MINUTA DO CONTRATO
+
+CONTRATO Nº ___ /2011 PREGÃO PRESENCIAL Nº 020/2011 PROCESSO ADMINISTRATIVO Nº 003071-001/2011 Pelo presente instrumento, o Ministério Público do Estado de Mato Grosso, por intermédio da Procuradoria Geral de Justiça - PGJ, inscrita no CNPJ pelo nº. 03.507.415/0018-92, com sede na Rua Seis, S/Nº, Centro Político e Administrativo ­ CPA, CEP 78.050-070, Cuiabá - Mato Grosso, neste ato representada pelo seu Exmo. Senhor SecretárioGeral de Administração do Ministério Público, ____________________, (nacionalidade), (estado civil), (profissão), portador da Carteira de Identidade nº ___ SSP/MT e do CPF nº _____________, residente e domiciliado na ___________, no pleno exercício de suas atribuições legais e regulamentares, doravante denominado apenas por CONTRATANTE, e a empresa ________________, inscrita no CNPJ pelo nº. __________________, com sede na ________________________, representada neste ato pelo seu ________________, Sr. ____________________, (nacionalidade), (estado civil), (profissão), portador da Carteira de Identidade nº ________ SSP/__ e do CPF nº______________, residente e domiciliado na ___________, doravante denominada CONTRATADA, considerando o que tudo consta no Processo nº 003071-001/2011, inerente ao procedimento licitatório na modalidade de Pregão Presencial n°. 020/2011, resolvem celebrar o presente Contrato, sujeitando-se as disposições ali expressas, segundo os princípios e exigências da Lei nº. 10.520/2003, cominada com a Lei nº 8.666/93 e alterações, e ainda nos termos das cláusulas e condições a seguir relacionadas. CLÁUSULA PRIMEIRA ­ DO OBJETO 1.1. Constitui objeto do presente contrato a CONTRATAÇÃO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS DE ARQUITETURA E DESENVOLVIMENTO DE SISTEMA DE INFORMAÇÃO, MANUTENÇÃO CORRETIVA, ADAPTATIVA, EVOLUTIVA, PERFECTIVA E DOCUMENTAÇÃO. CLÁUSULA SEGUNDA CONTRATUAIS DO AMPARO LEGAL E DA SUJEIÇÃO ÀS NORMAS LEGAIS E
+
+2.1. A legislação aplicável a este Contrato será a Lei nº. 10.520/2003, a Lei nº 8.666/93, atualizadas, demais disposições aplicáveis à Licitação e Contratos Administrativos, bem como as Cláusulas deste instrumento. 2.2. O objeto deste contrato será executado na forma de execução indireta, no regime empreitada por preço unitário, conforme determina o art. 6º, inciso VIII, alínea "b" e o art. 10, inciso II, alínea "b" da Lei nº 8.666/93. CLÁUSULA TERCEIRA ­ DOS DOCUMENTOS APLICÁVEIS
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+41
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+3.1. Fazem parte integrante deste Contrato, independentemente de sua transcrição, a proposta da CONTRATADA, o Edital e seus Anexos, e demais elementos constantes do Processo PGJ/MT n°. 003071-001/2011. CLÁUSULA QUARTA ­ DAS OBRIGAÇÕES DA CONTRATADA 4.1. Constituem obrigações da CONTRATADA, além das demais previstas no Edital do qual derivou o presente contrato, ou dele decorrentes: 4.1.1. Comparecer para assinatura do contrato, no prazo de até 3 (três) dias úteis, contados da publicação da homologação e adjudicação, salvo se outro prazo for determinado, formalmente, pela Administração, sob pena de decair do direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei 8.666/93 e modificações da Lei 8.883/94; podendo, a critério da Administração, o prazo ser prorrogado; 4.1.2. Fornecer ou executar, conforme o caso, o objeto adjudicado no presente edital, no local, preços e nas condições indicadas neste edital; 4.1.3. Estar, como condição para assinatura do Contrato, com toda documentação exigida para participação deste certame em situação regular e apresentar todas as ALTERAÇÕES SOFRIDAS pelo contrato social ou documento equivalente, conforme o caso. 4.1.4. Encaminhar em até 48 (quarenta e oito horas) a proposta ajustada ao último lance, formalizada e preenchida adequadamente. Devendo ser assinada pelo representante legal, consignando o número do lote ou item (guardada a perfeita caracterização do objeto licitado, em conformidade com as descrições contidas no edital e seus anexos); 4.1.5. Retirar a nota de empenho no prazo de 24 horas a contar da assinatura do contrato, salvo se outra data for firmada pela contratante; 4.1.6. Cumprir, fielmente, suas prestações contratuais em conformidade com os termos deste Edital e dos seus anexos, e da proposta; 4.1.7. Responder administrativa, civil e penalmente por quaisquer danos materiais ou pessoais ocasionados à Contratante e/ou a terceiros, por seus empregados, em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, quando da execução dos serviços, inclusive por acidentes que causem invalidez permanente ou temporária, morte, perda ou destruições isentando a CONTRATANTE de todas e quaisquer reclamações cíveis, criminais ou trabalhistas que possam surgir; não excluindo ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento pela contratante, independentemente de outras cominações contratuais ou legais a que estiver sujeita; 4.1.7.1. O valor correspondente ao ressarcimento dos danos causados em bens de propriedade da CONTRATANTE, será debitado de acordo com o preço de mercado, no primeiro pagamento a que a empresa fizer jus ou, em função do montante ou interesse administrativo, recolhimento por depósito a favor da CONTRATANTE através de DARF, ou descontado da garantia; 4.1.8. Assumir a responsabilidade por todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria; 4.1.9. Assumir, ainda, a responsabilidade pelos encargos fiscais e comerciais resultantes da
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+42
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+adjudicação do objeto deste Pregão; 4.1.10. Não opor embaraços ao acompanhamento e à fiscalização da execução contratual por parte do representante do MP-MT, devendo prestar todas as informações requeridas e atender às determinações do fiscal para a correção de eventuais vícios encontrados; 4.1.11. Cumprir outras determinações previstas na Lei n° 8.666/93 ; 4.1.12. Manter, durante a execução do contrato, todas as condições habilitatórias exigidas nesta licitação. 4.1.13. A equipe responsável deverá prestar a consultoria nas dependências desta Procuradoria Geral de Justiça; 4.1.14. Cumprir todas as obrigações descritas nos anexos deste edital (Termo de Referência e Contrato), como se transcritas aqui estivessem; 4.1.15. Acatar a qualquer momento, devido a uma real necessidade levantada pela fiscalização, solicitações de mudança do(s) funcionários responsáveis pelos serviços; 4.1.16. Manter, durante toda a execução do contrato, um preposto que atenderá de prontidão às necessidades contratuais junto ao fiscal da contratante; 4.1.17. Responsabilizar-se por eventuais paralisações dos serviços por parte dos seus empregados, sem repasse de qualquer ônus ao Contratante, para que não haja interrupção dos serviços prestados; 4.1.18. Repor, no prazo máximo de 5 (cinco) dias úteis contados a partir da respectiva intimação, após a devida comprovação, garantida previamente ampla defesa e contraditório, qualquer objeto da Contratante e/ou de terceiros que tenha sido danificado ou extraviado por seus empregados; 4.1.19. Atender, imediatamente, as solicitações da Contratante, apresentadas por escrito pelo gestor do contrato, quanto às substituições de empregado(s) considerando(s) inadequados para a prestação dos serviços ou conduta inconveniente; 4.1.20. Não transferir a outrem, por qualquer forma, nem mesmo parcialmente, nem subcontratar, qualquer das prestações e serviços a que está obrigada por força do presente Contrato, sem prévio assentimento escrito da CONTRATANTE; 4.1.21. Comprovar, sempre que solicitado pela PGJ/MP-MT, a quitação das obrigações trabalhistas, tributárias e, mensalmente, o recolhimento das contribuições sociais (Fundo de Garantia por Tempo de Serviço e Previdência Social) pertinentes aos seus empregados alocados no serviço decorrente da execução do Contrato, como condição à percepção do valor faturado; 4.1.22. Aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessárias em até 25% (vinte e cinco por cento) do valor inicial atualizado do Contrato. 4.1.23. Executar os serviços por intermédio de profissionais qualificados, com experiência e conhecimento compatíveis com os serviços a serem realizados, conforme Termo de Referência ­ Anexo I do Edital, sujeitos à comprovação pela CONTRATADA;
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+43
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+4.1.24. DTI;
+
+Submeter as decisões e os documentos técnicos dos Projetos à aprovação da
+
+4.1.25. Designar formalmente funcionários encarregados, capacitados, e aceitos pela CONTRATANTE, para supervisão permanente, durante todo o período de vigência do contrato, para representá-la técnica e administrativamente, ou fornecer informações sobre os serviços, sempre que necessário. A empresa deverá apresentar Preposto Técnico, a ser mantido no local dos serviços, para representá-la durante a execução do Contrato. 4.1.26. Apresentar, por ocasião da assinatura do contrato, relação nominal dos empregados, acompanhada dos documentos que os identifiquem com qualificação para a prestação dos serviços; 4.1.27. Para a assinatura do Contrato e para toda alteração de profissionais feita durante a sua vigência, a empresa deverá comprovar o perfil e experiência mínimos exigidos dos profissionais envolvidos na execução dos serviços mediante a apresentação de diplomas, certificados e currículo, inclusive comprovação em Carteira de Trabalho e/ou outro documento contratual, devendo o Fiscal do Contrato verificar o cumprimento dos requisitos; 4.1.28. Substituir, imediatamente, a critério da CONTRATANTE, o funcionário do Quadro de Pessoal que se afastar, seja por motivo de férias, licença médica, licença paternidade etc, por outro profissional que reúna as mesmas qualificações do afastado, a serem conferidas pela Fiscalização; 4.1.29. Substituir, imediatamente, a critério da CONTRATANTE, o profissional que seja considerado inapto para os serviços a serem prestados, seja por incapacidade técnica, atitude inconveniente ou que venha a transgredir as normas previstas no Contrato; 4.1.30. Manter, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas pela CONTRATADA, todas as condições de habilitação e qualificação exigidas na licitação; 4.1.31. Proibir a veiculação de publicidade ou qualquer outra informação acerca do objeto do contrato, salvo se houver prévia autorização da Administração do CONTRATANTE; 4.1.32. Reparar, corrigir, remover e reconstruir, às suas expensas, no total ou em parte, os serviços efetuados referentes ao objeto em que se verifiquem vícios, defeitos ou incorreções resultantes da execução, conforme estabelecido no Termo de Referência ­ Anexo I do Edital; 4.1.33. Manter sigilo, sob pena de responsabilidade civil, penal e administrativa, sobre todos os assuntos de interesse da CONTRATANTE ou de terceiros, que tomar conhecimento em razão da execução do objeto do Contrato, devendo orientar seus empregados nesse sentido. Os empregados deverão assinar Termo de Manutenção de Sigilo junto à CONTRATADA; 4.1.34. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando forem vítimas os seus profissionais no desempenho dos serviços ou em conexão com eles, ainda que acontecido em visita às dependências da CONTRATANTE; 4.1.35. Comunicar por escrito qualquer anormalidade, prestando à CONTRATANTE os esclarecimentos julgados necessários;
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+44
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+4.1.36.
+ 
+
+Orientar e exigir de seus profissionais: Preservar a integridade e guardar sigilo das informações de que fazem uso, bem como zelar e proteger os respectivos recursos de processamento de informações; Cumprir a política de segurança da informação, sob pena de incorrer nas sanções legais cabíveis;
+
+4.1.37. Não compartilhar, sob qualquer forma, informações sigilosas com outros que não tenham necessidade de conhecer. CLÁUSULA QUINTA ­ DAS OBRIGAÇÕES DA CONTRATANTE 5.1. Constituem obrigações da CONTRATANTE, além das demais previstas neste Contrato, ou dele decorrentes: 5.1.1. Assegurar-se da boa execução dos serviços, verificando sempre o seu bom desempenho; 5.1.2. Notificar, formal e tempestivamente, a CONTRATADA sobre as irregularidades observadas no cumprimento deste Contrato; 5.1.3. Fiscalizar o presente Contrato por meio do setor competente da CONTRATANTE; 5.1.4. Emitir pareceres em todos os atos relativos à execução do Contrato, em especial, aplicação de sanções, alterações e repactuações do Contrato; 5.1.5. Prestar as informações e os esclarecimentos que venham a serem solicitados pela CONTRATADA; 5.1.6. Fiscalizar o cumprimento das obrigações assumidas pela Contratada, inclusive quanto à continuidade da prestação dos serviços ou fornecimento de produtos, que, ressalvados os casos de força maior, justificados e aceitos pela Contratante, não deve ser interrompida; 5.1.7. Atestar as notas fiscais, para tanto, verificando se a empresa mantém a regularidade fiscal, ou seja, sem que todas as certidões estejam regulares, as notas fiscais não poderão ser atestadas. 5.1.8. Efetuar os pagamentos devidos; 5.1.9. Disponibilizar infraestrutura física de hardware (desktops e servidores), conectividade de rede e mobiliário para a execução das atividades do projeto pela CONTRATADA. 5.1.10. Disponibilizar infraestrutura lógica, repositórios para armazenamento de códigos fontes, sistemas de controle de versões, sistema de banco de dados. 5.1.11. Disponibilizar os artefatos:
+   
+
+Casos de uso (obrigatório) Protótipo funcional (obrigatório) DER ­ Diagrama de Entidade e Relacionamento (obrigatório) Notações BPMN (quando necessário)
+
+5.1.12. Realizar testes dos componentes e funcionalidades desenvolvidos pela CONTRATADA e em caso de falhas, informar a CONTRATADA sobre o erros ocorridos. 5.1.13. Manter pessoal técnico especializado para prestar esclarecimentos sobre os processos
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+45
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+de negócio e requisitos das OS emitidas. 5.1.14. Indicar pessoal técnico para acompanha o projeto e absorver conhecimento das tecnologias utilizadas no projeto. 5.1.15. Proporcionar todas as facilidades para que a empresa possa desempenhar seus serviços dentro das normas e condições contratuais. 5.1.16. Comunicar à empresa CONTRATADA as eventuais irregularidades observadas na execução dos serviços e/ou nos materiais entregues para adoção das providências saneadoras; CLÁUSULA SEXTA - DO VALOR DO CONTRATO 6.1. O valor do presente Contrato é de R$ (), com a proposta comercial apresentada pela contratada; CLÁUSULA SÉTIMA ­ DOS RECURSOS ORÇAMENTÁRIOS 7.1. As despesas decorrentes do presente instrumento de Contrato correrão por conta da seguinte Dotação Orçamentária; Projeto/Atividade: Natureza da Despesa: Fonte de Recursos: 35479900 33903900 100
+
+CLÁUSULA OITAVA - DO PAGAMENTO E DO REAJUSTE 8.1. O pagamento dos serviços executados será efetuado pelo Departamento Financeiro da Procuradoria Geral de Justiça, por meio de Notas de Ordem Bancária emitidas pelo Banco do Brasil S/A, em nome do fornecedor, até 30 (trinta) dias após a apresentação das faturas/notas fiscais devidamente atestadas pelo responsável por seu recebimento, devendo para isto, ficar explicitado o nome do Banco, agência, localidade e número da conta corrente em que deverá ser efetivado o crédito; 8.1.1. Junto às Notas Fiscais a Contratada deverá, obrigatoriamente, apresentar Certidão Negativa de Débito dos Tributos Federais, Estaduais e Municipais, Certidão Negativa de Débito do FGTS e INSS, sem os quais fica impossibilitada a efetivação da liquidação do pagamento; 8.1.2. Caso se constate erro ou irregularidade na Nota Fiscal, a Contratante, a seu critério, poderá devolvê-la para as devidas correções, com as informações que motivaram sua rejeição, contando-se o prazo estabelecido no subitem 8.1 a partir da data de sua reapresentação, ou aceitá-la com a glosa da parte que considerar indevida; 8.2. Na hipótese de devolução, a Nota Fiscal será considerada como não apresentada, para fins de atendimento das condições contratuais; 8.3. Se por motivo não imputável à Contratada o pagamento não ocorrer dentro prazo previsto, incidirá sobre o valor da mesma atualização financeira dos valores a serem pagos, desde a data final do período de adimplemento até a data do efetivo pagamento;
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+46
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+8.3.1. Para contagem da data final do período de adimplemento de cada parcela, considerar-se-á a data em que a nota fiscal for protocolada na Procuradoria Geral de Justiça. 8.4. O pagamento efetuado à Contratada não a isentará das responsabilidades vinculadas à prestação de serviços, especialmente àquelas relacionadas com a qualidade e garantia; 8.5. Caso haja aplicação de multa, o valor será descontado de qualquer fatura ou crédito existente na Procuradoria Geral de Justiça em favor da Contratada, se esse valor for superior ao crédito eventualmente existente, a diferença será cobrada administrativamente ou judicialmente, se necessário. Caso a CONTRATADA não tenha nenhum valor a receber da CONTRATANTE, ser-lhe-á concedido o prazo de 5 (cinco) dias úteis, contados de sua intimação, para efetuar o pagamento. Após esse prazo, não sendo efetuado o pagamento, seus dados serão encaminhados ao Órgão competente para que seja inscrita na dívida ativa do Estado, podendo, ainda a Administração proceder a cobrança judicial do valor devido; 8.6. O pagamento da fatura não será considerado como aceitação definitiva do serviço e não isentará a Contratada das responsabilidades contratuais quaisquer que sejam; 8.7. O critério de reajuste, quando couber, deverá retratar a variação efetiva do custo de produção, admitidas a adoção de índices específicos ou setoriais que reflitam a variação dos insumos utilizados, desde a data prevista para apresentação da proposta até a data de adimplemento de cada parcela; CLÁUSULA NONA ­ DOS PRAZOS DE VIGÊNCIA E EXECUÇÃO 9.1. O presente Instrumento de Contrato terá vigência de 12 (doze) meses, contados da assinatura do contrato, podendo ser prorrogado por interesse da administração, nos termos do Art. 57, da Lei Federal nº 8.666/93, atualizada; 9.2. Os prazos de execução do presente Contrato são os determinados no Termo de Referência ­ Anexo I do Edital. CLÁUSULA DÉCIMA ­ DA SUSPENSÃO DOS SERVIÇOS 10.1. A contratada não poderá interromper os serviços sob a alegação de não estar recebendo os pagamentos devidos, ressalvado o disposto no art. 78, inciso XV, Lei nº 8.666/93. CLÁUSULA DÉCIMA PRIMEIRA - FORMA DE FORNECIMENTO E SUA EXECUÇÃO 11.1. A contratada deverá fornecer/assegurar o objeto licitado nas condições, no preço e no prazo estipulados, considerando-se inclusas no valor do contrato todas as despesas concernentes aos serviços prestados, tais como encargos sociais, transporte, mão-de-obra, equipamentos, benefícios e despesas indiretas, tributos ou quaisquer outras incidências; CLÁUSULA DÉCIMA SEGUNDA ­ DAS SANÇÕES ADMINISTRATIVAS 12.1. A licitante vencedora que descumprir injustificadamente quaisquer das cláusulas e
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+47
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+condições do presente Pregão ficará sujeita às penalidades previstas na Lei nº 10.520/2002, bem como nos art. 86 e 87 da Lei 8.666/93, incidentes sobre o valor da Nota de Empenho e ainda: 12.1.1. Por atraso injustificado na execução do objeto: 12.1.1.1. atraso de até CINCO dias, multa diária de 0,25% (vinte e cinco centésimos por cento); 12.1.1.2. atraso superior a CINCO dias, multa diária de 0,50% (cinquenta centésimos por cento) sobre o total dos dias em atraso, sem prejuízo das demais cominações legais; 12.1.1.3. no caso de atraso no recolhimento da multa aplicada, incidirá nova multa sobre o valor devido, equivalente a 0,20% (vinte centésimos por cento) até CINCO dias de atraso e 0,40% (quarenta centésimos por cento) acima desse prazo, calculado sobre o total dos dias em atraso. 12.1.2. Pela inexecução parcial ou total das condições estabelecidas neste ato convocatório, a Administração poderá, garantida a prévia defesa, aplicar, também, as seguintes sanções: 12.1.2.1. advertência; 12.1.2.2. multa compensatória de até 20% (vinte por cento) sobre o valor homologado, atualizado, recolhida no prazo de 15 (quinze) dias corridos, contados da comunicação oficial, sem embargo de indenização dos prejuízos porventura causados ao Ministério Público do Estado de Mato Grosso; 12.1.2.3. suspensão temporária de participação em licitação e impedimento de licitar e contratar com a Procuradoria Geral de Justiça, bem como o cancelamento de seu certificado de registro cadastral no cadastro de fornecedores do Estado de Mato Grosso por prazo não superior a DOIS anos; 12.1.3. Se a adjudicatária não apresentar situação regular no ato da assinatura do Contrato sujeita-se à penalidade: 12.1.3.1. multa de 5% sobre o valor adjudicado; 12.1.4. Atraso quanto à obrigação de solucionar quaisquer problemas na execução do objeto, e, quanto à aceitação de acréscimos e supressões, na forma da Lei, no valor total da adjudicação: 12.1.4.1. atraso até 2 (dois) dias, multa de 5% (cinco por cento); 12.1.4.2. a partir do 3º (terceiro) até o limite do 5º (quinto) dia, multa de 10% (dez por cento), caracterizando-se a inexecução total da obrigação a partir do 6º (sexto) dia de atraso. 12.2. Nas hipóteses de apresentação de documentação inverossímil, cometimento de fraude ou comportamento de modo inidôneo, a licitante poderá sofrer, além dos procedimentos cabíveis de atribuição desta instituição e do previsto no art. 7º da Lei 10.520/02, quaisquer das sanções adiante previstas, que poderão ser aplicadas cumulativamente: 12.2.1. Desclassificação ou inabilitação, caso o procedimento se encontre em fase de julgamento;
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+48
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+12.2.2. Rescisão contratual; 12.3. As multas serão descontadas dos créditos da empresa contratada. Caso a CONTRATADA não tenha nenhum valor a receber da CONTRATANTE, ser-lhe-á concedido o prazo de 5(cinco) dias úteis, contados de sua intimação, para efetuar o pagamento. Após esse prazo, não sendo efetuado o pagamento, seus dados serão encaminhados ao Órgão competente para que seja inscrita na dívida ativa do Estado, podendo, ainda a Administração proceder a cobrança judicial do valor devido; 12.4. as penalidades aqui previstas têm caráter de sanção administrativa, conseqüentemente, a sua aplicação não exime o fornecedor da reparação de eventuais perdas e danos que seus atos venham acarretar à Procuradoria Geral de Justiça; 12.5. a aplicação de uma penalidade não exclui a das demais, quando cabíveis; 12.6. as penalidades serão, obrigatoriamente, registradas no Sistema de Cadastramento Unificado de Fornecedores - SICAF ou no Cadastro de Fornecedores do Estado de Mato Grosso - CGF, e no caso de ficar impedido de licitar e contratar, o fornecedor deverá ser descredenciado por igual período, sem prejuízo das multas previstas no Edital e das demais cominações legais. CLÁUSULA DÉCIMA TERCEIRA ­ DA ALTERAÇÃO 13.1. Este contrato poderá ser alterado na conformidade da Lei nº 8.666/93, atualizada. CLÁUSULA DÉCIMA QUARTA - DA RESCISÃO 14.1. O presente Contrato poderá ser rescindido pelos motivos previstos nos art. 77 e 78 e nas formas estabelecidas no art. 79, acarretando as conseqüências do art. 80, todos da Lei nº 8.666/93, atualizada; 14.2. A rescisão, por algum dos motivos previstos na Lei nº 8.666/93 e suas alterações, não dará à Contratada direito a indenização a qualquer título, independentemente de interpelação judicial ou extrajudicial; 14.3. A rescisão acarretará, independentemente de qualquer procedimento judicial ou extrajudicial por parte da Contratante, a retenção dos créditos decorrentes deste Contrato, limitada ao valor dos prejuízos causados, além das sanções previstas neste ajuste até a completa indenização dos danos; 14.4. Fica expressamente acordado que, em caso de rescisão, nenhuma remuneração será cabível, a não ser o ressarcimento de despesas autorizadas pela Contratante, previstas no presente Contrato e comprovadamente realizadas pela Contratada. CLÁUSULA DÉCIMA QUINTA - DAS DISPOSIÇÕES FINAIS 15.1. Integram este Contrato, o Edital do Pregão Presencial nº 020/2011, seus anexos, além da proposta da empresa: (nome da empresa), classificada em 1º lugar do certame supra numerado; 15.2. Os casos omissos serão resolvidos conforme dispõem as Leis Federais nº 8.078/1990 (Código de Defesa do Consumidor), nº 10.520/2002 e nº 8.666/1993, Código Civil e demais legislações vigentes e pertinentes à matéria;
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+49
+
+Ministério Público do Estado de Mato Grosso Procuradoria Geral de Justiça Departamento de Aquisições
+Pregão Presencial n.º 020/2011 ____________________________________________________________________________________
+
+15.3. A abstenção, por parte da Contratante, de quaisquer direitos e/ou faculdades que lhe assistem em razão deste contrato e/ou lei não importará renúncia a estes, não gerando, pois, precedente invocável. CLÁUSULA DÉCIMA SEXTA ­ DO FORO 16.1. Fica eleito o foro da Comarca de Cuiabá, Estado de Mato Grosso, para dirimir todas as questões oriundas do presente Contrato, sendo este o competente para a propositura de qualquer medida judicial decorrente deste instrumento, com a exclusão de qualquer outro, por mais privilegiado que seja. E, por estarem justos e acordados, assinam o presente Contrato em 02 (duas) vias de igual teor e forma, juntamente com as testemunhas abaixo, de tudo cientes, para que produzam seus efeitos legais e jurídicos. Cuiabá-MT, INSTITUIÇÃO:NOME DO REPRESENTANTE LEGAL EMPRESA(S):NOME DO REPRESENTANTE LEGAL TESTEMUNHAS: NOME: CPF: NOME: CPF: de ______ de 2011.
+
+______________________________________________________________________________________________________________________________ DEPARTAMENTO DE AQUISIÇÕES PROCURADORIA GERAL DE JUSTIÇA, RUA 04 S/N.º, CENTRO POLÍTICO ADMINISTRATIVO ­ CUIABÁ/MT E-MAIL licitacoes@mp.mt.gov.br FONE (65) 3613-1635
+
+50
+
+

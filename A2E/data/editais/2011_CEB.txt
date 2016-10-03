@@ -1,0 +1,478 @@
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+Superintendência de Informática - STI Gerência de Sistema de Informação ­ GRSI
+PROJETO BÁSICO N° 004/2011- GRSI
+
+CONTRATAÇÃO DE SERVIÇOS DE SUPORTE E SUSTENTAÇÃO (MANUTENÇÃO CORRETIVA, ADAPTATIVA E EVOLUTIVA) PARA SISTEMA DE GESTÃO EMPRESARIAL DA CEB ­ EVOLUZ.
+
+Elaborado
+Guilherme Siqueira Simões ­ Fatto Consultoria e Sistemas
+
+Conferido
+Marcelo Rebello Vieira Cristina Fukushima Márcio Alexandre Bezerra Francisco Fernandes Riba Roslano Jefferson Rodrigues
+
+Aprovado
+Marcelo Rebello Vieira Cristina Fukushima
+
+Data
+30/08/2011
+
+1
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+SUMÁRIO
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+
+OBJETO ...........................................................................................................03 SUBCONTRATAÇÃO OU SUBEMPREITADA............................................... 03 REGIME DE EXECUÇÃO.................................................................................03 VISITA TÉCNICA ­ ENDEREÇOS E CONTATOS...........................................03 ORÇAMENTO ESTIMADO...............................................................................04 PRAZOS ...........................................................................................................04 PRORROGAÇÃO .............................................................................................04 QUALIFICAÇÃO TÉCNICA..............................................................................04 DESCRIÇÃO DETALHADA DO OBJETO .......................................................05 PROCESSO GERAL DE EXECUÇÃO DOS SERVIÇOS.................................07 ACORDOS DE NÍVEIS DE SERVIÇO - ANS ...................................................11 LOCAL DA PRESTAÇÃO DOS SERVIÇOS....................................................14 QUANTITATIVO DOS SERVIÇOS ...................................................................15 RECURSOS HUMANOS OU COMPOSIÇÃO DE EQUIPES ...........................15 FERRAMENTAS, EQUIPAMENTOS, VEÍCULOS ...........................................16 JORNADA DE TRABALHO .............................................................................16 CÁLCULO DA MEDIÇÃO DOS SERVIÇOS ....................................................17 FISCALIZAÇÃO DOS SERVIÇOS ...................................................................20 SEGURANÇA DA INFORMAÇÃO ...................................................................21 GARANTIA DOS SERVIÇOS...........................................................................21 EXIGÊNCIAS DA CONTRATADA ...................................................................21
+
+2.1 CONSÓRCIOS .................................................................................................03
+
+22 TRANSIÇÃO CONTRATUAL ...................................................................... ....22 23 PAGAMENTO.................................................................................................. 24 24 TREINAMENTO / CAPACITAÇÃO .....................................................................25 ANEXO I ­ CRONOGRAMA DE DESEMBOLSO ....................................................26 ANEXO II ­ PLANILHA DE COMPOSIÇÃO DETALHADA DOS CUSTOS ELABORADA PELA CEB DISTRIBUIÇÃO..............................................................27 ANEXO III ­ PLANILHA DE COMPOSIÇÃO DETALHADA DOS CUSTOS MODELO PARA PREENCHIMENTO PELO LICITANTE.........................................28 ANEXO IV ­ VISÃO GERAL DO EVOLUZ...............................................................29 ANEXO V ­ MODELO SUGERIDO DE ORDEM DE SERVIÇO ...............................32
+2
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+1
+
+OBJETO
+Contratação de empresa de Tecnologia da Informação e Comunicação especializada em soluções de ERP para prestação de serviços de suporte e sustentação (manutenção corretiva, adaptativa e evolutiva) do Sistema de Gestão Empresarial da CEB ­ EVOLUZ
+
+2
+
+SUBCONTRATAÇÃO OU SUBEMPREITADA
+Não será permitida subcontratação ou subempreitada.
+
+2.1
+
+Consórcios
+Não será permitida a participação de empresas consorciadas.
+
+3
+
+REGIME DE EXECUÇÃO
+Empreitada por preço global.
+
+4
+
+VISITA TÉCNICA ­ ENDEREÇOS E CONTATOS
+4.1 De forma que tenham conhecimento pleno das condições ambientais e técnicas para efetiva realização dos serviços, as empresas interessadas em participar da licitação poderão realizar visita técnica, por seu representante legal na seguinte localidade.
+
+CEB DISTRIBUIÇÃO Gerência de Sistema de Informação ­ GRSI Ruy Márcio Frade Aragão Endereço: S I A - Área Especial da CEB Telefones: 3465-9333
+4.2 A vistoria técnica (facultativa) poderá ser realizada em dias úteis, de segunda a sexta-feira, das 08:30 as 11:30 e das 14:30 as 17:00 até o dia anterior da data prevista para abertura da sessão. 4.3 Deverá ser agendada pelos telefones (61) 3465-9333 com o Sr. Ruy Márcio ou Cristina Fukushima. 4.4 A não realização da vistoria implicará na presunção de que as especificações e condições do edital foram suficientes para o entendimento da licitante, não sendo aceitas reclamações futuras a este respeito.
+
+3
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+5
+
+ORÇAMENTO ESTIMADO
+O orçamento estimado da presente licitação é de R$ 1.650.000, 00 (um milhão,
+
+seiscentos e cinqüenta mil reais), conforme composição dos custos abaixo. · · · · Valor do Ponto de Função estimado: R$ 550,00. Quantidade de Pontos de Função estimada: 2.400 Valor da hora de Consultoria estimada: R$ 110,00. Quantidade de horas de consultoria estimada: 3.000
+
+Cálculo do Valor Global estimado: (550,00 * 2.400) + (110,00 * 3.000) = R$ 1.650.000,00
+
+6
+
+PRAZOS
+PRAZO DE EXECUÇÃO: 12 (doze) meses; PRAZO DE VIGÊNCIA: 13 (treze) meses.
+
+7
+
+PRORROGAÇÃO
+Há previsão de prorrogação dos prazos de vigência e execução por iguais e sucessivos períodos;
+
+8
+
+QUALIFICAÇÃO TÉCNICA
+Além dos atestados de capacidade técnica exigidos no edital da licitação, os proponentes deverão apresentar no certame licitatório os seguintes documentos: Para fins de habilitação técnica, a licitante deverá apresentar um ou mais atestados de capacidade técnica, fornecido(s) por pessoa(s) jurídica(s) de direito público ou privado que comprovem a execução de projetos de desenvolvimento e/ou manutenção de sistemas em tecnologia compatível ao objeto desta contratação, distribuídos da seguinte forma: Mínimo de 1.000 (hum mil) horas no módulo Financeiro. Mínimo de 1.000 (hum mil) horas no módulo de Suprimentos. Mínimo de 1.000 (hum mil) horas no módulo de Manufatura. Mínimo de 1.000 (hum mil) horas no módulo de Recursos Humanos. Para fins de normalização na análise dos atestados, será usada a taxa de entrega (H/PF) citada no item 17.8.
+4
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+No caso de atestados emitidos por empresa da iniciativa privada, não serão considerados aqueles emitidos por empresas pertencentes ao mesmo grupo empresarial da empresa proponente. Serão considerados como pertencentes ao mesmo grupo empresarial da empresa proponente, empresas controladas ou controladoras da empresa proponente, ou que tenha pelo menos uma mesma pessoa física ou jurídica que seja sócio da empresa emitente e da empresa proponente. Conforme previsto na Lei 8.666, no art. 43 § 3° , os Atestados de Capacidade Técnica apresentados poderão ser objeto de diligência a critério da CEB, para verificação de autenticidade de seu conteúdo. Encontrada divergência entre o especificado nos atestados e o apurado em eventual diligência, inclusive validação do contrato de prestação de serviços entre o emissor do atestado e a licitante, além da desclassificação no processo licitatório, fica sujeita a licitante às penalidades cabíveis.
+
+9
+
+DESCRIÇÃO DETALHADA DO OBJETO
+9.1 - O atual contrato de sustentação do EVOLUZ está prestes a ser encerrado. Está em estudo pela CEB um projeto para adoção de um novo sistema ERP. Porém esta nova solução de ERP não deve ser adotada a curto e médio prazo. Portanto faz-se necessária a continuidade dos serviços de sustentação do EVOLUZ, visando apoiar as áreas de negócio da CEB em suas demandas de suporte técnico ao uso do sistema e desenvolvimento e manutenção de novas funcionalidades que se façam necessárias. 9.2 - O objeto desse Projeto Básico enquadra-se na categoria de bens e serviços comuns, de que trata a Lei nº 10.520/2002 e o Decreto nº 5.450/2005, por possuir padrões de desempenho e características gerais e específicas usualmente encontradas no mercado, podendo ser licitado por meio da modalidade Pregão. 9.3 - Os serviços especificados neste Projeto Básico são caracterizados como de natureza contínua porque as manutenções corretiva, evolutiva e adaptativa do EVOLUZ são essenciais para a disponibilidade dos negócios por ele atendida, sendo necessária a prestação destes serviços enquanto o EVOLUZ não for substituído, e por a CEB não dispor de quadro próprio de profissionais especializados em tecnologia da informação em número suficiente faz-se necessária essa contratação. 9.4 - Os serviços serão pagos pelo quantitativo de resultados recebidos e atestados como aderentes às especificações das Ordens de Serviço previstas no Projeto Básico. 9.5 - A Sustentação de Sistemas tem o objetivo de manter os sistemas em produção pelo maior tempo possível sem falhas, e ao tê-las, adotar ações de contorno que minimizem o impacto em seu negócio, aumentando a confiança nos sistemas e reduzindo a necessidade de novos investimentos. 9.6 - No âmbito da CEB, a Sustentação de Sistemas será responsável pelo atendimento de demandas pontuais, com ciclo de desenvolvimento mais ágil, porém controlados por projeto, quando for o caso. No contrato de sustentação
+5
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+atual, o prazo de execução da maioria dos serviços não costuma ser superior a 30 dias. A expectativa é que este cenário não se altere muito na nova contratação. 9.6.1 - A sustentação é composta por Serviços de Manutenção de Sistemas de Informação, que são modificações em sistemas já existentes, em produção, com o objetivo de prevenção, correção de falhas, implementação de melhorias ou adaptações, classificadas conforme abaixo: 9.6.1.1 - Manutenção Corretiva - Consiste na correção de defeitos em sistemas em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento do sistema e quaisquer desvios em relação aos requisitos aprovados formalmente pela CEB. 9.6.1.2 - Manutenção Adaptativa - Adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e SGBD, que não impliquem em inserção, alteração ou exclusão de funcionalidades; 9.6.1.3 - Manutenção Evolutiva - Corresponde a inclusão, alteração e exclusão de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio e/ou demandas legais. 9.6.2 A elaboração de documentação referente aos serviços de manutenção realizados pela CONTRATADA, e explicitados na OS como Produtos a Serem Entregues, é obrigatória e sem custo adicional e devem estar em conformidade com o estabelecido pela CEB. Esta documentação poderá compreender: Documento de Visão; Especificação de Requisitos; Modelo de Dados e Dicionário de Dados. 9.6.3 A CEB reserva-se ao direito de solicitar somente parte dessa documentação, quando achar conveniente. 9.7 A sustentação engloba também Serviços de Consultoria, que são demandas eventuais, que não envolvem desenvolvimento ou manutenção nas funcionalidades do sistema, mas que irão fornecer ao usuário elementos para solução de um problema de negócio. Podem envolver: 9.7.1 Apoiar o usuário do EVOLUZ a avaliar o impacto de mudanças (legais, regulatórias, mercado, etc.) no seu ambiente de negócios e como acomodar estas mudanças no EVOLUZ. Podem eventualmente dar origem a novas ordens de serviço para manutenção no EVOLUZ.
+
+6
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+9.7.2 Atividades de treinamento (elaboração de manuais, instrutoria, etc.) a usuários de módulos do EVOLUZ. 9.7.3 Parametrização do EVOLUZ para atendimento a necessidades de negócio do usuário. 9.7.4 Transferência de conhecimento, por meio de documentação, para a transição contratual final. 9.7.5 Investigação de erros, quando esta não puder ser associada diretamente a funcionalidades específicas do EVOLUZ. Este serviço consiste em analisar e investigar a causa raiz de um problema em um artefato de software, elaborar diagnóstico da situação e proposta de solução, e implementar a solução para correção do problema. 9.7.6 Operação assistida, quando esta estiver dissociada de algum serviço específico feito pela CONTRATADA que tenha sido implantado recentemente. Este serviço consiste em acompanhar e/ou realizar a execução de um componente de software a fim de garantir sua correta execução. Conferir o resultado do processamento e atestar a conclusão do processamento por meio de consultas a banco de dados, logs de auditoria ou outras informações que comprovem o sucesso da execução. 9.8 O produto principal de um Serviço de Consultoria é um relatório de análise de negócio que explicite as soluções para o problema de negócio do usuário. 9.9 O regime de trabalho por produto e ordem de serviço implica no uso de uma forma sistematizada de desenvolvimento de software, apoiada em metodologia consolidada, utilizando processo controlado, repetitivo e padronizado de produção. Os serviços incluem atividades de concepção, elaboração, construção e transição. Além disto, os processos devem seguir as melhores práticas de mercado, tais como PMBOK (Project Management Body of Knowledge), ITIL, CMMI, MPS.BR, COBIT, dentre outros.. 9.10 Não está no escopo desta contratação a gestão da infra estrutura computacional (servidores, redes, links de comunicação, banco de dados) que suporta o EVOLUZ.
+
+10 PROCESSO GERAL DE EXECUÇÃO DOS SERVIÇOS
+10.1. O processo de execução dos serviços descritos a seguir pode ser melhorado a qualquer tempo por iniciativa da CEB, em concordância com a CONTRATADA. 10.2.Os serviços serão solicitados pela CEB por meio da abertura de Ordens de Serviço (OS) no Sistema de Gestão de Ordens de Serviços. Este sistema estará disponível, tanto para CEB quanto para a CONTRATADA, respeitando os perfis e níveis de acesso definidos. 10.3.Em caso de indisponibilidade do Sistema de Gestão Ordens de Serviços, os serviços poderão ser acionados através do envio por e-mail (indicado pela
+7
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+CONTRATADA) do formulário de solicitação de ordens de serviço, conforme sugestão do Anexo IV. 10.4.A Ordem de Serviço deve conter uma descrição objetiva do escopo do serviço, podendo ainda conter documentos anexos que auxiliem nesta descrição. 10.5.Caso a CONTRATADA identifique que o escopo definido na OS é insuficiente para estimar o serviço; esta deverá devolver a OS para melhoria na definição do escopo por parte da CEB, em até dois dias úteis após o recebimento.. 10.6.Caso a CONTRATADA identifique que há plena condição para execução do serviço, esta deverá estimar os pontos de função (ou horas, quando for o caso), definir o prazo para entrega (respeitando o nível de serviço acordado) e atualizar o estado da OS para "em andamento" e iniciar a execução dos serviços. 10.7.Demandas de caráter legal poderão ter seu prazo de execução definido pela CEB. 10.8.Cabe à CONTRATADA, com apoio da CEB, o detalhamento do serviço a ser executado, incluindo requisitos funcionais e não funcionais, premissas, restrições, riscos e demais informações necessárias à correta execução dos serviços. 10.9.Após a conclusão e entrega do serviço, a CONTRATADA deverá atualizar o estado da OS para "Em homologação", o que significa que os serviços foram integralmente executados e encontram-se disponíveis para aceite pela CEB. 10.10. Caso os serviços estejam em conformidade com os requisitos detalhados na OS e todos os produtos previstos tenham sido entregues com a qualidade esperada, a CEB atualizará o estado da OS para "Aceito". Uma vez aceita, a medição final dos pontos de função deverá ser feita e a OS poderá ser incluída na próxima fatura da CONTRATADA. 10.11. A CEB terá um prazo de no máximo 30% do prazo da OS acrescido de sete dias úteis para realizar o aceite das OS; a não ser que haja um prazo de aceite específico acordado entre as partes e especificado na ordem de serviço. Caso este prazo seja ultrapassado, a OS será caracterizada como "Aceita" automaticamente. 10.12. Caso a OS apresente alguma não conformidade, os motivos da rejeição do serviço serão registrados e comunicados formalmente pela CEB à CONTRATADA. Neste caso o estado da OS irá para "Pendente". 10.13. A CONTRATADA deve executar os ajustes, sem ônus para a CEB, das nãoconformidades registradas pela CEB num prazo máximo 30% (trinta por cento) do prazo estabelecido originalmente para a OS; que não se configura como prorrogação de prazo. 10.14. Após as devidas correções das não conformidades identificadas pela CEB, a CONTRATADA atualiza o estado da OS novamente para "Em homologação". 10.15. O prazo demandado para as correções das não conformidades será computado no prazo total realizado na OS para fins de apuração do nível de serviço.
+8
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+10.16. Poderá haver suspensão de contagem de prazos para a Ordem de Serviço que necessitar de providência por parte da CEB ou de terceiros, desde que a CONTRATADA comprove que efetuou todos os esforços necessários junto aos mesmos para a solução das pendências. 10.17. O prazo de execução da OS poderá ser prorrogado, a critério exclusivo da CEB, caso a CONTRATADA apresente, tempestivamente, razões de justificativa que comprovem a ocorrência de fatos que fogem ao seu controle e impedem a finalização do serviço no tempo estabelecido. 10.18. A OS poderá ser cancelada, a critério exclusivo da CEB, mediante prévia justificativa. Este deverá ser um evento excepcional. Neste caso a CONTRATADA deverá entregar todos os produtos produzidos até o momento para que a CEB possa avaliar quanto do serviço poderá ser computado para fins de faturamento; desde que o motivo de cancelamento não envolva incapacidade da CONTRATADA na execução do serviço no prazo estabelecido. 10.19. A CEB reserva-se à possibilidade de priorizar, dentre as OS abertas, os prazos de entrega, com devida formalização, podendo inclusive parar a execução de Ordens de Serviços já abertas para a execução de novas Ordens de Serviço de maior prioridade. 10.20. Toda solicitação de mudança em uma Ordem de Serviço que esteja em andamento deve ser formalizada à CONTRATADA através de um documento próprio denominado "Solicitação de Mudança nn da OS xxx". 10.21. A mudança de um requisito em uma Ordem de Serviço que está em andamento e que implicar em retrabalho para a CONTRATADA terá remuneração adicional. 10.22. Caso a mudança ocorra em uma OS sem entregas parciais (em contraponto a uma OS com entregas parciais, descrita na seção Fases da Execução do Serviço), a CONTRATADA será remunerada pelo retrabalho em 50% (cinqüenta por cento) do tamanho funcional (considerando os respectivos fatores de impacto) das funcionalidades afetadas pela mudança e que implicarem em retrabalho por parte da CONTRATADA. Exemplo: uma OS é aberta para a criação de 3 relatórios novos, cada um com 5 PFs, totalizando 15 PFs para esta OS. Após a OS ter sua execução autorizada, a CEB solicita a mudança na definição de um dos relatórios que já começaram a ser feitos. Por conta disto ela pagará mais 50% dos PFs deste relatório modificado, ou seja, mais 2,5 PFs. 10.23. Caso a mudança ocorra em uma OS que tenha sido dividida em entregas parciais (vide, tabela 10.24 do item seguinte), a CONTRATADA será remunerada pelo percentual de remuneração de todas as fases executadas da OS até então aplicado ao tamanho funcional (considerando os respectivos fatores de impacto) das funcionalidades afetadas pela mudança. 10.24. Fases da Execução do Serviço 10.24.1. A seu critério, a CEB poderá determinar que a Ordem de Serviço seja executada em fases, com entregas parciais ao final de cada fase. Esta
+9
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+abordagem é recomendada para a OS que envolva prazo de execução superior a um mês. Neste caso a apuração dos níveis de serviço será feita ao final da OS. 10.24.2. A tabela seguinte define as fases e o percentual de remuneração adotado para cada fase. Toda remuneração está condicionada à entrega dos produtos citados na OS para cada fase descrita. Fase Percentual de Remuneração Elaboração 40% Construção 50% Transição 10% Tabela 10.24 ­ Fase para execução da Ordem de Serviço 10.24.3. A fase de Concepção é responsabilidade da CEB, quando esta define o escopo da Ordem de Serviço. 10.24.4. A fase de Elaboração finaliza com a entrega pela CONTRATADA de todos os artefatos previstos na Ordem de Serviço que detalham os requisitos do serviço que será executado. 10.24.5. A fase de Construção finaliza quando a CONTRATADA disponibiliza o produto alterado para a homologação por parte da CEB. 10.24.6. A fase de Transição é finalizada quando a OS é formalmente aceita pela CEB e quando todos os produtos gerados pela OS estão prontos para irem para o ambiente de produção. 10.24.7. Sempre que possível, e conforme seu critério, a CEB irá fracionar uma demanda em Ordens de Serviços menores, de forma a privilegiar prazos de entrega mais curtos; idealmente de 30 (trinta) dias. 10.25. Forma de comunicação e relacionamento 10.25.1. Toda execução dos serviços deverá ser administrada por técnico da CONTRATADA denominado PREPOSTO. 10.25.2. Caberá ao PREPOSTO fornecer informações de controle e acompanhamento da execução dos serviços contratados, bem como responsabilizar-se pelo fiel cumprimento das Ordens de Serviço (OS). 10.25.3. O PREPOSTO deverá coordenar as atividades necessárias ao atendimento das demandas, conforme o nível mínimo de serviço exigido, primando pela qualidade dos serviços prestados. 10.25.4. Todas as Ordens de Serviços (OS) emitidas pela CEB serão única e exclusivamente dirigidas ao PREPOSTO, que deverá acusar recebimento da OS, indicando a data e horário de seu recebimento. 10.25.5. As interações dos profissionais da CONTRATADA com os usuários e profissionais da CEB, para fins de execução dos serviços, ocorrerão nas instalações da CEB, cabendo à CONTRATADA a responsabilidade pelo
+10
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+deslocamento dos profissionais envolvidos até o local de prestação de serviços.
+
+11 ACORDOS DE NÍVEIS DE SERVIÇOS - ANS
+11.1. Níveis de serviços são critérios objetivos e mensuráveis estabelecidos com a finalidade de aferir e avaliar fatores como qualidade, desempenho e disponibilidade dos serviços. Para mensurar esses fatores serão utilizados indicadores relacionados às Ordens de Serviço, para os quais foram estabelecidas metas quantificáveis a serem cumpridas pela CONTRATADA, conforme detalhado adiante. 11.2. Os primeiros 90 (noventa) dias do contrato serão considerados como um período de estabilização para que a CONTRATADA possa se familiarizar com o contexto da CEB. Neste período os Acordos de Níveis de Serviço poderão ser flexibilizados. 11.3. Sempre que houver quebra dos níveis de serviço especificados, a CEB poderá emitir ofício de notificação à CONTRATADA, que terá prazo máximo de cinco dias úteis para apresentar as justificativas para as falhas verificadas. Caso não haja manifestação da CONTRATADA dentro desse prazo ou caso a CEB entenda ser improcedentes as justificativas, será iniciado processo de aplicação das sanções previstas. 11.4. Prazo de Atendimento 11.4.1 Para efeito de avaliação do nível de serviço quanto a prazo, a seguinte tabela será usada para as manutenções adaptativas e evolutivas. Prazo Máximo para Execução de Manutenções Adaptativas e Evolutivas
+Tamanho da OS (em PF) Prazo máximo para Prazo máximo para início da Prazo máximo de entrega avaliação da OS OS após avaliação (em dia (em dias úteis) (em dias úteis) úteis)
+
+Até 10 11 ­ 20 21 ­ 30 31 ­ 41 41 ­ 50 Acima de 50
+
+1 1 1 1 2 2
+
+Imediato Imediato 1 1 1 2
+
+7 14 20 25 30 30 dias para cada 50 PFs
+
+Tabela 11.4.1 ­ Prazo de execução da manutenção (Adaptativa e Evolutiva) 11.4.2 Para efeito de avaliação do nível de serviço quanto a prazo, a seguinte tabela será usada para as manutenções corretivas.
+11
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+Prazo Máximo para Execução de Manutenções Corretivas
+Nível de Criticidade Característica Início de Atendimento Conclusão de Atendimento
+
+Alta
+
+Incidente com paralisação de sistema ou indisponibilidade de dados e/ou ambiente ou que faz o produto do trabalho inadequado para o uso e/ou ser incapaz prestar os serviços. Não existe alternativa de contingência.
+
+Em até 2 horas corridas após o comunicado do incidente a CONTRATADA
+
+24 horas
+
+Média
+
+Incidente sem paralisação de sistema e com Em até 24 comprometimento de dados e/ou ambiente ou horas corridas degradação de desempenho. A aplicação opera após o parcialmente com limitações importantes. Cri comunicado do a incidente a sobrecarga de trabalho aos usuários afetad CONTRATADA os. Existe alternativa de contingência aplicável.
+
+40 horas
+
+Baixa
+
+Incidente sem paralisação de sistema e sem Acordado entre Acordado entre comprometimento de dados e/ou ambiente. a CEB e a a CEB e a Normalmente restringe, mas não impede que o CONTRATADA CONTRATADA usuário realize suas atividades. O usuário pode contorná-lo com caminhos alternativos. Porém sua percepção de qualidade do produto pode ser afetada caso vários problemas como este se manifestem. Tabela 11.4.2 ­ Prazo de execução da manutenção corretiva 11.4.3 No prazo estipulado para o serviço, a CONTRATADA deverá executar todas as atividades previstas a seguir, bem como apresentar à CEB todas as ações de contingência realizadas, no caso de existir: 1. diagnosticar o incidente ou problema; 2. identificar as alternativas de soluções; 3. eliminar o problema detectado e disponibilizar para a CEB as correções necessárias sem que estas comprometam qualquer outro sistema, serviço ou qualquer funcionalidade do sistema; 4. documentar as correções implementadas. 11.4.4 Caso a contratada descumpra os prazos citados na tabela 11.4.2, haverá penalidade conforme a quantidade de horas que excedam os prazos estabelecidos (tanto de início de atendimento quanto de sua conclusão). A penalidade será calculada pela multiplicação das horas excedentes aos prazos estabelecidos pelo valor da hora de consultoria da CONTRATADA, limitada ao valor da garantia contratual.
+12
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+11.5. Indicadores de Nível de Serviço 11.5.1 Ficam estabelecidos os Indicadores constantes da Tabela de Indicadores de Nível Mínimo de Serviço Exigido.
+
+Tabela de Indicadores de Nível Mínimo de Serviço Exigido (NMSE) Indicador nº 1 Atraso na Entrega (AE) Mede os atrasos nas entregas de produtos e artefatos acordados nas Descrição do indicador OS Aferição Pela CEB, no recebimento da OS para homologação
+
+Fórmula de cálculo Onde: IAE = Índice de atraso na entrega; PEE = Prazo efetivo de entrega, em dias úteis; PPE = Prazo planejado de entrega, em dias úteis, acordado na OS. IAE Desejável: 0% (zero por cento) Nível mínimo de IAE Aceitável: até 10% (dez por cento) serviço exigido IAE Inaceitável: acima de 10% (dez por cento) IAE Desejável: nenhuma IAE Aceitável: advertência Penalidades IAE Inaceitável: glosa de 0,5% (meio por cento) por dia de atraso sobre o valor da OS correspondente, até o limite de 10% (dez por cento). Na entrega do relatório mensal de serviços realizados e níveis de Forma de Auditoria serviços prestados. Indicador nº 2 Não-conformidades com Requisitos (NC) Mede as implementações que estejam em desacordo com os requisitos Descrição do indicador estabelecidos ou com as especificações do sistema. Aferição Pela CEB, após o aceite da OS.
+
+Fórmula de cálculo Onde: INC = Índice de não-conformidades com requisitos; QtNC = Quantidade de não-conformidades aferidas; TPF = Tamanho do serviço, em pontos de função. INC Desejável: 0% (zero por cento) Nível mínimo de INC Aceitável: até 20% (vinte por cento) serviço exigido INC Inaceitável: acima de 20% (vinte por cento) INC Desejável: nenhuma Penalidades INC Aceitável: advertência INC Inaceitável: glosa de 2% (dois por cento) no valor da OS. Na entrega do relatório mensal de serviços realizados e níveis de Forma de Auditoria serviços prestados. Indicador nº 3 Erros de Operação (EO) Mede as falhas ou funcionamentos irregulares identificados na operação Descrição do indicador normal do produto. Aferição Após a transição do serviço. Fórmula de cálculo Onde:
+13
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+IEO = Índice de erros de operação; QtEO = Quantidade de erros de operação encontrados; TPF = Tamanho do serviço, em pontos de função. IEO Desejável: 0% (zero por cento) Nível mínimo de IEO Aceitável: até 10% (dez por cento) serviço exigido IEO Inaceitável: acima de 10% (dez por cento) IEO Desejável: nenhuma IEO Aceitável: advertência Penalidades IEO Inaceitável: glosa de 2% (dois por cento) no valor da OS correspondente. Na entrega do relatório mensal de serviços realizados e níveis de Forma de Auditoria serviços prestados. Indicador nº 4 Descrição do indicador Aferição Reincidências de não conformidade (RN) Mede a quantidade de vezes que uma OS retorna à CONTRATADA para ajustes de não conformidades dos indicadores 2 (NC) e 3 (EO). Após a transição do serviço.
+
+Fórmula de cálculo
+
+I RN = Qt RANC Onde: IRN = Índice de reincidências de não conformidade; QtRANC = Quantidade de vezes que a OS é retornada à CONTRATADA para ajustes de não conformidades
+IRN Desejável: 0 (zero) IRN Aceitável: 1 (uma) IRN Inaceitável: acima de 1 (uma) IRN Desejável: nenhuma IRN Aceitável: advertência IRN Indesejável: glosa de 2% (dois por cento) do valor da OS correspondente, para cada retorno da OS, até o limite de 10% (dez por cento). Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e níveis de serviços prestados.
+
+Nível mínimo de serviço exigido
+
+Penalidades
+
+Forma de Auditoria
+
+11.5.2 Estes indicadores serão aplicados a todos os tipos de serviço, inclusive os de Consultoria. Neste caso, o quantitativo de PFs presentes na fórmula de cálculo dos indicadores 2 e 3, será derivado pela divisão do volume de horas estimado na OS pela taxa de entrega citada na seção 17.8.
+
+12 LOCAL DA PRESTAÇÃO DOS SERVIÇOS
+12.1 Os serviços poderão ser executados nas instalações do CEB ou da CONTRATADA, conforme a necessidade. 12.2 Caso os serviços sejam executados nas instalações da CEB, esta irá fornecer mesas, cadeiras e conexão à rede local à equipe da contratada. Os recursos
+14
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+de hardware e software do posto de trabalho serão de responsabilidade da CONTRATADA. 12.3 Caso os serviços sejam executados nas instalações da CONTRATADA caberá a esta prover toda infra-estrutura para a prestação dos serviços.
+
+13 QUANTITATIVO DOS SERVIÇOS
+Quantidade de Pontos de Função estimada: 2.400 Quantidade de horas de consultoria estimada: 3.000
+
+14 RECURSOS HUMANOS OU COMPOSIÇÃO DE EQUIPES
+Os serviços deverão ser executados por técnicos da CONTRATADA, capacitados nos produtos e tecnologias objetos do serviço, de acordo com os perfis e qualificações definidos a seguir. Mais de um perfil pode ser acumulado por um mesmo profissional. 14.1 Preposto (gestor do serviço da CONTRATADA): Formação superior (graduação ou pós-graduação) em Tecnologia da Informação. Experiência comprovada em gerência de projetos de TI, sendo o projeto com no mínimo 500 horas. 14.2 Analista Funcional Financeiro: Formação superior (graduação ou pós-graduação) em Tecnologia da Informação. Experiência comprovada em análise, projeto, implantação e suporte de serviços relacionados ao ERP Oracle Applications, em específico nos módulos General Ledger (GL), Orçamento (GL), Accounts Payables (AP), Accounts Receivables (AR) e Fixed Assets (FA). 14. 3 Analista Funcional de Suprimentos: Formação superior (graduação ou pós-graduação) em Tecnologia da Informação. Experiência comprovada em análise, projeto, implantação e suporte de serviços relacionados ao ERP Oracle Applications, em específico nos módulos Purchasing (PO), Inventory (INV), e Recebimento Integrado (RI). 14.4 Analista Funcional de Manufatura:
+
+15
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+Formação superior (graduação ou pós-graduação) em Tecnologia da Informação. Experiência comprovada em análise, projeto, implantação e suporte de serviços relacionados ao ERP Oracle Applications, em específico nos módulos Bills of Material (BOM), Working in Progress (WIP) e Material Requirements Planning (MRP). 14.5 Analista Funcional de Recursos Humanos: Formação superior (graduação ou pós-graduação) em Tecnologia da Informação. Experiência comprovada em análise, projeto, implantação e suporte de serviços relacionados ao ERP Oracle Applications, em específico nos módulos Human Resources (HR), Trainning Administration (OTA) e Self-Service (HRMS). 14.6 Analista de Métricas: Formação superior (graduação ou pós-graduação) em Tecnologia da Informação. Certificação CFPS (Certified Function Point Specialist) do IFPUG.
+
+A CEB, por decisão unilateral devidamente justificada e formalizada, poderá solicitar a substituição de qualquer profissional da CONTRATADA que esteja atuando no contrato.
+
+15 FERRAMENTAS, EQUIPAMENTOS, VEÍCULOS
+Será de responsabilidade da Contratada disponibilizar equipamentos para seus colaboradores bem como transporte e estadias se for o caso.
+
+16 JORNADA DE TRABALHO
+16.1 Quando da execução dos serviços nas instalações da CONTRATADA, em condições normais, os serviços serão executados nos dias úteis, no horário de 8h às 18h. 16.2 Estima-se que até 15% (quinze por cento) do volume de serviço contratado poderá ser realizadas em horários noturnos e em dias não úteis. Tal percentual é somente uma estimativa e poderá ser ultrapassado, se necessário, sem que haja qualquer ônus adicional para o CEB.
+
+16
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+17 CÁLCULO DA MEDIÇÃO DOS SERVIÇOS
+17.1. A estimativa do volume de serviço a ser contratado foi dimensionada a partir da análise do serviço prestado no contrato de sustentação atual e no backlog de demandas previstas para o EVOLUZ. 17.2. Os serviços de Manutenção de Sistemas serão medidos em pontos de função. O volume de pontos de função a ser demandado no contrato está estimado em 2.400 (dois mil e quatrocentos) pontos de função. Pela análise das atividades desempenhadas na contratação atual, estima-se que 80% (oitenta por cento) do valor dos serviços demandados sejam de natureza mensurável pela APF. 17.3. O valor do ponto de função para esta contratação está estimado em R$550/PF. Este valor foi obtido da pesquisa em alguns editais recentes do GDF e do governo federal com alguma similaridade no serviço contratado. E considerando ainda que o serviço contratado terá a características de demandas pequenas e mais ágeis. Órgão Adasa Codevasf Ministério da Justiça SETC-DF SETC-DF TC-DF Edital Concorrência 1/2010 Pregão 63/2010 Pregão 5/2009 Pregão 21/2011 Pregão 307/2011 Pregão 12/2011 Volume 5000 5000 21400 1000 1200 240 Valor Estimado 664,03 730,00 677,00 570,47 450,00 559,13
+
+17.4. Os serviços de Consultoria serão medidos em homem-hora. Esta medida não será derivada da alocação de mão de obra, mas da medição dos produtos entregues nos serviços executados sob demanda. Estima-se que estes serviços correspondam a no máximo 20% do valor objeto desta contratação e limitados a 3.000 (três mil) horas. 17.5. O valor da hora de Consultoria para esta contratação está estimado em R$110/hora; que foi obtida no valor-hora do contrato atual acrescida de uma correção monetária. 17.6. O valor global estimado para atender os serviços desta contratação é de R$ 1.650.000,00 (hum milhão, seiscentos e cinqüenta mil reais), a serem acionados sob demanda e sem garantia de consumo mínimo. 17.7. A proposta de preços deverá ser apresentada no valor global, porém detalhando o preço unitário do ponto de função e do homem-hora nos quantitativos citados anteriormente. 17.8. Para efeito de normalização entre os serviços de Manutenção de Sistemas e os de Consultoria (por exemplo, na aplicação dos indicadores de nível de serviço), será adotada a taxa de entrega de 5 horas / ponto de função. Esta razão foi
+17
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+definida com base em pesquisas a órgãos da Administração Pública Federal que usam tecnologias similares ao ambiente da CEB; porém ajustado ao processo de desenvolvimento e manutenção mais ágil a ser usado no serviço de sustentação. 17.9. Os serviços serão medidos utilizando-se da técnica de Análise em Pontos de Função de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.3.1, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org) e de acordo com as diretrizes complementares expostas nesta seção. 17.10. Caso seja identificado algum serviço com demanda recorrente e que não esteja contemplado nestes procedimentos de medição, a CEB avaliará e, se for o caso, atualizará os procedimentos de medição. 17.11. Os eventuais serviços que não puderem ser dimensionados em pontos de função (ex.: Serviços de Consultoria) terão sua estimativa de esforço realizada previamente entre a CEB e a CONTRATADA e remunerados pela estimativa pré-definida, independente do esforço alegadamente despendido pela CONTRATADA. 17.12. A utilização de novas versões do manual do IFPUG ficará a critério da CEB, que, mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA. 17.13. Para a estimativa dos serviços poderão ser usadas as técnicas de estimativa definidas pela NESMA (Netherlands Software Metrics Users Association ­ www.nesma.nl): contagens estimativas e indicativas. 17.14. Para as funcionalidades ALTERADAS será aplicado um fator de impacto de 50% (cinqüenta por cento) ao seu tamanho funcional, visando sua redução. Exemplo: uma OS é aberta para modificar um relatório existente. Após a modificação apura-se que o relatório vale 6 PFs, porém como trata-se da modificação em uma função já existente no EVOLUZ, apenas 50% deste tamanho será contabilizado para a remuneração da OS, ou seja 3 PFs. 17.15. Para as funcionalidades EXCLUÍDAS será aplicado um fator de impacto de 25% (vinte e cinco por cento) ao seu tamanho funcional, visando sua redução. Exemplo: uma OS é aberta para retirar uma transação do EVOLUZ. Esta transação vale 4 PFs, porém como trata-se da exclusão desta função, apenas 25% deste tamanho será contabilizado para a remuneração da OS, ou seja 1 PF. 17.16. Para as funcionalidades que sofrerem APENAS Manutenção Cosmética será aplicado um fator de impacto de 10% (dez por cento) ao seu tamanho funcional para fins de sua remuneração. Manutenção cosmética é um caso particular de manutenção adaptativa e consiste em mudanças associadas às alterações de interface com o usuário, por exemplo, fonte de letra, cores de telas, logotipos, mudança de botões na tela, mudança de posição de campos ou texto na tela/relatório.
+18
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+17.17. Para as funcionalidades que sofrerem APENAS Manutenção Adaptativa, que não envolva mudança de funcionalidade ou exclusivamente cosmética, estas serão remuneradas como funcionalidades ALTERADAS. 17.18. Caso uma funcionalidade sofra manutenção evolutiva e simultaneamente outro tipo de manutenção na mesma OS, esta será remunerada apenas como funcionalidade ALTERADA. 17.19. Apuração Especial são funcionalidades criadas para serem executadas apenas uma vez para: corrigir problemas de dados incorretos na base dados da aplicação ou atualizar dados da aplicação, ou gerar um relatório/arquivo específico para o usuário por meio de recuperação de informações nas bases de dados da aplicação. Funções de conversão de dados, como definidos pelo IFPUG, não são apurações especiais. Para estas funcionalidades de apuração especial será aplicado um fator de impacto de 60% (sessenta por cento) ao seu tamanho funcional. 17.20. Caso a apuração especial seja de correção de dados devido a erros de funcionalidades desenvolvidas pela Contratada, esta será feita sem ônus para a CEB. 17.21. Reexecução de Apuração Especial: em alguns casos a CEB pode ter interesse em executar uma apuração especial mais de uma vez. Nestes casos, será aplicado um fator de impacto de 10% (dez por cento) ao tamanho funcional das funcionalidades da apuração especial que serão reexecutadas. 17.22. Manutenção de Dados são as demandas de atualização pontuais em Base de Dados das aplicações, em geral um único (ou poucos) registro. Nesses casos, o desenvolvedor faz uma atualização na base de dados da aplicação de forma manual. Por exemplo, criação de um usuário; alteração de senha; correção de um registro com erro. Ela difere da Apuração Especial ­ Base de Dados pois, esta leva em consideração a criação de um Script para atualização de vários registros em uma base de dados. Para cada manutenção de dados solicitada será remunerado o equivalente a 0,3 PFs. 17.23. Investigação de Erros envolvem análise e solução de problemas referentes a todo comportamento anormal ou indevido apontado pelo usuário nos sistemas aplicativos. Neste caso, CONTRATADA se mobilizará para encontrar a(s) causa(s) do problema ocorrido. Se for constatado erro de sistema, a OS será atendida como manutenção corretiva. 17.24. Se após a investigação de erros não for constatado o problema apontado pelo usuário ou se a causa do problema não for de responsabilidade da CONTRATADA (ex.: definição indevida de regras de negócio, uso incorreto do sistema, etc), será realizada a aferição do tamanho em Pontos de Função das funcionalidades verificadas, e será aplicado o fator de impacto de 20% (vinte por cento) ao seu tamanho funcional. 17.25. Havendo divergência entre as medições da CEB e da CONTRATADA, poderá ser realizada uma reunião entre as partes para a resolução das divergências.
+19
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+Caso o impasse prevaleça, poderá ser acionada uma auditoria externa para mediar a questão. 17.26. Toda medição de pontos de função realizada pela CONTRATADA deverá ser realizada por profissional com certificação Certified Function Point Specialist ­ CFPS, vigente, emitida por instituição oficial. 17.27. Os Serviços de Consultoria serão estimados previamente em horas conjuntamente pela CEB e pela CONTRATADA com base no escopo definido na Ordem de Serviço.
+
+18. FISCALIZAÇÃO DOS SERVIÇOS
+18.1. A Fiscalização dos serviços será acompanhada pelo Fiscal do Contrato especialmente designado pela CEB, o qual deverá conferir os relatórios dos serviços executados pela CONTRATADA quando da entrega das Notas Fiscais ou Faturas, e atestar a prestação dos serviços, quando executados satisfatoriamente, para fins de pagamento. 18.2. O objeto deste Termo de Referência estará sujeito a mais ampla e rigorosa fiscalização, a qualquer tempo, em todas as áreas abrangidas pelos serviços, obrigando a empresa a prestar todos os esclarecimentos necessários que forem solicitados. 18.3. Ao fiscal do contrato cabe também discutir aspectos relacionados à qualidade dos serviços e formular recomendações técnicas, administrativas e gerenciais para a melhoria contínua da qualidade dos serviços. 18.4. Ao Fiscal do Contrato fica assegurado o direito de exigir o cumprimento de todos os itens constantes do Termo de Referência, da proposta da CONTRATADA e das cláusulas deste futuro contrato. 18.5. A presença do Fiscal do Contrato como representante da CEB não diminuirá a responsabilidade da empresa, por quaisquer irregularidades resultantes de imperfeições técnicas, que não implicarão co-responsabilidade da CEB ou do servidor designado para a fiscalização. 18.6. O Fiscal do Contrato poderá sustar, recusar, mandar refazer quaisquer serviços que estejam em desacordo com as especificações técnicas, e as constantes deste projeto básico, determinando prazo para a correção de possíveis falhas ou substituições de produtos em desconformidade com o solicitado. 18.7. Eventuais irregularidades de caráter urgente deverão ser comunicadas, por escrito, ao Fiscal de Contrato com os esclarecimentos julgados necessários e, as informações sobre possíveis paralisações de serviços, a apresentação de relatório técnico ou razões justificadoras a serem apreciadas e decididas pelo servidor designado.
+20
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+19. SEGURANÇA DA INFORMAÇÃO
+
+19.1. A CONTRATADA é integralmente responsável pela manutenção de sigilo sobre quaisquer dados, informações, códigos-fonte, artefatos, contidos em quaisquer documentos e em quaisquer mídias, de que venha a ter conhecimento durante a execução dos trabalhos, não podendo, sob qualquer pretexto e forma divulgar, reproduzir ou utilizar. 19.2. A CEB terá propriedade sobre todos os documentos, artefatos e procedimentos operacionais produzidos no escopo da presente contratação, que devem ser gerados e entregues de acordo com os padrões e formatos definidos por ela. 19.3. Os recursos eventualmente cedidos pela CEB para a realização dos serviços não poderão ser utilizados pela CONTRATADA para realização de atividades alheias aos serviços previstos ou englobados nesta contratação, exceto quando autorizado pela CEB.
+
+20. GARANTIA DOS SERVIÇOS
+
+20.1. Durante a vigência do contrato, todos os eventuais erros ou falhas identificados nos serviços prestados pela CONTRATADA deverão ser corrigidos por ela, sem ônus para a CEB. 20.2. A manutenção corretiva citada na seção Detalhamento dos Serviços, não será remunerada pela CEB quando o erro a ser corrigido pertencer a alguma funcionalidade que tenha sido objeto de serviço prestado pela CONTRATADA, independente deste erro ser fruto do serviço feito pela CONTRATADA ou préexistente ao contrato. 20.3. Quando a manutenção corretiva for solicitada para correção de erros no EVOLUZ pré-existentes a esta contratação e em alguma funcionalidade que não tenha sido objeto de serviço da CONTRATADA, estas serão medidas e remuneradas como uma manutenção evolutiva. O mesmo se aplica a erros em funcionalidades que já foram objeto de serviço da CONTRATADA mas que tenham sido modificadas posteriormente pela CEB.
+
+21 EXIGÊNCIAS DA CONTRATADA
+21.1 Recrutar e contratar mão de obra especializada, qualificada e em quantidade suficiente à perfeita prestação dos serviços, em seu nome e sob sua responsabilidade, sem qualquer solidariedade da CEB, cabendo-lhe efetuar todos
+21
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+os pagamentos, inclusive os relativos aos encargos previstos na legislação trabalhista, previdenciária e fiscal, bem como de seguros e quaisquer outros decorrentes da sua condição de empregadora. Assumindo ainda, com relação ao contingente alocado, total responsabilidade pela coordenação e supervisão dos encargos administrativos, tais como: controle, fiscalização e orientação técnica, controle de freqüência, ausências permitidas, licenças autorizadas, férias, punições, admissões, demissões, transferências e promoções. 21.2 Informar a CEB, para efeito de controle de acesso às suas dependências, o nome, CPF e no número da carteira de identidade dos colaboradores disponibilizados para a prestação de serviços, bem como ocorrências de afastamento definitivo e as substituições em casos de falta, ausência legal ou férias. 21.3 Assegurar, nos casos de greve ou paralisação de seus colaboradores, a continuação da prestação dos serviços, por meio da execução de ações de contingências, inclusive nos casos de greve ou paralisação dos transportes públicos, hipótese em que deverá promover, às suas expensas, os meios necessários para que seus colaboradores cheguem a seus locais de trabalho. 21.4 Manter seus empregados, quando nas dependências da CEB, devidamente identificados com crachá subscrito pela CONTRATADA, no qual constará, no mínimo, sua razão social, nome completo do colaborador e sua fotografia. 21.5 A seleção, a designação e a manutenção do quadro de profissionais alocados ao contrato são de exclusiva responsabilidade da CONTRATADA. 21.6 Fornecer as devidas notas fiscais/faturas, nos termos da lei e cumprir todas as obrigações fiscais decorrentes da execução do Contrato, responsabilizando-se por quaisquer infrações fiscais daí advindas, desde que a infração fiscal tenha resultado de obrigação da CONTRATADA. 21.7 Atender aos prazos estabelecidos e acordados nas Ordens de Serviço abertas pela CEB. 21.8 Assumir total responsabilidade pelo sigilo das informações e dados, contidos em quaisquer mídias e documentos, que seus empregados ou prepostos vierem a obter em função dos serviços prestados à CEB, respondendo pelos danos que venham a ocorrer. 21.9 Não veicular publicidade ou qualquer informação quanto à prestação do objeto desta contratação sem prévia autorização da CEB. 21.10 Respeitar os direitos de propriedade intelectual relativo ao uso, proteção e segurança dos programas.
+
+22. TRANSIÇÃO CONTRATUAL
+
+22
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+22.1. 1.
+
+Transição Contratual Inicial
+
+O licitante vencedor deve estar apto a iniciar a execução dos serviços em até 30 (trinta) dias corridos, contados da data de assinatura do contrato. A data de início dos serviços deverá ser indicada pela CONTRATADA, em comunicado formal à CEB, com antecedência mínima de 2 (dois) dias úteis deste início. No prazo de quinze dias, contados da assinatura do contrato, os representantes da CONTRATADA deverão participar de reunião de alinhamento de expectativas contratuais com a equipe de técnicos da CEB. A CEB fará a convocação dos representantes da CONTRATADA até dois dias úteis de antecedência, quando fornecerá a pauta da reunião. A CONTRATADA encaminhará à CEB, antes da data de início dos serviços, relação nominal dos técnicos disponíveis para execução dos serviços, com indicação dos perfis exigidos, acompanhada dos currículos individuais e cópias dos certificados exigidos. Sempre que houver alteração da relação de técnicos, a CONTRATADA deverá remeter à CEB, tempestivamente, lista atualizada, bem como currículos e cópias dos certificados dos novos técnicos incluídos na lista. A CEB analisará a documentação recebida, à luz das especificações, podendo solicitar a substituição dos profissionais que não possuam as qualificações mínimas exigidas para o perfil. Apenas os técnicos formalmente indicados pelo CONTRATADO podem ser alocados para execução dos serviços, exceto em situações excepcionais mediante anuência prévia do CEB. 22.2. Transição Contratual Final
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+1.
+
+Todo conhecimento adquirido ou desenvolvido bem como toda informação produzida e/ou utilizada para a execução do projeto ou serviços contratados deverão ser disponibilizados à CEB ou empresa por ela designada até a data de finalização do contrato. Para isso, um Plano de Transição Final, contemplando todas as atividades necessárias para a completa transição deverá ser entregue à CEB pela CONTRATADA pelo menos 03 (três) meses antes da expiração ou da finalização do contrato. É de responsabilidade da CONTRATADA a execução do Plano de Transição Final, bem como a garantia do repasse bem sucedido de todas as informações necessárias para a continuidade dos serviços pela CEB ou empresa por ela designada. É de responsabilidade da CEB (ou da empresa por ela designada) a disponibilidade dos recursos qualificados identificados no Plano de Transição Final como receptores do serviço.
+23
+
+2.
+
+3.
+
+4.
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+5.
+
+O fato de a CONTRATADA ou seus representantes não cooperarem ou reterem qualquer informação ou dado solicitado pela CEB, que venha a prejudicar, de alguma forma, o andamento da transição das tarefas e serviços para um novo prestador, constituirá quebra de CONTRATO, sujeitando-a as obrigações em relação a todos os danos causados à CEB por esta falha. A elaboração e execução do Plano de Transição Final ocorrerão em paralelo ao atendimento das Ordens de Serviços. A CEB reserva-se o direito de reduzir ou dispensar o Plano de Transição Contratual Final conforme sua conveniência.
+
+6.
+
+7.
+
+23. PAGAMENTO
+
+23.1 Para o pagamento dos serviços prestados, a CONTRATADA deverá encaminhar à CEB até o quinto dia útil do mês subsequente ao da prestação dos serviços relatório de fechamento mensal, acompanhado da correspondente nota fiscal/fatura. Junto à nota fiscal/fatura deverá ser apresentada documentação que comprove a regularidade fiscal da empresa contratada. 23.2 A remuneração das Ordens de Serviço considerará o quantitativo de resultados recebidos e atestados como aderentes às especificações, e não o esforço alegadamente gasto para o seu atendimento; além de considerar os níveis de serviço estabelecidos. 23.3 O pagamento será realizado com base nas OS Aceitas no período e consiste na multiplicação dos pontos de função da sua medição final pelo valor do ponto de função estabelecido em contrato, conforme formula abaixo: Remuneração = PF x R$/PF 23.4 O pagamento das eventuais OS no período que forem dimensionadas em horas consiste na multiplicação destas horas pelo valor da hora estabelecida em contrato, conforme formula abaixo: Remuneração = H x R$/H 23.5 O Relatório de Fechamento Mensal deve conter a relação de ordens de serviço executadas e aceitas pela CEB até o término do mês anterior, os indicadores de nível de serviço alcançados e o valor total a ser pago. 23.6 No prazo máximo de cinco dias úteis, contados do recebimento do relatório de fechamento mensal, a CEB deverá se certificar da correção deste e, se for o caso, atestar os serviços referentes à nota fiscal/fatura apresentada para fins de pagamento. 23.7 A nota fiscal/fatura emitida deverá conter apenas os serviços efetivamente executados e aceitos pela CEB, conforme relatório de fechamento mensal.
+24
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+23.8 No prazo máximo de dez dias úteis, contados do recebimento do relatório de fechamento mensal, poderá, a critério da CEB, ser realizada reunião de fechamento mensal com a participação deste e da CONTRATADA, para tratar de eventuais melhorias na prestação dos serviços. A reunião de fechamento mensal será agendada com a CONTRATADA com no mínimo um dia útil de antecedência. 23.9 No caso de incorreção nos documentos apresentados, inclusive na Nota Fiscal/Fatura, serão estes restituídos à CONTRATADA para as correções solicitadas, não respondendo a CEB por quaisquer encargos resultantes de atrasos na liquidação dos pagamentos correspondentes.
+
+24. TREINAMENTO / CAPACITAÇÃO
+Não há previsão de treinamento a ser ministrado pela CEB DISTRIBUIÇÃO aos empregados da contratada.
+
+25
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+ANEXO I CRONOGRAMA DE DESEMBOLSO
+
+Parcela 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+Mês/Ano Novembro/2011 Dezembro/2011 Janeiro/2012 Fevereiro/2012 Março/2012 Abril/2012 Maio/2012 Junho/2012 Julho/2012 Agosto/2012 Setembro/2012 Outubro/2012 TOTAL
+
+Valor R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 137.500,00 R$ 1.650.000,00
+
+26
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+ANEXO II PLANILHA DE COMPOSIÇÃO DETALHADA DOS CUSTOS ELABORADA PELA CEB DISTRIBUIÇÃO
+
+ITEM
+01 02
+
+DESCRIÇÃO
+PONTO DE FUNÇÃO HORA DE CONSULTORIA
+
+QUANTIDADE
+2.400 PF 3.000 HORAS
+
+VALOR UNITÁRIO
+R$ 550,00 R$ 110,00
+
+VALOR TOTAL
+R$ 1.320.000,00 R$ 330.000,00
+
+VALOR GLOBAL
+
+R$ 1.650.000,00
+
+27
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+ANEXO III PLANILHA DE COMPOSIÇÃO DETALHADA DOS CUSTOS - MODELO PARA PREENCHIMENTO PELO LICITANTE
+
+ITEM
+01 02
+
+DESCRIÇÃO
+PONTO DE FUNÇÃO HORA DE CONSULTORIA
+
+QUANTIDADE
+2.400 PF 3.000 HORAS
+
+VALOR UNITÁRIO
+R$ R$
+
+VALOR TOTAL
+R$ R$
+
+VALOR GLOBAL
+
+R$
+
+28
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+ANEXO IV VISÃO GERAL DO EVOLUZ
+O EVOLUZ possui aproximadamente 400 usuários ativos atualmente, atendendo a todas as empresas do grupo CEB. O sistema está configurado para Multiorg. Módulos Principais módulos que compõem o EVOLUZ: Módulo Financeiro Contabilidade (General Ledger ­ GL) Orçamento (General Ledger ­ GL) Contas a pagar (Accounts Payables - AP) Contas a Receber (AccountsReceivables - AR) Ativo Fixo (FixedAssets - FA) Análise Financeira (Financial Analyser ­ OFA) Controle de Despesas (Self-Services Expenses) BIS Financeiro (Financials Intelligence) Módulo de Suprimentos Compras (Purchasing - PO) Inventário (Inventory - INV) Recebimento Integrado (RI) Custo (Custo Médio Diário ­ CMD) Controle de Compras (Self-Service Purchasing) Licitação* Banco de Preços* Módulo de Manufatura Estrutura de Produtos (Bill of Materials - BOM) Controle da Produção (Work in Process - WIP) Controle da Produção (Material Requirements Planning - MRP) Controle de Projetos (Projects ­ PA) Qualidade (Quality ­ QA) Módulo de Recursos Humanos Gestão de Pessoas (Human Resources ­ HR) Administração do Treinamento (Training Administration ­ OTA) Controle de Recursos Humanos (Self-Service HRMS) · Os módulos Licitação e Banco de Preços foram desenvolvidos pela CEB (em Oracle Forms e Reports), não fazem parte do Business Suite da Oracle, mas
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+complementam o pacote de funcionalidades a serem sustentadas no EVOLUZ nesta contratação. Integrações com Outras Aplicações O EVOLUZ interage atualmente com as aplicações descritas a seguir. Estas aplicações estão fora do escopo do serviço de sustentação a ser contratado. Porém o desenvolvimento de novas integrações e/ou manutenção nestas integrações existentes está no escopo do serviço de sustentação a ser contratado.
+
+Aplicação GCO (Billing, Faturamento) Arrecadação, Cadastro de Clientes
+
+Fornecedor e Própria CEB Própria CEB Própria CEB Soltec MasterSAF IBM Nexxera Paradigma Techware Techware XRT XRT XRT XRT
+
+GR (Gestão de Relacionamento) GS (Gestão de Serviços) GT (Gestão Técnica) MasterSAF (IN86 e Livros Fiscais) Maximus Nexxera Sistema de Gestão de Contratos de Energia RHEVEOLUTION (Folha de Pagamento) Portal de Gestão de Pessoal Tesouraria Operações Financeiras Planejamento Financeiro Conciliação Bancária Tecnologia do EVOLUZ Desenvolvimento · Oracle Database Enterprise Edition (versão 8.1.7.4) · · · · · · · Oracle Applications (versão 11.0.3) Express Server (versão 6.3)
+
+Enterprise Developer Suite (versão 1.2), Forms (4.5), Reports (2.5) Discoverer Administration Edition (versão 3.1) Developer 2000 PL/SQL Oracle Web Server (versão 3.0)
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+· · ·
+
+Java Edition (versão 1.1.3) Workflow Enterprise Edition (versão 2.0.3) Alert
+
+Ambiente Hardware/Software · · · 1 servidor RISC SunFIRE V880 com sistema operacional Solaris 2.8 e banco de dados Oracle versão 8.1.7.4 (servidor de banco de dados de produção) 1 servidor RISC Sun E450 com sistema operacional Solaris 2.6 e banco de dados Oracle versão 8.1.7.4 (servidor de banco de dados de desenvolvimento) 1 servidor RISC Sun E450 com sistema operacional Solaris 2.6 e banco de dados Oracle versão 8.1.7.4 (servidor de aplicação ­ produção e desenvolvimento.
+
+CEB DISTRIBUIÇÃO S.A.
+SIA Área de Serviço Público, Lote C Bloco E ­ CEP 71.215-902 Brasília ­ DF CNPJ: 07.522.669/0001-92 ­ Inscrição Estadual: 07.468.935/001-97 Internet: http://www.ceb.com.br
+
+ANEXO V MODELO SUGERIDO DE ORDEM DE SERVIÇO
+ORDEM DE SERVIÇO
+
+Data: XX/XX/XXXX
+
+Prestação de serviços de sustentação do EVOLUZ
+
+NÚMERO DA OS Contrato n.º XX/AAAA EMPRESA CONTRATADA
+
+1. IDENTIFICAÇÃO DO OBJETO 2. TIPO DE SERVIÇO
+( ) Manutenção Corretiva ­ Serviço em Garantia ( ) NÃO ( ) SIM ­ OS Original: ______ - Criticidade: ( ) Baixa ( )Média ( )Alta ( ) Manutenção Evolutiva ( ) Manutenção Adaptativa ( ) Consultoria
+
+3. DEFINIÇÃO DE ESCOPO
+
+4. PRAZO PARA EXECUÇÃO Inicio DD/MM/AAAA 5. DOCUMENTOS COMPLEMENTARES
+Item 1. 2. 3. Item 1. 2. 3. Documento
+
+Término DD/MM/AAAA
+
+6. PRODUTOS QUE SERÃO ENTREGUES
+Produtos Data da Entrega dd/mm/aaaa dd/mm/aaaa dd/mm/aaaa
+
+

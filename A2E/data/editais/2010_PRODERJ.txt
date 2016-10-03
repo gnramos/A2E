@@ -1,0 +1,1807 @@
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+EDITAL DE PREGÃO ELETRÔNICO Nº 012/ 2010 REGISTRO DE PREÇOS - RP PARA DESENVOLVIMENTO E/OU IMPLEMENTAÇÃO / MANUTENÇÃO DE SISTEMAS 1 ­ INTRODUÇÃO 1.1 - O ESTADO DO RIO DE JANEIRO, através do CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO ­ PRODERJ, Autarquia Estadual vinculada à Secretaria de Estado da Casa Civil, com sede na Av. Nilo Peçanha nº 175/22º andar ­ Centro ­ Rio de Janeiro ­ RJ, torna público que, devidamente autorizado pelo seu Ordenador de Despesas, Vice-Presidente, na forma do disposto no processo administrativo nº E12/660629/2010, que no dia, hora e local indicados no item 3 deste Edital, será realizada a licitação na modalidade PREGÃO ELETRÔNICO, do tipo MENOR PREÇO GLOBAL, que será regido pela Lei Federal nº 10.520 de 17 de julho de 2002, pelo Decreto Estadual nº 31.864, de 16 de setembro de 2002; Decretos Estaduais nºs 41.533, de 04 de novembro de 2008; nº 40.873, de 02 de agosto de 2007; nº 41.135, de 21 de janeiro de 2008; nº 42.216, de 05 de janeiro de 2010, com aplicação subsidiária da Lei nº 8.666, de 21 de junho de 1993 e suas alterações; da Lei Estadual nº 287, de 04 de dezembro de 1979, da Lei Complementar nº 123, de 14 de dezembro de 2006 e do Decreto Estadual nº 3.149 de 28 de abril de 1980, e respectivas alterações, além das demais disposições legais aplicáveis e do disposto no presente Edital. 1.2 ­ A sessão pública de processamento do Pregão Eletrônico será realizada no endereço eletrônico www.licitacoes-e.com.br, no dia e hora indicados no item 3 deste Edital e será conduzida pelo Pregoeiro com o auxílio da equipe de apoio, todos designados nos autos do processo em epigrafe. 1.3 ­ As retificações deste Edital, por iniciativa oficial ou provocada por eventuais impugnações, obrigarão a todos os licitantes o seu atendimento, devendo ser publicadas em todos os veículos em que se deu a publicação originária, reabrindo-se o prazo inicialmente estabelecido, exceto quando, inquestionavelmente, a modificação não alterar a formulação das propostas. 1.4 ­ O Edital e seus anexos encontram­se disponíveis nos endereços eletrônicos www.proderj.rj.gov.br e www.licitacoes-e.com.br , podendo, alternativamente, ser obtida uma via impressa mediante a permuta de 01 (uma) resma de papel A-4, 75g/m2, a apresentação do carimbo do CNPJ, o número de telefone, fax e o endereço eletrônico (e-mail), na Av. Nilo Peçanha nº 175/23º andar (entrada pela Rua da Ajuda nº 5) ­ Centro ­ Rio de Janeiro ­ RJ, de segunda a sexta-feira nos horários de 10:00 às 12:30 horas e de 14:00 às 18:00 horas, até 24 horas antes da data marcada para a realização do certame. 1.5 ­ Os interessados poderão solicitar esclarecimentos acerca do objeto deste Edital ou interpretação de qualquer de seus dispositivos em até 02 (dois) dias úteis anteriores à abertura da sessão, por escrito, no endereço acima citado, de 10:00 às 18:00 horas, ou ainda através do telefax nº (21) 2333-0263 ou e-mail: cdl@proderj.rj.gov.br . 1.5.1 ­ Caberá ao Pregoeiro, auxiliado pelo setor demandante do serviço, responder aos pedidos de esclarecimentos no prazo de até 24 (vinte e quatro) horas, antes do encerramento do prazo de acolhimento de propostas.
+
+PE RP Nº 012/10
+
+1
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+1.6 ­ Os interessados poderão formular impugnações ao Edital em até 02 (dois) dias úteis anteriores à abertura da sessão, no endereço citado no subitem 1.4, de 10:00 às 18:00 horas, ou ainda, através do telefax nº (21) 2333-0263 ou e-mail: cdl@proderj.rj.gov.br . 1.6.1 ­ Caberá à autoridade superior do PRODERJ, auxiliado pelo Pregoeiro, decidir sobre a impugnação no prazo de até 24 (vinte e quatro) horas. 1.7 ­ Tanto a resposta às impugnações quanto aos pedidos de esclarecimentos serão divulgados mediante nota nos sites www.proderj.rj.gov.br e www.licitacoes-e.com.br , ficando as empresas interessadas em participar do certame, que não adquiriram o Edital no mencionado Órgão, obrigadas a cessa-los para a obtenção das informações prestadas. 2 ­ DO OBJETO 2.1 ­ O objeto do presente Pregão é o Registro de Preços por 12 (doze) meses, de prestação de serviços, sob demanda, de desenvolvimento de sistemas e/ou implementação e manutenção nas linguagens JAVA, PHP, ASP e/ou ASP.NET e/ou C#.NET, COBOL, DELPHI e/ou POWER BUILDER, C++, conforme o Termo de Referência (Anexo 1) e seus Apensos, para posterior atendimento aos Órgãos da Administração Pública Direta e Entidades da Administração Indireta e Fundacional ­ Órgãos Aderentes, situados no Estado do Rio de Janeiro. 2.2 - As quantidades mencionadas na Proposta de Preços (Anexo 2) referem-se a previsão de contratação dos serviços, por Pontos de Função, a partir do dimensionamento do total do Projeto ou Sistema que estiver sendo desenvolvido ou executado. Essas quantidades não implicam em obrigatoriedade de contratação pela Administração Pública, durante a vigência do Registro de Preços, servindo apenas como referencial para a elaboração das propostas dos licitantes. 2.3 ­ O valor do Ponto de Função será especificado para cada linguagem item, sendo que nas situações que forem demandas somente de implementação ou manutenção, será feito um desconto (recorte) no valor do ponto de função da CONTRATADA no percentual de 20% (vinte por cento). 3 ­ DA ABERTURA 3.1 - A abertura da presente licitação dar-se-á em sessão pública, por meio da INTERNET, mediante condições de segurança ­ criptografia e autenticação ­ em todas as suas fases, dirigida pelo Pregoeiro designado, a ser realizada de acordo com a legislação mencionada no preâmbulo deste Edital, conforme indicado abaixo:
+Posição Início de acolhimento das Propostas Limite de acolhimento das Propostas Data de abertura das Propostas Data da realização do Pregão Processo nº Tipo Prazo para Impugnação Data da Publicação Portal Número da licitação no portal Dia 21/06/2010 02/07/2010 02/07/2010 02/07/2010 E-12/660629/2010 Menor Preço Até 02 (dois) dias úteis 21/06/2010 312590 Mês Junho Julho Julho Julho Ano 2010 2010 2010 2010 Horário 11:00 10:15 10:15 11:00
+
+www.licitacoes-e.com.br
+
+PE RP Nº 012/10
+
+2
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+3.2 ­ Ocorrendo Ponto Facultativo, ou outro fato superveniente de caráter público, que impeça a realização deste evento nas datas acima marcadas, a licitação ficará automaticamente prorrogada para o primeiro dia útil subsequente, independentemente de nova comunicação. 4 ­ DOS RECURSOS ORÇAMENTÁRIOS 4.1 - Os recursos necessários à realização do serviço ora licitado correrão à conta da Natureza da Despesa e do Programa de Trabalho próprio de cada Órgão Aderente. 4.2 - VALOR GLOBAL ESTIMADO: R$ 49.502.950,00 5 ­ DO TIPO DE LICITAÇÃO 5.1 - O presente Pregão Eletrônico reger-se-á pelo tipo MENOR PREÇO GLOBAL. 5.2 - Os preços unitários máximos aceitáveis para esta contratação são os seguintes: 5.2.1 5.2.2 5.2.3 5.2.4 5.2.5 5.2.6 Desenvolvimento em JAVA Desenvolvimento em PHP Desenvolvimento em ASP.NET e/ou C#.NET ASP Preço Unitário ­ R$ 826,44 Preço Unitário ­ R$ 695,99 e/ou Preço Unitário ­ R$ 722,27 Preço Unitário ­ R$ 821,74 e/ou Preço Unitário ­ R$ 719,97 Preço Unitário ­ R$ 800,40
+
+Desenvolvimento em COBOL Desenvolvimento em POWER BUILDER Desenvolvimento em C++ DELPHI
+
+6 ­ DAS CONDIÇÕES DE PARTICIPAÇÃO 6.1 - Poderão participar do certame as pessoas físicas ou jurídicas que atuem em ramo de atividade compatível com o objeto licitado, inscritas ou não no Registro Central de Fornecedores do Estado - RCF, mantido pela Subsecretaria de Recursos Logísticos ­ SUBLO da Secretaria de Estado de Planejamento e Gestão - SEPLAG. 6.2 - Não serão admitidas na licitação as empresas punidas, no âmbito da Administração Pública Estadual, com as sanções prescritas nos incisos III e IV do art. 87, da Lei nº 8.666/93. 6.3 ­ Não será permitida a participação na licitação de mais de uma empresa sob o controle de um mesmo grupo de pessoas, físicas ou jurídicas. 6.4 - Não será permitida a participação na licitação das pessoas físicas e jurídicas arroladas no art. 9º da Lei nº 8.666/93. 6.5 ­ O licitante que se enquadrar como Microempresa ou Empresa de Pequeno Porte deverá declarar, no momento de inserção de sua proposta, junto ao Sistema Eletrônico, que cumpre os requisitos previstos na Lei Complementar nº 123, 14 de dezembro de 2006, em especial quanto ao seu art. 3º.
+
+PE RP Nº 012/10
+
+3
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+7 ­ DO CREDENCIAMENTO 7.1 Somente poderão participar deste Pregão Eletrônico os licitantes devidamente credenciados junto ao provedor do Sistema na página eletrônica www.licitacoes-e.com.br devendo o credenciamento ser realizado no prazo de até 03 (três) dias úteis antes da data da abertura da sessão, conforme previsto no art. 5º, parágrafo 2º do Decreto nº 31.864/2002. 7.2 - O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao Sistema Eletrônico. 7.2.1 ­ O licitante deverá dirigir-se ao provedor do Sistema e solicitar o seu registro, fornecendo todos os documentos que forem por eles solicitados. 7.3 - O uso da senha de acesso pelo licitante é de sua responsabilidade exclusiva, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do Sistema ou ao Órgão promotor da licitação responsabilidade por eventuais danos decorrentes de uso indevido de senha, ainda que por terceiros. 7.4 - A perda da senha ou a quebra do sigilo deverão ser comunicadas imediatamente ao provedor do Sistema, para imediato bloqueio de acesso. 7.5 - O credenciamento do licitante junto ao provedor do Sistema implica na presunção de sua capacidade técnica para realização das operações inerentes ao Pregão Eletrônico. 8 - DA CONEXÃO COM O SISTEMA E DO ENVIO DAS PROPOSTAS 8.1 - Observado o disposto nos itens 6 e 7 deste Edital, a participação neste Pregão Eletrônico dar-se-á por meio da conexão do licitante ao Sistema Eletrônico, pela digitação de sua senha privativa e subseqüente encaminhamento da Proposta de Preços, exclusivamente por meio do Sistema Eletrônico www.licitacoes-e.com.br, no período compreendido entre a data de início e de encerramento do acolhimento das Propostas, conforme subitem 3.1 deste Edital. 8.2 - O licitante será responsável por todas as transações que forem efetuadas em seu nome no Sistema Eletrônico, assumindo como firmes e verdadeiras suas propostas e lances. 8.3 - Como requisito para a participação no Pregão Eletrônico, o licitante deverá manifestar, sob as penas da lei, em campo próprio do Sistema Eletrônico, o pleno conhecimento e atendimento às exigências de habilitação previstas neste Edital. 8.4 - Ao licitante incumbirá, ainda, acompanhar as operações no Sistema Eletrônico durante a sessão pública do Pregão Eletrônico, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo Sistema ou de sua desconexão. 9 - DA PROPOSTA DE PREÇOS 9.1 - A Proposta de Preços deverá ser elaborada e enviada exclusivamente por meio do Sistema Eletrônico, em campo específico a ser integralmente preenchido. 9.1.1 ­ Até a abertura da sessão, os licitantes poderão retirar ou substituir a Proposta anteriormente apresentada.
+
+PE RP Nº 012/10
+
+4
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+9.1.2 ­ O formulário de Proposta de Preços (Anexo 2), em sua forma impressa, somente será utilizado pelo licitante vencedor com vistas a readequação de sua oferta final. 9.1.3 ­ Os documentos anexados durante a inserção da Proposta no campo "informações adicionais" (folders, prospectos, declarações, etc) não poderão estar identificados, ou seja, não será admitida a veiculação do nome da empresa ou de seus representantes, utilização de material timbrado ou qualquer outro meio que facilite a identificação do licitante. 9.1.4 ­ As Propostas não poderão impor condições ou conter opções, somente sendo admitidas Propostas que ofertem apenas uma marca, um modelo e um preço para cada material (s) constante (s) do objeto desta licitação. 9.2 - A cotação de preços englobará todas as despesas relativas ao objeto do contrato, bem como os respectivos custos diretos e indiretos, tributos, remunerações, despesas fiscais e financeiras e quaisquer outras necessárias ao cumprimento do objeto desta Licitação, salvo expressa previsão legal. Nenhuma reivindicação adicional de pagamento ou reajustamento de preços será considerada. 9.3 - O licitante, cujo estabelecimento esteja localizado no Estado do Rio de Janeiro, deverá apresentar Proposta isenta de ICMS, quando cabível, de acordo com o Convênio CONFAZ Nº 26/2003 e a Resolução SER Nº 047/2003, com alteração introduzida pela Resolução SER Nº 121/2004 sendo este valor considerado para efeito de competição na licitação. 9.4 - Serão desclassificadas as Propostas que: 9.4.1 - Não atendam aos requisitos deste Edital. 9.4.2 - Apresentarem preços excessivos ou manifestamente inexeqüíveis. 9.5 - A Proposta deverá limitar-se ao objeto desta licitação, sendo desconsideradas quaisquer alternativas de preço ou qualquer outra condição não prevista no Edital. 9.6 ­ Os licitantes ficam obrigados a manter a validade da proposta por 60 (sessenta) dias úteis, contados da data da abertura da sessão, conforme disposto no item 3. 9.6.1 - Se por motivo de força maior, a adjudicação não puder ocorrer dentro do período de validade da Proposta, ou seja, 60 (sessenta) dias, e caso persista o interesse do PRODERJ este poderá solicitar a prorrogação da validade da proposta por igual prazo. 10 ­ DA ABERTURA DAS PROPOSTAS E DA FORMULAÇÃO DE LANCES 10.1 - A partir do horário previsto no subitem 3.1 deste Edital, terá início a sessão de abertura do Pregão Eletrônico, ficando os licitantes no aguardo do término da análise da conformidade das Propostas e início da disputa de preços, quando poderão encaminhar lances, exclusivamente por meio do Sistema Eletrônico, sendo o licitante imediatamente informado do seu recebimento e respectivo horário de registro e valor. 10.2 - Os licitantes poderão oferecer lances sucessivos, observados o horário fixado e as suas regras de aceitação.
+
+PE RP Nº 012/10
+
+5
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+10.3 - Só serão aceitos os lances cujos valores forem inferiores ao último ofertado pelo próprio licitante e registrado no Sistema. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar. 10.4 - Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance registrado, vedada a identificação do detentor do lance. 10.5 - No caso de desconexão do Pregoeiro, no decorrer da etapa competitiva do Pregão Eletrônico, o Sistema Eletrônico permanecer acessível aos licitantes para a recepção dos lances, retornando o Pregoeiro, quando possível, sua atuação no certame, sem prejuízo dos atos realizados. 10.6 - Quando a desconexão do Pregoeiro persistir por tempo superior a 10 (dez) minutos, a sessão do Pregão Eletrônico será suspensa e terá reinício somente após a comunicação expressa aos participantes, através de aviso inserto em campo próprio do Sistema Eletrônica, divulgando data e hora para a reabertura da sessão. 10.7 - A etapa de lances da sessão pública será encerrada mediante aviso de fechamento iminente dos lances, emitido pelo Sistema Eletrônico aos licitantes, após o que transcorrerá período de até 30 (trinta) minutos, aleatoriamente determinado também pelo Sistema Eletrônico, findo o qual será automaticamente encerrada a recepção de lances. 10.8 - Caso não sejam apresentados lances, verificar-se-á a aceitabilidade da Proposta de menor valor, considerando-se o valor estimado para a contratação. 11 ­ DO JULGAMENTO DAS PROPOSTAS 11.1 - A presente licitação será julgada sob o critério de MENOR PREÇO GLOBAL. 11.2 ­ O Sistema Eletrônico informará o licitante detentor da proposta ou do lance de menor valor, imediatamente após o encerramento da etapa de lances da sessão pública ou, quando for o caso, após verificação de empate ficto, nos termos do subitem 11.3 deste Edital, cabendo decisão, pelo Pregoeiro, acerca da aceitação do menor lance ofertado e, ainda, negociação visando a redução do valor. 11.3 ­ Havendo empate no momento do julgamento das Propostas será assegurada às Microempresas e Empresas de Pequeno Porte preferência na contratação, caso a Proposta de menor preço tenha sido apresentada por empresa que não detenha tal condição. 11.3.1 - Para efeito de verificação das existências de empate, no caso das Microempresas ou Empresas de Pequeno Porte, serão consideradas as Propostas por estas apresentadas iguais ou superiores em até 5% (cinco por cento) àquela mais bem classificada. 11.3.2 - Havendo empate, proceder-se-á da seguinte forma: a) A Microempresa ou Empresa de Pequeno Porte mais bem classificada será convocada para apresentar proposta de preço inferior àquela vencedora do certame no prazo máximo de 05 (cinco) minutos, após o encerramento da fase de lances, sob pena de preclusão. b) Caso a Microempresa ou Empresa de Pequeno Porte, que se apresente neste caso, abdique desse direito ou não venha a ser contratada, serão convocadas, na ordem classificatória, as demais que se enquadrem na mesma hipótese, para o exercício de igual direito.
+PE RP Nº 012/10
+
+6
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+c) Na situação de empate na forma antes prevista, inexistindo oferta de lances e existindo equivalência nos valores apresentados por mais de uma Microempresa ou Empresa de Pequeno Porte, o Sistema identificará aquela que primeiro inseriu sua Proposta, de modo a possibilitar que esta usufrua a prerrogativa de apresentar oferta inferior à melhor classificada. 11.3.3 ­ Caso nenhuma Microempresa ou Empresa de Pequeno Porte venha a ser contratada pelo critério de desempate, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame. 11.4 - Se a proposta ou o lance de menor valor não for aceitável, o Pregoeiro examinará a proposta ou o lance subseqüente, na ordem de classificação, verificando a sua aceitabilidade. Se for necessário, repetirá esse procedimento, sucessivamente, até a apuração de uma proposta ou lance que atenda ao Edital. 11.4.1 - Ocorrendo a situação a que se refere o subitem 10.8 e/ou o subitem 11.4 deste Edital, o Pregoeiro poderá negociar com o licitante para que seja obtido melhor preço. 11.5 - O Sistema gerará Ata circunstanciada, da sessão, na qual estarão registrados todos os atos do procedimento e as ocorrências relevantes, que estará disponível para consulta no endereço eletrônico www.licitacoes-e.com.br . 11.6 - Após a homologação do Pregão, será lavrada Ata de Registro de Preços ( Anexo 3) que depois de cumpridos os requisitos de publicidade, terá efeito de compromisso de fornecimento com os eventuais contratantes nas condições estabelecidas neste Registro de Preços, que será assinada pelo Ordenador de Despesas do PRODERJ e o licitante vencedor do certame. 11.6.2 - Na Ata de Registro de Preços constarão às condições gerais para contratação dos serviços licitados e na Minuta de Contrato (Anexo 6) todos os direitos e obrigações que deverão ser observados e devidamente cumpridos por parte dos Órgãos Aderentes ao RP. 11.7 ­ A critério do Pregoeiro, poderão ser relevados erros ou omissões formais de que não resultem prejuízo para o entendimento das propostas. 12 - DA HABILITAÇÃO 12.1 - Efetuados os procedimentos previstos no item 11 deste Edital, o licitante detentor da proposta ou do lance de menor valor deverá encaminhar os documentos à Comissão de Licitação, para o seguinte endereço: Av. Nilo Peçanha nº 175/23º andar ­ sala 2302 ­ Centro - Rio de Janeiro ­ RJ ­ CEP 20020-900, no prazo máximo de 03 (três) dias úteis, contados do encerramento da etapa de lances da sessão pública: a) A documentação de habilitação prevista no item 12.2; b) A Proposta de Preços - Anexo 2, relativa ao valor arrematado; e 12.2 - Os licitantes deverão apresentar os seguintes documentos de habilitação para participar do presente certame: 12.2.1 - Habilitação Jurídica a) Registro Comercial, no caso de empresário pessoa física;
+
+PE RP Nº 012/10
+
+7
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+b) Ato Constitutivo, Estatuto ou Contrato Social em vigor, devidamente registrado, em se tratando de sociedades empresariais, e, no caso de sociedades por ações, acompanhado de documentos de eleição de seus administradores. Os documentos em apreço deverão estar acompanhados de todas as alterações ou da consolidação respectiva; c) Inscrição do Ato Constitutivo, no caso de sociedades simples, acompanhada de prova da diretoria em exercício; d) Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no país, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. 12.2.2 - Regularidade Fiscal a) Prova de inscrição no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional de Pessoas Jurídicas (CNPJ); b) Prova de inscrição no cadastro de contribuintes estadual ou municipal, se houver, relativo ao domicílio ou sede do licitante, ou outra equivalente, na forma da lei; c) Prova de regularidade perante as Fazendas Federal, Estadual e Municipal do domicílio ou sede do licitante com apresentação das seguintes certidões: c.1) A prova de regularidade com a Fazenda Federal será efetuada por meio da Certidão Conjunta Negativa de Débitos relativos a Tributos Federais e à Dívida Ativa da União, ou Certidão Conjunta Positiva com efeito negativo, expedida pela Secretaria da Receita Federal do Brasil (RFB) e Procuradoria-Geral da Fazenda Nacional (PGFN), da sede do licitante. c.2) A prova de regularidade com a Fazenda Estadual será feita por meio da apresentação da Certidão Negativa ou Positiva com efeito negativo do Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) expedida pela Secretaria de Estado de Fazenda e Certidão da Dívida Ativa para fins de licitação expedida pela Procuradoria Geral do Estado, ou se for o caso, certidão comprobatória de que o licitante, pelo respectivo objeto, está isento de Inscrição Estadual. c.3) A Prova de regularidade com a Fazenda Municipal será feita por meio da Certidão Negativa ou Positiva com efeito negativo de Imposto Sobre Serviço (ISS) de qualquer natureza, ou se for o caso, certidão comprobatória de que o licitante, pelo respectivo objeto, está isento de Inscrição Municipal. d) Certidão Negativa de Débito, ou Certidão Positiva com efeito negativo referente à Contribuição Previdenciária e às de Terceiros, expedida pela Secretaria da Receita Federal do Brasil (RFB) da sede do licitante. e) Prova de regularidade perante o Fundo de Garantia por Tempo de Serviço (FGTS). 12.2.2.1 - Na hipótese de cuidar-se de Microempresa ou de Empresa de Pequeno Porte, na forma da lei, não obstante a obrigatoriedade de apresentação de toda a documentação habilitatória, a comprovação de regularidade fiscal somente será exigida para efeito de assinatura do contrato caso se sagre vencedora na licitação.
+
+PE RP Nº 012/10
+
+8
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+12.2.2.2 ­ Caso a documentação apresentada pela Microempresa ou de Empresa de Pequeno Porte contenha alguma restrição, lhe será assegurado o prazo de 02 (dois) dias úteis, contados da declaração do vencedor do certame (no momento imediatamente posterior à fase de habilitação), para regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas que tenham efeito negativo. 12.2.2.3 - O prazo acima poderá ser prorrogado por igual período, mediante requerimento do interessado, a critério exclusivo da Administração Pública. 12.2.2.4 - A não regularização da documentação no prazo estipulado implicará a decadência do direito à contratação, sem prejuízo da aplicação das sanções previstas no art. 81 da Lei nº 8.666, de 21 de junho de 1993. 12.2.3 - Qualificação Econômico-Financeira a) Certidões Negativas de Falências e recuperação judicial expedidas pelos distribuidores da sede da pessoa jurídica, ou de execução patrimonial, expedida no domicílio da pessoa física. Se o licitante não for sediado na Comarca da Capital do Estado do Rio de Janeiro, as certidões deverão vir acompanhadas de declaração oficial da autoridade judiciária competente, relacionando os distribuidores que, na Comarca de sua sede, tenham atribuição para expedir certidões negativas de falências e recuperação judicial, ou de execução patrimonial. b) Balanço Patrimonial e Demonstrações Contábeis do último exercício social, desde que já exigíveis e apresentados na forma da Lei, incluindo Termo de Abertura e Encerramento do livro contábil, que comprovem a boa situação financeira da empresa, vedada a sua substituição por balancetes ou balanços provisórios. O Balanço Patrimonial deverá apresentar Índice de Liquidez Geral (ILG) e Índice de Liquidez Corrente (ILC) igual ou maior do que 1. b. 1 - ILG = Ativo Circulante + Realizável a Longo Prazo > ou = 1 Passivo Circulante + Exigível a Longo Prazo b. 2 - ILC = Ativo Circulante Passivo Circulante > ou = 1
+
+b.3 - Os índices contábeis serão calculados pelo licitante e confirmados pelo responsável da contabilidade mediante assinatura e a indicação de seu nome e do número de registro no Conselho Regional de Contabilidade. c) Comprovação de ser dotado de capital social ou de patrimônio líquido mínimo igual ou superior a R$ 3.465.206,50 (três milhões, quatrocentos e sessenta e cinco mil, duzentos e seis reais e cinquenta centavos). 12.2.4 - Qualificação Técnica a) Comprovação de aptidão para desempenho de atividade pertinente e compatível em características, quantidades e prazos com o objeto da licitação, para um mínimo de 50% (cinqüenta por cento) da quantidade total do somatório de todos os itens, comprovando que o proponente executa ou executou serviços especializados de desenvolvimento, implementação e manutenção de sistemas de informação, utilizando a métrica de Análise de Pontos de Função (IFPUG). A referida aptidão será feita por atestados, fornecidos por pessoas jurídicas de direito público ou privado, devidamente registrados na entidade profissional competente.
+
+PE RP Nº 012/10
+
+9
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+a-1)Será aceito o somatório dos atestados referentes a contratos distintos, desde que dentro de um período máximo de 60 meses, cujos atestados citem o tamanho funcional do contrato/serviço em pontos de função (não será aceito atestado cuja unidade de contratação seja em homem hora). b) Comprovação, por meio de demonstração da ferramenta, de que a licitante utiliza uma ferramenta integrada para gestão de demandas e projetos, com acesso via Web. A ferramenta deverá atender aos requisitos constantes no item 3 do Termo de Referência (Anexo 1), os quais serão verificados por meio de prova de conceito c) Comprovação, por meio de demonstração da ferramenta, de que a licitante utiliza uma ferramenta integrada para gestão de ocorrências e bugs, com acesso via Web. A ferramenta deverá atender aos requisitos constantes no item 3 do Termo de Referência (Anexo 1), os quais serão verificados por meio de prova de conceito d) Comprovação de Certificação CMMI nível 3 ou superior ou MPS/BR Nível C. Essa comprovação deverá ser feita através da apresentação de laudo oficial de avaliação ou declaração emitida pela entidade certificadora. e) Comprovação do licitante de possuir em seu quadro, na data prevista para entrega da proposta, profissionais detentores das certificações abaixo descritas. Essa comprovação deverá ser feita através das correspondentes certificações. e-1) Certificação PMP ­ Project Management Professional -, em gerenciamento de projetos conferida pelo PMI ­ Project Management Institute. Apresentar cópia do certificado. e-2) Certificação CFPS - Certified Function Point Specialist -, conferido pelo IFPUG. cópia do certificado. Apresentar
+
+e-3) Uma das seguintes certificações Java: Sun Certified Java Programmer (SCJP); Sun Certified Java Developer (SCJD); Sun Certified Web Component Developer (SCWCD); Sun Certified Business Component Developer (SCBCD); Sun Certified Developer for Java Web Services (SCDJWS); Sun Certified Enterprise Architect (SCEA). Apresentar cópia do certificado. e-4) Certificação PHP Zend Certified Engineer (ZCE). e-5) Certificação MCSD for Microsoft.NET ou outra certificação oficial Microsoft que descreva experiência em .NET. e-6) Comprovação, através de certificado de conclusão, de participação em curso IBM Cobol. O certificado deve ser emitido pelo Fabricante ou por centro de treinamento autorizado. e-7) Comprovação, através de certificado de conclusão, de participação em curso Borland Delphi ou Borland Power Builder. O certificado deve ser emitido pelo Fabricante ou por centro de treinamento autorizado. f) Declaração da licitante confirmando que possui escritório na cidade do Rio de Janeiro, com no mínimo 40 (quarenta) postos de trabalho completos e indicando o endereço e o telefone de contato. O PRODERJ se reserva o direito de vistoriar as instalações.
+
+PE RP Nº 012/10
+
+10
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+g) Comprovação de Vistoria ­ O Atestado de Vistoria (Anexo 6) será entregue a empresa licitante após tomar conhecimento do Método de Desenvolvimento de Sistemas (MDS), na Diretoria de Sistemas de Informação ­ DSI, localizada na Av. Nilo Peçanha nº 175/24º andar - sala 2401Centro - RJ. g-1) A vistoria deverá ocorrer até 01 (um) dia antes da data da licitação, em dia e hora previamente marcados pelos telefones (21) 2333-0331 ou 2333-0333, com um representante da Diretoria de Sistemas de Informação - DSI, nos horários de 10:00 às 12:30 e de 14:00 às 17:00 horas. Devendo ser formalizada em 02 (duas) vias de igual teor, ambas assinadas por representantes da licitante e da DSI, sendo entregue uma delas a licitante para anexar à documentação do certame, permanecendo a outra em poder do PRODERJ. 12.3 - Declaração da licitante (Anexo 4) de que não possui em seu quadro funcional nenhum menor de dezoito anos desempenhando trabalho noturno, perigoso ou insalubre ou qualquer trabalho por menor de dezesseis anos, na forma do artigo 7.º, inciso XXXIII, da Constituição Federal. 12.3.1 - As empresas licitantes poderão optar por apresentar a Certidão Negativa de Ilícitos Trabalhistas emitida pela Delegacia Regional do Trabalho ao invés da declaração mencionada no item anterior. 12.4 - Declaração da licitante (Anexo 5), na forma do disposto no Decreto Estadual nº 33.925 de 18.09.2003, de que preenche em seus quadros, o percentual mínimo de empregados beneficiários de Previdência Social reabilitados ou com pessoa portadora de deficiência habilitada, na seguinte proporção: a) b) c) d) De cem a duzentos empregados, 2% (dois por cento); De duzentos e um a quinhentos empregados, 3% (três por cento); De quinhentos e um a mil empregados, 4% (quatro por cento); Mais de mil empregados, 5% (cinco por cento).
+
+12.4.1 - A empresa com menos de 100 (cem) empregados está isenta do cumprimento do Decreto supramencionado, porém deverá, também, apresentar declaração relativa a quantidade existente em seu quadro funcional. 12.4.2 - Poderá o ordenador de despesas, a seu critério, encaminhar a declaração apresentada pelo licitante vencedor à Delegacia Regional do Trabalho, órgão responsável pela fiscalização e cumprimento da legislação relativa ao trabalho das pessoas portadoras de deficiência. 12.5 - O Certificado de Inscrição no Registro Central de Fornecedores - RCF do Estado do Rio de Janeiro, mantido pela Subsecretaria de Recursos Logísticos da Secretaria de Estado de Planejamento e Gestão - SEPLAG, poderá ser apresentado em substituição aos documentos elencados nos itens 12.2.1 e 12.2.2 a) e b). 12.5.1 - A empresa que, no ato licitatório, concorrer com o Certificado de Inscrição no Registro Central de Fornecedores - RCF, com quaisquer documentos constantes do verso com prazos expirados, deverá entregá-los ao Pregoeiro, no mesmo ato, em original ou cópia autenticada, com as novas datas de validade. 12.6 - Os documentos exigidos nos itens anteriores deverão ser apresentados no original ou em cópia reprográfica autenticada, na forma do artigo 32, e seus parágrafos, da Lei Federal n.º 8.666/93.
+PE RP Nº 012/10
+
+11
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+12.7 - As certidões valerão nos prazos que lhes são próprios; inexistindo esse prazo, reputar-seão válidas por 90 (noventa) dias, contados de sua expedição. 12.8 - Constatado o atendimento das exigências previstas no Edital, o licitante será declarado vencedor, sendo-lhe adjudicado o objeto da licitação pelo próprio Pregoeiro, na hipótese de inexistência de recursos, ou pela Autoridade Superior do PRODERJ na hipótese de existência de recursos. 12.9 - Se o licitante desatender às exigências previstas no item 12, o Pregoeiro examinará a oferta subseqüente na ordem de classificação, verificando a sua aceitabilidade e procedendo a sua habilitação, repetindo esse procedimento sucessivamente, se for necessário, até a apuração de uma proposta que atenda ao Edital, sendo o respectivo licitante declarado vencedor. 13 ­ DOS RECURSOS 13.1 - O licitante interessado em interpor recurso deverá manifestar-se imediatamente após a declaração de vencedor pelo Pregoeiro, expondo os motivos por meio do Sistema Eletrônico. Na hipótese de ser aceito o recurso, será concedido o prazo de 03 (três) dias úteis para apresentação das razões, ficando os demais licitantes desde logo intimados para, querendo, apresentarem contra-razões em igual período que começará a contar do término do prazo do recorrente, sendolhes assegura vista imediata do processo administrativo mediante requerimento dirigido ao Pregoeiro. 13.2 - As razões e contra-razões de recurso poderão, facultativamente, ser enviadas para o e-mail cdl@proderj.rj.gov.br ou para o fax (21) 2333-0263, com posterior envio do original, desde que observado o prazo de 03 (três) dias úteis, contado a partir da declaração de vencedor do certame. 13.3 - A apresentação das razões acarretará como consequência a análise do recurso apenas pela síntese da manifestação a que se refere o item 13.1 13.4 ­ A falta de manifestação imediata e motivada do licitante importará a decadência do direito de recurso e a adjudicação do objeto da licitação pelo Pregoeiro ao vencedor. 13.5 - O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 13.6 ­ As razões de recursos serão dirigidos à Comissão de Pregão por intermédio do Pregoeiro que, no prazo de 03 (três) dias úteis, poderá reconsiderar sua decisão ou, nesse mesmo prazo, fazê-lo subir, devidamente informado, para decisão final. 14 ­ DA ADJUDICAÇÃO, DA HOMOLOGAÇÃO E DA CONTRATAÇÃO 14.1 - Uma vez homologado o resultado da licitação, o licitante vencedor será convocado para a assinatura da ATA de Registro de Preços (Anexo 3), com antecedência mínima de 48 (quarenta e oito) horas. 14.2 - Deixando o adjudicatário de assinar a ATA de Registro de Preços no prazo fixado, poderá o Pregoeiro, sem prejuízo de aplicação das sanções administrativas ao faltoso, examinar e negociar as ofertas subseqüentes, bem como a qualificação dos licitantes, na ordem de classificação, e assim sucessivamente, até a apuração de uma que atenda ao Edital, sendo o respectivo licitante declarado vencedor.
+
+PE RP Nº 012/10
+
+12
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+14.3 - Estabelecido o Registro de Preços, através da publicação da Ata do RP, caberá ao Órgão Aderente, oportunamente, celebrar Contrato ou outro instrumento similar com o vencedor, conforme o disposto no art. 62 da Lei Federal nº 8.666/93. 15 - DA REVOGAÇÃO OU SUSPENSÃO DO REGISTRO 15.1 - Durante a sua vigência, o Registro de Preços poderá ser revogado ou suspenso pelo Órgão Gerenciador temporariamente, por período não superior a 30 (trinta) dias consecutivos, uma única vez ou 45 (quarenta e cinco) dias interpolados, através de Edital, quando for por ela julgado que o beneficiário do registro esteja definitivamente ou temporariamente impossibilitado de cumprir as exigências do Registro de Preços ou pela não observância das normas legais, ou ainda, por interesse público, devidamente justificado, ressalvadas as contratações já levadas a efeito até a data da decisão, garantido o contraditório e a ampla defesa. 15.2 - O Contratado poderá requerer a suspensão ou o cancelamento do Registro de Preços, mediante requerimento por escrito, sujeito à aprovação do Órgão Gerenciador, quando ficar comprovada a impossibilidade temporária ou definitiva, de cumprir as exigências nele contidas. 16 ­ DAS CONDIÇOES DE PAGAMENTO 16.1 - Os pagamentos serão efetuados, preferencialmente, através do crédito em conta corrente do Banco ITAÚ, cujo número e a agência deverão ser informados pelo adjudicatário até a assinatura do Contrato. 16.2 - No caso do Contratado estar estabelecido em localidade que não possua agência do ITAÚ, o pagamento poderá ser efetuado no Banco do Brasil ou Caixa Econômica Federal, cujo número e a agência deverão ser informados pelo adjudicatário até a assinatura do Contrato. 16.2.1 - A Contratada deverá encaminhar a fatura para pagamento ao Contratante, dando entrada pelo Protocolo do mesmo, acompanhada de comprovante de recolhimento mensal do FGTS e INSS relativos à mão de obra empregada no Contrato. 16.3 - O prazo de pagamento será de 30 (trinta) dias, a contar da efetiva apresentação da fatura, correspondente aos serviços prestados descritos no objeto e TR. 16.3.1 Considera-se adimplemento da obrigação, o cumprimento dos serviços do objeto, sendo a documentação fiscal devidamente atestada por dois servidores que não o Ordenador de Despesas, designados para a fiscalização do Contrato. 16.4 - Caso se faça necessária a reapresentação de qualquer fatura por culpa da Contratada, o prazo de 30 (trinta) dias ficará suspenso, prosseguindo a sua contagem a partir da data da respectiva reapresentação. 16.5 - Os pagamentos eventualmente realizados com atraso, sofrerão a incidência de atualização financeira pelo Índice Nacional de Preços ao Consumidor do IBGE ­ INPC e juros moratórios de 0,5% (zero vírgula cinco por cento) ao mês, calculado pro rata die, e aqueles pagos em prazo inferior ao estabelecido neste Edital serão feitos mediante desconto de 0,5% (zero vírgula cinco por cento) ao mês pro rata die.
+
+PE RP Nº 012/10
+
+13
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+16.6 - Decorrido o prazo de 12 (doze) meses da data da apresentação da proposta ou do orçamento a que essa proposta se referir, poderá a Contratada fazer jus ao reajuste do valor contratual pelo valor do Índice Nacional de Preços ao Consumidor do IBGE - INPC, que deverá retratar a variação efetiva do custo de produção ou dos insumos utilizados na consecução do objeto contratual, na forma do que dispõe o artigo 40, inciso X, da Lei nº 8.666/93 e os artigos 2º e 3º da Lei nº 10.192, de 14.02.2001. 16.7 - A Contratada, sediada no Estado do Rio de Janeiro, deverá emitir a Nota Fiscal na forma do § 1º, alíneas a, b, c, e d, do art. 2º da Resolução SER Nº 047/2003, mencionada no subitem 9.3 deste Edital. 17 ­ DAS PENALIDADES 17.1 - Os licitantes, adjudicatários ou contratados inadimplentes estarão sujeitos às penalidades previstas no art. 87 da Lei Federal nº 8.666/93 e no art. 7º da Lei nº 10.520/2002, assegurados o contraditório e a ampla defesa. 17.1.1 ­ O licitante que, convocado no prazo de 24 (vinte e quatro) horas não celebrar o Contrato, deixar de entregar ou apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comporta-se de modo inidôneo ou cometer fraude fiscal, ficará impedido de licitar e contratar com o Estado do Rio de Janeiro, e terá o seu cadastramento do RCF suspenso pelo prazo de 05 (cinco) anos, sem prejuízo das multas previstas em edital, contrato e das demais cominações legais. 17.2 - O atraso injustificado no cumprimento das obrigações contratuais sujeitará a Contratada à multa de mora de 1% (um por cento) ao dia, por dia útil que exceder o prazo, sobre o valor da Nota de Empenho, ou do saldo não atendido, respeitados os limites da lei civil e sem prejuízo da possibilidade de rescisão unilateral do Contrato pela Administração e da aplicação das sanções previstas neste Edital e na legislação inicialmente citada. 18 ­ DA ACEITAÇÃO DO OBJETO CONTRATUAL 18.1 ­ Executado o Contrato, o seu objeto será recebido na forma prevista no art. 73 da Lei nº 8.666/93, dispensado o recebimento provisório nas hipóteses previstas no art. 74 da mesma lei. 18.2 - O recebimento provisório ou definitivo do objeto do Contrato não exclui a responsabilidade civil a ele relativa, nem a ético-profissional, pela sua perfeita execução do Contrato. 18.3 - Salvo se houver exigência a ser cumprida pelo adjudicatário, o processamento da aceitação provisória ou definitiva deverá ficar concluído no prazo de 30 (trinta) dias úteis, contados da entrada do respectivo requerimento no Protocolo da repartição interessada. 19 ­ DOS PRAZOS 19.1 - O prazo de vigência da Ata (Anexo 3), será de 12 (doze) meses, contados a partir de __/__/__, desde que posterior à data de publicação do seu extrato no Diário Oficial, valendo a data da publicação do extrato como termo inicial de vigência, caso posterior à data convencionada neste item. 19.1.1 ­ A Ata de Registro de Preços ­ RP poderá ser renovada por mais 12 (doze) meses, quando a proposta continuar se mostrando mais vantajosa - Decreto nº 42.216, de 05 de janeiro de 2010, desde que satisfeitos os demais requisitos da Lei Federal nº 8.666/93, de 21/06/93.
+
+PE RP Nº 012/10
+
+14
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+19.2 - O prazo do Contrato (Anexo 7) dos Órgãos Aderentes poderá ser prorrogado, observandose o limite previsto no art. 57, inciso II da Lei nº 8.666/93, desde que a proposta da contratada seja comprovadamente mais vantajosa para o contratante 20 ­ DA GARANTIA 20.1 ­ A Contratada deverá apresentar ao Contratante, no prazo máximo de 15 (quinze) dias úteis, contado da data da assinatura do Contrato, comprovante de prestação de garantia, a ser prestada em qualquer das modalidades de que trata o § 1º do art. 56, da Lei Federal nº 8.666/93, correspondente ao percentual de 5% (cinco por cento) do valor do Contrato, a ser restituída após sua execução satisfatória. 20.2 - A garantia prestada não poderá se vincular a outras contratações, salvo após sua liberação. 21 ­ DAS DISPOSIÇÕES GERAIS 21.1 - É facultada ao Pregoeiro ou à autoridade superior do PRODERJ, em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou a complementar a instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar originariamente da proposta. 21.2 - A presente licitação poderá ser revogada por razões de interesse público decorrente de fato superveniente devidamente comprovado, ou anulada no todo ou em parte por ilegalidade, de ofício ou por provocação de terceiro, observado o princípio da prévia e ampla defesa. 21.3 - O objeto da presente licitação poderá sofrer acréscimos ou supressões, conforme previsto no art. 65, parágrafos 1º e 2º, da Lei nº 8.666/93. 21.4 - Na contagem dos prazos estabelecidos neste Edital, excluir-se-á o dia do início e incluir-seá o do vencimento. 21.5 - Ficam os licitantes sujeitos às sanções administrativas, cíveis e criminais cabíveis caso apresentem, na licitação, qualquer declaração falsa que não corresponda à realidade dos fatos. 21.6 - Acompanham este Edital os seguintes anexos:        Anexo 1 ­ Termo de Referência (com XIII Apensos); Anexo 2 - Proposta de Preços; Anexo 3 ­ Minuta da Ata de Registro de Preços; Anexo 4 ­ Declaração Quanto ao Trabalho do Menor; Anexo 5 - Declaração do Decreto Estadual nº 33.925/2003; Anexo 6 ­ Atestado de Vistoria; e Anexo 7 ­ Minuta de Contrato.
+
+21.6.1 - Os anexos II, IV ao VI poderão ser reproduzidos em meio eletrônico, para o seu preenchimento, observando o layout e o conteúdo dos anexos.
+
+PE RP Nº 012/10
+
+15
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+21.7 - A homologação do resultado desta licitação não importará direito à contratação. 21.8 - Os casos omissos serão resolvidos pela autoridade superior do PRODERJ com o auxílio do Pregoeiro e da Equipa de Apoio. 21.9 - O foro da cidade do Rio de Janeiro é designado como o competente para dirimir quaisquer controvérsias relativas a este Pregão e à adjudicação, contratação e execução dela decorrentes.
+
+Rio de Janeiro, 18 de junho de 2010.
+
+ALEXANDRE GITAHY Vice-Presidente Ordenador de Despesas / Matrícula 293.647-4
+
+PE RP Nº 012/10
+
+16
+
+ANEXO 1
+
+TERMO DE REFERÊNCIA - TR
+Pregão Eletrônico - RP nº 012/2010
+
+1 ­ DO OBJETO 1.1 - Registro de Preços por 12 (doze) meses, para prestação de serviços, sob demanda, de desenvolvimento de sistemas e/ou implementação e manutenção nas linguagens JAVA, PHP, ASP e/ou ASP.NET e/ou C#.NET, COBOL, DELPHI e/ou POWER BUILDER, C++, em conformidade com o edital e seus anexos. 1.2 - Desenvolvimento de sistemas compreendendo as Requisitos,Anteprojeto, Especificação, Construção e Implantação. fases de definição de
+
+1.3 - Implementação e Manutenção de Sistemas, compreendendo as fases de Especificação, Construção e Implementação. 2 ­ DAS ESPECIFICAÇÕES DOS SERVIÇOS 2.1 - Processo de Desenvolvimento e/ou Implementação e Manutenção 2.1.1 ­ O Fluxo dos processos de desenvolvimento encontra-se relacionado no Apenso I do Termo de Referência com o detalhamento do processo dos serviços a serem contratados. 2.1.2 ­ O Fluxo dos processos de implementação e manutenção encontra-se relacionado no Apenso II do Termo de Referência com o detalhamento do processo dos serviços a serem contratados. 2.2 ­ O valor do Ponto de Função será especificado para cada linguagem item, sendo que nas situações que forem demandas somente de implementação ou manutenção, será feito um desconto (recorte) no valor do ponto de função da CONTRATADA no percentual de 20% (vinte por cento). 2.3 - Testes de Programas 2.3.1 - As atividades de testes de programas (controle e garantia da qualidade) deverão abranger os aspectos abaixo, independentemente da tecnologia utilizada: 2.3.1.1 - Teste Unitário: Verificação de um componente de um software, através de teste funcional, desenvolvido a partir da especificação das funções previstas para componente, e/ou de teste estrutural, desenvolvido a partir da descrição da estrutura do componente, e/ou dos atributos não funcionais definidos na "Definição de Requisitos de Software". 2.3.1.2 - Teste de Integração: Técnica sistemática para construção da estrutura de programa, realizando-se ao mesmo tempo teste para descobrir erros associados a interfaces. O objetivo é, a partir dos módulos testados ao nível de unidade, construir a estrutura de programa que foi determinada pelo projeto. O teste de integração cuida das questões associadas ao duplo problema da verificação e construção de programas.
+PE-RP nº 012/10 1
+
+2.4 ­ Aderência ao Método de Desenvolvimento de Sistemas ­ MDS 2.4.1 ­ Cabe ressaltar que os produtos Termo de Abertura de Projeto ­ TAP, Modelo de Definição de Requisitos de Software ­ DRS, Modelo de Análise e Negócio- MAN e Modelo Físico do Sistema - MFS, encontram-se detalhados no Método de Desenvolvimento de Sistemas ­ MDS, disponível na página do PRODERJ (www.proderj.rj.gov.br). 3. PROVA PRÁTICA DE CONCEITO
+
+3.1 - A Proponente de melhor proposta classificada submeter-se-á, antes da homologação do
+processo, a prova prática de conceito para validação da capacidade de fornecer ao Estado um processo gerenciável e transparente de trabalho, permitindo o acompanhamento total dos serviços em execução. 3.2 - A prova consistirá na demonstração de uma ferramenta integrada para gestão das ordens de serviço e da gestão dos requisitos de não conformidade, quando existirem, ambas com capacidade de atender aos requisitos mínimos e imprescindíveis descritos abaixo. 3.3 - A prova ocorrerá em no máximo 02 (dois) dias após fase de classificação das propostas, nas instalações do PRODERJ, com acompanhamento de técnicos da empresa e com a duração máxima de 4 (quatro) horas, podendo ser em um dos períodos abaixo: · 09:00h às 13:00h; ou · 14:00h às 18:00h. 3.3.1 - A Proponente poderá alocar até 4 (quatro) profissionais para a realização da prova. 3.3.2 - O acesso deverá ocorrer, impreterivelmente via Web, por meio de um desktop do PRODERJ, utilizando o Internet Explorer ou Firefox Mozilla como browser. 3.3.3 ­ A Proponente deverá criar uma conta na sua ferramenta Web, permitindo que o PRODERJ avalie todos os requisitos mínimos indicados. 3.4 - A prova será acompanhada por uma Comissão de Avaliação que averiguará se o resultado entregue atende aos requisitos especificados, por meio de um check-list que será preenchido no momento da execução da prova e no final assinado pela Proponente e pela Comissão de Avaliação. 3.4.1 - O resultado da prova será divulgado pelo site da PRODERJ em até 24 (vinte e quatro) horas após o término da prova. 3.5 - O participante será considerado reprovado na prova nas seguintes situações: 3.5.1 - Não apresentação da ferramenta que deverá ser acessada via Web, conforme definido neste termo. 3.5.2 - Não atendimento de qualquer um dos itens mínimos necessários descritos no item 12.2.4 do edital.
+
+PE-RP nº 012/10 2
+
+3.6 ­ Requisitos mínimos da ferramenta de gestão de ordens de serviço: 3.6.1 - Permitir que o CONTRATANTE realize abertura das Ordens de Serviço por meio de template padrão contendo: 3.6.1.1 - Número da Ordem de Serviço; 3.6.1.2 - Data/hora automática da abertura; 3.6.1.3 - Solicitante (nome, telefone, e-mail); 3.6.1.4 - Descrição dos serviços; 3.6.1.5 - Data/hora automática do aceite da Ordem de Serviço; 3.6.1.6 - Preposto (nome, telefone, e-mail); 3.6.1.7 - Estimativa de tamanho, em pontos de função (é imprescindível que o sistema permita anexar arquivo com a Planilha de Métrica); 3.6.1.8 - Custo estimado da Ordem de Serviço; 3.6.1.9 - Registro da homologação; 3.6.1.10 - Data/hora da homologação automática; 3.6.1.11 - Responsável pela homologação (nome, telefone, e-mail); 3.6.1.12 ­ Abertura de requisição de não conformidade; 3.6.1.13 - Motivo da requisição; 3.6.1.14 - Aceite definitivo; 3.6.1.15 - Data/hora automática do aceite definitivo; 3.6.1.16 - Responsável pelo aceite (nome, telefone, e-mail); 3.6.1.17 - Tamanho efetivo de demanda, em pontos de função; 3.6.2 ­ Permitir que sejam anexados arquivos de até 20 (vinte) MB. 3.6.3 - Permitir que a CONTRATADA avalie a demanda e proceda a análise preliminar, registrando na Ordem de Serviço a métrica em pontos de função; 3.6.4 - Permitir que a CONTRATANTE avalie a contagem de pontos de função apresentada e os prazos de entrega;
+
+PE-RP nº 012/10 3
+
+3.6.5- Capacidade de permitir trocas de mensagens internamente na ferramenta Web, para comunicação entre CONTRATANTE e CONTRATADA, não passíveis de serem apagadas por ambas as partes; 3.6.6 ­ Permitir criar painéis de controle com gráficos, permitindo o drill down até o nível das ordens de serviço. 3.6.7 ­ Permitir verificar os custos associados em cada ordem de serviço. 3.6.8 ­ Permitir que o CONTRATANTE crie e personalize seus próprios relatórios e painéis de controle, sem a necessidade de intervenção da CONTRATADA. 3.7 ­ Requisitos mínimos da ferramenta para gestão de ocorrências e registros de não conformidade: 3.7.1 - Permitir que a CONTRATANTE registre ocorrências de erros ou melhorias; 3.7.2 ­ Permitir vincular a ocorrência a uma ordem de serviço; 3.7.3 ­ Permitir anexar uma imagem da tela do erro; 3.7.4 - Permitir classificar a ocorrência como aberta, em andamento, corrigida, fechada, cancelada ou reaberta; 3.7.5 ­ Permitir classificar a severidade da ocorrência entre baixa, média, alta ou urgente; 3.7.6 ­ Permitir classificar a ocorrência como solicitação de "melhoria"; 3.7.7 ­ Permitir visualizar relatórios por tipo de ocorrência, permitindo a filtragem; 4 ­ DAS OBRIGAÇÕES DA CONTRATADA 4.1 A CONTRATADA deverá manter, sem custo para o CONTRATANTE, em caráter permanente à frente dos serviços, um preposto. 4.2 O preposto, além de possuir os conhecimentos e a capacidade profissional necessários, deverá ter competência para resolver imediatamente todo e qualquer assunto relacionado com os serviços contratados. 4.2.1 O preposto deverá possuir os seguintes requisitos: 4.2.1.1 Formação de nível superior na área de Engenharia, Ciências da Computação, Tecnólogo em Processamento de Dados, Estatística, Matemática ou Administração de Empresas comprovada mediante diploma e/ou certificado; 4.2.1.2 Experiência em Gestão de Projetos de Sistemas, Metodologias de Projeto e Desenvolvimento de Sistemas, Modelagem de Dados e Negócios de no mínimo 08 (oito) anos, comprovada;
+PE-RP nº 012/10 4
+
+4.2.1.3 Certificação PMP comprovada mediante certificado do PMI; 4.2.1.4 Experiência comprovada na utilização de métrica da Análise de Pontos de Função, baseada na padronização do IFPUG V.4.2. 4.2.2 O preposto deverá atuar em todas as fases do projeto e/ou tarefa, avaliando o seu desenvolvimento e promovendo ações que assegurem o alcance dos produtos/serviços contratados. 4.2.3 O preposto deverá prestar apoio técnico aos componentes da equipe da CONTRATADA. 4.2.4 O preposto deverá orientar e/ou executar o detalhamento de rotinas de sistemas em geral e definir a melhor utilização dos recursos de software e hardware disponíveis. 4.2.5 O preposto deverá responder pela gestão de seus técnicos, coordenando as tarefas executadas e em execução. 4.2.6 O preposto deverá garantir a qualidade nas tarefas compatíveis com os padrões e normas utilizadas e definidas pelo CONTRATANTE. 4.2.7 O preposto deverá repassar o conhecimento adquirido das tarefas previamente negociadas aos técnicos da CONTRATADA que venham a desempenhá-las. 4.2.8 O preposto deverá estar permanentemente à disposição do CONTRATANTE, nos dias úteis, no horário comercial entre 08:00 horas e 18:00 horas. 4.3 Garantir nos prazos contratados a entrega dos serviços, em meio magnético, que possam ser lidos na plataforma destinada ao produto/serviço contratado, conforme o objeto. 4.4 Designar profissionais de desenvolvimento qualificados a trabalhar com as metodologias, equipamentos e ferramentas previstas neste documento, com qualificações comprovadas pela experiência em projetos do mesmo tipo. 4.4.1 A Contratada deverá entregar, e manter atualizada, lista dos profissionais envolvidos em cada Solicitação de Serviço. 4.5 Controlar e acompanhar o cumprimento dos serviços contratados que serão realizados em suas instalações, ficando responsável por toda infra-estrutura técnica necessária. 4.5.1 Os serviços técnicos profissionais deverão ser executados com pessoal fornecido pela CONTRATADA, nas instalações e com recursos tecnológicos e físicos fornecidos pela mesma (off-site). Fica a critério do CONTRATANTE, excepcionalmente, a execução de parte dos serviços nas instalações do CONTRATANTE (on-site), podendo ser exigido que a CONTRATADA utilize seus próprios equipamentos. 4.6 Garantir que todo desenvolvimento, implementação/manutenção realizados durante o período do contrato ou mesmo correções que ocorrerem após cada contrato dos Aderentes, estejam compatíveis com os padrões especificados pelo Método de Desenvolvimento de Sistemas ­ MDS, que encontra-se disponível na página do PRODERJ (www.proderj.rj.gov.br) e pelos modelos apresentados nos Apensos ao Termo de Referência.
+
+PE-RP nº 012/10 5
+
+4.7 Providenciar a imediata correção das deficiências apontadas pelo CONTRATANTE quanto à execução dos serviços contratados. 4.8 Garantir, para os sistemas que desenvolver ou alterar, durante a vigência do contrato, todo e qualquer tipo de manutenção decorrente de erros ou falhas cometidos na realização dos serviços, sem ônus adicionais para o CONTRATANTE. O atendimento à execução das correções deverá ser imediato. 4.8.1 Essas manutenções compreendem a correção de erros ou falhas cometidas pela CONTRATADA no decorrer do desenvolvimento e/ou implementação/manutenção dos serviços e que estejam cobertos no período de garantia. Esses tipos de manutenção não estão associados a novas Ordens de Serviço e seus ônus serão cobertos pela CONTRATADA. 4.9 Garantir por um prazo de 12 (doze) meses, a partir do aceite final do CONTRATANTE, de cada Ordem de Serviço, todas as manutenções corretivas decorrentes de erros ou falhas, sem ônus para o CONTRATANTE, independente da vigência contratual. 4.10 Entregar todos os produtos realizados pela CONTRATADA ao CONTRATANTE, que terá direito de propriedade sobre os mesmos. 4.11 Aceitar que os programas de computador e sua documentação, de propriedade do CONTRATANTE, estão protegidos pela LEI FEDERAL n° 9.609 de 19.02.1998 e por tratados internacionais. Nenhuma parte desses programas de computador e sua documentação poderão ser divulgadas, reproduzidas, ou transmitida, sem autorização prévia do CONTRATANTE, sejam quais forem os meios empregados: eletrônicos, mecânicos, fotográficos, gravação ou quaisquer outros. 4.11.1 A CONTRATADA obriga-se a tratar como "segredos comerciais e confidenciais" todos os produtos e subprodutos relativos aos serviços contratados. 4.12 Entregar para o CONTRATANTE, nos prazos acordados, os códigos-fonte na linguagem de programação indicada, resultados dos testes realizados e demais arquivos produzidos e necessários à execução e documentação do aplicativo. 4.13 Entregar, no momento da rescisão de cada contrato, a documentação e o material de propriedade do CONTRATANTE. 4.14 Destruir no final, de cada contrato, os produtos de propriedade do CONTRATANTE que estejam em seu poder. 4.15 Atender a todas as especificações e requisitos entregues pelo CONTRATANTE. 4.16 Gerar as massas de testes necessárias à execução dos testes relativos aos programas construídos. 4.17 Arcar com todos os custos necessários ao bom andamento dos trabalhos, especialmente de viagem, hospedagem e transporte dos seus funcionários.
+
+PE-RP nº 012/10 6
+
+4.18 Responsabilizar-se por quaisquer ônus, despesas ou obrigações trabalhistas, previdenciária, fiscais, de acidentes de trabalho, bem como alimentação, transporte ou outros benefícios de qualquer natureza, decorrentes da contratação dos serviços. 4.19 Assumir todos os encargos de possíveis demandas trabalhistas, civis ou penais relacionados aos serviços, originariamente ou vinculada por prevenção, conexão ou continência. 4.20 Não transferir a outrem, no todo ou em parte, o objeto da presente contratação. 4.21 Arcar com todos os custos de aquisição e montagem de todos os recursos e da infraestrutura necessária para execução dos serviços contratados. 4.22 Disponibilizar ferramenta web para abertura e gestão das demandas, que proporcione ao CONTRATANTE a gerência e o acompanhamento do andamento dos serviços contratados. 4.23 Disponibilizar ferramenta web para gestão de ocorrências e registros de não conformidade. 4.24 Não se valer do contrato a ser celebrado para assumir obrigações perante terceiros, dando-o como garantia, nem utilizar os direitos de crédito, a serem auferidos em função dos serviços prestados, em quaisquer operações de desconto bancário, sem prévia autorização do CONTRATANTE. 4.25 Arcar com quaisquer danos ou prejuízos causados ao CONTRATANTE. Nos casos de danos, prejuízos, avarias ou subtração de seus bens, os valores correspondentes deverão ser descontados da(s) fatura(s) seguinte(s) da CONTRATADA, ou ajuizada, se for o caso, a dívida, sem prejuízo da demais sanções previstas no contrato. 4.26 Comunicar ao CONTRATANTE, de forma detalhada, toda e qualquer ocorrência de acidentes verificada no curso da execução contratual. 4.27 Não divulgar quaisquer informações a que tenha acesso em virtude dos trabalhos a serem executados ou de que tenha tomado conhecimento em decorrência da execução do objeto, sem autorização, por escrito, do CONTRATANTE, sob pena de aplicação das sanções cabíveis, além do pagamento de indenização por perdas e danos. 4.28 Recrutar em seu nome e sob sua inteira responsabilidade os profissionais necessários à perfeita execução dos serviços, que tenham as qualificações técnicas constantes no Edital, cabendolhe efetuar os pagamentos de salários e arcar com as demais obrigações trabalhistas, previdenciárias, fiscais e comerciais, inclusive responsabilidades decorrentes de acidentes, indenizações, substituições, seguros, assistência médica e quaisquer outros, em decorrência da sua condição de empregadora, sem qualquer solidariedade por parte do CONTRATANTE. 4.29 Não usar as informações sigilosas ou de uso restrito, quando tais atos forem praticados por quem tenha sido alocado à execução do objeto deste Termo de Referência. 4.30 Responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura a ocasionar ao CONTRATANTE, ou a terceiros, durante a execução dos serviços.
+PE-RP nº 012/10 7
+
+4.31 Efetuar o pagamento dos seguros, tributos, leis sociais e de toda e qualquer despesa referente aos serviços contratados e dos documentos a eles relativos, se necessários. 4.32 Atender a todas as observações, reclamações e exigências efetuadas, no sentido do cumprimento deste Termo de Referência e da melhoria dos serviços executados. 4.33 Cumprir os prazos estipulados nos cronogramas aprovados, de comum acordo, oriundo dos serviços relacionados neste Termo de Referência. 4.34 Informar ao CONTRATANTE toda ocorrência que esteja prejudicando a prestação dos serviços e o cumprimento dos níveis de serviços acordados. 4.35 Responsabilizar-se pela a aquisição de quaisquer softwares ou biblioteca de componentes necessários ao cumprimento do objeto. 4.6 Aceitar que o CONTRATANTE possa rejeitar, no todo ou em parte, os serviços executados em desacordo com as normas estabelecidas neste Termo de Referência e/ou nos instrumentos que o integram. 4.37 Aceitar que o CONTRATANTE possa solicitar a substituição de qualquer profissional que considere inadequado para a função independente de explicação, cabendo à CONTRATADA a apresentação de novo profissional. 4.37.1 O CONTRATANTE poderá determinar a imediata retirada do local de trabalho do empregado que estiver sem crachá, que embaraçar ou dificultar a sua fiscalização ou cuja permanência, a seu exclusivo critério, julgar inconveniente, solicitando sua substituição imediata. 4.38 Assumir os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite da(s) Ordem(ns) de Serviço. 4.39 Atender a tabela abaixo para avaliação e planejamento de cada Ordem de Serviço: Tamanho do Aplicativo / Lote Até 100 PF Maior que 100 PF Prazo de Avaliação (aceite da OS pela CONTRATADA) Até 02 (dois) dias úteis Até 05 (cinco) dias úteis. Planejamento da Execução da OS (contado a partir do aceite) Até 03 (três) dias úteis Até 08 (cinco) dias úteis.
+
+5 ­ DAS OBRIGAÇÕES DO CONTRATANTE 5.1 Efetuar os pagamentos devidos à CONTRATADA, nas condições estabelecidas em CONTRATO. 5.2 Fornecer à CONTRATADA, documentos, informações e demais elementos que possuir, ligados ao futuro CONTRATO.
+
+PE-RP nº 012/10 8
+
+5.3 Assegurar aos técnicos credenciados pela CONTRATADA o acesso aos equipamentos para a execução dos serviços do objeto, resguardadas as normas de sigilo e segurança impostas pelo CONTRATANTE. 6 ­ DA MEDIÇÃO E DO PAGAMENTO DOS SERVIÇOS 6.1 Os serviços do objeto serão implementados conforme a demanda apresentada pelo CONTRATANTE que comunicará a CONTRATADA sua necessidade através de Ordem de Serviço ­ OS (Apenso IV) e Solicitação de Serviço ­ SS (Apenso III). 6.1.1 Deste modo, o CONTRATANTE, somente assumirá o compromisso de pagamento dos serviços de acordo com as Ordens de Serviços ­ OS e Solicitação de Serviço ­ SS solicitadas e autorizadas pelo próprio. 6.2 O CONTRATANTE somente pagará a CONTRATADA os serviços efetivamente realizados em cada Ordem de Serviço, apurados ao final destes, de acordo com os procedimentos de medição, Item 6.6, estabelecidos neste Termo de Referência, não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos para desenvolvimento de sistemas. ( e a Implementação e Manutenção) 6.3 O pagamento será efetuado mediante fatura relativa aos serviços efetivamente realizados e somente será efetuado após o atesto do Gestor do respectivo contrato. 6.4 Cada fatura deverá concentrar somente as Ordens de Serviço expedidas para uma mesma Solicitação de Serviço. 6.5 Supervisão e Controle dos Serviços 6.5.1 A Ordem de Serviço ­ OS e a Solicitação de Serviço ­ SS serão instrumentos auxiliares para permitir a determinação, coordenação, supervisão, controle e fiscalização da execução dos serviços. 6.5.1.1 Ainda como instrumento de supervisão da execução dos serviços, a CONTRATADA deverá enviar ao CONTRATANTE relatórios de acompanhamento da Ordem de Serviço, sempre que solicitado. 6.5.2 A Solicitação de Serviço deverá seguir o modelo constante no Apenso III, do Termo de Referência. 6.5.3 A Ordem de Serviço deverá seguir o modelo constante no Apenso IV, do Termo de Referência. 6.5.4 As Ordens de Serviço deverão ser confeccionadas antes do início da execução de qualquer serviço. 6.6 ­ Medição dos Serviços 6.6.1 Os serviços serão solicitados, contratados e medidos utilizando-se a técnica de Análise em Pontos de Função (Function Points Analysis) conforme as especificações contidas no Manual de Práticas e Contagens (CPM - Counting Practices Manual) Versão 4.2 publicado pelo IFPUG (International Function Point Users Group).
+
+PE-RP nº 012/10 9
+
+6.6.2 Será adotada a técnica definida pela NESMA (Netherlands Software Metrics Users Association) para a realização de contagens do tipo estimada, indicativa e detalhada. 6.6.3 Os serviços serão remunerados conforme item 9. ­ Critério de Faturamento , deste termo. 6.6.4 A determinação do quantitativo de Pontos de Função se dará através da contagem realizada, incluindo itens mensuráveis pela técnica de Análise de Pontos de Função e itens não mensuráveis calculados por meio da Tabela de Itens Não Mensuráveis. 6.6.5 O fator de ajuste seguirá as definições do manual de contagem (CPM).
+
+6.6.6 A medição dos serviços tomará como referência às especificações e informações contidas nas Ordens de Serviço ­ OS e Solicitação de Serviço - SS e no resultado apurado da efetiva prestação do serviço a ser registrado em relatório de acompanhamento. 6.6.7 Quaisquer serviços executados pela CONTRATADA que não atendam os padrões de qualidade, não serão objeto de faturamento enquanto não forem corrigidos e serão devolvidos para serem refeitos, sujeitando-se, ainda, a CONTRATADA, às penalidades correspondentes a atrasos no cronograma de atendimento. 6.6.8 Para os itens não cobertos pela metodologia de contagem de pontos de função, será adotada tabela de itens não mensuráveis anexo xx, visando garantir tratamento padronizado e objetivo. A revisão desta tabela de itens não mensuráveis pode ser solicitada pelo Contratante ou pela Contratada , a cada período de 6 meses devendo ser negociada entre ambas as partes. 6.6.9 A contagem indicativa será realizada para a aceitação do serviço, tendo como base a Abertura de Projeto - TAP. A contagem estimativa será efetuada após as fases de Definição de Requisitos e Ante Projeto, e a contagem detalhada após a fase de Implantação, utilizando-se dos produtos gerados na fase de Construção 7 ­ DO ACORDO DE NÍVEL DE SERVIÇO ­ SLA 7.1 Para o acompanhamento e avaliação dos serviços da CONTRATADA serão estabelecidos e utilizados Acordos de Níveis de Serviços (doravante SLA) entre as partes, baseando-se em indicadores e metas definidos, a seguir, para o processo. 7.2 A análise dos resultados destas avaliações pelo CONTRATANTE poderá resultar em penalidades caso a CONTRATADA não cumpra com os seus compromissos de qualidade e pontualidade na entrega das demandas. 7.3 Os SLA's devem ser considerados e entendidos pela CONTRATADA como um compromisso de qualidade que estará assumindo junto ao CONTRATANTE. 7.4 Os níveis de serviços serão fundamentados em dois itens de grande importância: 7.4.1 Índice Cumprimento de Prazos - é a capacidade da CONTRATADA de conclusão de um serviço dentro do prazo acordado junto ao CONTRATANTE. Quanto maior este índice, melhor a qualidade das demandas entregues para homologação.
+
+PE-RP nº 012/10 10
+
+7.4.1.1 - Métrica: ICP = Índice de Cumprimento de Prazos QOSC = Quantidade de Ordens de Serviço Concluídas no prazo QOSE = Quantidade de Ordens de Serviço Entregues Então, ICP = QOSC * 100 / QOSE 7.4.2 - Índice de Rejeições - estabelece um índice mínimo para rejeições para produtos entregues para homologação. Quanto menor este índice, melhor a qualidade das demandas entregues para homologação. 7.4.2.1 - Métrica: IR = Índice de Rejeições QOSR = Quantidade de Ordens de Serviço Rejeitadas QOSE = Quantidade de Ordens de Serviço Entregues Então, IR = QOSR * 100 / QOSE 7.5 - Níveis de Serviços 7.5.1 - Durante o período de Garantia os serviços estarão sendo avaliados pela CONTRATANTE, no atendimento dos índices estabelecidos, que poderão ser revistos e sofrer adequação/aprimoramento ao longo do tempo, por entendimento entre as partes. 7.5.2 - Os indicativos exigidos pelo CONTRATANTE estão na tabela abaixo:
+
+Acordo de Nível de Serviço ­ SLA Tabela de Níveis de Serviços Índice Cumprimento de Prazo Índice de Rejeição 7.6 - Processo de Aferição 7.6.1 ­ No fechamento de cada Solicitação de Serviço, será emitido pela CONTRATADA, um relatório de aferição considerando os índices de cumprimento de prazo e de rejeição, conforme subitem 7.5.2. 7.6.2 Caso não sejam cumpridos os acordos de nível de serviço estabelecidos no subitem serão creditados à CONTRATANTE 10 (dez) pontos de função de cada tecnologia empregada na referida prestação de serviço. 8. DA FISCALIZAÇÃO 8.1 A fiscalização do contrato a ser firmado será exercida por um representante do órgão CONTRATANTE, designado para o devido fim, nos termos prescritos no art. 67 da Lei nº 8.666/93. Apuração no faturamento no faturamento Nível de Serviço 80% (Mínimo) 5% (Máximo)
+
+PE-RP nº 012/10 11
+
+9. CRITÉRIOS DE FATURAMENTO 9.1 Processo de Desenvolvimento:
+
+9.1.1. Cada projeto é coberto globalmente por uma Solicitação de Serviços ­ Apenso III e concluído por um Termo de Encerramento da Solicitação de Serviços ­ Apenso VI. As fases de Definição de Requisitos e Ante Projeto de cada projeto são cobertas por Ordens de Serviço ­ Apenso IV e concluídas por Termos de Encerramento das Ordens de Serviço ­ Apenso V. As fases de Especificação do Sistema, Construção e Implantação, serão cobertas por uma única Ordem de Serviço e concluídas com a emissão de um Termo de Encerramento de Ordem de Serviço, após a implantação. 9.1.1.1 Os marcos de faturamento de serviços medidos em pontos de função (PF) ocorrem após a homologação dos serviços ao final das seguintes fases: Fase de definição de requisitos Fase de ante projeto Fase de implantação 9.1.2. O Termo de Encerramento da Ordem de Serviço correspondente à etapa E-5 de revisão e homologação da DEFINIÇÃO DE REQUISITOS, autoriza o faturamento pela CONTRATADA dos serviços aprovados pelo CONTRATANTE, observado o critério abaixo: Valor Faturado=Valor PF contratado * Qtd. PF aprovada para o total do Projeto * 0,10 9.1.2.1 A quantidade de pontos de função aprovada na etapa E-5, está registrada no Termo de Encerramento da Ordem de Serviço referente à fase de DEFINIÇÃO DE REQUISITOS - DRS, fase cujo escopo é a íntegra do projeto. 9.1.3 O Termo de Encerramento da Ordem de Serviço correspondente à etapa (E-7) de revisão e homologação do ANTE PROJETO autoriza o faturamento pela CONTRATADA dos serviços aprovados pela CONTRATANTE, observado o critério abaixo: Valor Faturado=Valor PF contratado * Qtd. PF aprovada para o total do projeto * (0,30) 9.1.3.1 A quantidade de pontos de função aprovada na etapa está registrada no Termo de Encerramento da Ordem de Serviço referente a fase de ANTEPROJETO ­ MAN, fase cujo escopo é a íntegra do projeto . 9.1.4. O Termo de Encerramento da Ordem de Serviço correspondente à etapa E-13 de revisão e homologação da IMPLANTAÇÃO de cada iteração, autoriza o faturamento pela CONTRATADA dos serviços aprovados pela CONTRATANTE, observado o critério abaixo: Valor Faturado=Valor PF contratado * Qtd. PF aprovada para cada iteração * (0,60 / Nº iterações) 9.1.4.1 Caso o sistema tenha mais de uma iteração o percentual desta fase deverá ser dividido proporcionalmente pelo número de iterações definidas .
+
+PE-RP nº 012/10 12
+
+9.1.4.2 Caso as iterações não possam ser implantadas por motivos técnicos quando da definição da iteração, a Homologação efetuada na fase E ­ 11 pela Contratante, poderá, a critério desta, antecipar a emissão do Termo de Encerramento da Ordem de Serviço para a referida iteração.
+
+9.2
+
+Processo de Implementação e Manutenção: Cada projeto é coberto globalmente por uma Solicitação de Serviço e concluído por um Termo de Encerramento da Solicitação de Serviço. As fases de cada projeto são cobertas por Ordens de Serviço e concluídas por Termos de Encerramento das Ordens de Serviço. O marco de faturamento de serviços medidos em pontos de função ( PF ) ocorre ao término da fase de Implantação.
+
+9.2.1 - O Termo de Encerramento da Ordem de Serviço correspondente à etapa E-9 de revisão e homologação do conjunto Especificação do Sistema, Construção e Implantação, autoriza o faturamento pela Contratada dos serviços aprovados pelo PRODERJ, observado o critério abaixo: Valor Faturado = Valor PF contratado * Quantidade PF aprovada para o total do Projeto
+
+PE-RP nº 012/10 13
+
+APENSOS AO TERMO DE REFERÊNCIA (Anexo 1)
+Pregão Eletrônico - RP nº 012/2010
+
+Anexo Apenso I Apenso II Apenso III Apenso IV Apenso V Apenso VI Apenso VII Apenso VIII Apenso IX Apenso X Apenso XI Apenso XII Apenso XIII
+
+Descrição Fluxo do Processo de Desenvolvimento Fluxo do Processo de Implementação/Manutenção Solicitação de Serviço Ordem de Serviço Termo de Encerramento da Ordem de Serviço Termo de Encerramento da Solicitação de Serviços Abertura de Projeto ­ TAP Definição de Requisitos - DRS Ante Projeto - MAN Especificação de Sistema - MFS Plano de Projeto Planilha de Ponto de Função Relatório de Revisão /Homologação de Produtos
+
+Produtos P1 P2 P3 P4 P5 P6 P7 P8 P9 P10 P11
+
+Página 2 9 14 16 18 20 22 29 38 44 51 64 73
+
+1
+
+APENSO I Fluxo do Processo de Desenvolvimento
+
+2
+
+Fluxo de Desenvolvimento
+
+O processo de desenvolvimento compreende as fases de Definição de Requisitos, Ante Projeto, Especificação do Sistema, Construção e Implantação de sistemas como descrito a seguir, através da apresentação de suas etapas, responsabilidades e produtos a serem gerados, que deverão ser obedecidos na execução dos serviços a serem contratados. Este processo foi baseado no Método de Desenvolvimento de Sistemas - MDS, de propriedade do PRODERJ. Os artefatos das Fases de Definição de Requisitos, Ante Projeto e Especificação do Sistema, constam nos Apensos de nº VIII a X. Os produtos gerados pelas Fases de Construção e Implementação, podem ser verificados no MDS, que se encontram no endereço www.proderj.rj.gov.br.
+
+3
+
+- Processo de Desenvolvimento
+PRODERJ
+
+Legenda:
+
+Ex = Etapa x
+
+Px = Produto x
+
+FORNECEDOR
+
+Inicio
+
+Cli en te
+
+E 1 - Solicitação de Serviço
+
+P1 - Solicitação de Serviço P1Solicitação de Serviço P2 - Ordem de Serviço P5 TAP - TAP (MDS)
+
+E 2 - Análise da Solicitação
+
+E 3 - Revisão / Homologação do Cálculo de PF e do Cronograma
+
+P1 - Solicitação de Serviço P5 - TAP P10 - Planilha Cálculo PF Indicativo
+
+Aceita? N S
+
+P11 - Relatório de Revisão/Homologação de Produtos
+
+P2 - Ordem de Serviço P11 - Relatório de Revisão/Homologação de Produtos
+
+E 4 - Definição de Requisitos
+
+E 5 - Revisão / Homologação da Definiçao de Requisitos
+
+P2 - Ordem de Serviço P6 - Definição de Requisitos de Software (DRS) P9 - Plano de Projeto P10 - Planilha Cálculo PF Estimativo
+
+Aceita? N S
+
+P11 - Relatório de Revisão/Homologação de Produtos
+
+P2 - Ordem de Serviço P3 - Termo de Encerramento de O.S. P11 - Relatório de Revisão/Homologação de Produtos
+
+E 6 -Ante-Projeto
+
+E7 - Revisão / Homologação do Ante-Projeto
+
+P2 - Ordem de Serviço P7 - Ante Projeto (MAN) P9 - Plano de Projeto P10 - Planilha Cálculo PF Estimativo
+
+Aceita? N S
+
+P11 - Relatório de Revisão/Homologação de Produtos
+
+1 1
+
+4
+
+- Processo de Desenvolvimento
+PRODERJ
+1 1
+
+Legenda : Ex = Etapa x
+
+Px = Produto x
+
+FORNECEDOR
+
+P2 - Ordem de Serviço P3 - Termo de Encerramento de Ordem de Serviço P11 - Relatório de Revisão/Homologação de Produtos
+
+E8 - Especificação do Sistema
+
+E9 - Revisão / Homologação da Especificação do Sistema
+
+P8 - Especificação de Sistema (MFS) P9 - Plano de Projeto
+
+Aceita? N S
+
+P11 - Relatório de Revisão/Homologação de Produtos
+
+P11 - Relatório de Revisão/Homologação de Produtos
+
+E10 - Construção
+
+E11- Revisão / Homologação da Construção
+
+Produtos da Fase de Construção (MDS) P9 - Plano de Projeto
+
+Aceita? N S
+
+P11 - Relatório de Revisão/Homologação de Produtos
+
+P11 - Relatório de Revisão/Homologação de Produtos
+
+E12 - Implantação
+
+E13 - Revisão / Homologação da Implantação
+
+Produtos da Fase de Implantação (MDS) P2 - Ordem de Serviço P9 - Plano de Projeto P10 - Planilha Cálculo PF Detalhado
+
+Aceita? N S
+
+P11 - Relatório de Revisão/Homologação de Produtos
+
+Novo Módulo ?
+
+S P3 - Termo de Encerramento de Ordem de Serviço P4 - Termo de Encerramento de Solicitação de Serviço P11 - Relatório de Revisão/Homologação de Produtos
+
+N
+
+Fim
+
+5
+
+PROCESSO DE DESENVOLVIMENTO
+
+Etapa ETAPA E 1 Solicitação de Serviço
+
+Descrição Envia ao PRODERJ documento solicitando um serviço. Analisa e emite Comunicação Interna (CI) em duas vias à Gerência, para confecção do TAP. Prepara o TAP e encaminha ao Cliente para Aprovação. Aprova o TAP e devolve ao PRODERJ. Solicita à Gerência a emissão da Solicitação de Serviço (SS) em duas vias. Prepara a documentação e solicita aprovação da Diretoria. Após aprovação, encaminha à Contratada a Solicitação de Serviço, o TAP e o Cronograma, que é parte integrante do TAP.
+
+Responsável Cliente Diretoria Gerência Cliente Diretoria Gerência Diretoria CONTRATADA
+
+Prazo Conforme indicado na solicitação de serviços emitida pelo PRODERJ
+
+Produtos P1 -Solicitação de Serviço - Apenso III P5 - TAP - Apenso VII
+
+ETAPA E 2
+
+Efetua análise da Solicitação de Serviço, bem como do TAP e do Análise da Cronograma nele contido. Solicitação Havendo alguma discordância, expressa as mesmas nos documentos a serem devolvidos. Efetua o Cálculo de Ponto de Função, através da Planilha de Cálculo de Ponto de Função(Indicativo) e informa na SS o total de PF. Devolve ao PRODERJ a Solicitação de Serviço e a Planilha de Cálculo de PF. ETAPA E 3 Revisão / Homologação do Cálculo de PF e do Cronograma Revisa / Homologa os produtos gerados na Etapa anterior. Havendo alguma incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão / Homologação de Produtos. Quando ocorrer a aceitação de todos os produtos relacionados na Etapa anterior, será emitido o Relatório de Revisão / Homologação de Produtos, bem como a Ordem de Serviço (OS) para a execução da etapa de Definição de Requisitos e entregues à Contratada.
+
+Conforme definido previamente.
+
+P1 ­ Solicitação de Serviço ­ Apenso III P5 ­ TAP ­ Apenso VII P10 - Planilha de Cálculo PF Indicativo - Apenso XII
+
+Diretoria/Gerência Gerência
+
+P2 ­ Ordem de Serviço ­ Apenso IV P11 - Relatório de Revisão / Homologação de Produtos Apenso XIII
+
+Gerência
+
+Gerência ETAPA E 4 Define os requisitos do sistema que correspondem ao modelo Definição de proposto, gerando a Definição de Requisitos de Software (DRS). Requisitos Prepara o Plano de Projeto para o desenvolvimento do sistema. Informa na Ordem de Serviço a quantidade de pontos de função de transação, considerando o rateio de pontos de função de dados. Entrega a Ordem de Serviço, a Definição de Requisitos de Software (DRS), bem como a Planilha de Cálculo de Ponto de Função (Estimativa) e o Plano de Projeto ao PRODERJ. CONTRATADA Conforme definido na Solicitação de Serviço baseado no cronograma a ser aprovado P2 ­ Ordem de Serviço ­ Apenso IV P6 - Definição de Requisitos de Software - Apenso VIII P9 ­ Plano de Projeto ­ Apenso XI P10 - Planilha de Cálculo de PF Estimativo ­ Apenso XII
+
+6
+
+Etapa ETAPA E 5 Revisão / Homologação da Definição de Requisitos
+
+Descrição Revisa / Homologa os produtos gerados na etapa anterior. Havendo alguma incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão / Homologação de Produtos (Definição de Requisitos). Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão / Homologação de Produtos, bem como o Termo de Encerramento da Ordem de Serviço, que autoriza a Contratada a emitir a fatura correspondente ao serviço prestado, conforme Critérios para Faturamento, definidos no item 9 do Termo de Referência.. Emite a Ordem de Serviço para a execução da etapa Ante-Projeto.
+
+Responsável Diretoria/Gerência Gerência
+
+Prazo Dependerá da complexidade do sistema.
+
+Produtos
+
+P2 ­ Ordem de Serviço ­ Apenso IV P3 ­ Termo de Encerramento de Ordem de Serviço ­ Apenso V P11 - Relatório de Revisão / Homologação de Produtos Apenso XIII
+
+Gerência
+
+Gerência CONTRATADA A ser estipulado pelo PRODERJ em função da complexidade do ante projeto P2 ­ Ordem de Serviço ­ Apenso IV P7 ­ Ante Projeto (MAN) ­ Apenso IX P9 ­ Plano de Projeto ­ Apenso XI P10 - Planilha de Cálculo de PF Estimativo ­ Apenso XII
+
+ETAPA E 6 Ante Projeto
+
+Elabora o Ante Projeto do sistema, apresentando as características lógicas do sistema proposto, gerando o Modelo de Análise de Negócio (MAN). Informa na Ordem de Serviço a quantidade de pontos de função de transação, considerando o rateio de pontos de função de dados. Entrega a Ordem de Serviço, o Ante Projeto (Modelo de Análise de Negócio), a Planilha de Cálculo de Ponto de Função (Estimativa) e o Plano de Projeto atualizado ao PRODERJ.
+
+ETAPA E 7 Revisão / Homologação do Ante Projeto
+
+Revisa / Homologa os produtos gerados na etapa anterior. Havendo alguma incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão / Homologação de Produtos (Ante-Projeto). Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão / Homologação de Produtos , bem como o Termo de Encerramento da Ordem de Serviço, que autoriza a Contratada a emitir a fatura correspondente ao serviço prestado, conforme Critérios para Faturamento, definidos no item 9 do Termo de Referência. Serão emitidas tantas ordens de serviço quantas forem necessárias para a execução das etapas de Especificação,Construção e Implantação, visando a implementação de cada módulo do Sistema.
+
+Diretoria/Gerência Gerência
+
+Conforme complexidade do projeto P2 ­ Ordem de Serviço ­ Apenso IV P3 ­ Termo de Encerramento de Ordem de Serviço ­ Apenso V P11 - Relatório de Revisão / Homologação de Produtos Apenso XIII
+
+Gerência
+
+Gerência
+
+ETAPA E 8 Especificação do Sistema Elabora a especificação do sistema apresentando suas características físicas, gerando o Modelo Físico do Sistema (MFS). Entrega a Especificação do Sistema (MFS) e o Plano de Projeto atualizado ao PRODERJ. CONTRATADA Conforme cronograma P8 ­ Especificação do Sistema (MFS) ­ Apenso X P9 ­ Plano de Projeto ­ Apenso XI
+
+7
+
+Etapa ETAPA E 9
+
+Descrição Revisa / Homologa os produtos gerados na etapa anterior.
+
+Responsável Diretoria/Gerência Gerência
+
+Prazo Conforme complexidade do projeto
+
+Produtos
+
+Revisão / Havendo alguma incorreção ou inconsistência, os produtos incorretos Homologação ou inconsistentes, deverão ser devolvidos à Contratada para acerto, da acompanhados do Relatório de Revisão / Homologação de Produtos Especificação (Especificação do Sistema). do Sistema Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão / Homologação de Produtos, que autoriza o início da etapa seguinte. ETAPA E 10 Construção Elabora a codificação e testes dos módulos definidos na etapa de Especificação do Sistema. Produz os demais produtos da fase de construção , conforme definido no MDS. Entrega os produtos da fase de Construção e o Plano de Projeto atualizado ao PRODERJ. ETAPA E 11 Revisa / Homologa os produtos gerados na etapa anterior.
+
+P11 - Relatório de Revisão / Homologação de Produtos Apenso XIII
+
+Gerência CONTRATADA Conforme cronograma Produtos da Fase de Construção, definidos pelo MDS. P9 ­ Plano de Projeto ­ Apenso XI
+
+Diretoria/Gerência Gerência
+
+De acordo com a complexidade do sistema
+
+Revisão / Havendo alguma incorreção ou inconsistência, os produtos incorretos Homologação ou inconsistentes, deverão ser devolvidos à Contratada para acerto, da Construção acompanhados do Relatório de Revisão / Homologação de Produtos (Construção). Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão / Homologação de Produtos, que autoriza o início da Etapa seguinte. ETAPA E 12 Implantação Implementa o Plano de Implantação, produzindo os produtos da fase de implantação definidos no MDS. Entrega os produtos da fase de Implantação e o Plano de Projeto atualizado ao PRODERJ. ETAPA E 13 Revisa / Homologa os produtos gerados na etapa anterior.
+
+P11 - Relatório de Revisão / Homologação de Produtos Apenso XIII
+
+Gerência CONTRATADA Conforme cronograma Produtos da Fase de Implantação, definidos no MDS. P2 ­ Ordem de Serviço ­ Apenso IV P9 ­ Plano de Projeto ­ Apenso XI P10 - Planilha de Cálculo de PF Detalhado ­ Apenso XII Diretoria/Gerência Gerência Conforme complexidade do projeto P3 ­ Termo de Encerramento da Ordem de Serviço ­ Apenso V P4 ­ Termo de Encerramento da Solicitação de Serviços ­ Apenso VI P11 - Relatório de Revisão / Homologação de Produtos Apenso XIII Gerência
+
+Revisão / Havendo alguma incorreção ou inconsistência, os produtos incorretos Homologação ou inconsistentes, deverão ser devolvidos à Contratada para acerto, da acompanhados do Relatório de Revisão / Homologação de Produtos Implantação (Implantação). Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão / Homologação de Produtos , bem como o Termo de Encerramento da Ordem de Serviço, que autoriza a Contratada a emitir a fatura correspondente ao serviço prestado, conforme Critérios para Faturamento, definidos no item 9 do Termo de Referência. Ao término da Ordem de Serviço relativa a implantação do último módulo, estando todas elas devidamente homologadas, o PRODERJ emitirá o Termo de Encerramento da Solicitação de Serviços, finalizando os serviços contratados para o projeto.
+
+Gerência
+
+8
+
+APENSO II Fluxo do Processo de Implementação/Manutenção
+
+9
+
+Fluxo de Implementação / Manutenção O processo de Implementação / Manutenção compreende as fases de Especificação, Construção e Implantação de Sistemas como descrito a seguir, através da apresentação de suas etapas, responsabilidades e produtos a serem gerados, que deverão ser obedecidos na execução dos serviços a serem contratados. Este processo foi baseado no Método de Desenvolvimento de Sistemas - MDS, de propriedade do PRODERJ. Os artefatos da Fase de Especificação do Sistema constam do Apenso de nº X. Os produtos gerados pela Construção e Implementação, podem ser verificados no MDS, que se encontram no endereço www.proderj.rj.gov.br.
+
+10
+
+- Processo de Implementação / Construção
+PRODERJ
+Inicio
+
+Legenda : Ex = Etapa x
+
+Px = Produto x
+
+FORNECEDOR
+
+E1 - Solicitação de Serviço
+
+P1 - Solicitação de Serviço P5 - TAP P6 - Definição de Requisitos de Software (DRS) P7 - Ante Projeto (MAN)
+
+E2 - Análise da Solicitação
+
+E3 - Revisão / Homologação do Cálculo de PF e do Cronograma
+
+P1 - Solicitação de Serviço P5 - TAP P10 - Planilha Cálculo PF Estimativo
+
+Aceita? N S
+
+P11 - Relatório de Revisão / Homologação de Produtos
+
+P2 - Ordem de Serviço P11 - Relatório de Revisão / Homologação de Produtos
+
+E4 - Especificação do Sistema
+
+E5 - Revisão / Homologação da Especificação do Sistema
+
+P8 - Especificação de Sistema (MFS) P9 - Plano de Projeto
+
+Aceita? N S
+
+P11 - Relatório de Revisão / Homologação de Produtos
+
+P11 - Relatório de Revisão / Homologação de Produtos
+
+E6 - Construção
+
+E7 - Revisão / Homologação da Construção
+
+Produtos da Fase de Construção (MDS) P9 - Plano de Projeto
+
+Aceita? N S
+
+P11 - Relatório de Revisão / Homologação de Produtos
+
+P11 - Relatório de Revisão / Homologação de Produtos Produtos da Fase de Implantação (MDS) P3 - Ordem de Serviço P9 - Plano de Projeto P10 - Planilha Cálculo PF Detalhado
+
+E8 - Implantação
+
+E9 - Revisão / Homologação da Implantação
+
+Aceita? N S S
+Novo Módulo ?
+
+P11 - Relatório de Revisão / Homologação de Produtos
+
+N
+
+P3 - Termo de Encerramento de Ordem de Serviço P4 - Termo de Encerramento de Solicitação de Serviço P11 - Relatório de Revisão / Homologação de Produtos
+
+Fim
+
+11
+
+PROCESSO DE IMPLEMENTAÇÃO / MANUTENÇÃO
+Etapa ETAPA E 1 Solicitação Serviço de Descrição Envia ao PRODERJ documento solicitando um serviço. Analisa e emite Comunicação Interna (CI) em duas vias à Gerência, para confecção do TAP. Prepara o TAP e encaminha ao Cliente para Aprovação. Aprova o TAP e devolve ao PRODERJ. Solicita à Gerência a emissão da Solicitação de Serviço (SS) em duas vias. Prepara a Definição de Requisitos de Software (DRS) e o Modelo de Análise de Negócio (MAN), encaminhando para aprovação do Cliente. Aprova a DRS e o MAN, devolvendo ao PRODERJ. Prepara a documentação e solicita aprovação da Diretoria. Após aprovação, encaminha à Contratada a Solicitação de Serviço, o TAP, a DRS e o MAN, autorizando o início da elaboração da Especificação do Sistema. ETAPA E 2 Análise Solicitação Efetua análise da Solicitação de Serviço, bem como dos documentos da recebidos. Havendo alguma discordância, expressa as mesmas nos documentos a serem devolvidos. Efetua o Cálculo de Ponto de Função, através da Planilha de Cálculo de Ponto de Função (Estimativo) e informa na SS o total de PF. Devolve ao PRODERJ a SS, o TAP e a Planilha de Cálculo de Ponto de Função. ETAPA E 3 Revisão / Homologação do Cálculo de PF e do Cronograma Revisa / Homologa os produtos gerados na Etapa anterior. Havendo alguma incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão / Homologação de Produtos. Quando ocorrer a aceitação de todos os produtos relacionados na Etapa anterior, será emitido o Relatório de Revisão / Homologação de Produtos. Emite a Ordem de Serviço para a execução da etapa de Especificação do Sistema. ETAPA E 4 Elabora a especificação do sistema apresentando suas características Especificação do físicas, gerando o Modelo Físico do Sistema (MFS), bem como o Plano de Projeto. Sistema ETAPA E 5 Revião / Homologação da Especificação do Sistema Revisa / Homologa os produtos gerados na etapa anterior. Havendo alguma incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão / Homologação de Produtos . Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão / Homologação de Produtos, que autoriza o início da etapa seguinte. CONTRATADA Conforme cronograma Conforme complexidade do projeto P8 ­ Especificação do Sistema (MFS) ­ Apenso X P9 ­ Plano de Projeto ­ Apenso XI P11 - Relatório de Revisão / Homologação de Produtos - Apenso XIII PRODERJ Conforme cronograma P2 ­ Ordem de Serviço ­ Apenso IV P11 - Relatório de Revisão / Homologação de Produtos - Apenso XIII Responsável Cliente Diretoria Gerência Cliente Diretoria Gerência Cliente Gerência Diretoria Prazo Conforme indicado na solicitação de serviços emitida pelo PRODERJ Produtos P1 - Solicitação de Serviço ­ Apenso III P5 - TAP - Apenso VII P6 - Definição de Requisitos de Software (DRS) Apenso VIII P7 ­ Ante Projeto (MAN) ­ Apenso IX
+
+CONTRATADA
+
+Conforme definido previamente.
+
+P1 - Solicitação de Serviço ­ Apenso III P5 - TAP - Apenso VII P10 - Planilha de Cálculo de PF Estimativo ­ Apenso XII
+
+PRODERJ
+
+12
+
+Etapa ETAPA E 6 Construção
+
+Descrição Elabora a codificação e testes dos módulos definidos na etapa de Especificação do Sistema. Produzi os demais produtos da fase de construção , conforme definido no MDS e atualiza o Plano de Projeto. Entrega os produtos da fase de Construção e o Plano de Projeto atualizado ao PRODERJ.
+
+Responsável CONTRATADA
+
+Prazo Conforme cronograma
+
+Produtos Produtos da Fase de Construção, definidos pelo MDS P9 ­ Plano de Projeto ­ Apenso XI .
+
+ETAPA E 7 Revisão / Homologação da Construção Revisa / Homologa os produtos gerados na etapa anterior. Havendo alguma incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão / Homologação de Produtos (Construção). Quando ocorrer a aceitação de todos os produtos, será emitido o Relatório de Revisão / Homologação de Produtos (Construção), que autoriza o início da Etapa seguinte. ETAPA E 8 Implantação Implementa o Plano de Implantação, produzindo os produtos da fase de implantação definidos no MDS. Entrega os produtos da fase de implantação, bem como o Plano de Projeto atualizado.
+
+PRODERJ e/ou Cliente
+
+De acordo com a complexidade do sistema
+
+P11 - Relatório de Revisão / Homologação de Produtos - Apenso XIII
+
+CONTRATADA
+
+Conforme cronograma
+
+Produtos da Fase de Implantação definidos MDS. P2 ­ Ordem de Serviço ­ Apenso IV P9 ­ Plano de Projeto ­ Apenso XI
+
+no
+
+P10 - Planilha de Cálculo de PF Estimativo ­ Apenso XII ETAPA E 9 Revisão / Homologação da Implantação do Sistema Revisa / Homologa os produtos gerados na etapa anterior. Havendo alguma incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão / Homologação de Produtos (Implantação). Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão / Homologação de Produtos, bem como os Termos de Encerramento da Ordem de Serviço e da Solicitação de Serviço, que autoriza a Contratada a emitir a fatura correspondente ao serviço prestado, conforme Critérios para Faturamento, definidos no item 9 do Termo de Referência. Ao término da Ordem de Serviço relativa a implantação do último módulo, estando todas elas devidamente homologadas, o PRODERJ emitirá o Termo de Encerramento da Solicitação de Serviços, finalizando os serviços contratados para o projeto. PRODERJ Conforme complexidade do projeto P3 ­ Termo de Encerramento de Ordem de Serviço ­ Apenso V P4 ­ Termo de Encerramento de Solicitação de Serviço ­ Apenso VI P11 - Relatório de Revisão / Homologação de Produtos - Apenso XIII
+
+13
+
+APENSO III Solicitação de Serviço
+
+14
+
+Apenso III
+
+Solicitação de Serviço
+Nome do Projeto Número do Contrato Nº Solicitação de Serviço Data da Emissão ______/______/_____ Código do item Fornecedor Data Prevista Devolução ______/______/_____ Nome do Item Cód. Projeto
+
+Total de Pontos de Função Instruções Complementares:
+
+Posição Líder Projeto Gerência Diretoria Fornecedor
+
+Nome
+
+Assinatura
+
+Telefone Contato / / / /
+
+Data / / / /
+
+15
+
+APENSO IV Ordem de Serviço
+
+16
+
+Apenso IV
+
+Ordem de Serviço
+Nome do Projeto Nº Solicitação de Serviço Número da OS Número do Contrato Data de Emissão ______/______/______ Fornecedor Data Prevista Entrega ______/______/______ Cód. Projeto
+
+Código do Item
+
+Nome do Item
+
+Qde. P.Função(*)
+
+Instruções Complementares(**):
+
+Posição Líder Projeto Gerencia Diretoria Fornecedor
+
+Nome
+
+Assinatura
+
+Telefone Contato / / / /
+
+Data / / / /
+
+(*) ­ Só deverá ser preenchido para O.S. relacionadas às etapas de Especificação, Construção e Implantação de Sistemas. (**) ­ Utilizar preferencialmente para informar alteração ocorrida na Quantidade de Pontos de Função em virtude de recontagem, ou alteração do Cronograma de Trabalho.
+
+17
+
+APENSO V Termo de Encerramento da Ordem de Serviço
+
+18
+
+Apenso V
+Termo de Encerramento da Ordem de Serviço
+
+Número da OS
+
+Data da Emissão ______/______/______
+
+Número da Solicitação Serviço
+
+Serviços: Código do Item
+
+Nome do Item
+
+N º Relatório Homologação
+
+Qtd. Pontos de Função
+
+Total de Pontos de Função
+
+Termo de Encerramento Declaro que os serviços constantes da Ordem de Serviço foram integralmente realizados e aceitos pelo PRODERJ conforme atestam os Relatórios de Revisão/Homologação de Produtos citados acima. Aprovado por: ____________________________ Nome ______________________ Assinatura _____/_____/______ Data
+
+19
+
+APENSO VI Termo de Encerramento da Solicitação de Serviço
+
+20
+
+Apenso VI
+
+Termo de Encerramento da Solicitação de Serviço
+
+Nome do Projeto Número do Contrato Fornecedor
+
+Cód. Projeto
+
+Número da Solicitação
+
+Código Relatório de Homologação
+
+Número da OS
+
+Código Relatório de Homologação
+
+Termo de Encerramento Declaro que os serviços acima citados foram integralmente realizados e aceitos pelo PRODERJ conforme atestam os Relatórios de Revisão/Homologação de Produtos acima referenciados. Aprovado por: ____________________________ Nome ______________________ Assinatura _____/_____/______ Data
+
+21
+
+APENSO VII Abertura de Projeto
+
+22
+
+Apenso VII
+
+Centro de Tecnologia da Informação e Comunicação do Estado do Rio de Janeiro
+
+< NOME DO PROJETO >
+
+< Cliente >
+
+Termo de Abertura de Projeto
+
+TAP
+
+23
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Histórico de Revisão Data xx/xx/xx Versão 1.0 Descrição Versão inicial do Termo de Abertura do Projeto Autor
+
+Histórico de Aceitação Data xx/xx/xx Versão 1.0 Responsável Situação
+
+Legenda: Aceito (1) Aceito com ressalva (2) Devolvido (3)
+
+24
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Sumário Histórico de Revisão........................................................................................................................x Cenário............................................................................................................................................x Objetivo........................................................................................................................................... x Escopo.............................................................................................................................................x Não Escopo.....................................................................................................................................x Proposta de Solução Tecnológica...................................................................................................x Principais Metas..............................................................................................................................x Principais Produtos.........................................................................................................................x Premissas.......................................................................................................................................x Restrições.......................................................................................................................................x Riscos Identificados........................................................................................................................x Envolvidos.......................................................................................................................................x Patrocinadores................................................................................................................................x Steakholders...................................................................................................................................x Estimativas......................................................................................................................................x Referências.....................................................................................................................................x
+
+25
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+1 ­ Cenário Descrever o ambiente de mercado e organizacional atual onde irá se inserir o sistema proposto. Descrever o cenário atual que motiva a construção da ferramenta. 2 ­ Objetivo Declarar, de forma sucinta e precisa, o que será feito para resolver os problemas identificados no cenário. 3 ­ Escopo Fornecer uma base documentada para futuras decisões do projeto e para confirmar ou desenvolver um entendimento comum dos limites do projeto entre as partes interessadas. Definir o que precisa ser realizado para alcançar o objetivo estabelecido.
+
+4 ­ Não Escopo Descrever as funcionalidades e recursos que não farão parte do projeto.
+
+5 ­ Proposta de Solução Tecnológica Descrever sucinta os recursos tecnológicos que serão aplicados . Este item será opcional para o caso de projetos de manutenção, onde não houver mudança na solução tecnológica escolhida e que já esteja documentada anteriormente.
+
+6 ­ Principais Metas Descrever o esforço para implementar os objetivos. Uma meta é um objetivo traduzido em termos quantitativos (tempo, valor, %, ...), como por exemplo, o objetivo é aumentar a temperatura de fusão e a meta é chegar a 1.000 graus centígrados.
+
+7 ­ Principais Produtos Identificar os produtos do projeto que deverão ser entregues aos clientes. São obrigatórios os seguintes produtos: TAP, DRS, MAN, ECU. Podendo sofrer atualizações.
+
+26
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+8 ­ Premissas: Relacionar as condições que devem ser atendidas para o desenvolvimento do projeto. Identificar hipóteses ou suposições formuladas nesta fase inicial de entendimentos que, para fins de planejamento, são consideradas como sendo verdadeiras.
+
+9 ­ Restrições: Relacionar restrição ou limitação aplicável, interna ou externa ao projeto, que afetará o desempenho do projeto ou de um processo.
+
+10 ­ Riscos identificados: Relacionar o conjunto de eventos que podem ocorrer sob a forma de ameaças ou de oportunidades que, caso se concretizem, influenciem o objeto do projeto negativamente ou positivamente.
+
+11 ­ Envolvidos: Identificar e qualificar os principais papéis visando facilitar o relacionamento de trabalho da equipe durante o projeto.
+
+Órgão/ Depto
+
+Contato
+
+Telefone
+
+E-mail
+
+Papel
+
+12 ­ Partes Interessadas / Steakholders: Citar os envolvidos como clientes, patrocinadores, organizações executoras e o público, que estejam ativamente no projeto ou cujos interesses possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Elas podem também exercer influência sobre o projeto e suas entregas.(PMB)
+
+27
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+13 ­ Patrocinador / Sponsor: Citar a pessoa ou o grupo que fornece os recursos financeiros e apoio administrativo ou político para o projeto.(PMBOK)
+
+14 ­ Estimativas: FASE PF Indicativo Definição de Requisitos Ante Projeto Especificação Construção Implantação Total Interno Recursos Externo Produtos a entregar
+
+Duração inicial estimada em dias úteis (*): Custo inicial em PF (*):
+
+* Sujeito a alteração.
+
+15 ­ Referências: Conjunto de documentos (CI´s, ofícios, atas, OS's, SS's, leis, portarias e outros) que solicitam o serviço e/ou expressam requisitos.
+
+28
+
+APENSO VIII Definição de Requisitos ­ DRS
+
+29
+
+Apenso VIII
+
+Centro de Tecnologia da Informação e Comunicação do Estado do Rio de Janeiro
+
+<NOME DO PROJETO>
+
+< Cliente >
+
+Definição de Requisitos do Software DRS
+
+30
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Histórico de Revisão Data xx/xx/xx Versão 1.0 Descrição Versão inicial da Definição de Requisitos do Software Autor
+
+Histórico de Aceitação Data xx/xx/xx Versão 1.0 Responsável Situação*
+
+* Legenda: [ 1 ] Aceito [ 2 ] Aceito com ressalva [ 3 ] Devolvido
+
+31
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Sumário Histórico de revisão.........................................................................................................................x Levantamento da situação atual......................................................................................................x Requisitos do sistema proposto.......................................................................................................x Definição do sistema proposto........................................................................................................ x
+
+32
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+1. Levantamento da Situação Atual 1.1 Cenário Descrever o ambiente de mercado e organizacional atual onde irá se inserir o sistema proposto. Descrever o cenário atual que motiva a construção da ferramenta. O preenchimento do cenário deverá ser mais detalhado que o TAP.
+
+1.2 Funções do Sistema Citar todas ou as principais funcionalidades do sistema atual, caso exista.
+
+1.3 Áreas do Usuário Envolvidas no Projeto/Responsabilidades Preencher este item com o organograma atual da instituição, caso o sistema tenha impacto no organograma ou nas responsabilidades dos envolvidos.
+
+1.4 Tecnologia Aplicada Especificar a tecnologia utilizada atualmente.
+
+1.5 Problemas Encontrados Citar todos os problemas, tecnológicos ou não.
+
+1.6 Diagrama de Atividades Criar um Diagrama de Atividades, padrão UML, com as funções do sistema definidas no item 1.2.
+
+33
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+1.7 Diagrama de Classes Criar um Diagrama de Classes, padrão UML, com a visão de DER da situação atual, colocando somente as classes com os relacionamentos, não havendo a necessidade de detalhar os atributos e métodos.
+
+2. Requisitos do sistema Proposto
+
+2.1Descrição Detalhada do Modelo de Negócio Descrever a solução proposta, citando, se for o caso, legislações e regulamentações.
+
+2.2Sistemas/Subsistemas Envolvidos Citar os sistemas com os quais o modelo proposto irá interagir e apontar as interfaces.
+
+2.3Organograma e Responsabilidades Preencher este item com o organograma modificado da instituição, caso o sistema proposto tenha impacto no organograma ou nas responsabilidades dos envolvidos.
+
+2.4Requisitos Funcionais Especificar as ações que o sistema deve ser capaz de executar, e que serão usadas na resolução do problema do contratante, e atenderá todas as suas necessidades funcionais, sem levar em consideração as restrições físicas.
+
+2.5Requisitos Não Funcionais Descrever as qualidades que o sistema deve ter.
+
+34
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+2.5.1 Desempenho Descrever um requisito de desempenho é impor condições aos requisitos funcionais: velocidade, eficiência, disponibilidade, exatidão, taxa de transferência, tempo de resposta, tempo de recuperação, uso de recurso. 2.5.2 Confiabilidade Considerar: freqüência e gravidade de falha, possibilidade de recuperação, possibilidade de previsão, exatidão, tempo médio entre falhas (MTBF). 2.5.3 Usabilidade Especificar itens que facilitem a navegação e aplicação da acessibilidade. Considerar: fatores humanos (consulte Conceitos: Design Centrado no Usuário), estética, consistência na interface do usuário (consulte Diretrizes: Interface do Usuário), ajuda on-line e contextual, assistentes e agentes, documentação do usuário, materiais de treinamento. 2.5.4 Segurança Especificar os níveis de acesso ao sistema, mapear classes de usuários do sistema, controle de acesso, autenticação e criptografia. 2.5.5 Padrões Descrever os padrões ou normas que devem ser seguidos pela aplicação ou pelo seu processo de desenvolvimento. 2.5.6 Outros Especificar, se aplicável, requisitos de suportabilidade, design, implementação, físico, e outros.
+
+2.6Não Escopo Definir as funcionalidades e recursos que não farão parte do projeto.
+
+2.7Premissas Relacionar as condições que devem ser atendidas para o desenvolvimento do projeto.
+
+35
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+2.8Restrições Relacionar as limitações aplicáveis, interna ou externa ao projeto, que afetarão o desempenho do projeto ou de um processo. Restrições definem, por exemplo, a adequação a custos e prazos, a plataforma tecnológica, aspectos legais (licenciamento), limitações sobre a interface com usuário, componentes de hardware e software a serem adquiridos etc. 2.9Extensões Futuras Descrever itens que poderão ser adicionados ao projeto, mas que estes só serão desenvolvidos após a finalização do projeto.
+
+3. Definição do Sistema Proposto 3.1 Modularização do Projeto Definir a estratégia de implementação. A modularização poderá ser feita por uso. As prioridades de entrega deverão ser registradas no documento de anteprojeto.
+
+3.2 Lista de Perfis
+
+Perfil
+
+Módulos / Funções
+
+3.3 Lista de Atores
+
+Ator
+
+Descrição
+
+Perfis
+
+36
+
+Termo de Abertura de Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+3.4 Diagrama de Casos de Uso Desenhar o diagrama de casos de uso, padrão UML, completo do sistema proposto, contendo todas as funcionalidades definidas.
+
+3.5 Lista de Casos de Uso Relacionar os casos de uso demonstrados no diagrama ilustrado no item 3.4. Trata-se apenas da declaração do caso de uso e descrição sucinta de sua(s) funcionalidade(s). Um grupamento de casos de uso em comum pode ser definido através de um pacote. 3.5.1 <Nome do Pacote1>
+
+Caso de uso
+
+Descrição
+
+3.5.2
+
+<Nome do Pacote2>
+
+Caso de uso
+
+Descrição
+
+3.6 Diagrama de Atividades Modelar um Diagrama de Atividades, padrão UML, com uma visão macro das funções do sistema proposto.
+
+3.7 Diagrama de Classes de Domínio Modelar um Diagrama de Classes, padrão UML, visão de DER do sistema proposto. Colocar somente as classes com os relacionamentos, não havendo a necessidade de detalhar os atributos e métodos.
+
+37
+
+APENSO VIX Ante Projeto Modelo de Análise de Negócios - MAN
+
+38
+
+Apenso VIX
+
+Centro de Tecnologia da Informação e Comunicação do Estado do Rio de Janeiro
+
+<NOME DO PROJETO>
+
+< Cliente >
+
+Modelo de Análise de Negócio MAN
+
+39
+
+Modelo de Análise de Negócio
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Histórico de Revisão Data xx/xx/xx Versão 1.0 Descrição Versão inicial da Definição de Requisitos do Software Autor
+
+Histórico de Aceitação Data xx/xx/xx Versão 1.0 Responsável Situação*
+
+* Legenda: [ 1 ] Aceito [ 2 ] Aceito com ressalva [ 3 ] Devolvido
+
+40
+
+Modelo de Análise de Negócio
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Sumário Análise dos Dados e Processos.........................................................................................................................x Detalhamento da Arquitetura da Solução..........................................................................................................x Definição do Escopo do Sistema.......................................................................................................................x Definição da Estratégia de Integração com Sistemas Legados........................................................................ x
+
+41
+
+Modelo de Análise de Negócio
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+1 - Análise dos Dados e Processos Diagrama de Classes (usar os artefatos Diagrama de Classes)
+
+Modelo de Dados Lógico (usar o artefato MER)
+
+Dicionário de Dados
+
+Modelo Lógico de Processos (usar o artefato DFD)
+
+2 - Detalhamento da Arquitetura da Solução Software
+
+Hardware
+
+Recursos Humanos
+
+Modularização do Projeto (usar os artefatos Diagrama de Pacotes)
+
+42
+
+Modelo de Análise de Negócio
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+3 - Definição do Escopo do Sistema Diagrama de Funções (usar o artefato DFD)
+
+Descrição de Funções (usar o artefato Diagrama de Estado)
+
+Diagrama de Estado
+
+Especificação dos casos de uso (usar o artefato Caso de Uso)
+
+4 - Definição da Estratégia de Integração com Sistemas Legados Entradas e Saídas de Interface (usar o artefato Diagrama de Interação)
+
+Funções Reutilizáveis
+
+Impactos e Mudanças no(s) Sistema(s) Existente(s)
+
+5 - Prototipação do Sistema Endereço do Protótipo
+
+6 - Aprovação (usar o artefato RRH ­ Relatório de Revisão e Homologação) 43
+
+APENSO X Especificação do Sistema Modelo Físico do Sistema ­ MFS
+
+44
+
+Apenso X
+
+Centro de Tecnologia da Informação e Comunicação do Estado do Rio de Janeiro
+
+<NOME DO PROJETO>
+
+< Cliente >
+
+Modelo Físico do Sistema MFS
+
+45
+
+Modelo Físico do Sistema
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Histórico de Revisão Data xx/xx/xx Versão 1.0 Descrição Versão inicial da Definição de Requisitos do Software Autor
+
+Histórico de Aceitação Data xx/xx/xx Versão 1.0 Responsável Situação*
+
+* Legenda: [ 1 ] Aceito [ 2 ] Aceito com ressalva [ 3 ] Devolvido
+
+46
+
+Modelo Físico do Sistema
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Sumário Definição de Entradas, Saídas e Interfaces..........................................................................................................x Elaboração de Especificação Técnica e Funcional...............................................................................................x Elaboração do Modelo de Dados..........................................................................................................................x Plano de Testes.................................................................................................................................................... x
+
+47
+
+Modelo Físico do Sistema
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+1 - Definição de Entradas, Saídas e Interfaces Documentos, Telas e Relatórios
+
+Diagrama de Atividades (usar o artefato Diagrama de Atividades)
+
+Descrição do Funcionamento
+
+Padrões
+
+2 - Elaboração de Especificação Técnica e Funcional Perfil dos Usuários e Permissões de Acesso (usar o artefato Tabela de Atores e Perfis)
+
+Diagrama de Casos de Uso (usar o artefato Diagrama de Caso de Uso)
+
+Diagrama de Estado (usar o artefato Diagrama de Estado)
+
+48
+
+Modelo Físico do Sistema
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Diagrama de Sequência (usar o artefato Diagrama de Interação)
+
+Definição dos Funções, Métodos e Processos (usar o artefato Definição de Processo)
+
+Definição dos Casos de Uso (usar o artefato Caso de Uso)
+
+Controles
+
+Regras de Integridade (usar os artefatos Tabela de Regras e Árvore de Decisão)
+
+Atributos de Segurança
+
+Diagrama de Funções
+
+Diagrama Hierárquico de Funções
+
+49
+
+Modelo Físico do Sistema
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+3 - Elaboração do Modelo de Dados Dicionário de Dados
+
+Diagrama de Classes Completo (usar o artefato Diagrama de Classe)
+
+Modelo Relacional de Dados (usar o artefato MER)
+
+4 - Plano de Testes Casos de Teste (usar o artefato Caso de Teste)
+
+50
+
+APENSO XI Plano de Projeto
+
+51
+
+Apenso XI
+
+Centro de Tecnologia da Informação e Comunicação do Estado do Rio de Janeiro
+
+<NOME DO PROJETO>
+
+< Cliente >
+
+Plano do Projeto PP
+
+52
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Histórico de Revisão Data xx/xx/xx Versão 1.0 Descrição Versão inicial da Definição de Requisitos do Software Autor
+
+Histórico de Aceitação Data xx/xx/xx Versão 1.0 Responsável Situação*
+
+* Legenda: [ 1 ] Aceito [ 2 ] Aceito com ressalva [ 3 ] Devolvido
+
+53
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Sumário Projeto..........................................................................................................x Envolvidos...............................................................................................x Produtos Esperados..........................................................................................................................x
+
+54
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+1 Projeto 1.1 Informações Gerais
+
+Nome do Projeto: Data de Início: Previsão de Duração: Departamento Responsável: Nome do Gerente: Comitê Gestor:
+
+1.2
+
+Sumário Executivo
+
+1.3
+
+Objetivos do Projeto
+
+55
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+2 Envolvidos 2.1 Cliente
+
+Nome do Cliente: Endereço: Contatos Profissional Departamento Telefone e-mail Responsabilidades
+
+2.2 Perfil
+
+Perfis Necessários na Equipe Quantidade Responsabilidades
+
+2.3 Área
+
+Áreas ou Grupos Envolvidos Contato Responsabilidades
+
+56
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+2.4
+
+Organograma do Projeto
+
+2.5 Equipe Alocação: Parcial ou Total Nome do Profissional Contato Perfil Alocação
+
+3 Produtos Esperados Produto Objetivo Fase
+
+57
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+4 Infra-estrutura e Ambiente 4.1 Ambiente Tipos de Ambiente Função
+
+4.2
+
+Infra-estrutura por Ambiente Tipo de Estação: Servidor ou Cliente Configurações Especiais: Placa de Vídeo, Monitor, Redundância, etc. 4.2.1 Ambiente : <Nome do Ambiente> Configuração Básica Proc. Mem. Disco Configurações Especiais Software Básicos
+
+Tipo de Estação
+
+Qtde
+
+4.2.2 Tipo de Estação Qtde
+
+Ambiente : <Nome do Ambiente> Configuração Básica Proc. Mem. Disco Configurações Especiais Software Básicos
+
+5 Plano de Treinamento 5.1 Perfil Habilidades Habilidades Necessárias Necessita Treinamento?
+
+58
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+5.2 Treinamento
+
+Treinamentos Objetivo Duração Participantes
+
+6 Plano de Comunicação 6.1 Perfil Patrocinador Cliente Diretoria Gerente Projeto Líder do Projeto Equipe do Projeto Informações por Perfil Informações Disponibilizadas Relatório de Acompanhamento Relatório de Acompanhamento e Produtos Entregues Planos, Cronogramas, Custos, Relatório de Acompanhamento e Produtos Entregues Planos, Cronogramas, Custos, Relatório de Acompanhamento, Produtos Entregues e Documentação Técnica. Planos, Cronogramas, Relatório de Acompanhamento, Produtos Entregues e Documentação Técnica. Cronogramas, Relatório de Acompanhamento, Produtos Entregues e Documentação Técnica.
+
+6.2 Objetivo
+
+Matriz de Comunicação Alvo Equipe do Projeto Patrocinador e Cliente Diretoria Canal / Evento Reunião de Status Portal do Projeto Milestone Reunião de Periodicidade Semanal Semanal entrega Mensal A cada
+
+Acompanhar as atividades em progresso e as próximas Comunicar a situação do projeto Escalar assuntos e receber novos direcionamentos
+
+Reunião de Coordenação
+
+59
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+7 Obrigações entre as Partes 7.1 PRODERJ
+
+7.2
+
+Cliente
+
+8 Análise de Viabilidade do Projeto 8.1 Prioridade do Projeto na Gerência/Diretoria Interna
+
+8.2
+
+Ambiente de Implementação (Recursos Tecnológicos)
+
+60
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+8.3
+
+Alternativa de Solução para os Problemas
+
+8.4 8.4.1
+
+Viabilidade Econômica Ponto de Função (usar o artefato Planilha de Ponto de Função)
+
+8.4.2
+
+Planilha de Custo (usar o artefato Planilha de Custos)
+
+9
+
+Plano de Gerência de Configuração
+
+9.1 Estrutura de Armazenamento da Gerência de Configuração 9.1.1 Estrutura de Diretórios do Repositório
+
+9.1.2Estrutura de Armazenamento do Wiki
+
+61
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+9.2 Itens de Configuração Tipo de Item Responsável Local de Armazenamento (Repositório / Wiki)
+
+9.3 Perfis de Acesso 9.3.1 Repositório Grupo / Papel / Pessoa Diretório / Item de Configuração Nível de Acesso (Leitura, Escrita)
+
+9.3.2 Wiki Grupo / Papel / Pessoa Diretório / Item de Configuração Nível de Acesso (Leitura, Escrita)
+
+9.4 Ferramentas de Acesso ao Repositório Ferramenta Tortoise Svn Subclipse Papel Analista, Gerente do Projeto Desenvolvedor, Designer Comentário Apenas na plataforma Windows Apenas para IDE Eclipse
+
+62
+
+Plano do Projeto
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+9.5 Relatórios da Gerência de Configuração Os relatórios de gerência de configuração devem ser gerados quinzenalmente, contendo as seguintes informações: Lista de Artefatos e suas versões e data de atualização. Lista arquivos que ficaram bloqueados por mais de 2 dias desde o último relatório e o responsável pelo bloqueio. Lista de artefatos incluídos, removidos e alterados desde o último relatório. Lista de operações de Check-in (Commit) com comentários vazios e o responsável pela operação. Lista das baselines e releases com seus respectivos itens de configuração.
+
+9.6 Políticas 9.6.1 Lock Para este projeto será utilizada a política de Lock Pessimista em todas as pastas da estrutura de diretórios. 9.6.2 Duração do Bloqueio O tempo máximo de bloqueio de artefatos de artefatos é de 2 dias. Ao término deste prazo o artefato deve ser adicionado ao repositório, mesmo que incompleto.
+
+10 Documentos Relacionados Política de Gerência de Configuração Guia de Utilização do Tortoise SVN Guia de Utilização do Subclipse
+
+I.
+
+Anexos
+
+Cronograma Tabela de Riscos e Benefícios
+
+63
+
+APENSO XII Planilha de Ponto de Função
+
+64
+
+Apenso XII
+
+Centro de Tecnologia da Informação e Comunicação do Estado do Rio de Janeiro
+
+<NOME DO PROJETO>
+
+< Cliente >
+
+Planilha de Ponto de Função PPF
+
+65
+
+Planilha de Ponto de Função
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Histórico de Revisão Data xx/xx/xx Versão 1.0 Descrição Versão inicial da Definição de Requisitos do Software Autor
+
+Histórico de Aceitação Data xx/xx/xx Versão 1.0 Responsável Situação*
+
+* Legenda: [ 1 ] Aceito [ 2 ] Aceito com ressalva [ 3 ] Devolvido
+
+66
+
+Planilha de Ponto de Função
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Sumário Identificação da Contagem de Pontos de Função...................................................................................................x Função Tipo Transação..........................................................................................................................................x Função Tipo Dado......................;............................................................................................................................x
+
+67
+
+Planilha de Ponto de Função
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+Identificação da Contagem de Pontos de Função
+Projeto: ____________________________________________________________________ Número da Solicitação: _______________________________________________________ Líder: ______________________________________________________________________ Revisor: ____________________________________________________________________ Data: _____/______/______
+
+68
+
+Planilha de Ponto de Função
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+1 ­ Função Tipo Transação Complexidad Função Descrição ALR DER e PF
+
+1 - Pontos de Função de Transação 2 ­ Função Tipo Dado Complexidad Função Descrição RLR DER e PF
+
+2 - Pontos de Função de Dados
+
+Total de Pontos de Função ( 1 + 2 )
+
+69
+
+Planilha de Ponto de Função
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+3 - Características Gerais de Sistema 01 ­ Comunicação de Dados 02 ­ Processamento Distribuído 03 ­ Performance 04 ­ Configuração Altamente Utilizada 05 ­ Volume de Transações 06 ­ Entrada de Dados On-line 07 ­ Eficiência do Usuário Final 08 ­ Atualização On-Line 09 ­ Processamento Complexo 10 ­ Re-usabilidade 11 ­ Facilidade de Instalação 12 ­ Facilidade de Operação 13 ­ Múltiplos Locais 14 ­ Modificação Facilitada Total dos Níveis de Influência (TDI) Valor do Fator de Ajuste (VAF) 4 - Variáveis da Contagem Final
+
+DI
+
+Total [UFPB] [ADD] [CHGA] [CHGB] [DEL] [VAF] [VAFA] [VAFB] Total de pontos de função ajustados: PF não Ajustados PF não Ajustados das novas funcionalidades PF não ajustados da func. alteradas - após PF não ajustados das func. alteradas - antes PF não ajustados das funcionalidades excluídas Valor do Fator de Ajuste Valor do Fator de Ajuste - Depois Valor do Fator de Ajuste - Antes
+
+70
+
+Planilha de Ponto de Função
+
+Data xx/xx/xx
+
+Cliente
+
+Projeto
+
+Diretoria
+
+GLOSSÁRIO Sigla ADD AIE Significado Contagem não ajustada das funções acrescentadas à aplicação durante um projeto Arquivo de Interface Externa Grupamento lógico de dados ou informações de controle relacionados, referenciados pela aplicação, porém mantido dentro da fronteira de outra aplicação. A intenção principal de um AIE é armazenar dados referenciados por um ou mais processos elementares da aplicação sendo controlada. Um AIE de uma aplicação é obrigatória um ALI em outra aplicação Arquivo Lógico Interno Grupamento lógico de dados ou informações de controle relacionados, mantidos dentro da fronteira da aplicação. A intenção principal de ALI é armazenar dados mantidos por um ou mais processos elementares da aplicação sendo contada. Arquivo Lógico Referenciado Um ALI lido ou mantido por uma função transacional, ou um AIE lido por uma função transacional. Consulta Externa Processo elementar que envia dados ou informações de controle para for ada fronteira da aplicação. A intenção principal de CE é apresentar informações ao usuário através da recuperação de dados ou informações de controle. A lógica de processamento não contém cálculos ou fórmulas matemáticas e não cria dados derivados. Nenhum ALI é mantido durante o processamento, nem é alterado o comportamento do sistema. Contagem não ajustada das funções acrescentadas pelo processo de conversão Contagem não ajustada das funções modificadas, com base na complexidade funcional após o projeto
+
+ALI
+
+ALR CE
+
+CFP CHGA
+
+CHGB Contagem original não ajustada das funções modificadas, com base na complexidade funcional antes do projeto DEL DER DET DI EE Contagem não ajustada das funções excluídas pelo projeto Dado Elementar Referenciado Campo único, não repetido, reconhecido pelo usuário. Data Element Type Degree of Influence Entrada Externa Processo elementar que processa dados ou informações de controle provenientes de for ada fronteira da aplicação. A intenção primária de uma EE é manter um ou mais ALIs e/ou alterar o comportamento do sistema. External Input External Interface File External Output External Inquiry 71
+
+EI EIF EO EQ
+
+FFP FPA FTR ILF PFA PFD PFM RET RLR SE
+
+Full Function Point Function Point Analysis File Type Referenced Internal Logical File Quantidade de pontos de função ajustados da aplicação Quantidade de pontos de função de desenvolvimento Quantidade de pontos de função do projeto de Manutenção ou melhoria Record Element Type Registro Lógico Referenciado Subgrupo de itens de dado, reconhecido pelo usuário, em um ALI ou AIE. Saída Externa Processo elementar que gera dados ou informações de controle enviados para for ada fronteira da aplicação. A intenção principal de uma SE é apresentar informações a um usuário através de lágica de processamento que envolva outras aões além da simples recuperação de dados e informações de controle. A lógica de processamento deve conter pelo menos uma das seguintes características: executar fórmulas ou cálculos matemáticos; criar dados derivados; manter um ou mais ALIs; alterar o comportamento do sistema. Total Degree of Influence (Grau de Influência Total) Nível de Influência total, advindo da soma da pontuação individual de todas as 14 características gerais. Pontos de função não ajustados
+
+TDI UFP
+
+UFPB Pontos de função não ajustados, antes do projeto de melhoria VAF Fator de Ajuste Calculado segundo fórmula onde é considerado o nível de influência das 14 características gerais.
+
+VAFA Fator de Ajuste após o projeto de melhoria VAFB Fator de ajuste antes do projeto de melhoria
+
+72
+
+APENSO XIII Relatório de Revisão / Homologação de Produtos
+
+73
+
+Apenso XIII
+
+Relatório de Revisão / Homologação de Produtos
+
+Contrato nº XXX/2010
+
+Nome do Projeto Cliente Nº Solicitação de Serviço Fornecedor Data da Emissão
+
+Cód. Projeto
+
+Nº do Relatório
+
+1. Cód. Item
+
+Identificação dos Produtos Avaliados Nome do Item Situação
+
+2. Participantes: Participantes Área Assinatura
+
+3. Sumário dos resultados
+
+Responsável PRODERJ Legenda de Situação 1 Aceito 2 Aceito com Ressalvas 3 Devolvido
+
+74
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+Anexo 3 ATA DE REGISTRO DE PREÇOS PARA DESENVOLVIMENTO DE SISTEMAS PREGÃO ELETRÔNICO Nº 012/2010 PROCESSO Nº E-12/660629/2010 O ESTADO DO RIO DE JANEIRO, por intermédio do CENTRO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO - PRODERJ, Autarquia Estadual vinculada à Secretaria de Estado da Casa Civil, com sede na Av. Nilo Peçanha nº 175/22º andar ­ Centro - Rio de Janeiro - RJ, inscrito no CNPJ nº 30.121.578/0001-67, ÓRGÃO GERENCIADOR, neste ato representado pelo seu Vice-Presidente, Ordenador de Despesas, nos termos do que dispõe o artigo 15 da Lei nº 8.666, de 21.06.93, a Lei nº 10.520, de 17.07.2002, dos Decretos Estaduais nºs 31.863 e 31.864, de 16.09.02; nº 41.533, de 04.11.2008; nº 40.873, de 02.08.07; nº 41.135, de 21.01.2008; e nº 42.216, de 05/01/2010, além das demais disposições legais aplicáveis, e, em face do resultado obtido no certame acima referenciado, resolve registrar os preços ofertados pela Empresa ..................., inscrita no CNPJ sob o n.º .............., estabelecida na Rua/Av....., nº ..., CEP , neste ato representada pelo(a) Sr.(a) ..........., cargo ........., portador (a) da cédula de identidade R.G. nº ........., inscrito (a) no Cadastro de Pessoas Físicas sob o nº ......, doravante denominada CONTRATADA, observadas as condições do Edital que rege o Pregão e consoante as cláusulas que se seguem. CLÁUSULA PRIMEIRA: DO OBJETO 1.1 ­ O objeto do presente Pregão é o Registro de Preços por 12 (doze) meses, de prestação de serviços, sob demanda, de desenvolvimento de sistemas e/ou implementação e manutenção nas linguagens JAVA, PHP, ASP e/ou ASP.NET e/ou C#.NET, COBOL, DELPHI e/ou POWER BUILDER, C++, conforme o Termo de Referência (Anexo 1) e seus Apensos, para posterior atendimento aos Órgãos da Administração Pública Direta e Entidades da Administração Indireta e Fundacional ­ Órgãos Aderentes, situados no Estado do Rio de Janeiro. 1.2 - As quantidades mencionadas na Proposta de Preços (Anexo 2) refere-se a uma previsão de contratação dos serviços por Pontos de Função, a partir do dimensionamento do total do Projeto ou Sistema que estiver sendo desenvolvido ou executado. Essas quantidades não implicam em obrigatoriedade de contratação pela Administração Pública, durante a vigência do Registro de Preços, servindo apenas como referencial para a elaboração das propostas dos licitantes. 1.3 ­ O valor do Ponto de Função será especificado para cada linguagem item, sendo que nas situações que forem demandas somente de implementação ou manutenção, será feito um desconto (recorte) no valor do ponto de função da CONTRATADA no percentual de 20% (vinte por cento). 1.4 - A existência de preços registrados não obriga a Administração a firmar as contratações que deles poderão advir, sem que caiba direito à indenização de qualquer espécie. Fica facultada a utilização de outros meios, respeitada a legislação pertinente às licitações e ao Sistema de Registro de Preços, assegurando-se ao beneficiário do registro preferência em igualdade de condições, de acordo com o Edital.
+
+Ata PE-RP nº 012/10
+
+1
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+CLÁUSULA SEGUNDA: DO PREÇO 2.1 - Pela contratação desses serviços, serão pagos à CONTRATADA, os valores unitários e as respectivas quantidades, quando demandadas, de acordo com a Planilha abaixo: Item 1 2 3 4 5 6 Descrição Desenvolvimento em JAVA Desenvolvimento em PHP Desenvolvimento em ASP e/ou ASP.NET e/ou C#.NET Desenvolvimento em COBOL Desenvolvimento em POWER BUILDER Desenvolvimento em C++ DELPHI e/ou Qtde. de Ponto de Função 15.000 10.000 15.000 5.000 10.000 10.000 Preço Unitário (R$)
+
+2.2 - Nos preços propostos serão englobadas todas as despesas relativas ao objeto, bem como os respectivos custos diretos e indiretos, tributos, remunerações, despesas fiscais e financeiras e quaisquer outras necessárias ao cumprimento do objeto desta licitação. Nenhuma reivindicação adicional de pagamento ou reajustamento de preços será considerada. CLÁUSULA TERCEIRA: DOS PRAZOS 3.1 - A CONTRATADA será convocada a firmar as contratações decorrentes do Registro de Preços, com antecedência mínima de 48 (quarenta e oito) horas, a contar da convocação expedida pelo CONTRATANTE, podendo este prazo ser prorrogado por igual período, desde que ocorra motivo justificado e aceito pelo CONTRATANTE. 3.2 - O prazo de vigência da Ata será de 12 (doze) meses, contados a partir de __/__/__, desde que posterior à data de publicação do seu extrato no Diário Oficial, valendo a data da publicação do extrato como termo inicial de vigência, caso posterior à data convencionada neste item. 3.2.1 ­ A Ata poderá ser renovada por mais 12 (doze) meses, quando a proposta continuar se mostrando mais vantajosa - Decreto nº 42.216, de 05 de janeiro de 2010, desde que satisfeitos os demais requisitos da Lei Federal nº 8.666/93, de 21/06/93. CLÁUSULA QUARTA: DO CANCELAMENTO DO REGISTRO DE PREÇOS 4.1 - A CONTRATADA terá o seu registro cancelado, pela Administração Pública, quando: 4.1.2 - Descumprir as condições desta Ata de Registro de Preços. 4.1.3 - Não assinar o Contrato ou instrumento equivalente, no prazo estabelecido pela Administração, sem justificativa aceitável. 4.1.4 - Não aceitar reduzir o seu preço registrado, na hipótese de este se tornar superior àqueles praticados no mercado.
+Ata PE-RP nº 012/10
+
+2
+
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
+
+4.1.5 - Por razões de interesse da Administração Pública, devidamente justificado. 4.1.6 - Der causa à rescisão administrativa do Contrato, por um dos motivos elencados no artigo 78 e seus incisos, da Lei Federal nº 8.666/93. Parágrafo 1º - O cancelamento de registro, nas hipóteses previstas, assegurados o contraditório e a ampla defesa, será formalizado por despacho da autoridade competente da Administração. Parágrafo 2º - A CONTRATADA poderá requerer a suspensão ou o cancelamento do Registro de Preços, mediante requerimento por escrito, sujeito à aprovação do Órgão Gerenciador, quando ficar comprovada a impossibilidade temporária ou definitiva, de cumprir as exigências do Registro de Preços. CLÁUSULA QUINTA: DAS PENALIDADES E DAS MULTAS 5.1 - O adjudicatário ou contratado inadimplente estará sujeito às penalidades previstas no art. 87 da Lei Federal n.º 8.666/93 e no art. 7º, da Lei n.º 10.520/2002, assegurado o contraditório e a ampla defesa. 5.2 - Na hipótese de ser formalizado o Contrato, o atraso injustificado no cumprimento das obrigações contratuais sujeitará o contratado à multa de mora de 1% (um por cento) ao dia, por dia útil que exceder o prazo, sobre o valor da nota de empenho, ou do saldo não atendido, respeitados os limites da lei civil e sem prejuízo da possibilidade de rescisão unilateral do Contrato pela Administração e da aplicação das sanções previstas neste edital e na legislação inicialmente citada. CLÁUSULA SEXTA: DA EFICÁCIA 6.1 - O presente Termo de Registro de Preços somente terá eficácia após publicado o respectivo extrato no Diário Oficial do Estado. CLÁUSULA SÉTIMA: DAS DISPOSIÇÕES GERAIS 7.1 - Fica eleito o Foro da cidade do Rio de Janeiro, para dirimir dúvidas ou questões oriundas do presente instrumento. 7.2 - Assim, por estarem as partes devidamente ajustadas e compromissadas, assinam o presente Termo em duas vias, de igual teor, na presença das testemunhas abaixo assinadas. Rio de Janeiro, de julho de 2010
+
+ALEXANDRE GITAHY
+Vice-Presidente / Ordenador de Despesas
+
+Firma vencedora
+
+Testemunha Nome: CPF/MF nº Nome: CPF/MF nº
+Ata PE-RP nº 012/10
+
+Testemunha
+
+3
+
+CONTRATO nº
+
+/2010.
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS, SOB DEMANDA, DE DESENVOLVIMENTO DE SISTEMAS E/OU IMPLEMENTAÇÃO E MANUTENÇÃO NAS LINGUAGENS JAVA, PHP, ASP E/OU ASP.NET E/OU C#.NET, COBOL, DELPHI E/OU POWER BUILDER, C++, FIRMADO ENTRE O ESTADO DO RIO DE JANEIRO, ATRAVÉS DO (ÓRGÃO CONTRATANTE) E A (EMPRESA VENCEDORA DO CERTAME) E COMO GERENCIADOR O CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO ­ PRODERJ, NA FORMA ABAIXO.
+
+O ESTADO DO RIO DE JANEIRO, neste ato representado pelo (ÓRGÃO CONTRATANTE ­ APRESENTAR A QUALIFICAÇÃO COMPLETA E O NOME DO REPRESENTANTE LEGAL), doravante denominado CONTRATANTE, a(o) ___________ (firma vencedora), doravante denominada CONTRATADA, situada na ___________ nº _____ (endereço completo), inscrito(a) no CNPJ/MF sob o nº _______, representada neste ato por seu ______ (representante legal) inscrito(a) no CPF/MF sob o nº ________e o CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO ­ PRODERJ, Autarquia vinculada a Secretaria de Estado da Casa Civil, inscrito no CNPJ/MF sob nº ____________________, situado na Av. Nilo Peçanha nº 175 / 22º andar, Rio de Janeiro - RJ, representado neste ato por seu Presidente ______________________, inscrita no CPF/MF sob o nº ___________, doravante denominado ÓRGÃO GERENCIADOR, resolvem assinar o presente CONTRATO DE PRESTAÇÃO DE SERVIÇOS, SOB DEMANDA, DE DESENVOLVIMENTO DE SISTEMAS E/OU IMPLEMENTAÇÃO E MANUTENÇÃO NAS LINGUAGENS JAVA, PHP, ASP E/OU ASP.NET E/OU C#.NET, COBOL, DELPHI E/OU POWER BUILDER, C++, doravante denominado CONTRATO, com fundamento no PROCESSO ADMINISTRATIVO Nº E-26/660629/2010, que se regerá pelas normas da Lei Federal nº 8.666 de 21 de junho de 1993, com as alterações introduzidas pela Lei Federal nº 8.883 de 08 de junho de 1994, a Lei Estadual nº 287 de 04 de dezembro de 1979; os Decretos nº 3.149/80 e 21.081/94, 40.873/2007 e demais legislações aplicáveis à matéria, bem como os termos do EDITAL DE PREGÃO ELETRÔNICO Nº 012/2010, cujas disposições se aplicam a este CONTRATO irrestrita e incondicionalmente, conforme cláusulas e condições seguintes:
+
+PAGINA 1 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+CLÁUSULA PRIMEIRA: DO OBJETO. 1.1- O presente CONTRATO tem por objeto a prestação de serviços, sob demanda, de desenvolvimento de sistemas e/ou implementação e manutenção nas linguagens JAVA, PHP, ASP e/ou ASP.NET e/ou C#.NET, COBOL, DELPHI e/ou POWER BUILDER, C++, para posterior atendimento aos Órgãos da Administração Pública Direta e Entidades da Administração Indireta e Fundacional ­ Órgãos Aderentes, situados no Estado do Rio de Janeiro, de acordo como Termo de Referência, e seus respectivos apensos (ANEXO I), Proposta de Preços (ANEXO II) e a Ata de Registro de Preços (ANEXO III). 1.2 - ­ São partes integrantes deste instrumento, e para todos os fins de direito: o Edital de Licitação, Termo de Referência, e seus respectivos apensos (ANEXO I), Proposta de Preços (ANEXO II) e a Ata de Registro de Preços (ANEXO III).
+
+CLÁUSULA SEGUNDA: DO PRAZO. 2.1 ­ O prazo de vigência do CONTRATO será de 12 (DOZE), meses, contados a partir de ____/____/2010, desde que posterior à data de publicação do extrato deste instrumento no Diário Oficial, valendo a data da publicação do extrato como termo inicial de vigência, caso posterior à data convencionada nesta cláusula. 2.2 ­ O prazo contratual poderá ser prorrogado, observando-se o limite previsto no artigo 57, inciso II, da Lei Federal nº 8.666/93, desde que a proposta da CONTRATADA seja mais vantajosa para o CONTRATANTE.
+
+CLÁUSULA TERCEIRA: DAS OBRIGAÇÕES DO CONTRATANTE. 3.1 ­ Constituem obrigações do CONTRATANTE: 3.1.1 ­ Efetuar os pagamentos devidos à CONTRATADA, nas condições estabelecidas neste CONTRATO; 3.1.2 ­ Observar, no que couber, o Termo de Referência (ANEXO I), a Proposta Detalhe (ANEXO II) e a Ata de Registro de Preços (ANEXO III), partes integrantes deste CONTRATO; 3.1.3 ­ Exercer a fiscalização do CONTRATO, na forma da Cláusula Sétima; 3.1.4 ­ Receber provisória e definitivamente o objeto do CONTRATO nas formas definidas; 3.1.5 - Designar responsável para o acompanhamento e fiscalização do objeto licitado.
+
+PAGINA 2 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+3.1.6 - Comunicar à Contratada qualquer anormalidade ocorrida na execução do objeto, diligenciando para que as irregularidades ou falhas sejam plenamente corrigidas. 3.1.7 - Notificar, por escrito, a Contratada da aplicação de eventuais penalidades, garantindo-lhe o direito ao contraditório e ampla defesa. 3.1.8 - Assegurar aos técnicos credenciados pela CONTRATADA o acesso aos equipamentos para a execução dos serviços do objeto, resguardadas as normas de sigilo e segurança impostas pelo CONTRATANTE.
+
+CLÁUSULA QUARTA: DAS OBRIGAÇÕES DA CONTRATADA. 4.1 ­ Constituem obrigações da CONTRATADA: 4.1.1 ­ Executar o serviço de acordo com o Termo de Referência (ANEXO I) e a Ata de Registro de Preços (Anexo III), responsabilizando-se por eventuais prejuízos decorrentes do descumprimento de qualquer cláusula ou condição aqui estabelecida; 4.1.2 ­ A CONTRATADA deverá manter, sem custo para o CONTRATANTE, em caráter permanente à frente dos serviços, um preposto. 4.1.3 - O preposto, além de possuir os conhecimentos e a capacidade profissional necessários, deverá ter competência para resolver imediatamente todo e qualquer assunto relacionado com os serviços contratados. 4.1.4 - O preposto deverá possuir os seguintes requisitos: 4.1.4.1 - Formação de nível superior na área de Engenharia, Ciências da Computação, Tecnólogo em Processamento de Dados, Estatística, Matemática ou Administração de Empresas comprovada mediante diploma e/ou certificado; 4.1.4.2 - Experiência em Gestão de Projetos de Sistemas, Metodologias de Projeto e Desenvolvimento de Sistemas, Modelagem de Dados e Negócios de no mínimo 08 (oito) anos, comprovada; 4.1.4.3 - Certificação PMP comprovada mediante certificado do PMI; 4.1.4.4 - Experiência comprovada na utilização de métrica da Análise de Pontos de Função, baseada na padronização do IFPUG V.4.2. 4.1.5 - O preposto deverá atuar em todas as fases do projeto e/ou tarefa, avaliando o seu desenvolvimento e promovendo ações que assegurem o alcance dos produtos/serviços contratados.
+PAGINA 3 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+4.1.6 - O preposto deverá prestar apoio técnico aos componentes da equipe da CONTRATADA. 4.1.7 - O preposto deverá orientar e/ou executar o detalhamento de rotinas de sistemas em geral e definir a melhor utilização dos recursos de software e hardware disponíveis. 4.1.8 - O preposto deverá responder pela gestão de seus técnicos, coordenando as tarefas executadas e em execução. 4.1.9 - O preposto deverá garantir a qualidade nas tarefas compatíveis com os padrões e normas utilizadas e definidas pelo CONTRATANTE. 4.1.10 - O preposto deverá repassar o conhecimento adquirido das tarefas previamente negociadas aos técnicos da CONTRATADA que venham a desempenhá-las. 4.1.11 - O preposto deverá estar permanentemente à disposição do CONTRATANTE, nos dias úteis, no horário comercial entre 08:00 horas e 18:00 horas. 4.1.12 - Garantir nos prazos contratados a entrega dos serviços, em meio magnético, que possam ser lidos na plataforma destinada ao produto/serviço contratado, conforme o objeto. 4.1.13 - Designar profissionais de desenvolvimento qualificados a trabalhar com as metodologias, equipamentos e ferramentas previstas neste documento, com qualificações comprovadas pela experiência em projetos do mesmo tipo. 4.1.14 - A Contratada deverá entregar, e manter atualizada, lista dos profissionais envolvidos em cada Solicitação de Serviço. 4.1.15 - Controlar e acompanhar o cumprimento dos serviços contratados que serão realizados em suas instalações, ficando responsável por toda infra-estrutura técnica necessária. 4.1.16 - Os serviços técnicos profissionais deverão ser executados com pessoal fornecido pela CONTRATADA, nas instalações e com recursos tecnológicos e físicos fornecidos pela mesma (off-site). Fica a critério do CONTRATANTE, excepcionalmente, a execução de parte dos serviços nas instalações do CONTRATANTE (on-site), podendo ser exigido que a CONTRATADA utilize seus próprios equipamentos. 4.1.17 - Garantir que todo desenvolvimento, implementação/manutenção realizados durante o período do contrato ou mesmo correções que ocorrerem após cada contrato dos Aderentes, estejam compatíveis com os padrões
+
+PAGINA 4 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+especificados pelo Método de Desenvolvimento de Sistemas ­ MDS, que encontra-se disponível na página do PRODERJ (www.proderj.rj.gov.br) e pelos modelos apresentados nos Apensos ao Termo de Referência (ANEXO I). 4.1.18 - Providenciar a imediata correção das deficiências apontadas pelo CONTRATANTE quanto à execução dos serviços contratados. 4.1.19 - Garantir, para os sistemas que desenvolver ou alterar, durante a vigência do contrato, todo e qualquer tipo de manutenção decorrente de erros ou falhas cometidos na realização dos serviços, sem ônus adicionais para o CONTRATANTE. O atendimento à execução das correções deverá ser imediato. 4.1.19.1 - Essas manutenções compreendem a correção de erros ou falhas cometidas pela CONTRATADA no decorrer do desenvolvimento e/ou implementação/manutenção dos serviços e que estejam cobertos no período de garantia. Esses tipos de manutenção não estão associados a novas Ordens de Serviço e seus ônus serão cobertos pela CONTRATADA. 4.1.20 - Garantir por um prazo de 12 (doze) meses, a partir do aceite final do CONTRATANTE, de cada Ordem de Serviço, todas as manutenções corretivas decorrentes de erros ou falhas, sem ônus para o CONTRATANTE, independente da vigência contratual. 4.1.21 - Entregar todos os produtos realizados pela CONTRATADA ao CONTRATANTE, que terá direito de propriedade sobre os mesmos. 4.1.22 - Aceitar que os programas de computador e sua documentação, de propriedade do CONTRATANTE, estão protegidos pela LEI FEDERAL n° 9.609 de 19.02.1998 e por tratados internacionais. Nenhuma parte desses programas de computador e sua documentação poderão ser divulgadas, reproduzidas, ou transmitida, sem autorização prévia do CONTRATANTE, sejam quais forem os meios empregados: eletrônicos, mecânicos, fotográficos, gravação ou quaisquer outros. 4.1.23 - A CONTRATADA obriga-se a tratar como "segredos comerciais e confidenciais" todos os produtos e su bprodutos relativos aos serviços contratados. 4.1.24 - Entregar para o CONTRATANTE, nos prazos acordados, os códigos-fonte na linguagem de programação indicada, resultados dos testes realizados e demais arquivos produzidos e necessários à execução e documentação do aplicativo. 4.1.25 - Entregar, no momento da rescisão de cada contrato, a documentação e o material de propriedade do CONTRATANTE.
+PAGINA 5 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+4.1.26 - Destruir no final, de cada contrato, os produtos de propriedade do CONTRATANTE que estejam em seu poder. 4.1.27 - Atender a todas as especificações e requisitos entregues pelo CONTRATANTE. 4.1.28 - Gerar as massas de testes necessárias à execução dos testes relativos aos programas construídos. 4.1.29 - Arcar com todos os custos necessários ao bom andamento dos trabalhos, especialmente de viagem, hospedagem e transporte dos seus funcionários. 4.1.30 - Responsabilizar-se por quaisquer ônus, despesas ou obrigações trabalhistas, previdenciária, fiscais, de acidentes de trabalho, bem como alimentação, transporte ou outros benefícios de qualquer natureza, decorrentes da contratação dos serviços. 4.1.31 - Assumir todos os encargos de possíveis demandas trabalhistas, civis ou penais relacionados aos serviços, originariamente ou vinculada por prevenção, conexão ou continência. 4.1.32 - Não transferir a outrem, no todo ou em parte, o objeto do presente CONTRATO. 4.1.33 - Arcar com todos os custos de aquisição e montagem de todos os recursos e da infraestrutura necessária para execução dos serviços contratados. 4.1.34 - Disponibilizar ferramenta web para abertura e gestão das demandas, que proporcione ao CONTRATANTE a gerência e o acompanhamento do andamento dos serviços contratados. 4.1.34.1 - Disponibilizar ferramenta web para gestão de ocorrências e registros de não conformidade. 4.1.35 - Não se valer do contrato a ser celebrado para assumir obrigações perante terceiros, dando-o como garantia, nem utilizar os direitos de crédito, a serem auferidos em função dos serviços prestados, em quaisquer operações de desconto bancário, sem prévia autorização do CONTRATANTE. 4.1.36 - Arcar com quaisquer danos ou prejuízos causados ao CONTRATANTE. Nos casos de danos, prejuízos, avarias ou subtração de seus bens, os valores correspondentes deverão ser descontados da(s) fatura(s) seguinte(s) da CONTRATADA, ou ajuizada, se for o caso, a dívida, sem prejuízo da demais sanções previstas no contrato. 4.1.37 - Comunicar ao CONTRATANTE, de forma detalhada, toda e qualquer ocorrência de acidentes verificada no curso da execução contratual. 4.1.38 - Não divulgar quaisquer informações a que tenha acesso em virtude dos trabalhos a serem executados ou
+PAGINA 6 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+de que tenha tomado conhecimento em decorrência da execução do objeto, sem autorização, por escrito, do CONTRATANTE, sob pena de aplicação das sanções cabíveis, além do pagamento de indenização por perdas e danos. 4.1.39 - Recrutar em seu nome e sob sua inteira responsabilidade os profissionais necessários à perfeita execução dos serviços, que tenham as qualificações técnicas constantes no Edital, cabendolhe efetuar os pagamentos de salários e arcar com as demais obrigações trabalhistas, previdenciárias, fiscais e comerciais, inclusive responsabilidades decorrentes de acidentes, indenizações, substituições, seguros, assistência médica e quaisquer outros, em decorrência da sua condição de empregadora, sem qualquer solidariedade por parte do CONTRATANTE. 4.1.40 - Não usar as informações sigilosas ou de uso restrito, quando tais atos forem praticados por quem tenha sido alocado à execução do objeto do Termo de Referência. 4.1.41 - Responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura a ocasionar ao CONTRATANTE, ou a terceiros, durante a execução dos serviços. 4.1.42 - Efetuar o pagamento dos seguros, tributos, leis sociais e de toda e qualquer despesa referente aos serviços contratados e dos documentos a eles relativos, se necessários. 4.1.43 - Atender a todas as observações, reclamações e exigências efetuadas, no sentido do cumprimento do Termo de Referência e da melhoria dos serviços executados. 4.1.44 - Cumprir os prazos estipulados nos cronogramas aprovados, de comum acordo, oriundo dos serviços relacionados no Termo de Referência. 4.1.45 - Informar ao CONTRATANTE toda ocorrência que esteja prejudicando a prestação dos serviços e o cumprimento dos níveis de serviços acordados. 4.1.46 - Responsabilizar-se pela a aquisição de quaisquer softwares ou biblioteca de componentes necessários ao cumprimento do objeto. 4.1.47 - Aceitar que o CONTRATANTE possa rejeitar, no todo ou em parte, os serviços executados em desacordo com as normas estabelecidas no Termo de Referência e/ou nos instrumentos que o integram (ANEXO I). 4.1.48 - Aceitar que o CONTRATANTE possa solicitar a substituição de qualquer profissional que considere inadequado para a função independente de explicação, cabendo à CONTRATADA a apresentação de novo profissional.
+
+PAGINA 7 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+4.1.48.1 - O CONTRATANTE poderá determinar a imediata retirada do local de trabalho do empregado que estiver sem crachá, que embaraçar ou dificultar a sua fiscalização ou cuja permanência, a seu exclusivo critério, julgar inconveniente, solicitando sua substituição imediata. 4.1.49 - Assumir os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite da(s) Ordem(ns) de Serviço. 4.1.50 - Atender a tabela abaixo para avaliação e planejamento de cada Ordem de Serviço:
+
+Tamanho do Aplicativo / Lote Até 100 PF Maior que 100 PF
+
+Prazo de Avaliação (aceite da OS pela CONTRATADA) Até 02 (dois) dias úteis Até 05 (cinco) dias úteis.
+
+Planejamento da Execução da OS (contado a partir do aceite) Até 03 (três) dias úteis Até 08 (cinco) dias úteis.
+
+4.1.51 - Assumir a responsabilidade e o ônus pelo recolhimento de todos os impostos, taxas, tarifas, contribuições ou emolumentos federais, estaduais e municipais, que incidam ou venham a incidir sobre o objeto do Contrato e apresentar os respectivos comprovantes, quando solicitado pelo órgão Contratante; 4.1.52 ­ Responder pelas despesas resultantes de quaisquer ações demandas, decorrentes de danos, por culpa sua ou de quaisquer de seus empregados e prepostos, obrigando-se, outrossim, por quaisquer responsabilidades decorrentes de ações judiciais de terceiros, que lhe venham ser exigidas por força de lei, ligadas ao cumprimento do CONTRATO; 4.1.53 - Aceitar nas mesmas condições pactuadas, os acréscimos ou supressões que se fizerem necessários no objeto licitado, até o limite previsto no parágrafo 1º do artigo 65 da Lei Federal nº 8666/93; 4.1.54 - Sujeitar-se à fiscalização do órgão CONTRATANTE quanto ao acompanhamento do cumprimento das obrigações pactuadas, prestando-lhe todos os esclarecimentos solicitados, bem como atendendo às reclamações consideradas procedentes; 4.1.55 - Responder por perdas e danos que vier a sofrer o CONTRATANTE ou terceiros, em razão de sua ação ou omissão, dolosa ou culposa, independente de outras cominações contratuais ou legais a que estiver sujeita, garantindo o contraditório e ampla defesa, nos termos da legislação aplicável;
+
+PAGINA 8 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+4.1.56 - Não se valer do CONTRATO a ser celebrado para assumir obrigações perante terceiros, dando-o como garantia, nem utilizar os direitos de crédito, a serem auferidos em função dos serviços prestados, em quaisquer operações de desconto bancário, sem prévia autorização do CONTRATANTE; 4.1.57 - Arcar com quaisquer danos ou prejuízos causados ao CONTRATANTE . Nos casos de danos, prejuízos, avarias ou subtração de seus bens, os valores correspondentes deverão ser descontados da(s) fatura(s) seguinte(s) da CONTRATADA, ou ajuizada, se for o caso, a dívida, sem prejuízo da demais sanções previstas no CONTRATO; 4.1.58 ­ Apresentar declaração de que preenche em seus quadros, o percentual mínimo de empregados beneficiários da Previdência Social reabilitados ou com pessoa portadora de deficiência habilitada, na seguinte proporção: 4.1.58.1- De 100(CEM) A 200(DUZENTOS) empregados, 2% (DOIS POR CENTO); 4.1.58.2- De 201(DUZENTOS E UM) a 500(QUINHENTOS) empregados, 3% (TRÊS POR CENTO); 4.1.58.3 - De 501(QUINHENTOS E UM) a 1000(MIL) empregados, 4% (QUATRO POR CENTO); 4.1.58.4 - Mais de 1000 (MIL) empregados, 5% (CINCO POR CENTO).
+
+CLÁUSULA QUINTA: DA DOTAÇÃO ORÇAMENTÁRIA. 5.1 ­ As despesas com a execução do presente CONTRATO correrão à conta das dotações orçamentárias destinadas ao CONTRATANTE para o corrente exercício de 2010, assim classificados:     NATUREZA DAS DESPESAS: FONTE DE RECURSO: PROGRAMA DE TRABALHO: NOTA DE EMPENHO:
+
+5.2 ­ As despesas relativas aos serviços subseqüentes correrão por conta das dotações orçamentárias respectivas, devendo ser empenhadas no início de cada exercício.
+
+CLÁUSULA SEXTA: DO VALOR DO CONTRATO. 6.1 ­ Dá-se a este CONTRATO valor total de R$ ______________________ (______________________ CENTAVOS).
+PAGINA 9 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+CLÁUSULA SÉTIMA: DA EXECUÇÃO, DO RECEBIMENTO E DA FISCALIZAÇÃO DO CONTRATANTE. 7.1 ­ O CONTRATO deverá ser executado fielmente, de acordo com as cláusulas avençadas, nos termos do termos do instrumento convocatório e da legislação vigente, respondendo o inadimplente pelas conseqüências da inexecução total ou parcial. 7.2 ­ A execução do CONTRATO será acompanhada e fiscalizada por comissão constituída de 03 (TRÊS) membros designados pelo _______________ (AUTORIDADE COMPETENTE); 7.3 ­ O objeto do CONTRATO será recebido em tantas parcelas quantas forem ao do pagamento, na seguinte forma: 7.3.1 ­ Provisoriamente, após parecer circunstanciado da Comissão a que se refere o item 7.2, que deverá ser elaborado no prazo de 72 (SETENTA E DUAS) horas após a entrega do serviço; 7.3.2 ­ Definitivamente, após o parecer circunstanciado da Comissão a que se refere o item 7.2, que deverá ser elaborado no prazo de 07 (SETE) dias de observação e vistoria que comprove o exato cumprimento das obrigações contratuais. 7.4 ­ O representante do CONTRATANTE, sob pena de ser responsabilizado administrativamente, anotará em registro próprio as ocorrências relativas à execução do CONTRATO, determinando o que for necessário à regularização das faltas ou defeitos observados. No que exceder à sua competência, comunicará o fato à Autoridade Superior, em 10(DEZ) dias, para ratificação. 7.5 ­ A CONTRATADA declara, antecipadamente, aceitar todas as condições, métodos e processos de inspeção, verificação e controle adotados pela fiscalização, obrigando-se a lhes fornecer todos os dados, elementos, explicações, esclarecimentos e comunicações de que este necessitar e que forem julgados necessários ao desempenho de suas atividades. 7.6 ­ A instituição e a atuação da fiscalização do serviço objeto do CONTRATO não exclui ou atenua a responsabilidade da CONTRATADA, nem a exime de manter a fiscalização própria.
+
+CLÁUSULA OITAVA: DA RESPONSABILIDADE. 8.1 ­ A CONTRATADA é responsável por danos causados ao CONTRATANTE ou a terceiros, decorrentes de culpa ou dolo na execução do CONTRATO, não excluída ou reduzida essa responsabilidade pela presença de fiscalização ou pelo acompanhamento da execução por órgão da Administração.
+PAGINA 10 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+8.2 ­ A CONTRATADA é responsável por encargos trabalhistas, inclusive decorrentes de acordos, dissídios e convenções coletivas, previdenciários, fiscais e comerciais oriundos da execução do CONTRATO, podendo o CONTRATANTE, a qualquer tempo, exigir a comprovação do cumprimento de tais encargos, como condição do pagamento dos créditos da CONTRATADA. 8.3 ­ A CONTRATADA será obrigada a apresentar a cada três meses, prova de que: 8.3.1 ­ está pagando os salários ou a repartição das quotas, em se tratando de cooperativa, até o 5º(QUINTO) dia útil de cada mês seguinte ao vencimento ou na forma estabelecida no Estatuto, no último caso; 8.3.2 ­ anotou as Carteiras de Trabalho e Previdência Social de seus empregados; 8.3.3 ­ encontra-se em dia com os recolhimentos dos tributos, contribuições e encargos. 8.4 ­ A ausência da apresentação dos documentos mencionados no item 8.3 ensejará a retenção do valor do pagamento da parcela(s) devida(s), que só poderá ser realizado mediante a regularização da falta.
+
+CLÁUSULA NONA: DAS CONDIÇÕES DE PAGAMENTO. 9.1 ­ O CONTRATANTE deverá pagar à CONTRATADA o valor dos serviços efetivamente prestados, sendo efetuado diretamente na Conta Corrente nº ____________, Agência ____________, de titularidade da CONTRATADA, no Banco ______________. 9.2 ­ No caso da CONTRATADA estar estabelecida em localidade que não possua agência do ITAÚ, o pagamento poderá ser efetuado no Banco do Brasil ou Caixa Econômica Federal, cujo número e agência deverão ser informados pelo adjudicatário até a assinatura do CONTRATO. 9.3 ­ A CONTRATADA deverá encaminhar a fatura para pagamento ao CONTRATANTE, sito à Rua da Ajuda nº 5, 23º andar, Centro ­ Rio de Janeiro/RJ, acompanhada de comprovante de recolhimento mensal do FGTS e INSS relativa à mão de obra empregada no CONTRATO. 9.4 ­ O pagamento será realizado no prazo de 30 (TRINTA) dias, a contar da efetiva apresentação da fatura correspondente aos serviços prestados descritos no objeto e TR: 9.4.1 ­ Considere-se adimplemento da obrigação o cumprimento da prestação, com entrega do objeto, devidamente atestada pelo (s) agente (s) competente (s);
+
+PAGINA 11 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+9.5 ­ Caso se faça necessária à reapresentação de qualquer fatura por culpa da CONTRATADA, o prazo de 30 (TRINTA) dias reiniciar-se-á a contar da data da respectiva reapresentação. 9.6 ­ Os pagamentos eventualmente realizados com atraso sofrerão a incidência de atualização financeira pelo Índice Nacional de Preços ao Consumidor do IBGE - INPC e juros moratórios de 0,5% (ZERO VÍRGULA CINCO POR CENTO) ao mês, calculado pro rata die, e aqueles pagos em prazo inferior ao estabelecido neste edital serão feitos mediante desconto de 0,5% (ZERO VÍRGULA CINCO POR CENTO) ao mês pro rata die. 9.7 ­ Decorrido o prazo de 12 (DOZE) meses da data da apresentação da proposta ou do orçamento a que essa proposta se referir, poderá a CONTRATADA fazer jus ao reajuste do valor contratual pelo Índice Nacional de Preços ao Consumidor do IBGE - INPC, que deverá retratar a variação efetiva do custo de produção ou dos insumos utilizados na consecução do objeto contratual, na forma do que dispõe o artigo 40, inciso X, da Lei nº 8.666/93 e os artigos 2º e 3º da Lei nº 10.192, de 14/02/2001.
+
+CLÁUSULA DÉCIMA: DA GARANTIA. 10.1 ­ A CONTRATADA, deverá apresentar à (ao) CONTRANTE no prazo máximo de 5 ( CINCO) dias úteis, contados da data da assinatura do contrato, comprovante de prestação de garantia a ser prestada em qualquer das modalidades de que trata o parágrafo 1º do artigo 56, da Lei nº 8.666/93, correspondente ao percentual de 5% (cinco por cento) do valor do contrato, a ser restituída após sua execução satisfatória; 10.2 ­ As garantias prestadas não poderão se vincular a novas contratações, salvo após sua liberação.
+
+CLÁUSULA DÉCIMA PRIMEIRA: DA ALTERAÇÃO DO CONTRATO. 11.1 ­ O presente CONTRATO poderá ser alterado, com as devidas justificativas, desde que por força de circunstância superveniente, nas hipóteses previstas no artigo 65, da Lei Federal nº 8.666/93 mediante Termo Aditivo.
+
+CLÁUSULA DÉCIMA SEGUNDA: DA RESCISÃO. 12.1 ­ O presente CONTRATO poderá ser rescindido por ato unilateral do CONTRATANTE, pela inexecução total ou parcial de suas cláusulas e condições, nos termos dos artigos 77 e 80 da Lei nº 8.666/93, sem que caiba à CONTRATADA direito a indenizações de qualquer espécie. 12.2 ­ Os casos de rescisão contratual serão formalmente motivados nos autos do processo administrativo, assegurado a CONTRATADA o direito ao contraditório e a prévia e ampla defesa.
+PAGINA 12 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+12.3 ­ A declaração de rescisão deste CONTRATO, independentemente da prévia notificação judicial ou extrajudicial, operará seus efeitos a partir da publicação em Diário Oficial. 12.4 ­ Na hipótese de rescisão deste CONTRATO, além das demais sanções administrativas cabíveis, ficará a CONTRATADA sujeita à multa de 10% (DEZ POR CENTO) incidente sobre o saldo reajustado dos serviços não executados, sem prejuízo da retenção de créditos, e das perdas e danos que forem apurados.
+
+CLÁUSULA DÉCIMA TERCEIRA: DAS SANÇÕES ADMINISTRATIVAS E DEMAIS PENALIDADES. 13.1 ­ A inexecução dos serviços, total ou parcial, execução imperfeita, mora na execução ou qualquer inadimplemento ou infração contratual, sujeita a CONTRATADA, sem prejuízo da responsabilidade civil ou criminal que couber, assegurado o contraditório e a prévia e ampla defesa, as seguintes penalidades: 13.1.1 ­ Advertência; 13.1.2 ­ Multa de até 5% (CINCO POR CENTO) sobre o valor do CONTRATO, aplicada de acordo com a gravidade da infração. Nas reincidências específicas, a multa corresponderá ao dobro do valor da que tiver sido inicialmente imposta, observando-se sempre o limite de 20% (VINTE POR CENTO), conforme preceitua o artigo 87 do Decreto nº 3.149/80; 13.1.3 ­ Suspensão temporária do direito de licitar e impedimento de contrastar com a Administração Pública do Estado do Rio de Janeiro, por prazo não superior a 2 (DOIS) anos; 13.1.4 ­ Declaração de idoneidade para licitar e contratar com a Administração Pública do Estado do Rio de Janeiro; 13.2 ­ A imposição das penalidades é de competência exclusiva do CONTRATANTE. 13.3 ­ A sanção prevista no item 13.1.2 desta Cláusula poderá ser aplicada cumulativamente à outra. 13.4 ­ A aplicação de sanção não excluí a possibilidade de rescisão administrativa do CONTRATO, garantido o contraditório e a defesa prévia. 13.5 ­ A multa administrativa prevista no item 13.1.2 não tem caráter compensatório, não eximindo o seu pagamento a CONTRATADA por perdas e danos das infrações cometidas.
+
+PAGINA 13 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+13.6 ­ O atraso injustificado no cumprimento das obrigações contratuais sujeitará a CONTRATADA à multa de mora de até 1% (UM POR CENTO) ao dia por dia útil que exceder o prazo estipulado, a incidir sobre o valor de Nota de Empenho, ou do saldo não atendido, sem prejuízo da possibilidade de rescisão unilateral do CONTRATO pelo CONTRATANTE ou da aplicação das sanções administrativas. 13.7 ­ A aplicação da sanção prevista no item 13.1.4 é de competência exclusiva do Exmo. Sr. Governador do Estado, devendo o órgão superior da entidade ou órgão CONTRATANTE, prolator da decisão inicial, remeter-lhe o respectivo processo no prazo de 10 (DEZ) dias, para a obtenção de sua ratificação. 13.8 ­ O prazo da suspensão ou da declaração de idoneidade será fixado de acordo com a natureza e a gravidade da falta cometida, observando-se o princípio da proporcionalidade. 13.9 ­ Será remetida à Superintendência Central de Recursos Logísticos e Patrimônio da Secretaria de Estado de Planejamento e Gestão, cópia do ato que aplicar qualquer penalidade ou da decisão final do recurso interposto pela CONTRATADA, a fim de que seja averbada a penalização no Registro Cadastral.
+
+CLÁUSULA DÉCIMA QUARTA: DA EXTINÇÃO UNILATERAL DO CONTRATO. 14.1 ­ O CONTRATANTE poderá denunciar o CONTRATO por motivo de interesse público celebrar, amigavelmente, o seu distrato na forma da lei, a rescisão, por inadimplemento das obrigações da CONTRATADA poderá ser declarada unilateralmente, após garantido o devido processo legal, mediante decisão motivada. 14.2 ­ A denúncia e a rescisão administrativa deste CONTRATO, em todos os casos em que admitidas, independem de prévia notificação judicial ou extrajudicial e operarão seus efeitos a partir da publicação do ato no Diário Oficial do Estado. 14.3 ­ Na hipótese de decretação de rescisão administrativa, além das demais sanções cabíveis, ficará a CONTRATADA sujeita à multa de 10% (DEZ POR CENTO), calculada sobre o saldo reajustado dos serviços não executados, sem prejuízo, ainda, da retenção de créditos, da reposição de importâncias indevidamente recebidas e das perdas e danos que forem apurados, cuja cobrança se fará judicialmente.
+
+CLÁUSULA DÉCIMA QUINTA: DO RECURSO AO JUDICIÁRIO. 15.1 ­ As importâncias decorrentes de quaisquer penalidades impostas à CONTRATADA, inclusive as perdas e danos ou prejuízos que a execução do CONTRATO tenha acarretado, quando superiores à garantia prestada ou aos
+
+PAGINA 14 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+créditos que a CONTRATADA tenha em face do CONTRATANTE, que não comportarem cobrança amigável, serão cobrados judicialmente. 15.2 ­ Caso o CONTRATANTE tenha de recorrer ou comparecer a juízo para haver o que lhe for devido, a CONTRATADA ficará sujeito ao pagamento, além do principal do débito, da pena convencional de 10% (DEZ POR CENTO) sobre o valor do litígio, dos juros de mora de 1% (UM POR CENTO) ao mês, despesas de processo e honorários de advogado, estes fixados, desde logo em 20% (VINTE POR CENTO) sobre o valor em litígio.
+
+CLÁUSULA DÉCIMA SEXTA: DA CESSÃO OU TRANSFERÊNCIA. 16.1 ­ O presente CONTRATO não poderá ser objeto de cessão ou transferência no todo ou em parte, a não ser com prévio e expresso consentimento do CONTRATANTE, e sempre mediante instrumento próprio, devidamente motivado, a ser publicado no diário Oficial do Estado do Rio de Janeiro. 16.2 ­ O cessionário ficará sub-rogado em todos os direitos e obrigações do cedente e deverá atender a todos os requisitos de habilitação estabelecidos no instrumento convocatório e legislação específica.
+
+CLÁUSULA DÉCIMA SÉTIMA: DA EXCEÇÃO DE IMPEDIMENTO. 17.1 ­ Constitui Cláusula essencial do presente CONTRATO, de observância obrigatória por parte da CONTRATADA, a impossibilidade, perante o CONTRATANTE, de opor, administrativamente, exceção de inadimplemento, como fundamento para a interrupção unilateral do serviço. 17.2 ­ A suspensão do CONTRATO, a que se refere o artigo 78, inciso XV, da Lei nº 8.666/93, se não for objeto de prévia autorização da Administração, de forma a não prejudicar a continuidade dos serviços públicos, deverá ser requerida judicialmente, mediante demonstração dos riscos decorrentes da continuidade da execução do CONTRATO, sendo vedada a sua suspensão por decisão unilateral da CONTRATADA.
+
+CLÁUSULA DÉCIMA OITAVA: DA PUBLICIDADE E CONTROLE DO CONTRATO. 18.1 ­ Após assinatura do presente CONTRATO deverá seu extrato ser publicado, no prazo de 20 (VINTE DIAS), no Diário Oficial do Estado do Rio de Janeiro, correndo os encargos por conta da CONTRATADA, devendo ser encaminhado ao Tribunal de Contas do Estado, para conhecimento, cópia autenticada do CONTRATO até o quinto dia útil seguinte ao de sua assinatura.
+
+PAGINA 15 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+18.2 ­ O extrato de publicação deve conter a identificação do instrumento, partes, objeto, prazo, valor, número do empenho e fundamento do ato.
+
+CLÁUSULA DÉCIMA NONA: DO FORO DE ELEIÇÃO. 19.1 ­ Fica eleito o Foro da Cidade do Rio de Janeiro, Comarca da Capital, para dirimir qualquer litígio decorrente do presente CONTRATO que não possa ser resolvido por meio amigável, com expressa renúncia a qualquer outro, por mais privilegiado que seja. E, por estarem assim acordes em todas as condições e cláusulas estabelecidas neste CONTRATO, firmam as partes o presente instrumento em 03 (TRÊS) vias de igual forma e teor, depois de lido e achado conforme, em presença de testemunhas abaixo firmadas. Rio de Janeiro, em _____de _________ de 2010.
+
+_________________________________________________
+ÓRGÃO CONTRATANTE Representante Legal
+
+_________________________________________________
+CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO ­ PRODERJ. Vice-Presidente
+
+______________________________________________
+(EMPRESA VENCEDORA DO CERTAME) XXXXXXXXXXXXXXXXXXXXXXXXXX Representante Legal
+
+TESTEMUNHAS: _______________________________________________ Nome: CPF/MF nº: _____________________________________________ Nome: CPF/MF nº:
+
+PAGINA 16 DE 16
+CTNº 000 - 2010 - PRODERJ X MINUTA (RP - PONTOS DE FUNÇÃO).
+
+

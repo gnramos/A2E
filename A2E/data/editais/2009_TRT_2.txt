@@ -1,0 +1,861 @@
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO
+
+EDITAL DO PREGÃO ELETRÔNICO Nº 111/2009
+
+TIPO DE LICITAÇÃO: MENOR PREÇO DATA: 28/12/2009 HORÁRIO: 11:30 HORAS. LOCAL: http://www.comprasnet.gov.br/ OBJETO: Registro de Preços para serviços técnicos especializados de desenvolvimento e manutenção de sistemas informatizados, através da utilização da Ferramenta Genexus.
+
+EDITAL 1 - DO OBJETO 2 - DAS CONDIÇÕES PARA PARTICIPAÇÃO 3 - DA REPRESENTAÇÃO E DO CREDENCIAMENTO 4 - DO ENVIO DAS PROPOSTAS DE PREÇOS 5 - DA ABERTURA DAS PROPOSTAS DE PREÇOS 6 - DA FORMULAÇÃO DOS LANCES 7 - DO JULGAMENTO DAS PROPOSTAS DE PREÇOS 8 - DA HABILITAÇÃO 9 - DA IMPUGNAÇÃO AO EDITAL 10 - DOS RECURSOS 11 - DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO 12 - DAS SANÇÕES ADMINISTRATIVAS 13 - DA ASSINATURA DA ATA DE REGISTRO DE PREÇOS 14 - DA VIGÊNCIA DA ATA 15 - DO CANCELAMENTO DO REGISTRO 16 - DO PEDIDO 17 - DA ASSINATURA DO CONTRATO 18 ­ DAS OBRIGAÇÕES DA FORNECEDORA 19 - DA FISCALIZAÇÃO 20 - DO RECEBIMENTO DO OBJETO 21 - DO PAGAMENTO 22 - DA DOTAÇÃO ORÇAMENTÁRIA 23 - DAS DISPOSIÇÕES GERAIS 24 - DO FORO
+
+ANEXOS:
+
+A - ESPECIFICAÇÃO DO OBJETO B - MINUTA DA ATA C - MINUTA DE CONTRATO D - FORMA DE APRESENTAÇÃO DA PROPOSTA
+
+ESCLARECIMENTOS : em até 3 dias úteis anterior a Abertura, pelo e-mail licita@trt02.gov.br
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , mediante a utilização de recursos de tecnologia da informação - INTERNET, torna público que fará realizar licitação, na modalidade PREGÃO ELETRÔNICO, do tipo menor preço, pelo Sistema de REGISTRO DE PREÇOS, que será regido pela Lei nº 10.520, de 17 de julho de 2002, publicada no Diário Oficial da União, de 18 de julho de 2002, pelo Decreto nº 5.450, de 31 de maio de 2005, Decreto nº 3.931 de 19/09/2001, Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), aplicando-se subsidiariamente a Lei n.º 8.666, de 21 de junho de 1993, e condições estabelecidas no presente EDITAL e seus Anexos, de acordo com o que consta do Processo de Pregão Eletrônico n.º 111/2009.
+
+1 - DO OBJETO
+1.1 - O objeto do presente PREGÃO ELETRÔNICO é o Registro de Preços para serviços técnicos especializados de desenvolvimento e manutenção de sistemas informatizados, através da utilização da Ferramenta Genexus, conforme especificações contidas neste Edital e seus anexos.
+
+2 - DAS CONDIÇÕES PARA PARTICIPAÇÃO
+2.1 - Poderão participar deste Pregão os interessados que atenderem a todas as exigências constantes deste Edital e seus Anexos;
+
+2.2 - A participação das empresas nesta licitação corresponderá, automaticamente, à indicação de que não existem fatos impeditivos para sua habilitação e à ciência da obrigatoriedade de declarar, a qualquer tempo, quaisquer ocorrências supervenientes que as inabilitem.
+
+3 - DA REPRESENTAÇÃO E DO CREDENCIAMENTO
+3.1 - Os licitantes ou seus representantes legais deverão estar previamente credenciados, junto ao órgão provedor do sistema eletrônico ­ Portal de Compras do Governo Federal ­ COMPRASNET, http://www.comprasnet.gov.br/.
+
+3.2 - O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico no site http://www.comprasnet.gov.br/. Maiores informações poderão ser obtidas pelo telefone 0800-9782329 ­ COMPRASNET.
+
+3.3 - O credenciamento do licitante dependerá de registro cadastral atualizado no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, que também será requisito obrigatório para fins de habilitação. Pág. 2
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+3.4 ­ Para cadastrar-se no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, o interessado deverá preencher os formulários previstos na Instrução Normativa IN MARE nº 05/95 do Ministério do Planejamento, Orçamento e Gestão, com suas alterações posteriores, e entregá-los, juntamente com os documentos solicitados, a uma das Unidades Cadastradoras ­ UASG.
+
+3.5 - O credenciamento junto ao provedor do sistema implica na responsabilidade legal do licitante ou de seu representante e a presunção de sua capacidade técnica para realização das transações inerentes ao pregão eletrônico (§ 6º do art. 3º do Decreto nº 5.450/2005).
+
+3.6 - O uso da senha de acesso pelo licitante é de sua responsabilidade exclusiva, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou ao TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, promotor da licitação, responsabilidade por eventuais danos decorrentes do uso indevido da senha, ainda que por terceiros (§ 5º do art. 3º do Decreto nº 5.450/2005). 3.6.1 - A perda da senha ou a quebra de sigilo deverão ser comunicadas imediatamente ao provedor do sistema, para imediato bloqueio de acesso.
+
+4 - DO ENVIO DAS PROPOSTAS DE PREÇOS
+4.1 ­ Os licitantes credenciados deverão inserir suas propostas de preços, exclusivamente por meio do Sistema Eletrônico - COMPRASNET, na tela reservada para este fim, denominada CADASTRAMENTO DE PROPOSTA, até a data e horário limite definidos para abertura das propostas de preços.
+
+4.2 - Como requisito para a participação neste pregão eletrônico o licitante deverá declarar, em campo próprio do sistema eletrônico, o pleno conhecimento das condições contidas no Edital e seus Anexos, bem como que cumpre plenamente os requisitos de habilitação definidos no Edital.
+
+4.3 - O licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiros seus lances e sua proposta, conforme estabelece o inciso III do art. 13 do Decreto nº 5.450/2005.
+
+4.4 - Incumbirá ao licitante acompanhar as operações no sistema eletrônico durante a sessão pública do pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão, conforme estabelece o inciso IV do art. 13 do Decreto nº 5.450/2005.
+
+4.5 - A declaração falsa relativa ao cumprimento dos requisitos de habilitação e proposta sujeitará o licitante às sanções previstas, conforme disposto no parágrafo terceiro do art. 21 do Decreto nº 5.450/2005. Pág. 3
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+4.6 - A proposta de preços e os documentos de habilitação deverão ser apresentados em documento original ou cópia autenticada por cartório, no prazo máximo de 2 (dois) dias úteis, contados da sessão de abertura do certame.
+
+4.7 - A proposta de preços deverá conter a identificação do proponente e seu endereço comercial, preferencialmente impressa em meio mecânico/eletrônico e com a indicação de números de telefone e fax, email e homepage para quaisquer contatos, obrigatoriamente sem rasuras, ressalvas ou entrelinhas, sendo a última folha datada e assinada por responsável da empresa, observados os seguintes dados: - Razão social completa da licitante e número do CNPJ, que serão os mesmos constantes da documentação do Cadastro e da Nota Fiscal a ser emitida, caso seja vencedora do certame e o Tribunal decida contratar; - Preço com o qual a licitante concorrerá, indicado em moeda corrente nacional. No referido preço deverão estar incluídas quaisquer vantagens, abatimentos, impostos, taxas e contribuições sociais, obrigações trabalhistas, previdenciárias, fiscais e comerciais, que eventualmente incidam sobre a operação; ou, ainda, despesas com transporte ou terceiros, que correrão por conta da licitante vencedora; - Quantidade cotada, não inferior ao pedido mínimo estipulado; - Prazo para início dos serviços de, no máximo, 15 (quinze) dias contados da assinatura do contrato. - Prazo de validade da proposta de, no mínimo, 60 (sessenta) dias, contados da data-limite prevista para entrega da proposta, conforme art. 6º da Lei nº 10.520, de 17/07/2002. - Prazo de Garantia: de, no mínimo, 90 (noventa) dias a contar da data do recebimento definitivo.
+
+5 - DA ABERTURA DAS PROPOSTAS DE PREÇOS
+5.1 - A partir das 11:30 h do dia 28/12/2009 terá início a sessão pública do Pregão Eletrônico nº 111/2009, com a divulgação das Propostas de Preços recebidas de acordo com o Decreto nº 5.450/2005.
+
+6 - DA FORMULAÇÃO DOS LANCES
+6.1 - Iniciada a etapa competitiva, os licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico, sendo o licitante imediatamente informado do seu recebimento e respectivo horário de registro e valor.
+
+6.2 - Os licitantes poderão oferecer lances sucessivos, observado o horário fixado e as regras de aceitação dos mesmos. Pág. 4
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+6.3 - Só serão aceitos os lances em reais cujos valores forem inferiores ao último lance que tenha sido ofertado pelo mesmo licitante e registrado pelo sistema.
+
+6.4 - Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance registrado que tenha sido apresentado pelos demais licitantes, vedada a identificação do detentor do lance.
+
+6.5 - No caso de desconexão com o pregoeiro no decorrer da etapa competitiva do pregão, o sistema eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances. 6.5.1 - O pregoeiro, quando possível, dará continuidade à sua atuação no certame, sem prejuízo dos atos realizados. 6.5.2 - Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do pregão será suspensa e terá reinicio somente após comunicação expressa do pregoeiro aos participantes, na forma do estabelecido no Art. 24, § 11, do Decreto nº 5.450/05.
+
+6.6 - A etapa de lances da sessão pública será encerrada mediante aviso de fechamento iminente dos lances, emitido pelo sistema eletrônico aos licitantes, após o que transcorrerá período de tempo de 01 (um) até 30 (trinta) minutos, aleatoriamente determinado também pelo sistema eletrônico, findo o qual será automaticamente encerrada a recepção de lances.
+
+6.7 - Alternativamente ao disposto no subitem 6.6, o encerramento da sessão pública poderá ser efetuado por decisão do pregoeiro, mediante encaminhamento de aviso de fechamento iminente dos lances e subseqüente transcurso do prazo aleatório do sistema de 01 (um) até 30 (trinta) minutos, findo o qual será encerrada a etapa de lances.
+
+7 - DO JULGAMENTO DAS PROPOSTAS DE PREÇOS
+7.1 - O critério para o julgamento das propostas será o menor preço por item.
+
+7.2 - Após o encerramento da etapa de lances, o pregoeiro examinará a aceitabilidade dos lances de MENOR PREÇO POR ITEM, quanto ao objeto e valor, decidindo motivadamente a respeito.
+
+7.3 - O pregoeiro poderá encaminhar, pelo sistema eletrônico, contraproposta diretamente ao licitante que tenha apresentado o lance de menor valor, para que seja obtido preço melhor, bem assim decidir sobre sua aceitação.
+
+Pág. 5
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+7.4 - A pedido do pregoeiro o licitante detentor do menor lance deverá enviar, através do fax (11) 3150-2304, proposta com o valor total final praticado na sessão de pregão em conformidade com o Edital, encaminhando posteriormente, o original ou cópia autenticada na forma do item 8.6.
+
+7.5 - Constatado o atendimento pleno às exigências editalícias, será declarado o licitante vencedor.
+
+7.6 - Se a proposta ou o lance de menor valor não for aceitável, ou se o licitante desatender às exigências habilitatórias, o pregoeiro examinará a proposta ou o lance subseqüente, verificando a sua aceitabilidade e procedendo a sua habilitação, na ordem de classificação, e assim sucessivamente, até a apuração de uma proposta ou lance que atenda ao Edital.
+
+7.7 - Nas situações previstas nos subitens 7.2 e 7.6, o pregoeiro poderá negociar diretamente com o licitante, para que seja obtido preço melhor. 7.7.1 - A pedido do Pregoeiro, o licitante vencedor deverá readequar sua proposta para que os respectivos valores possam ser expressos com duas casas decimais e em conformidade com o lance vencedor.
+
+7.8 - Da sessão pública do pregão, divulgar-se-á Ata no sistema eletrônico, na qual constará a indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativas ao certame licitatório, sem prejuízo das demais formas de publicidade previstas no inciso XII do art. 30 do Decreto nº 5.450/2005.
+
+7.9 - Serão desclassificadas as propostas que não estiverem de acordo com as condições previstas neste Pregão Eletrônico, bem como aquelas que se manifestarem inexeqüíveis, nos termos do art. 48 da Lei 8.666/93. 7.10 ­ Comunicamos que durante o período de análise das propostas só serão permitidos questionamentos via fax ( 11-3150-2304) ou pelo e-mail licita@trtsp.jus.br, resguardando-se de possíveis transtornos com contatos telefônicos ou pessoais.
+
+8 - DA HABILITAÇÃO
+8.1 - Será considerado habilitado o licitante que: 8.1.1. - possuir registro cadastral atualizado no Sistema de Cadastro Unificado de Fornecedores ­ SICAF com situação de HABILITAÇÃO PARCIAL VÁLIDA e DOCUMENTAÇÃO OBRIGATÓRIA VÁLIDA;
+
+Pág. 6
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+8.1.2. - firmar declaração de cumprimento ao disposto no inciso XXXIII do art. 7º da Constituição Federal em campo próprio do sistema eletrônico, em que declare, sob as penas da lei, que não possui em seu quadro de pessoal empregado(s) menor(es) de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre e de 16 (dezesseis) anos em qualquer trabalho, salvo na condição de aprendiz, a partir de 14 (quatorze) anos. 8.1.3. ­ constar como parceiro Artech, Distributor ou Solution Partner, em uma das modalidades: Distribuidor; SP Silver; SP Gold; SP Platinum; SP Gold; 8.1.3.1 - A comprovação será feita através do site da Artech ou por atestado/certificado emitido por ela. 8.1.4 ­ comprovar através de Atestados fornecidos por pessoa jurídica de direito público ou privado, ter desenvolvido sistemas que totalizem 15.250 (quinze mil duzentos e cinqüenta) Pontos de Função utilizando a Ferramenta de Desenvolvimento GeneXusTM; 8.1.4.1 - Serão aceitos atestados emitidos em horas, que serão convertidos em Pontos de Função, sendo que para efeito de contagem dos quantitativos, a proporção será de 10 (dez) horas para cada ponto de função; 8.1.5 ­ apresentar Atestado de vistoria emitido pelo Serviço de Desenvolvimento de Sistemas da Secretaria de Informática deste Tribunal; 8.1.5.1 - As licitantes deverão, obrigatoriamente, até o dia útil anterior a data da realização da sessão do pregão eletrônico, realizar visita as dependências do Tribunal Regional do Trabalho da 2ª Região, no horário compreendido entre 12:00 às 18:00 horas, conforme agendado previamente, a fim de tomarem conhecimento sobre o local da prestação dos serviços e as condições oferecidas, aspectos técnicos sobre a infra-estrutura utilizada pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , bem como procedimentos a serem obedecidos, e que deverão ser seguidos durante toda a execução dos serviços; 8.1.5.2 - O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, através do Serviço de Desenvolvimento de Sistemas, emitirá atestado de vistoria, referente a esta visita; 8.1.5.3 - Para agendar a vistoria, a licitante deverá contatar o Serviço de Desenvolvimento de Sistemas do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO pelo endereço sds@trtsp.com.br ou pelo telefone 3150-2076, identificando a(s) pessoa(s) que realizará(ão) a vistoria (nome, RG, empresa representada, telefone de contato). 8.1.6 - apresentar declaração se comprometendo a manter técnicos capacitados e com as certificações/qualificações descritas no Anexo A do Edital, durante toda a vigência do contrato;
+
+8.2 - Quanto ao cumprimento aos dispostos nos itens 8.1.1 e 8.1.2 supra, a habilitação do licitante vencedor será verificada "on line" no Sistema de cadastro Unificado de Fornecedores ­ SICAF/Comprasnet.
+
+Pág. 7
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+8.3 - Fica assegurado ao licitante cuja situação no SICAF for a de Habilitação Parcial Vencida e Documentação Obrigatória Vencida o direito de apresentar, na forma dos itens 8.4 e 8.6 deste Edital, os documentos necessários à regularização da documentação vencida no SICAF.
+
+8.4 - A documentação necessária à complementação da habilitação, deverá ser encaminhada imediatamente após solicitação do Pregoeiro, via fax, para o número (11) 3150-2304, com posterior encaminhamento do original ou cópia autenticada na forma do item 8.6.
+
+8.5 - Não serão aceitos protocolos de entrega ou solicitação de documento, em substituição aos requeridos neste Edital e seus Anexos.
+
+8.6 - A documentação de habilitação, original ou cópia autenticada, deverá ser remetida no prazo máximo de 02 (dois) dias úteis para o seguinte endereço:
+
+TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO SERVIÇO DE COMPRAS E LICITAÇÕES "PREGÃO ELETRÔNICO Nº 111/2009" - DOCUMENTAÇÃO AVENIDA MARQUÊS DE SÃO VICENTE, Nº 121 ­ BLOCO A ­ 7º ANDAR BARRA FUNDA ­ SÃO PAULO/SP - CEP: 01139-001
+
+8.7 - Se a documentação de habilitação contrariar qualquer dispositivo deste Edital e seus Anexos, o Pregoeiro considerará o proponente inabilitado.
+
+9 - DA IMPUGNAÇÃO AO EDITAL
+9.1 - Até 02 (dois) dias úteis antes da data fixada para abertura da sessão pública, qualquer pessoa poderá impugnar o ato convocatório de Pregão, exclusivamente por meio eletrônico via internet, no endereço licita@trtsp.jus.br, aos cuidados do Pregoeiro.
+
+9.2 - Caberá ao pregoeiro, auxiliado pelo setor responsável pela elaboração do edital, decidir sobre a impugnação no prazo de até 24 (vinte e quatro) horas.
+
+9.3 - Acolhida a impugnação contra o ato convocatório, será definida e publicada nova data para a realização do certame.
+
+Pág. 8
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+10 - DOS RECURSOS
+10.1 - É admissível a manifestação de intenção de interposição de recurso contra alguma decisão do Pregoeiro, durante a sessão pública, realizada exclusivamente no âmbito do sistema eletrônico, devendo o licitante registrar os motivos de sua manifestação no campo denominado REGISTRAR RECURSO.
+
+10.2 - Após o encerramento da sessão pública, será concedido ao licitante que manifestou a intenção de interpor recurso o prazo de 3 (três) dias para apresentação das correspondentes razões, ficando os demais licitantes desde logo intimados a apresentar contra-razões, em igual número de dias, que começarão a contar do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos autos.
+
+10.3 - O acolhimento do recurso importará na invalidação apenas dos atos insuscetíveis de aproveitamento.
+
+10.4 - A falta de manifestação imediata e motivada do licitante importará a decadência do direito de recurso e adjudicação do objeto pelo pregoeiro ao vencedor.
+
+10.5 - Qualquer recurso contra a decisão do pregoeiro não terá efeito suspensivo.
+
+10.6 - Os autos do processo permanecerão com vista franqueada aos interessados no Serviço de Compras e Licitações, Avenida Marquês de São Vicente n.º 121 ­ Bloco A - 7º Andar - Barra Funda ­ São Paulo/SP ­ Telefone: (11) 3150-2300 ramal 2804.
+
+11 - DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO
+11.1 - A adjudicação do objeto do presente certame será viabilizada pelo pregoeiro sempre que não houver recurso (Inciso IX do art. 11 do Decreto 5.450/05).
+
+11.2 - Os demais fornecedores serão classificados neste processo, em ordem crescente de preço proposto e poderão ser convocados para compor a Ata de Registro de Preços, nos casos previstos nos artigos 12 e 13 do Decreto nº 3.931 de 19 de setembro de 2001.
+
+11.3 - A homologação da licitação é de responsabilidade da autoridade competente e só poderá ser realizada depois da adjudicação do objeto ao proponente vencedor pelo pregoeiro, ou, quando houver recurso, pela própria autoridade competente (Inciso V do art. 8º e art. 27 do Decreto 5.450/05).
+
+12 - DAS SANÇÕES ADMINISTRATIVAS
+Pág. 9
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+12.1 ­ Em caso de inexecução parcial ou total das condições fixadas nesta licitação, erros ou atrasos na execução e quaisquer outras irregularidades não justificadas, serão aplicadas as sanções administrativas nos termos da Minuta de Contrato anexa ao presente Edital.
+
+12.2 - As penalidades serão obrigatoriamente registradas no SICAF, e, no caso de impedimento de licitar, o licitante deverá ser descredenciado por igual período, sem prejuízo das multas previstas no contrato e das demais cominações legais.
+
+13 - DA ASSINATURA DA ATA DE REGISTRO DE PREÇOS
+13.1 - Os licitantes classificados em primeiro lugar deverão: 13.1.1 - assinar a Ata de Registro de Preços no prazo de 03 (três) dias úteis, contados da data do recebimento da convocação. 13.1.2 - manter, durante o período de validade do Registro de Preços, em compatibilidade com as obrigações assumidas no presente instrumento, todas as condições de habilitação e qualificação exigidas na licitação, devendo comunicar ao TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , imediatamente, qualquer alteração que possa comprometer a manutenção do presente;
+
+13.2 - O prazo para a assinatura da Ata de Registro de Preços poderá ser prorrogado uma vez, desde que solicitado por escrito, durante o prazo transcurso e ocorra motivo justificado e aceito pela Administração. 13.3 - A Ata de Registro de Preços deverá ser assinada na Avenida Marquês de São Vicente, nº 121 ­ Bloco A - 7º Andar - Barra Funda ­ São Paulo/SP, por representante legal da empresa, que deverá apresentar no ato cédula de identidade, Contrato Social ou documento equivalente e, se for o caso, a procuração outorgada pela empresa. A recusa injustificada do(s) licitante(s) classificado(s) em assinar(em) a Ata de Registro de Preços no prazo estabelecido pela Administração, caracteriza o descumprimento total da obrigação assumida, sujeitandoo(s) às penalidades legalmente estabelecidas.
+
+13.4 - A existência da Ata de Registro de Preços não obriga a Administração a firmar as contratações que dela poderão advir.
+
+14 - DA VIGÊNCIA DA ATA
+14.1 - A Ata de Registro de Preços terá validade de 12 (doze) meses, a partir da data de sua assinatura.
+
+Pág. 10
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+15 - DO CANCELAMENTO DO REGISTRO
+15.1 - A FORNECEDORA terá seu registro cancelado, por determinação do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, quando: a) descumprir as condições da Ata de Registro de Preços; b) não retirar a respectiva nota de empenho ou instrumento equivalente, decorrente deste Registro, no prazo estabelecido pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, sem justificativa aceitável; c) não aceitar reduzir o seu preço registrado, na hipótese de este se tornar superior àqueles praticados no mercado; d) presentes razões de interesse público. 15.1.1 - O cancelamento do registro nas hipóteses previstas, assegurados o contraditório e a ampla defesa, será formalizado por despacho da autoridade competente. 15.1.2 ­ Nas hipóteses previstas nas letras "a" e "b" do subitem 15.1, a FORNECEDORA estará sujeita às penalidades previstas na letra "d" do subitem 12.1.
+
+15.2 - A FORNECEDORA poderá solicitar o cancelamento do seu registro de preço na ocorrência de fato superveniente que venha comprometer a perfeita execução contratual, decorrente de caso fortuito ou de força maior devidamente comprovados.
+
+16 - DO PEDIDO
+16.1 - O pedido de fornecimento, em quantidade não inferior ao pedido mínimo estipulado no Anexo A Especificação do Objeto, será efetuado mediante a comunicação formal da emissão da correspondente Nota de Empenho e solicitação para a sua retirada.
+
+16.2 - A empresa deverá retirar a Nota de Empenho no Serviço de Compras e Licitações deste Tribunal, situado na Avenida Marquês de São Vicente n.º 121, Bloco A, 7º andar, Barra Funda, São Paulo SP, em até 03 (três) dias úteis a contar do pedido de fornecimento.
+
+17 - DA ASSINATURA DO CONTRATO
+
+Pág. 11
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+17.1 - Após a assinatura da Ata de Registro de Preços, a FORNECEDORA será convocada por escrito para, no prazo de até 05 (cinco) dias úteis, retirar e devolver o instrumento contratual devidamente assinado por representante legal da empresa, com firma reconhecida em Cartório, na forma da minuta apresentada em anexo a este Edital, adaptada à proposta vencedora.
+
+17.1.1 - A pessoa autorizada pela FORNECEDORA a proceder à assinatura do contrato deverá obrigatoriamente apresentar, no ato, cópia do Contrato Social e caso o representante não seja sócio administrador ou proprietário, deverá apresentar, também, a procuração outorgada pela empresa.
+
+17.2 - Na assinatura do contrato será exigida a comprovação das condições de habilitação consignadas no edital, as quais deverão ser mantidas pelo licitante durante sua vigência. 17.2.1 - Neste momento, deverá apresentar, sem ônus a este Tribunal e conforme legislação a comprovação da qualificação dos Profissionais alocados pela Contratada: 17.2.1.1 - Coordenador de projetos, que se encarregará da comunicação entre as equipes da contratada e gerentes do projeto da contratante, dirimindo dúvidas, informando acerca de riscos, impedimentos e andamento, com a seguinte qualificação: 17.2.1.1.1 - Diploma de curso superior reconhecido pelo Ministério da Educação; 17.2.1.1.2 - Experiência de no mínimo 01 (um) ano em coordenação de projetos, comprovada através de currículo atualizado, explicitando nomes dos projetos, períodos de execução constando mês e ano, e respectivas organizações patrocinadoras; 17.2.1.1.3 - Atestado emitido por pessoa física, identificada pelo nome completo, profissão, data de nascimento, RG e telefone para contato, testemunhando a experiência mínima de 01 (um) ano em coordenação de projetos. 17.2.1.2 - Analista de sistemas, que executará os serviços de detalhamento e especificação dos requisitos, com a seguinte qualificação: 17.2.1.2.1 - Experiência de no mínimo 3 (três) anos em especificação de requisitos utilizando a linguagem UML, comprovado através de currículo profissional explicitando nomes dos projetos, períodos de execução constando mês e ano, e respectivas organizações patrocinadoras; 17.2.2.2 - Diploma de curso superior reconhecido pelo Ministério da Educação. 17.2.1.3 - Codificadores Genexus, que executarão os serviços de construção dos códigos-fonte, com a seguinte qualificação: 17.2.3.1 - Conhecimento avançado em programação, utilizando a ferramenta GeneXusTM, nas versões 3.0, 7.5, 8.0, 9.0, X e superiores; 17.2.3.2 - Conhecimento em programação para ambiente iSeries (AS/400), através da geração de código em COBOL/400 e Java; 17.2.3.3 - Conhecimento de desenvolvimento de aplicações cliente-servidor acessando e armazenando informações nos Bancos de Dados DB2-UDB para iSeries e Oracle 10g e superiores; Pág. 12
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+17.2.3.4 - Conhecimento de servidores de aplicação, servidores Web e deployment com GeneXusTM; 17.2.3.5 - Experiência mínima de 1 (um) ano em programação na ferramenta GeneXusTM, comprovada através de currículo atualizado contendo nome completo, profissão, data de nascimento, RG e telefone para contato de pessoas físicas, testemunhando à experiência profissional; 17.2.1.4 - Testadores, que executarão as inspeções visuais nas interfaces de usuário e nos códigos-fontes produzidos (testes estruturais ou de "caixa-branca"); bem como a execução dos testes funcionais em relatórios e outras saídas externas dos sistemas, com a seguinte qualificação: 17.2.4.1 - Experiência mínima de 1 (um) ano em programação na ferramenta GeneXusTM; 17.2.2 - O(s) técnico(s) alocado(s) deverá(ão) possuir vínculo com a empresa licitante; 17.2.2.1 - A comprovação do vínculo se fará através de apresentação de cópia do registro na carteira profissional ou contrato de trabalho/prestação de serviços, sem prazo estipulado.
+
+17.3 - Incumbirá ao Tribunal Regional do Trabalho da 2ª Região providenciar a publicação do extrato do Contrato no Diário Oficial da União, conforme dispõe o parágrafo único do art. 61 da Lei 8.666/93.
+
+1.7.4 - A FORNECEDORA registrada obriga-se a aceitar os acréscimos que se fizerem necessários, até 25% (vinte e cinco por cento) do valor total, conforme § 1º do art. 65 da Lei nº 8.666/93.
+
+18 ­ DAS OBRIGAÇÕES DA FORNECEDORA
+18.1 - A FORNECEDORA além de comprometer-se a entregar o objeto da presente ata, de acordo com as especificações constantes no Edital e seus Anexos e cumprir com o prazo de entrega e as quantidades solicitadas, obriga-se a : 18.1.1 - disponibilizar uma equipe de técnicos, conforme Anexo A do Edital; 18.1.2 - instalar e configurar o ambiente de produção para utilização dos aplicativos desenvolvidos para o TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO; 18.1.3 - fornecer as licenças dos produtos: Genexus Development Environment e Cobol/400 Generator, para a versão 3.0 e superiores, as quais serão utilizadas pelos profissionais alocados, sendo fornecidas pela FORNECEDORA, para utilização durante a vigência do contrato; 18.1.4 - fornecer as licenças dos produtos: Genexus Development Environment e Cobol/400 Generator, para as versões 7.5, 8, 9 e X, as quais serão utilizadas pelos profissionais alocados, sendo fornecidas pela FORNECEDORA, conforme as necessidades do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, para utilização durante a vigência do contrato; Pág. 13
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+18.1.5 - realizar reuniões de acompanhamento entre contratante e contratada, nas dependências do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , destinadas ao acompanhamento da execução dos serviços, observando as condições do Anexo A: 18.1.6 - prestar serviços de análise de testes, compreendendo, entre outras, a elaboração e execução do plano de testes, para garantir que o nível de qualidade inicialmente proposto para o sistema seja alcançado; 18.1.7 - disponibilizar sistema WEB para acompanhamento do projeto do sistema; 18.1.8 - manter, durante o período de validade da Ata de Registro de Preços, em compatibilidade com as obrigações assumidas no presente instrumento, todas as condições de habilitação e qualificação exigidas na licitação, devendo comunicar ao TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , imediatamente, qualquer alteração que possa comprometer a manutenção do presente; 18.1.9 - assumir a responsabilidade pelos encargos fiscais e comerciais resultantes da adjudicação desta licitação.
+
+19 - DA FISCALIZAÇÃO
+19.1 - A execução da Ata de Registro de Preços será objeto de acompanhamento, fiscalização e avaliação por intermédio do Diretor do Serviço de Desenvolvimento de Sistemas , sob supervisão do Diretor da Secretaria de Informática. 19.1.1 - À fiscalização compete, entre outras atribuições, encaminhar à Diretoria Administrativa o documento que relacione as ocorrências que impliquem multas ou sanções a serem aplicadas à empresa FORNECEDORA, bem como, acompanhar e atestar o recebimento provisório e definitivo da execução, indicando as ocorrências verificadas; 19.1.2 - A fiscalização de que trata o item anterior será exercida no interesse da Administração. 19.1.3 - Quaisquer exigências da fiscalização, inerentes ao objeto da Ata de Registro de Preços, deverão ser prontamente atendidas pela FORNECEDORA, sem qualquer ônus para o TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO .
+
+20 - DO RECEBIMENTO DO OBJETO
+20.1 - Em conformidade com os artigos 73 a 76 da lei 8.666/93 modificada pela lei 8.883/94, mediante recibo, o objeto da presente licitação será recebido: a) provisoriamente, será dispensado, de acordo com o disposto no art. 74, inciso II, da Lei nº 8.666/93.
+
+Pág. 14
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+b) definitivamente, mediante termo de aceite, no prazo de até 05 (cinco) dias úteis após a entrega e validação de conjuntos de artefatos, conforme preceitua o art. 73, inciso II, alínea "b", da Lei nº 8.666/93, será feito pelo Diretor do Serviço de Desenvolvimento de Sistemas.
+
+21 - DO PAGAMENTO
+21.1 ­ O pagamento será efetuado nos termos da Minuta de Contrato anexa ao presente Edital.
+
+22 - DA DOTAÇÃO ORÇAMENTÁRIA
+22.1 - As despesas decorrentes da presente aquisição correrão à conta dos recursos orçamentários consignados a este Regional, de acordo com Lei Orçamentária nº 11.897 de 30/12/2008, publicada no D.O.U. em 31/12/2008, conforme Programa de Trabalho 15.103.02.126.0571.2003.0001, naturezas de despesa 3.3.90.39 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA e, nos exercícios subseqüentes, à conta da dotação orçamentária que atenda despesas da mesma natureza.
+
+23 - DAS DISPOSIÇÕES GERAIS
+23.1 - As empresas participantes deverão manter atualizado seu endereço, e-mail e número telefônico junto ao SICAF, a partir da data definida no item 5.1, visando facilitar o contato do Tribunal com o licitante em caso de eventual retorno de fase do pregão.
+
+23.2 - Todas as referências de tempo no edital, no aviso e durante a sessão pública observarão obrigatoriamente o horário de Brasília - DF e, dessa forma, serão registradas no sistema eletrônico e na documentação relativa ao certame.
+
+23.3 - A indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativas à sessão pública do pregão constarão de ata divulgada no sistema eletrônico.
+
+23.4 - Toda comunicação oficial ocorrerá por fax ou por publicação, nos termos da legislação.
+
+23.5 - Os pedidos de esclarecimentos referentes ao processo licitatório deverão ser enviados ao pregoeiro, até três dias úteis anteriores à data fixada para abertura da sessão pública, exclusivamente por meio eletrônico via Internet, no endereço licita@trtsp.jus.br, aos cuidados do Pregoeiro.
+
+Pág. 15
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+23.6 - As normas que disciplinam este Pregão serão sempre interpretadas em favor da ampliação da disputa entre os interessados, desde que não comprometam o interesse da Administração, a finalidade e a segurança da adjudicação.
+
+23.7 - É facultado ao pregoeiro em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou complementar a instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar do mesmo, desde a realização da sessão pública.
+
+23.8 - Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e se incluirá o do vencimento. Só se iniciam e vencem os prazos em dias de expediente no Tribunal Regional do Trabalho da 2ª Região.
+
+23.9 - A autoridade competente para aprovação do procedimento licitatório somente poderá revogá-lo em face de razões de interesse público, por motivo de fato superveniente devidamente comprovado, pertinente e suficiente para justificar tal conduta, devendo anulá-lo por ilegalidade, de ofício ou por provocação de qualquer pessoa, mediante ato escrito e fundamentado. 23.10 ­ Aplicar-se-ão durante a realização do certame, até a identificação do licitante vencedor, as disposições contidas nos artigos 42 a 45 e 3º a 5º, respectivamente, da Lei Complementar nº 123/06 e do Decreto 6.204/07.
+
+23.11 - Aos casos omissos aplicar-se-ão as demais disposições constantes do Decreto nº 5.450, de 31 de maio de 2005, da Lei nº 10.520, de 17 de julho de 2002, e da Lei nº 8.666/93, de 21 de junho de 1993.
+
+24 - DO FORO
+24.1 - O foro para dirimir questões relativas ao presente Edital será o da Justiça Federal, na Seção Judiciária de São Paulo, com exclusão de qualquer outro.
+
+São Paulo, 9 de dezembro de 2009.
+
+Antonio José Martins Barreira Diretor do Serviço de Compras e Licitações
+
+Pág. 16
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO A
+ESPECIFICAÇÃO DO OBJETO Ref. Registro de Preços para serviços técnicos especializados de desenvolvimento e manutenção de sistemas informatizados, através da utilização da Ferramenta Genexus
+
+Especificação
+
+1.1. Detalhamento do Objeto: 1.1.1. Desenvolvimento de novos sistemas informatizados a partir de necessidades
+
+estabelecidas pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO; 1.1.2. Manutenção evolutiva em sistemas informatizados para o acréscimo de novas funcionalidades, extensão ou exclusão de funcionalidades existentes, a partir de especificações estabelecidas pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO; 1.1.3. Manutenção adaptativa e corretiva em sistemas informatizados, compreendendo, mudança de versão de produtos ou de ambiente operacional ou conversão de linguagem, mediante solicitação do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO.
+
+Tipo de Serviço Desenvolvimento de novos sistemas Manutenção Evolutiva Aplicativo novo.
+
+Descrição
+
+Acréscimo ou extensão de funcionalidade em aplicativo existente. Mudança de versão de produto ou
+
+Manutenção Adaptativa e Corretiva
+
+ambiente operacional ou conversão de linguagem Exemplo: Cobol para Java
+
+1.2. Do escopo dos serviços a serem prestados pela empresa: 1.2.1.Serviço de desenvolvimento e manutenção de sistemas de informação transacionais, através da utilização da Ferramenta Genexus, contemplando as desenvolvimento de software: 1.2.1.1. Análise e Especificação de Requisitos; construção de protótipos; codificação e testes do software e implantação, de acordo com as especificações constantes deste Edital e seus Anexos. 1.2.2.Estima-se que serão contratados 15.250 (quinze mil, duzentos e cinqüenta) Pontos de Função no período de vigência deste registro de preços; seguintes etapas do ciclo de
+
+Pág. 17
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.2.2.1.
+
+Esta estimativa diz respeito à quantidade de Pontos de Função a serem contratados no período indicado, sendo que os prazos para execução obedecerão às condições constantes deste Edital e seus Anexos;
+
+1.2.2.2.
+
+Os pontos de função referem-se ao desenvolvimento e manutenção de sistemas de informação de suporte às rotinas de operação do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , constantes dos exemplos citados no Anexo V;
+
+1.2.2.3.
+
+A contagem de Pontos de Função será realizada conforme a metodologia descrita no Manual de Práticas e Contagens versão 4.2 (Counting Practices Manual Release 4.2), publicado pelo IFPUG (Intenational Function Point Users Group), em 2005 ou que for vigente à época da contratação.
+
+1.2.2.4.
+
+A contagem de pontos de função será efetuada no repasse dos serviços (contagem estimativa), pelo contratante, e na conclusão dos serviços (contagem final), pela contratada, cabendo ao TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO efetuar a validação dessa contagem.
+
+1.2.2.5.
+
+No caso da contratação da fase de Especificação de Requisitos, a Contagem estimativa, citada no item 1.2.2.4, será feita de acordo com as técnicas de contagens indicativa e estimativa definidas pela NESMA ­ Netherlands Software Metrics Users Association.
+
+1.2.3.A licitante vencedora deverá: 1.2.3.1. Disponibilizar uma equipe de técnicos composta no mínimo de: Um profissional, que se encarregará da comunicação entre as equipes da contratada e gerentes de projeto da contratante, dirimindo dúvidas, informando acerca de riscos, impedimentos e andamento, doravante denominado
+
+1.2.3.1.1.
+
+coordenador de projetos; 1.2.3.1.2. Um profissional, que executará os serviços de detalhamento e especificação dos requisitos, doravante denominado de analista de sistemas; 1.2.3.1.3. No mínimo 3 (três) profissionais, que executarão os serviços de construção dos códigos-fonte, doravante denominados de Codificadores Genexus; 1.2.3.1.4. Um profissional, que executará as inspeções visuais nas interfaces de usuário e nos códigos-fontes produzidos (testes estruturais ou de "caixa -branca"); bem como a execução dos testes funcionais em relatórios e outras saídas externas dos sistemas, como arquivos de interface, envios de notificação por e-mail etc, doravante denominado de Testador; 1.2.3.2. Instalar e configurar o ambiente de produção para utilização dos aplicativos desenvolvidos para o Tribunal; 1.2.3.3. Fornecer as licenças dos produtos: Genexus Development Environment e Cobol/400 Generator, para a versão 3.0 e superiores, as quais serão utilizadas pelos profissionais alocados, sendo fornecidas pela empresa contratada, para utilização durante a vigência do contrato; Pág. 18
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.2.3.4.
+
+Fornecer as licenças dos produtos: Genexus Development Environment e Cobol/400 Generator, para as versões 7.5, 8, 9 e X, as quais serão utilizadas pelos profissionais alocados, sendo fornecidas pela empresa contratada, conforme as necessidades do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, para utilização durante a vigência do contrato;
+
+1.3. Da qualificação dos Profissionais alocados pela Contratada: 1.3.1.Coordenador de projetos, que se encarregará da comunicação entre as equipes da contratada e gerentes do projeto da contratante, dirimindo dúvidas, informando acerca de riscos, impedimentos e andamento, com a seguinte qualificação: 1.3.1.1. 1.3.1.2. Diploma de curso superior reconhecido pelo Ministério da Educação; Experiência de no mínimo 01 (um) ano em coordenação de projetos, comprovada através de currículo atualizado, explicitando nomes dos projetos, períodos de execução constando mês e ano, e respectivas organizações patrocinadoras; 1.3.1.3. Atestado emitido por pessoa física, identificada pelo nome completo, profissão, data de nascimento, RG e telefone para contato, testemunhando a experiência mínima de 01 (um) ano em coordenação de projetos. 1.3.2.Analista de sistemas, que executará os serviços de detalhamento e especificação dos requisitos, com a seguinte qualificação: 1.3.2.1. Experiência de no mínimo 3 (três) anos em especificação de requisitos utilizando a linguagem UML, comprovado através de currículo profissional explicitando nomes dos projetos, períodos de execução constando mês e ano, e respectivas organizações patrocinadoras; 1.3.2.2. Diploma de curso superior reconhecido pelo Ministério da Educação.
+
+1.3.3.Codificadores Genexus, que executarão os serviços de construção dos códigos-fonte, com a seguinte qualificação: 1.3.3.1. Conhecimento avançado em programação, utilizando a ferramenta GeneXusTM, nas versões 3.0, 7.5, 8.0, 9.0, X e superiores; 1.3.3.2. Conhecimento em programação para ambiente iSeries (AS/400), através da geração de código em COBOL/400 e Java; 1.3.3.3. Conhecimento de desenvolvimento de aplicações cliente-servidor acessando e armazenando informações nos Bancos de Dados DB2-UDB para iSeries e Oracle 10g e superiores; 1.3.3.4. Conhecimento de servidores de aplicação, servidores Web e deployment com GeneXusTM; 1.3.3.5. Experiência mínima de 1 (um) ano em programação na ferramenta GeneXusTM, comprovada através de currículo atualizado contendo nome completo, profissão, data de nascimento, RG e telefone para contato de pessoas físicas, testemunhando à experiência profissional; Pág. 19
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.3.4.Testadores, que executarão as inspeções visuais nas interfaces de usuário e nos códigos-fontes produzidos (testes estruturais ou de "caixa-branca"); bem como a execução dos testes funcionais em relatórios e outras saídas externas dos sistemas, com a seguinte qualificação: 1.3.4.1. Experiência mínima de 1 (um) ano em programação na ferramenta GeneXusTM;
+
+1.3.5.O(s) técnico(s) alocado(s) deverá(ão) possuir vínculo com a empresa licitante; 1.3.5.1. A comprovação do vínculo se fará através de apresentação de cópia do registro na carteira profissional ou contrato de trabalho/prestação de serviços, sem prazo estipulado. 1.4. Da descrição dos Serviços a serem executados: 1.4.1. Criação de novos sistemas a serem desenvolvidos nas versões de GeneXusTM especificadas no item 1.3.3.1, utilizando-se dos geradores Visual Basic, Visual Fox Pro, Java, dot net mobile e COBOL, em aplicações do tipo "tela verde" (emulação de terminal 5250), arquitetura clienteservidor e aplicações WEB; 1.4.2. 1.4.3. 1.4.4. Impactação de bases de dados no ambiente iSeries; Criação e manutenção de qualquer dos objetos gerados pelo GeneXusTM; Da Manutenção Evolutiva: Quanto a Manutenção Evolutiva, ou seja, aquela que corresponde à qualquer tipo de alteração das características e/ou funcionalidades dos sistemas desenvolvidos em decorrência de alterações nas regras de negócio, para adequação às novas necessidades, mudanças nos cenários quando da especificação, alterações decorrentes de imposições de ordem legal ou de especificações e requisitos provenientes do contratante, deverão ser realizadas e tratadas da seguinte forma: 1.4.4.1.1. As manutenções evolutivas serão subdivididas em manutenções não estruturais e manutenções estruturais; 1.4.4.1.2. As manutenções não estruturais referem-se à:
+
+1.4.4.1.
+
+1.4.4.1.2.1. Validação de entrada em campos da tela; 1.4.4.1.2.2. Habilitar ou desabilitar botões e/ou associar restrições por grupo de usuários; 1.4.4.1.2.3. Alterações em relatórios envolvendo: margens, campos fixos (logo, títulos, número de página, cores, fontes), formato e tamanho de campos, formatação do relatório (desenho de grids, marca d'água); 1.4.4.1.2.4. Exclusão de regras de negócio; 1.4.4.1.2.5. Alterações na organização do menu, (incluir mudanças de restrições de segurança por grupo de usuários). 1.4.4.1.3. As manutenções estruturais referem-se à:
+
+1.4.4.1.3.1. Alterações no banco de dados (tabelas, procedures, funções); 1.4.4.1.3.2. Alterações na arquitetura da realização do caso de uso implementado; 1.4.4.1.3.3. Alterações do padrão de ergonomia/ usabilidade;
+
+Pág. 20
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.4.4.1.3.4. Alterações em estrutura de relatórios - ou outras saídas, como emails e arquivos - envolvendo quebras, grupos, cálculos, novos campos, inclusão de sub-relatórios ou gráficos; 1.4.4.1.3.5. Inclusão / Alteração de regras de negócio; 1.4.4.1.3.6. Alterações em interfaces com outros sistemas; 1.4.4.1.3.7. Alterações em regras de segurança (incluindo edição ou visualização de campos, tratamento de permissões em regras de negócio). 1.4.4.1.4. Quando a manutenção do caso de uso envolver aspectos estruturais e não estruturais, prevalecerão os critérios para manutenções do tipo estrutural. 1.4.4.1.5. A manutenção estrutural de um caso de uso será classificada como simples / média / alta, mediante trabalho de diagnóstico e avaliação de impacto realizado previamente, segundo os critérios abaixo: 1.4.4.1.5.1. Número de artefatos e elementos estruturais que vierem a ser alterados (contabilizando por Ponto de Função para cada Processo Elementar alterado): 1.4.4.1.5.1.1. 1.4.4.1.5.1.2. Unidade de código ­ objetos Genexus; Documentação ­ especificação UML (caso de uso), modelo físico, plano de testes; 1.4.4.1.5.1.3. Banco de dados ­ tabelas, associações;
+
+1.4.4.1.5.2. A complexidade será definida em função do percentual dos artefatos relacionados ao caso de uso a serem alterados, por exemplo, se um UC tiver 12 (doze) artefatos, e a alteração influenciar em 6 (seis) artefatos, então o percentual será de 50% (média complexidade); se fossem 7 (sete) artefatos o percentual seria de 75% (alta complexidade). Manutenções que excedam 75% dos artefatos, terão 100% dos pontos de função contabilizados; 1.4.4.1.5.3. Para que essa premissa seja atendida deverá ser mantida uma matriz de rastreabilidade entre os casos de uso e respectivos artefatos, que deverá acompanhar o documento de Diagnóstico e Avaliação de Impacto da Manutenção; 1.4.4.1.5.4. No caso da manutenção não ser realizada (for cancelada), o trabalho de diagnóstico e avaliação de impacto será remunerado em 25% do valor dos pontos de função referentes à análise; 1.4.5. 1.4.6. 1.4.7. Criação de sistemas desenvolvidos para ambiente Web, gerados em Java pelo GeneXusTM; Desenvolvimento de sistemas para pocket pc (dot net mobile). Desenvolvimento de aplicações de Workflow, através da utilização de Gxflow, gerando em ambiente WEB, com o gerador Java; 1.4.8. 1.4.9. Criação de web services. Elaborar e entregar os seguintes artefatos de documentação dos projetos dos sistemas, utilizando linguagem UML, compreendendo; Pág. 21
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.4.9.1.
+
+Documento de especificação dos casos de uso do software com descrição dos fluxos; descrição das respectivas regras de negócio a serem aplicadas;
+
+1.4.9.2.
+
+Documento com glossário dos termos de negócio referenciados;
+
+1.4.10. Prestar serviços de análise de testes, compreendendo, entre outras, a elaboração e execução do plano de testes, para garantir que o nível de qualidade inicialmente proposto para o sistema seja alcançado; 1.4.11. Realizar reuniões de acompanhamento entre contratante e contratada, nas dependências do Tribunal, destinadas ao acompanhamento da execução dos serviços, observando o seguinte: 1.4.11.1. Periodicidade: quinzenal; 1.4.11.2. Presença obrigatória do coordenador do projeto indicado pela Contratada e o responsável técnico do Tribunal; 1.4.11.3. Será objeto de deliberação, entre outros: 1.4.11.3.1. Elaboração ou revisão do Plano de execução dos serviços, estabelecendo que requisitos e/ou casos de uso e os respectivos artefatos a serem construídos no mês em questão; 1.4.11.3.2. Ações, responsáveis e prazos para tratamento de riscos e impedimentos do projeto, que afetem a prestação dos serviços da Contratada. 1.4.12. Disponibilizar sistema WEB para acompanhamento do projeto do sistema, incluindo, entre outros: 1.4.12.1. Planos de execução dos serviços e marcos de entrega estabelecidos; 1.4.12.2. Andamento da execução dos serviços; 1.4.12.3. Artefatos produzidos, com controle de versionamento. 1.4.12.4. Registro, acompanhamento e controle de não conformidades dos artefatos entregues. 1.4.13. Prestar serviços de suporte técnico, que compreende: 1.4.13.1. Garantir a manutenção e disponibilidade dos ambientes de homologação e produção do sistema; 1.4.13.2. Atender aos usuários do Tribunal, em questões relativas ao sistema implantado; 1.4.13.3. Transferência de tecnologia para os técnicos do Tribunal desenvolvimento utilizada no desenvolvimento dos sistemas. 1.5. Dos locais de prestação dos serviços: 1.5.1. Os serviços ora licitados, deverão ser prestados obrigatoriamente nas dependências do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , à Avenida Marquês de São Vicente, 121 ­ Bloco A ­ 3º andar, ou outro endereço a ser fornecido pelo contratante, no Município de São Paulo; 1.5.1.1. Em nenhum caso caberá a cobrança por qualquer despesa de deslocamento dos membros das equipes da contratada. 1.6. Dos horários de prestação dos serviços: Pág. 22 na plataforma de
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.6.1.
+
+Os serviços realizados nas dependências do Tribunal Regional do Trabalho da 2ª Região serão executados nos dias úteis, de segunda a sexta-feira, no período compreendido das 09:00 às 19:00 horas;
+
+1.7. Da Solicitação dos Serviços: 1.7.1. O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO fará as solicitações mediante a emissão de Solicitação de Serviços ­ Anexo VII, deste Edital. 1.7.2. A Solicitação de Serviços será enviada para a contratada, e deverá conter as seguintes informações: 1.7.2.1. Relação dos serviços solicitados, os respectivos artefatos a serem construídos e suas contagens estimativas de pontos de função, que serão aferidas pela contratada; 1.7.2.1.1. Nas reuniões de acompanhamento (1.4.11) serão estabelecidos os prazos para a entrega dos serviços requisitados em cada solicitação de serviço. 1.7.3. As quantidades e o prazo de execução dos serviços que vierem a ser adquiridos serão informados na respectiva Solicitação de Fornecimento, respeitados os prazos definidos neste Edital. 1.7.4. Não há previsão quanto à distribuição das solicitações de serviço ao longo dos meses, sendo responsabilidade da contratada ajustar-se com vistas ao atendimento dos serviços solicitados pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO. 1.7.5. O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO adotará o valor 1,00 (um) como Fator de Ajuste para todos os projetos. 1.7.6. Os AIE (Arquivo de Interface Externa) deverão ser contados, conforme determina a técnica de Análise de Pontos de Função, porém não serão considerados para remuneração à contratada sempre que para sua inclusão, alteração ou exclusão forem utilizados componentes fornecidos pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO. 1.7.7. Se for contratada somente a fase de Análise do Projeto para estudo de viabilidade de execução e construção do sistema, o serviço contratado será remunerado por 100 Pontos de Função; 1.7.8. Caso haja divergências iguais ou superiores a 5% entre o TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO e a contratada em relação às contagens de pontos de função do serviço efetuado, representantes do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO e da contratada deverão se reunir para resolver as divergências. Caso as divergências sejam inferiores a 5%, prevalecerá a contagem aferida pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO. 1.7.9. O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO adotará a tabela abaixo para apuração da equivalência em pontos de função de atividades não passíveis de mensuração pela técnica de Análise de Pontos de Função. A quantidade de pontos de função equivalente aos itens não mensuráveis será obtida pela multiplicação da Base de Cálculo pelo Fator de Equivalência em Pontos de Função.
+
+Pág. 23
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Item Layout de telas e arquivos
+
+Base de Cálculo
+
+Fator de equivalência em PF
+
+Contempla alterações de layouts de telas ou Quantidade de itens de layout arquivos sem que haja alteração de alterados
+
+0,04
+
+funcionalidade. Campos e Variáveis Contempla a inclusão, alteração ou exclusão de campos e variáveis em programas e Quantidade de campos tabelas sem que tenha havido mudança na funcionalidade. Mensagens Contempla alteração de mensagens de Quantidade retorno a usuários. alteradas de mensagens 0,04 0,08
+
+Menus
+
+Quantidade de telas incluídas
+
+Contempla a inclusão, alteração ou exclusão ou alteradas de menus ou telas de ajuda a usuário (helps). Saídas em múltiplas mídias Dados Hard Coded Contempla a inclusão, alteração ou Quantidades de dados Quantidade de telas excluídas
+
+0,1
+
+0,02 Serão contabilizadas uma única vez.
+
+--
+
+exclusãode dados pertencentes a listas (combo box) ou tabelas físicas.
+
+0,04
+
+Inclusão de Tabela Code Table Contempla a necessidade de Alteração de Tabela criação, Exclusão de Tabela
+
+1,00 0,60 0,40 0,30 0,20 0,10
+
+alteração ou exclusão de tabelas Code Table Inclusão de Funcionalidade e respectivas funcionalidades. Alteração de Funcionalidade Exclusão de Funcionalidade
+
+1.8. Da Prestação dos serviços: 1.8.1. Os serviços serão entregues, validados e pagos de acordo com as ordens de serviço emitidas, mediante a apresentação de artefatos cujos valores corresponderão às frações previstas no item 1.9.2 e subitens;
+
+1.9. Da Entrega dos Serviços solicitados: 1.9.1. A Contratada deverá encaminhar, mensalmente, relatório detalhado das atividades realizadas, acompanhado da respectiva fatura, relacionando: Pág. 24
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.9.1.1.
+
+Os artefatos entregues no mês, que serão faturados de acordo com os valores correspondentes ao preço do Ponto de Função;
+
+1.9.2.
+
+Os artefatos entregues mensalmente ao TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO terão o pagamento efetuado com base na quantidade de pontos de função correspondente, observando o seguinte:
+
+1.9.2.1.
+
+Na formalização da entrega, mediante reunião com equipe do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , será validada e comprovada a execução dos serviços e será pago o percentual de 80% (oitenta por cento) do total da nota fiscal emitida, correspondente aos artefatos entregues.
+
+1.9.2.2.
+
+Na homologação pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO
+
+dos
+
+artefatos entregues será pago o percentual de 20% (vinte por cento) residual da nota fiscal emitida.
+
+1.10. Do Preço: 1.10.1. O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO pagará à fornecedora o valor unitário, especificado na proposta, multiplicado pela quantidade solicitada e percentual referente aos artefatos entregues, que constará da Solicitação de Serviços; 1.10.2. Incluídos no preço estão todos os impostos, taxas e encargos sociais, obrigações trabalhistas, previdenciárias, fiscais e comerciais, assim como despesas com transportes e hospedagens, os quais correrão por conta da contratada; 1.10.3. O preço registrado deverá sempre ser adequado ao valor de mercado, sob pena de não haver a aquisição.
+
+1.11. Do Recebimento e do Pagamento 1.11.1. O recebimento provisório será dispensado, de acordo com o disposto no art. 74, inciso II, da Lei nº 8.666/93; 1.11.2. O recebimento definitivo mediante termo de aceite, no prazo de até 05 (cinco) dias úteis após a entrega e validação de conjuntos de artefatos constantes em 1.8.1, conforme preceitua o art. 73, inciso II, alínea "b", da Lei nº 8.666/93, será feito pelo Diretor do Serviço de Desenvolvimento de Sistemas;
+
+1.12. Das Obrigações da Contratada: 1.12.1. A contratada compromete-se a entregar o objeto da presente licitação, de acordo com as especificações constantes deste Edital e seus Anexos, bem como a cumprir com o prazo de entrega e quantidades constantes na Solicitação de Serviços;
+
+Pág. 25
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.12.2. A contratada obriga-se a manter, durante o período de validade do Registro de Preços, em compatibilidade com as obrigações assumidas no presente instrumento, todas as condições de habilitação e qualificação exigidas na licitação, devendo comunicar ao TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , imediatamente, qualquer alteração que possa comprometer a manutenção do presente; 1.12.3. A contratada deverá atender aos prazos, objetivos e cronogramas estabelecidos. 1.12.3.1. O não atendimento aos prazos, objetivos e cronogramas estabelecidos conferirá à Administração a faculdade de determinar a substituição do profissional designado para prestação dos serviços por outro com a qualificação técnica exigida no Edital. 1.12.4. A contratada deverá responder, em relação aos seus profissionais, por todas as despesas decorrentes da execução dos serviços objeto desta contratação, tais como: 1.12.4.1. Salários; 1.12.4.2. Seguros de acidente; 1.12.4.3. Taxas, impostos e contribuições; 1.12.4.4. Indenizações; 1.12.4.5. Vales-refeição; 1.12.4.6. Vales-transporte; e 1.12.4.7. Outras que porventura venham a ser criadas e exigidas pela legislação. 1.12.5. A contratada deverá manter os seus técnicos sujeitos às normas disciplinares do Tribunal, porém sem qualquer vínculo empregatício com o órgão; 1.12.6. A contratada deverá respeitar as normas e procedimentos de segurança do Tribunal; 1.12.7. A contratada deverá responder pelos danos causados diretamente ao Tribunal ou a terceiros, decorrentes de sua culpa ou dolo, durante a execução dos serviços, não excluindo ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento pelo Tribunal; 1.12.8. A contratada deverá responder por quaisquer danos causados diretamente aos equipamentos, softwares, informações e a outros bens de propriedade do Tribunal, quando esses tenham sido ocasionados por seus técnicos durante a prestação dos serviços objeto desta contratação. 1.12.9. A contratada caberá ainda: 1.12.9.1. Assumir a responsabilidade por todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria, vez que os seus empregados não manterão nenhum vínculo empregatício com o Tribunal; 1.12.9.2. Assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando, em ocorrência da espécie, forem vítimas os seus técnicos, em execução do serviço, ou em conexão com ele, ainda que acontecido em dependências do Tribunal; 1.12.9.3. Assumir todos os encargos de possível demanda trabalhista, cível ou penal, relacionadas a execução dos serviços objeto dessa contratação;
+
+Pág. 26
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.12.9.4. Assumir, ainda, a responsabilidade pelos encargos fiscais e comerciais resultantes da adjudicação desta licitação. 1.12.10. A inadimplência da licitante, relativamente aos encargos estabelecidos no item anterior, não transfere a responsabilidade por seu pagamento à Administração do Tribunal, nem poderá onerar o objeto desta contratação, razão pela qual a Contratada renuncia expressamente a qualquer vínculo de solidariedade, ativa ou passiva, com o Tribunal.
+
+1.13. 1.13.1.
+
+Das Obrigações do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO : O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO proporcionará à fornecedora todas as facilidades necessárias à boa execução do objeto desta licitação, e designará um representante seu para acompanhar os serviços objeto da presente licitação e para dirimir eventuais dúvidas a ele vinculadas;
+
+1.13.2.
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO fará, mensalmente em reunião de entrega, a validação dos conjuntos de artefatos produzidos e entregues naquele mês;
+
+1.13.3.
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO fará, mensalmente em até dez dias úteis, a homologação dos conjuntos de artefatos produzidos e validados naquele mês;
+
+1.13.4.
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO efetuará os pagamentos devidos em função desta licitação estritamente de acordo com o disposto nos itens 1.10 ­ DO PREÇO e 1.11 ­ DO RECEBIMENTO E PAGAMENTO.
+
+1.13.5.
+
+Ao contratante caberá ainda:
+
+1.13.5.1. Executar o gerenciamento do projeto, compreendendo as seguintes atividades: 1.13.5.1.1. Elaborar estudos de viabilidade, planos de trabalho e cronogramas; 1.13.5.1.2. Gerenciar o escopo do projeto; 1.13.5.1.3. Planejar e acompanhar as etapas de execução do projeto; 1.13.5.1.4. Fazer uma análise de alto nível e elaborar uma lista de requisitos a serem atendidas pelos sistemas, baseada nas restrições como custos e cronograma; 1.13.5.1.5. Gerenciar os recursos empregados no projeto, especialmente orientando e coordenando os profissionais designados pelo Tribunal; 1.13.5.1.6. Examinar se os serviços e seus resultados estão de acordo com as disposições planejadas, se estas foram implementadas com eficácia e se são adequadas à consecução dos objetivos; 1.13.5.1.7. Priorizar definição de requisitos e de solução de impedimentos junto ao Tribunal; 1.13.5.1.8. Gerenciar riscos. 1.13.5.2. Permitir o acesso dos profissionais da Contratada, devidamente credenciados, às dependências do Tribunal, bem como o acesso a dados e informações necessários ao desempenho das atividades previstas nesta contratação, ressalvados os casos de matéria sigilosa; 1.13.5.3. Prestar as informações e os esclarecimentos atinentes ao objeto, que venham a ser solicitados pelos profissionais da Contratada; Pág. 27
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.13.5.4. Fornecer, no caso de atividade desenvolvida nas dependências do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , instalações adequadas ao bom desempenho da equipe da Contratada; 1.13.5.5. Designar servidor para gerenciar operacionalmente as atividades e as tarefas relativas à execução do contrato. 1.13.5.6. Fornecer para a Contratante o modelo de banco de dados relacional do software, previamente validado pelo DBA (Analista de Banco de Dados) do Tribunal, em meio magnético, no formato de scripts e de diagrama, objeto do sistema a ser desenvolvido e de outros sistemas existentes com os quais o novo sistema fará acesso. 1.13.5.7. Proceder a homologação dos artefatos entregues em até 10 (dez) dias úteis contados a partir da formalização de entrega da Contratada. 1.14. 1.14.1. Da Fiscalização: A execução da Ata de Registro de Preços será objeto de acompanhamento, fiscalização e avaliação por intermédio do Diretor do Serviço de Desenvolvimento de Sistemas, sob supervisão do Diretor da Secretaria de Informática. 1.14.1.1. À fiscalização compete, entre outras atribuições: 1.14.1.1.1. Encaminhar à Diretoria Administrativa o documento que relacione as ocorrências que impliquem multas ou sanções a serem aplicadas à empresa fornecedora; 1.14.1.1.2. Acompanhar e atestar o recebimento provisório e definitivo da execução, indicando as ocorrências verificadas; 1.14.1.2. A fiscalização de que trata o item anterior será exercida no interesse da Administração. 1.14.1.3. Quaisquer exigências da fiscalização, inerentes ao objeto da Ata de Registro de Preços, deverão ser prontamente atendidas pela fornecedora, sem qualquer ônus para o TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO . 1.15. 1.15.1. Da Vistoria: As licitantes deverão, obrigatoriamente, até o dia útil anterior a data da realização da sessão do pregão eletrônico, realizar visita as dependências do Tribunal Regional do Trabalho da 2ª Região, no horário compreendido entre 12:00 às 18:00 horas, conforme agendado previamente, a fim de tomarem conhecimento sobre o local da prestação dos serviços e as condições oferecidas, aspectos técnicos sobre a infra-estrutura utilizada pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO , bem como procedimentos a serem obedecidos, e que deverão ser seguidos durante toda a execução dos serviços. 1.15.1.1. O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, através do Serviço de Desenvolvimento de Sistemas, emitirá atestado de vistoria, referente a esta visita e o atestado deverá ser incluído obrigatoriamente como documento, sob pena de inabilitação do Licitante.
+
+Pág. 28
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.15.1.2. Para agendar a vistoria, a licitante deverá contatar o Serviço de Desenvolvimento de Sistemas do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO pelo endereço sds@trt02.gov.br ou pelo telefone 3150-2076, identificando a(s) pessoa(s) que realizará(ão) a vistoria (nome, RG, empresa representada, telefone de contato). 1.16. 1.16.1. Da Garantia: A Contratada deverá prestar garantia aos produtos e serviços fornecidos, pelo período de, no mínimo, 90 (noventa) dias a contar da data do recebimento definitivo dos produtos ou serviços; 1.16.1.1. A garantia deverá ser prestada abrangendo todas as etapas compreendidas nesta especificação, contemplando, ainda, a manutenção que se fizer necessária, correção de erros, não-conformidades e suas correlações, salvo se o problema tenha se originado em eventual alteração do sistema promovida pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, sem a validação da contratada; 1.16.1.1.1. Entende-se por manutenção corretiva, aquela que se faz necessária para que o produto entregue atenda as especificações do edital e do trabalho de detalhamento das mesmas. Durante o período de garantia ela será realizada nas mesmas condições do serviço de desenvolvimento e sem ônus para a contratante. 1.16.2. Os serviços de garantia serão solicitados por meio de chamado efetuado pela Diretoria do Serviço de Desenvolvimento de Sistemas da Secretaria de Informática do Tribunal e encaminhado à Contratada preferencialmente por e-mail, em que conste, entre outros: 1.16.2.1. Sistema a que se refere; 1.16.2.2. Descrição do problema evidenciado, e cenário de teste que reproduza o erro; 1.16.2.3. Prioridade do chamado. 1.16.3. O atendimento a chamados de prioridade baixa ­ deverá iniciar no prazo máximo de 10 (dez) dias úteis contado da data do chamado, devendo a CONTRATADA elaborar e entregar à contratante, a cada 10 (dez) dias úteis, a partir do atendimento, relatório detalhado, no qual sejam noticiados todos os eventos ocorridos e medidas adotadas no período, até a sua solução definitiva ou alternativa para o eventual problema; 1.16.4. O atendimento a chamados de prioridade média ­ deverá iniciar no prazo máximo de 2 (dois) dias úteis contado da data do chamado, devendo a contratada elaborar e entregar à contratante, a cada 2 (dois) dias úteis, a partir do atendimento, relatório detalhado, no qual sejam noticiados todos os eventos ocorridos e medidas adotadas no período, até a sua solução definitiva ou alternativa para o eventual problema; 1.16.5. O atendimento a chamados de prioridade alta ­ deverá iniciar no prazo máximo de 8 (oito) horas úteis contadas da data e hora do chamado e dentro do horário estabelecido no item 1.6.1, devendo a contratada elaborar e entregar à contratante, a cada 8 (oito) horas contadas da data e hora do atendimento, relatório detalhado, no qual sejam noticiados todos os eventos ocorridos e medidas adotadas no período, até a sua solução definitiva ou alternativa para o eventual problema. Pág. 29
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.17. Do Direito de Propriedade e da Confidencialidade das Informações: 1.17.1. Todos os produtos desenvolvidos pela contratada por Solicitação de Serviços vinculadas a esta Especificação deverão ser entregues ao contratante, que terá o direito de propriedade sobre os mesmos, sendo vedada qualquer comercialização por parte da contratada; 1.17.1.1. A contratada deverá ceder ao TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, nos termos do artigo 111 da Lei n.º 8.666/93, c/c o artigo 4º da Lei n.º 9.609/98, o direito patrimonial, a propriedade intelectual de toda e qualquer documentação e produto gerados, logo após o recebimento definitivo dos serviços prestados; 1.17.2. Para os componentes, módulos ou produtos de propriedade da contratada, que forem utilizados total ou parcialmente no desenvolvimento de produtos para a contratante, sob a égide deste Contrato, a contratada concederá à contratante o direito de livre acesso aos respectivos códigos fonte, devidamente comentados e documentados, de forma a possibilitar que a contratante, por meio de sua equipe técnica, tenha condições de realizar modificações e/ou alterações, para uso irrestrito, sem qualquer ônus adicional para a contratante; 1.17.3. A contratada obriga-se a tratar como "segredos comerciais e confidenciais" quaisquer informações, dados, processos, fórmulas, códigos, obtidos em conseqüência ou por necessidade da execução de Ordem de Serviço, utilizando-os apenas para as finalidades previstas no contrato, não podendo revelá-los ou facilitar a revelação a terceiros.
+
+1.18. 1.18.1.
+
+Da Substituição dos Profissionais alocados pela Contratada: Será admitida a substituição dos profissionais indicados pela Contratada, mediante prévia comunicação ao Tribunal, e desde que, os substitutos atendam aos requisitos de qualificação técnica exigidos no item 1.3, e mediante a elaboração de um plano de transição; 1.18.1.1. Sendo a substituição requerida pela Contratada, a indicação do substituto, devidamente instruída com os documentos relativos à qualificação técnica, deverá ser efetuada no prazo máximo de 1 (uma) semana, contada a partir da data da comunicação da substituição pela Contratada ao Tribunal; 1.18.1.2. Sendo a substituição solicitada pelo Tribunal, a indicação do substituto, devidamente instruída com os documentos relativos à qualificação técnica, deverá ser efetuada no prazo máximo de 2 (duas) semanas, contadas da data da solicitação de substituição; 1.18.1.3. Sendo aprovada a substituição, o profissional substituto deverá estar disponível no prazo máximo de 1 (uma) semana, contada da data de comunicação da aprovação pelo Tribunal, devendo se submeter a um período de adaptação de até 24 (vinte e quatro) horas, sem qualquer ônus para o Tribunal, a fim de se inteirar das peculiaridades dos serviços;
+
+1.18.2.
+
+O procedimento de substituição previsto no item anterior, não poderá implicar em interrupção dos serviços.
+
+Pág. 30
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.18.3.
+
+Será, também, admitida a inclusão de outros desenvolvedores além dos indicados pela licitante em sua Proposta Técnica, por profissionais que atendam aos requisitos de qualificação técnica exigidos no Edital, com posterior comunicação ao Tribunal.
+
+1.19. 1.19.1.
+
+Da Habilitação: Para fins de habilitação deverão ser apresentados:
+
+1.19.1.1. Ser parceiro Artech, Distributor ou Solution Partner, em uma das modalidades: 1.19.1.1.1. Distribuidor; 1.19.1.1.2. SP Silver; 1.19.1.1.3. SP Gold; 1.19.1.1.4. SP Platinum; 1.19.1.1.5. SP Gold; 1.19.1.1.6. A comprovação será feita através do site da Artech ou por atestado/certificado emitido por ela. 1.19.1.2. Atestados fornecidos por pessoa jurídica de direito público ou privado, que comprovem ter a licitante desenvolvido sistemas que totalizem 15.250 (quinze mil duzentos e cinqüenta) Pontos de Função utilizando a Ferramenta de Desenvolvimento GeneXusTM; 1.19.1.2.1. Serão aceitos atestados emitidos em horas, que serão convertidos em Pontos de Função, sendo que para efeito de contagem dos quantitativos, a proporção será de 10 (dez) horas para cada ponto de função; 1.19.1.3. Atestado de vistoria emitido pelo Serviço de Desenvolvimento de Sistemas da Secretaria de Informática deste Tribunal; 1.19.2. 1.19.3. A licitante que apresentar documentação em desacordo com este Edital será inabilitada. A empresa deverá apresentar declaração se comprometendo a manter técnicos capacitados e com as certificações/qualificações descritas no item 1.3 e subitens, durante toda a vigência do contrato;
+
+1.20.
+
+Integram a presente Especificação Técnica os seguintes anexos: 1.20.1.1. Anexo I ­ AMBIENTE SERVIDORES IBM iSERIES / i5 1.20.1.2. Anexo II ­ AMBIENTE SERVIDORES IBM OPENPOWER e HMC 1.20.1.3. Anexo III ­ AMBIENTE SERVIDORES PLATAFORMA INTEL 1.20.1.4. Anexo IV ­ AMBIENTE MICROCOMPUTADORES 1.20.1.5. Anexo V ­ APLICAÇÕES DESENVOLVIDAS E UTILIZADAS PELO TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO 1.20.1.6. Anexo VI ­ Configurações dos Equipamentos do Tribunal Regional do Trabalho da 2ª Região 1.20.1.7. Anexo VII ­ MODELO DE ORDEM DE SERVIÇO
+
+Pág. 31
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+1.21.
+
+Quantidade mínima: 1 (um) Ponto de função de desenvolvimento e manutenção de sistemas
+
+através da Ferramenta Genexus. 1.22. Preço Unitário Máximo: R$ 400,00 (quatrocentos reais)
+
+Pág. 32
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO I ­ AMBIENTE SERVIDORES IBM iSERIES / i5 Sistema Operacional: OS/400 Versão V5R2M0 e superiores Servidor HTTP: IBM HTTP Server for iSeries ­ Apache versão 2.0.58 Banco de Dados: DB2 UDB for iSeries versão V5R3M0 e superiores
+
+Pág. 33
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO II ­ AMBIENTE SERVIDORES IBM OPENPOWER e HMC
+
+Sistema Operacional: SUSE Enterprise Linux V.9 for PowerPC Servidor de Aplicações: IBM WebSphere Application Server Network Deploiment V.6.1 for LINUX Servidor HTTP: IBM HTTP Server
+
+Pág. 34
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO III ­ AMBIENTE SERVIDORES PLATAFORMA INTEL
+
+Sistema Operacional: RED HAT Enterprise Linux V.4 for Intel 64 Banco de Dados: Oracle 10g e superiores
+
+Pág. 35
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO IV ­ AMBIENTE MICROCOMPUTADORES
+
+Microcomputadores Padrão IBM-PC Sistema Operacional: Windows XP Navegador: Internet Explorer 5 ou superior, Netscape 4 ou Superior ou Mozilla Firefox
+
+Pág. 36
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO V ­ EXEMPLOS DE APLICAÇÕES DESENVOLVIDAS E UTILIZADAS PELO TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO
+
+Sistemas de Acompanhamento Processual de 1ª e 2ª Instância Desenvolvido em Genexus. TRT MAIL Disseminação de informações processuais através de Correio Eletrônico, pela Internet. Através desse sistema, os usuários cadastrados recebem automaticamente em sua caixa postal mensagens informando os andamentos processuais ­ programas escritos em Genexus e CL (Control Language). JURISMAIL Envio por e-mail do Informativo do TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO e traz sinopse das publicações do DOU e DJU ligadas à área trabalhista, previdenciária e à administração pública, bem como notícias com as tendências jurisprudenciais seguidas nos Tribunais Superiores ­ páginas HTML com Macros utilizando NETDATA. SISDOC Sistema de Protocolização de Documentos Físicos e Eletrônicos - Desenvolvido em Java, com chamadas em Genexus. Jurisprudência - Sistema de Jurisprudência Unificada Pesquisa por palavra (utilizando Google Search) e geração de arquivo único com as ementas do período e o envia, por ftp, para o TST (desenvolvido em Genexus). Módulo de Mensagens Módulo que permite inserir textos (previamente formatados através de macro no Word) nos bancos de dados (DB2/400). Desenvolvido em Genexus e consultas em NetData. Sistemas Administrativos Consulta a freqüência, contracheques, férias de funcionários e informes de rendimentos ­ aplicações desenvolvidas em Netdata, Java e PHP. Diário Oficial Eletrônico Caderno Judicial e Administrativo ­ aplicação desenvolvida em Java e Genexus. SISAS Composto pelos módulos: Gabinetes ­ Envia votos do Word para a Sessão e para a Internet e Sessão - Permite ler os votos na sala de sessão. Aplicações desenvolvidas em Genexus.
+
+Pág. 37
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Comunicação com Banco do Brasil Transferência de arquivos - controle de Guias de Depósitos Judiciais, desenvolvido em Genexus. Cadastro de Ação Trabalhista - PRECAD Aplicação desenvolvida em Java e Genexus. Sistema de Informações Trabalhistas - SINT Consulta de documentos na Internet (sentenças, atas, despachos, etc.), aplicações desenvovidas em Java, NetData e Genexus.
+
+Pág. 38
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Anexo VI ­ Configurações dos Equipamentos do Tribunal Regional do Trabalho da 2ª Região
+
+Sistema Modelo Operacional / Aplicação 7310-CR3 7310-CR3 7310-CR3 HMC V5R2 / NA HMC V5R2 / NA HMC V5R1 / NA Virtual I/O + 9124-720 SUSE V.4 / WebSp.Appl. Server V.6.1.0.3 Sede ­ Consolação / ADM i5 Forum Ruy Barbosa / ADM OPower Forum Ruy Barbosa / ADM i5 Forum Ruy Barbosa / Partição 0 ­ ADM V.I/O Partição 1 ­ EDGE CLST.WAS Partição 2 ­ WAS + HTTP SVR Partição 3 ­ WAS Forum Ruy Barbosa / Partição 0 ­ ADM V.I/O Partição 1 ­ EDGE CLST.WAS Partição 2 ­ WAS + HTTP SVR Partição 3 ­ WAS Localização / Destinação
+
+Virtual I/O + 9124-720 SUSE V.4 / WebSp.Appl. Server V.6.1.0.3 OS V5R3M0 / Sametime V.7.5 + Domino V.7.0.2
+
+9406-550- 89580915-7530
+
+Sede ­ Consolação / INTERNET
+
+9406-550- 8958- OS V5R3M0 / 0915-7463 DB2
+
+Forum Ruy Barbosa / SAP1
+
+Sede ­ Consolação / 9406-550-09157463-7430 OS V5R3M0 / DB2 Partição 0 ­ ADM iSeries Partição 1 ­ SAP1-BK Partição 2 ­ SAP2 Forum Ruy Barbosa / 9406-825-24730772-7416 OS V5R3M0 / Partição 0 ­ ADM iSeries Partição 1 ­ INTERNET-BK Partição 2 ­ TESTE VRS
+
+Pág. 39
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Sistema Modelo Operacional / Aplicação Sede ­ Consolação / 9406-550-09107155-7430 OS V5R3M0 / DB2 Partição 0 ­ ADM iSeries Partição 1 ­ SAP2-BK Partição 2 ­ DESENV-SAP Intel Xeon Win.2003 Srv. / Quickplace V.7 Linux RHEL / TSM V.5.3.2 Linux RHEL / TSM V.5.3.2 Linux RHEL / TSM V.5.3.4 Linux RHEL / Intel Xeon WebSp.Appl. Server V.6.1.03 9406-270-24341516 9402-720-20611500 OS V5R3M0 Sede ­ Consolação / Aplicativo Lotus Sede ­ Consolação / Backup Novell + Linux Forum Ruy Barbosa / Backup Novell Forum Ruy Barbosa / Backup PNBD Sede ­ Consolação / DESENV-WEB Sede ­ Consolação / DESENV-WEB Sede ­ Consolação / TREINAMENTO-IMPACTO Localização / Destinação
+
+Intel Xeon
+
+Intel Xeon
+
+Intel Xeon
+
+OS V5R3M0
+
+Local 01 ­ Edifício Sede Consolação Rua da Consolação nº 1272 ­ 7º andar CEP : 01302-906 ­ Centro ­ São Paulo ­ SP ­ Brasil
+
+Local 02 ­ Fórum Trabalhista Ruy Barbosa Avenida Marquês de São Vicente nº 235 ­ 2º andar CEP : 01139-001 ­ Barra Funda ­ São Paulo ­ SP ­ Brasil
+
+Pág. 40
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO VII ­ MODELO DE ORDEM DE SERVIÇO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO CONTRATADA: ORDEM DE SERVIÇO DE EXECUÇÃO PROJETO:
+
+/ 2009. Emissão: Contrato nº
+
+Objeto
+
+PRAZO PARA EXECUÇÃO Inicio Término Total Estimado de Pontos de Função
+
+LOCAIS DE LEVANTAMENTO
+
+LOCAIS DE IMPLANTAÇÃO
+
+ANEXOS N° Título Data emissão Revisão
+
+OBSERVAÇÕES (*) datas previstas (**) mensurado pelo Sr
+
+______________________________________
+
+_______________________________________
+
+Gestor do Contrato
+
+Data: ___/___/___
+
+
+
+Pág. 41
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Pág. 42
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO B
+MINUTA DA ATA DE REGISTRO DE PREÇOS N°___ PG-111/2009
+O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, Órgão do Poder Judiciário Federal, Justiça do Trabalho, C.N.P.J. n° 03.241.738/0001-39, com sede na Rua da Consolação n° 1.272, São Paulo/SP, representado neste ato por seu Desembargador Presidente, em face da classificação em primeiro lugar das propostas apresentadas no Pregão Eletrônico para Registro de Preços nº 111/2009, Ata de julgamento de Preços, divulgada no Comprasnet e devidamente homologada, RESOLVE registrar os preços para a contratação do objeto do pregão acima citado, conforme abaixo:.
+Item Descrição Qtde. Preço Unitário (R$) Preço Total (R$)
+
+Registrada: CNPJ: Endereço: Representante Legal:
+
+Este instrumento não obriga o TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO a firmar contratações nas quantidades estimadas, podendo ocorrer licitações específicas para a aquisição do(s) objeto(s), obedecida a legislação pertinente, sendo assegurada ao detentor do registro a preferência de fornecimento, em igualdades de condições. O presente registro de preços terá a vigência de 12 (doze) meses, contados da data de sua assinatura. A assinatura da presente ata implicará plena aceitação, por parte do fornecedor, das condições estabelecidas no Edital de licitação e seus Anexos. A presente ata será publicada em forma de extrato no Diário Oficial da União. Qualquer alteração na presente ata somente poderá ser realizada mediante termo aditivo formalizado entre as partes. O foro para dirimir questões relativas ao presente Edital será o da Justiça Federal, na Seção Judiciária de São Paulo, com exclusão de qualquer outro.
+
+São Paulo,
+
+de
+
+de 200__.
+
+TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO P/ REGISTRADA
+
+__________________________________
+
+____________________________________
+
+Pág. 43
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO C
+MINUTA DE CONTRATO
+PREGÃO N° 111/2009 - CONTRATO SCL-CT N° ___/200_
+
+CONTRATO QUE ENTRE SI FAZEM O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO E A EMPRESA _____________________________________, PARA OS SERVIÇOS TÉCNICOS
+
+ESPECIALIZADOS DE DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS INFORMATIZADOS, ATRAVÉS DA UTILIZAÇÃO DA FERRAMENTA GENEXUS.
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO, Órgão do Poder Judiciário Federal, Justiça do Trabalho, C.N.P.J. n° 03.241.738/0001-39, com sede na Rua da Consolação n° 1.272, São Paulo/SP, representado neste ato por seu Desembargador Presidente, doravante designado simplesmente
+
+CONTRATANTE e, de outro lado, a
+
+________________., C.N.P.J. n° _____________, com sede
+
+______________, por seu representante legal no final qualificado, doravante designada meramente CONTRATADA, na presença de duas testemunhas, no final identificadas e assinadas, celebram o presente contrato, em conformidade com o resultado do PREGÃO n° 111/2009, devidamente homologado à fl. ___ do referido processo, fundamentado na Lei nº 10.520, de 17 de julho de 2002, Decreto nº 5.450, de 31 de maio de 2005 e Lei nº 8.666, de 21 de junho de 1993 e alterações subseqüentes, bem como legislação aplicável, firmando o compromisso de cumpri-lo de acordo com as cláusulas e condições a seguir enunciadas.
+
+CLÁUSULA PRIMEIRA: DO OBJETO O presente contrato tem por objeto os serviços técnicos especializados de desenvolvimento e manutenção de sistemas informatizados, através da utilização da Ferramenta Genexus, de acordo com as exigências constantes deste instrumento e demais disposições do Pregão nº 111/2009 e seus Anexos, da Ata de Registro de Preços nº ____/_____, bem como da proposta apresentada pela CONTRATADA, documentos esses cujas disposições ficam fazendo parte integrante do presente, independentemente de transcrição.
+
+CLÁUSULA SEGUNDA: DAS OBRIGAÇÕES DA CONTRATADA A CONTRATADA compromete-se a: 1. entregar o objeto da presente licitação, de acordo com as especificações constantes na Ata de Registro de Preços nº ____/_____, e na proposta apresentada pela CONTRATADA, bem como cumprir com o prazo de entrega e quantidades constantes na Solicitação de Serviços; 2. atender aos prazos, objetivos e cronogramas estabelecidos; Pág. 44
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+3. A contratada deverá responder, em relação aos seus profissionais, por todas as despesas decorrentes da execução dos serviços objeto desta contratação, inclusive aquelas que porventura venham a ser criadas e exigidas pela legislação; 4. manter os seus técnicos sujeitos às normas disciplinares do CONTRATANTE, porém sem qualquer vínculo empregatício com o órgão; 5. respeitar as normas e procedimentos de segurança do CONTRATANTE; 6. responder pelos danos causados diretamente ao CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo, durante a execução dos serviços, não excluindo ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento pelo CONTRATANTE; 7. responder por quaisquer danos causados diretamente aos equipamentos, softwares, informações e a outros bens de propriedade do CONTRATANTE, quando esses tenham sido ocasionados por seus técnicos durante a prestação dos serviços objeto desta contratação. 8. assumir a responsabilidade por todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria, vez que os seus empregados não manterão nenhum vínculo empregatício com o CONTRATANTE; 9. assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando, em ocorrência da espécie, forem vítimas os seus técnicos, em execução do serviço, ou em conexão com ele, ainda que acontecido em dependências do CONTRATANTE; 10. assumir todos os encargos de possível demanda trabalhista, cível ou penal, relacionadas a execução dos serviços objeto dessa contratação; 11. manter, em compatibilidade com as obrigações assumidas no presente instrumento, todas as condições de habilitação e qualificação exigidas na licitação, devendo comunicar ao CONTRATANTE, imediatamente, qualquer alteração que possa comprometer a manutenção do presente contrato; 12. responder, em relação aos seus profissionais, por todas as despesas decorrentes da execução dos serviços objeto desta contratação, tais como: salários, seguro de acidente, taxas, impostos e contribuições, Indenizações, vales-refeição, vales-transporte e outras que porventura venham a ser criadas e exigidas pela legislação; 13. selecionar e preparar rigorosamente os empregados, instruindo-os a tratar com urbanidade e respeito todas as pessoas presentes nas dependências do CONTRATANTE e de suas unidades, onde a CONTRATADA prestar serviço; 14. responsabilizar-se pela permanência dos funcionários no prédio quando em horário de trabalho, ou para execução de serviços com prévia autorização do CONTRATANTE, retirando e substituindo imediatamente qualquer empregado cuja conduta seja considerada inconveniente pelo CONTRATANTE; 15. fornecer pessoal capacitado para atividade, com crachá de identificação e ferramenta apropriada ao serviço a ser executado, os quais deverão seguir as normas de segurança do CONTRATANTE; 16. assumir, ainda, a responsabilidade pelos encargos fiscais e comerciais resultantes da adjudicação desta licitação;
+
+Pág. 45
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+17. a inadimplência da licitante, relativamente aos encargos estabelecidos no item anterior, não transfere a responsabilidade por seu pagamento à Administração do CONTRATANTE, nem poderá onerar o objeto desta contratação, razão pela qual a CONTRATADA renuncia expressamente a qualquer vínculo de solidariedade, ativa ou passiva, com o CONTRATANTE. 18. o não atendimento aos prazos, objetivos e cronogramas estabelecidos conferirá à Administração a faculdade de determinar a substituição do profissional designado para prestação dos serviços por outro com a qualificação técnica exigida no Edital.
+
+CLÁUSULA TERCEIRA: DAS OBRIGAÇÕES DO CONTRATANTE São obrigações do CONTRATANTE: 1) assegurar o livre acesso aos locais onde serão prestados os serviços, das pessoas
+
+credenciadas pela CONTRATADA para a execução dos mesmos, prestando-lhes os esclarecimentos que eventualmente venham a ser solicitados. 2) 3) contrato. 4) 5) 6) 7) 8) executar o gerenciamento do projeto, compreendendo as seguintes atividades: elaborar estudos de viabilidade, planos de trabalho e cronogramas; gerenciar o escopo do projeto; planejar e acompanhar as etapas de execução do projeto; fazer uma análise de alto nível e elaborar uma lista de requisitos a serem atendidas fiscalizar os serviços prestados; comprovar e relatar, por escrito, as eventuais irregularidades na execução do presente
+
+pelos sistemas, baseada nas restrições como custos e cronograma; 9) gerenciar os recursos empregados no projeto, especialmente orientando e
+
+coordenando os profissionais designados pelo CONTRATANTE ; 10) examinar se os serviços e seus resultados estão de acordo com as disposições planejadas, se estas foram implementadas com eficácia e se são adequadas à consecução dos objetivos; 11) priorizar CONTRATANTE ; 12) gerenciar riscos. 13) permitir o acesso dos profissionais da CONTRATADA, devidamente credenciados, às dependências do CONTRATANTE , bem como o acesso a dados e informações necessários ao desempenho das atividades previstas nesta contratação, ressalvados os casos de matéria sigilosa; 14) prestar as informações e os esclarecimentos atinentes ao objeto, que venham a ser solicitados pelos profissionais da CONTRATADA; 15) fornecer, no caso de atividade desenvolvida nas dependências do CONTRATANTE , instalações adequadas ao bom desempenho da equipe da CONTRATADA; 16) designar servidor para gerenciar operacionalmente as atividades e as tarefas relativas à execução do contrato. Pág. 46 definição de requisitos e de solução de impedimentos junto ao
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+17) fornecer para a CONTRATANTE o modelo de banco de dados relacional do software, previamente validado pelo DBA (Analista de Banco de Dados) do CONTRATANTE , em meio magnético, no formato de scripts e de diagrama, objeto do sistema a ser desenvolvido e de outros sistemas existentes com os quais o novo sistema fará acesso. 18) proceder a homologação dos artefatos entregues em até 10 (dez) dias úteis contados a partir da formalização de entrega da CONTRATADA. Parágrafo Primeiro: O CONTRATANTE proporcionará à fornecedora todas as facilidades necessárias à boa execução do objeto desta licitação, e designará um representante seu para acompanhar os serviços objeto da presente licitação e para dirimir eventuais dúvidas a ele vinculadas; Parágrafo Segundo: O CONTRATANTE fará, mensalmente em reunião de entrega, a validação dos conjuntos de artefatos produzidos e entregues naquele mês; Parágrafo Terceiro: O CONTRATANTE fará, mensalmente em até dez dias úteis, a homologação dos conjuntos de artefatos produzidos e validados naquele mês; Parágrafo Quarto: O CONTRATANTE efetuará os pagamentos devidos em função desta contratação estritamente de acordo com o disposto nos itens 1.10 ­ DO PREÇO e 1.11 ­ DO RECEBIMENTO E PAGAMENTO.
+
+CLÁUSULA QUARTA: DA SUBSTITUIÇÃO DOS PROFISSIONAIS ALOCADOS PELA CONTRATADA Será admitida a substituição dos profissionais indicados pela CONTRATADA, mediante prévia comunicação ao Tribunal, e desde que, os substitutos atendam aos requisitos de qualificação técnica exigidos no item 19, e mediante a elaboração de um plano de transição; a) Sendo a substituição requerida pela CONTRATADA, a indicação do substituto, devidamente instruída com os documentos relativos à qualificação técnica, deverá ser efetuada no prazo máximo de 1 (uma) semana, contada a partir da data da comunicação da substituição pela CONTRATADA ao CONTRATANTE; b) Sendo a substituição solicitada pelo CONTRATANTE, a indicação do substituto, devidamente instruída com os documentos relativos à qualificação técnica, deverá ser efetuada no prazo máximo de 2 (duas) semanas, contadas da data da solicitação de substituição; c) Sendo aprovada a substituição, o profissional substituto deverá estar disponível no prazo máximo de 1 (uma) semana, contada da data de comunicação da aprovação pelo CONTRATANTE, devendo se submeter a um período de adaptação de até 24 (vinte e quatro) horas, sem qualquer ônus para o Tribunal, a fim de se inteirar das peculiaridades dos serviços. Parágrafo Primeiro: O procedimento de substituição previsto no item anterior, não poderá implicar em interrupção dos serviços.
+
+Pág. 47
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Parágrafo Segundo: Será, também, admitida a inclusão de outros desenvolvedores além dos indicados pela licitante em sua Proposta Técnica, por profissionais que atendam aos requisitos de qualificação técnica exigidos no Edital, com posterior comunicação ao Tribunal.
+
+CLÁUSULA QUINTA: DO DIREITO DE PROPRIEDADE E DA CONFIDENCIALIDADE DAS INFORMAÇÕES: Todos os produtos desenvolvidos pela CONTRATADA por Solicitação de Serviços vinculadas a esta Especificação deverão ser entregues ao CONTRATANTE, que terá o direito de propriedade sobre os mesmos, sendo vedada qualquer comercialização por parte da CONTRATADA; Parágrafo Primeiro: A CONTRATADA deverá ceder ao CONTRATANTE, nos termos do artigo 111 da Lei n.º 8.666/93, c/c o artigo 4º da Lei n.º 9.609/98, o direito patrimonial, a propriedade intelectual de toda e qualquer documentação e produto gerados, logo após o recebimento definitivo dos serviços prestados; Parágrafo Segundo: Para os componentes, módulos ou produtos de propriedade da CONTRATADA, que forem utilizados total ou parcialmente no desenvolvimento de produtos para a CONTRATANTE, sob a égide deste Contrato, a CONTRATADA concederá à CONTRATANTE o direito de livre acesso aos respectivos códigos fonte, devidamente comentados e documentados, de forma a possibilitar que a CONTRATANTE, por meio de sua equipe técnica, tenha condições de realizar modificações e/ou alterações, para uso irrestrito, sem qualquer ônus adicional para a CONTRATANTE; Parágrafo Terceiro: A CONTRATADA obriga-se a tratar como "segredos comerciais e confidenciais" quaisquer informações, dados, processos, fórmulas, códigos, obtidos em conseqüência ou por necessidade da execução de Ordem de Serviço, utilizando-os apenas para as finalidades previstas no contrato, não podendo revelá-los ou facilitar a revelação a terceiros.
+
+CLÁUSULA SEXTA: DA VIGÊNCIA O presente contrato terá a vigência de 12 (doze) meses contados a partir de sua assinatura, podendo ser prorrogado até o limite previsto no artigo 57, inciso II, da Lei nº 8.666/93, mediante Termo Aditivo.
+
+CLÁUSULA SÉTIMA: DA GARANTIA A CONTRATADA deverá prestar garantia aos produtos e serviços fornecidos, pelo período de ___ (____________) dias a contar da data do recebimento definitivo. Parágrafo Primeiro: A garantia deverá ser prestada abrangendo todas as etapas compreendidas no Anexo A do Edital, contemplando, ainda, a manutenção que se fizer necessária, correção de erros, não-conformidades e suas correlações, salvo se o problema tenha se originado em eventual alteração do sistema promovida pelo CONTRATANTE, sem a validação da CONTRATADA; Parágrafo Segundo: Entende-se por manutenção corretiva, aquela que se faz necessária para que o produto entregue atenda as especificações do edital e do trabalho de detalhamento das mesmas. Pág. 48
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Parágrafo Terceiro: Durante o período de garantia ela será realizada nas mesmas condições do serviço de desenvolvimento e sem ônus para a CONTRATANTE. Parágrafo Quarto: Os serviços de garantia serão solicitados por meio de chamado efetuado pela Diretoria do Serviço de Desenvolvimento de Sistemas da Secretaria de Informática do CONTRATANTE e encaminhado à CONTRATADA preferencialmente por e-mail, em que conste, entre outros: a) Sistema a que se refere; b) Descrição do problema evidenciado, e cenário de teste que reproduza o erro; c) Prioridade do chamado. Parágrafo Quarto: O atendimento a chamados de prioridade baixa ­ deverá iniciar no prazo máximo de 10 (dez) dias úteis contado da data do chamado, devendo a CONTRATADA elaborar e entregar à CONTRATANTE, a cada 10 (dez) dias úteis, a partir do atendimento, relatório detalhado, no qual sejam noticiados todos os eventos ocorridos e medidas adotadas no período, até a sua solução definitiva ou alternativa para o eventual problema; Parágrafo Quinto: O atendimento a chamados de prioridade média ­ deverá iniciar no prazo máximo de 2 (dois) dias úteis contado da data do chamado, devendo a CONTRATADA elaborar e entregar à CONTRATANTE, a cada 2 (dois) dias úteis, a partir do atendimento, relatório detalhado, no qual sejam noticiados todos os eventos ocorridos e medidas adotadas no período, até a sua solução definitiva ou alternativa para o eventual problema; Parágrafo Sexto: O atendimento a chamados de prioridade alta ­ deverá iniciar no prazo máximo de 8 (oito) horas úteis contadas da data e hora do chamado e dentro do horário estabelecido no Anexo A do Edital, devendo a CONTRATADA elaborar e entregar à CONTRATANTE, a cada 8 (oito) horas contadas da data e hora do atendimento, relatório detalhado, no qual sejam noticiados todos os eventos ocorridos e medidas adotadas no período, até a sua solução definitiva ou alternativa para o eventual problema.
+
+CLÁUSULA OITAVA: DA FISCALIZAÇÃO O CONTRATANTE executará a fiscalização, acompanhamento e avaliação do presente contrato através do Diretor do Serviço de Desenvolvimento de Sistemas sob supervisão do Diretor da Secretaria de Informática, a qual também será a responsável pelo acompanhamento e fiscalização do desenvolvimento e manutenção de sistemas informatizados. Parágrafo Primeiro: À fiscalização compete encaminhar à Diretoria Administrativa o documento que relacione as ocorrências que impliquem multas ou sanções a serem aplicadas à empresa CONTRATADA, bem como, acompanhar e atestar o recebimento provisório e definitivo da execução, indicando as ocorrências verificadas. Parágrafo Segundo: Não obstante a CONTRATADA ser a única e exclusiva responsável pela execução de todos os serviços, o CONTRATANTE reserva-se o direito de, sem que de qualquer forma restrinja a plenitude dessa responsabilidade, exercer a mais ampla e completa fiscalização sobre os serviços.
+
+Pág. 49
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Parágrafo Terceiro: A fiscalização do CONTRATANTE poderá suspender qualquer serviço no qual se evidencie risco eminente, ameaçando a segurança de pessoas, equipamentos, patrimônio do CONTRATANTE ou de terceiros. Parágrafo Quarto: A suspensão dos serviços, motivada por condição de insegurança, na qual se verifique a inobservância, pela CONTRATADA, das normas vigentes e demais disposições do presente contrato, não eximirá a CONTRATADA da aplicação de multas por atraso e demais penalidades previstas neste termo e no instrumento convocatório. Parágrafo Quinto: Quaisquer exigências da fiscalização, inerentes ao objeto da Ata de Registro de Preços, deverão ser prontamente atendidas pela fornecedora, sem qualquer ônus para o CONTRATANTE.
+
+CLÁUSULA NONA: DO PREÇO O CONTRATANTE pagará à CONTRATADA, o valor unitário de R$ _______________( ___________________), por ponto de função, multiplicado pela quantidade solicitada e percentual referente aos artefatos entregues, que constará da Solicitação de Serviços. Parágrafo Primeiro: Incluídos no preço estão todos os impostos, taxas e encargos sociais, obrigações trabalhistas, previdenciárias, fiscais e comerciais, assim como despesas com transportes e hospedagens, os quais correrão por conta da CONTRATADA; Parágrafo Segundo: O preço registrado deverá sempre ser adequado ao valor de mercado.
+
+CLÁUSULA DÉCIMA: DA SOLICITAÇÃO DOS SERVIÇOS: O CONTRATANTE fará as solicitações mediante a emissão de Solicitação de Serviços ­ Anexo VII, deste Edital. Parágrafo Primeiro: A Solicitação de Serviços será enviada para a CONTRATADA, e deverá conter: relação dos serviços solicitados, os respectivos artefatos a serem construídos e suas contagens estimativas de pontos de função, que serão aferidas pela CONTRATADA; Parágrafo Segundo: Nas reuniões de acompanhamento serão estabelecidos os prazos para a entrega dos serviços requisitados em cada solicitação de serviço. Parágrafo Terceiro: As quantidades e o prazo de execução dos serviços que vierem a ser adquiridos serão informados na respectiva Solicitação de Fornecimento, respeitados os prazos definidos neste Edital. Parágrafo Quarto: Não há previsão quanto à distribuição das solicitações de serviço ao longo dos meses, sendo responsabilidade da contratada ajustar-se com vistas ao atendimento dos serviços solicitados pelo CONTRATANTE. Parágrafo Quinto: O CONTRATANTE adotará o valor 1,00 (um) como Fator de Ajuste para todos os projetos. Pág. 50
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Parágrafo Sexto: Os AIE (Arquivo de Interface Externa) deverão ser contados, conforme determina a técnica de Análise de Pontos de Função, porém não serão considerados para remuneração à CONTRATADA sempre que para sua inclusão, alteração ou exclusão forem utilizados componentes fornecidos pelo CONTRATANTE. Parágrafo Sétimo: Se for CONTRATADA somente a fase de Análise do Projeto para estudo de viabilidade de execução e construção do sistema, o serviço contratado será remunerado por 100 Pontos de Função; Parágrafo Oitavo: Caso haja divergências iguais ou superiores a 5% entre o CONTRATANTE e a CONTRATADA em relação às contagens de pontos de função do serviço efetuado, representantes do CONTRATANTE e da CONTRATADA deverão se reunir para resolver as divergências. Caso as divergências sejam inferiores a 5%, prevalecerá a contagem aferida pelo CONTRATANTE. Parágrafo Nono: O CONTRATANTE adotará a tabela do Anexo A, item 1.7.9, para apuração da equivalência em pontos de função de atividades não passíveis de mensuração pela técnica de Análise de Pontos de Função. A quantidade de pontos de função equivalente aos itens não mensuráveis será obtida pela multiplicação da Base de Cálculo pelo Fator de Equivalência em Pontos de Função.
+
+CLÁUSULA DÉCIMA PRIMEIRA: DOS LOCAIS DE PRESTAÇÃO DOS SERVIÇOS: Os serviços contratados, deverão ser prestados obrigatoriamente nas dependências do CONTRATANTE, à Avenida Marquês de São Vicente, 121 ­ Bloco A ­ 3º andar, ou outro endereço a ser fornecido pelo contratante, no Município de São Paulo; Parágrafo Único: Em nenhum caso caberá a cobrança por qualquer despesa de deslocamento dos membros das equipes da contratada.
+
+CLÁUSULA DÉCIMA SEGUNDA: DOS HORÁRIOS DE PRESTAÇÃO DOS SERVIÇOS: Os serviços realizados nas dependências do CONTRATANTE serão executados nos dias úteis, de segunda a sexta-feira, no período compreendido das 09:00 às 19:00 horas;
+
+CLÁUSULA DÉCIMA TERCEIRA: DA PRESTAÇÃO DOS SERVIÇOS: Os serviços serão entregues, validados e pagos de acordo com as ordens de serviço emitidas, mediante a apresentação de artefatos cujos valores corresponderão às frações previstas no item 1.9.2 e subitens do Anexo A do Edital.
+
+CLÁUSULA DÉCIMA QUARTA: DA ENTREGA DOS SERVIÇOS SOLICITADOS: A Contratada deverá encaminhar, mensalmente, relatório detalhado das atividades realizadas, acompanhado da respectiva fatura, relacionando: Parágrafo Primeiro: Os artefatos entregues no mês, que serão faturados de acordo com os valores correspondentes ao preço do Ponto de Função; Pág. 51
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Parágrafo Segundo: Os artefatos entregues mensalmente ao CONTRATANTE terão o pagamento efetuado com base na quantidade de pontos de função correspondente, observando o seguinte: Parágrafo Terceiro: Na formalização da entrega, mediante reunião com equipe do CONTRATANTE, será validada e comprovada a execução dos serviços e será pago o percentual de 80% (oitenta por cento) do total da nota fiscal emitida, correspondente aos artefatos entregues. Parágrafo Quarto: Na homologação pelo CONTRATANTE dos artefatos entregues será pago o percentual de 20% (vinte por cento) residual da nota fiscal emitida.
+
+CLÁUSULA DÉCIMA QUINTA: DO RECEBIMENTO Em conformidade com os artigos 73 a 76 da lei 8.666/93 modificada pela lei 8.883/94, mediante recibo, o objeto da presente licitação será recebido: a) provisoriamente, será dispensado, de acordo com o disposto no art. 74, inciso II, da Lei nº 8.666/93. b) definitivamente, mediante termo de aceite, no prazo de até 05 (cinco) dias úteis após a entrega e validação de conjuntos de artefatos, conforme preceitua o art. 73, inciso II, alínea "b", da Lei nº 8.666/93, será feito pelo Diretor do Serviço de Desenvolvimento de Sistemas. Parágrafo Único: Se, após o recebimento provisório, constatar-se que os serviços foram prestados em desacordo com a proposta, com defeito, fora de especificação ou incompletos, após a notificação por escrito à CONTRATADA, serão interrompidos os prazos de recebimento e suspenso o pagamento, até que sanada a situação.
+
+CLÁUSULA DÉCIMA SEXTA: DO PAGAMENTO O pagamento será efetuado mensalmente, em até 5 (cinco) dias úteis, a partir do recebimento da respectiva Nota Fiscal certificada pelo Diretor do Serviço de Desenvolvimento de Sistemas do CONTRATANTE nos termos da cláusula décima quarta. Parágrafo Primeiro: Quando do pagamento a ser efetuado pelo CONTRATANTE, a CONTRATADA deverá comprovar sua regularidade no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, no tocante à Documentação Obrigatória (Receita Federal, Dívida Ativa da União, FGTS e INSS). Tal comprovação poderá ser efetuada por meio de certidão do Sistema de Cadastro Unificado de Fornecedores ­ SICAF, cuja confirmação será feita "on line" via terminal SIASG/SICAF. Parágrafo Segundo: O pagamento será creditado em favor da CONTRATADA por meio de Ordem Bancária, em qualquer instituição bancária indicada na Proposta, devendo para isto ficar especificado o nome do banco, agência com a qual opera, localidade e número da conta corrente em que deverá ser efetivado o crédito.
+
+Pág. 52
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+Parágrafo Terceiro: O CONTRATANTE poderá efetuar o pagamento por meio de títulos de cobrança bancária com código de barras, desde que o valor seja líquido, já descontada a retenção na fonte prevista nos parágrafos quarto e décimo. Parágrafo Quarto: Sobre o valor faturado, será retido na fonte o correspondente ao imposto sobre a renda, a contribuição social sobre o lucro líquido, a contribuição para a seguridade social COFINS e a contribuição para o PIS/PASEP, conforme o art. 64 da Lei nº 9.430, de 27/12/96 e Instrução Normativa SRF nº 480, de 15/12/2004, com as alterações introduzidas pelas Instruções Normativas SRF nº 539 (25/04/2005), SRF nº 706 (09/01/2007) e RFB nº 765 (02/08/2007). Parágrafo Quinto: As empresas inscritas no Regime Especial Unificado de Arrecadação de Tributos e Contribuições (SIMPLES NACIONAL), não sofrerão a retenção na fonte dos valores acima citados, conforme o disposto no inciso XI do art. 3º da Instrução Normativa da Secretaria da Receita Federal nº 480, de 15/12/2004, devendo encaminhar anexo a Nota Fiscal, para fins de comprovação da condição de optante, a declaração constante do Anexo IV desta Instrução Normativa, em duas vias, assinadas pelo representante legal. Parágrafo Sexto: A não apresentação da declaração de optante do Simples Nacional juntamente com a Nota Fiscal, observada no parágrafo anterior, acarretará o desconto no pagamento devido à empresa do valor referente ao encargo previsto na legislação vigente. Parágrafo Sétimo: Sob pena de aplicação das penalidades legais, a empresa optante pelo SIMPLES NACIONAL deverá, em caso de alteração desta condição, comunicar imediatamente o CONTRATANTE. Parágrafo Oitavo: Qualquer erro ou omissão ocorridos na documentação fiscal será motivo de correção por parte da CONTRATADA e haverá, em decorrência, suspensão do prazo de pagamento até que o problema seja definitivamente sanado. Parágrafo Nono: Considera-se como data do efetivo pagamento o dia em que for emitida a competente Ordem Bancária em favor da CONTRATADA. Parágrafo Décimo: Quando legalmente exigido, o CONTRATANTE fará a retenção na fonte e o respectivo recolhimento de outros tributos e contribuições.
+
+CLÁUSULA DÉCIMA SÉTIMA: DAS PENALIDADES A CONTRATADA está sujeita às seguintes penalidades, desde que não apresente justificativa fundamentada e aceita pelo CONTRATANTE: a) advertência por escrito; b) multa moratória de 1% (um por cento) sobre o valor total do contrato, por dia de atraso na(s) entrega(s) dos itens, objeto deste contrato, até o 12º dia; a partir do 13º dia até o limite de 4% (quatro por cento) a qual deverá ser descontada da primeira fatura. Após o prazo máximo de 15 (quinze) dias de atraso, sem motivo justificado, este contrato poderá, a critério do CONTRATANTE e aplicada cumulativamente a multa prevista na alínea "c";
+
+Pág. 53
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+c)
+
+multa compensatória de até 15% (quinze por cento) sobre o valor do item empenhado, a que ficará obrigada a adjudicatária pela inexecução total ou parcial do contrato, conforme teor do inciso II do art. 87 da Lei n° 8.666/93;
+
+d)
+
+o licitante que, convocado dentro do prazo de validade da sua proposta, não celebrar o contrato, deixar de entregar ou apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União e será descredenciado no SICAF, pelo prazo de até 5 (cinco) anos, sem prejuízo das multas previstas neste contrato e das demais cominações legais.
+
+Parágrafo Primeiro: As sanções de advertência e de impedimento do direito de licitar e contratar com a União, poderão ser aplicadas à CONTRATADA juntamente com a de multa. Parágrafo Segundo: As multas previstas nesta cláusula poderão ser descontadas dos pagamentos a que porventura a CONTRATADA tenha direito. Parágrafo Terceiro: Caso inexistentes pagamentos, a CONTRATADA deverá recolher as multas no prazo máximo de 15 (quinze) dias contados a partir do recebimento da notificação, através de GRU ­ Guia de Recolhimento da União, apresentando o comprovante ao CONTRATANTE, sob pena de cobrança judicial. Parágrafo Quarto: As penalidades serão obrigatoriamente registradas no SICAF e, no caso de impedimento do direito de licitar, o licitante deverá ser descredenciado por igual período, sem prejuízo das multas previstas neste contrato e das demais cominações legais.
+
+CLÁUSULA DÉCIMA OITAVA: DAS HIPÓTESES DE PRORROGAÇÃO Os prazos inicialmente previstos relativos à execução dos serviços poderão sofrer prorrogação, nas hipóteses previstas no Art. 57, § 1°, da Lei n° 8.666/93, mantidas as demais cláusulas contratuais, desde que a CONTRATADA formalize o pedido, devidamente justificado e aceito pelo CONTRATANTE.
+
+CLÁUSULA DÉCIMA NONA: DA RESCISÃO O presente contrato poderá ser rescindido nas situações previstas no artigo 79 da Lei nº 8.666/93. Parágrafo Único: Ocorrendo a rescisão de que trata o caput desta Cláusula, não caberá à CONTRATADA qualquer indenização, salvo se motivada pelas hipóteses previstas nos incisos XII a XVII do Art. 78 da Lei 8.666/93, sem culpa da CONTRATADA, sendo-lhe devido apenas o pagamento relativo ao serviço realmente entregue e desde que aprovados pelo CONTRATANTE, deduzidas as multas que eventualmente tenham sido aplicadas.
+
+Pág. 54
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+CLÁUSULA VIGÉSIMA: DOS RECURSOS ADMINISTRATIVOS Da aplicação das penalidades previstas, bem como da rescisão unilateral deste contrato por ato do CONTRATANTE, caberá recurso, sem caráter suspensivo, nos termos do Art. 109 da Lei n° 8.666/93 com suas alterações.
+
+CLÁUSULA VIGÉSIMA PRIMEIRA: DA ALTERAÇÃO DO CONTRATO
+
+O presente contrato poderá ser alterado unilateralmente pelo CONTRATANTE ou por mútuo consentimento das partes, caracterizadas as hipóteses previstas na Lei n° 8.666/93.
+
+CLÁUSULA VIGÉSIMA SEGUNDA: DO CRÉDITO ORÇAMENTÁRIO As despesas decorrentes da presente aquisição correrão à conta dos recursos orçamentários consignados a este Regional, de acordo com Lei Orçamentária nº 11.897 de 30/12/2008, publicada no D.O.U. em 31/12/2008, conforme Programa de Trabalho 15.103.02.126.0571.2003.0001, naturezas de despesa 3.3.90.39 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA e, nos exercícios subseqüentes, à conta da dotação orçamentária que atenda despesas da mesma natureza.
+
+CLÁUSULA VIGÉSIMA TERCEIRA: DA PUBLICAÇÃO E REGISTRO O presente Contrato, que será registrado e arquivado pelo CONTRATANTE, terá seu extrato publicado na Imprensa Oficial, conforme o "caput" do Artigo 60 e parágrafo único do Artigo 61 da Lei n° 8.666/93.
+
+CLÁUSULA VIGÉSIMA QUARTA: DO FORO As partes contratantes elegem a Seção Judiciária de São Paulo da Justiça Federal como o foro competente para dirimir eventuais dúvidas decorrentes da execução do presente contrato, com renúncia a qualquer outro, por mais privilegiado que seja.
+
+E, por estarem de acordo as partes contratantes, assinam o presente instrumento de contrato, em 03 (três) vias de igual teor e forma, na presença das testemunhas abaixo.
+
+São Paulo,
+
+de
+
+de 200__.
+
+TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO P/ CONTRATADA Pág. 55
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+__________________________________
+
+____________________________________
+
+TESTEMUNHAS:
+
+________________________________ Nome: CPF:
+
+_________________________________ Nome: CPF:
+
+Pág. 56
+
+PODER JUDICIÁRIO FEDERAL TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO Serviço de Compras e Licitações Setor de Licitações Pregão nº 111/2009 - Eletrônico
+
+ANEXO D
+
+FORMA DE APRESENTAÇÃO DA PROPOSTA Pregão Eletrônico nº 111/2009
+Razão Social: CNPJ: Endereço: Tel.: Fax: ) SIM ( ) NÃO Banco: Agência: C/C: Dados Bancários:
+
+OPTANTE DO SIMPLES: (
+
+OBJETO: Registro de Preços para serviços técnicos especializados de desenvolvimento e manutenção de sistemas informatizados, através da utilização da Ferramenta Genexus.
+
+SERVIÇOS Desenvolvimento de sistemas através da ferramenta Genexus
+
+Preço unitário por ponto de função (R$)
+
+Preço total (R$)
+
+Prazo para início dos serviços de, no máximo, 15 (quinze) dias contados da assinatura do contrato. Prazo de Garantia: de, no mínimo, 90 (noventa) dias a contar da data do recebimento definitivo. Prazo de validade da proposta: 60 (sessenta) dias
+
+São Paulo, _____ de _________________ de 2009.
+
+(Representante Legal da Empresa)
+
+Em caso do representante legal não constar no Contrato Social da empresa, anexar "Procuração".
+
+Pág. 57
+
+

@@ -1,0 +1,884 @@
+EDITAL DE LICITAÇÃO PREGÃO ELETRÔNICO Nº 023/2010 1. DA MODALIDADE 1.1 O SERVIÇO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS DO ESTADO DO RIO GRANDE DO SUL ­ SEBRAE/RS, entidade associativa de direito privado, sem fins lucrativos, instituída sob a forma de serviço social autônomo, com sede à Rua Sete de Setembro nº 555, CEP 90010-190, em Porto Alegre - RS, inscrito no CNPJ sob nº 87.112.736/0001-30, através da sua Gerência de Administração, Logística e Suprimento, torna público que, nos termos do Regulamento de Licitações e de Contratos do SEBRAE/RS, publicado no Diário Oficial da União do dia 11/07/2008, artigos 42 a 45 da Lei Complementar 123/2006 e legislação correlata promoverá licitação na modalidade PREGÃO, na forma ELETRÔNICA, tipo MENOR PREÇO, observadas as condições estabelecidas neste instrumento convocatório. 2. DO OBJETO 2.1 Contratação de fábrica de software para fornecimento de serviços, sob demanda, de desenvolvimento na linguagem ASP.NET com C#, e/ou implementação/manutenção nas linguagens ASP com Visual Basic 6 e ASP.NET com C# ou VB.NET, em conformidade com os termos que integram o presente Edital. 2.2 O desenvolvimento deverá ser na linguagem ASP.NET com C#, e/ou implementação/manutenção nas linguagens ASP com Visual Basic 6 e ASP.NET com C# ou VB.NET, para atendimento às necessidades de Sistemas de Informação do Sebrae/RS, conforme o Termo de Referência (Anexo I). 2.3 As quantidades mencionadas na Proposta Comercial (Anexo II) referem-se à previsão de contratação dos serviços, por Pontos de Função, a partir do dimensionamento do total do Projeto ou Sistema que estiver sendo desenvolvido ou executado. Essas quantidades não implicam em obrigatoriedade de contratação pelo SEBRAE/RS, durante a vigência do contrato, servindo apenas como referencial para a elaboração das propostas dos licitantes. 3. DAS INFORMAÇÕES DE DIA E HORA DA ENTREGA DA PROPOSTA ELETRÔNICA 3.1 Para participar da presente licitação, as empresas deverão obter o presente edital no site de compras http://www.licitacoes-e.com.br ou no site do SEBRAE/RS http://www.sebrae-rs.com.br. 3.2 O pregão eletrônico será realizado em sessão pública, por meio da internet, mediante condições de segurança ­ criptografia e autenticação ­ em todas as suas fases, conforme diretrizes abaixo:
+
+3.2.1 Entidade Promotora: Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio Grande do Sul 3.2.2 3.2.3 Local de realização: http://www.licitacoes-e.com.br Início do acolhimento das propostas: 22 de setembro de 2010 às 09 horas;
+
+3.2.4 Término de lançamento de propostas e Abertura das propostas: 01 de outubro de 2010 às 09 horas; 3.2.5 Classificação e Desclassificação de Proposta e Início da sessão de disputa de preço: 01 de outubro de 2010 às 14 horas. 3.3 A licitante deverá observar as datas e os horários limites acima previstos para a abertura da proposta, atentando também para a data e horário de início da disputa de preços. 3.4 O fornecedor desclassificado terá o prazo de 30 (trinta) minutos para solicitar a reconsideração de sua proposta, conforme preceitua o artigo 21 cláusula VI do Regulamento do SEBRAE/RS, a contar do momento em que a decisão vier a ser disponibilizada no sistema eletrônico, qual seja, a partir do horário indicado para o início da Classificação e Desclassificação. 3.5 Todas as referências de tempo no edital, no aviso e durante a Sessão Pública observarão obrigatoriamente o horário de Brasília - DF, dessa forma, serão registradas no sistema eletrônico e na documentação relativa ao certame. 3.6 Os trabalhos serão conduzidos por funcionária do SEBRAE/RS, denominada pregoeira, mediante a inserção e monitoramento de dados gerados ou transferidos para o aplicativo licitações constante da página eletrônica do Banco do Brasil S/A. 4. DAS CONDIÇÕES DE PARTICIPAÇÃO 4.1 Poderão participar deste certame as empresas cujos ramos de atividade sejam compatíveis com o objeto contratual demandado nesta licitação, observadas as condições inerentes à habilitação. Será impedida de participar da presente licitação toda a empresa que: a) tenha sido declarada inidônea pela Administração Pública Direta ou Indireta, Federal, Estadual, Municipal, e, ainda, aquelas que estiverem sob decretação de falência, concordata, dissolução ou liquidação; b) apresente-se na forma de consórcio, qualquer que seja sua forma de constituição; c) seja estrangeira e não estejam em funcionamento no país; d) esteja cumprindo a penalidade de suspensão temporária imposta pelo Sistema S; e) tenha funcionário ou membro do SEBRAE/RS como subcontratado, responsável técnico, dirigente, bem como os ex- empregados, até seis meses após a demissão imotivada ou o pedido de demissão;
+
+f) contrariando o disposto no artigo 7°, inciso XXXIII da Constituição Federal, empregam menores de 18 anos em trabalho noturno, perigoso ou insalubre, bem como, menores de 16 anos em qualquer trabalho, salvo na condição de aprendiz, a partir de 14 anos; g) esteja constituída como Sociedade Cooperativa de mão-de-obra, nos termos da Lei 5764, de 16.12.1971, tendo em vista a natureza do objeto licitado e das atividades a serem prestadas, onde pelo seu modo de execução fica caracterizado a subordinação do profissional prestador de serviços ao contratado (TCU ­ Acórdão 1815/2003 ­ Item 9.3.1.1). 4.2 Os Documentos de Habilitação e Proposta Comercial deverão ser da mesma licitante executora dos serviços a serem contratados, sendo que não será aceita prestação de serviço de empresa que não tenha sido previamente habilitada neste certame, ficando, salvo expressa deliberação contrária do SEBRAE/RS, expressamente defeso qualquer subcontratação por parte da proponente contratada. 5. DO CREDENCIAMENTO 5.1 Somente poderão participar deste pregão eletrônico as licitantes devidamente credenciadas junto ao provedor do Sistema na página eletrônica www.licitacoes-e.com.br, nos termos da legislação pertinente. 5.2 O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico. 5.3 É de exclusiva responsabilidade do usuário o sigilo da senha, bem como, seu uso em qualquer transação efetuada diretamente ou por seu representante, não cabendo ao Banco do Brasil S.A a responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros. 5.4 A perda da senha ou quebra de sigilo deverão ser comunicada imediatamente ao provedor do sistema, para imediato bloqueio de acesso. 5.5 O credenciamento da licitante junto ao provedor do sistema implica a presunção de sua capacidade técnica para realização de operações inerentes ao pregão eletrônico. 6. DA CONEXÃO COM O SISTEMA E DO ENVIO DAS PROPOSTAS 6.1 A participação neste pregão dar-se-á por meio de conexão da licitante ao sistema eletrônico www.licitacoes-e.com.br, mediante digitação de sua senha privativa e subsequentemente encaminhamento da proposta de preços, exclusivamente por meio do referido sistema, conforme data e horários estabelecidos no item 3 deste edital. 6.2 As propostas de preços e anexo da proposta serão encaminhadas, exclusivamente, por meio do sistema eletrônico, observando os prazos, condições e especificações estabelecidas neste Edital.
+
+6.3 A licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiros seus lances, sua proposta e declarações. 6.4 Como requisito para a participação no pregão eletrônico, a licitante deverá manifestar sob as penas da lei, em campo próprio e específico do sistema eletrônico, o pleno conhecimento e atendimento às exigências de habilitação previstas neste edital. 6.5 Incumbirá, ainda, à licitante acompanhar as operações no sistema eletrônico durante a sessão pública do pregão eletrônico, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou por sua desconexão. 6.6 No caso de desconexão com a pregoeira no decorrer da etapa competitiva do Pregão Eletrônico, o sistema eletrônico poderá permanecer acessível às licitantes para a recepção dos lances, retomando a pregoeira quando possível sua atuação no certame, sem prejuízo dos atos realizados. 6.7 Quando a desconexão persistir por um tempo superior a 10 (dez) minutos, a sessão do Pregão Eletrônico será suspensa e terá reinício somente após comunicação expressa aos participantes através de mensagem eletrônica, divulgando data e hora para reabertura da sessão. 6.8 A etapa de lances da sessão pública será encerrada mediante aviso de fechamento iminente dos lances, emitido pelo sistema eletrônico as licitantes após o que transcorrerá período de até 30 (trinta) minutos, aleatoriamente, determinado pelo sistema eletrônico (tempo randômico), findo o qual será automaticamente encerrada a recepção de lances. 6.9 Será conferido às Microempresas e Empresas de Pequeno Porte o benefício do empate ficto, de acordo com os ditames da Lei Complementar nº 123/06. 6.10 Caso não sejam apresentados lances, será verificada a conformidade entre a proposta de menor preço e o valor estimado para a contratação. 7. DOS PROCEDIMENTOS 7.1 Os licitantes interessados e previamente credenciados junto ao provedor do sistema acessarão o sistema, mediante a utilização de chaves de identidade e de senhas individuais fornecidas pelo provedor quando do credenciamento. 7.2 As propostas de preço, bem como, o anexo das propostas deverão ser encaminhadas exclusivamente por meio do sistema eletrônico, observando os prazos, condições e especificações estabelecidas neste Edital. 7.3 A pregoeira analisará as propostas de preços encaminhadas, desclassificando aquelas que não estiverem em consonância com o estabelecido no Edital, cabendo à pregoeira
+
+registrar e disponibilizar a decisão no sistema eletrônico, antes da fase do inicio da fase de lances, disponibilizando o período de reconsideração de propostas. 7.4 Iniciada a fase de lances, os autores das propostas classificadas poderão oferecer lances sem restrições de quantidade ou de qualquer ordem classificatória ou cronológica específica, mas sempre inferior ao seu último lance ofertado. 7.5 Todos os lances oferecidos serão registrados pelo sistema eletrônico, que estará sempre indicando o lance de menor valor para acompanhamento em tempo real pelos licitantes. 7.6 Na hipótese de haver lances iguais prevalecerá como de menor valor, o lance que tiver sido primeiramente registrado. 7.7 Por iniciativa da pregoeira, o sistema eletrônico emitirá aviso de que terá início prazo aleatório de até 30 (trinta) minutos para o encerramento da fase de lances, findo o qual estará automaticamente encerrada a recepção de lances. 7.8 Encerrada a etapa de lances, será concedido, se for o caso, benefício do empate ficto às microempresas e empresas de pequeno porte, de que trata o art. 44 da LC n.º 123/2006, nesta situação a ME ou EPP melhor classificada (no intervalo de até 5% por cento do menor preço) poderá, no prazo máximo de 05 (cinco) minutos, contados do envio da mensagem automática pelo sistema, apresentar uma última oferta, obrigatoriamente abaixo da primeira colocada, situação em que atendidas às exigências habilitatórias, será adjudicado em seu favor o objeto deste Pregão. 7.9 Não sendo vencedora a microempresa ou empresa de pequeno porte melhor classificadas, na forma do subitem anterior, o sistema, de forma automática, convocará as licitantes remanescentes que porventura se enquadrem na condição prevista no caput do art. 44 da LC nº 123/2006, na ordem classificatória, para o exercício do mesmo direito. 7.10 No caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que se encontrem no intervalo estabelecido no item 7.8, o Sistema fará um sorteio eletrônico, definindo e convocando automaticamente a vencedora para o encaminhamento da oferta final de desempate, se for o caso. 7.11 Não havendo adjudicação nos termos previstos na condição anterior, o objeto licitado será adjudicado em favor da licitante detentora de melhor lance. 7.12 Poderão ser desclassificadas as licitantes que não atenderem no todo ou em parte às condições aqui estabelecidas ou, ainda, apresentem quaisquer tipos de vícios, erros de conteúdo ou forma, ou seja, omissas, vagas ou que contemplam vantagens não previstas no Edital ou ainda, deixarem de apresentar qualquer documento previsto no item 10. 7.13 Sendo a licitante desclassificada/inabilitada, caberá à pregoeira convocar o autor do segundo menor lance e, observada a ordem de crescente de preço, os autores dos demais lances, desde que atendam ao critério de aceitabilidade estabelecido pelo Edital.
+
+7.14 A pregoeira anunciará a licitante detentora da proposta ou lance de menor valor, imediatamente após o encerramento da etapa de lances da sessão pública ou, quando for o caso, após a negociação e decisão pela pregoeira acerca da aceitação do lance de menor valor. 7.15 Se a proposta ou lance de menor valor não for aceitável, a pregoeira examinará a proposta e o lance subseqüente, na ordem de classificação, verificando a sua aceitabilidade e procedendo a sua habilitação. Se for necessário, repetirá esse procedimento, sucessivamente, até a apuração de uma proposta que atenda ao Edital. 7.16 Ocorrendo a situação a que se refere o item anterior, a pregoeira poderá negociar com a licitante para que seja obtido melhor preço. 7.17 Após a etapa de lances, a licitante classificada em 1º (primeiro) lugar deverá apresentar impreterivelmente em 1 hora pelo Fax: 51 3216-5133, os Documentos de Habilitação e a Proposta de Preço atualizada com o novo valor ofertado final na fase de lance. 7.18 Não será considerada qualquer oferta de vantagem não prevista neste Edital, inclusive financiamentos subsidiados ou a fundo perdido. 7.19 Declarado o licitante vencedor a pregoeira consignará esta decisão e os eventos ocorridos em ata própria, que será disponibilizada pelo sistema eletrônico, encaminhando se o processo à autoridade competente para adjudicação e homologação. 7.20 O sistema gerará ata circunstanciada da sessão, na qual estarão registrados todos os atos do procedimento e as ocorrências relevantes, que estará disponível para consulta no endereço eletrônico www.licitacoes-e.com.br. 8. DA PROPOSTA COMERCIAL 8.1 A proposta de preço deverá ser elaborada e anexada no sistema eletrônico com base no MENOR PREÇO GLOBAL PELO LOTE 01 apurado, que será obrigatoriamente representada pela composição da TABELA DE PROPOSTA COMERCIAL ­ ANEXO II, desde que atendidas às especificações constantes deste Edital e seus anexos. 8.1.1 A proposta comercial apresentada na internet deverá contemplar, obrigatoriamente, sob pena de desclassificação, as seguintes ações em campos específicos já identificados no próprio sistema: 8.1.1.1 Preço Global (total dos itens do Lote 01); 8.1.1.2 Em anexo: a) Proposta de Preço - conforme modelo do Anexo II do Edital elaborada pela licitante, preferencialmente contendo timbre da empresa, CNPJ, dados cadastrais e assinatura do responsável da empresa e b) Declaração que não emprega menor de idade e que possui o pleno conhecimento e atendimento às exigências do presente Edital e seus Anexos, conforme modelo do Anexo IV do Edital.
+
+8.2 A declaração falsa relativa ao cumprimento dos requisitos de habilitação e de proposta sujeitará a licitante às sanções previstas neste Edital. 8.3 As propostas apresentadas terão validade de 60 (sessenta) dias a contar da data de abertura do certame, sendo que somente será aceito pedido de retificação de proposta comercial antes do início do procedimento de abertura dos envelopes. 8.4 A empresa vencedora firmará o contrato com prazo de vigência de 12 (doze) meses a contar da data de assinatura, podendo, em havendo interesse, ser renovado por iguais períodos até o prazo máximo de 60 (sessenta) meses. 8.5 O valor proposto não sofrerá reajustamentos no prazo a ser contratado. Todos os valores, preços e custos utilizados nesta licitação deverão ser expressos em moeda corrente nacional. 8.6 Até a abertura da sessão a licitante poderá retirar ou substituir a proposta anteriormente encaminhada. 8.7 A elaboração da proposta é de inteira responsabilidade da Licitante, não lhe cabendo desistência após inicio do processo de abertura. 8.8 Somente será aceita uma proposta, não podendo a empresa ofertar opções comerciais, além de que não serão consideradas ofertas ou vantagens não previstas neste instrumento convocatório. 8.9 A proponente não terá direito a qualquer reembolso, posto que, além do valor ofertado nenhuma outra remuneração será devida ao proponente, sob qualquer hipótese de responsabilidade solidária, ou pelo pagamento de qualquer despesa, direta ou indiretamente, relacionadas com o fornecimento ou a prestação dos serviços. 8.10 As propostas deverão ser apresentadas com preços em moeda corrente nacional e irreajustável, conforme TABELA DE PROPOSTA COMERCIAL ­ ANEXO II, devendo compreender todas e quaisquer despesas e custos necessários para a fiel execução do objeto licitado, tais como: tributos, taxas, emolumentos, custos diretos e indiretos, salários, encargos sociais, previdenciários e trabalhistas de todo o pessoal da contratada, como também fardamento, transporte de qualquer natureza, alimentação, deslocamentos, material de consumo, todos os materiais empregados, inclusive ferramentas, utensílios e equipamentos utilizados, depreciação, administração, despesas fiscais e financeiras bem como outras despesas e encargos necessárias ao cumprimento do objeto desta licitação pela contratada. 8.11 Os fornecedores de outros Estados, ao elaborarem seus preços, seja na proposta escrita ou nos lances, deverão considerar que as Notas Fiscais emitidas deverão prever a compensação da diferença de alíquota de impostos, no sentido de isentar o SEBRAE/RS deste ônus e manter diferença do preço vencedor em relação às empresas concorrentes.
+
+8.12 Por ocasião do envio da proposta, a licitante enquadrada com microempresa ou empresa de pequeno porte deverá declarar, em campo próprio do sistema, que atende aos requisitos do art. 3º da Lei Complementar nº 123/2006, para fazer jus aos benefícios previstos na referida Lei. 9. DO JULGAMENTO DA PROPOSTA COMERCIAL 9.1 O Julgamento da Proposta de Preço obedecerá ao critério de MENOR PREÇO GLOBAL pelo Lote 01, e não poderá ser inferior ou igual a zero, permitindo a cotação de até, no máximo, 02 (duas) casas após a vírgula. 9.2 O desconto ofertado ao final da fase de lances deverá ser aplicado na mesma proporção a todos os itens que compõem o Lote 01. 9.3 Não obstante a disputa no sistema seja pelo valor total do Lote 01, a proponente ao registrar sua proposta no sistema deverá observar que os preços apresentados nos itens 02, 03 e 04 deverão obedecer obrigatoriamente ao percentual atribuído com relação ao valor ofertado para o item 01. 9.3.1 Os valores unitários por Pontos de Função aceitáveis para esta licitação são os seguintes:
+LOTE 01 Item Plataforma Tecnológica Valor Unitário do Ponto de Função (R$) Máximo de R$ 660,00 80% do valor ofertado na proposta para o item 01 80% do valor ofertado na proposta para o item 01 70% do valor ofertado na proposta para o item 01
+
+01 02
+
+Desenvolvimento ASP.Net e C# Implementação / Manutenção ASP.Net e C#
+
+03
+
+Implementação / Manutenção ASP.Net e VB.Net
+
+04
+
+Implementação / Manutenção ASP e Visual Basic 6
+
+9.3.1 Os valores acima estabelecidos deverão ser observados, sendo desclassificada a proposta que apresentar maior valor. 10. DOS DOCUMENTOS DE HABILITAÇÃO 10.1 A licitante detentora da melhor proposta deverá encaminhar, conforme já citado no item 8.17 do edital, todos os documentos de habilitação estabelecidos neste item. Após, DECLARADO VENCEDOR, o licitante deverá entregar em até 02 (dois) dias úteis, as originais dos documentos de habilitação ou fotocópia autenticada por tabelião, conforme
+
+itens abaixo, juntamente com a proposta de preço atualizada com o novo valor ofertado final na fase de lance, para: SEBRAE/RS ­ PREGÃO 012/2010 Gerência de Administração, Logística e Suprimento Rua Sete de Setembro, 555 ­ Bairro: Centro Porto Alegre/RS CEP: 90010-190 ­ Aos cuidados de Flávia Motta Teixeira 10.2 DOCUMENTOS RELATIVOS Á HABILITAÇÃO JURÍDICA: 10.2.1 Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, em se tratando de sociedades comerciais, e, no caso de sociedades por ações, acompanhado de documentos de eleição de seus atuais administradores; 10.2.2 O contrato social a ser apresentado deverá ser compatível com o objeto da licitação. A Licitante poderá anexar alteração de contrato social, desde que seja necessária para comprovação da pertinência do objeto social; 10.2.3 Inscrição do ato constitutivo, no caso de sociedades civis, acompanhada de prova da diretoria em exercício; 10.2.4 Em função do disposto no art. 977 do Código Civil Brasileiro, as sociedades que possuam sócios que sejam casados entre si deverão apresentar cópia da certidão de casamento. 10.3 DOCUMENTOS RELATIVOS À QUALIFICAÇÃO TÉCNICA: 10.3.1 Declaração fornecida por pessoa jurídica de direito público ou privado, de 01 (um) ou mais clientes, atestando a qualidade dos serviços oferecidos pela Licitante, de acordo com o objeto que está sendo licitado: a) Comprovação de aptidão para desempenho de atividade pertinente e compatível em características, quantidades e prazos com o objeto da licitação, para um mínimo de 50% (cinqüenta por cento) da quantidade total, de cada item, comprovando que o proponente executa ou executou serviços especializados de desenvolvimento, implementação/manutenção de sistemas, utilizando a métrica de Análise de Pontos de Função, baseada na padronização do IFPUG V.4.2, por meio de instalações próprias, abrangendo as tecnologias mencionadas no item 1 do Termo de Referência e seus anexos, compatíveis com o objeto desta licitação. b) A licitante deverá comprovar capacidade de prestação de serviços de desenvolvimento, implementação e manutenção de Sistemas de Informação utilizando a métrica de Análise de Pontos de Função (conforme o IFPUG) para dimensionamento das demandas.
+
+c) A licitante deverá comprovar capacidade de prestação de serviços de desenvolvimento, implementação e manutenção de Sistemas de Informação com o uso de Fábrica de Software, utilizando Linguagem de Programação ASP.Net com C#. 10.4 DOCUMENTOS RELATIVOS À QUALIFICAÇÃO ECONÔMICO-FINANCEIRA: 10.4.1 Certidão negativa de falência expedida pelo distribuidor da sede da pessoa jurídica, emitida até 30 (trinta) dias antes da data da abertura desta licitação. 10.5 DOCUMENTOS RELATIVOS À REGULARIDADE FISCAL: 10.5.1 Prova de inscrição no Cadastro Nacional de Pessoa Jurídica (por meio da apresentação do cartão CNPJ); 10.5.2 Prova de inscrição no Cadastro de Contribuintes Estadual ou Municipal, se houver, relativo ao domicílio ou sede da licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual; 10.5.3 Prova de regularidade para com a Fazenda Federal, do domicílio ou sede da Licitante; 10.5.4 Prova de regularidade para com a Fazenda Estadual, do domicílio ou sede da licitante; 10.5.5 Prova de regularidade para com a Fazenda Municipal, do domicílio ou sede da licitante; 10.5.6 Prova de Regularidade junto à Seguridade Social (INSS), com as obrigações relativas às contribuições e encargos sociais instituídos por lei, através da Certidão Negativa de Débito expedida pelo Setor de Arrecadação do INSS, que prove a inexistência de débito, seja Negativa ou Positiva com Efeitos de Negativa; 10.5.7 Prova de regularidade perante o Fundo de Garantia por Tempo de Serviço (FGTS), através do Certificado de Regularidade do FGTS, emitido pela Caixa Econômica Federal. 10.6 Os documentos emitidos pela Internet, não necessitam ser autenticados, sendo sua validade verificada pela Comissão Permanente de Licitações quando da análise da documentação. 10.7 Todos os documentos apresentados para a habilitação deverão estar em nome da licitante com o nº do CNPJ e endereço respectivo, exceto aqueles centralizados pelos órgãos emitentes: a) se a licitante for a matriz, todos os documentos deverão estar em nome da matriz;
+
+b) se a licitante for a filial, todos os documentos deverão estar em nome da filial, exceto aqueles documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome da matriz e os Atestados de Capacidade Técnica que podem ser apresentados em nome e CNPJ da matriz e/ou em nome e CNPJ da filial. 10.8 INABILITAÇÃO: A não apresentação de qualquer documento relacionado nos itens anteriores ou a sua apresentação em desacordo com a forma, prazo de validade e quantidade estipulada, implicará na automática inabilitação da Licitante. 11. DO JULGAMENTO DA HABILITAÇÃO 11.1 Será julgado habilitado o licitante que apresentar todos os documentos exigidos, validamente e em conformidade com este Edital. 11.2 Será julgado inabilitado: a) O licitante que não atender às exigências deste Edital, notadamente quanto a não apresentação ou apresentação irregular de qualquer documento solicitado; b) O licitante que não atenda as condições de participação referidas neste Edital. 11.3 As certidões valerão nos prazos que lhe são próprios; inexistindo esse prazo, reputarse-ão válidas por 90 (noventa) dias, contados de sua expedição. 11.4 Constatando o atendimento as exigências previstas no Edital, a licitante será declarada vencedora, sendo-lhe adjudicado o objeto da licitação pela Autoridade Competente do SEBRAE/RS. 11.5 Se a licitante classificada em primeiro lugar desatender às exigências habilitatórias, a pregoeira examinará a oferta subseqüente na ordem de classificação, verificando a sua aceitabilidade e procedendo a sua habilitação repetindo esse procedimento sucessivamente, se for necessário, até a apuração de uma proposta habilitada que atenda ao Edital, sendo a respectiva licitante declarada vencedora. 11.6 No caso de microempresas e empresas de pequeno porte, havendo alguma restrição da regularidade fiscal, portanto que seja apresentado todos os documentos solicitados na habilitação, será disponibilizado o prazo de 02 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for declarado vencedor do certame, prorrogáveis por igual período, a critério da Autoridade Competente do SEBRAE/RS, para a regularização da documentação, pagamento ou parcelamento do débito e emissão de eventuais certidões negativas ou positivas, com efeito de certidão negativa, atendendo o que determina o artigo 43 da Lei Complementar n° 123/06. 11.6.1 A não-regularização da documentação no prazo previsto no item 11.6, implicará decadência do direito à contratação, sem prejuízo da aplicação das sanções previstas na
+
+Legislação pertinente, sendo facultado à instituição convocar os licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar/cancelar a licitação. 11.7 Todos os documentos deverão estar dentro do prazo de validade, exceto aqueles que não estão sujeitos a vencimento. 11.8 Os documentos emitidos através da INTERNET terão sua autenticidade verificada pelo SEBRAE/RS. 12. DO PEDIDO DE ESCLARECIMENTOS 12.1 Qualquer pedido de esclarecimento sobre o presente Pregão Eletrônico deverá ser encaminhado por escrito, de forma eletrônica para o e-mail flaviamt@sebrae-rs.com.br no prazo de até 02 (dois) dias úteis antes da data da licitação. A confirmação do recebimento do pedido é de inteira responsabilidade da proponente. 12.2 Pedidos de esclarecimento fora do prazo não serão considerados. 12.3 Todas as respostas serão divulgadas pela Internet, no site do SEBRAE/RS e no endereço http://www.licitacoes-e.com.br. 12.4 Os Licitantes devem acessar diariamente os sites citados no item 12.3 para conferência das respostas dos esclarecimentos, resultados das impugnações, recursos e demais informações adicionais e/ou alterações que possam vir a ocorrer. 13. DA IMPUGNAÇÃO E RECURSO ADMINISTRATIVO 13.1 Caberá peça de impugnação do presente Edital, nos termos do item 13.6, devidamente fundamentada, no prazo máximo de 02 (dois) dias úteis anteriores a data de abertura do certame. 13.2 As respostas às impugnações serão divulgadas na Internet, no site do SEBRAE/RS e no site de licitações http://www.licitacoes-e.com.br. 13.3 Não serão aceitas Impugnações fora do prazo. 13.4 Acolhida a impugnação contra o Edital, será definida e publicada nova data para realização do certame. 13.5 No final da sessão do pregão eletrônico, declarada(s) a(s) vencedora(s), as concorrentes, se for o caso, manifestarão também por meio eletrônico, durante o período de 10 (dez) minutos, sua intenção de interpor eventual recurso, com a síntese das suas razões. Posteriormente, as concorrentes deverão presencialmente protocolizar suas peças recursais com as razões expostas de forma mais desenvolvida, dentro do prazo de 02 (dois) dias úteis, contados a partir da publicação do resultado da empresa vencedora. Todas as
+
+licitantes, desde logo, ficarão intimadas para apresentar suas contra-razões, em igual prazo, contado do término daquele concedido à recorrente. 13.6 Qualquer manifestação de impugnação e recurso aos termos deste edital deverá ser encaminhada, obrigatoriamente por escrito e protocolizada na Gerência de Administração, Logística e Suprimento deste SEBRAE/RS, na Rua Sete de Setembro, 555, Bairro Centro, Porto Alegre/RS, no horário das 09h às 18h, de segunda a sexta-feira aos cuidados da Pregoeira Flávia Motta Teixeira. Não serão aceitas manifestações informais, incluindo mensagens via e-mails. 13.7 Os recursos e impugnações serão julgados pela Comissão Permanente de Licitação e, em havendo controvérsia de natureza essencialmente jurídica, serão aprovados pela Assessoria Jurídica do SEBRAE/RS, sendo que a divulgação dos julgamentos dar-se-á pela internet através do sítio eletrônico do SEBRAE/RS e/ou pelo site: http://www.licitacoese.com.br. 13.8 A falta de manifestação imediata da licitante na sessão pública, no tocante à interposição eletrônica de sua intenção de recorrer, importará em decadência do direito da posterior protocolização da peça recursal de que trata o item 13.5, possibilitando assim a conseqüente adjudicação do objeto da licitação ao licitante vencedor pela autoridade competente. 13.9 O acolhimento de recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 13.10 Para os fins cabíveis sob a ótica das licitantes também poderá ser consultado o Regulamento de Licitações e Contratos do Sistema SEBRAE, disponível no sítio eletrônico do SEBRAE/RS, disponibilizado neste instrumento. 13.11 Os autos do processo, após o seu efetivo encerramento, permanecerão com vista franqueada aos eventuais interessados. 14. DA HOMOLOGAÇÃO E ADJUDICAÇÃO 14.1 Após conclusão das fases licitatórias, exame do processo, saneamento das diligências e término dos prazos recursais, se nenhuma irregularidade for verificada, o julgamento do certame será submetido à homologação da Autoridade superior do SEBRAE/RS, que adjudicará o objeto licitado à empresa proponente vencedora do Pregão. Será encaminhada à homologação e adjudicação a empresa que atender todas as condições estabelecidas neste Edital. A homologação e adjudicação dar-se-ão junto à autoridade competente e corpo diretivo do SEBRAE/RS, em três instâncias de jurisdição administrativa. 14.2 O SEBRAE/RS poderá cancelar ou revogar a presente licitação, antes de assinado o contrato, por motivo justificado, conforme previsto no Artigo 40, do Regulamento de Licitações e de Contratos do Sistema SEBRAE/RS, sem que em decorrência desta medida
+
+tenham os participantes o direito à indenização, compensação ou reclamação de qualquer natureza. 14.3 A proponente em que seu objeto contratual ofertado estiver em momento de adjudicação encontrar-se-á já tutelada pelas regras dispostas na minuta contratual (ANEXO III), podendo, em havendo interesse do SEBRAE/RS, efetuar as providencias preliminares atinentes ao inicio dos trabalhos que oportunamente estarão sob o abrigo definitivo do respectivo instrumento contratual. 15. DOS PRAZOS E CONDIÇÕES PARA ASSINATURA DO CONTRATO 15.1 O prazo para emissão e assinatura do Contrato será de até 10 (dez) dias, contados a partir da homologação. 15.2 A vigência do contrato será de 12 (doze) meses, podendo ser renovado, até atingir no máximo 60 (sessenta) meses, através de termo aditivo, sem alteração nos valores, salvo, mudanças de valores de encargos estipuladas pelo governo. 15.3 Os contratos poderão ser aditados pelo SEBRAE/RS, quando necessário, em até 25% (vinte e cinco por cento) do valor inicial. 15.4 O SEBRAE/RS reserva-se o direito de anular, cancelar ou revogar o presente certame, antes da assinatura do instrumento contratual, não acarretando quaisquer direitos às licitantes que acorreram à licitação, seja direitos à indenização, compensação, lucros cessantes ou qualquer outra espécie de reparação. 15.5 Fica facultado ao SEBRAE/RS, o direito de denunciar o contrato, mediante aviso por escrito com 30 (trinta) dias de antecedência, salvaguardados os compromissos assumidos até a data da denúncia. 16. DAS SANÇÕES ADMINISTRATIVAS 16.2 A recusa injustificada em assinar o contrato ou retirar o instrumento equivalente, dentro do prazo fixado, caracterizará o descumprimento total da obrigação assumida, ficando a empresa sujeita à multa de 10 % (dez por cento) sobre o valor total para o período avençal de 12 (doze) meses. 16.3 No caso de atraso injustificado ou inexecução total ou parcial do compromisso assumido com a Entidade CONTRATANTE, as sanções administrativas aplicadas serão: a) Advertência: caso de mora ou descumprimento de obrigação acessória. Poderá ser aplicada no caso de descumprimento parcial das obrigações e responsabilidades assumidas contratualmente, por culpa da licitante contratada. A advertência poderá, ainda, ser aplicada no caso de outras ocorrências que possam acarretar transtornos de desenvolvimento dos serviços do SEBRAE/RS, a critério da fiscalização da entidade, desde que não caiba a aplicação de sanções mais graves, como a própria extinção contratual. As advertências e sanções poderão ser aplicadas conjuntamente com a sanção de multas.
+
+b) Multa: a não execução parcial ou total do objeto deste contrato, verificado o fato gerador devido à ação ou à omissão da licitante contratada, relativamente às obrigações contratuais em questão, torna-o passível das penalidades previstas na legislação vigente e nas disposições previstas no instrumento contratual, até o limite de 9% (nove por cento), de acordo com os critérios exclusivos do SEBRAE/RS, no tocante à majoração do percentual de multa a ser aplicada à empresa contratada, sem prejuízo do direito ao contraditório. As sanções de multa poderão ser aplicadas à licitante contratada juntamente com a de advertência e suspensão para licitar e contratar com o Sistema SEBRAE/RS, descontandoas dos pagamentos a serem efetuados. c) Extinção contratual e, sendo o caso, a conseqüente suspensão de participar de licitações; d) Declaração de inidoneidade para participar de licitações. 16.4 O atraso ou descumprimento de qualquer obrigação contratual sem justificativa por escrito, aceita pelo contratante, implicará na aplicação de multa correspondente a 0,3% (zero vírgula três por cento) por dia de atraso ou ocorrência, conforme o caso, calculado sobre o valor total do contrato correspondente, observado o limite de 9% (nove por cento). 16.5 Caso haja a desistência (total) da Contratada na execução do serviço será cobrada uma multa indenizatória de 10% (dez) por cento sobre o valor do contrato/Ordem de Compra. A contratada estará notificada para fins de apresentação de justificativas, as quais deverão ser apresentadas dentro do prazo limite de 24 (vinte quatro) horas. 16.6 As multas e outras penalidades aplicáveis só poderão ser relevadas nos casos de força maior ou caso fortuito, devidamente comprovado, mediante decisão fundamentada. 17. DA QUANTIDADE ESTIMADA 17.1 A estimativa de uso dos serviços estabelecida na Tabela abaixo corresponde à demanda do SEBRAE/RS para o período de 12 (doze) meses:
+Plataforma Tecnológica Estimativa de Uso dos Serviços (Pontos de Função) Desenvolvimento ASP.Net e C# Implementação / Manutenção ASP.Net e C# Implementação / Manutenção ASP.Net e VB.Net Implementação / Manutenção ASP e Visual Basic 6 TOTAL 289 286 96 119 790
+
+17.1.1 No quadro acima, estão relacionadas as plataformas tecnológicas a serem utilizadas e as quantidades estimadas de utilização dos serviços para cada uma, podendo o SEBRAE/RS remanejá-las entre si, dentro de cada tipo de serviço, de acordo com as suas necessidades, respeitando o limite do valor total contratado. 18. DO PAGAMENTO 18.1 O pagamento dos serviços será de acordo com o especificado no Termo de Referência ­ Anexo I do Edital, após a efetiva entrega da prestação dos serviços solicitada, mediante apresentação da nota fiscal/boleto bancário na sede do SEBRAE/RS. 18.2 O pagamento está sujeito, ainda, a apresentação de todos os documentos de Regularidade Fiscal solicitados no edital, dos comprovantes do repasse da bolsa auxílio aos estagiários, bem como dos comprovantes dos pagamentos de todos os encargos. 18.3 Os pagamentos serão creditados em nome da Contratada, mediante depósito em conta corrente por ela indicada, se for o caso, uma vez satisfeitas as condições estabelecidas neste Edital e no contrato de prestação de serviços. 18.4 Os pagamentos sofrerão as retenções de impostos, conforme legislação vigente. 18.5 No caso de incorreção nos documentos apresentados, inclusive na Nota Fiscal, serão os mesmos restituídos à Contratada para as correções necessárias, não respondendo ao SEBRAE/RS por quaisquer encargos resultantes de atrasos na liquidação dos pagamentos correspondentes. 19. DA ORIGEM DOS RECURSOS ORÇAMENTÁRIOS 19.1 As despesas inerentes à execução do objeto da presente licitação ocorrerão por conta de recursos próprios do SEBRAE/RS. 20. DAS ALTERAÇÕES SOCIETÁRIAS 20.1 Em havendo cisão, incorporação ou fusão da futura licitante contratada, a aceitação de qualquer uma destas operações, como pressuposto para a continuidade da avença, ficará condicionada à análise, pelo SEBRAE/RS, do procedimento realizado e da documentação da nova empresa, considerando todas as normas e regramentos estabelecidos neste instrumento convocatório como parâmetros de aceitação. Nesta hipótese, a empresa resultante de qualquer das operações comerciais descritas ficará obrigada a apresentar, imediatamente, a documentação comprobatória de sua situação societária. 21. DAS OBRIGAÇÕES COMERCIAIS, FISCAIS E SOCIAIS 21.1 A proponente uma vez contratada, sem prejuízo do cumprimento integral das demais obrigatoriedades legais discriminadas neste edital, deverá assumir a responsabilidade por
+
+todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria, vez que seus empregados não manterão nenhum vínculo empregatício com o SEBRAE/RS. 21.2 A empresa contratada deverá assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes de trabalho, quando, em ocorrência da espécie, forem vítimas os seus empregados quando da prestação dos serviços ou em conexão com ela, ainda que acontecido nas dependências do SEBRAE/RS. 22. DAS DISPOSIÇOES GERAIS 22.1 As normas e regramentos que disciplinam a presente licitação serão sempre interpretados em favor da ampliação da disputa entre as proponentes interessadas, desde que não comprometam o objetivo da legislação aplicável, o interesse do SEBRAE/RS e a segurança processual e jurídica da contratação. 22.2 A participação na presente licitação demonstra que a licitante examinou cuidadosamente o edital e seus anexos, e se inteirou de todos os seus detalhes e com eles concordou, bem como todas as dúvidas e/ou questionamentos formulados foram devidamente esclarecidos. O presente Edital, sem prejuízo dos regramentos dispostos no instrumento contratual, possui força de natureza contratual. 22.3 É facultado à pregoeira, Equipe de Apoio ou à Autoridade Superior, em qualquer fase da licitação, promover diligência destinada a esclarecer ou a complementar a instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar originalmente da proposta. 22.4 O SEBRAE/RS poderá conferir prazo de 08 (oito) dias úteis para as licitantes, caso todas sejam desclassificadas ou inabilitadas (todas numa mesma fase), a fim de que as mesmas possam adequar propostas ou documentação, conforme o caso. 22.5 Fica assegurado ao SEBRAE/RS, por razões de ordem técnica, financeira ou administrativa e sem que caiba aos licitantes qualquer tipo de reclamação ou indenização o direito de: a) Adiar a abertura das propostas do presente Pregão Eletrônico, dando conhecimento prévio aos interessados; b) Anular o presente pregão, a qualquer tempo, desde que seja constatada alguma ilegalidade ou irregularidade insanável no processo, que venha a afetar a lisura, o caráter competitivo, a eficácia processual ou a instrumentalidade do certame; c) Revogar o presente pregão por motivos de conveniência e oportunidade; d) Alterar as condições deste Edital, as especificações e qualquer documento pertinente a este Pregão, fixando novo prazo, se for o caso.
+
+22.6 Os licitantes são responsáveis, em qualquer época pela fidelidade e legitimidade das informações constantes dos documentos e propostas apresentadas, devendo manter durante todo contrato as condições de habilitação exigidas. A apresentação da proposta implica total e irrestrita concordância com todas as condições estabelecidas neste instrumento convocatório. 22.7 A Comissão de Licitação poderá a seu critério, relevar omissões puramente formais nas propostas ou documentos apresentados pelos licitantes, desde que não comprometam a legalidade, a lisura e o caráter competitivo desta licitação e possam ser sanadas em prazo fixo pela mesma, desde já entendido que serão vedadas as inclusões de documentos que deveriam constar no ato de abertura. A Comissão Permanente de Licitação também poderá relevar atos administrativos meramente irregulares, desde que os mesmos não afetem a eficácia processual, os princípios norteadores da seara licitatória e não causem qualquer dano ou ofensa à instrumentalidade do certame. 22.8 Não poderão participar direta ou indiretamente desta Licitação, as pessoas indicadas no Art. 39 do Regulamento de Licitações e de Contratos do Sistema SEBRAE/RS, publicado no Diário Oficial da União do dia 11/07/2008. 22.9 Na contagem dos prazos estabelecidos neste instrumento convocatório e anexos, excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-se-ão os dias consecutivos, exceto quando for explicitamente disposto em contrário. 22.10 Quaisquer dúvidas e/ou esclarecimentos complementares deverão ser formulados, exclusivamente, por escrito à Gerência de Administração, Logística e Suprimento ­ Área de Licitações deste SEBRAE/RS, através do e-mail flaviamt@sebrae-rs.com.br, com até 02 (dois) dias úteis de antecedência com relação à data da licitação. 22.11 As respostas dos questionamentos, alterações e comunicações serão divulgadas diariamente no site do SEBRAE/RS e no site http://www.licitacoes-e.com.br à todos os interessados. 22.12 Para este fim, também poderá ser consultado o Regulamento de Licitações e de Contratos do Sistema SEBRAE/RS, disponível no site do SEBRAE/RS. 23. DOS CASOS OMISSOS 23.1 Todos os casos omissos serão julgados pela Comissão Permanente de Licitação e juntados aos autos, os quais, depois de consultadas doutrina, legislação e Unidade Jurídica, quando necessário, serão esclarecidos à todos os interessados, lavrado em documento e acostado ao processo licitatório, fazendo dele parte integrante. 24. DOS ANEXOS 24.1 Fazem parte integrante do presente edital, como ANEXOS:
+
+24.1.1 ANEXO I ­ Termo de Referência (com XVIII Apensos); 24.1.2 ANEXO II ­ Modelo de Proposta Comercial; 24.1.3 ANEXO III ­ Minuta de Contrato; 24.1.4 ANEXO IV ­ Declaração de menor de idade, pleno conhecimento e atendimento às exigências do presente Edital e seus Anexos;
+
+Porto Alegre, 22 de setembro de 2010.
+
+Flávia Motta Teixeira Comissão Permanente de Licitações SEBRAE/RS
+
+ANEXO I TERMO DE REFERÊNCIA 1. DO OBJETO
+Contratação, sob demanda, de fábrica de software para fornecimento de serviços de desenvolvimento em ASP.NET com C#, e/ou implementação/manutenção nas linguagens ASP com Visual Basic 6 e ASP.NET com C# ou VB.NET explicitada de acordo com a relação abaixo e em conformidade com os Apensos: 1.1. Implementação/Manutenção de sistemas compreendendo análise da solicitação, construção e implantação na linguagem ASP na Plataforma Microsoft Windows DNA® ­ Tecnologia Microsoft VB 6 conforme demonstra o diagrama a seguir:
+
+1.2. Implementação/Manutenção de sistemas compreendendo análise da solicitação, construção e implantação na linguagem ASP.NET com C# ou VB.NET, respeitando os seguintes padrões em 3 camadas:
+
+1.3. Desenvolvimento de sistemas sob abordagem orientada a objetos, compreendendo definição dos requisitos, ante-projeto, especificação do sistema, construção e implantação, em ASP.NET com C#, respeitando os seguintes padrões em 3 camadas:
+
+Obs.: A biblioteca Coolite® é um conjunto de métodos e funções que habilitam o uso de tecnologia Ajax com controles Web de ASP.NET, o que simplifica o desenvolvimento de aplicações neste ambiente. Maiores informações podem ser obtidas no endereço HTTP://www.coolite.com .
+
+2. DAS ESPECIFICAÇÕES DOS SERVIÇOS
+2.1.Processo de Implementação / Manutenção
+2.1.1.O Fluxo dos processos de implementação/manutenção referente aos subitens 1.1 e 1.2 encontra-se relacionado no Apenso I do Termo de Referência com o detalhamento do processo dos serviços a serem contratados. 2.1.2.O valor do Ponto de Função será especificado para cada linguagem (ASP com Visual Basic 6, ASP.NET com C# ou ASP.NET com VB.NET).
+
+2.2.Processo de Desenvolvimento
+2.2.1.O Fluxo dos processos de desenvolvimento referente ao subitem 1.3 encontra-se relacionado no Apenso II do Termo de Referência com o detalhamento do processo dos serviços a serem contratados. 2.2.2.O valor do Ponto de Função será especificado para a linguagem (ASP.NET com C#).
+
+2.3.Testes de Programas
+2.3.1.As atividades de testes de programas (controle e garantia da qualidade) deverão abranger os aspectos abaixo, independentemente da tecnologia utilizada: 2.3.1.1. Teste Unitário: Verificação de um componente de um software, através de teste funcional, desenvolvido a partir da especificação das funções previstas para componente, e/ou de teste estrutural, desenvolvido a partir da descrição da estrutura do componente, e/ou dos atributos não funcionais. 2.3.1.2. Teste de Integração: Técnica sistemática para construção da estrutura de programa, realizando-se ao mesmo tempo teste para descobrir erros associados a interfaces. O objetivo é, a partir dos módulos testados ao nível de unidade, construir a estrutura de programa que foi determinada pelo projeto. O teste de integração cuida das questões associadas ao duplo problema da verificação e construção de programas.
+
+2.4.Pontos de Função
+2.4.1.O processo de dimensionamento dos projetos por Pontos de Função (Function Points) a ser utilizado está normatizado no Manual de Práticas e Contagens versão 4.2 (Counting Practices Manual - Release 4.2), publicado pelo IFPUG (International Function Point Users Group).
+
+2.5.Fábrica de Software
+2.5.1.O regime de Fábrica de Software implica no uso de uma forma sistematizada de desenvolvimento de software, apoiada numa metodologia consolidada, utilizando um processo controlado, repetitivo e padronizado de produção. Além
+
+disto, este processo deve seguir as melhores práticas de mercado, tais como RUP, PMBOK, ISO 20000, CMMI, MPS-BR, ITIL.
+
+3. DAS OBRIGAÇÕES DA CONTRATADA
+3.1. A CONTRATADA deverá manter, sem custo para o CONTRATANTE, em caráter permanente à frente dos serviços, um preposto. 3.2. O preposto, além de possuir os conhecimentos e a capacidade profissional necessários, deverá ter competência para resolver imediatamente todo e qualquer assunto relacionado com os serviços contratados. 3.2.1.O preposto deverá possuir os seguintes requisitos: 3.2.1.1. Formação de nível superior na área de Engenharia, Ciência da Computação, Tecnólogo em Processamento de Dados, Estatística, Matemática ou Administração de Empresas comprovada mediante diploma e/ou certificado; 3.2.1.2. Experiência em Gestão de Projetos de Sistemas, Metodologias de Projeto e Desenvolvimento de Sistemas, Modelagem de Dados e Negócios de no mínimo 04 (quatro) anos, comprovada; e 3.2.1.3. Experiência comprovada na utilização de métrica da Análise de Pontos de Função, baseada na padronização do IFPUG V.4.2. 3.2.2.O preposto deverá atuar em todas as fases do projeto e/ou tarefa, avaliando o seu desenvolvimento e promovendo ações que assegurem o alcance dos produtos/serviços contratados. 3.2.3.O preposto deverá prestar apoio técnico aos componentes da equipe da CONTRATADA. 3.2.4.O preposto deverá orientar e/ou executar o detalhamento de rotinas de sistemas em geral e definir a melhor utilização dos recursos de software e hardware disponíveis. 3.2.5.O preposto deverá responder pela gestão de seus técnicos, coordenando as tarefas executadas e em execução. 3.2.6.O preposto deverá garantir a qualidade nas tarefas compatíveis com os padrões e normas utilizadas e definidas pelo CONTRATANTE. 3.2.7.O preposto deverá repassar o conhecimento adquirido das tarefas previamente negociadas aos técnicos da CONTRATADA que venham a desempenhá-las. 3.2.8.O preposto deverá estar permanentemente à disposição do CONTRATANTE, nos dias úteis, no horário comercial entre 09:00 horas e 18:00 horas. 3.3. Garantir nos prazos contratados a entrega dos serviços que possam ser lidos na plataforma destinada ao produto/serviço contratado, conforme o objeto. 3.4. Designar profissionais de desenvolvimento qualificados a trabalhar com as metodologias, equipamentos e ferramentas previstas neste documento, com qualificações comprovadas pela experiência em projetos do mesmo tipo. 3.4.1.A Contratada deverá entregar, e manter atualizada, lista dos profissionais envolvidos em cada Solicitação de Serviço.
+
+3.5. Controlar e acompanhar o cumprimento dos serviços contratados que serão realizados em suas instalações, ficando responsável por toda infra-estrutura técnica necessária. 3.5.1.Os serviços técnicos profissionais deverão ser executados com pessoal fornecido pela CONTRATADA, nas instalações e com recursos tecnológicos e físicos fornecidos pela mesma (off-site). Fica a critério do CONTRATANTE, excepcionalmente, a execução de parte dos serviços nas instalações do CONTRATANTE (on-site), podendo ser exigido que a CONTRATADA utilize seus próprios equipamentos. 3.6. Garantir que todo desenvolvimento, implementação/manutenção realizados durante o período do contrato ou mesmo correções que ocorrerem após cada contrato dos Aderentes, estejam compatíveis com os padrões especificados pelo Sebrae/RS e pelos modelos apresentados nos Apensos ao Termo de Referência. 3.7. Providenciar a imediata correção das deficiências apontadas pelo CONTRATANTE quanto à execução dos serviços contratados. 3.8. Garantir, para os sistemas que desenvolver ou alterar, durante a vigência do contrato, todo e qualquer tipo de manutenção decorrente de erros ou falhas cometidos na realização dos serviços, sem ônus adicionais para o CONTRATANTE. O atendimento à execução das correções deverá ser imediato. 3.8.1.Essas manutenções compreendem a correção de erros ou falhas cometidas pela CONTRATADA no decorrer do desenvolvimento e/ou implementação/manutenção dos serviços e que estejam cobertos no período de garantia. Esses tipos de manutenção não estão associados a novas Ordens de Serviço e seus ônus serão cobertos pela CONTRATADA. 3.9. Garantir por um prazo de 12 (doze) meses, a partir do aceite final do CONTRATANTE, de cada Ordem de Serviço, todas as manutenções corretivas decorrentes de erros ou falhas, sem ônus para o CONTRATANTE, independente da vigência contratual. 3.10. Entregar todos os produtos realizados pela CONTRATADA ao CONTRATANTE, que terá direito de propriedade sobre os mesmos. 3.11. Aceitar que os programas de computador e sua documentação, de propriedade do CONTRATANTE, estão protegidos pela LEI FEDERAL n° 9.609 de 19.02.1998 e por tratados internacionais. Nenhuma parte desses programas de computador e sua documentação poderão ser divulgadas, reproduzidas, ou transmitida, sem autorização prévia do CONTRATANTE, sejam quais forem os meios empregados: eletrônicos, mecânicos, fotográficos, gravação ou quaisquer outros. 3.11.1. A CONTRATADA obriga-se a tratar como "segredos comerciais e confidenciais" todos os produtos e subprodutos relativos aos serviços contratados. 3.12. Entregar para o CONTRATANTE, nos prazos acordados, os códigos-fonte na linguagem de programação indicada, resultados dos testes realizados e demais arquivos produzidos e necessários à execução e documentação do aplicativo. 3.13. Entregar, no momento da rescisão de cada contrato, a documentação e o material de propriedade do CONTRATANTE.
+
+3.14. Destruir no final, de cada contrato, os produtos de propriedade do CONTRATANTE que estejam em seu poder. 3.15. Atender a todas as especificações e requisitos entregues pelo CONTRATANTE. 3.16. Gerar as massas de testes necessárias à execução dos testes relativos aos programas construídos. 3.17. Arcar com todos os custos necessários ao bom andamento dos trabalhos, especialmente de viagem, hospedagem e transporte dos seus funcionários. 3.18. Responsabilizar-se por quaisquer ônus, despesas ou obrigações trabalhistas, previdenciária, fiscais, de acidentes de trabalho, bem como alimentação, transporte ou outros benefícios de qualquer natureza, decorrentes da contratação dos serviços. 3.19. Assumir todos os encargos de possíveis demandas trabalhistas, civis ou penais relacionados aos serviços, originariamente ou vinculada por prevenção, conexão ou continência. 3.20. Não transferir a outrem, no todo ou em parte, o objeto da presente contratação. 3.21. Arcar com todos os custos de aquisição e montagem de todos os recursos e da infra- estrutura necessária para execução dos serviços contratados. 3.22. Disponibilizar solução, via WEB, que proporcione ao CONTRATANTE a gerência e o acompanhamento do andamento dos serviços contratados. 3.23. Manter, durante toda a execução do contrato, as qualificações técnicas, exigidas no processo licitatório. 3.24. Não se valer do contrato a ser celebrado para assumir obrigações perante terceiros, dando-o como garantia, nem utilizar os direitos de crédito, a serem auferidos em função dos serviços prestados,em quaisquer operações de desconto bancário, sem prévia autorização do CONTRATANTE. 3.25. Arcar com quaisquer danos ou prejuízos causados ao CONTRATANTE. Nos casos de danos, prejuízos, avarias ou subtração de seus bens, os valores correspondentes deverão ser descontados da(s) fatura(s) seguinte(s) da CONTRATADA, ou ajuizada, se for o caso, a dívida, sem prejuízo das demais sanções previstas no contrato. 3.26. Comunicar ao CONTRATANTE, de forma detalhada, toda e qualquer ocorrência de acidentes verificada no curso da execução contratual. 3.27. Não divulgar quaisquer informações a que tenha acesso em virtude dos trabalhos a serem executados ou de que tenha tomado conhecimento em decorrência da execução do objeto, sem autorização, por escrito, do CONTRATANTE, sob pena de aplicação das sanções cabíveis, além do pagamento de indenização por perdas e danos. 3.28. Recrutar em seu nome e sob sua inteira responsabilidade os profissionais necessários à perfeita execução dos serviços, que tenham as qualificações técnicas constantes no Edital, cabendo-lhe efetuar os pagamentos de salários e arcar com as demais obrigações trabalhistas, previdenciárias, fiscais e comerciais, inclusive responsabilidades decorrentes de acidentes, indenizações, substituições, seguros, assistência médica e quaisquer outros, em decorrência da
+
+sua condição de empregadora, sem qualquer solidariedade por parte do CONTRATANTE. 3.29. Não usar as informações sigilosas ou de uso restrito, quando tais atos forem praticados por quem tenha sido alocado à execução do objeto deste Termo de Referência. 3.30. Responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura a ocasionar ao CONTRATANTE, ou a terceiros, durante a execução dos serviços. 3.31. Efetuar o pagamento dos seguros, tributos, leis sociais e de toda e qualquer despesa referente aos serviços contratados e dos documentos a eles relativos, se necessários. 3.32. Atender a todas as observações, reclamações e exigências efetuadas, no sentido do cumprimento deste Termo de Referência e da melhoria dos serviços executados. 3.33. Cumprir os prazos estipulados nos cronogramas aprovados, de comum acordo, oriundo dos serviços relacionados neste Termo de Referência. 3.34. Informar ao CONTRATANTE toda ocorrência que esteja prejudicando a prestação dos serviços e o cumprimento dos níveis de serviços acordados. 3.35. Responsabilizar-se pela a aquisição de quaisquer softwares ou biblioteca de componentes necessários ao cumprimento do objeto. 3.36. Aceitar que o CONTRATANTE possa rejeitar, no todo ou em parte, os serviços executados em desacordo com as normas estabelecidas neste Termo de Referência e/ou nos instrumentos que o integram. 3.37. Aceitar que o CONTRATANTE possa solicitar a substituição de qualquer profissional que considere inadequado para a função independente de explicação, cabendo à CONTRATADA a apresentação de novo profissional. 3.37.1. O CONTRATANTE poderá determinar a imediata retirada do local de trabalho do empregado que estiver sem crachá, que embaraçar ou dificultar a sua fiscalização ou cuja permanência, a seu exclusivo critério, julgar inconveniente, solicitando sua substituição imediata. 3.38. Assumir os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite da(s) Ordem(ns) de Serviço. 3.39. Atender a tabela abaixo para avaliação e planejamento de cada Ordem de Serviço: Tamanho do Aplicativo / Lote Até 100 PF Maior que 100 PF Prazo de Avaliação (aceite da OS pela CONTRATADA) Até 02 (dois) dias úteis Até 05 (cinco) dias úteis, ou até 10 % do total de horas previstas para construção do aplicativo (o que for maior). Planejamento da Execução da OS (contado a partir do aceite) Até 03 (três) dias úteis Até 05 (cinco) dias úteis, ou até 15 % do total de horas previstas para construção do aplicativo (o que for maior).
+
+4. DAS OBRIGAÇÕES DO CONTRATANTE
+4.1. Efetuar os pagamentos devidos à CONTRATADA, nas condições estabelecidas em CONTRATO. 4.2. Fornecer à CONTRATADA, documentos, informações e demais elementos que possuir, ligados ao futuro CONTRATO. 4.3. Exercer a fiscalização dos termos constantes do Edital. 4.4. Assegurar aos técnicos credenciados pela CONTRATADA o acesso aos equipamentos para a execução dos serviços do objeto, resguardadas as normas de sigilo e segurança impostas pelo CONTRATANTE.
+
+5. DA MEDIÇÃO E DO PAGAMENTO DOS SERVIÇOS
+5.1. Os serviços do objeto serão implementados conforme a demanda apresentada pelo CONTRATANTE que comunicará a CONTRATADA sua necessidade através de Ordem de Serviço ­ OS e Solicitação de Serviço ­ SS. 5.1.1.Deste modo, o CONTRATANTE, somente assumirá o compromisso de pagamento dos serviços de acordo com as Ordens de Serviços ­ OS e Solicitação de Serviço ­ SS solicitadas e autorizadas pelo próprio. 5.2. As quantidades de dias estimados, através do Modelo de Cronograma ­ Apenso VII do Termo de Referência, convertidos em horas, resultantes do cálculo da Análise de Pontos de Função, poderão ser utilizados pelo CONTRATANTE de acordo com as suas necessidades. 5.3. O CONTRATANTE somente pagará a CONTRATADA os serviços efetivamente realizados em cada Ordem de Serviço, apurados ao final destes, de acordo com os procedimentos de medição, subitem 5.2, estabelecidos neste Termo de Referência, não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos. 5.4. O pagamento será efetuado mediante fatura relativa aos serviços efetivamente realizados e somente será efetuado após o atesto do Gestor do respectivo contrato. 5.5. Cada fatura deverá concentrar somente as Ordens de Serviço expedidas para uma mesma Solicitação de Serviço. 5.6. Supervisão e Controle dos Serviços 5.6.1.A Ordem de Serviço ­ OS e a Solicitação de Serviço ­ SS serão instrumentos auxiliares para permitir a determinação, coordenação, supervisão, controle e fiscalização da execução dos serviços. 5.6.1.1. Ainda como instrumento de supervisão da execução dos serviços, a CONTRATADA deverá enviar ao CONTRATANTE relatórios de acompanhamento da Ordem de Serviço, sempre que solicitado. 5.6.2.A Solicitação de Serviço deverá seguir o modelo constante no Apenso III, do Termo de Referência. 5.6.3.A Ordem de Serviço deverá seguir o modelo constante no Apenso IV, do Termo de Referência. 5.6.4.As Ordens de Serviço deverão ser confeccionadas antes do início da execução de qualquer serviço. 5.7. Medição dos Serviços
+
+5.7.1.A medição dos serviços tomará como referência às especificações e informações contidas nas Ordens de Serviço ­ OS e Solicitação de Serviço - SS e no resultado apurado da efetiva prestação do serviço a ser registrado em relatório de acompanhamento. 5.7.2.Quaisquer serviços executados pela CONTRATADA que não atendam os padrões de qualidade, não serão objeto de faturamento enquanto não forem corrigidos e serão devolvidos para serem refeitos, sujeitando-se, ainda, a CONTRATADA, às penalidades correspondentes a atrasos no cronograma de atendimento.
+
+6. DO ACORDO DE NÍVEL DE SERVIÇO ­ SLA
+6.1. Para o acompanhamento e avaliação dos serviços da CONTRATADA serão estabelecidos e utilizados Acordos de Níveis de Serviços (doravante SLA) entre as partes, baseando-se em indicadores e metas definidos, a seguir, para o processo. 6.2. A análise dos resultados destas avaliações pelo CONTRATANTE poderá resultar em penalidades caso a CONTRATADA não cumpra com os seus compromissos de qualidade e pontualidade na entrega das demandas. 6.3. Os SLA's devem ser considerados e entendidos pela CONTRATADA como um compromisso de qualidade que estará assumindo junto ao CONTRATANTE. 6.4. Os níveis de serviços serão fundamentados em dois itens de grande importância: 6.4.1.Cumprimento de Prazos - é a capacidade da CONTRATADA de conclusão de um serviço dentro do prazo acordado junto ao CONTRATANTE. Quanto maior este índice, melhor a qualidade das demandas entregues para homologação. 6.4.1.1. Métrica:
+
+6.4.2.Índice de Rejeições - estabelece um índice mínimo para rejeições para produtos entregues para homologação. Quanto menor este índice, melhor a qualidade das demandas entregues para homologação. 6.4.2.1. Métrica:
+
+6.5. Níveis de Serviços 6.5.1.Durante o período de Garantia os serviços estarão sendo avaliados pela CONTRATANTE, no atendimento dos índices estabelecidos, que poderão ser revistos e sofrer adequação/aprimoramento ao longo do tempo, por entendimento entre as partes 6.5.2.Os indicativos exigidos pelo CONTRATANTE estão na tabela abaixo:
+
+Índice Cumprimento de Prazo Índice de Rejeição
+
+Acordo de Nível de Serviço ­ SLA Tabela de Níveis de Serviços Apuração No faturamento No faturamento
+
+Nível de Serviço 80% (Mínimo) 5% (Máximo)
+
+6.6. Processo de Aferição 6.6.1.No fechamento de cada Solicitação de Serviço, será emitido pela CONTRATADA, um relatório de aferição considerando os índices de cumprimento de prazo e de rejeição, conforme subitem 6.5.2. 6.6.2.Caso não sejam cumpridos os acordos de nível de serviço estabelecidos no subitem 6.5.2, serão creditados à CONTRATANTE 5 (cinco) pontos de função de cada tecnologia empregada na referida prestação de serviço.
+
+ANEXO II MODELO DA PROPOSTA COMERCIAL Data: XXXX de XXXX de 2010 Ao SEBRAE/RS XXXXXXXXXXX (Nome da empresa), inscrita no CNPJ nº. XXXXXXX,com sede na rua XXXXXXXXXXXXXX, na cidade de XXXXXX, no Estado de XXXXXXX, neste ato representada pelo Sr. XXXXXXXXXXXXX, em conformidade com o Edital de licitação, PREGÃO 023/2010, que adotará as seguintes condições: 1. Os preços apresentados e demais condições comerciais tem validade de 60 dias. 2. O cumprimento de todas as condições impostas no Edital Pregão Eletrônico nº 023/2010. 3. Indicar, para cada tecnologia, o valor de Ponto de Função Unitário:
+LOTE 01 Item Plataforma Tecnológica Estimativa (PF) Valor Unitário (R$) Valor Total (R$)
+
+01 02 03 04
+
+Desenvolvimento ASP.Net e C# Implementação / Manutenção ASP.Net e C# Implementação / Manutenção ASP.Net e VB.Net Implementação / Manutenção ASP e Visual Basic 6 TOTAL
+
+289 286 96 119 790 ---------
+
+4. A proposta apresentada deverá incluir todas e quaisquer despesas necessárias para o fiel cumprimento do objeto desta licitação, inclusive todos os custos com material de consumo, salários, encargos sociais, previdenciários e trabalhistas de todo o pessoal da contratada, como também, caso for, transporte de qualquer natureza, materiais empregados, inclusive ferramentas, utensílios e equipamentos utilizados, locação, depreciação, administração, impostos, taxas, emolumentos e quaisquer outros custos que, direta ou indiretamente, se relacionem com o fiel cumprimento pela contratada das obrigações. Concorda e submete-se a todas e cada uma das condições impostas pelo referido Edital. Atenciosamente. XXXXXXXXXXXXXXXXXXXXXXXXXXXX (Assinatura do responsável)
+
+ANEXO III MINUTA DE CONTRATO
+
+CT XXX/0-2010 CONTRATO DE PRESTAÇÃO DE SERVIÇOS QUALIFICAÇÃO DO SEBRAE/RS, doravante denominado CONTRATANTE, e QUALIFICAÇÃO DA CONTRATADA, doravante denominada CONTRATADA, aprovada a contratação pela Diretoria Executiva do SEBRAE/RS em XXX de XXX de 2010, que se regerá pelo Regulamento de Licitações e de Contratos do Sistema SEBRAE/RS, pelos termos contidos no Processo Administrativo nº XXX/2010 ­ PREGÃO ELETRÔNICO Nº 023/2010 e pelas cláusulas e condições seguintes: DO OBJETO PRIMEIRA: O presente contrato tem por objeto a prestação de serviços, sob demanda, de fábrica de software para fornecimento de serviços de desenvolvimento em ASP.NET com C#, e/ou implementação/manutenção nas linguagens ASP com Visual Basic 6 e ASP.NET com C# ou VB.NET. PARÁGRAFO PRIMEIRO: A prestação de serviços consiste no descrito abaixo, respeitando o detalhamento constante do Termo de Referência e seus Apensos: a) Implementação/Manutenção de sistemas compreendendo análise da solicitação, construção e implantação na linguagem ASP na Plataforma Microsoft Windows DNA® ­ Tecnologia Microsoft VB 6; b) Implementação/Manutenção de sistemas compreendendo análise da solicitação, construção e implantação na linguagem ASP.NET com C# ou VB.NET; c) Desenvolvimento de sistemas sob abordagem orientada a objetos, compreendendo definição dos requisitos, ante-projeto, especificação do sistema, construção e implantação, em ASP.NET com C#. PARÁGRAFO SEGUNDO: A prestação de serviços atenderá o detalhamento constante no Anexo I do Edital de Pregão Eletrônico nº 23/SEBRAE/RS/2010, denominado Termo de Referência, e seus Apensos, que, independente de transcrição, passam a fazer parte integrante do presente instrumento. PARÁGRAFO TERCEIRO: Qualquer atividade não prevista no objeto do presente instrumento fica sujeita à celebração de um novo contrato ou termo aditivo, sendo que eventuais prestações de parte da CONTRATADA, por seus representantes ou prepostos, sem instrumentação normativa superveniente, constituem mera liberalidade da CONTRATADA, sem ônus para o CONTRATANTE. DAS OBRIGAÇÕES SEGUNDA: São obrigações das partes contratantes: I ­ Da CONTRATADA: a) Iniciar a prestação dos serviços após a assinatura do presente instrumento e mediante solicitação do CONTRATANTE;
+
+b) Cumprir todas as obrigações relacionadas no Edital de Licitação nº 023/2010; c) Zelar pela boa e completa execução do contrato, atendendo prontamente as observações e exigências que lhe forem solicitadas; d) Efetuar pontualmente o pagamento de todas as taxas e impostos que incidam ou venham a incidir sobre suas atividades e/ou sobre a execução dos serviços objeto do presente contrato; e) Participar de reuniões com o CONTRATANTE, sempre que solicitado, acatando, na medida do possível, toda determinação que se refira a fiel e melhor execução do contrato; f) Observar as disposições legais que regulam o exercício de sua atividade como empresa legalmente habilitada para a prestação dos serviços objeto deste contrato; g) Responder por todas as despesas necessárias à realização do objeto contratado, ficando desde já, excluída qualquer responsabilidade, solidária ou subsidiaria do CONTRATANTE, por eventuais inadimplementos, ilícitos e/ou autuações que a CONTRATADA der causa; h) Manter, durante toda a vigência do presente contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas pela Lei e solicitadas no Edital de Licitação; i) Manter, durante toda a vigência do presente contrato, sem custo para o CONTRATANTE e em caráter permanente à frente dos serviços, um preposto que atenda aos requisitos dispostos no item 3.2 do Termo de Referência; j) Garantir nos prazos contratados a entrega dos serviços que possam ser lidos na plataforma destinada ao produto/serviço contratado, conforme o objeto; k) Designar profissionais de desenvolvimento qualificados a trabalhar com as metodologias, equipamentos e ferramentas previstas no Termo de Referência, com qualificações comprovadas pela experiência em projetos do mesmo tipo; l) Entregar ao CONTRATANTE e manter atualizada, a lista dos profissionais envolvidos em cada Solicitação de Serviço; m) Controlar e acompanhar o cumprimento dos serviços contratados que serão realizados em suas instalações, ficando responsável por toda infraestrutura técnica necessária; n) Garantir que todo desenvolvimento, implementação/manutenção realizados durante o período do contrato ou mesmo correções que ocorrerem após cada contrato dos Aderentes, estejam compatíveis com os padrões especificados pelo CONTRATANTE e pelos modelos apresentados nos Apensos ao Termo de Referência; o) Providenciar a imediata correção das deficiências apontadas pelo CONTRATANTE quanto à execução dos serviços contratados; p) Garantir, para os sistemas que desenvolver ou alterar, durante a vigência do contrato, todo e qualquer tipo de manutenção decorrente de erros ou falhas cometidos na realização dos serviços, sem ônus adicionais para o CONTRATANTE. O atendimento à execução das correções deverá ser imediato; q) Garantir, por um prazo de 12 (doze) meses, a partir do aceite final do CONTRATANTE, de cada Ordem de Serviço, todas as manutenções corretivas decorrentes de erros ou falhas, sem ônus para o CONTRATANTE, independente da vigência contratual; r) Entregar todos os produtos realizados ao CONTRATANTE, que terá direito de propriedade sobre os mesmos; s) Aceitar que os programas de computador e sua documentação, de propriedade do CONTRATANTE, estão protegidos pela LEI FEDERAL n° 9.609 de 19.02.1998 e por tratados internacionais. Nenhuma parte desses programas de computador e sua documentação poderão ser divulgadas, reproduzidas, ou transmitida, sem autorização prévia do CONTRATANTE, sejam quais forem os meios empregados: eletrônicos, mecânicos, fotográficos, gravação ou quaisquer outros. t) Tratar como "segredos comerciais e confidenciais" todos os produtos e subprodutos relativos aos serviços contratados; u) Entregar ao CONTRATANTE, nos prazos acordados, os códigos-fonte na linguagem de programação indicada, resultados dos testes realizados e demais arquivos produzidos e necessários à execução e documentação do aplicativo;
+
+v) Entregar, no momento da rescisão do contrato, a documentação e o material de propriedade do CONTRATANTE; w) Destruir no final do contrato, os produtos de propriedade do CONTRATANTE que estejam em seu poder; x) Atender a todas as especificações e requisitos entregues pelo CONTRATANTE; y) Gerar as massas de testes necessárias à execução dos testes relativos aos programas construídos; z) Arcar com todos os custos necessários ao bom andamento dos trabalhos, especialmente de viagens, hospedagens e transporte dos seus funcionários. aa) Responsabilizar-se por quaisquer ônus, despesas ou obrigações trabalhistas, previdenciária, fiscais, de acidentes de trabalho, bem como alimentação, transporte ou outros benefícios de qualquer natureza, decorrentes da contratação dos serviços; bb) Assumir todos os encargos de possíveis demandas trabalhistas, civis ou penais relacionados aos serviços, originariamente ou vinculada por prevenção, conexão ou continência; cc) Não transferir a outrem, no todo ou em parte, o objeto da presente contratação; dd) Arcar com todos os custos de aquisição e montagem de todos os recursos e da infraestrutura necessária para execução dos serviços contratados; ee) Disponibilizar solução, via WEB, que proporcione ao CONTRATANTE a gerência e o acompanhamento do andamento dos serviços contratados; ff) Manter, durante toda a execução do contrato, as qualificações técnicas, exigidas no Edital de Pregão Eletrônico nº 23/SEBRAE/RS/2010; gg) Não se valer do presente instrumento para assumir obrigações perante terceiros, dando-o como garantia, nem utilizar os direitos de crédito, a serem auferidos em função dos serviços prestados, em quaisquer operações de desconto bancário, sem prévia autorização do CONTRATANTE; hh) Arcar com quaisquer danos ou prejuízos causados ao CONTRATANTE. Nos casos de danos, prejuízos, avarias ou subtração de seus bens, os valores correspondentes deverão ser descontados da(s) fatura(s) seguinte(s) da CONTRATADA, ou ajuizada, se for o caso, a dívida, sem prejuízo das demais sanções previstas no contrato; ii) Comunicar ao CONTRATANTE, de forma detalhada, toda e qualquer ocorrência de acidentes verificada no curso da execução contratual; jj) Não divulgar quaisquer informações a que tenha acesso em virtude dos trabalhos a serem executados ou de que tenha tomado conhecimento em decorrência da execução do objeto, sem autorização, por escrito, do CONTRATANTE, sob pena de aplicação das sanções cabíveis, além do pagamento de indenização por perdas e danos; kk) Recrutar, em seu nome e sob sua inteira responsabilidade, os profissionais necessários à perfeita execução dos serviços, que tenham as qualificações técnicas constantes no Edital de Pregão Eletrônico nº 23/SEBRAE/RS/2010, cabendo-lhe efetuar os pagamentos de salários e arcar com as demais obrigações trabalhistas, previdenciárias, fiscais e comerciais, inclusive responsabilidades decorrentes de acidentes, indenizações, substituições, seguros, assistência médica e quaisquer outros, em decorrência da sua condição de empregadora, sem qualquer solidariedade por parte do CONTRATANTE; ll) Não usar as informações sigilosas ou de uso restrito, quando tais atos forem praticados por quem tenha sido alocado à execução do objeto do presente contrato; mm) Responsabilizar-se pelo comportamento dos seus empregados e por quaisquer danos que estes ou seus prepostos venham porventura a ocasionar ao CONTRATANTE, ou a terceiros, durante a execução dos serviços; nn) Efetuar o pagamento dos seguros, tributos, leis sociais e de toda e qualquer despesa referente aos serviços contratados e dos documentos a eles relativos, se necessários; oo) Atender a todas as observações, reclamações e exigências efetuadas, no sentido do cumprimento deste Termo de Referência e da melhoria dos serviços executados. pp) Cumprir os prazos estipulados nos cronogramas aprovados, de comum acordo, oriundo dos serviços relacionados no presente instrumento e Termo de Referência;
+
+qq) Informar ao CONTRATANTE toda ocorrência que esteja prejudicando a prestação dos serviços e o cumprimento dos níveis de serviços acordados; rr) Responsabilizar-se pela aquisição de quaisquer softwares ou biblioteca de componentes necessários ao cumprimento do objeto; ss) Aceitar que o CONTRATANTE possa rejeitar, no todo ou em parte, os serviços executados em desacordo com as normas estabelecidas no presente instrumento, no Termo de Referência e nos instrumentos que o integram; tt) Aceitar que o CONTRATANTE possa solicitar a substituição de qualquer profissional que considere inadequado para a função por mera liberalidade, cabendo à CONTRATADA a apresentação de novo profissional; uu) Assumir os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite da(s) Ordem(ns) de Serviço; vv) Atender a tabela abaixo para avaliação e planejamento de cada Ordem de Serviço:
+Tamanho do Aplicativo / Lote Até 100 PF Maior que 100 PF Prazo de Avaliação (aceite da OS pela CONTRATADA) Até 02 (dois) dias úteis Até 05 (cinco) dias úteis, ou até 10 % do total de horas previstas para construção do aplicativo (o que for maior). Planejamento da Execução da OS (contado a partir do aceite) Até 03 (três) dias úteis Até 05 (cinco) dias úteis, ou até 15 % do total de horas previstas para construção do aplicativo (o que for maior).
+
+ww) Comprovar, a qualquer momento, o pagamento dos tributos que incidirem sobre a execução dos serviços prestados; xx) Responsabilizar-se pelos danos causados ao CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução do contrato, não excluindo ou reduzindo essa responsabilidade a fiscalização e o acompanhamento pelo CONTRATANTE; yy) Solucionar todos os eventuais problemas pertinentes ou relacionados com a execução do objeto do presente contrato, mesmo que para isso outra solução não prevista tenha que ser apresentada para aprovação e implementação, sem ônus adicionais para o CONTRATANTE, desde que de responsabilidade da CONTRATADA. II ­ Do CONTRATANTE: a) Fornecer à CONTRATADA todas as informações necessárias para a perfeita execução dos serviços objeto do presente contrato; b) Determinar a imediata retirada do local de trabalho do empregado que estiver sem crachá, que embaraçar ou dificultar a sua fiscalização ou cuja permanência, a seu exclusivo critério, julgar inconveniente, solicitando sua substituição imediata; c) Efetuar o pagamento à CONTRATADA, de acordo com as condições de preço e prazo estabelecidas neste instrumento, desde que cumpridas todas as formalidades e exigências aqui contidas; d) Comunicar à CONTRATADA, a ocorrência de qualquer irregularidade, falta disciplinar, manifesta ineficiência ou comportamento incompatível com o serviço, a fim de que, apurada a procedência, sejam tomadas as devidas providências. TERCEIRA: São prerrogativas do CONTRATANTE: a) Solicitar à CONTRATADA todas as providências necessárias ao bom andamento dos serviços; b) Proceder a mais ampla fiscalização sobre a fiel execução dos serviços objeto deste contrato, sem prejuízo da responsabilidade da CONTRATADA; c) Avaliar a qualidade da execução dos serviços, podendo rejeitá-los no todo ou em parte; d) Exigir o cumprimento de todos os itens deste contrato, segundo suas especificações.
+
+DOS VALORES QUARTA: Pela prestação de serviços objeto do presente instrumento o CONTRATANTE pagará à CONTRATADA os valores descritos na tabela abaixo, desde que atendidos todos os requisitos descritos no item 5 do Termo der Referência, em até 20 (vinte) dias úteis após a entrega e aceite do serviço, mediante apresentação da respectiva nota fiscal na sede do CONTRATANTE, com no mínimo 05 (cinco) dias de antecedência, através de crédito na conta bancária da CONTRATADA, sofrendo a retenção de tributos, na forma da legislação vigente.
+Plataforma Tecnológica Desenvolvimento ASP.Net e C# Implementação / Manutenção ASP.Net e C# Implementação / Manutenção ASP.Net e VB.Net Implementação / Manutenção ASP e Visual Basic 6 Valor Unitário do Ponto de Função R$ XX R$ XX R$ XX R$ XX
+
+PARÁGRAFO PRIMEIRO: O registro eletrônico do depósito bancário efetuado valerá para o CONTRATANTE como comprovante dos pagamentos. PARÁGRAFO SEGUNDO: A regularidade fiscal da CONTRATADA junto a Fazenda Federal, a Seguridade Social (INSS) e a Caixa Econômica Federal (FGTS), durante a vigência do presente instrumento, é condição indispensável para liberação dos pagamentos ajustados. PARÁGRAFO TERCEIRO: No caso de incorreção nos documentos apresentados, inclusive nas Notas Fiscais, serão os mesmos devolvidos à CONTRATADA para as correções necessárias, não respondendo o CONTRATANTE por quaisquer encargos resultantes de atrasos na liquidação dos pagamentos correspondentes. PARÁGRAFO QUARTO: Os valores pagos à CONTRATADA não poderão ultrapassar, durante a vigência do contrato, o valor total de R$ XXXXXXXX. PARÁGRAFO QUINTO: O valor da prestação de serviços não sofrerá reajuste, salvo mudanças de valores de encargos estipuladas pelo Governo, devidamente comprovados. QUINTA: No valor descrito na Cláusula Quarta estão incluídas todas as despesas com material, deslocamento, locação, mão-de-obra, ferramentas, equipamentos auxiliares, seguros, taxas, impostos e contribuições de qualquer natureza ou espécie, salários, encargos sociais e quaisquer outros necessários à perfeita execução do objeto contratado. DAS RESPONSABILIDADES SEXTA: A CONTRATADA responderá por todas as obrigações sociais, fiscais, parafiscais, previdenciárias e trabalhistas e outras que incidam ou venham a incidir sobre este contrato, bem como sobre os serviços contratados com terceiros e sobre os contratos de trabalho que mantiver com seus empregados ou prepostos, incluídas as relativas a acidentes de trabalho. PARÁGRAFO PRIMEIRO: A CONTRATADA responderá ainda, civilmente, pelos atos praticados por seus empregados e prepostos, quando da execução dos serviços objeto deste instrumento,
+
+suportando os ônus decorrentes de quaisquer danos materiais e morais, por eles causados a bens e pessoas, sem prejuízo do direito de regresso. PARÁGRAFO SEGUNDO: A inadimplência da CONTRATADA, com referência aos encargos estabelecidos, não transfere ao CONTRATANTE a responsabilidade por seu pagamento, nem poderá onerar o objeto do contrato. PARÁGRAFO TERCEIRO: Caso o CONTRATANTE seja demandado como réu ou reclamada, em quaisquer ações judiciais ou administrativas que possam ocorrer em conseqüência da execução deste Contrato, em especial reclamatórias trabalhistas, solidariamente ou subsidiariamente, de empregados ou representantes, autônomos, prestadores de serviços e assemelhados, que prestem serviços para a CONTRATADA, fica esta obrigada a reembolsar ao CONTRATANTE, no prazo máximo de dez dias contados do trânsito em julgado da decisão condenatória, as despesas decorrentes da eventual condenação, custas, inclusive honorários periciais e advocatícios, com juros e correção monetária. DA CESSÃO, TRANSFERÊNCIA OU SUBCONTRATAÇÃO SÉTIMA: A CONTRATADA não poderá ceder, transferir ou subcontratar a execução de parte ou de todo o objeto deste contrato sem prévia e expressa autorização do CONTRATANTE. PARÁGRAFO ÚNICO: A transferência a terceiros não desonera a CONTRATADA da responsabilidade quanto às obrigações transferidas. DA VIGÊNCIA OITAVA: O presente contrato de prestação de serviços entra em vigor na data de sua assinatura e vigerá pelo período de 12 (doze) meses. DOS ADITAMENTOS NONA: O presente contrato poderá ser aditado, mediante acordo entre as partes, no caso de alteração e/ou prorrogação do prazo de vigência do mesmo, até atingir no máximo 60 (sessenta) meses. DA DENÚNCIA DÉCIMA: Fica facultado ao CONTRATANTE, o direito de denunciar este contrato, mediante aviso por escrito com 30 (trinta) dias de antecedência, salvaguardados os compromissos assumidos até a data da denúncia. DO ACOMPANHAMENTO DÉCIMA PRIMEIRA: O acompanhamento deste Contrato será realizado pela Gerência de XXXXX do CONTRATANTE, através de seu (ua) funcionário (a) XXXXX, Gestor (a) do Contrato, o (a) qual será responsável conforme IN 08 do CONTRATANTE, ou na falta deste (a) funcionário (a), por quem o CONTRATANTE indicar para cumprir a função. DAS SANÇÕES DÉCIMA SEGUNDA: Havendo atraso no cumprimento das obrigações assumidas, sem justificativas fundamentadas por escrito e aceitas pelo CONTRATANTE, a CONTRATADA estará sujeita as seguintes sanções:
+
+a) Advertência: poderá ser aplicada no caso de descumprimento parcial das obrigações e responsabilidade assumidas contratualmente, por culpa exclusiva da CONTRATADA. A advertência poderá, ainda, ser aplicada no caso de outras ocorrências que possam acarretar transtornos ao desenvolvimento dos serviços do CONTRATANTE, a critério da fiscalização do mesmo, desde que não caiba a aplicação de sanções mais graves. As sanções de advertencias poderão ser aplicadas conjuntamente com a sanção de multas. b) Multa: A não execução parcial ou total do objeto deste contrato, verificado o fato gerador devido à ação ou à omissão da CONTRATADA, relativamente às obrigações contratuais em questão, torna-o passível das penalidades previstas na legislação vigente e nas disposições previstas no contrato, até o limite de 9% (nove por cento), de acordo com os critérios exclusivos do CONTRATANTE, no tocante à majoração do percentual de multa a ser aplicada à CONTRATADA, garantido o direito ao contraditório. c) Extinção contratual e, sendo o caso, a conseqüente suspensão de participar de licitações; d) Declaração de inidoneidade para participar de licitações. PARÁGRAFO ÚNICO: As sanções de multa poderão ser aplicadas à CONTRATADA juntamente com a de advertência e suspensão do direito de licitar e contratar com o Sistema SEBRAE pelo prazo de até 02 (dois) anos, descontando-as do pagamento a ser efetuado. DÉCIMA TERCEIRA: O atraso ou descumprimento de qualquer obrigação contratual sem justificativa por escrito aceita pelo contratante, implicará na aplicação de multa correspondente a 0,3% (zero virgula três por cento) por dia de atraso ou ocorrência, conforme o caso, calculado sobre o valor total do contrato correspondente, observado o limi te de 9% (nove por cento). DÉCIMA QUARTA: Caso haja a desistência (total) da contratada na execução do serviço será cobrada uma multa indenizatória de 25% (vinte e cinco) por cento sobre o valor do contrato/Autorização de Fornecimento. A contratada estará notificada para fins de apresentação de justificativas, as quais deverão ser apresentadas dentro do prazo limite de 24 (vinte quatro) horas. DÉCIMA QUINTA: As multas e outras penalidades aplicáveis só poderão ser relevadas nos casos de força maior ou caso fortuito, devidamente comprovado, mediante decisão fundamentada. DAS DISPOSIÇÕES FINAIS DÉCIMA SEXTA: Pelo presente instrumento a CONTRATADA obriga-se a atender as disposições aqui constantes, bem como ao Anexo I do Edital de Pregão Eletrônico nº 23/SEBRAE/RS/2010, denominado Termo de Referência, e seus Apensos. DOS CASOS OMISSOS DÉCIMA SÉTIMA: Os casos omissos, quando não resolvidos de comum acordo entre os contratantes, serão regulados pelas disposições do direito comum e pelos princípios gerais de direito, restando sublinhado, expressamente, que o presente contrato é de natureza civil, não podendo ser invocada a aplicação de regras da legislação do trabalho, posto inocorrente vínculo desta natureza. DO FORO DÉCIMA OITAVA: Fica eleito o foro da comarca de Porto Alegre - RS, com renúncia expressa de qualquer outro por mais privilegiado que seja, para dirimir dúvidas oriundas da execução deste instrumento, quando não solucionadas na esfera administrativa das partes contratantes.
+
+E, por estarem assim justos e contratados assinam o presente instrumento em 02 (duas) vias de igual forma e teor, para um só efeito, na presença das testemunhas abaixo qualificadas. Porto Alegre, XXX de XXXXXXXXXXXXX de 2010. CONTRATADA XXXXXXXXXXXXXXXXX Testemunhas: 1)_________________________ Nome: CPF: CONTRATANTE XXXXXXXXXXXXXXXXXXXXX
+
+2)_________________________ Nome: CPF:
+
+ANEXO IV DECLARAÇÃO DE MENOR DE IDADE, PLENO CONHECIMENTO E ATENDIMENTO ÀS EXIGÊNCIAS DO PRESENTE EDITAL E SEUS ANEXOS. Ao SEBRAE/RS Prezados Senhores:
+
+A empresa XXXXXXXXXXXXXX, inscrita no CNPJ sob o n° XXXXXXXXXXXXXXXX, por meio de seu representante legal Senhor XXXXXXXXXXXXXXXXX, portador da Cédula de Identidade n° XXXXXXXXXXXXXXX, expedida pelo XXXXXXXXXXXXXXXXXXXXX, inscrito no CPF sob o n° XXXXXXXXXXXXXXXXXX, DECLARA, sob as penalidades da Lei, para fins de licitação, PREGÃO 023/2010: a) que recebeu e estudou todos os documentos inerentes à presente competição e tomado conhecimento integral do teor do edital de licitação supracitado, sujeitando-se às disposições nele contidas; b) que não emprega menor de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre e que não emprega menores de 16 (dezesseis) anos, salvo se na condição de aprendiz, a partir dos 14 (quatorze) anos; c) que na composição societária não existe participação de dirigentes ou empregados da Entidade promotora da licitação.
+
+Concorda e submete-se a todas e cada uma das condições impostas pelo referido Edital.
+
+Local, XXXXXXX de XXXXXXXXXXX de 2010. Atenciosamente,
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX Assinatura Representante Legal da Licitante
+
+APENSOS AO TERMO DE REFERÊNCIA (ANEXO I)
+
+Apenso I - Fluxo dos Processos de Implementação / Manutenção .................................................................................. 4 Apenso II ­ Fluxo do Processo de Desenvolvimento......................................................................................................... 9 Apenso III ­ Solicitação de Serviço .................................................................................................................................. 15 Apenso IV ­ Ordem de Serviço........................................................................................................................................ 18 Apenso V ­ Documento de Especificação Técnica.......................................................................................................... 21 Apenso VI ­ Documento de Caso de Uso........................................................................................................................ 25 Apenso VII ­ Cronograma................................................................................................................................................ 30 Apenso VIII ­ Relatório de Revisão / Homologação de Produtos ................................................................................... 32 Apenso IX ­ Relatório de Entrega de Construção ........................................................................................................... 34 Apenso X ­ Relatório de Resultados de Testes de Casos de Uso.................................................................................... 37 Apenso XI ­ Termo de Encerramento de Ordem de Serviço .......................................................................................... 40 Apenso XII ­ Termo de Encerramento de Solicitação de Serviço ................................................................................... 42 Apenso XIII ­ Documento de Visão do Projeto ............................................................................................................... 44 Apenso XIV ­ Cadastro de Requisitos ............................................................................................................................. 49 Apenso XV ­ Planilha de Cálculo de Pontos de Função .................................................................................................. 52 Apenso XVI ­ Modelo Físico do Sistema ......................................................................................................................... 54 Apenso XVII ­ Plano de Implantação .............................................................................................................................. 58 Apenso XVIII - Critérios para Faturamento ..................................................................................................................... 61
+
+Apenso I - Fluxo dos Processos de Implementação / Manutenção
+
+FLUXO DOS PROCESSOS DE IMPLEMENTAÇÃO / MANUTENÇÃO
+Este documento apresenta o processo de implementação de sistemas, compreendendo a Análise da Solicitação, Especificação do Sistema, Construção e Implementação, relacionados a implementação e/ou manutenção, descrevendo suas etapas, responsabilidades e artefatos a serem gerados, que deverão ser obedecidos na execução dos serviços a serem contratados.
+
+Processo de Implementação / Manutenção Etapa Descrição Prazo P1 ­ Solicitação Encaminhar a contratada a Solicitação de Não se aplica Serviço relacionando os serviços a serem de Serviço executados juntamente com a documentação técnica para avaliação (especificação técnica e caso de uso). Serão entregues os arquivos contendo o código fonte a ser alterado e protótipos de referência. Responsável SEBRAE/RS Produtos
+D1 Solicitação de Serviço D3 ­ Documento de Especificação Técnica D4 ­ Documento de caso de uso Código Fonte Protótipo D1 Solicitação de Serviço D5 Cronograma
+
+P2 ­ Análise da Estimar o esforço necessário para a realização Solicitação dos serviços avaliando a Solicitação de Serviço e preenchendo o Cronograma. Informar na Solicitação de Serviço a quantidade de pontos de função de transação, considerando o rateio de pontos de função de dados. P3 ­ Revisão / Homologação da Análise da Solicitação P4 - Construção Revisar/homologar a estimativa de esforço e o Cronograma. Após aprovação do da estimativa, deverá ser emitida Ordem de Serviço, autorizando a execução dos mesmos, modularizados ou não, a critério do SEBRAE/RS. Desenvolver a codificação dos casos de uso de acordo com a especificação definida. Os testes unitários deverão ser executados durante a codificação dos casos de uso. Realizar os testes de casos de uso correspondentes conforme especificado no documento de caso de uso. Em seguida, disponibilizar para o SEBRAE/RS os arquivos correspondentes aos códigos gerados nesta etapa juntamente com os resultados dos testes de casos de uso realizados.
+
+A ser CONTRATADA estipulado pelo SEBRAE/RS conforme complexidade da demanda Imediatamente SEBRAE/RS após a aprovação do relatório CONTRATADA Obedecer rigorosamente a data de entrega do serviço indicada na Ordem de Serviço
+
+D2 - Ordem de Serviço D6 - Relatório de Revisão / Homologação de Produtos D7 ­ Relatório de Entrega de Construção D8 - Relatório de Resultados de Testes de Casos de Uso Códigos de Casos de Uso / Classes D6 - Relatório de Revisão / Homologação de Produtos D9 - Termo de Encerramento de Ordem de Serviço D10 - Termo
+
+P5 ­ Revisão / Revisar / homologar os produtos gerados na Homologação etapa anterior. Havendo alguma incorreção ou da Construção inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão / Homologação de Produtos. Quando ocorrer a aceitação de todos os produtos, será emitido o Relatório de Revisão/Homologação de Produtos, o
+
+De acordo com SEBRAE/RS a complexidade do sistema
+
+Termo de Encerramento da Ordem de Serviço e, oportunamente, o Termo de Encerramento da Solicitação de Serviço quando todas as Ordens de Serviço correspondentes forem concluídas. A integração / implantação das manutenções será realizada pelo SEBRAE/RS a partir dos produtos de software entregues pela contratada e das orientações contidas no relatório de entrega de construção.
+
+de Encerramento de Solicitação de Serviço
+
+Apenso II ­ Fluxo do Processo de Desenvolvimento
+
+Fluxo do Processo de Desenvolvimento
+O processo de desenvolvimento compreende as fases de Definição de Requisitos, Ante Projeto, Especificação do Sistema, Construção e Implantação de sistemas como descrito a seguir, através da apresentação de suas etapas, responsabilidades e produtos a serem gerados, que deverão ser obedecidos na execução dos serviços a serem contratados.
+
+Processo de Desenvolvimento Etapa Descrição P1 ­ Solicitação Emitir a solicitação de serviço autorizando o de Serviço início da elaboração da Definição de Requisitos do Sistema. O documento de visão conterá as principais informações para entendimento do sistema a ser desenvolvimento e levantamento de requisitos. Prazo Responsável Produtos Conforme SEBRAE/RS e D1 - Solicitação de Serviço indicado na Cliente solicitação de D2 - Ordem de serviços Serviço emitida pelo D11 ­ Documento SEBRAE/RS
+de Visão do Projeto
+
+P2 ­ Definição Definir os requisitos do sistema que de Requisitos correspondem ao modelo proposto aprimorando o documento de visão e cadastrando todos os requisitos levantados no documento correspondente. Informar na Solicitação de Serviço a quantidade de pontos de função de transação, considerando o rateio de pontos de função de dados. Devolver a Ordem de Serviço.
+
+CONTRATADA Conforme definido na Solicitação de Serviço baseado no cronograma a ser aprovado
+
+D1 - Solicitação de Serviço D2 - Ordem de Serviço D5 ­ Cronograma D11 ­ Documento de Visão do Projeto D12 - Cadastro de Requisitos Protótipo Diagrama/Arquivos Case
+
+P3 ­ Revisão / Homologação da Definição de Requisitos
+
+P4 ­ Projeto
+
+Revisar / homologar os produtos gerados na etapa anterior. Havendo alguma incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão/Homologação de Produtos (Definição de Requisitos). Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão/Homologação de Produtos, bem como o Termo de Encerramento da Ordem de Serviço, que autoriza a Contratada a emitir a fatura correspondente ao serviço prestado. Emitir tantas Ordens de Serviço quantas forem necessárias para a execução das etapas seguintes visando a implementação de cada módulo do Sistema. Ante Elaborar o Ante Projeto do Sistema, apresentando as características lógicas do sistema proposto. Refazer o Cálculo de Pontos de Função anteriormente efetuado e o preenchimento do Cadastro de Requisitos, à luz do novo cálculo. Devolver a Ordem de
+
+Dependerá SEBRAE/RS da Cliente complexidade do sistema.
+
+e
+
+D2 - Ordem de Serviço D6 - Relatório de Revisão / Homologação de Produtos D9 - Termo de Encerramento de Ordem de Serviço
+
+A ser CONTRATADA estipulado pelo SEBRAE/RS em função da complexidade
+
+D2 - Ordem de serviço D5 ­ Cronograma D11 ­ Documento de Visão do
+
+Serviço com o documento de visão e do projeto. cronograma revisados, protótipos e diagramas e arquivos case de engenharia de software.
+
+Projeto D12 - Cadastro de Requisitos D13 - Planilha Cálculo Pontos de Função Protótipo Diagrama / Arquivos Case D6 - Relatório de Revisão / Homologação de Produtos
+
+P5 ­ Revisão / Revisar / homologar os produtos gerados Homologação na etapa anterior. Havendo alguma do Ante Projeto incorreção ou inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão/Homologação de Produtos. Quando ocorrer a aceitação de todos os produtos, será emitido o Relatório de Revisão/Homologação de Produtos, que autoriza o início da etapa seguinte. P6 ­ Elaborar a especificação do sistema Especificação apresentando suas características físicas e do Sistema lógicas. P7 ­ Revisão / Revisar / homologar os produtos gerados na Homologação etapa anterior. Havendo alguma incorreção ou da inconsistência, os produtos incorretos ou Especificação inconsistentes, deverão ser devolvidos à do Sistema Contratada para acerto, acompanhados do Relatório de Revisão/Homologação de Produtos. Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão/Homologação de Produtos bem como o Termo de Encerramento da Ordem de Serviço, que autoriza a Contratada a emitir a fatura correspondente ao serviço prestado. Emitir tantas Ordens de Serviço quantas forem necessárias, para a execução das etapas seguintes, visando a implementação de cada módulo do Sistema. P8 - Construção Elaborar a codificação e testes dos módulos definidos na etapa de Especificação do Sistema. Devolver a Ordem de Serviço.
+
+De acordo SEBRAE/RS com a complexidade do sistema
+
+Conforme cronograma
+
+CONTRATADA
+
+D14 - Modelo Físico do Sistema Casos de Uso
+
+Conforme SEBRAE/RS complexidade cliente do sistema
+
+e
+
+D2 - Ordem de Serviço D6 - Relatório de Revisão / Homologação de Produtos D9 - Termo de Encerramento de Ordem de Serviço
+
+Conforme cronograma
+
+CONTRATADA
+
+D2 - Ordem de Serviço D15 - Plano de Implantação Casos de Uso Códigos de Casos de Uso / Classes
+
+P9 ­ Revisão / Revisar / homologar os produtos gerados na Homologação etapa anterior. Havendo alguma incorreção ou da Construção inconsistência, os produtos incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão/Homologação de Produtos. Quando ocorrer a aceitação de todos os produtos, será emitido o Relatório de Revisão/Homologação de Produtos, que autoriza o início da Etapa seguinte. P10 - Implementar o Plano de Implantação. Implantação
+
+De acordo SEBRAE/RS com a Cliente complexidade do sistema
+
+e
+
+D6 - Relatório de Revisão / Homologação de Produtos
+
+Conforme cronograma
+
+CONTRATADA e
+
+Sistema em Produção D6 - Relatório de Revisão / Homologação de Produtos D9 - Termo de Encerramento de Ordem de Serviço D10 - Termo de Encerramento de Solicitação de Serviço
+
+SEBRAE/RS P11 - Revisão / Revisar / homologar os produtos gerados Conforme na etapa anterior. Havendo alguma complexidade Cliente Homologação da Implantação incorreção ou inconsistência, os produtos do projeto incorretos ou inconsistentes, deverão ser devolvidos à Contratada para acerto, acompanhados do Relatório de Revisão/Homologação de Produtos. Quando ocorrer a aceitação de todos os produtos relacionados na Ordem de Serviço, será emitido o Relatório de Revisão/Homologação de Produtos, bem como o Termo de Encerramento da Ordem de Serviço, que autoriza a Contratada a emitir a fatura correspondente ao serviço prestado. Ao término da última Ordem de Serviço relativa a implantação, estando todas elas devidamente homologadas, o SEBRAE/RS emitirá o Termo de Encerramento da Solicitação de Serviços, finalizando os serviços contratados para o projeto.
+
+Apenso III ­ Solicitação de Serviço
+
+SS_SiglaSistema_numero
+
+Projeto : Descrição:
+
+<Nome do projeto> <Descrição prévia da solicitação>
+
+Cód. Projeto :
+
+Tipo:
+
+<Tipo de solicitação> · Implementação / Manutenção · Desenvolvimento <Numero da solicitação de serviço>
+
+Nº da Sol. Serviço:
+
+Itens
+Código do Item <código do item> <código do item> <código do item> Nome do Item <Nome do item> <Nome do item> <Nome do item> Qtde. P. Função <Número de PFs> <Número de PFs> <Número de PFs>
+
+Total de Pontos de Função
+
+<Total de PFs
+
+Detalhes da Solicitação
+< informações complementares>
+
+Histórico de Alterações e Autorização:
+
+Versão
+
+Data
+
+Autor
+
+Descricão
+
+Assinatura
+
+1.0
+
+DD/MM/YYYY
+
+<Nome do autor da solicitação>
+
+<Descrição da alteração>
+
+Aceite do Fornecedor:
+
+Data
+
+Nome
+
+Cargo
+
+Assinatura
+
+Apenso IV ­ Ordem de Serviço
+
+OS_SiglaSistema_numero
+
+Projeto : Descrição:
+
+<Nome do projeto> <Descrição prévia da solicitação>
+
+Cód. Projeto :
+
+Tipo:
+
+<Tipo de solicitação> · Implementação / Manutenção · Desenvolvimento <Numero da solicitação de serviço> <Numero da ordem de serviço> DD.MM.YYYY DD.MM.YYYY
+
+Nº da Sol. Serviço: Nº da Ord. Serviço: Data da Emissão Data Prevista Entrega:
+
+Itens
+Código do Item <código do item> <código do item> <código do item> Nome do Item <Nome do item> <Nome do item> <Nome do item> Qtde. P. Função <Número de PFs> <Número de PFs> <Número de PFs>
+
+Total de Pontos de Função desta OS
+
+<Total de PFs
+
+Instruções Complementares
+< informações complementares>
+
+Histórico de Alterações e Autorização:
+
+Versão 1.0
+
+Data DD/MM/YYYY
+
+Autor <Nome do autor da solicitação>
+
+Descricão <Descrição da alteração>
+
+Assinatura
+
+Aceite do Fornecedor:
+
+Data
+
+Nome
+
+Cargo
+
+Assinatura
+
+Apenso V ­ Documento de Especificação Técnica
+
+ET_SiglaSistema_Nome
+
+Projeto: Descrição:
+
+<Nome do projeto> <Descrição prévia da solicitação>
+
+Casos de Referenciados:
+
+Uso <Lista dos casos de uso referenciados>
+
+Especificação Geral Sistema(s):
+<Nome dos sistemas> Menu: <caminho do menu >
+
+Fonte(s) no VSS :
+<$/DOTNET/Sistemas/Nome do sistema>
+
+Padrão de Desenvolvimento:
+$/DOTNET/Sistemas/Modelo/ Padrao_Desenvolvimento/ Padrão_Desenvolvimento_Software.doc.
+
+Especificação Caso de Uso XXXX Resumo Técnico:
+
+< descrição detalhada da solicitação >
+
+1. Layout
+<Descrição para criação do Layout da página ou alteração>
+
+<Especificação dos Campos>
+
+Nome Campo
+
+Tipo
+
+Tamanho
+
+Obrigatório
+
+OBS
+
+2. Classes
+< Informação para criação ou alteração das classes do sistema>
+
+3. Sps
+< Informações para criação ou alteração das classes que devem ser criadas ou alteradas>
+
+Objetos envolvidos:
+1. <caminho dos objetos envolvidos nesta solicitação> 2. <caminho dos objetos envolvidos nesta solicitação >
+
+Histórico de Alterações :
+
+Versão 1.0
+
+Data DD/MM/YYYY
+
+Autor <Nome do autor da solicitação>
+
+Descricão <Descrição da alteração>
+
+Apenso VI ­ Documento de Caso de Uso
+
+1. Informações Gerais:
+
+Projeto : Caso de Uso : Descrição: Sistema(s): ER no VSS:
+
+<Nome do projeto> <UC_siglaSistema_nome> <Descrição e o objetivo do caso de uso > <Nome do(s) sistema(s)> <\DOTNET\Sistemas\NomeSistema\Documentacao\ER>
+
+2.
+Usuários:
+
+Fluxos:
+Senha <senha do usuário de teste>
+
+Nome do usuário: <Nome do usuário de teste>
+
+UC 1 ­ Nome do fluxo principal> Fluxo Principal Ator Usuário 1 <ação que o usuário vai realizar> Exemplo: clicar no menu XXX. Sistema
+
+2
+
+<ação que o sistema deve executar> Exemplo: o sistema apresenta a tela XXX.
+
+3
+
+<ação que o usuário vai realizar> 4 <ação que o sistema deve executar>
+
+Obs.:
+
+UC 2 - Nome do Fluxo Alternativo Fluxo Alternativo Ator Usuário Sistema <colocar a partir de qual passo o fluxo alternativo inicia> Exemplo: executar UC 1 até o passo 03. <ação que o usuário vai realizar> 4 <ação que o sistema deve executar>
+
+3
+
+Fluxos de Exceção 1 Ator Usuário Sistema <colocar a partir de qual passo o fluxo alternativo inicia> Exemplo: executar UC 1 até o passo 03. <ação que o usuário vai realizar> 2 <ação que o sistema deve executar>
+
+1
+
+Regras de Negocio ( RNs )
+
+RN01 ­ <descrição da regra de negocio>
+
+RN02 ­ <descrição da regra de negocio>
+
+Lista de objetos envolvidos
+
+3. <caminho dos objetos envolvidos neste caso de uso> 4. <caminho dos objetos envolvidos neste caso de uso>
+
+3. Protótipos
+
+<telas de protótipo>
+
+4. Plano de Testes:
+
+Casos de Teste: (descrever um cenário para cada fluxo) Cenário X: 1.
+
+5. Contagem de Pontos de Função 1. Contagem de Funções de Transação
+
+Esta tabela permite registrar os elementos das funções de transação (EE, SE, CE) a partir dos Casos de Uso.
+
+Nº Fluxo 1 2 ... Gestão de cliente Pesquisa Cliente
+
+Tipo Fluxo Principal Subfluxo
+
+Função
+
+ALR
+
+DER
+
+EE
+
+1
+
+10
+
+ALR ­ Quantidade de arquivos lógicos referenciados DER ­ Quantidade de dados elementares referenciados Função ­ Tipo de função de transação (CE, EE, SE) Tipo ­ Fluxo Principal, Subfluxo, Fluxo Alternativo
+
+2. Contagem de Funções de Dados
+Esta tabela registra os elementos para cálculo das funções de dados (ALI ­ Arquivos Lógicos Internos e os AIE ­ Arquivos de Interface Externos)
+
+Nº Função de Dado 1 Cliente
+
+Classe Cliente Endereço
+
+ALR ALI
+
+RLR 2
+
+DER 10
+
+2 ...
+
+Usuário ...
+
+Usuário ...
+
+ALI ...
+
+1 ...
+
+4 ...
+
+ALR ­ Quantidade de arquivos lógicos referenciados RLR ­ Quantidade de Registros Lógicos referenciados DER ­ Quantidade de dados elementares referenciados
+
+6. Alterações:
+
+Histórico de Alterações :
+
+Versão 1.0
+
+Data DD/MM/YYYY
+
+Autor <Nome do autor do caso de uso>
+
+Descricão <Descrição da alteração>
+
+Solicitação <Nome da solicitação>
+
+Apenso VII ­ Cronograma
+
+Identificação Projeto: Solicitação de Serviço:
+<Nome do projeto> <Numero da SS>
+
+Ordens de Serviço:
+
+<Lista das OSs referenciadas>
+
+Itens
+Código do Item <código do item> <código do item> <código do item> Nome do Item <Nome do item> <Nome do item> <Nome do item> Qtde. P. Função <Número de PFs> <Número de PFs> <Número de PFs> Data Entrega
+
+Histórico de Alterações :
+Versão 1.0 Data DD/MM/YYYY Autor <Nome do autor da solicitação> Descricão <Descrição da alteração>
+
+Apenso VIII ­ Relatório de Revisão / Homologação de Produtos
+
+Identificação Projeto: Solicitação de Serviço:
+<Nome do projeto> <Numero da SS>
+
+Data:
+
+DD.MM.YYYY
+
+Identificação dos Produtos
+Código Nome Resultado
+
+Opções de avaliação: · · · Aceito (A); Aceito com ressalvas (AR); Devolvido para ajustes (DEV).
+
+Quando for o caso de Homologação do Ante Projeto, informar a quantidade de Pontos de Função passível de faturamento.
+
+Aceite:
+
+Data DD/MM/YYYY
+
+Aprovador
+
+Assinatura <Descrição da alteração>
+
+Apenso IX ­ Relatório de Entrega de Construção
+
+Identificação Projeto: Solicitação de Serviço:
+<Nome do projeto> <Numero da SS>
+
+Ordens de Serviço: Casos de Uso:
+
+<Lista das OSs referenciadas> <Lista dos UCs referenciados>
+
+Caso de Uso XXXX (repetir para cada UC)
+Lista de Fontes Alteradas
+
+Scripts para Bases de Dados
+
+Outras configurações
+
+Orientações para instalação / distribuição
+
+Responsável:
+
+Data DD/MM/YYYY
+
+Nome
+
+Assinatura
+
+Apenso X ­ Relatório de Resultados de Testes de Casos de Uso
+
+Identificação Projeto: Solicitação de Serviço:
+<Nome do projeto> <Numero da SS>
+
+Ordens de Serviço: Casos de Uso:
+
+<Lista das OSs referenciadas> <Lista dos UCs referenciados>
+
+Caso de Uso XXXX (repetir para cada UC)
+Sumário dos Resultados (fazer referência aos anexos)
+
+Avaliação
+
+Conclusão
+
+Responsável:
+Data DD/MM/YYYY Nome Assinatura
+
+1. Anexos
+
+Impressão das telas, relatórios e arquivos que comprovem a realização dos testes.
+
+Apenso XI ­ Termo de Encerramento de Ordem de Serviço
+
+Identificação Nº da Sol. Serviço: Nº da Ord. Serviço: Data da Emissão
+<Numero da solicitação de serviço> <Numero da ordem de serviço> DD.MM.YYYY
+
+Itens
+Código do UC Nome do Caso de Uso Nº do Rel. Qtde. Homologação Função P.
+
+Total de Pontos de Função desta OS
+
+<Total de PFs
+
+Termo de Encerramento: Declaro que os serviços constantes da Ordem de Serviço foram integralmente realizados e aceitos pelo Sebrae/RS conforme atestam os Relatórios de Revisão e Homologação de Produtos citados acima.
+
+Data
+
+Nome
+
+Cargo
+
+Assinatura
+
+Apenso XII ­ Termo de Encerramento de Solicitação de Serviço
+
+Identificação Nome do Projeto
+<Nome do Projeto>
+
+Itens
+Nº da SS Nº do Rel. Homologação
+
+Nº da OS
+
+Nº do Rel. Homologação
+
+Termo de Encerramento: Declaro que os serviços acima citados foram integralmente realizados e aceitos pelo Sebrae/RS conforme atestam os Relatórios de Revisão e Homologação de Produtos acima referenciados.
+
+Data
+
+Nome
+
+Cargo
+
+Assinatura
+
+Apenso XIII ­ Documento de Visão do Projeto
+
+<NOME DO PROJETO> Documento de Visão Versão: 1.00
+
+Responsabilidade
+Usuários envolvidos Usuário coordenador (Champion user): Demais usuários: Informática Informática/Desenvolvimento/Suporte:
+
+Documento de Visão
+1. Objetivo
+O propósito deste documento é coletar, analisar e definir as necessidades de alto-nível e características do sistema, focando nas potencialidades requeridas pelos afetados e usuáriosalvo, e como estes requisitos serão abordados no sistema. A Visão do projeto documenta o ambiente geral de processos a ser desenvolvido para o sistema, fornecendo a todos os envolvidos uma descrição compreensível deste e suas macrofuncionalidades.
+
+2. Posicionamento 1. Cenário 2. Oportunidade de Negócio 3. Descrição do Produto 4. Envolvimento 1. Abrangência
+
+2. Papel das Partes Interessadas
+
+<nome da parte interessada>
+Descrição Insumos ao Sistema Responsável
+
+3. Papel dos Atores
+
+<nome do ator >
+Descrição Insumos ao Sistema Responsável
+
+5. Necessidades e Funcionalidades
+Necessidade
+
+Id Func.
+F
+
+Descrição das Requisições/Atores Envolvidos
+
+Risco
+
+6. Restrições 1. Funcionais
+
+2. Tecnológicas
+
+3. Operacionais 7. Expectativa de Entrega do Produto
+
+8. Proposta de Solução Tecnológica Escolhida
+
+Apenso XIV ­ Cadastro de Requisitos
+
+1. Informações Gerais:
+
+Projeto : Descrição:
+
+<Nome do projeto> <Descrição e o objetivo do caso de uso >
+
+2. Contagem de Pontos de Função 1. Contagem de Funções de Transação
+Esta tabela permite registrar os elementos das funções de transação (EE, SE, CE) a partir dos Casos de Uso.
+
+Nº Fluxo 1 2 ... Gestão de cliente Pesquisa Cliente
+
+Tipo Fluxo Principal Subfluxo
+
+Função
+
+ALR
+
+DER
+
+EE
+
+1
+
+10
+
+ALR ­ Quantidade de arquivos lógicos referenciados DER ­ Quantidade de dados elementares referenciados Função ­ Tipo de função de transação (CE, EE, SE) Tipo ­ Fluxo Principal, Subfluxo, Fluxo Alternativo
+
+2. Contagem de Funções de Dados
+
+Esta tabela registra os elementos para cálculo das funções de dados (ALI ­ Arquivos Lógicos Internos e os AIE ­ Arquivos de Interface Externos)
+
+Nº Função de Dado 1 Cliente
+
+Classe Cliente Endereço
+
+ALR ALI
+
+RLR 2
+
+DER 10
+
+2 ...
+
+Usuário ...
+
+Usuário ...
+
+ALI ...
+
+1 ...
+
+4 ...
+
+ALR ­ Quantidade de arquivos lógicos referenciados RLR ­ Quantidade de Registros Lógicos referenciados DER ­ Quantidade de dados elementares referenciados
+
+3. Alterações:
+
+Histórico de Alterações :
+
+Versão 1.0
+
+Data
+
+Autor
+
+Assinatura
+
+Apenso XV ­ Planilha de Cálculo de Pontos de Função
+
+Projeto: Número da Solicitação: Responsável:
+
+Identificação da Contagem de Pontos de Função <Nome do Projeto> <Numero da Solicitacao de Serviço> <Nome do Responsável pela contagem> Função Tipo Transação: ALR 2
+
+ID
+
+Função 1 EE 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Descrição Exemplo
+
+DER
+
+Complexidade 10 MÉDIA
+
+PF 4
+
+Pontos de Função de Transação Funções de Armazenamento: RLR 2
+
+4
+
+ID
+
+Função 1 ALI 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Descrição Exemplo
+
+DER
+
+Complexidade 56 ALTA
+
+PF 15
+
+Pontos de Função de Armazenamento Características Gerais do Sistema Comunicação de Dados Processamento Distribuído Performance Configuração Altamente Utilizada Volume de Transações Entrada de Dados On-Line Eficiência do Usuário Final Atualização On-Line Processamento Complexo Re-usabilidade Facilidade de Instalação Facilidade de Operação Múltiplos Locais Modificação Facilitada Total dos Níveis de Influência (TDI) Valor do Fator de Ajuste (VAF) Variáveis da Contagem Final PF Não ajustados (UFB) PF Ajustados (PFA)
+
+15
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,65
+
+19 12,35
+
+Apenso XVI ­ Modelo Físico do Sistema
+
+<NOME DO PROJETO> Modelo Físico do Sistema Versão: 1.00
+
+Modelo Físico do Sistema
+1. Objetivo
+O propósito deste documento é documentar as características técnicas do sistema, focando no modelo arquitetônico para construção do mesmo com especificação, documentação, estruturação para sub-visualização e maior visualização lógica do desenvolvimento completo do sistema de informação. Todo o modelo físico deve ser representado em UML (Unified Modeling Language).
+
+2. Comportamento 1. Lista de Casos de Uso 2. Diagrama de Classes de Uso
+Descreve a funcionalidade proposta para um novo sistema, que será projetado. Um Caso de Uso é um documento narrativo que descreve a sequência de eventos de um ator que usa um sistema para completar um processo. O diagrama de casos de uso corresponde a uma visão externa do sistema e representa graficamente os atores, os casos de uso, e os relacionamentos entre estes elementos. Ele têm como objetivo ilustrar em um nível alto de abstração quais elementos externos interagem com que funcionalidades do sistema, ou seja, a finalidade de um Diagrama de Caso de Uso é apresentar um tipo de diagrama de contexto que apresenta os elementos externos de um sistema e as maneiras segundo as quais eles as utilizam.
+
+3. Estrutura 1. Lista de Classes 2. Diagrama de Classes
+Diagrama de classes é a representação da estrutura e relações das classes que servem de modelo para objetos.
+
+3. Diagrama de Componentes
+Ilustra como as classes deverão se encontrar organizadas através da noção de componentes de trabalho. Por exemplo, pode-se explicitar, para cada componente, qual das classes que ele representa.
+
+4. Interação 1. Diagrama de Sequência
+Representando a sequência de processos (mais especificamente, de mensagens passadas entre objetos). O diagrama de sequência dá ênfase a ordenação temporal em que as
+
+mensagens são trocadas entre os objetos de um sistema. Entende-se por mensagens os serviços solicitados de um objeto a outro, e as respostas desenvolvidas para as solicitações.
+
+Apenso XVII ­ Plano de Implantação
+
+<NOME DO PROJETO> Plano de Implantação do Sistema Versão: 1.00
+
+Plano de Implantação do Sistema
+1. Objetivo
+O propósito deste documento é documentar os passos e orientações necessárias para a distribuição do sistema considerando os arquivos-fonte, as configurações das bases de dados, arquivos de configuração, servidores de aplicação, servidores de componentes, servidores de dados e configurações nas máquinas cliente.
+
+2. Estrutura de Instalação 1. Diagrama de Instalação
+Descreve os componentes de hardware e software e sua interação com outros elementos de suporte ao processamento. Representa a configuração e a arquitetura de um sistema em que estarão ligados seus respectivos componentes, sendo representado pela arquitetura física de hardware, processadores etc.
+
+3. Elementos de Instalação 1. Arquivos-Fonte 2. Scripts de Bases de Dados 4. Orientações de Instalação 1. Descrição passo-a-passo
+Passo 1 Passo 2.
+
+Apenso XVIII - Critérios para Faturamento
+
+1. Critérios para Faturamento pela CONTRATADA
+Faturamento de Serviços Medidos em Pontos de Função
+
+1. Processo de Implementação / Manutenção
+1.1 - O documento que servirá de base para o faturamento de pontos de função será o Termo de Encerramento de Ordem de Serviço . Neste documento estão citados os valores relativos aos pontos de função correspondentes aos serviços homologados pelo SEBRAE/RS, observado o critério abaixo: VALOR FATURADO = VALOR PF CONTRATADO * QTD. TOTAL PF DO TEOS (Apenso XI)
+
+2. Processo de Desenvolvimento
+Cada projeto é coberto globalmente por uma Solicitação de Serviços e concluído por um Termo de Encerramento da Solicitação de Serviços. As fases de cada projeto são cobertas por Ordens de Serviço e concluídas por Termos de Encerramento das Ordens de Serviço. Os marcos de faturamento de serviços medidos em pontos de função ( PF ) ocorrem nos seguintes pontos: · · · ao término da fase de Definição de Requisitos ( item 2.1 ) ao término da fase de Especificação de cada Módulo ( item 2.2 ) ao término da fase de Implantação de cada Módulo ( item 2.3 )
+
+2.1 - O Termo de Encerramento da Ordem de Serviço correspondente à etapa ( P3 ) de revisão e homologação da Definição de Requisitos autoriza o faturamento pela Contratada dos serviços aprovados pelo SEBRAE/RS, observado o critério abaixo: Valor Faturado = Valor PF contratado * Quantidade PF aprovada para o total do Projeto * 0,10 A quantidade de pontos de função aprovada na etapa P3 está registrada no Termo de Encerramento da Ordem de Serviço referente à Definição de Requisitos, fase cujo escopo é a íntegra do projeto. 2.2 - O Termo de Encerramento da Ordem de Serviço correspondente à etapa ( P7 ) de revisão e homologação do conjunto Anteprojeto e Especificação de cada Módulo autoriza o faturamento pela Contratada dos serviços aprovados pelo SEBRAE/RS, observado o critério abaixo: Valor Faturado = Valor PF contratado * Quantidade PF aprovada para o total do Módulo * 0,30 A quantidade de pontos de função aprovada na etapa P5 para cada Módulo está registrada no Termo de Encerramento da Ordem de Serviço referente ao Anteprojeto e Especificação, fases cujo escopo é o Módulo e não a íntegra do projeto.
+
+2.3 - O Termo de Encerramento da Ordem de Serviço correspondente à etapa ( P11 ) de revisão e homologação do conjunto Construção e Implantação de cada Módulo autoriza o faturamento pela Contratada dos serviços aprovados pelo SEBRAE/RS, observado o critério abaixo: Se não for o último módulo do projeto, Valor Faturado = Valor PF contratado * Quantidade PF aprovada para o total do Módulo * 0,60 Se for o último módulo do projeto , Valor Faturado = Valor PF contratado * Somatório das quantidades PF aprovadas para todos os Módulos - Somatório dos valores já faturados nas Ordens de Serviço anteriores. A quantidade de pontos de função aprovada para cada Módulo está registrada no Termo de Encerramento da Ordem de Serviço referente à Construção e Implantação, fases cujo escopo é o Módulo e não a íntegra do projeto.
+
+2. Ordens de Serviço e Faturamento (Apenso XVIII)
+
+

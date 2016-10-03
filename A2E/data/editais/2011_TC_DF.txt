@@ -1,0 +1,485 @@
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 1 de 23
+
+Proc. 31540/2010
+Rubrica
+
+TRIBUNAL DE CONTAS DO DISTRITO FEDERAL DIRETORIA-GERAL DE ADMINISTRAÇÃO PREGÃO Nº 12/2011
+TIPO: Menor Preço REGIME: Empreitada por Preço Global REGIDO PELAS LEIS Nºs 8.666/93 e alterações posteriores, LC nº 123/06, 10.520/02, Decretos Distritais nos 23.460/02 e 32.218/10, e Decreto Federal nº 7.174/10, no que couber, e demais legislações aplicáveis. o PROCESSO N 31.540/2010 ESTIMATIVA: R$ 251.436,00 (12 meses) DATA DO RECEBIMENTO DA PROPOSTA DE PREÇOS: 14/03/2011 HORÁRIO DE INÍCIO: 15:00 horas LOCAL DA REUNIÃO: Seção de Licitação e Contrato, 3º Andar do Edifício Anexo. 1.1 A presente licitação tem como objeto a contratação de empresa especializada na linguagem .NET, banco de dados textual LightBase e repositório de documentos Goldendoc para prestação de serviço de manutenção no Sistema de Normas Jurídicas do Distrito Federal SINJ-DF e dos softwares que compõem a plataforma de desenvolvimento da solução: GoldenDoc, LightBase, GoldenIndex e GoldenAccess, em conformidade com os Anexos I a III. CAPÍTULO II - DAS LICITANTES 2.1 Somente poderão apresentar propostas as empresas legalmente estabelecidas, especializadas no ramo e que satisfaçam as condições deste Edital e seus anexos. 2.2 Não poderão participar desta licitação consórcio de empresas, qualquer que seja sua forma de constituição e empresas que, por qualquer motivo, tenham sido declaradas inidôneas para licitar ou contratar com a Administração Pública ou suspensas temporariamente pelo TCDF ou ainda impedidas de licitar com o GDF, nos termos do art. 7º da Lei nº 10.520/02. CAPÍTULO III ­ DO CREDENCIAMENTO DOS REPRESENTANTES Até a abertura da sessão, as licitantes interessadas deverão credenciar representante. Para o credenciamento deverão ser observadas as seguintes regras: a) local: Seção de Licitação e Contrato, localizada no 3º andar do Ed. Anexo do TCDF; b) data/horário: dia 14/03/2011, das 14 horas até a abertura da sessão; c) entrega dos seguintes documentos: c.1) da empresa licitante previstos no art. 28, II, III e IV da Lei nº 8.666/93; c.2) de credenciamento outorgado pelo licitante, no qual sejam indicados os poderes para: c.2.1) gerenciar a empresa;ou c.2.2) representar a empresa licitante em licitações, formular propostas, lances e recorrer; c.3) que nos termos da Lei seja suficiente para comprovar a identidade do credenciado; c.4) declaração dando ciência de que cumprem plenamente os requisitos de habilitação; c.5) que comprovem a condição de microempresa ou empresa de pequeno porte, se for o caso, de forma a beneficiar-se do disposto no art. 43 da lei complementar nº 123/2006; c.6) que comprovem o atendimento aos requisitos estabelecidos nos incisos I, II e III do art. 5º do Decreto Federal nº 7.174/2010, recepcionado pelo Decreto Distrital nº 32.218/2010, se for o caso; d) as decisões pertinentes a credenciamento serão da competência do pregoeiro, que as motivará na ata, imediatamente após a abertura da sessão; e) as decisões pertinentes a credenciamento somente serão passíveis de recurso, após a declaração do vencedor, nos termos do art. 4º, XVIII, a Lei nº 10.520/02; f) acolhido o recurso, importará na invalidação apenas dos atos insuscetíveis de aproveitamento; 3.3 O credenciamento far-se-á por meio de instrumento público de procuração ou instrumento particular com firma reconhecida. Em sendo sócio, proprietário, dirigente ou assemelhado da 3.1 3.2
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+CAPÍTULO I - DO OBJETO
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 2 de 23
+
+Proc. 31540/2010
+Rubrica
+
+empresa proponente, é suficiente a apresentação de cópia do respectivo estatuto ou contrato social, no qual estejam expressos seus poderes para exercer direitos e assumir obrigações em decorrência de tal investidura. 3.4 Os documentos necessários ao credenciamento de licitantes poderão ser entregues, por meio de original, por qualquer processo de cópia autenticada por cartório competente ou por servidor da Administração ou publicação em órgão da imprensa oficial, na forma do art. 32 da Lei nº 8.666/93. As autenticações de cópias de documentos para a participação do certame poderão ser realizadas, a partir do dia seguinte à publicação do Edital, de modo a não atrasar a abertura da sessão pública. 3.5 No caso de suspensão da sessão por qualquer motivo, as licitantes presentes e representadas na sessão inicial poderão apresentar novo credenciamento de representante nos mesmos moldes desse Capítulo quando da sua reabertura. CAPÍTULO IV ­ DA SESSÃO PÚBLICA DO PREGÃO 4.1 A reunião para recebimento e abertura dos envelopes contendo a Proposta de Preço e documentos de habilitação, será pública, dirigida por um Pregoeiro, na data, local e horário indicados neste edital. 4.2 Após a abertura da sessão pelo pregoeiro, não mais serão admitidos novos proponentes. 4.3 Aberta a sessão pelo pregoeiro, serão prestados os esclarecimentos sobre a condução do certame, e os interessados ou seus representantes entregarão os envelopes de proposta de preços e de documentos de habilitação, em envelopes lacrados, contendo em suas partes externas e frontais, em caracteres destacados, os seguintes dizeres: Tribunal de Contas do Distrito Federal Razão Social da Empresa Envelope Nº 01 ­ Proposta de Preço Tribunal de Contas do Distrito Federal Razão Social da Empresa Envelope Nº 02- Documentos de Habilitação 4.4 Em seguida, proceder-se-á a imediata abertura e à verificação da conformidade das propostas com os requisitos estabelecidos no instrumento convocatório. 4.5 As propostas que atenderem aos requisitos do edital, no exame de conformidade, serão selecionadas para a fase subsequente. 4.6 Havendo mais de uma proposta selecionada, o pregoeiro passará à fase de lances, observando-se o seguinte: a) os lances deverão ser distintos, sucessivos e decrescentes; b) o pregoeiro poderá estabelecer, no início dessa fase, o intervalo mínimo entre os lances; c) necessitando o credenciado de consulta à empresa, o pregoeiro decidirá à respeito; d) o uso de telefone celular e outros aparelhos de comunicação para consulta terá tempo limitado de uso e é de exclusiva responsabilidade e ônus dos licitantes. 4.7 Na fase de lances, o autor da proposta com oferta de valor mais baixo e os das ofertas com preços até 10% (dez por cento) superiores àquela poderão fazer novos lances verbais e sucessivos, até a proclamação do vencedor. 4.8 Não havendo pelo menos 3 (três) ofertas nas condições definidas no inciso anterior, poderão os autores das melhores propostas, até o máximo de 3 (três), oferecer novos lances verbais e sucessivos, quaisquer que sejam os preços oferecidos. 4.9 Não cabe desistência de proposta após a abertura do envelope, nem retratação ou desistência de lances após o registro pelo pregoeiro. 4.10 Para julgamento e classificação das propostas, será adotado o critério de menor valor global, observados os prazos máximos para fornecimento, as especificações técnicas e parâmetros mínimos de desempenho e qualidade definidos no edital. 4.11 Examinada a proposta classificada em primeiro lugar, quanto ao objeto e valor, caberá ao pregoeiro decidir motivadamente a respeito de sua aceitabilidade. 4.12 Encerrada a etapa competitiva e ordenadas as ofertas, o pregoeiro procederá à abertura do invólucro contendo os documentos de habilitação do licitante que apresentou a melhor proposta, para verificação do atendimento das condições fixadas no edital, observado o disposto nos arts. 44 e 45 da Lei Complementar n° 123/2006 e no art. 8o do Decreto Federal nº 7.174/2010. 4.13 A habilitação far-se-á com a comprovação de que atende às exigências do Edital, Capítulo VI.
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 3 de 23
+
+Proc. 31540/2010
+Rubrica
+
+4.14 Verificado o atendimento das exigências fixadas no Edital, o licitante será declarado vencedor. 4.15 Se a oferta não for aceitável ou se o licitante não atender às exigências habilitatórias, o pregoeiro examinará as ofertas subsequentes e a qualificação dos licitantes, na ordem de classificação, e assim sucessivamente, até a apuração de uma que atenda ao edital, sendo o respectivo licitante declarado vencedor. 4.16 Nas situações previstas nos itens 4.11 e 4.15, o pregoeiro poderá negociar diretamente com o proponente para que seja obtido preço melhor. 4.17 Da reunião lavrar-se-á ata circunstanciada assinada pelo Pregoeiro e licitantes presentes. 4.18 Verificando-se, no curso da análise, o descumprimento de requisitos estabelecidos neste edital e seus anexos, a proposta será desclassificada. 4.19 O pregoeiro, na fase de julgamento, poderá promover quaisquer diligências julgadas necessárias à análise das propostas e da documentação, devendo os licitantes atender às solicitações no prazo por ele estipulado, contado do recebimento da convocação. CAPÍTULO V - DAS PROPOSTAS DE PREÇOS A proposta, sob pena de desclassificação, deverá: a) ser datilografada ou impressa, sem emenda ou rasura, datada e assinada e, preferencialmente, em duas vias; b) apresentar especificação clara e detalhada dos serviços; c) conter preço mensal e global, em moeda nacional, em algarismo e, preferencialmente, por extenso, em conformidade com o Anexo II; d) indicar prazo de validade da proposta de, no mínimo, 60 (sessenta) dias corridos, contados a partir da entrega do envelope; e) opcionalmente, conter endereço, CNPJ, nº telefone e do fax, e-mail da empresa e de um preposto, bem como o nº do banco, da agência e da conta para efeito de emissão de Nota de Empenho e posterior pagamento. 5.2 O preço cotado deve incluir todos os tributos, taxas, encargos sociais, fretes, embalagens, seguros e quaisquer outras despesas que incidam sobre o objeto desta licitação. 5.3 No caso de discordância entre o preço unitário e o total, prevalecerá o primeiro; ocorrendo discordância entre o valor em algarismo e por extenso, prevalecerá este último. 5.4 Se a proposta for omissa quanto ao prazo estabelecido na alínea "d" deste Capítulo, o prazo ali mencionado será considerado como se nela constasse, não sendo, portanto, motivo de desclassificação da licitante. 5.5 A cotação apresentada e levada em conta, para efeito de julgamento, será de exclusiva e total responsabilidade da licitante, não lhe cabendo o direito de pleitear qualquer alteração. 5.6 Caso a contratada não cumpra as obrigações previstas neste ato convocatório ou outras por ela ofertadas estará sujeita às penalidades previstas no Capítulo XIV. 5.1 CAPÍTULO VI - DA HABILITAÇÃO 6.1 Para participar da presente licitação, o licitante deverá apresentar, em plena validade, os seguintes documentos: a) Certidão Negativa de Débitos (CND) para com a Previdência Social, expedida pelo INSS, para contratação com o serviço público; b) Certificado de Regularidade do FGTS, expedido pela CEF; c) Certidão Negativa de Débitos, emitida pela Secretaria da Fazenda e Planejamento do GDF, em plena validade, para empresas com estabelecimento no Distrito Federal. Para empresas sem matriz ou filial no DF, apresentar prova de regularidade com a Fazenda Estadual e Municipal de seu domicílio ou sede, somente para os tributos relativos à atividade licitada, nos termos do art. 193 do Código Tributário Nacional; d) ATESTADO(S) DE CAPACIDADE TÉCNICA ou certidão(ões), que comprove(m) ter a empresa ou seus responsáveis técnicos, executado para órgão ou entidade da administração pública direta ou indireta, federal, estadual, municipal ou do DF, ou ainda, para empresas privadas, serviços no qual se tenha utilizado as tecnologias constantes dos Requisitos Técnicos Obrigatórios, constantes das especificações técnicas do Termo de Referência (Anexo I);
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 4 de 23
+
+Proc. 31540/2010
+Rubrica
+
+e) declaração de que a licitante possuirá em seu quadro permanente, na data da celebração do contrato, profissional(is), com capacitação técnica para execução dos serviços, detentores de ATESTADO(S) DE CAPACIDADE TÉCNICA ou certidão(ões) citados na alínea anterior, e que atendam especificações técnicas do Termo de Referência (Anexo I);. A comprovação do vínculo do profissional com a empresa deverá ser feita na forma do disposto no item 6.2; 6.2 A comprovação de vinculação do profissional detentor do acervo técnico deverá atender os seguintes requisitos: a) Sócio - cópia autenticada do contrato social ou estatuto social, devidamente registrado no órgão competente; b) Diretor - cópia autenticada do contrato social em se tratando de firma individual ou limitada ou cópia da ata de eleição devidamente publicada na imprensa, em se tratando de sociedade anônima; c) Empregado - cópia autenticada da ficha ou livro de registro de empregado registrada na DRT, ou ainda, cópia autenticada da Carteira de Trabalho e Previdência Social. d) Autônomo prestador de serviço - cópia autenticada do contrato de prestação de serviços compatíveis com o objeto desta licitação; 6.3 Os documentos necessários para a habilitação poderão ser apresentados em original, cópia autenticada por cartório competente, por servidor da Administração, publicação em órgão da imprensa oficial, ou pela Internet, nos casos em que o órgão responsável pela emissão do documento disponibilizar sua consulta. A verificação em sítios oficiais de órgãos e entidades emissores de certidões constitui meio legal de prova. 6.4 A não apresentação dos documentos constantes das letras "a" a "c" do item 6.1, não implicará em inabilitação do licitante, salvo se não houver possibilidade de consulta dos documentos, via Internet. 6.5 Estará sujeito às penalidades dispostas no art. 7º da Lei 10.520/02, o licitante que: a) deixar de entregar documentação exigida para o certame; ou b) apresentar documentação falsa. 6.6 As microempresas e empresas de pequeno porte, que comprovarem esta condição, poderão fazer uso do benefício previsto no art. 43 da Lei Complementar nº 123/2006. CAPÍTULO VII- DA IMPUGNAÇÃO E RECURSO 7.1 Até 2 (dois) dias úteis antes da data fixada para recebimento das propostas, qualquer pessoa poderá solicitar esclarecimentos ou impugnar o ato convocatório do pregão. Na contagem de prazos o deve ser observado o disposto no art. 110 da Lei n 8.666/93. 7.2 A apresentação de impugnação contra o presente edital será processada e julgada na forma e nos prazos previstos no art. 11 do Decreto Distrital nº 23.460/2002, devendo ser entregue na Seção de Protocolo e Arquivo (SPA), no Térreo do Edifício Anexo do TCDF. 7.3 Acolhida a petição contra o ato convocatório, será designada nova data para a realização do certame. 7.4 A entrega da proposta, sem que tenha sido tempestivamente impugnado o presente edital, implicará na plena aceitação, por parte dos interessados, das condições nele estabelecidas. 7.5 As impugnações dos licitantes contra atos dos seus concorrentes somente poderão ser formuladas durante a reunião de realização do certame. 7.6 A impugnação de interessados contra as ofertas e os documentos apresentados pelos licitantes deverá ser feita nessa reunião, exclusivamente pelas pessoas credenciadas para representar as empresas em nome das quais pretendam registrar as impugnações. 7.7 Dos atos do pregoeiro neste processo licitatório cabe recurso, a ser interposto no final da sessão pública, com registro em ata da síntese das suas razões e contrarrazões, podendo os interessados juntar memoriais no prazo de 3 (três) dias úteis. 7.8 O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 7.9 Se não reconsiderar sua decisão o pregoeiro submeterá o recurso, devidamente informado, à consideração da autoridade competente, que proferirá decisão definitiva antes da homologação do procedimento. 7.10 Os pedidos de esclarecimentos, memoriais dos recursos e contrarrazões deverão dar entrada na Seção de Protocolo e Arquivo (SPA), no Térreo do Edifício Anexo do TCDF.
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 5 de 23
+
+Proc. 31540/2010
+Rubrica
+
+7.11 Os autos permanecerão com vista franqueada aos interessados na Seção de Licitação e Contrato do TCDF. CAPÍTULO VIII - DO CONTRATO 8.1 O Contrato obedecerá ao disposto neste Edital e às normas contidas no Capítulo III da Lei nº 8.666/93, e deverá ser assinado pela empresa vencedora no prazo de 5 (cinco) dias úteis, contados da data da convocação, podendo este prazo ser prorrogado uma vez, por igual período, de acordo com o § 1º do art. 64 da Lei nº 8.666/93. 8.2 Quando a licitante vencedora não assinar o Termo de Contrato no prazo e condições estabelecidos no item 8.1, o Contratante poderá convocar as licitantes remanescentes, na ordem de classificação, ou revogar a licitação. 8.3 É vedada a subcontratação, cessão ou transferência parcial ou total do objeto deste edital, sem a anuência prévia do contratante. 8.4 O Contrato a ser assinado subordina-se à minuta contida no Anexo III deste Edital. 8.5 A execução dos serviços deverá ter início imediatamente após o recebimento da ordem de serviço. CAPÍTULO IX - DA VIGÊNCIA DO CONTRATO 9.1 O prazo de vigência do contrato será de 12 (doze) meses, contados de sua assinatura, prorrogável por igual período, caso haja interesse da Administração, até o limite máximo de 48 (quarenta e oito) meses, desde que mantidas as mesmas condições exigidas na habilitação, sendo seu extrato publicado no DODF, a expensas do Contratante CAPÍTULO X - DO RECEBIMENTO DO OBJETO 9.1 O objeto da licitação será recebido pela Divisão de Tecnologia da Informação do TCDF, por servidor designado pela Administração, da seguinte forma: I - Provisoriamente, por meio de termo próprio, para efeito de posterior verificação da conformidade do objeto com a especificação; e II - Definitivamente, após verificação da qualidade e consequente aceitação dos serviços prestados. CAPÍTULO XI - DO PAGAMENTO 11.1 Mensalmente, ocorrendo o adimplemento da obrigação contratual, a Contratada protocolizará junto ao Contratante Nota Fiscal que, após a devida atestação e regular liquidação, será objeto de pagamento a ser processado no prazo de até 10 (dez) dias úteis, mediante Ordem Bancária creditada em conta corrente indicada pela Contratada. 11.2 Para que seja efetivado o pagamento deverá ser verificada a regularidade da empresa perante a SEF/DF. Nesse sentido, é necessária a apresentação da Certidão Negativa de Débitos (cópia autenticada em cartório ou acompanhada da original), emitida pela Secretaria de Fazenda/DF, em plena validade, caso a apresentada na habilitação esteja vencida. 11.3 Havendo erro no documento de cobrança, ou outra circunstância que impeça a liquidação da despesa, a mesma ficará pendente e o pagamento sustado até que a Contratada providencie as medidas saneadoras necessárias, não ocorrendo, neste caso, quaisquer ônus por parte do Contratante. 11.4 Se, por qualquer motivo alheio à vontade do Contratante, for paralisada a prestação dos serviços, o período correspondente não gerará obrigação de pagamento. 11.5 Caso o Contratante não cumpra o prazo estipulado no item 11.1, pagará à Contratada atualização financeira de acordo com a variação do IGP-DI da Fundação Getúlio Vargas, proporcionalmente aos dias de atraso. 11.6 - Nenhum pagamento será feito à Contratada, caso os serviços sejam rejeitados pela fiscalização do contrato, devendo esses ser refeitos pela Contratada de modo a obter a aprovação da fiscalização; 11.7 Se a Contratada for optante pelo Simples Nacional, essa condição deverá ser informada na Nota Fiscal/Fatura, sob pena de ter retido na fonte os tributos incidentes sobre a operação, relacionados no art. 13 da Lei Complementar n° 123/2006.
+
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 6 de 23
+
+Proc. 31540/2010
+Rubrica
+
+CAPÍTULO XII ­ DO REAJUSTE DE PREÇOS 12.1 O valor contratado poderá ser reajustado anualmente, pela variação acumulada do INPC, ou outro índice que vier a substituí-lo, ocorrida no período compreendido entre a data da entrega da proposta e a data de aniversário de apresentação da proposta, e será calculado mediante aplicação da seguinte fórmula:
+
+ I - I0  R = V  1   I0 
+onde: R = valor do reajustamento; V = valor do contrato; I1 = nº índice do INPC relativo a data em que o contrato completar aniversário da apresentação da proposta; I0 = nº índice do INPC relativo a data de entrega da proposta; 12.2 Para cálculo de I1, será aplicada a seguinte fórmula:
+
+ I - IA I1 = I A + d 1   B   D1 
+onde: I1 = nº índice do INPC relativo a data em que o contrato completar aniversário da apresentação da proposta; IA = nº índice do INPC do mês anterior ao reajuste; IB = nº índice do INPC do mês em que ocorrer o reajuste; d1 = nº de dias decorridos entre o início do mês do reajustamento e a data de aniversário da apresentação da proposta; D1 = nº de dias corridos do mês do reajustamento. Para cálculo do I0, será aplicada a seguinte fórmula:
+
+12.3
+
+ I - IC  I0 = IC + d 0   D  D0  
+onde: I0 = nº índice do INPC relativo a data de entrega da proposta; IC = nº índice do INPC do mês anterior ao da entrega da proposta; ID = nº índice do INPC do mês da entrega da proposta; d0 = nº de dias decorridos entre o início do mês da entrega da proposta e a data de sua entrega; D0 = nº de dias corridos do mês da entrega da proposta. 12.4 Enquanto não for divulgado o número índice correspondente ao mês do reajustamento, reajuste será calculado de acordo com o último nº índice conhecido, cabendo, quando publicado número definitivo, a correção dos cálculos e o respectivo faturamento complementar. Caberá Contratada efetuar o cálculo do reajuste e apresentar a respectiva memória ou planilha junto com correspondente Nota Fiscal. 12.5 A periodicidade prevista neste capítulo poderá ser reduzida por legislação superveniente. o o à a
+
+CAPÍTULO XIII - DAS PENALIDADES 13.1 O atraso injustificado na execução do serviço sujeitará o contratado à multa de mora, de acordo com os seguintes percentuais, garantida prévia defesa: a) de 0,3% (três décimos por cento) ao dia, sobre o valor executado/fornecido, quando o Contratado, sem justa causa, cumprir a obrigação assumida com atraso até 30 (trinta) dias após o prazo estabelecido no edital; b) de 0,7% (sete décimos por cento) ao dia, sobre o valor executado/fornecido, quando o Contratado, sem justa causa, cumprir a obrigação assumida, com atraso superior a 30
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 7 de 23
+
+Proc. 31540/2010
+Rubrica
+
+(trinta) dias do prazo estabelecido. Este percentual incidirá apenas sobre o período que exceder ao trigésimo dia de atraso; c) as multas previstas neste item serão calculadas considerando-se os dias consecutivos, a partir do dia útil imediatamente subsequente ao do vencimento; d) no caso de multa moratória, será observado o limite mínimo de R$ 100,00 (cem reais) para sua cobrança, exceto quando for necessária, além da referida multa, a aplicação de uma das penalidades prevista no art. 87 da Lei nº 8.666/93; e) o valor da multa de mora limitar-se-á a 15% (quinze por cento) do valor do fornecimento/serviço. 13.2 Pela Inexecução total ou parcial do contrato o TCDF poderá, garantida a prévia defesa, aplicar ao contratado as seguintes sanções: I - Advertência; II - Multa: a) de 15% (quinze por cento), sobre o valor total do Contrato, e cancelamento da Nota de Empenho, quando decorridos 30 (trinta) dias de inadimplemento total e caracterizada a recusa ou impossibilidade do Contratado em prestar o serviço contratado; b) de 5% (cinco por cento) sobre o valor total do Contrato, quando o adjudicatário recusar retirar ou aceitar o instrumento de contrato ou equivalente, caracterizando o descumprimento total da obrigação assumida na forma do art. 81 da Lei nº 8.666/93; c) de 10% (dez por cento) sobre o valor não executado, após o término do prazo de execução do contrato ou sua rescisão, por ter o Contratado cumprido apenas parcialmente o serviço. Parágrafo Único - A multa prevista na alínea "a", deste item, incidirá ainda nos casos em que o Contratado, sem motivo de força maior ou caso fortuito devidamente comprovado, solicitar o cancelamento da Nota de Empenho. III - Suspensão do direito de participar de licitações com a administração pelo prazo de até 2 (dois) anos; e IV - Declaração de inidoneidade para licitar ou contratar com a Administração Pública. 13.3 As sanções previstas nos incisos III e IV poderão também ser aplicadas ao Adjudicatário que: a) tenha sofrido condenação definitiva por praticar, por meios dolosos, fraude fiscal no recolhimento de quaisquer tributos; b) tenha praticado atos ilícitos visando frustrar os objetivos da licitação; c) demonstre não possuir idoneidade para contratar com a Administração em virtude de atos ilícitos praticados. 13.4 As sanções previstas nos incisos I, III e IV do item 13.2 poderão ser aplicadas juntamente com a do inciso II do mesmo item, facultada a defesa prévia do interessado, no respectivo processo, no prazo de 5 (cinco) dias úteis, e serão aplicadas pela Autoridade Competente. 13.5 As multas tratadas nesse Capítulo serão descontadas do pagamento eventualmente devido pela Administração ou na impossibilidade de ser feito o desconto, recolhidas pela Adjudicatária mediante depósito em conta corrente do TCDF ou, quando for o caso, cobrada judicialmente. CAPÍTULO XIV - DA FISCALIZAÇÃO 14.1 A execução dos serviços será acompanhada e fiscalizada por executor do contrato, especialmente designado, que anotará em registro próprio todas as ocorrências, determinando o que for necessário à regularização das faltas ou defeitos observados, além das atribuições contidas nas Normas de Execução Orçamentária e Financeira. 14.2 A Contratada deverá manter preposto, aceito pelo Contratante, durante o período de vigência do Contrato, para representá-la sempre que for necessário. CAPÍTULO XV - DAS DISPOSIÇÕES GERAIS 15.1 São partes integrantes do Edital o Anexo I (Termo de Referência), o Anexo II (Modelo de Planilha de Formação de Preços) e o Anexo III (Minuta de Contrato). 15.2 O Contratante reserva-se no direito de revogar ou anular este Pregão, assim como alterar seus quantitativos na forma dos arts. 49 e 65 da Lei nº 8.666/93. 15.3 Independente de declaração expressa, a simples participação nesta licitação implica a aceitação das condições estipuladas no presente Edital e submissão total às normas nele contidas. 15.4 Se no dia fixado no preâmbulo não houver expediente, este Pregão será realizado no primeiro dia útil subsequente.
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 8 de 23
+
+Proc. 31540/2010
+Rubrica
+
+15.5 Fica eleito o foro de Brasília, Distrito Federal, para dirimir eventuais dúvidas relativas ao cumprimento do ajuste. 15.6 A Seção de Licitação e Contrato não realizará serviço reprográfico de documentos necessários à participação dos licitantes no certame. 15.7 Em caso de dúvida é conveniente o comparecimento do interessado à Seção de Licitação e Contrato deste Tribunal, localizada no 3º Andar do Edifício Anexo, fones 3314-2149/3314-2147, fax 3314-2219, das 13h às 18h30min, para obtenção dos esclarecimentos que julgar necessários. 15.8 O esclarecimento de dúvidas de ordem técnica poderá ser realizado na Divisão de Tecnologia da Informação, situada no 1º Andar do Edifício Anexo do TCDF, Praça do Buriti/DF, ou pelo telefone (61) 3314-2236, no horário das 13h às 18h30min. Brasília - DF, em 22 de fevereiro de 2011
+
+Wildson Prado Oliveira Pregoeiro
+
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 9 de 23
+
+Proc. 31540/2010
+Rubrica
+
+ANEXO I TERMO DE REFERÊNCIA
+
+PREGÃO Nº 12/2011
+
+1.
+
+Objeto
+
+1.1 Contratação de empresa especializada na linguagem .NET, banco de dados textual LightBase e repositório de documentos Goldendoc para prestação de serviço de manutenção no SISTEMA INTEGRADO DE NORMAS JURÍDICAS DO DISTRITO FEDERAL SINJ-DF e dos softwares que compõem a plataforma de desenvolvimento da solução: GoldenDoc, LightBase, GoldenIndex e GoldenAccess.
+
+2.
+
+Justificativa
+
+2.1 Com a descontinuidade do Sistema de Informações do Congresso Nacional, o registro, o controle e a pesquisa de legislação no âmbito do DF ficaram consideravelmente prejudicados. Para suprir a lacuna deixada pela ausência desse sistema, foi criado grupo de trabalho, composto por servidores da Câmara Legislativa do Distrito Federal, da Secretaria de Estado de Planejamento e Gestão do Distrito Federal, do Tribunal de Contas do Distrito Federal e da Procuradoria Geral do Distrito Federal, com o objetivo de realizar estudos e indicação de providências para obtenção de solução conjunta. 2.2 Dos estudos realizados pelo Grupo de Trabalho restou definido o Sistema Integrado de Normas Jurídicas do Distrito Federal ­ SINJ-DF. Em setembro de 2008, o Tribunal de Contas do DF contratou o desenvolvimento do Sistema na plataforma .NET e banco de dados LightBase. 2.3 O desenvolvimento do SINJ-DF foi concluído em abril/2010. O ingresso em produção coincidiu com o término da vigência do contrato. Assim, faz-se necessária, neste momento, adoção de medida que garanta a continuidade e evolução do sistema. 2.4 2.5 2.6 2.7 2.8 2.9 Como mantenedores das informações do SINJ-DF, participam os seguintes órgãos: CLDF - Câmara Legislativa do Distrito Federal. SEPLAG - Secretaria de Estado de Planejamento, Orçamento e Gestão do Distrito Federal. TCDF - Tribunal de Contas do Distrito Federal. PGDF - Procuradoria Geral do Distrito Federal. Competências normativas
+
+2.9.1 As normas regimentais de cada um dos órgãos descrevem as competências de cada qual, com relação à compilação e disponibilização ao público em geral das normas jurídicas do Distrito Federal. 2.9.2 Por dispositivo constitucional (CF/1988, art. 32 e Lei Orgânica do Distrito Federal artigos 14 ao 17), a Câmara Legislativa do Distrito Federal - CLDF tem a atribuição de zelar pela sua competência legislativa, e por dispositivo regimental obriga-se ao controle, organização, indexação e disseminação da Lei Orgânica do Distrito Federal, emendas à Lei Orgânica do Distrito Federal, leis ordinárias e complementares, decretos legislativos, resoluções, portarias e demais atos normativos necessários à sua organização e funcionamento; 2.9.3 À Secretaria de Estado de Planejamento, Orçamento e Gestão - SEPLAG, do Governo do Distrito Federal, conforme Portaria nº 41 de 2004, cabe referenciar, indexar, recuperar e disseminar a informação sobre legislação, normas e atos oficiais da Administração Pública; 2.9.4 Ao Tribunal de Contas do Distrito Federal - TCDF, de acordo com a Resolução nº 38 de 1990, compete o controle, organização, indexação e disseminação do Regimento Interno, emendas regimentais, resoluções, portarias, instruções, procedimentos, ordens de serviço, decisões normativas, decisões, súmulas e demais atos normativos emanados pelo Tribunal.
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 10 de 23
+
+Proc. 31540/2010
+Rubrica
+
+2.9.5 À Procuradoria Geral do Distrito Federal - PGDF, de acordo com a Lei complementar nº 395 de 2001, cabe promover a unificação da jurisprudência administrativa e a consolidação da legislação do Distrito Federal. Órgão Atos Normativos Ata, Ato Conjunto, Ata da Mesa Diretora, Decisão, Decreto Lei, Decreto Legislativo, Emenda à Lei Orgânica, Lei, Lei Complementar, Lei Orgânica, Mensagem do Governador, Portaria, Portaria Conjunta, Portaria Normativa e Resolução. ADC - Ação direta de constitucionalidade, ADI ­ Ação direta de inconstitucionalidade, ADO ­ Ação direta de inconstitucionalidade por omissão, ADPF ­ Ação de arguição de descumprimento de preceito fundamental, AIL ­ Arguição incidental de inconstitucionalidade, Ato regimental, Instrução de serviço, Instrução normativa, Ordem de serviço, Parecer, Parecer normativo, Portaria, Portaria conjunta, Provimento, Resolução, Resolução normativa, Súmula, Súmula administrativa, Termo aditivo, Parecer, Ação, Portaria, e Ação Direta de Inconstitucionalidade. Ata, Aviso, Contrato, Decisão, Decreto Executivo, Estatuto, Instrução, Instrução de Serviço, Instrução de Serviço Conjunta, Instrução Normativa, Ordem de Serviço, Ordem de Serviço Conjunta, Plano, Portaria, Portaria Conjunta, Portaria Normativa, Regimento, Regimento Interno, Regulamento, Resolução, Resolução Administrativa, Resolução Normativa. Decisão Normativa, Emenda Regimental, Instrução, Instrução Normativa, Ordem de Serviço, Portaria, Resolução, Decisão, Parecer, Ata.
+
+CLDF
+
+PGDF
+
+SEPLAG
+
+TCDF
+
+2.9.6 A interpretação conjunta dos dispositivos acima revela certa interseção de competências, sobretudo quando se coteja as atribuídas à CLDF, SEPLAG e PGDF. Daí a conveniência da reunião dos quatro órgãos no sentido de se alcançar plena eficácia no atendimento da finalidade buscada: amplo acesso às normas do Distrito Federal a todos os usuários. 2.10 Cenário Atual 2.10.1 O SINJ-DF, atualmente com 407 pontos de função (PF), provê o controle de atos normativos do Distrito Federal, que permitam a racionalização dos meios de informação com o objetivo de disseminar a legislação do Distrito Federal a todos os servidores que delas dependem para o exercício eficiente de suas atribuições, promovendo a melhoria contínua da qualidade na gestão pública, bem como ao público em geral, como garantia de sua cidadania. 2.10.2 O sistema desempenha as seguintes atividades: a) Registra, controla, organiza, indexa e dissemina as Normas Jurídicas emanadas pelos poderes Executivo e Legislativo do Distrito Federal e pelo Tribunal de Contas do Distrito Federal, resultando na ampla visibilidade das normas distritais ao público em geral. b) Acompanha a evolução e o histórico da legislação, de forma precisa e confiável. c) Implanta uma base de dados que organiza, controla e acompanha a evolução das normas jurídicas e atos normativos de interesse do Governo e da população do Distrito Federal, além dos atos administrativos referentes à organização e funcionamento dos órgãos do Distrito Federal. d) Disponibiliza interface de consulta intuitiva para vários perfis de usuários, inclusive os treinados para sua alimentação e utilização intensiva.
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 11 de 23
+
+Proc. 31540/2010
+Rubrica
+
+e) Utiliza uma base de sinônimos e termos autorizados (Vocabulário controlado Thesaurus) na montagem das pesquisas, e na alimentação das chaves do campo "Indexação". f) Cria arquivo virtual dos documentos inseridos, permitindo consulta pelo texto de seu conteúdo. g) Destaca o argumento da pesquisa. h) Cadastra normas com um grupo mínimo de informações, levando em consideração que os tipos de normas estão agrupados, e que cada grupo tem variações quanto ao que se considera como grupo mínimo de informações, além de outras regras de validações e campos para informações adicionais. i) Localiza normas pendentes de preenchimento de informações que estão definidas como relevantes, mas que não fazem parte do grupo mínimo necessário para confirmação do cadastro. (ex.: campo Indexação). j) Marca e localiza posteriormente as normas que o usuário precisa de uma revisão apurada dos dados cadastrados. k) Emite relatórios gerenciais para elaboração de demonstrativos. l) Disponibiliza, ao público em geral, informações atualizadas dos atos normativos que compõe seu escopo, além de exibir essas informações de maneira completa e integrada. m) Arquiva em formato digital, todas as versões publicadas de uma norma. n) Arquiva uma versão final consolidada da norma, versão esta que será tratada pelo usuário levando em consideração os ajustes das republicações e as alterações de efeito lançadas em Vides (lista de normas com vínculo de relacionamento a norma corrente) . o) Permite visualização simplificada e rápida do resultado de uma pesquisa, mostrando várias normas de forma sequencial, inclusive com todos os dados das normas. p) Disponibiliza as informações de Vides (lista de normas com vínculo de relacionamento a norma corrente) em ambas as normas que possuem um relacionamento de vínculo, inclusive permitindo o trânsito entre as normas. q) Permite o cadastrado de Vides de forma simplificada, inclusive direto como parte final do cadastro de novas normas. r) Disponibiliza os dados de Vides de forma clara, destacando o tipo de relacionamento entre as normas, e a forma como as normas envolvidas têm seus efeitos alterados ou regulamentados. s) Indexa todos os arquivos digitais anexados de forma inteligente, afim de impedir que grandes arquivos possam comprometer a utilização eficiente do sistema. Este tipo de problema ocorre com destaque nos arquivos de DODF "Diário Oficial do DF". Estes arquivos de DODF devem ter sua indexação em baixa prioridade. 2.10.3 A contratação de serviços técnicos de manutenção se faz necessária para assegurar a plena disponibilidade de uso, bem como a sua continuidade funcional, buscando aperfeiçoamento de requisitos não contemplados na versão implantada, novas funcionalidades requeridas pelos usuários, identificados no uso diário, além da atualização da plataforma de desenvolvimento e versão do sistema.
+
+3.
+3.1
+
+Especificações técnicas
+CONHECIMENTOS TÉCNICOS EXIGIDOS
+
+3.1.1 Os serviços de manutenção exigem os conhecimentos técnicos nas tecnologias e perfis profissionais descritos a seguir:
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 12 de 23
+
+Proc. 31540/2010
+Rubrica
+
+3.1.1.1 Requisitos Técnicos Obrigatórios a) Plataforma .NET b) c) d) e) f) g) h) i) Repositório de documentos Goldendoc; Banco de dados textual LightBase; Motor (engine) de indexação GoldenIndex; Ferramenta de gerenciamento de acessos GoldenAccess ; Estação de trabalho Windows; Servidor Windows Server; Servidor IIS - Internet Information Server; Internet Explorer 7.0 ou superior e Mozilla Firefox 3.5 ou superior.
+
+3.1.1.1.1 A empresa deve comprovar capacidade técnica na execução dos serviços, usando as tecnologias constantes destes Requisitos Técnicos Obrigatórios por intermédio de atestados emitidos por entidade pública ou privada.
+
+3.1.1.2 PERFIS DE PROFISSIONAIS PARA A EXECUÇÃO DOS SERVIÇOS 3.1.1.2.1 Perfil do Coordenador de Projeto 3.1.1.2.1.1 Profissional com visão ampla de Tecnologia da Informação e Gerência de Projetos, possuindo a seguinte qualificação mínima: a) Formação de nível superior, desejável curso de pós-graduação e/ou de especialização; b) Experiência de, no mínimo, 5 (cinco) anos em atividade na área de Tecnologia de Informação; 3.1.1.2.2 Perfil do Administrador de Banco de Dados 3.1.1.2.2.1 Profissional com visão ampla de administração de banco de dados, possuindo a seguinte qualificação mínima: a) Formação de nível superior, desejável curso de pós-graduação e/ou de especialização; b) Experiência de, no mínimo, 5 (cinco) anos em atividade na área de Administração de Banco de Dados, com uso do banco textual LightBase e seus módulos GoldenDoc, GoldenIndex e GoldenAccess; 3.1.1.2.3 Perfil do Programador 3.1.1.2.3.1 Profissionais com ampla visão de especificações de software, desenvolvimento de sua estrutura lógica, codificação, teste e depuração e elaboração de sua documentação, possuindo a seguinte qualificação mínima: a) Formação de nível superior concluído; b) Experiência de, no mínimo, 02 (dois) anos exercendo atividades relativas ao desenvolvimento de sistemas utilizando o banco textual LightBase e seus módulos GoldenDoc, GoldenIndex e GoldenAccess; 3.1.1.2.4 Perfil dos Analistas de Sistemas 3.1.1.2.4.1 Profissionais com ampla visão de análise lógica e modelagem para desenvolvimento de sistemas possuindo a seguinte qualificação mínima: a) Formação de nível superior na área de ciências exatas, tecnologia ou administração;
+
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 13 de 23
+
+Proc. 31540/2010
+Rubrica
+
+3.2 DO SERVIÇO 3.2.1 Os serviços técnicos de suporte e manutenção, listados abaixo, contemplam atendimento a todos os órgãos do convênio, a saber: SEPLAG, TCDF, CLDF e PGDF. 3.2.2 Todos os serviços serão executados com recursos de hardware e software da Contratada/Contratante e realizados mediante prévia definição do escopo do sistema aplicativo a ser desenvolvido ou mantido, dimensionamento e definição do perfil da equipe técnica a ser alocada, definição da plataforma tecnológica a ser utilizada e definição de cronogramas e prazos de entrega, a serem estabelecidos em conjunto, de acordo com as peculiaridades de cada sistema ou aplicativo. 3.2.3 Todas as licenças dos softwares de terceiros, objeto dos serviços fornecidos, serão de propriedade da Contratante ao término da vigência do contrato. 3.2.4 Todos os produtos do desenvolvimento serão de propriedade da Contratante.
+
+3.2.5 Além da atualização da versão do software Banco de Dados Textual ­ LightBase, os serviços devem contemplar atendimento telefônico ou pela Internet, aos técnicos responsáveis pela administração do sistema. O suporte contempla ainda: a) b) c) d) 3.3 Esclarecimento de dúvidas técnicas por telefone ou Internet; Suporte telefônico aos administradores do SINJ-DF; Averiguação e correções de erros e imprecisões de rotinas; Adequação do sistema às novas versões do sistema operacional (Windows) e browsers. DOS SERVIÇOS DE SUPORTE
+
+3.3.1 Entende­se por serviço de suporte o atendimento por telefone, e-mail, internet ou in loco, aos técnicos responsáveis pela administração do SINJ-DF, na busca de soluções de problemas que possam ocasionar o impedimento de uso do sistema, tais como: inconsistência na instalação; esclarecimento de dúvidas; averiguação e correções de erros e imprecisões de rotinas; e adequação dos sistemas às novas versões do sistema operacional e browsers, conflitos de DLLs, configurações de rede, IP e domínio, etc. 3.3.2 Incluem-se nos serviços de suporte os procedimentos destinados a eliminar defeitos nas tecnologias de base utilizadas como plataforma de desenvolvimento do SINJ: LightBase, Goldendoc, GoldenIndex e GoldenAccess. 3.3.3 O Tribunal pagará mensalmente até 100% de valor equivalente à disponibilidade de um profissional (perfil analista de sistema) alocado em tempo integral à manutenção do SINJ-DF, durante a vigência do contrato, para garantia de estabilidade dos serviços. Embora o valor de referência diga respeito ao perfil analista de sistema, não se trata de locação de pessoal, a equipe deve ser composta dos perfis profissionais indicados no item "PERFIS PROFISSIONAIS PARA EXECUÇÃO DOS SERVIÇOS" acima. A melhor composição para formação do valor da proposta para participação no certame fica a critério da licitante, que deve considerar os riscos na formação desse custo de acordo com as especificidades das atividades e das exigências do edital. 3.3.4 Identificada a ocorrência de incidente que impeça o funcionamento normal do sistema, será realizada abertura de chamado técnico por parte da Contratante, com a finalidade de retornar as condições de uso. Os chamados técnicos via telefone serão realizados no horário comercial: de 8 às 12h e das 14 às 18h, em dias úteis. Alternativamente, os chamados poderão ser realizados por mensagem eletrônica (e-mail), sendo que, neste caso, será considerado como horário de abertura do chamado o início do próximo turno do expediente comercial subsequente ao horário de envio da mensagem. 3.3.5 A contratada deverá observar os níveis mínimos de serviço (NMS) exigidos para disponibilidade do SINJ-DF. O sistema deverá apresentar disponibilidade mínima de 98% no mês, considerando-se o tempo referencial de acesso de 12 horas por dia (das 8 às 20h), 30 dias por mês, num total de 360 horas/mês. O referencial 30 dias/ mês será considerado para todos os meses,
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 14 de 23
+
+Proc. 31540/2010
+Rubrica
+
+independente da quantidade real de dias do mês. Dessa forma, será admitida indisponibilidade do sistema por, no máximo, 8 horas/mês (8 ÷ 360  2%), no período de 8 às 20 horas, sem prejuízo do pagamento mensal do suporte. 3.3.6 Paralisações no sistema, contabilizadas cumulativamente, contadas a partir da abertura de chamado, provocarão desconto no pagamento mensal do suporte conforme a tabela a seguir: Paralisação no SINJ-DF até 8 horas/mês até 16 horas/mês até 24 horas/mês até 32 horas/mês até 40 horas/mês até 80 horas/mês acima de 80 horas/mês disponibilidade 98% 96% 94% 92% 90% 80% fator de redução 0 0,1 0,2 0,4 0,6 0,8 0,9 pagamento mensal suporte 100% 90% 80% 60% 40% 20% 10%
+
+3.3.7 A ocorrência de paralisações no sistema superiores a 5 dias corridos e sucessivos sujeita a contratada, além da aplicação do redutor de faturamento, às sanções previstas no Capítulo XIII do Edital, considerando-se como "valor executado/fornecido" o valor integral previsto para o suporte do sistema, e como data de início para contagem da inadimplência no serviço, o 6º dia em que se o sistema apresentou-se indisponível. 3.3.8 São consideradas paralisações do sistema, para efeito de aplicação do fator redutor acima, os registros de chamados referentes a problemas que impedem o funcionamento do sistema, no todo ou em parte. 3.3.9 A contratada deverá apresentar mensalmente, juntamente com a nota fiscal/fatura, o relatório de disponibilidade do sistema listando os registros de chamados ocorridos no mês, com descrição do fato, data e hora de registro e tempo de atendimento. O executor do contrato deverá manter em registro próprio o acompanhamento dos chamados para fins de atesto do faturamento mensal. 3.4 DOS SERVIÇOS DE MANUTENÇÃO
+
+3.4.1 Entende-se por serviço de manutenção do SINJ/DF as atividades necessárias a inclusão, alteração ou exclusão de funcionalidades do sistema, incluindo as fases de levantamento, análise de requisitos, construção, teste, implantação e documentação. 3.4.2 Este serviço será executado somente quando solicitado pelo TCDF, por meio de OS ­ Ordem de Serviço. Neste caso, a cada demanda ou solicitação, a contratada retornará documento especificando o grau de dificuldade, o tempo necessário à execução do serviço e a contagem em Pontos de Função (PF) relativa à manutenção a ser realizada para fins de previsão de pagamento. Após análise de viabilidade, considerando a contagem de PF efetuada, o TCDF autorizará a execução dos serviços. 3.4.3 Para efeito de faturamento, será considerado valor diferenciado do ponto de função de acordo com o tipo de manutenção realizada no sistema, utilizando-se o seguinte redutor: Atividade Inclusão de funcionalidade Alteração de funcionalidade Exclusão de funcionalidade redutor 0 0,4 0,7 valor do PF 100% 60% 30%
+
+Obs: Entende-se como funcionalidade um comportamento ou uma ação para a qual possa ser visualizado um início e um fim; isto é: algo passível de execução.
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 15 de 23
+
+Proc. 31540/2010
+Rubrica
+
+As execuções de uma funcionalidade podem ser identificadas em termos de entrada e saída de entidades específicas ou de atributos pertencentes a entidades específicas. Por exemplo, a execução simples de uma funcionalidade chamada "Receber Pedido" lida com a entrada de uma certa informação sobre um particular documento e resulta na criação de uma instância da entidade "Pedido". Funcionalidades podem ser levantadas pela análise do ciclo de vida do negócio e do ciclo de vida das entidades, dentro do escopo do desenvolvimento de um projeto (por exemplo, produtos, ordens e fornecedores), identificando, então, as atividades necessárias para a criação e gerenciamento do negócio e as entidades manipuladas por estes. Fonte: http://pt.wikipedia.org/wiki/Funcionalidade (consulta em 30.nov.2010) 3.4.4 A contratada implementará as novas versões do sistema, resultado da manutenção realizada, em datas a serem estipuladas previamente e de comum acordo com o TCDF. Após a implementação de nova versão do sistema, a contratada apresentará a contagem de PF de todo o sistema visando atualizar o histórico de evolução do tamanho do Sistema (baseline). 3.4.5 A implantação de novas versões do software deverá ser primeiramente homologada em ambiente de testes e depois ser efetivada no ambiente de produção. 3.4.6 O faturamento de serviços de manutenção deverá ser realizado após a conclusão e implantação das atividades previstas na Ordem de Serviço que gerou a solicitação. Atrasos na entrega dos serviços sujeitam a contratada às penalidades previstas no Capítulo XIII do Edital.
+
+4.
+
+Prazo, local e condições de entrega ou execução
+
+4.1 Os serviços serão executados nas instalações da Contratada ou da Contratante, dependendo da atividade em execução. 4.2 A contratante designará servidor para acompanhamento e fiscalização dos serviços objeto do contrato a ser celebrado. 4.3 O servidor designado emitirá OS - Ordem de Serviço e anotará em registro próprio todas as ocorrências relacionadas com a execução dos serviços objeto do contrato, determinando o que for necessário à regularização das faltas ou defeitos observados. 4.5 As decisões e providências que porventura ultrapassem a competência do servidor designado para fiscalização dos serviços deverão ser solicitadas aos seus superiores, em tempo hábil, para a adoção das medidas necessárias. 4.6 A fiscalização exercida pela contratante não excluirá ou reduzirá a responsabilidade da contratada pela completa e perfeita execução dos serviços. 4.7 O prazo de vigência do contrato será de 12 (doze) meses, podendo ser prorrogado por sucessivos e iguais períodos, em conformidade com a legislação vigente.
+
+5.
+
+Obrigações da contratante
+
+5.1 Permitir acesso dos empregados da empresa que vier a ser contratada às suas dependências para execução dos serviços referentes ao objeto do Contrato, sempre que necessário; 5.2 Prestar as informações e os esclarecimentos que venham a ser solicitados pelos empregados da empresa que vier a ser contratada; 5.3 Fiscalizar o cumprimento das obrigações a serem assumidas pela empresa que vier a ser contratada para a execução dos serviços objeto desta licitação; 5.4 Tornar disponível as instalações e os equipamentos necessários à prestação dos serviços, quando for o caso;
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 16 de 23
+
+Proc. 31540/2010
+Rubrica
+
+5.5 Efetuar o pagamento dos serviços nas condições e preços pactuados no contrato, e de acordo com as normas orçamentárias em vigor.
+
+6.
+
+Obrigações da contratada
+
+6.1 Responder, em relação aos seus empregados, por todas as despesas decorrentes da execução dos serviços, tais como: salários, seguros incidentes, taxas, impostos e contribuições, indenizações, vales-refeições, vales-transportes e outras que porventura venham a ser criadas e exigidas pelo Governo. 6.2 Responder pelos danos causados diretamente à contratante ou a terceiros, decorrentes de sua culpa ou dolo, quando da execução dos serviços; 6.3 Arcar com despesas decorrentes de qualquer infração, seja qual for, desde que praticada por seus técnicos durante a execução dos serviços, ainda que no recinto da contratante. 6.4 Repassar à contratante, durante o período de vigência do contrato que vier a ser celebrado, todos os preços e vantagens ofertadas no mercado, inclusive os de horário reduzido, sempre que esses forem mais vantajosos do que os ofertados na licitação; 6.5 Prestar os serviços dentro dos parâmetros e rotinas estabelecidos, em observância às normas legais e regulamentares aplicáveis e às recomendações aceitas pela boa técnica; 6.6 Manter sigilo absoluto sobre todas as informações provenientes dos serviços realizados.
+
+6.7 Os produtos resultantes desta prestação de serviços (Projetos, Sistemas, Programas Fontes, Bases de Dados, Arquivos, Interfaces, drivers, Documentos e outros correlatos) serão de propriedade exclusiva do TCDF e deverão ser entregues ao final do contrato ou, a qualquer tempo, em até 5 (cinco) dias úteis após solicitação da Contratante.
+
+7.
+
+Valores referenciais
+
+7.1 Ficam estabelecidos, em conformidade com o art.40, inc. X, da Lei no 8.666/93, os seguintes valores máximos para aceitação de proposta: ITEM 1 DESCRIÇÃO Quantidade 12 meses 240 pontos de função Valor Unitário (R$) 9.770,40 559,13 Valor Total (R$) 117.244,80 134.191,20 251.436,00
+
+Suporte e garantia Serviço de manutenção (sujeita a 2 emissão de Ordem de Serviço) Valor total máximo do Contrato
+
+8
+
+Condições gerais
+
+8.1 Os profissionais e prepostos da Contratada não terão qualquer vínculo empregatício com a Contratante, correndo por conta exclusiva da primeira, todas as obrigações decorrentes da legislação trabalhista, previdenciária, infortunística do trabalho, fiscal, comercial e outras correlatas, as quais a Contratada se obriga a saldar na época devida.
+
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 17 de 23
+
+Proc. 31540/2010
+Rubrica
+
+8.2 A Contratada deverá manter vínculo empregatício com todos os profissionais alocados aos serviços descritos neste Projeto Básico, de forma a garantir que estes atendam devidamente aos requisitos do mesmo. 8.3 A contratada deverá informar à contratante, no ato da assinatura do contrato, o nome e o número do telefone, para possíveis contatos, da pessoa que ficará responsável pelo atendimento a contratante.
+
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 18 de 23
+
+Proc. 31540/2010
+Rubrica
+
+ANEXO II MODELO DE PLANILHA DE FORMAÇÃO DE PREÇOS 1. O TCDF pagará à contratada somente os serviços efetivamente realizados e apurados a cada mês, não sendo devido o pagamento de quaisquer valores a título de franquia ou de garantia de execução de valores mínimos. ITEM DESCRIÇÃO Quantidade Valor Valor Unitário (R$) Total (R$)
+
+PREGÃO Nº 12/2011
+
+Suporte e garantia de funcionamento das tecnologias utilizadas na solução, com disponibilização de novas versões, durante a vigência do Contrato: - Banco de dados textual LightBase; 12 meses 1 - Repositório de documentos Goldendoc; - Motor de indexação Golden Index. - Ferramenta de gerenciamento de acessos GoldenAccess Manutenção nas funcionalidades do SINJ240 pontos de 2 DF (em .NET) (sujeita a emissão de Ordem função de Serviço) Valor total do Contrato Valor total do contrato por extenso: Validade da Proposta:
+
+___________________________________________ (local e data) _______________________________________________________ (Nome e assinatura do representante legal da empresa)
+
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 19 de 23
+
+Proc. 31540/2010
+Rubrica
+
+PREGÃO Nº 12/2011
+ANEXO III MINUTA DE CONTRATO
+
+CONTRATO QUE ENTRE SI CELEBRAM O DISTRITO FEDERAL, POR INTERMÉDIO DO TRIBUNAL DE CONTAS DO DISTRITO FEDERAL, E A EMPRESA _______________________, OBJETIVANDO A PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO NO SISTEMA DE NORMAS JURÍDICAS DO DISTRITO FEDERAL SINJ-DF E DOS SOFTWARES QUE COMPÕEM A PLATAFORMA DE DESENVOLVIMENTO DA SOLUÇÃO: GOLDENDOC, LIGHTBASE, GOLDENINDEX E GOLDENACCESS (PROCESSO Nº 31540/2010). Pelo presente instrumento, o DISTRITO FEDERAL, por intermédio do TRIBUNAL DE CONTAS DO DISTRITO FEDERAL, com sede nesta Capital, inscrito no CNPJ/MF nº 00.534.560/0001-26, neste ato representado na forma do seu Regimento Interno, por , doravante denominado CONTRATANTE, e a empresa , com sede no , CNPJ/MF nº , insc. nº , representada por seu Sr. , CI nº , doravante denominada CONTRATADA, celebram o presente Contrato, nos termos da Lei nº 8.666, de 21 de junho de 1993 e alterações posteriores (Lei de Licitações) e demais normas atinentes à matéria e de acordo com as cláusulas e condições a seguir enumeradas: CLÁUSULA PRIMEIRA - DO OBJETO O presente contrato tem por objeto a prestação de serviços de manutenção no Sistema de Normas Jurídicas do Distrito Federal SINJ-DF e dos softwares que compõem a plataforma de desenvolvimento da solução: GoldenDoc, LightBase, GoldenIndex e GoldenAccess, de acordo com as especificações e condições previstas no Edital do Pregão nº 12/2011 e a proposta da Contratada. CLÁUSULA SEGUNDA - DO REGIME DE EXECUÇÃO Os serviços serão executados na forma de execução indireta sob o regime de empreitada por preço global. CLÁUSULA TERCEIRA - DO VALOR O CONTRATANTE pagará à CONTRATADA o valor estimado estabelecido na proposta de R$_________(_________), correspondendo a: a) R$_________(_________), referente à prestação de serviços de suporte do Sistema de Normas Jurídicas do Distrito Federal SINJ-DF (atendimento por telefone, e-mail, internet ou "in-loco", aos técnicos responsáveis pela administração do SINJ-DF, na busca de soluções de problemas que possam ocasionar o impedimento de uso do sistema, tais como: inconsistência na instalação; esclarecimento de dúvidas; averiguação e correções de erros e imprecisões de rotinas; e adequação dos sistemas às novas versões do sistema operacional e browsers, conflitos de DLLs, configurações de rede, IP e domínio, etc), a ser pago em parcelas mensais de até R$_________(_________), o observado o disposto no item n 3.3.6 do Anexo I do Edital; b) R$_________(_________), referente à prestação de serviços de manutenção do Sistema de Normas Jurídicas do Distrito Federal SINJ-DF (atividades necessárias a inclusão, alteração ou exclusão de funcionalidades do sistema, incluindo as fases de levantamento, análise de requisitos, contrução, teste, implantação e documentação), a ser pago de acordo com o número e tipos de manutenção realizados, em conformidade com a tabela de redutores do item 3.4.3 do Anexo I do Edital; §1º A despesa correrá à conta da dotação orçamentária referida na Nota de Empenho nº _____ /2011 e no(s) próximo(s) exercício(s) ficará vinculada ao orçamento correspondente. §2º Todas as despesas com tributos, encargos sociais, fretes, embalagens, seguros e quaisquer outras despesas que incidam sobre o objeto desta licitação correrão por conta da Contratada.
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 20 de 23
+
+Proc. 31540/2010
+Rubrica
+
+CLÁUSULA QUARTA - DO PAGAMENTO Mensalmente, ocorrendo o adimplemento da obrigação contratual, a Contratada protocolizará junto ao Contratante Nota Fiscal que, após a devida atestação e regular liquidação, será objeto de pagamento a ser processado no prazo de até 10 (dez) dias úteis, mediante Ordem Bancária creditada em conta corrente indicada pela Contratada. §1º Para que seja efetivado o pagamento deverá ser verificada a regularidade da empresa perante a SEF/DF. Nesse sentido, é necessária a apresentação da Certidão Negativa de Débitos (cópia autenticada em cartório ou acompanhada da original), emitida pela Secretaria de Fazenda/DF, em plena validade, caso a apresentada na habilitação esteja vencida. §2º Havendo erro no documento de cobrança, ou outra circunstância que impeça a liquidação da despesa, a mesma ficará pendente e o pagamento sustado até que a Contratada providencie as medidas saneadoras necessárias, não ocorrendo, neste caso, quaisquer ônus por parte do Contratante. §3º Se, por qualquer motivo alheio à vontade do Contratante, for paralisada a prestação dos serviços, o período correspondente não gerará obrigação de pagamento. §4º Caso o Contratante não cumpra o prazo do "caput" desta Cláusula, pagará à Contratada atualização financeira de acordo com a variação do IGP-DI da Fundação Getúlio Vargas, proporcionalmente aos dias de atraso. §5º Nenhum pagamento será feito à Contratada, caso os serviços sejam rejeitados pela fiscalização do contrato, devendo esses ser refeitos pela Contratada de modo a obter a aprovação da fiscalização §6º Se a Contratada for optante pelo Simples Nacional, essa condição deverá ser informada na Nota Fiscal/Fatura, sob pena de ter retido na fonte os tributos incidentes sobre a operação, relacionados no art. 13 da Lei Complementar n° 123/2006. CLÁUSULA QUINTA - DO REAJUSTE DE PREÇOS O valor contratado poderá ser reajustado anualmente, se houver prorrogação, com prazo contado a partir da entrega da proposta, pela variação acumulada do INPC, ou outro índice que vier a substituí-lo, e será calculado mediante aplicação da seguinte fórmula:
+
+ I - I R = V  1 I0 
+
+0
+
+  
+
+onde:
+
+§1º
+
+R  valor do reajustamento; V  valor do contrato; I1  nº índice do INPC relativo a data em que a proposta completar aniversário de entrega; I0  nº índice do INPC relativo a data de entrega da proposta; Para cálculo de I1, será aplicada a seguinte fórmula:
+
+ I - IA  I1 = I A + d1   B   D1 
+onde: I1  nº índice do INPC relativo a data em que a proposta completar aniversário de entrega; IA  nº índice do INPC do mês anterior ao reajuste; IB  nº índice do INPC do mês em que ocorrer o reajuste; d1  nº de dias decorridos entre o início do mês do reajustamento e a data de aniversário da entrega da proposta; D1  nº de dias corridos do mês do reajustamento. Para cálculo do I0, será aplicada a seguinte fórmula:
+
+§2º
+
+ I - IC  I0 = IC + d0  D  D0  
+onde: I0  nº índice do INPC relativo a data de entrega da proposta;
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 21 de 23
+
+Proc. 31540/2010
+Rubrica
+
+IC  nº índice do INPC do mês anterior ao da entrega da proposta; ID  nº índice do INPC do mês da entrega da proposta; d0  nº de dias decorridos entre o início do mês da entrega da proposta e a data de sua entrega; D0  nº de dias corridos do mês da entrega da proposta. §3º Enquanto não for divulgado o número índice correspondente ao mês do reajustamento, o reajuste será calculado de acordo com o último nº índice conhecido, cabendo, quando publicado o número definitivo, a correção dos cálculo e o respectivo faturamento complementar. §4º Caberá à Contratada efetuar o cálculo do reajuste e apresentar a respectiva memória ou planilha junto com a correspondente Nota Fiscal. §5º A periodicidade prevista neste capítulo poderá ser reduzida por legislação superveniente. CLÁUSULA SEXTA - DA DESPESA A despesa será imputada à conta do crédito consignado no orçamento do Contratante, enquadrando-se segundo a natureza em , tendo as seguintes classificações funcional e programática: e fonte de recursos . CLÁUSULA SÉTIMA - DA VIGÊNCIA/EXECUÇÃO O prazo de vigência do contrato será de 12 (doze) meses, contados de sua assinatura, prorrogável caso haja interesse da Administração, até o limite máximo de 48 (quarenta e oito) meses, desde que mantidas as mesmas condições exigidas na habilitação, sendo seu extrato publicado no DODF, a expensas do contratante. CLÁUSULA OITAVA - DA RESCISÃO Além de outras hipóteses expressamente previstas no art. 78 da Lei nº 8.666/93, garantida a prévia defesa, constituem motivos para a rescisão do Contrato: I - não cumprimento ou cumprimento irregular das cláusulas contratuais, principalmente quanto às especificações do objeto contidas no Anexo I do Pregão nº 12/2011; II - o atraso injustificado no inicio do serviço e ainda a paralisação sem justa causa e prévia comunicação ao Contratante; III - o não atendimento das determinações regulares da autoridade designada para acompanhar e fiscalizar a sua execução, assim como as de seus superiores; IV - o cometimento reiterado de faltas na sua execução, comprovadas por meio de registro próprio efetuado pelo representante do Contratante, especialmente designado para acompanhar o Contrato; V - a decretação de falência; VI - a dissolução da sociedade; VII - a ocorrência de caso fortuito ou de força maior, regularmente comprovado e impeditivo da execução do objeto deste Contrato, sem prejuízo do disposto no §2º do art. 79 da Lei nº 8.666/93; VIII - razões de interesse público, de alta relevância e amplo conhecimento, justificadas e determinadas pela máxima autoridade do Contratante e exaradas no processo administrativo a que se refere este Contrato, sem prejuízo do disposto no § 2º do art. 79 da Lei nº 8.666/93; e IX - subcontratação, cessão ou transferência parcial ou total do objeto do contrato. CLÁUSULA NONA DOS DIREITOS DO CONTRATANTE EM CASO DE RESCISÃO Nos casos de rescisão previstos neste contrato, o Contratante adotará as seguintes providências: I - assunção imediata do objeto do contrato, no estado e local que se encontrar; II - retenção dos créditos decorrentes do contrato, até o limite dos prejuízos causados ao Contratante.
+
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 22 de 23
+
+Proc. 31540/2010
+Rubrica
+
+CLÁUSULA DÉCIMA - DAS PENALIDADES O atraso injustificado na execução do serviço sujeitará o contratado à multa de mora, de acordo com os seguintes percentuais, garantida prévia defesa: a) de 0,3% (três décimos por cento) ao dia, sobre o valor mensal do serviço, quando o Contratado, sem justa causa, cumprir a obrigação assumida com atraso até 30 (trinta) dias após o prazo estabelecido no edital; b) de 0,7% (sete décimos por cento) ao dia, sobre o valor executado/fornecido, quando o Contratado, sem justa causa, cumprir a obrigação assumida, com atraso superior a 30 (trinta) dias do prazo estabelecido no edital. Este percentual incidirá, apenas, sobre o período que exceder ao quinto dia de atraso; c) as multas previstas neste item serão calculadas considerando-se os dias consecutivos, a partir do dia útil imediatamente subsequente ao do vencimento; d) no caso de multa moratória, será observado o limite mínimo de R$ 100,00 (cem reais) para sua cobrança, exceto quando for necessária, além da referida multa, a aplicação de uma das penalidades prevista no art. 87 da Lei nº 8.666/93; e) o valor da multa de mora limitar-se-á a 15%(quinze por cento) do valor do fornecimento/serviço. Pela Inexecução total ou parcial do contrato o TCDF poderá, garantida a prévia defesa, aplicar ao contratado as seguintes sanções: I - Advertência; II - Multa: a) de 15% (quinze por cento), sobre o valor total do Contrato, e cancelamento da Nota de Empenho, quando decorridos 30 (trinta) dias de inadimplemento total e caracterizada a recusa ou impossibilidade do Contratado em prestar o serviço contratado; b) de 5% (cinco por cento) sobre o valor total do Contrato, quando o adjudicatário recusar retirar ou aceitar o instrumento de contrato ou equivalente, caracterizando o descumprimento total da obrigação assumida na forma do art. 81 da Lei nº 8.666/93; c) de 10% (dez por cento) sobre o valor não executado, após o término do prazo de execução do contrato ou sua rescisão, por ter o Contratado cumprido apenas parcialmente o serviço. Parágrafo Único - A multa prevista na alínea "a", deste item, incidirá ainda nos casos em que o Adjudicatário, sem motivo de força maior ou caso fortuito devidamente comprovado, solicitar o cancelamento da Nota de Empenho. III - Suspensão do direito de participar de licitações com a administração pelo prazo de até 2 (dois) anos; e IV - Declaração de inidoneidade para licitar ou contratar com a Administração Pública. As sanções previstas nos incisos III e IV poderão também ser aplicadas ao Adjudicatário que: a) tenha sofrido condenação definitiva por praticar, por meios dolosos, fraude fiscal no recolhimento de quaisquer tributos; b) tenha praticado atos ilícitos visando frustrar os objetivos da licitação; c) demonstre não possuir idoneidade para contratar com a Administração em virtude de atos ilícitos praticados. As sanções previstas nos incisos I, III e IV poderão ser aplicadas juntamente com a do inciso II, facultada a defesa prévia do interessado, no respectivo processo, no prazo de 5 (cinco) dias úteis, e serão aplicadas pela Autoridade Competente. As multas tratadas nesse Capítulo serão descontadas do pagamento eventualmente devido pela Administração ou na impossibilidade de ser feito o desconto, recolhidas pela Adjudicatária mediante depósito em conta corrente do TCDF ou, quando for o caso, cobrada judicialmente. CLÁUSULA DÉCIMA PRIMEIRA - DAS OBRIGAÇÕES Constituem obrigações do Contratante, em especial: I - receber o objeto do Contrato (mediante recibo), através do setor competente e atestar a Nota Fiscal/Fatura; II - efetuar o pagamento do objeto deste contrato, nos termos da cláusula quarta mediante Nota Fiscal devidamente atestada. §1º A Contratada deverá prestar os serviços com eficiência e presteza, dentro dos padrões exigidos pelo Contratante, obrigando-se, especialmente, à:
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+TCDF ­ SELIC
+Fls.: ___________
+
+Tribunal de Contas do Distrito Federal DLMP - Divisão de Licitação, Material e Patrimônio SELIC - Seção de Licitação e Contrato
+
+Pág. 23 de 23
+
+Proc. 31540/2010
+Rubrica
+
+I - cumprir orientação do órgão fiscalizador e/ou do executor do Contrato, bem como as obrigações constantes do Anexo I do edital do Pregão n° 12/2011; II - ressarcir ao Contratante quaisquer danos ou prejuízos causados em decorrência da execução dos serviços; III - apresentar relação das pessoas credenciadas à prestação dos serviços a qual deverá ser controlada pelo executor do Contrato e/ou pelo órgão fiscalizador; e IV ­ prestar garantia de 90 (noventa) dias para os serviços executados. §2º A Contratada fica compelida a manter, durante toda a execução do Contrato, em compatibilidade com as obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas na licitação. CLÁUSULA DÉCIMA-SEGUNDA - DA FISCALIZAÇÃO Será designado pelo Contratante o executor do contrato que terá poderes para fiscalizar a ação dos empregados da Contratada no desempenho dos serviços objeto do presente Contrato, podendo para tanto, tomar as medidas julgadas necessárias ao bom andamento dos mesmos. CLÁUSULA DÉCIMA-TERCEIRA - DOS CASOS OMISSOS Os casos omissos serão analisados pelos representantes legais das partes, com o intuito de solucionar o impasse, sem que haja prejuízo para nenhuma delas, tendo por base o que dispõem a Lei nº 8.666/93 e demais legislações vigentes aplicáveis à espécie. CLÁUSULA DÉCIMA-QUARTA - DA VINCULAÇÃO O teor do Edital e anexos, na modalidade de Pregão nº 12/2011 e a proposta da CONTRATADA são partes integrantes deste Contrato. CLÁUSULA DÉCIMA-QUINTA - DO FORO Fica eleito o Foro do Brasília, Distrito Federal, para dirimir eventuais dúvidas relativas ao cumprimento deste pacto. E, por estarem de acordo, foi mandado lavrar o presente Contrato, do qual extraíram-se 03 (três) vias, para um só efeito, as quais, depois de lidas, são assinadas pelos representantes das partes e pelas testemunhas abaixo. Brasília, DF, em de de 2011.
+
+___________________________________________ CONTRATANTE ___________________________________________ CONTRATADA TESTEMUNHAS: ________________________________ ________________________________
+
+\p Y:\Editais\Editais_2011\Pr122011.doc
+
+Pregão nº 12/2011
+
+

@@ -1,0 +1,1092 @@
+EDITAL DA CONCORRÊNCIA No 01/2010-ADASA CONCORRÊNCIA 01/2010 Objeto: A presente Concorrência tem por objeto a contratação de serviços técnicos especializados aplicáveis ao desenvolvimento e melhorias de sistemas informatizados por meio da modalidade de fábrica de software, conforme detalhamento constante do Anexo I deste Edital. RECIBO DO EDITAL EMPRESA:________________________________________________________ ENDEREÇO:_______________________________________________________ CNPJ N.º: ________________________________________________________ FAX Nº: _____________________________ TELEFONE Nº: ________________ E-MAIL: __________________________________________________________ Recebemos, através do acesso à página endereço eletrônico www.adasa.df.gov.br nesta data, cópia do edital referente ao pregão da licitação acima identificada e desejamos ser informados de qualquer alteração. _________________________________, _________ /_________ / ________. ________________________________________________________ [Pessoa para Contato: NOME LEGÍVEL E ASSINATURA]. Data e horário da Entrega dos Envelopes: 04/03/2010, às 10h, na sala de reuniões da Agência Reguladora de Águas, Energia e Saneamento Básico do Distrito Federal ­ ADASA, sito no Setor Ferroviário ­ Parque Ferroviário de Brasília ­ Estação Rodoferroviária, Sobreloja Ala Norte ­, Brasília ­ DF. OBS.: ESTE RECIBO DEVERÁ SER REMETIDO À ADASA, PELO FAX Nº. (61) 3961-4940 ­ PARA EVENTUAIS COMUNICAÇÕES AOS INTERESSADOS. A ADASA NÃO SE RESPONSABILIZA POR COMUNICAÇÕES À EMPRESA QUE NÃO ENCAMINHAR ESTE RECIBO OU PRESTAR INFORMAÇÕES INCORRETAS NO MESMO.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+1 de 85
+
+CONCORRÊNCIA Nº 01/2010
+
+PROCESSO Nº: 0197-001097/2009 MODALIDADE: CONCORRÊNCIA TIPO DE LICITAÇÃO: TÉCNICA E PREÇO. REPARTIÇÃO INTERESSADA: NÚCLEO DE TECNOLOGIA DA INFORMAÇÃO DATA DA REALIZAÇÃO: 04/03/2010 HORÁRIO PREVISTO PARA O INÍCIO DA SESSÃO: 10H LOCAL: Sala de Reuniões da Agência Reguladora de Águas, Energia e Saneamento Básico do Distrito Federal ­ ADASA, sito no Setor Ferroviário ­ Parque Ferroviário de Brasília ­ Estação Rodoferroviária, Sobreloja Ala Norte ­, Brasília ­ DF.
+
+A AGÊNCIA REGULADORA DE ÁGUAS, ENERGIA E SANEAMENTO BÁSICO DO DISTRITO FEDERAL ADASA, com sede no Setor Ferroviário ­ Parque Ferroviário de Brasília ­ Estação Rodoferroviária, Sobreloja Ala Norte, Brasília ­ DF, por intermédio da Comissão Especial de Licitação, instituída pela Portaria nº 04, de 06 de janeiro de 2010, publicada no DODF nº 04, de 07 de Janeiro de 2010, torna público, para conhecimento dos interessados, que realizará na data, horário e local em epígrafe licitação na modalidade CONCORRÊNCIA, tipo TÉCNICA E PREÇO, em conformidade com as disposições deste edital e respectivos anexos. O procedimento licitatório e os atos dele decorrentes observarão as disposições da Lei Federal 8.666/93, e suas alterações posteriores e do Decreto Distrital 26.851/2006, além das demais normas pertinentes, observadas as condições estabelecidas neste Ato Convocatório e seus Anexos. A justificativa para aquisição do objeto desta Licitação encontra-se expressa no Projeto Básico n.º 009/2009NTI/ADASA, fls. 60. O EDITAL e seus anexos poderão ser obtidos no Protocolo da Agência Reguladora de Águas, Energia e Saneamento Básico do Distrito Federal ­ ADASA/DF, localizada no Setor Ferroviário ­ Parque Ferroviário de Brasília ­ Estação Rodoferroviária, Sobreloja Ala Norte ­ Brasília - DF, Distrito Federal, nos dias úteis, de 8:30hs às 12:30hs e das 14hs às 18hs, ou pelo endereço eletrônico www.adasa.df.gov.br, (LICITAÇÃO ­ CONCORRÊNCIA Nº 01/2010). Outras informações poderão ser obtidas pelo telefone nº (61) 3961-4943 ou pelo fax nº (61) 3961-4940 ou através do e-mail: carpegiane.silva@adasa.df.gov.br, com cópia para geraldo.barcellos@adasa.df.gov.br, nelson.neto@adasa.df.gov.br, e marcelo.mattosinhos@adasa.df.gov.br.
+
+1 ­ DO OBJETO A presente Concorrência tem por objeto a contratação de serviços técnicos especializados aplicáveis ao desenvolvimento e melhorias de sistemas informatizados por meio da modalidade de fábrica de software, conforme detalhamento constante do Anexo I deste Edital. 1.1 Integram o presente Edital, independentemente de transcrição, para esclarecimento do objeto e do regulamento do certame licitatório, os seguintes documentos:
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+2 de 85
+
+Anexo I Anexo II Anexo III Anexo IV Anexo V Anexo VI Anexo VII Anexo VIII Anexo IX Anexo X Anexo XI
+
+Projeto Básico Orientações e Critérios para Elaboração da Proposta Técnica Modelo de Carta-Proposta de Preço Modelo de Declaração de Cumprimento do Disposto no Inciso XXXIII do art. 7º da Constituição Federal Modelo de Declaração de Compromisso de Comunicação da Superveniência de Fato Impeditivo da Habilitação Minuta do Contrato de Prestação dos Serviços Técnicos Especializados Aplicados à Tecnologia e Gestão da Informação
+Modelo de declaração de micro empresa ou empresa de pequeno porte Modelo de Termo de Cessão de Direito Patrimonial Modelo para Elaboração da Proposta Técnica Artefatos integrantes de cada fase do projeto Fórmulas para pontuação nos critérios de técnica e preço
+
+2 ­ DAS CONDIÇÕES DE PARTICIPAÇÃO 2.1 Somente poderão participar desta Concorrência empresas do ramo de atividade compatível com o objeto, inscritas e habilitadas no Sistema de Cadastramento Unificado de Fornecedores - SICAF e/ou que comprovarem sua qualificação na forma indicada neste Edital. Não poderá concorrer nesta licitação, direta ou indiretamente, ou participar da execução do contrato dela decorrente a empresa ou pessoa: a) com falência declarada, sob concurso de credores, em dissolução ou em liquidação; b) que por qualquer motivo tenha sido declarada inidônea pela ADASA ou por qualquer outro órgão da Administração Pública Direta ou Indireta, Federal, Estadual ou do Distrito Federal, ou ainda Municipal, bem como a que esteja punida com suspensão do direito de contratar ou licitar com a Administração Pública; c) da qual seja sócio, dirigente ou responsável técnico, servidor de qualquer órgão ou entidade vinculada ao Governo do Distrito Federal. d) Autor do projeto básico ­ pessoa física ou jurídica. e) Servidor ou dirigente de órgão ou entidade contratante ou responsável pela licitação; f) Enquadradas nas disposições do artigo 9º da Lei Federal nº 8.666/93 e suas alterações posteriores 2.3 Não será admitida nesta licitação a participação de empresas reunidas em consórcio, qualquer que seja sua forma de constituição, nem a sub-contratação de serviços, durante a execução do contrato dela decorrente.
+
+2.2
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+3 de 85
+
+2.4
+
+Os licitantes arcarão com todos os custos decorrentes da elaboração e apresentação de suas propostas. 3 ­ DA ENTREGA DA DOCUMENTAÇÃO E DAS PROPOSTAS
+
+3.1
+
+No dia, horário e local definidos no preâmbulo deste Edital, cada proponente deverá apresentar à Comissão Especial de Licitação, simultaneamente, sua Documentação de Habilitação, Proposta Técnica e Proposta Comercial, em envelopes opacos, separados, lacrados e rubricados no fecho, contendo em suas partes externas e frontais, em caracteres destacados, os seguintes dizeres: ENVELOPE No 01 ­ DOCUMENTAÇÃO DE HABILITAÇÃO À COMISSÃO ESPECIAL DE LICITAÇÃO CONCORRÊNCIA Nº 01/2010-ADASA OBJETO: CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS APLICÁVEIS AO DESENVOLVIMENTO E MELHORIAS DE SISTEMAS INFORMATIZADOS POR MEIO DA MODALIDADE DE FÁBRICA DE SOFTWARE PROPONENTE: (RAZÃO SOCIAL, CNPJ E No DE INSCRIÇÃO NO SICAF, SE HOUVER) ENVELOPE No 02 ­ PROPOSTA TÉCNICA À COMISSÃO ESPECIAL DE LICITAÇÃO CONCORRÊNCIA Nº 01/2010-ADASA OBJETO: CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS APLICÁVEIS AO DESENVOLVIMENTO E MELHORIAS DE SISTEMAS INFORMATIZADOS POR MEIO DA MODALIDADE DE FÁBRICA DE SOFTWARE PROPONENTE: (RAZÃO SOCIAL, CNPJ E No DE INSCRIÇÃO NO SICAF, SE HOUVER) ENVELOPE No 03 ­ PROPOSTA DE PREÇOS À COMISSÃO ESPECIAL DE LICITAÇÃO CONCORRÊNCIA Nº 01/2010-ADASA OBJETO: CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS APLICÁVEIS AO DESENVOLVIMENTO E MELHORIAS DE SISTEMAS INFORMATIZADOS POR MEIO DA MODALIDADE DE FÁBRICA DE SOFTWARE PROPONENTE: (RAZÃO SOCIAL, CNPJ E No DE INSCRIÇÃO NO SICAF, SE HOUVER)
+
+3.2 3.3
+
+Não será admitido o encaminhamento de documentação e/ou propostas via Fax ou similar. O portador dos envelopes de documentação e propostas deverá estar devidamente credenciado pelo proponente, munido de cédula de identidade, procuração, carta de preposição ou outro documento hábil em que estejam expressos poderes especiais para prestar os esclarecimentos que forem solicitados pela Comissão Especial de Licitação, assumir compromissos em nome do licitante, formular impugnações e praticar os demais atos relacionados com esta Concorrência.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+4 de 85
+
+3.4
+
+A procuração ou carta de preposição deverá ter firma reconhecida em cartório ou estar acompanhada de cópia autenticada do contrato social ou estatuto da empresa outorgante, para possibilitar a verificação da legitimidade da outorga e da representação. A não apresentação ou incorreção do documento de credenciamento não inabilitará o licitante, mas impedirá o seu representante de manifestar-se e responder pela representada nas sessões públicas da licitação. Após o recebimento dos envelopes, não serão aceitas juntada ou substituição de quaisquer documentos, retificação de preços ou condições. 4 ­ DA DOCUMENTAÇÃO DE HABILITAÇÃO - ENVELOPE Nº 01
+
+3.5
+
+3.6
+
+4.1
+
+No Envelope nº 01 deve conter, preferencialmente, na ordem seqüencial abaixo indicada, os seguintes documentos: 4.1.1 Para Habilitação Jurídica: a) b) registro comercial, no caso de empresa individual; ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado no órgão competente, em se tratando de sociedades comerciais, e, no caso de sociedades por ações, acompanhado de documento comprobatório da eleição dos atuais administradores; inscrição do ato constitutivo, no caso de sociedades civis, acompanhada de prova de designação da diretoria em exercício. decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no país, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. Declaração de que não utiliza mão-de-obra direta ou indireta de menores de 18 (dezoito) anos para a realização de trabalhos noturnos, perigosos ou insalubres, bem como não utiliza, para qualquer trabalho, mão-de-obra direta ou indireta de menores de 16 (dezesseis) anos, exceto na condição de aprendiz, a partir de 14 (quatorze) anos, conforme inciso V do art. 27 da Lei n.º 8.666/93 (conforme modelo constante do Anexo IV deste Edital); Declarar, sob as penas da lei, a superveniência de fatos impeditivos para a habilitação no certame (exigida somente quando houver), ciente da obrigatoriedade de declarar ocorrências posteriores, conforme modelo constante do Anexo V deste Edital. Declaração da licitante enquadrada como microempresa ou empresas de pequeno porte, conforme modelo constante do Anexo VII, caso queira se beneficiar do tratamento diferenciado e favorecido na presente licitação, na forma do disposto na Lei Complementar nº 123/06.
+
+c) d)
+
+e)
+
+f)
+
+g)
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+5 de 85
+
+4.1.2 Para Qualificação Econômico-financeira: a) Certidão Negativa de falência, de recuperação judicial ou extrajudicial (Lei nº 11.101, de 9.2.2005), expedida pelo distribuidor da sede da empresa, datado dos últimos 30 (trinta) dias, ou que esteja dentro do prazo de validade expresso na própria Certidão. No caso de praças com mais de um cartório distribuidor, deverão ser apresentadas às certidões de cada um dos distribuidores; balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, que comprovem a boa situação da empresa, vedada a sua substituição por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais quando encerrado há mais de 3 (três) meses da data de apresentação da proposta. A comprovação de boa situação financeira do licitante será aferida com base nos índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC), resultante da aplicação das seguintes fórmulas: (Ativo Circulante + Realizável a Longo Prazo) LG = -----------------------------------------------------------(Passivo Circulante + Exigível a Longo Prazo) Ativo Total SG = -----------------------------------------------------------(Passivo Circulante + Exigível a Longo Prazo) Ativo Circulante LC = -----------------------------------------------------------Passivo Circulante 4.1.2.2 Os licitantes que apresentarem resultado igual ou menor que 1,0 (um) em qualquer dos índices referidos no subitem anterior deverão comprovar patrimônio líquido mínimo de R$ 332.000,00 (trezentos e trinta e dois mil reais).
+
+b)
+
+4.1.2.1
+
+4.1.3 Para Regularidade Fiscal: a) Prova de Inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ), dentro do prazo nela atestada; b) prova de inscrição no Cadastro de Contribuintes estadual ou municipal, se houver, relativo ao domicílio ou sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto desta Concorrência; c) As empresas com domicílio ou sede em Brasília, deverão apresentar o documento de identificação fiscal, emitido pela Secretaria da Fazenda e Planejamento do Governo do Distrito Federal
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+6 de 85
+
+d) Certificado de Regularidade perante o FGTS, fornecido pela Caixa Econômica Federal, devidamente atualizado, nos termos da Lei n.º 8.036, de 11 de maio de 1990; e) Certidão Negativa de Débitos Relativos às Contribuições Previdenciárias e às de Terceiros, expedida pela Secretaria da Receita Federal do Brasil (Anexo XI da Portaria Conjunta PGFN/RFB nº 3, de 2.5.2007), observado o disposto no art. 4º do Decreto nº 6.106, de 30.4.2007; f) Prova de Regularidade para com a Fazenda Nacional que deverá ser efetuada mediante certidão conjunta expedida pela Secretaria da Receita Federal e Procuradoria-Geral da Fazenda Nacional, referente aos tributos federais e à Dívida Ativa da União, por elas administrados, conforme preconizado no artigo 1º do Decreto n.º 6.106/2007 g) certidões de regularidade de situação para com as Fazendas Federal, Estadual ou do Distrito Federal e Municipal do domicílio ou sede do licitante. h) Certidão Negativa de Débitos ou certidão positiva com efeito negativa, emitida pela Secretaria de Estado de Fazenda do Governo do Distrito Federal, em plena validade, que poderá ser obtida através do site www.fazenda.df.gov.br - Empresa
+
+4.1.4 Para Qualificação Técnica: a) Apresentar atestado de capacidade técnica, em nome do licitante, fornecido por pessoas jurídicas de direito público ou privado (no caso de direito privado deverá constar no referido atestado o reconhecimento de firma do autor), comprovando o desenvolvimento de sistemas de informação com a aplicação da metodologia de pontos de função compatíveis com as técnicas de preconizadas pelo IFPUG. b) Indicar, por declaração, na data de entrega da documentação e propostas que possuirá em seu quadro, Responsável Técnico detentor de atestado de capacidade técnica de execução de serviços de características semelhantes aos desta licitação, e, caso vencedor do processo licitatório, a época da assinatura do contrato comprovará possuí-lo. c) Apresentar, obrigatoriamente, declaração assinada por representante legal da licitante, de que tomou conhecimento de todas as informações necessárias ao serviço a ser executado, bem como das condições e locais para o cumprimento das obrigações desta licitação. d) Os documentos necessários à habilitação deverão ser apresentados em original, ou por qualquer processo de cópia autenticada por cartório ou mediante cotejo das cópias com os originais pela Comissão Especial de Licitação ou impresso por meio eletrônico ou publicação em órgão de imprensa oficial. e) Quanto à autenticidade de documentos emitidos por meio eletrônico a Comissão Especial de Licitação poderá efetuar pesquisa através de consulta aos seus respectivos sites oficiais. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+7 de 85
+
+4.1.5 A regularidade do cadastramento e/ou habilitação do licitante inscrito no SICAF será objeto de confirmação "on line", no ato de abertura da licitação. 4.1.6 As empresas cadastradas no SICAF ­ Sistema de Cadastro Unificado de Fornecedores, que deverão fornecer o respectivo número de inscrição. Aquelas com cadastros no SICAF estarão dispensadas do cumprimento das exigências previstas nos subitens 4.1.1, 4.1.2 e 4.1.3 anteriores, salvo em relação à apresentação da certidão negativa de falência ou recuperação judicial/extrajudicial, na forma e condições previstas na alínea "a" do subitem 4.1.2. 4.1.7 A falta de quaisquer dos documentos exigidos para o Envelope n° 01 implicará a inabilitação do licitante, sendo vedada, sob qualquer pretexto, a concessão de prazo para complementação da documentação exigida para a habilitação. 4.1.8 Os documentos para habilitação poderão ser apresentados em original, cópias autenticadas em cartório ou conferidas e autenticadas no ato da apresentação por integrante da Comissão Especial de Licitação, mediante confronto com os originais. Para os documentos cuja veracidade possa ser confirmada via Internet, será facultado aos proponentes apenas a apresentação das respectivas cópias. 4.1.9 A documentação de habilitação deverá estar em nome do licitante, com o número do CNPJ e respectivo endereço referido ao local de sua sede. Não se aceitará, portanto, que alguns documentos se refiram à matriz e outros à filial, exceto quando o próprio documento indicar expressamente que é válido para todos os estabelecimentos da empresa (matriz e filial). 4.1.10 Todos os documentos legais, comerciais ou financeiros apresentados por quaisquer licitantes, se originários de outros países, quando escritos em idioma estrangeiro, deverão ser traduzidos para a língua portuguesa por tradutor juramentado, caso seja feita no Brasil, ou por pessoa ou entidade com função equivalente, caso efetuada em outro país. 4.1.11 Após a fase de habilitação, não cabe desistência de proposta, salvo por motivo justo decorrente de fato superveniente e aceito pela Comissão Especial de Licitação. 5 ­ DA PROPOSTA TÉCNICA - ENVELOPE Nº 02 5.1 A proposta técnica deverá ser apresentada de acordo com as orientações e critérios constantes do Anexo II e em conformidade com o modelo do anexo IX, em invólucro único, fechado, lacrado e identificado conforme subitem 3.1 deste Edital. Os documentos emitidos pelo próprio licitante, dentre aqueles referidos no subitem 5.4 adiante, deverão ser apresentados em 1 (uma) via impressa. O Envelope n° 02 ­ Proposta Técnica deverá conter a Carta-Proposta para Apresentação da Planilha da Pontuação Técnica conforme orientação do Anexo II, preenchida nos formulários previstos no anexo IX, assinada pelo representante legal e rubricada em todas as suas páginas, preenchida segundo o
+"Brasília - Patrimônio Cultural da Humanidade"
+
+5.2 5.3
+
+___________________________________________________________________________ 8 de 85
+
+enquadramento do licitante nos subfatores pontuáveis, devidamente acompanhada dos respectivos documentos comprobatórios, tudo em conformidade com as Orientações e Critérios para Elaboração da Proposta Técnica, constantes do Anexo II, deste Edital e anexo IX. 5.4 Não serão considerados os pontos assinalados pelo licitante em sua Planilha de Pontuação Técnica a que não correspondam documentos comprobatórios. Em caso de divergência entre as informações constantes da Planilha e as referentes à comprovação do quesito correspondente, prevalecerão, para efeito de pontuação, as desta última. Não será admitida a inclusão posterior de qualquer documento ou informação, que devesse constar obrigatoriamente da Proposta Técnica apresentada. A seu exclusivo critério, a Comissão Especial de Licitação poderá proceder a diligências, em qualquer fase do processo, para comprovar a veracidade e a autenticidade das informações prestadas ou da documentação constante das Propostas Técnicas. 6 ­ DA PROPOSTA DE PREÇOS - ENVELOPE Nº 03 6.1 A Proposta de Preços deverá ser impressa em papel timbrado da empresa licitante, em uma única via, redigida na língua portuguesa, com clareza e objetividade, sem rasuras, emendas, entrelinhas, borrões ou acréscimos, datada do dia previsto para a abertura da licitação, assinada pelo seu representante legal e rubricada em todas as suas páginas. O Envelope n° 03 deverá conter a Carta-Proposta de Preços, conforme modelo constante do Anexo III deste Edital. A ADASA não admitirá qualquer alegação posterior que vise ao ressarcimento de custos não considerados nos preços cotados, ressalvadas as hipóteses descritas no § 5º do art. 65 da Lei nº 8.666/93. A oferta deve ser firme e precisa, limitada rigorosamente ao objeto da licitação, sem conter alternativas de preço ou quaisquer outras condições que induzam o julgamento a apresentar mais de um resultado. Não serão consideradas propostas com oferta de vantagem não prevista neste Edital ou com preços ou vantagens baseados nas ofertas dos demais licitantes. Serão desclassificadas as propostas com preços manifestamente inexeqüíveis, assim consideradas aquelas que, cotejadas com o orçamento estimado pela ADASA para a contratação dos serviços, a ser disponibilizado na forma do subitem seguinte, não venham a ter demonstrada sua viabilidade através de documentação que comprove que os custos dos insumos são coerentes com os de mercado. 7 ­ DO PROCESSAMENTO DA LICITAÇÃO 7.1 O processamento da CONCORRÊNCIA obedecerá às seguintes fases:
+
+5.5 5.6
+
+6.2
+
+6.3
+
+6.4
+
+6.5
+
+6.6
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+9 de 85
+
+Fase 1 Fase 2
+
+Fase 3
+
+Abertura dos Envelopes nº 01, exame e julgamento dos documentos de habilitação, devolvendo-se aos licitantes inabilitados os Envelopes nos 02 e 03, fechados. Abertura dos Envelopes nº 02 (Propostas Técnicas) dos licitantes declarados habilitados, análise e classificação das propostas técnicas, desde que transcorrido o prazo legal sem interposição de recurso, ou tenha havido desistência expressa, ou após o julgamento dos recursos interpostos. Abertura dos Envelopes nº 03 (Propostas de Preços) dos licitantes cujas propostas técnicas tenham sido classificadas, desde que não tenha havido recurso contra a classificação técnica, ou após apreciados e decididos os recursos interpostos, ou tenha havido desistência expressa dos interessados. Os envelopes de documentação e propostas serão recebidos em sessão pública, no dia, horário e local indicados no preâmbulo deste Edital e no Aviso de Convocação da Concorrência. Colhida a assinatura dos representantes das empresas licitantes na Lista de Presenças, o Presidente da Comissão Especial de Licitação encerrará a fase de recebimento dos envelopes. Uma vez iniciada a abertura dos Envelopes nº 01 ­ Documentação de Habilitação, não será recebida proposta de firma retardatária, e, em nenhuma hipótese, será concedido prazo para a apresentação de documento exigido no Edital, nem admitida qualquer retificação ou alteração das condições ofertadas. Procedida a abertura dos Envelopes nº 01 e após consultado o SICAF, os documentos de habilitação apresentados e o relatório do aludido Sistema de Cadastramento Unificado de Fornecedores serão rubricados pela Comissão e pelos representantes legais dos licitantes, franqueando-se, em seguida, o seu exame aos interessados, para eventual formulação de protestos ou impugnações, as quais serão registradas na ata da sessão e posteriormente apreciadas e decididas pela Comissão. Durante o exame da documentação de habilitação, os licitantes não poderão retirar-se do recinto para reproduzir documentos. Os envelopes contendo as propostas técnicas e de preços, devidamente lacrados, serão rubricados pelos representantes legais dos licitantes e pelos membros da Comissão Especial de Licitação, que os manterá em seu poder até posterior decisão. O resultado da Fase 1 (Habilitação) será publicado no Diário Oficial do Distrito Federal. Serão devolvidos aos representantes das empresas inabilitadas os envelopes contendo as propostas técnicas e de preços por estas apresentadas, devidamente lacrados, desde que não tenha havido recurso ou após a sua denegação. Decorrido o prazo para interposição de recurso em relação à fase de habilitação ou após o julgamento dos recursos interpostos, a Comissão Especial de Licitação convocará os representantes legais dos licitantes para participar de sessão específica visando à abertura dos Envelopes nº 02 ­ Propostas Técnicas, oportunidade em que serão rubricados e examinados os documentos apresentados, com observância do mesmo procedimento previsto nos subitens 7.4 e 7.5 anteriores.
+
+7.2
+
+7.3
+
+7.4
+
+7.5
+
+7.6
+
+7.7 7.8
+
+7.9
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+10 de 85
+
+7.10
+
+Concluída a análise e julgamento das propostas técnicas, a Comissão Especial de Licitação fará publicar o resultado da classificação técnica no Diário Oficial do Distrito Federal. Transcorrido o prazo de recurso contra o resultado da classificação técnica ou após o julgamento dos recursos interpostos, a Comissão Especial de Licitação convocará os representantes legais dos licitantes para participar de sessão específica objetivando a abertura dos Envelopes nº 03 ­ Propostas de Preços, quando serão rubricados e examinados os documentos apresentados, observando-se os procedimentos previstos nos subitens 7.4 e 7.5, bem como serão devolvidos ou disponibilizados aos representantes das empresas desclassificadas tecnicamente, devidamente lacrados, os envelopes contendo as respectivas Propostas de Preços. A Comissão Especial de Licitação analisará as propostas com base nas informações e dados constantes dos documentos apresentados, sendo-lhe facultado, a qualquer tempo, solicitar esclarecimentos acerca de seu conteúdo. As respostas e informações complementares dos licitantes deverão ser prestadas sempre por escrito e nos prazos fixados pela Comissão, mas não poderão acarretar modificação das condições já indicadas nas propostas, sob pena de desclassificação. Não serão considerados motivos para inabilitação ou desclassificação simples omissões ou irreguralidades materiais da documentação ou propostas, desde que sejam irrelevantes, não prejudiquem o processamento da licitação, o entendimento da proposta e não firam direitos dos demais licitantes. Ultrapassada a fase de habilitação e abertas as propostas, não mais caberá desclassificação por motivo relacionado com a fase habilitatória, salvo em razão de fato superveniente ou só conhecido após o julgamento, aceito pela Comissão Especial de Licitação. Se todos os licitantes forem inabilitados ou todas as propostas forem desclassificadas, a Comissão Especial de Licitação poderá fixar o prazo de 08 (oito) dias úteis para apresentação de nova documentação e/ou de outras propostas, escoimadas das causas que as inabilitaram ou desclassificaram.
+
+7.11
+
+7.12
+
+7.13
+
+7.14
+
+7.15
+
+8 ­ DO JULGAMENTO DAS PROPOSTAS 8.1 A licitação é do tipo "Técnica e Preço" e a classificação das propostas far-se-á de acordo com a ordem decrescente das médias ponderadas dos Índices Técnicos e de Preços obtidos na avaliação, sendo os fatores de ponderação iguais a 5,0 (cinco) para a parte técnica e 5,0 (cinco) para a de preços. A avaliação das propostas técnicas será feita, conforme detalhamento constante do Anexo II deste Edital ­ "Orientações e Critérios para Elaboração da Proposta Técnica", mediante a atribuição de pontos e pesos aos seguintes fatores: FATOR Compatibilidade PESO 4
+
+8.2
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+11 de 85
+
+FATOR Qualidade Desempenho Suporte de Serviços 8.3
+
+PESO 3 3 2
+
+Os fatores serão avaliados a partir dos documentos contidos nos Envelopes n0 02 e a Pontuação Técnica de cada proposta será calculada através da média ponderada das pontuações obtidas nos fatores suprareferenciados, utilizando-se a seguinte fórmula: PTi =
+
+4( PFCO) + 3( PFQU ) + 3( PFDE) + 2( PFSS ) , onde: 12
+
+PTi = Pontuação Técnica da proposta i (ésima); PFCO = Pontuação obtida no Fator Compatibilidade; PFQU = Pontuação obtida no Fator Qualidade; PFDE = Pontuação obtida no Fator Desempenho; PFSS = Pontuação obtida no Fator Suporte de Serviços. 8.4 A pontuação técnica será considerada até a 2ª (segunda) casa decimal, desprezando-se a fração remanescente. A partir dos resultados obtidos no subitem 8.3 antecedente, será calculado o Índice Técnico de cada licitante, dividindo-se a Pontuação Técnica da proposta em exame pela maior pontuação técnica obtida pelos proponentes, de acordo com a seguinte fórmula: ITi =
+
+8.5
+
+PTPEi , onde: MPT
+
+ITi = Índice Técnico da proposta i (ésima); PTPEi = Pontuação Técnica da Proposta em Exame i (ésima); MPT = Maior Pontuação Técnica obtida. 8.6 O resultado da avaliação das propostas técnicas constará de "Relatório Técnico", no qual a Comissão Especial de Licitação, apoiada em parecer circunstanciado do Núcleo de Tecnologia da Informação ­ NTI/ADASA, indicará a pontuação atribuída e a ordem de classificação das propostas. A análise e julgamento das propostas de preços far-se-ão com base nas condições e exigências estabelecidas no item 6 deste Edital. O Índice de Preço de cada proposta será calculado através da divisão do menor valor do Ponto de Função cotado dentre todos os licitantes para a prestação dos serviços pelo valor do Ponto de Função da proposta em exame, conforme a seguinte fórmula:
+
+8.7
+
+8.8
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+12 de 85
+
+IPi =
+
+MVMC , onde: VMPEi
+
+IPi = Índice de Preço da proposta i (ésima); MVMC = Menor Valor Mensal Cotado; VMPEi = Valor Mensal da Proposta em Exame i (ésima). 8.9 Os Índices Técnicos e de Preços das propostas dos licitantes serão considerados até a quarta casa decimal, desprezando-se as frações remanescentes. A nota final de avaliação de cada proposta será calculada mediante a seguinte fórmula: NFAi =
+
+8.10
+
+( ITi × 5 + IPi × 5) , onde: 10
+
+NFAi = Nota Final de Avaliação da proposta i (ésima); ITi = Índice Técnico da proposta i (ésima); IPi = Índice de Preço da proposta i (ésima).
+
+8.11
+
+A classificação final das propostas será feita pela ordem decrescente das notas finais de avaliação dos licitantes, calculadas na forma do subitem 8.10. Será declarado vencedor da Concorrência o licitante que obtiver a maior nota final de avaliação (NFAmax). Havendo empate entre duas ou mais propostas e obedecido o disposto no § 2º do art. 3º da Lei n0 8.666/93, a licitação será decidida por sorteio, em sessão pública, para a qual todos os licitantes classificados serão convocados, salvo as empresas que se classificarem como EPP e ME, conforme LC 123/2006.
+
+8.12
+
+8.13
+
+9 ­ DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO DO JULGAMENTO 9.1 O resultado final da licitação constará de Relatório de Julgamento, no qual a Comissão Especial de Licitação atribuirá o objeto ao concorrente declarado vencedor, justificando, detalhadamente, as razões da eventual desclassificação ou declaração de inexequibilidade de propostas. Assinado o Relatório, a Comissão Especial de Licitação fará publicar no Diário Oficial do Distrito Federal o resultado do julgamento, abrindo-se o prazo de 05 (cinco) dias úteis para a interposição de recursos. Decorrido o prazo referido no subitem anterior sem interposição de recurso, ou apreciados e decididos os eventualmente formulados, o Relatório de Julgamento será submetido ao Diretoria-Colegiada da ADASA,
+"Brasília - Patrimônio Cultural da Humanidade"
+
+9.2
+
+9.3
+
+___________________________________________________________________________ 13 de 85
+
+para homologação e adjudicação. Homologado o Relatório e adjudicado o objeto ao vencedor, esse será convocado para assinar o correspondente contrato. 10 ­ DA IMPUGNAÇÃO E DOS RECURSOS 10.1 Decairá do direito de impugnar os termos deste Edital perante a ADASA o licitante que não o fizer até o segundo dia útil que anteceder a abertura dos envelopes de habilitação. Dos atos administrativos praticados pela ADASA no certame licitatório caberá recurso administrativo no prazo de 05 (cinco) dias úteis, a contar da intimação do ato ou da lavratura da ata se presentes os prepostos dos licitantes, conforme previsto no art. 109, inciso I e § 1º, da Lei nº 8.666/93. Os recursos referentes à habilitação ou inabilitação e ao julgamento das propostas dos licitantes terão efeito suspensivo. Interposto, o recurso será comunicado aos demais licitantes, que poderão impugná-lo no prazo de 05 (cinco) dias úteis. O recurso será dirigido ao Diretor-Presidente da ADASA, por intermédio da Comissão Especial de Licitação, que poderá reconsiderar sua decisão, no prazo de 05 (cinco) dias úteis, ou, nesse mesmo prazo, fazê-lo subir, devidamente informado, devendo, neste caso, a decisão ser proferida dentro do prazo de 05 (cinco) dias úteis, contado do seu recebimento pela mencionada autoridade superior. Os recursos deverão ser entregues à Comissão Especial de Licitação, no Setor Ferroviário ­ Parque Ferroviário de Brasília ­ Estação Rodoferroviária, Sobreloja Ala Norte, Brasília/DF, em dias úteis, no horário das 8:00 às 12:00 e das 14:00 às 18:00 horas. Os recursos interpostos fora do prazo ou via Fax não serão conhecidos. 11 ­ DA CONTRATAÇÃO DOS SERVIÇOS 11.1 Homologado o resultado da Concorrência, o licitante vencedor terá o prazo de 05 (cinco) dias úteis, a contar do recebimento da comunicação da ADASA, para assinar o contrato, ocasião em que deverá comprovar, uma vez mais, a sua regularidade perante o FGTS e o INSS, através dos mesmos documentos referidos nas letras "d" e "i" do subitem 4.1.3, além de apresentar o comprovante de garantia de que trata o item 12, ambos deste Edital. A contratação formalizar-se-á por termo de contrato, com vigência inicial de 12 meses, prorrogável no prazo e condições da minuta do Anexo VI, onde estão definidos o objeto, os preços unitários e o valor estimado do Contrato, as obrigações das partes contratantes, a forma de pagamento, as condições de reajuste de preços, entre outras disposições. É facultado à ADASA, quando o adjudicatário não assinar o Termo de Contrato, no prazo legal, convocar o(s) licitante(s) remanescente(s), na ordem de classificação, para fazê-lo em igual prazo e nas mesmas condições de preço propostas pelo primeiro classificado, se superiores às deste, ou revogar a licitação.
+
+10.2
+
+10.3
+
+10.4
+
+10.5
+
+10.6
+
+11.2
+
+11.3
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+14 de 85
+
+11.4
+
+A recusa injustificada do adjudicatário em assinar o contrato, dentro do prazo fixado na convocação específica, caracteriza inadimplência das obrigações decorrentes desta licitação, sujeitando-o às seguintes penalidades: a) multa equivalente a 2% (dois por cento) do valor estimado para o contrato; b) declaração de inidoneidade e suspensão do direito de licitar e contratar com a ADASA e com qualquer órgão ou entidade vinculada à administração pública do Distrito Federal, pelo prazo de 02 (dois) anos. 12 - DA GARANTIA CONTRATUAL
+
+12.1
+
+Será exigida prestação de garantia em qualquer das modalidades previstas no parágrafo 1º do artigo 56 da lei nº 8.666/93 no valor de 5% (cinco por cento) do valor contratado. A garantia deverá ser oferecida quando da assinatura do contrato. As garantias e seus reforços responderão por todas as multas que forem impostas à CONTRATADA e por todas as importâncias que, a qualquer título, forem devidas pela CONTRATADA à ADASA. Em caso de insuficiência, será a CONTRATADA notificada para, no prazo de 72 (setenta e duas) horas, completar o valor das multas, sob pena de rescisão do contrato. O reforço e/ou a regularização da garantia, excetuada a hipótese prevista no item anterior, deverá ser efetuado no prazo máximo de 5 (cinco) dias úteis, contados do recebimento da comunicação, feita por escrito pela contratante. O prazo aludido no item anterior poderá ser prorrogado uma vez, por igual período, quando solicitado pela CONTRATADA durante o transcurso do prazo, se ocorrer motivo justificado e aceito pela CONTRATANTE. A garantia prestada deverá ser substituída automaticamente pela CONTRATADA quando da ocorrência de seu vencimento, independentemente de comunicado da CONTRATANTE, de modo a manter ininterruptamente garantido o contrato celebrado. Por ocasião do encerramento do contrato, o que restar da garantia da execução do contrato e seus reforços serão liberados ou restituídos após a liquidação das multas aplicadas, ou após a dedução de eventual valor de condenação da CONTRATADA. O prazo da validade da garantia, quando prestada na modalidade seguro-garantia ou fiança bancária, deverá ser de no mínimo 60 (sessenta) dias superior ao prazo de vigência do contrato. 13 ­ DA DOTAÇÃO ORCAMENTÁRIA
+
+12.2
+
+12.3
+
+12.4
+
+12.5
+
+12.6
+
+12.7
+
+12.8
+
+13.1
+
+As despesas com a realização dos serviços contratados em função desta licitação correrão à conta das dotações específicas, consignadas no Orçamento da ADASA, no âmbito da Unidade Orçamentária:
+"Brasília - Patrimônio Cultural da Humanidade"
+
+___________________________________________________________________________ 15 de 85
+
+28.204, Programa de Trabalho: 18.544.0450.2994.0006, Natureza da Despesa: 33.90.39; Fonte do Recurso 1501. 13.2 As despesas dos exercícios seguintes correrão à conta dos créditos orçamentários correspondentes, cujo Projeto de Lei Orçamentária Anual preverá os valores a serem despendidos nos exercícios seguintes. 14 ­ DAS PENALIDADES O atraso injustificado na execução do contrato, por período superior a 15 (quinze) dias, contados da emissão da ordem de serviço, sujeitará a contratada à multa de mora no percentual de 0,5% por dia de atraso, limitado até 30% por período contínuo. A multa de mora incidirá sobre o correspondente financeiro decorrente do número total de pontos de função exigidos do projeto. A multa a que se refere o item anterior não impede que a Administração rescinda unilateralmente o contrato e aplique as outras sanções previstas nesta Lei. A multa, aplicada após regular processo administrativo, será descontada da garantia oferecida e, se esta for insuficiente, dos pagamentos eventualmente devidos pela Administração ou ainda, quando for o caso, cobrada judicialmente, na forma do §3º, do art. 86, da Lei de Licitações. Pelo descumprimento de quaisquer cláusulas ou condições desta Concorrência, serão aplicadas as penalidades estabelecidas no Decreto 26.851/2006, publicado no Diário Oficial do Distrito Federal nº. 103 de 31 de maio de 2005, pág. 05 a 07 e alterações posteriores, que regulamentou a aplicação das sanções administrativas prevista na Lei Federal n.º 8.666/93: I - advertência; II - multa; III - suspensão temporária de participação em licitação, e impedimento de contratar com a Administração do Distrito Federal: IV - declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que o contratado ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso anterior. As sanções previstas nos incisos I, III e IV do item 14.1 poderão ser aplicadas juntamente com a do inciso II do mesmo item, facultada a defesa prévia do interessado, no respectivo processo, no prazo de 05 dias úteis. A multa prevista no item 14.4, inciso II, será aplicada no caso de descumprimento de qualquer cláusula contratual, no percentual que variará entre 0,05% à 5% incidente sobre o valor total do contrato, tendo em vista a gravidade da infração e extensão do dano pra administração pública.
+
+14.1
+
+14.2
+
+14.3
+
+14.4
+
+14.5
+
+14.6
+
+15 ­ DO CONTRATO 15.1 Será obrigatório o Termo de Contrato, ocasião em que a interessada será convocada para assinar o respectivo instrumento, dentro do prazo e condições estabelecidos, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na lei n.º 8.666/93 e alterações subseqüentes. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+16 de 85
+
+15.2 O contrato a ser assinado subordina-se à minuta contida no Anexo VI. 15.3 O contrato poderá ser rescindido conforme o disposto no artigo 78 com os desdobramentos dos artigos 79 e 80 da Lei nº 8.666/93. 15.4 Incumbirá à contratante providenciar a publicação resumida do instrumento do Contrato e de seus eventuais termos aditivos, no Diário Oficial do Distrito Federal. 15.4 Quando da assinatura do contrato, o contratado deverá fornecer declaração de transferência dos direitos patrimoniais objeto do contrato, conforme anexo VIII.
+
+16­ DA PRORROGAÇÃO DO CONTRATO 16.1 Os serviços objeto desta licitação caracterizam-se como de prestação através de Ordens de Serviço e o contrato correspondente vigorará pelo prazo de 12 (doze) meses, contados da data de sua assinatura, podendo ser prorrogado por períodos sucessivos de igual duração até o limite de 48 (quarenta e oito) meses, observadas as disposições constantes do art. 57 da Lei nº 8.666/93. 16.2 O proponente que vier a ser contratado ficará obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões nos quantitativos dos serviços, até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato. 17 ­ DO RECEBIMENTO DO OBJETO 17.1 Os Projetos concluídos para atendimento ao objeto do Contrato deverão ser entregues, pela CONTRATADA à CONTRATANTE, gravados em meio magnético ou óptico, acompanhados de documentação e manuais de operação correspondentes. 17.2 A CONTRATANTE estabelecerá o meio físico de entrega dos artefatos desenvolvidos, em formato digital, acompanhado opcionalmente de cópia impressa, podendo ainda a CONTRATANTE autorizar a transmissão por conexão eletrônica. 17.3 Quando formalmente autorizada a transmitir artefatos por conexão eletrônica a CONTRATADA providenciará os recursos de hardware, software e comunicação necessários para o acesso à rede da CONTRATANTE, às suas expensas. Para isso deverão ser seguidas todas as políticas de segurança e acesso aos sistemas e ambientes definidas pela CONTRATANTE. 17.4 Para os programas, aplicativos, componentes, sistemas de informação, páginas WEB ou qualquer outra rotina programável desenvolvida para atendimento dos serviços contratados, deverão ser entregues, além do estabelecido no "caput" desta Cláusula, os respectivos programas fontes e executáveis.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+17 de 85
+
+17.5 O recebimento definitivo dos serviços/produtos não exime a responsabilidade da CONTRATADA pela qualidade técnica e segurança dos trabalhos desenvolvidos, bem assim pelo sigilo sobre os dados utilizados na execução. 17.6 A CONTRATANTE emitirá, após a avaliação e teste dos artefatos entregues, para cada fase e ao final do projeto, o Termo de Aceitação do Serviço, no prazo máximo de 10 (dez) dias úteis. 17.7 A avaliação pode gerar a recusa de artefatos por motivo de vícios de qualidade. Em caso de recusa, o prazo de entrega do serviço não será prorrogado, o que pode gerar aplicação de penalidades por atraso, conforme definido no item 14 ­ Relatório de Nível de Atendimento de Serviço do Projeto Básico. 17.8 A emissão de aceite pela CONTRATANTE não exime a CONTRATADA da responsabilidade pela correção de erros posteriormente identificados, pela qualidade técnica e pela segurança dos trabalhos desenvolvidos, aplicando-se cumulativamente as proteções contra os vícios da atividade de consumo fixadas pela Lei n. 8.078, de 11 de setembro de 1990. 18 ­ DO PAGAMENTO 18.1 A remuneração, dos serviços contratados, será por Ordem de Serviço emitida e calculada de acordo com a mensuração do projeto em pontos de função, apurados conforme definido no subitem 7.2 ­ Tabela de Equações para Contagem de Pontos de Função, do Projeto Básico. 18.2 Os pagamentos devidos pela Administração não serão, em nenhuma hipótese, antecipados, devendo ser efetivados a partir da data final do período de adimplemento de cada parcela, obedecendo ao disposto nos itens abaixo. 18.3 O pagamento dos valores estabelecidos em cada Ordem de Serviço obedecerá a distribuição percentual por fases do processo de desenvolvimento de sistemas adotado pela CONTRATANTE, apresentada na tabela a seguir. O detalhamento de cada fase está apresentado no Anexo II ­ Artefatos Integrantes de Cada Fase do Projeto do Projeto Básico. Tabela de Distribuição Percentual de Pagamento FASES Iniciação Elaboração Construção Transição PERCENTUAL (%) DE PAGAMENTO 5% 10% 25% 20%
+
+18.4 Os 40% (quarenta por cento) restantes dos percentuais indicados no item anterior - Tabela de Distribuição Percentual de Pagamento - serão pagos após a implementação integral do projeto e aceite final pela NTI/ADASA.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+18 de 85
+
+18.5 Após elaboração do projeto pela contratada e após o aceite do projeto pela CONTRATANTE, será realizado o primeiro pagamento, correspondente ao percentual estabelecido para a fase de Iniciação, definida na Tabela 18.3 deste edital, que corresponde 5% (cinco por cento) do valor total estimado para o projeto. 18.6 Os pagamentos subseqüentes deverão ocorrer após a execução da OSF, que conterá cronograma de desembolso específico para o pagamento das parcelas correspondentes aos percentuais estabelecidos para as fases definidas na Tabela do item 18.3 deste edital. 18.7 O pagamento das parcelas ocorrerá sempre após o aceite pela CONTRATANTE dos artefatos elaborados durante a fase correspondente formalizada pela emissão de um Termo de Aceitação de Serviço. No aceite da última entrega da última fase do projeto, também será emitido um Termo de Aceitação de Serviço referente à parcela residual definida no subitem 18.4 deste edital. 18.8 Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de Pontos de Função, bem como dedução de valores relativos a penalidades, serão efetuados na última parcela de desembolso prevista para última fase. 18.9 Os pagamentos ocorrerão sempre mediante a apresentação de Nota Fiscal, Fatura de Pagamento correspondente aos serviços entregues e Termo de Aceitação do Serviço. O prazo para pagamento, de cada fase, não será superior a 30 dias, observado o disposto nesse item, observado o disposto no art. 40, inc. XIV, alínea "a". 18.10 Os valores pagos em período superior ao estabelecido no item anterior serão atualizados pelo IPCA, desde a data final do período de adimplemento até a data do efetivo pagamento. 19 ­ DO REAJUSTE 19.1 Os preços unitários do Ponto de Função - PF não estarão sujeitos a qualquer reajuste durante o primeiro período de 1 (um) ano, contado da data da assinatura do Contrato. 19.2 Quando da prorrogação do Contrato, os valores poderão ser atualizados, excepcionalmente, mediante reajuste, desde que haja demonstração analítica da variação dos componentes dos custos no período considerado, utilizando-se como limite máximo referencial o IGPDI acumulado do período entre a assinatura do contrato e seu vencimento.
+
+20 ­ DAS DISPOSIÇÕES FINAIS 20.1 Quaisquer pedidos de esclarecimentos ou eventuais dúvidas de caráter técnico ou legal quanto à interpretação dos termos desta Concorrência, deverão ser dirigidas, por escrito, à Comissão Especial de Licitação, até 05 (cinco) dias úteis antes da data prevista para recebimento dos envelopes, no endereço Setor Ferroviário ­ Parque Ferroviário de Brasília ­ Estação Rodoferroviária, Sobreloja Ala Norte, onde serão fornecidas cópias do presente Edital e seus Anexos. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+19 de 85
+
+20.2 Os esclarecimentos prestados pela Comissão serão comunicados a todos os interessados adquirentes do Edital, por meio de fac-símile (Fax), correio eletrônico (e-mail) ou telefone. 20.3 Sem prejuízo da forma de divulgação prevista nos subitens 7.7, 7.10, 9.2 e 15.4 deste Edital, os atos da Comissão Especial de Licitação, com sua respectiva fundamentação, quando for o caso, serão disponibilizados aos interessados na página da ADASA na Internet, no endereço eletrônico e conforme seqüência de navegação a seguir indicados: www.adasa.df.gov.br Transparência Pública Licitações Concorrência 01/2010-ADASA 20.4 Se as dúvidas suscitadas implicarem alteração das condições de participação ou de contratação, o Aviso de Convocação será republicado e designada nova data para a apresentação de propostas. 20.5 A seu critério, a ADASA, por ato justificado da autoridade competente, poderá: a) revogar, no todo ou em parte, esta licitação, se for considerada inoportuna ou inconveniente ao interesse público, sem que disso resulte, para qualquer interessado, direito a ressarcimento ou indenização; b) alterar as condições de participação, ou da contratação, promovendo a republicação do aviso de convocação da Concorrência e reabrindo novo prazo para a apresentação da documentação e propostas; c) anular a adjudicação e desclassificar a proposta vencedora, se tomar conhecimento de fato, anterior ou posterior ao julgamento, que demonstre dolo ou má-fé do licitante, ou comprometa sua idoneidade técnica, financeira ou administrativa. 20.6 A licitação será anulada, de ofício ou por provocação de terceiros, se constatada ilegalidade ou vício insanável em seu procedimento. 20.7 A simples apresentação de proposta não envolve qualquer compromisso de contratação por parte da ADASA, importando, entretanto, irrestrita e irretratável aceitação das condições da licitação e dos termos deste Edital. 20.8 A ADASA poderá cancelar a Nota de Empenho que vier a ser emitida em decorrência desta licitação e, conseqüentemente, rescindir o respectivo Contrato, independentemente de interpelação judicial, sem que assista à Contratada qualquer direito, quando esta: a) venha a ser atingida por protesto de título, execução fiscal ou outro fato que comprometa a sua capacidade econômico-financeira; b) violar o sigilo das informações recebidas para a realização dos serviços; ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+20 de 85
+
+c) utilizar, em benefício próprio ou de terceiros, informações não divulgadas ao público e às quais tenha acesso, por força das atribuições contratuais e outras que contrariarem as condições estabelecidas pela ADASA; d) venha a ser declarada inidônea para licitar ou contratar com a administração pública ou punida com suspensão temporária de participação em licitação e impedimento de contratar com a administração, direta ou indireta, federal, estadual ou do Distrito Federal, e municipal. 20.9 A Contratada será responsável pelos danos causados à Administração ou a terceiros, praticados por seus empregados ou prepostos nas dependências da ADASA, obrigando-se a substituir o bem ou a indenizar o dano. 20.10 Os casos omissos serão resolvidos pela Comissão Especial de Licitação, que decidirá com base na legislação vigente. Brasília, 13 de janeiro de 2010
+
+CARPEGIANE BARBOSA DA SILVA Presidente da Comissão Especial de Licitação
+
+NELSON GOMES MOCO NETO Membro
+
+GERALDO ALVES BARCELLOS Membro
+
+MARCELO MESSIAS DE MATTOSINHOS Membro
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+21 de 85
+
+EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+ANEXOS
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+22 de 85
+
+EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+ANEXO I
+PROJETO BÁSICO
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+23 de 85
+
+ANEXO I DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+Unidade Orçamentária: 28.204 Programa de Trabalho: 18.544.0450.2994.0006 Natureza da Despesa: 33.90.39 Fonte de Recursos: 150/151 Responsável: Núcleo de Tecnologia da Informação ­ NTI.
+
+PROJETO BÁSICO Nº 009/2009-NTI/ADASA
+I - DA IDENTIFICAÇÃO Responsável: Núcleo de Tecnologia da Informação ­ NTI. II - DO OBJETO Este Projeto Básico tem por objetivo a contratação de serviços técnicos especializados aplicáveis ao desenvolvimento e melhorias de sistemas informatizados por meio da modalidade de fábrica de software. III - DA JUSTIFICATIVA Em vista do encerramento do atual contrato de prestação de serviços de Tecnologia da 2. Informação para Documentação, Desenvolvimento e Manutenção de Sistemas, faz-se necessário a realização de novo processo licitatório para contratação de empresa especializada para a realização de tais serviços de Tecnologia da Informação, essenciais para a execução das atividades finalísticas e de suporte da ADASA. 3. Saliente-se que esta contratação é aderente a política de terceirização adotada pela ADASA, visto tratar-se de serviços distintos do core business (i.e. atividade finalista) da Agência, que por acertada medida concentra seus recursos humanos em atividades associadas à regulação e fiscalização de recursos hídricos, energia e saneamento básico. 4. Este documento foi elaborado à luz da Lei no 8.666/93, com vistas a viabilizar a contratação de serviços técnicos especializados de desenvolvimento e manutenção de sistemas informatizados para atender as necessidades da ADASA. Deste modo, ele contém elementos essenciais fixados na referida lei, descritos de forma a subsidiar os interessados a preparar sua documentação e propostas técnica e comercial. IV - DOS PRAZOS O prazo de execução dos serviços será de 12 (doze) meses contados a partir da data da assinatura do contrato, ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+24 de 85
+
+podendo ser prorrogado, por iguais e sucessivos períodos, limitado a (48) quarenta e oito meses, de vigência de acordo com o previsto no Art. 57, inciso IV, da Lei 8.666/93. V - DOS VALORES ESTIMADOS O valor anual estimado para esta licitação é de 3.320.150,00 (três milhões trezentos e vinte mil e cento e cinqüenta reais), considerando-se o valor unitário do ponto de função de R$ 664,03 (seiscentos e sessenta e quatro reais e três centavos). VI ­ DAS ESPECIFICAÇÕES TÉCNICAS 5. Detalhamento do Objeto 5.1. Projeto de Desenvolvimento: compreende a construção de novos sistemas de informação em conformidade com os critérios, funcionalidades e características informadas pela ADASA. 5.2. Projeto de Melhoria: compreende a inclusão, alteração ou exclusão de funcionalidades em sistemas existentes. 6. Dimensionamento dos Serviços 6.1. Os serviços relacionados ao objeto deste Edital serão medidos através Ponto de Função (PF). A contagem de Pontos de Função será realizada conforme a metodologia descrita no Manual de Práticas e Contagens versão 4.2.1 (Counting Pratices Manual Release 4.2.1), publicado pelo IFPUG (International Function Point Users Group) em 2005. 6.2. A utilização de novas versões do Manual citado no subitem 5.1 ficará a critério da ADASA, que mediante comunicação formal, estipulará prazo apropriado para adequação da CONTRATADA. 6.3. O volume de serviço estimado, para o um período de 12 (doze) meses, é de até 5.000 Pontos de Função (PF). Em caso de prorrogação contratual este volume (5.000 PF) deve ser mantido para o próximo período de 12 (doze) meses, sendo que para cada período o número máximo de Pontos de Função será de 5000 (cinco mil). 6.4. As demandas serão organizadas ao longo do ano conforme as necessidades da Agência, sendo responsabilidade da CONTRATADA ajustar-se com vistas ao atendimento dos Projetos Solicitados pela ADASA, doravante denominada CONTRATANTE, de acordo com os prazos máximos declarados no subitem 8.2. - Tabela de Prazos para Início e Término de uma OSF. 7. Forma de Medição dos Serviços 7.1. A CONTRATANTE adotará as equações a seguir na mensuração, em pontos de função, dos projetos contratados e de acordo com os tipos de serviços estabelecidos no item 5 ­ Detalhamento do Objeto, deste Projeto Básico. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+25 de 85
+
+7.2. Tabela de Equações para Contagem de Pontos de Função TIPO DE SERVIÇO Projeto de Desenvolvimento (subitem 5.1 deste Projeto Básico) Projeto de Melhoria (subitem 5.2 deste Projeto Básico) MENSURAÇÃO Fórmula descrita no Manual de Práticas e Contagens versão 4.2.1, do IFPUG, para Projetos de Desenvolvimento (New Development FP Count). Fórmula descrita no Manual de Práticas e Contagens versão 4.2.1, do IFPUG, para Projetos de Melhoria (Enhancement FP Count).
+
+7.3. Para efeitos de cálculo a CONTRATANTE utilizara o Fator de Ajuste igual a 1 (um) para todos os projetos. 7.4. A contagem de Pontos de Função será efetuada ao término da etapa de Iniciação (Contagem Estimativa) e na conclusão dos serviços (Contagem Final) pela CONTRATADA, cabendo a CONTRATANTE efetuar a validação dessas contagens. 7.5. Caso haja divergências iguais ou superiores a 5% entre a CONTRATANTE e a CONTRATADA em relação às contagens de pontos de função do serviço efetuado, será aberto um processo formal, a ser decido pelo Coordenador do Núcleo de Tecnologia da Informação ­ NTI, podendo-se recorrer ao disposto no subitem 10.5. Caso as divergências sejam inferiores a 5%, prevalecerá a contagem apurada pela CONTRATANTE. 7.6. A CONTRATANTE adotará a tabela abaixo para apuração da equivalência em pontos de função de atividades não passíveis de mensuração pela técnica de Análise de Pontos de Função. A quantidade de pontos de função equivalente aos itens não mensuráveis será obtida pela multiplicação da base de Cálculo pelo Fator de Equivalência em PF. 7.7. Tabela para apuração de equivalência em Pontos de Função ITEM Layout de telas e arquivos Contempla alterações de layouts de telas ou arquivos sem que haja alteração de funcionalidade. Campos e variáveis Contempla a inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas sem que tenha havido mudanças na funcionalidade. Mensagens Contempla a alteração de mensagens de retorno a usuários. BASE DE CÁLCULO Quantidade de itens de layout alterados FATOR DE EQUIVALÊNCIA EM PF 0,04
+
+Quantidade de campos
+
+0,08
+
+Quantidade de mensagens alteradas
+
+0,04
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+26 de 85
+
+ITEM Menus Contempla a inclusão, alteração ou exclusão de menus ou telas de ajuda a usuário (helps) Dados Hard Coded Contempla a inclusão, alteração ou exclusão de dados pertencentes a listas (combo box) ou tabelas físicas.
+
+BASE DE CÁLCULO Quantidades de telas incluídas ou alteradas Quantidades de telas excluídas
+
+FATOR DE EQUIVALÊNCIA EM PF 0,1 0,02
+
+Quantidades de dados Inclusão de Tabela Alteração de Tabela Exclusão de Tabela Inclusão de Funcionalidade Alteração de Funcionalidade Exclusão de Funcionalidade
+
+0,04 1,00 0,60 0,40 0,30 0,20 0,10
+
+Code Table Contempla a necessidade de criação, alteração ou exclusão de tabelas Code Table e respectivas funcionalidades.
+
+8.
+
+Prazos para Execução dos Serviços 8.1. A tabela a seguir será utilizada pela CONTRATANTE como referência para o estabelecimento dos prazos para atendimento dos projetos mensurados em PF, objeto deste Projeto Básico. Esta tabela estabelece os prazos máximos admissíveis para o início e conclusão de uma Ordem de Serviço de Fábrica ­ OSF, elaborada conforme o disposto no subitem 11.2, contados a partir de sua emissão. 8.2. Tabela de Prazos para Início e Término de uma OSF.
+
+Tamanho do projeto em Prazo máximo para início Prazo máximo em dias Pontos de Função da OSF para conclusão da OSF 50 Imediato 88 dias 100 Imediato 100 dias 200 7 dias 133 dias 300 7 dias 163 dias 400 7 dias 186 dias 500 15 dias 205 dias 600 15 dias 225 dias 700 15 dias 245 dias 800 15 dias 265 dias 900 15 dias 282 dias 1000 15 dias 303 dias 1100 15 dias 325 dias 1200 15 dias 345 dias ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+27 de 85
+
+Tamanho do projeto em Pontos de Função 1300
+
+Prazo máximo para início da OSF 15 dias
+
+Prazo máximo em dias para conclusão da OSF 365 dias
+
+8.3. Para projetos inferiores a 50 Pontos de Função, o prazo máximo será determinado em dias. O número de dias do prazo máximo será obtido pela multiplicação da quantidade de Pontos de Função por 1,68 (um inteiro e sessenta e oito centésimos) com arredondamento para o inteiro imediatamente superior. 8.4. No caso de quantidades de Pontos de Função intermediárias aos valores da tabela, o prazo máximo será determinado por interpolação na tabela. 8.5. Os prazos definidos nos subitens 7.2 e 7.3, já consideram a quantidade de dias despendidos para o aceite do produto de cada fase pela CONTRATANTE conforme subitem 12.1 8.6. Serão incluídos, para efeito de verificação do cumprimento dos prazos máximos definidos no subitem 8.2, a quantidade de dias decorridos para o aceite do produto de cada fase pela CONTRATANTE, conforme subitem 13.1. 8.7. Prazos máximos superiores aos definidos no subitem 8.2 - Tabela de Prazos para Início e Término de uma OSF -, deste Projeto Básico, poderão ser admitidos em caráter excepcional e a critério da CONTRATANTE quando condições supervenientes venham a interferir no andamento do serviço. 8.8. Os serviços referentes à Ordem de Serviço de Iniciação ­ OSI, emitida em conformidade com o subitem 11.1 deste Projeto Básico, deverão ser iniciados em dois dias úteis contados após a emissão da referida OSI. 9. Local de Execução dos Serviços 9.1. Os Serviços deverão ser executados nas instalações da CONTRATADA, que deverá providenciar, às suas expensas, toda infra-estrutura de hardware e software bem como recursos humanos e demais recursos físicos necessários à prestação dos serviços contratados. 9.2. As interações com os profissionais da CONTRATANTE ou com outros prestadores de serviços, necessárias à execução dos serviços (e.g. especificação de requisitos) ocorrerão em Brasília, cabendo à CONTRATADA a responsabilidade pelo deslocamento dos profissionais envolvidos na prestação dos serviços quando necessário. 9.3. No caso da realização de serviços que, eventualmente, demandem a atuação de profissionais da CONTRATADA nas dependências da CONTRATANTE, ficará a cargo da CONTRATADA o fornecimento dos recursos e materiais necessários à sua execução. 9.4. Os serviços a serem realizados nas dependências da CONTRATANTE observarão o horário de expediente da Agência, das 08:00 às 12:00 hs e das 14:00 às 18:00 hs, de segunda a sexta-feira. Excepcionalmente, poderá ser solicitada, previamente e sempre por escrito, a ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+28 de 85
+
+realização de atividades fora desse horário, tanto em dias úteis, após as 18:00 hs, quanto aos sábados, domingos e feriados. 10. Processo de Execução dos Serviços. 10.1. O Núcleo de Tecnologia da Informação ­ NTI/ADASA elabora definição do serviço a ser executado, definindo o seu escopo e classificando-o como Projeto de Desenvolvimento ou Projeto de Melhoria, de acordo com o item 5 ­ Detalhamento do Objeto deste Projeto Básico. 10.2. O NTI/ADASA coordena estudo de viabilidade para execução, pela empresa CONTRATADA para prestação do objeto deste Projeto Básico, de projeto demandado por uma unidade organizacional da CONTRATANTE, vis a vis alternativas de contratação no mercado, mediante processos específicos. 10.3. Comprovada a viabilidade, o NTI/ADASA autoriza a execução da primeira fase do projeto, (i.e. Iniciação) definida no subitem 0 - Tabela de Distribuição Percentual de Pagamento, mediante emissão de Ordem de Serviço de Iniciação ­ OSI à CONTRATADA, elaborada conforme subitem 11.1 deste Projeto Básico, a qual deverá ter início de acordo com o prazo definido no subitem 8.8 deste Projeto Básico. 10.4. Concluída a fase de Iniciação o Representante da CONTRATADA apresentará a NTI/ADASA a contagem estimativa de Pontos de Função, correspondente ao projeto a ser executado. 10.5. A NTI/ADASA promoverá a homologação dos artefatos desenvolvidos pela CONTRATADA durante a execução da OSI junto à Unidade Organizacional da CONTRATANTE solicitante, e ratificará ou retificará a contagem estimativa de Ponto de Função contabilizada pela CONTRATADA, podendo recorrer a parecer técnico especializado de outro fornecedor especificamente contratado. 10.6. Aprovados os artefatos resultantes da OSI e estimativa de Pontos de Função, caberá a NTI/ADASA a decisão de continuidade do projeto pela CONTRATADA. 10.7. Definida a continuidade do projeto, a NTI/ADASA autorizará a execução dos serviços, conforme o caso, mediante emissão de Ordem de Serviço de Fábrica ­ OSF à CONTRATADA, elaborada conforme subitem 11.2 deste Projeto Básico. 10.8. A critério do NTI/ADASA poderá ser definida a necessidade de acompanhamento da execução de qualquer projeto, nas instalações da CONTRATADA, por técnicos da Agência ou por ela indicados. 10.9. Sempre que necessário poderão ser realizadas reuniões entre a CONTRATANTE e a CONTRATADA para esclarecimentos adicionais acerca do projeto a ser executado. As reuniões serão consideradas como esforço de gestão, não cabendo remuneração adicional a CONTRATADA. 10.10. Toda e qualquer alteração na estimativa inicial da contagem de pontos de função deverá ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+29 de 85
+
+ter a aprovação formal da NTI/ADASA. 10.11. Os produtos resultantes dos SERVIÇOS (e.g. código fonte), exclusivamente sob a contratação decorrente desta licitação, em qualquer hipótese, serão de propriedade material da CONTRATANTE, deverão ser entregues a ela sem nenhum tipo de restrição de uso e ônus, a qualquer tempo, sendo vedada a sua utilização pela CONTRATADA, a menos que seja dada autorização expressa pela CONTRATANTE. 10.12. A CONTRATADA terá a propriedade, intelectual e material, relacionadas ao know-how, idéias, conceitos, técnicas e metodologias utilizadas pela mesma na execução dos SERVIÇOS, tais como compêndios, prospectos, planilhas, programas e manuais. 11. Tipos de Ordem de Serviço 11.1. Ordem de Serviço de Iniciação - OSI, emitida para a elaboração dos artefatos previstos para a fase de Iniciação para Projetos de Desenvolvimento ou de Melhoria de um sistema existente, possibilitando ao seu final a contagem estimativa de Pontos de Função correspondentes. 11.2. Ordem de Serviço de Fábrica de Software - OSF, emitida para execução das fases de Elaboração, Construção e Transição caracterizando-se como um procedimento complementar ao executado na OSI correspondente. Ao seu final será executada a contagem definitiva dos PF do projeto. 11.3. Ambas as Ordens de Serviços serão emitidas uma para cada projeto específico, segundo prioridades e critérios de racionalidade, economicidade e adequação às necessidades preconizadas pela NTI/ADASA, e de acordo com os modelos a serem estabelecidos pelo NTI/ADASA para Ordem de Serviço de Iniciação (OSI) e Ordem de Serviço de Fábrica (OSF). 12. Condições de Entrega. 12.1. A CONTRATANTE estabelecerá o meio físico de entrega dos artefatos desenvolvidos, em formato digital, acompanhado opcionalmente de cópia impressa, podendo ainda a CONTRATANTE autorizar a transmissão por conexão eletrônica. 12.2. Quando formalmente autorizada a transmitir artefatos por conexão eletrônica a CONTRATADA providenciará os recursos de hardware, software e comunicação necessários para o acesso à rede da CONTRATANTE, às suas expensas. Para isso deverão ser seguidas todas as políticas de segurança e acesso aos sistemas e ambientes definidas pela CONTRATANTE. 13. Aceite do Serviço 13.1. A CONTRATANTE emitirá, após a avaliação e teste dos artefatos entregues, para cada fase e ao final do projeto, o Termo de Aceitação do Serviço, no prazo máximo de 3 (três) dias úteis. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+30 de 85
+
+13.2. A avaliação pode gerar a recusa de artefatos por motivo de vícios de qualidade. Em caso de recusa, o prazo de entrega do serviço não será prorrogado, o que pode gerar aplicação de penalidades por atraso, conforme definido no item 14 ­ Relatório de Nível de Atendimento de Serviço deste Projeto Básico. 13.3. A emissão de aceite pela CONTRATANTE não exime a CONTRATADA da responsabilidade pela correção de erros posteriormente identificados, pela qualidade técnica e pela segurança dos trabalhos desenvolvidos, aplicando-se cumulativamente as proteções contra os vícios da atividade de consumo fixadas pela Lei n. 8.078, de 11 de setembro de 1990. 14. Relatório de nível de atendimento de serviço 14.1. Para cada fase de cada OS o representante da CONTRATANTE realizará avaliação do nível de atendimento dos serviços contratados, considerando os pontos perdidos nas avaliações dos indicadores estabelecidos no subitem 14.3 ­ Indicadores de Nível de Serviço Prestado, deste Projeto Básico. 14.2. Estão excluídos da aplicação de penalidades por descumprimento de prazo os atrasos motivados por falta de disponibilidade de recursos humanos ou infra-estrutura por parte da CONTRATANTE. 14.3. O valor total das penalidades aplicadas limitar-se-á a 30% (trinta por cento) do valor apurado para o projeto, na estimativa final de Pontos de Função, a ser descontado por ocasião do aceite final. 14.4. Indicadores de Nível de Serviço Prestado
+
+Item
+
+QUALIDADE Descrição da Avaliação Por ocasião da entrega final dos serviços previstos na · OS (i.e. Projeto de Desenvolvimento ou Projeto de Melhoria), será calculado o Índice % de Erros por Ponto de Função - IEPF. (IEPF = NEE / TPF * 100) Onde, NEE: Total de Número de Erros Encontrados e TPF: Total de Números de Pontos de Função contabilizados na Estimativa Final. Se IEPF for superior a 3%, será considerada uma avaliação insatisfatória. Ver item 14.6 para a definição do que será considerado erro. Por ocasião da entrega dos Artefatos documentais, · previstos para cada fase do projeto, será verificada a adequação destes aos padrões estabelecidos no Anexo II deste Projeto Básico.
+"Brasília - Patrimônio Cultural da Humanidade"
+
+Efeitos da Avaliação Abatimento progressivo de até 5% (cinco por cento) do valor da Ordem de Serviço correspondente. Os percentuais de progressão estão especificados em tabela no item 14.5.
+
+Abatimento de 5% (cinco por cento) do valor previsto para a Ordem de Serviço correspondente.
+
+___________________________________________________________________________ 31 de 85
+
+Item
+
+QUALIDADE Descrição da Avaliação Se a recusa for superior a 8 (oito) do total de Artefatos previstos na Ordem de Serviço correspondente, será considerada uma avaliação insatisfatória.
+
+Efeitos da Avaliação
+
+Item
+
+PONTUALIDADE Descrição da Avaliação Não cumprimento do Início em dois dias úteis da OSI, · prevista no subitem 8.8 deste Projeto Básico será considerada uma avaliação insatisfatória. Atraso nas entregas previstas nos cronogramas · estabelecidos na OSF, sem justificativa aceita pelo representante da CONTRATANTE, será considerada uma avaliação insatisfatória. ·
+
+Efeitos da Avaliação Multa de R$ 1.000,00 (mil reais), por dia de atraso. Notificação de Atraso, a contar a partir do primeiro dia de atraso de cada entrega, até o quinto dia útil subseqüente. Abatimento, a contar a partir do sexto dia de atraso, de 1% (um por cento) por dia, do valor previsto para a parcela da Ordem de Serviço correspondente.
+
+14.5. Tabela de percentuais de abatimento para o Índice de Erros por Ponto de Função (IEPF): Faixa 1 2 3 4 5 IEPF 3%  EPF < 5% 5%  EPF < 10% 10%  EPF < 15% 15%  EPF < 20% IEPF  20% % Abatimento no valor da OSF 1,0 2,0 3,0 4,0 5,0
+
+14.6. Será considerado como erro, para efeito de cálculo dos indicadores de nível de serviço prestado: 14.6.1. Desconformidade capaz de provocar a interrupção do funcionamento do sistema; 14.6.2. Desconformidade capaz de provocar desvios para pontos não previstos na especificação técnica; 14.6.3. Desconformidade em fórmulas de cálculos que produzam resultados diferentes dos previstos na especificação técnica; 14.6.4. Funcionalidade ausente ou desconforme com a especificação técnica. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+32 de 85
+
+15.
+
+Tramitação de Documentos entre CONTRATANTE e CONTRATADA 15.1. A tramitação de documentos entre a CONTRATANTE e a empresa CONTRATADA, tais como Ordens de Serviço (OSI e OSF), Nota Fiscal/Fatura, Relatório de Nível de Atendimento, entre outros, deverá correr somente através de Ofício específico, emitido em números e vias suficientes para as partes envolvidas.
+
+16.
+
+Descrição do ambiente computacional da ADASA 16.1. A plataforma tecnológica utilizada na CONTRATANTE encontra-se descrita a seguir. Saliente-se que a CONTRATADA deverá utilizar ferramentas e tecnologias compatíveis às adotadas pela CONTRATANTE. 16.2. A CONTRATANTE terá total liberdade para atualizar as versões de sistemas operacionais, linguagens de programação, bancos de dados e outras ferramentas de apoio ao desenvolvimento de sistemas de informação, segundo sua necessidade e conveniência administrativa. Caberá, neste caso, a CONTRATADA adaptar-se à nova plataforma computacional às suas expensas, em até 30 (trinta) dias a partir do aviso formal de mudança. 16.3. Da Rede Corporativa de Computadores 16.3.1. Rede com topologia em Estrela, segmentada por switches responsáveis pela, com velocidades de 1 gigabit entre switches e 100 megabits entre os outros pontos de rede, caracterizada como rede fast ethernet e que somam aproximadamente 198 pontos, distribuídos entre redes segmentadas lógica e fisicamente. 16.3.2. Composta de aproximadamente 8 (oito) máquinas do tipo servidor físico, empregados nos serviços de Correio Eletrônico, Controladores de Domínio, Internet, Intranet, Extranet, Gerenciamento Eletrônico de Documentos, Banco de Dados Corporativos e Firewall. 16.3.3. Os equipamentos servidores da Rede de Microcomputadores da CONTRATANTE estão instalados em uma sala localizada nas dependências da Agência. Este ambiente é protegido tendo seu acesso restrito aos colaboradores que desenvolvem trabalhos inerentes a esse ambiente. 16.4. Dos Sistemas de Informação (Plataforma Baixa) 16.4.1. 16.4.2. 16.4.3. 16.4.4. 16.4.5. 16.4.6. 16.5. Sistemas Informações Transacionais Sistemas WEB (Intranet, Internet, Extranet) Sistemas de Gestão Eletrônica de Documentos ­ GED Sistemas de Portais Corporativos Sistemas de Apoio à Decisão Sistemas de Hipertextos, Hipermídia e Multimídia
+
+Das linguagens de programação:
+
+16.5.1. Microsoft Visual Basic .Net 2.0 16.5.2. VB Script ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+33 de 85
+
+16.5.3. JScript 16.6. Dos Sistemas Operacionais 16.6.1. Microsoft Windows 2003 Server 16.6.2. Microsoft Windows XP Professional 16.6.3. Microsoft Windows Vista Business 16.7. Dos Bancos de Dados 16.7.1. Bancos de Dados relacional 16.7.1.1. Microsoft SQL-Server 2000 16.7.1.2. Microsoft SQL-Server 2008 16.8. Das Ferramentas de Segurança 16.8.1. FireWall ­ ISA server 16.8.2. Anti virus ­ McAfee 16.9. Do Correio Eletrônico 16.9.1. Microsoft Outlook (2003/2007) 16.9.2. Microsoft Exchange 2007 16.10. Do Microsoft Office (2003/2007) 16.10.1. 16.10.2. 16.10.3. 16.10.4. 16.10.5. 16.10.6. Word Excel Powerpoint Access Sharepoint Office Communicator
+
+16.11. Das Ferramentas de Apoio e Gerenciamento de Projetos 16.11.1. 16.11.2. 16.11.3. 16.11.4. Microsoft Project 98 Microsoft Project 2000 Microsoft Project 2003 Microsoft Project Server 2002
+
+VII - DAS QUALIFICAÇÕES DO PRESTADOR DO SERVIÇO OU FORNECEDOR 17. Requisitos Técnicos
+
+17.1. Possuir atestado de capacidade técnica, em nome do licitante, fornecidos por pessoas jurídicas de direito público ou privado (no caso de direito privado deverá constar no referido ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+34 de 85
+
+atestado o reconhecimento de firma do autor), comprovando o desenvolvimento de sistemas de informação com a aplicação da metodologia de pontos de função compatíveis com as técnicas de preconizadas pelo IFPUG. 17.2. Indicar, por declaração, na data de entrega da documentação e propostas que possuirá em seu quadro, Responsável Técnico detentor de atestado de capacidade técnica de execução de serviços de características semelhantes aos desta licitação, e, caso vencedor do processo licitatório, a época da assinatura do contrato comprovará Possuí-lo. 17.3. A regularidade do cadastramento e/ou habilitação do licitante inscrito no SICAF será objeto de confirmação "on line", no ato de abertura da licitação. 17.4. A falta de quaisquer dos documentos exigidos implicará a inabilitação do licitante, sendo vedada, sob qualquer pretexto, a concessão de prazo para complementação da documentação exigida para a habilitação. 17.5. Os documentos para habilitação poderão ser apresentados em original, cópias autenticadas em cartório ou conferidas e autenticadas no ato da apresentação por integrante da Comissão de Licitação, mediante confronto com os originais. Para os documentos cuja veracidade possa ser confirmada via Internet, será facultado aos proponentes apenas a apresentação das respectivas cópias. 17.6. A documentação de habilitação deverá estar em nome do licitante, com o número do CNPJ e respectivo endereço referido ao local de sua sede. Não se aceitará, portanto, que alguns documentos se refiram à matriz e outros à filial, exceto quando o próprio documento indicar expressamente que é válido para todos os estabelecimentos da empresa (matriz e filial). 17.7. Todos os documentos legais, comerciais ou financeiros apresentados por quaisquer licitantes, se originários de outros países, quando escritos em idioma estrangeiro, deverão ser traduzidos para a língua portuguesa por tradutor juramentado, caso seja feita no Brasil, ou por pessoa ou entidade com função equivalente, caso efetuada em outro país. 18. Para Regularidade Fiscal 18.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ).
+
+18.2. Prova de inscrição no Cadastro de Contribuintes estadual ou municipal, se houver, relativo ao domicílio ou sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto deste Projeto Básico. 18.3. Prova de regularidade de situação perante o INSS e o FGTS, através de Certidão Negativa de Débitos (CND) e Certificado de Regularidade do FGTS (CRF), respectivamente. 18.4. Certidões de regularidade de situação para com as Fazendas Federal, Estadual ou do Distrito Federal e Municipal do domicílio ou sede do licitante. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+35 de 85
+
+18.5. Para atendimento às disposições do inciso V do art. 27, e do § 2º do art. 32, ambos da Lei nº 8.666/93, o licitante deverá apresentar as declarações de cumprimento do disposto no inciso XXXIII do art. 7º da Constituição Federal e de compromisso de comunicação da superveniência de fato impeditivo de sua habilitação. VIII - DAS CONDIÇÕES COMERCIAIS 19. Pagamento dos Projetos 19.1. A remuneração, dos serviços contratados, será por Ordem de Serviço emitida e calculada de acordo com a mensuração do projeto em pontos de função, apurados conforme definido no subitem 7.2 ­ Tabela de Equações para Contagem de Pontos de Função, deste Projeto Básico. 19.2. O pagamento dos valores estabelecidos em cada Ordem de Serviço obedecerá a distribuição percentual por fases do processo de desenvolvimento de sistemas adotado pela CONTRATANTE, apresentada na tabela a seguir. O detalhamento de cada fase está apresentado no Anexo II ­ Artefatos Integrantes de Cada Fase do Projeto deste Projeto Básico. 19.3. Tabela de Distribuição Percentual de Pagamento FASES Iniciação Elaboração Construção Transição PERCENTUAL (%) DE PAGAMENTO 5% 10% 25% 20%
+
+19.4. Os 40% (quarenta por cento) restantes dos percentuais indicados no subitem 0 - Tabela de Distribuição Percentual de Pagamento serão pagos após a entrega e aceite do projeto pela NTI/ADASA. 19.5. No aceite da OSI pela CONTRATANTE será realizado o primeiro pagamento do projeto, correspondente ao percentual estabelecido para a fase de Iniciação, definida na Tabela 19.3 - Distribuição Percentual de Pagamento, deste Projeto Básico, que corresponde 5% (cinco por cento) do valor total estimado para o projeto. 19.6. Os pagamentos subseqüentes deverão ocorrer durante a execução da OSF, que conterá cronograma de desembolso específico para o pagamento das parcelas correspondentes aos percentuais estabelecidos para as fases definidas na Tabela 19.3 ­ Tabela de Distribuição Percentual de Pagamento, deste Projeto Básico. 19.7. O pagamento das parcelas ocorrerá sempre após o aceite pela CONTRATANTE dos artefatos elaborados durante a fase correspondente formalizada pela emissão de um Termo de Aceitação de Serviço. No aceite da última entrega da última fase do projeto também será emitido um Termo de Aceitação de Serviço referente à parcela residual definida no subitem 19.4. deste Projeto Básico. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+36 de 85
+
+19.8. Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de Pontos de Função, bem como dedução de valores relativos a penalidades, serão efetuados na última parcela de desembolso prevista. 19.9. Os pagamentos ocorrerão sempre mediante a apresentação de Nota Fiscal e Fatura de Pagamento correspondente aos serviços entregues. 19.10. A hipótese de autorização da execução de serviços nas dependências da CONTRATANTE, conforme definido no subitem 9.4, não implica em remuneração diferenciada da CONTRATADA, sendo esta atividade considerada como parte integrante do projeto. Portanto cabe a CONTRATADA o pagamento de seus profissionais, aplicando-lhes os respectivos adicionais estabelecidos na legislação atinente à realização de atividades além da jornada normal de trabalho. 20. Cancelamento dos Projetos 20.1. No caso de cancelamento de uma OSF, a CONTRATANTE se compromete em ressarcir à CONTRATADA o valor total previsto para a fase ora em execução, de acordo com a Tabela de Percentuais de Ressarcimento a seguir, multiplicado pelo valor total estimado do projeto, condicionado este ressarcimento ao término da fase, entrega e aceite dos artefatos correspondentes. 20.2. Tabela de Distribuição Percentual de Ressarcimento FASES Iniciação Elaboração Construção Transição PERCENTUAL (%) DE RESSARCIMENTO 5% - Relativa à OSI 20% 50% 25%
+
+20.3. No caso do cancelamento de uma OSI durante sua execução, a CONTRATADA deverá proceder a apuração do quantitativo de PF mensuráveis no momento da solicitação formal do cancelamento do projeto pela CONTRATANTE, que se compromete a ressarcir a CONTRATADA o valor de 5%, previsto para a fase de Iniciação, multiplicado pelo valor total estimado para o projeto, condicionado este ressarcimento ao término da fase, entrega e aceite dos artefatos correspondentes. 21. Garantia dos Projetos 21.1. A CONTRATADA garantirá os serviços prestados até 12 (doze) meses após o término definitivo do contrato, depois de finda todas as possíveis renovações e prorrogações, contados a partir da assinatura do contrato. 21.2. Durante o período de garantia caberá à CONTRATADA toda a manutenção corretiva decorrente de erros ou falhas que resultem em funcionamento incorreto ou em desconformidade com as especificações aceitas na OSI, cometidos durante o ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+37 de 85
+
+desenvolvimento dos serviços contratados ou decorrentes de integração, sem ônus para a CONTRATANTE, desde que o erro ou falha, comprovadamente, não se dê em função de inconsistências nas especificações aceitas pela CONTRATANTE. 21.3. O direito da CONTRATANTE à garantia cessará caso o software ou artefato seja alterado pela própria CONTRATANTE ou por outros fornecedores que não a CONTRATADA. Caso a própria CONTRATADA realize manutenções no software ou no artefato, permanece o direito da CONTRATANTE à garantia. 21.4. O início de atendimento aos chamados para execução de correções de erros ou falhas em serviços já entregues deve ser no prazo de 2 (duas) horas, contados a partir do registro do chamado pela CONTRATADA, e sem prejuízo dos demais serviços contratados. 22. Garantia Contratual 22.1. Será exigida prestação de garantia em qualquer das modalidades previstas no parágrafo 1º do artigo 56 da lei nº 8.666/93 no valor de 5% (cinco por cento) do valor contratado. 22.2. As garantias e seus reforços responderão por todas as multas que forem impostas à CONTRATADA e por todas as importâncias que, a qualquer título, forem devidas pela CONTRATADA à ADASA. 22.3. Em caso de insuficiência, será a CONTRATADA notificada para, no prazo de 72 (setenta e duas) horas, completar o valor das multas, sob pena de rescisão do contrato. 22.4. O reforço e/ou a regularização da garantia, excetuada a hipótese prevista no item 22.6 deverá ser efetuado no prazo máximo de 5 (cinco) dias úteis, contados do recebimento da comunicação, feita por escrito pela contratante. 22.5. O prazo aludido no item 22.4 poderá ser prorrogado uma vez, por igual período, quando solicitado pela CONTRATADA durante o transcurso do prazo, se ocorrer motivo justificado e aceito pela CONTRATANTE. 22.6. A garantia prestada deverá ser substituída automaticamente pela CONTRATADA quando da ocorrência de seu vencimento, independentemente de comunicado da CONTRATANTE, de modo a manter ininterruptamente garantido o contrato celebrado. 22.7. Por ocasião do encerramento do contrato, o que restar da garantia da execução do contrato e seus reforços serão liberados ou restituídos após a liquidação das multas aplicadas, ou após a dedução de eventual valor de condenação da CONTRATADA. 22.8. O prazo da validade da garantia, quando prestada na modalidade seguro-garantia ou fiança bancária, deverá ser de no mínimo 30 (trinta) dias superior ao prazo de vigência do contrato. IX - DAS OBRIGAÇÕES DA CONTRATADA A infra-estrutura tecnológica necessária à prestação do serviço contratado compreendendo: 23. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+38 de 85
+
+hardware, software e pessoal deverá estar operacional no prazo máximo de 30 (trinta) dias contados da assinatura do contrato, ocasião em que poderá iniciar a emissão de Ordens de Serviço. 24. A CONTRATADA deverá estar preparada para no prazo máximo de 30 (trinta) dias, contados a partir da assinatura do contrato, executar desenvolvimento e melhoria em todas as tecnologias listadas no item 16 ­ Descrição do ambiente computacional da ADASA. Sendo vedada à CONTRATADA a recusa de projetos pela a alegação de desconhecimento ou incapacidade de utilização das tecnologias nele listadas. 25. A CONTRATADA deverá disponibilizar, no prazo máximo de 30 (trinta) dias a partir da assinatura do contrato, encarregado para gerenciamento deste e a ele competirá: 25.1. Negociar, junto ao representante da CONTRATANTE, termos e condições para realização dos serviços. 25.2. Gerenciar e supervisionar a execução dos serviços, exercer controle da assiduidade e pontualidade das entregas de artefatos, franqueando ao representante da CONTRATANTE, a qualquer tempo, o acesso a seus registros, para efeito de acompanhamento e fiscalização do serviço efetivamente executado. 25.3. Tratar com a CONTRATANTE sobre questões relevantes à execução do contrato e providenciar a regularização de falhas ou defeitos observados. 25.4. Encaminhar, à CONTRATANTE, Nota Fiscal/Fatura dos serviços prestados, acompanhada dos comprovantes de regularidade fiscal necessários ao processamento do pagamento. 25.5. Providenciar a entrega de documentação, relatórios técnicos e manuais operacionais, referentes aos serviços concluídos. 26. Do Sigilo das Informações 26.1. Todas as informações obtidas ou extraídas pela CONTRATADA quando da execução dos serviços deverão ser tratadas como confidenciais, sendo vedada qualquer divulgação a terceiros, devendo a CONTRATADA zelar por si e por seus sócios, empregados e subcontratados, pela manutenção do sigilo absoluto sobre os dados, informações, documentos, especificações técnicas e comerciais de que eventualmente tenham conhecimento ou acesso em razão dos serviços executados, conforme previsto no Decreto no 4.553, de 27 de dezembro de 2002. 26.2. A CONTRATADA responderá solidariamente com seus agentes empregados, prepostos, ou subcontratados, no caso de violação do compromisso de confidencialidade ora assumido, sujeitando-se a arcar com indenização por perdas e danos patrimoniais e morais e/ou lucros cessantes decorrentes da quebra do sigilo, salvo se ficar comprovado que a divulgação ocorreu por motivo de caso fortuito ou força maior, obrigação legal ou inexistência de culpa ou dolo. 26.3. O acesso à Informação Confidencial será restrito ao profissional alocado para a execução dos SERVIÇOS. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+39 de 85
+
+26.4. A CONTRATADA deverá restituir imediatamente à CONTRATANTE, quando do término do serviço ou quando for solicitada, qualquer informação confidencial da CONTRATANTE. Em caso de perda de quaisquer informações confidenciais do CONTRATANTE, a CONTRATADA deverá notificar por escrito a CONTRATANTE, imediatamente. 26.5. A não observância do disposto sobre Confidencialidade torna a PARTE infratora sujeita às penalidades cabíveis previstas em lei.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+40 de 85
+
+X - DAS OBRIGAÇÕES DA CONTRATANTE 27. Competirá à CONTRATANTE: 27.1. Transmitir formalmente à CONTRATADA, previamente à execução dos serviços objeto deste Projeto Básico, todas as informações necessárias à realização dos trabalhos; 27.2. Designar o representante da NTI/ADASA, referido no item 28 deste Projeto Básico, para autorizar, aprovar e medir a eficiência da execução do Contrato; 27.3. Disponibilizar o local para execução dos serviços, quando estes forem executados em suas instalações; 27.4. Autorizar, quando necessário o acesso dos empregados da CONTRATADA às suas instalações para execução dos serviços; 27.5. Fornecer crachá de acesso às dependências da CONTRATANTE, de uso obrigatório pelos funcionários da CONTRATADA; 27.6. Emitir, antes da execução de qualquer serviço as correspondentes Ordens de Serviço OS, definindo claramente os requisitos técnicos, operacionais, administrativos e financeiros dos trabalhos a serem executados pela CONTRATADA; 27.7. Prestar as informações e os esclarecimentos relativos à execução dos serviços, que venham a ser solicitados pela CONTRATADA; 27.8. Efetuar os pagamentos devidos pela execução dos serviços, incluindo a compensação financeira por eventuais atrasos no seu processamento pela CONTRATANTE, após comprovação da regularidade fiscal da CONTRATADA, na forma, prazo e condições estabelecidas item 19 ­ Pagamento dos Projetos deste Projeto Básico; 27.9. Deduzir e proceder a retenção e recolhimento dos tributos incidentes na fonte, sobre os valores devidos à CONTRATADA; 27.10. Comunicar oficialmente à CONTRATADA quaisquer falhas ou irregularidades observadas no cumprimento deste Instrumento, inclusive e especialmente as nãoconformidades constatadas na avaliação dos serviços prestados e consignadas no Relatório de Nível de Atendimento do Serviço, a que se refere o item 14 deste Projeto Básico; 27.11. Notificar a CONTRATADA sobre a aplicação de penalidades, assegurada a prévia defesa, nos termos do subitem 14.3 ­ Indicadores de Nível de Serviço Prestado deste Projeto Básico. XI - DO GESTOR DO CONTRATO 28. A Diretoria Colegiada da ADASA designará Gestor do Contrato, a quem competirá:
+
+28.1. Autorizar a execução do projeto a ser contratado; ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+41 de 85
+
+28.2. 28.3.
+
+Aprovar a execução do projeto efetuado; Medir a eficiência dos serviços prestados e informar possíveis divergências.
+
+28.4. Zelar pelo efetivo cumprimento do padrão de qualidade dos técnicos da CONTRATADA durante a execução do contrato. 28.5. Notificar, o mais cedo possível, todos os desvios de normalidade na execução do contrato. 28.6. Indicar a necessidade de apenação, quando houver descumprimento contratual ou prejuízos quaisquer de responsabilidade da CONTRATADA.
+
+GERALDO ALVES BARCELOS Coordenador do Núcleo de Tecnologia da Informação - NTI
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+42 de 85
+
+EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+ANEXO II
+
+ORIENTAÇÕES E CRITÉRIOS PARA ELABORAÇÃO DA PROPOSTA TÉCNICA
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+43 de 85
+
+ANEXO II DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA ORIENTAÇÕES E CRITÉRIOS PARA ELABORAÇÃO DE PROPOSTA TÉCNICA
+
+No julgamento das propostas das empresas participantes do processo licitatório deverão ser adotados os procedimentos preceituados no Decreto n0 1.070, de 02 de março de 1.994. 2. O fator de ponderação a que se refere o inciso IV, do art. 30, do Decreto n0 1.070/94, para efeito de avaliação das propostas técnicas nesta licitação, será 5 (cinco) para o critério técnico e 5 (cinco) para o critério preço. Observadas as condições estabelecidas no corpo do Edital e demais anexos, as propostas 3. técnicas serão julgadas de acordo com os seguintes fatores de avaliação: FATOR COMPATIBILIDADE DESEMPENHO QUALIDADE SUPORTE DE SERVIÇOS SIGLA FCO FDE FQU FSS PESO 4 3 3 2
+
+4. Os licitantes deverão preencher as planilhas de pontuação técnica, de acordo com as instruções constantes deste Anexo II. As folhas impressas, em papel timbrado do licitante deverão ser numeradas seqüencialmente, rubricadas e assinadas na última página pelo representante legal do proponente.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+44 de 85
+
+1. FATOR COMPATIBILIDADE (FCO) A proposta técnica do proponente será avaliada e pontuada, relativamente ao Fator Compatibilidade (FCO), em função das notas obtidas no seguinte subfator: SUBFATOR 1.1: Experiência do proponente na prestação de serviços em atividades de desenvolvimento e/ou manutenção de sistemas de informação utilizando as ferramentas descritas no item 1.1.1. A comprovação será feita através de Atestado de Capacidade Técnica, emitidos pelos órgãos ou entidades CONTRATANTES. Instruções para Preenchimento das Planilhas: Assinalar com um X, na coluna SIM, na linha relativa à ferramenta para a qual haja ao menos um Atestado de Capacidade Técnica. Somar na linha TOTAL DA PONTUAÇÃO (PFCO) os valores indicados na coluna PONTOS, correspondentes às linhas assinaladas com X. FATOR COMPATIBILIDADE (FCO) SIM PONTOS LINGUAGENS DE PROGRAMAÇÃO 1. Microsoft Visual Basic.NET 25 2. Microsoft Visual C# ou JAVA 25 SISTEMA GERENCIADOR DE BASES DE DADOS 3. Microsoft SQLServer 2008 ou superior 25 METODOLOGIA 4. Unified Modeling Language - UML 25 TOTAL DA PONTUAÇÃO (PFCO) Pontuação Máxima: 100 pontos
+
+1.1.1
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+45 de 85
+
+2. FATOR DESEMPENHO (FDE) A proposta técnica do proponente será avaliada e pontuada, relativamente ao Fator Desempenho (FDE), em função das notas obtidas no seguinte Subfator: SUBFATOR 2.1: Quantidade de Pontos de Função (PF) prestada em atividades relacionadas ao desenvolvimento e manutenção de sistemas de informação em um período de 24 meses consecutivos. A comprovação será feita mediante a apresentação de Atestado de Capacidade Técnica, emitidos pelos órgãos ou entidades CONTRATANTES constando o período e a quantidade de Pontos de Função. A apuração se dará através do somatório dos Pontos de Função (PF) constantes em cada Atestado de Capacidade Técnica. Instruções para Preenchimento das Planilhas: Assinale com um X, na coluna SIM, a faixa de números de Pontos de Função (PF) correspondente à sua experiência. ATENÇÃO: ASSINALE APENAS UMA OPÇÃO. Informe, na coluna QUANTIDADE, o número exato de Atestado de Capacidade Técnica correspondente à célula assinalada com X. Transporte para a linha TOTAL DA PONTUAÇÃO (PFDE) no Item o valor indicado na coluna PONTOS correspondente a linha assinaladas com X. FATOR DESEMPENHO (FDE) SIM Entre 3.001 e 4.000 Pontos de Função Entre 4.001 e 5.000 Pontos de Função Entre 5.001 e 6.000 Pontos de Função Entre 6.001 e 7.000 Pontos de Função Entre 7.001 e 8.000 Pontos de Função Entre 8.001 e 9.000 Pontos de Função Entre 9.001 e 10.000 Pontos de Função Acima de 10.001 Pontos de Função TOTAL DA PONTUAÇÃO (PFDE) QUANTIDADE PONTOS 30 40 50 60 70 80 90 100
+
+2.1.1
+
+Pontuação Máxima: 100 pontos
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+46 de 85
+
+3. FATOR QUALIDADE (FQU) A proposta técnica do proponente será avaliada e pontuada, relativamente ao Fator Qualidade (FQU), em função das notas obtidas nos seguintes Subfatores: SUBFATOR 3.1: Certificação qualidade (CQ) em uma ou mais das áreas relacionadas no item 3.1.1. A comprovação será feita, exclusivamente, através da apresentação do certificado, emitido por entidade certificadora, dentro do prazo de validade, indicando a(s) área(s) com certificação(ões). Instruções para Preenchimento das Planilhas: Assinale com um X, na coluna SIM, na linha relativa a atividade em que possui certificação de qualidade. Transporte para a linha TOTAL DA PONTUAÇÃO (PCQ) a soma dos valores indicados na coluna PONTOS correspondentes as linhas assinaladas com X. CERTIFICAÇÃO DE QUALIDADE (CQ) SIM PONTOS NBR 9001-2000 ou ISO/IEC 12207 ou ISO/IEC 15504 40 TOTAL DA PONTUAÇÃO (PCQ) Pontuação Máxima: 40 pontos
+
+3.1.1
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+47 de 85
+
+SUBFATOR 3.2: Empresa detentora de Nível de Maturidade padrão CMMI no mínimo igual a 2 ou padrão MPS.BR no mínimo igual a G, conforme item 3.2.1. A comprovação será feita, exclusivamente, através da apresentação do certificado, emitido por entidade certificadora, dentro do prazo de validade. ATENÇÃO: ASSINALE APENAS UMA OPÇÃO. Instruções para Preenchimento das Planilhas: Assinale com um X, na coluna SIM, na linha relativa ao nível de maturidade Capability Maturity Model Integration ­ CMMI ou Melhoria de Processo do Software Brasileiro ­ MPS.BR. Transporte para a linha TOTAL DA PONTUAÇÃO (PPS) o valor indicado na coluna PONTOS correspondente a linha assinalada com X. MELHORIA DO PROCESSO DE SOFTWARE (PS) SIM PONTOS Nível de maturidade G do MPS.BR 10 Nível de maturidade D, E ou F do MPS.BR ou CMMI 2 20 3.2.1 Nível de maturidade C do MPS.BR ou CMMI 3 40 Nível de maturidade B do MPS.BR ou CMMI 4 50 Nível de maturidade A do MPS.BR ou CMMI 5 60 TOTAL DA PONTUAÇÃO (PPS) Pontuação Máxima: 60 pontos
+
+Totalização dos pontos do Fator de Qualidade (FQU): FATOR QUALIDADE (FQU) TOTAL DA PONTUAÇÃO (PCQ) TOTAL DA PONTUAÇÃO (PPS) TOTAL DA PONTUAÇÃO (PFQU) ITEM 3.1.1 3.2.1 PONTOS
+
+3.3.1
+
+Pontuação Máxima: 100 pontos
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+48 de 85
+
+4. FATOR SUPORTE DE SERVIÇOS (FSS) A proposta técnica do proponente será avaliada e pontuada, relativamente ao Fator Suporte de Serviços (FSS), em função das notas obtidas nos seguintes subfatores: SUBFATOR 4.1: Empresa parceira da Microsoft - Microsoft Partner Program (MPP), conforme relacionado no item 4.1.1. A comprovação será feita mediante a apresentação de cópia do certificado emitido pela empresa Microsoft ou do contrato celebrado com a empresa Microsoft, dentro do prazo de validade. ATENÇÃO: ASSINALE APENAS UMA OPÇÃO. Instruções para Preenchimento das Planilhas: Assinale com um X, na coluna SIM, na linha relativa à certificação ou contrato Microsoft Certified Partner que possui. Transporte para a linha TOTAL DA PONTUAÇÃO (PMCP) o valor indicado na coluna PONTOS correspondente a linha assinala com X. PARCERIA MICROSOFT (MCP) Registered Member Microsoft Certified Partner Microsoft Gold Certified Partner TOTAL DA PONTUAÇÃO (PMCP) SIM PONTOS 10 60 80
+
+4.1.1
+
+Pontuação Máxima: 80 pontos SUBFATOR 4.2: Empresa detentora de Parceria com distribuidor LINUX (LI) relacionada ao suporte e desenvolvimento deste sistema operacional, conforme indicado no item 4.2.1. A comprovação será feita mediante a apresentação de cópia de Acordo ou Contrato celebrado com o distribuidor, dentro do prazo de validade. Instruções para Preenchimento das Planilhas: Assinale com um X, na coluna SIM, se é possuidor de Acordo ou Contrato de Parceira com Distribuidor LINUX. Transporte para a linha TOTAL DA PONTUAÇÃO (PLI) o valor indicado na coluna PONTOS correspondente a linha assinala com X. PARCERIA LINUX (LI) SIM PONTOS Acordo ou Contrato de parceria com distribuidor LINUX relacionado ao suporte 20 e desenvolvimento deste sistema operacional. TOTAL DA PONTUAÇÃO (PLI) Pontuação Máxima: 20 pontos
+
+4.2.1
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+49 de 85
+
+Totalização dos pontos do Fator Suporte de Serviços (FSS):
+
+4.3.1
+
+FATOR SUPORTE DE SERVIÇOS (FSS) TOTAL DA PONTUAÇÃO (PMPC) TOTAL DA PONTUAÇÃO (PLI) TOTAL DA PONTUAÇÃO (PFSS)
+
+ITEM 4.1.1 4.2.1
+
+PONTOS
+
+Pontuação Máxima: 100 pontos
+
+TOTAL DA PONTUAÇÃO Transporte para o quadro abaixo o somatório da pontuação obtida nos Fatores FATORES Pontos FATOR COMPATIBILIDADE (PFCO) = (1.1.1) Pontuação Máxima: 100 pontos FATOR DESEMPENHO (PFDE) = (2.1.1) Pontuação Máxima: 100 pontos FATOR QUALIDADE (PFQU) = (3.3.1) Pontuação Máxima: 100 pontos FATOR SUPORTE DE SERVIÇOS (PFSS) = (4.3.1) Pontuação Máxima: 100 pontos Total - Pontuação Máxima: 1.200 pontos Peso 4 3 3 2 Pontuação Ponderada
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+50 de 85
+
+EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+ANEXO III
+
+MODELO DE CARTA-PROPOSTA DE PREÇO
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+51 de 85
+
+ANEXO IV DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+CARTA-PROPOSTA DE PREÇO À AGÊNCIA REGULADORA DE ÁGUAS, ENERGIA E SANEAMENTO BÁSICO DO DISTRITO FEDERAL
+
+Prezados Senhores, Após examinar todas as cláusulas e condições estipuladas no Edital em referência, apresentamos nossa proposta nos termos consignados no mencionado ato convocatório e seus anexos, com os quais concordamos plenamente. Estão inclusos todos os tributos, custos e despesas diretas ou indiretas, sendo de nossa inteira responsabilidade, ainda, os que porventura venham a ser omitidos na proposta ou incorretamente cotados. O valor total global de nossa proposta para a contratação de serviços técnicos especializados aplicáveis ao desenvolvimento e melhorias de sistemas informatizados por meio da modalidade de fábrica de software, é de R$ ____,__( _____ ). Quantidade de Pontos de Valor Unitário do Ponto de Valor Total do Ponto de Função Função (R$) Função (R$) (A) (B) (C)=(A)*(B) 5.000
+
+Ponto de Função
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+52 de 85
+
+EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+ANEXO IV
+MODELO DE DECLARAÇÃO DE CUMPRIMENTO DO DISPOSTO NO INCISO XXXIII DO ART. 7º DA CONSTITUIÇÃO FEDERAL
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+53 de 85
+
+ANEXO IV DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+DECLARAÇÃO DE CUMPRIMENTO DO DISPOSTO NO INCISO XXXIII DO ART. 7º DA CF/88 (em papel timbrado do licitante)
+
+Ref.: CONCORRÊNCIA Nº 01/2010-ADASA
+
+....................................................................., inscrita no CNPJ sob o n°..................., por intermédio de seu representante legal, o(a) Sr(a)...................................., portador(a) da Carteira de Identidade no............................, expedida pela SSP , e do CPF no ........................., DECLARA, para fins do disposto no inciso XXXIII do art. 7º da Constituição Federal e no inciso V do art. 27 da Lei no 8.666, de 21 de junho de 1993, acrescido pela Lei no 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega menor de dezesseis anos. Ressalva: emprega menor, a partir de quatorze anos, na condição de aprendiz ( ............................................ (Local/Data) ............................................................ (Assinatura do Representante Legal) ).
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+54 de 85
+
+EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+ANEXO V
+MODELO DE DECLARAÇÃO DE COMPROMISSO DE COMUNICAÇÃO DA SUPERVENIÊNCIA DE FATO IMPEDITIVO DA HABILITAÇÃO
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+55 de 85
+
+ANEXO V DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+MODELO DE DECLARAÇÃO DE COMPROMISSO DE COMUNICAÇÃO DA SUPERVENIÊNCIA DE FATO IMPEDITIVO DA HABILITAÇÃO (em papel timbrado do licitante)
+
+....................................................................., inscrita no CNPJ sob o n°..................., por intermédio de seu representante legal, o(a) Sr(a)...................................., portador(a) da Carteira de Identidade no......................, expedida pela SSP , e do CPF no ........................., DECLARA, sob as penas da lei, para fins de participação na Concorrência nº 01/2010 e com vistas ao atendimento do disposto na parte final do § 2º do art. 32 da Lei n° 8.666/93, que não existem, nesta data, fatos impeditivos de sua participação na presente licitação e se compromete a comunicar à ADASA, doravante, qualquer fato que venha a comprometer sua habilitação, inclusive durante a execução do contrato.
+
+____________________________ (Local e Data)
+
+_____________________________________________________________ (Assinatura do Representante Legal)
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+56 de 85
+
+EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+ANEXO VI
+MINUTA DO CONTRATO DE PRESTAÇÃO DOS SERVIÇOS TÉCNICOS ESPECIALIZADOS APLICADOS À TECNOLOGIA E GESTÃO DA INFORMAÇÃO
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+57 de 85
+
+ANEXO VI DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+MINUTA DE CONTRATO
+
+CONTRATO QUE ENTRE SI CELEBRAM A AGÊNCIA REGULADORA DE ÁGUAS, ENERGIA E SANEAMENTO BÁSICO DO DISTRITO FEDERAL ­ ADASA- E A EMPRESA _______________ PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS APLICADOS À TECNOLOGIA E GESTÃO DA INFORMAÇÃO
+
+A AGÊNCIA REGULADORA DE ÁGUAS, ENERGIA E SANEAMENTO BÁSICO DO DISTRITO FEDERAL ADASA, neste ato denominada CONTRATANTE, autarquia especial, com sede social localizada no Setor Ferroviário ­ Parque Ferroviário de Brasília ­ Estação Rodoferroviária, Sobreloja Ala Norte, Brasília ­ Distrito Federal, inscrita no CNPJ/MF sob o nº 07.007.955.0001-10, representada, nos termos do disposto no inciso VI do art. 23, da Lei nº 4.285, de 28 de dezembro de 2008, combinado com o inc. VII do art. 13, do Anexo Único da Resolução ADASA nº 004, de 24 de junho de 2005, por seu Diretor-Presidente, Ricardo Pinto Pinheiro, brasileiro, casado, engenheiro civil, portador da célula de identidade RG nº 385.385 ­ SSP/MG e inscrito no CPF sob o nº 038.707.586-00 residente nesta capital, nomeado pelo Decreto de 10 de setembro de 2007, publicado no Diário Oficial do Distrito Federal nº 175, de 11 de setembro de 2007, e de outro lado e de outro lado, a empresa __________________, inscrita no CNPJ/MF. sob nº____, com sede social localizada na ______________, de agora em diante denominada simplesmente CONTRATADA, representada por _____________, portador da Cédula de Identidade RG nº. _______, emitida pela SSP/_____,e inscrito no CPF/MF sob o nº. ____________, de acordo com a representação legal que lhe é outorgada por procuração, resolvem celebrar o presente Contrato, que será regido pela Lei nº 8.666, de 21 de junho de 19993, suas alterações posteriores, demais disposições legais e regulamentares aplicáveis, e pelas condições estabelecidas nas cláusulas a seguir: CLÁUSULA PRIMEIRA ­ DO OBJETO Constitui objeto do presente Contrato a prestação, pela CONTRATADA, de serviços técnicos especializados aplicáveis ao desenvolvimento e melhorias de sistemas informatizados por meio da modalidade de fábrica de software, conforme detalhamento constantes no Edital e seus Anexos. CLÁUSULA SEGUNDA ­ DOS DOCUMENTOS INTEGRANTES DO CONTRATO Fazem parte deste Contrato, independentemente de transcrição, os documentos adiante enumerados, constantes do processo nº 0197-001097/2009: ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+58 de 85
+
+a) Edital da Concorrência nº 01/2010-ADASA e seus Anexos; b) Propostas e demais documentos apresentados pela CONTRATADA. Subcláusula Única ­ Em caso de divergência entre o disposto no Edital de Concorrência n°. 01/2010 e as cláusulas do presente contrato, prevalecerá o primeiro.
+
+CLÁUSULA TERCEIRA ­ DA FORMA E REGIME DE EXECUÇÃO A execução dos serviços objeto deste Contrato dar-se-á na forma indireta, sob o regime de empreitada por preço unitário.
+
+CLÁUSULA QUARTA ­ DA VIGÊNCIA O presente Contrato vigorará pelo prazo de 12 (doze) meses, contados da data de sua assinatura, podendo ser prorrogado, a critério exclusivo da CONTRATANTE, por períodos sucessivos de igual duração, até o limite de 48 (quarenta e oito) meses, observadas as disposições constantes do art. 57 da Lei nº 8.666/93. Subcláusula Única ­ Havendo interesse na prorrogação, a CONTRATANTE, comunicará essa circunstância à CONTRATADA, por escrito, com antecedência de pelo menos 30 (trinta) dias da data de vencimento do Contrato, cabendo a esta última manifestar-se acerca da aludida comunicação, no prazo de 15 (quinze) dias do seu recebimento. CLÁUSULA QUINTA ­ DO VALOR UNITÁRIO O valor unitário do Ponto de Função, de acordo com Proposta de Preço da Contratada, é de R$ 99999 (xxxxx xxx xxxxxx). CLÁUSULA SEXTA ­ DO LOCAL, HORÁRIO E RECURSOS PARA A EXECUÇÃO DOS SERVIÇOS Os Serviços deverão ser executados nas instalações da CONTRATADA, que deverá providenciar, às suas expensas, toda infra-estrutura de hardware e software bem como recursos humanos e demais recursos físicos necessários à prestação dos serviços contratados. Primeira Subcláusula ­ As interações com os profissionais da CONTRATANTE ou com outros prestadores de serviços, necessárias à execução dos serviços (e.g. especificação de requisitos) ocorrerão em Brasília, cabendo à CONTRATADA a responsabilidade pelo deslocamento dos profissionais envolvidos na prestação dos serviços quando necessário.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+59 de 85
+
+Segunda Subcláusula ­ No caso da realização de serviços que, eventualmente, demandem a atuação de profissionais da CONTRATADA nas dependências da CONTRATANTE, ficará a cargo da CONTRATADA o fornecimento dos recursos e materiais necessários à sua execução. Terceira Subcláusula ­ Os serviços a serem realizados nas dependências da CONTRATANTE observarão o horário de expediente da Agência, das 08:00 às 12:00 hs e das 14:00 às 18:00 hs, de segunda a sexta-feira. Excepcionalmente, poderá ser solicitada, previamente e sempre por escrito, a realização de atividades fora desse horário, tanto em dias úteis, após as 18:00 hs, quanto aos sábados, domingos e feriados. CLÁUSULA SÉTIMA ­ DO VALOR ESTIMADO DO CONTRATO Considerados os preços unitários discriminados na Cláusula Quinta antecedente e a quantidade máxima de 5.000 mil Pontos de Função que a Administração poderá, a seu critério, requerer na execução dos serviços, o valor Global deste Contrato é de até R$ ( ) para o período de 12 (doze) meses. Primeira Subcláusula ­ Nos valores acima referidos, acham-se incluídos todos os custos e despesas incorridas para a prestação dos serviços, tais como e sem se limitar a: custos diretos e indiretos, tributos incidentes, taxa de administração, materiais, encargos sociais e trabalhistas, benefícios, custos de gerenciamento do Contrato, seguros, lucro. Segunda Subcláusula ­ O valor máximo indicado no "caput" desta Cláusula não constitui obrigação de seu integral pagamento, quando não utilizado pela Administração o número máximo de pontos de função previsto no Contrato. Fica esclarecido que a CONTRATADA não terá direito a reivindicar o seu pagamento, senão exclusivamente em relação aos serviços que a CONTRATANTE, mediante a emissão das ordens de serviço correspondentes, considere necessários em cada exercício financeiro e, dentre estes, os efetivamente executados pela CONTRATADA. CLÁUSULA OITAVA ­ DO AUMENTO OU SUPRESSÃO DOS SERVIÇOS A CONTRATADA fica obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem nos serviços, até 25% (vinte e cinco por cento) do valor inicial atualizado do Contrato. Subcláusula Única ­ A alteração do valor contratual inicial, prevista nesta Cláusula, far-se-á mediante a assinatura do correspondente Termo Aditivo, em conformidade com a Cláusula Vigésima do presente Contrato. CLÁUSULA NONA ­ DO REAJUSTE DE PREÇOS Os preços unitários do Ponto de Função - PF não estarão sujeitos a qualquer reajuste durante o primeiro período de 1 (um) ano, contado da data da assinatura do Contrato. Primeira subcláusula Quando da prorrogação do Contrato, os valores poderão ser atualizados, mediante reajuste, desde que haja demonstração analítica da variação dos componentes dos custos no período considerado, utilizando-se como limite máximo referencial o IGPDI acumulado do período entre a assinatura do contrato e seu vencimento. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+60 de 85
+
+CLÁUSULA DÉCIMA ­ DA DOTAÇÃO ORÇAMENTÁRIA As despesas com a execução deste Contrato para o exercício de ....., no valor estimado de R$ correrão à conta de créditos orçamentários a cargo da CONTRATANTE, conforme a seguir: Unidade Orçamentária: 28.204 Programa de Trabalho: 18.544.0450.2994.0006 Natureza de Despesa: 33.90.39 Fonte de Recurso: 150/151 Empenho de Despesa nº Responsável: Núcleo de Tecnologia da Informação ­ NTI CLÁUSULA DÉCIMA PRIMEIRA ­ DO ACOMPANHAMENTO E FISCALIZAÇÃO A execução deste Contrato será acompanhada e fiscalizada por um representante da CONTRATANTE, designado pela Diretoria Colegiada da ADASA, a quem competirá: a) Autorizar a execução do projeto a ser contratado; b) Aprovar a execução do projeto efetuado; c) Medir a eficiência dos serviços prestados e informar possíveis divergências. d) Zelar pelo efetivo cumprimento do padrão de qualidade dos técnicos da CONTRATADA durante a execução do contrato. e) Notificar, o mais cedo possível, todos os desvios de normalidade na execução do contrato. f) Indicar a necessidade de apenação, quando houver descumprimento contratual ou prejuízos quaisquer de responsabilidade da CONTRATADA. g) Autorizar os pagamentos devidos à CONTRATADA. Primeira Subcláusula ­ A CONTRATADA facilitará, por todos os meios, a ação do representante da CONTRATANTE, no acompanhamento de todas as atividades previstas no Contrato. Segunda Subcláusula ­ As decisões e providências que ultrapassarem a competência do representante da CONTRATANTE serão solicitadas os seus superiores em tempo hábil, para a adoção das medidas convenientes. Terceira Subcláusula ­ A fiscalização de que trata esta Cláusula não exclui nem reduz a responsabilidade da CONTRATADA, inclusive quanto aos danos causados à CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução do Contrato, ou por qualquer irregularidade e, na ocorrência desta, não implica em ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+(
+
+),
+
+61 de 85
+
+co-responsabilidade da CONTRATANTE ou de seus agentes e prepostos, de conformidade com o art. 70 da Lei nº 8.666/93. CLÁUSULA DÉCIMA SEGUNDA ­ DO CONTROLE, AVALIAÇÃO E MEDIÇÃO DOS SERVIÇOS Durante a execução dos serviços objeto deste contrato poderão ser emitidos dois tipos de Ordens de Serviço definidas adiante. a) Ordem de Serviço de Iniciação - OSI, emitida para a elaboração dos artefatos previstos para a fase de Iniciação para Projetos de Desenvolvimento ou de Melhoria de um sistema existente, possibilitando ao seu final a contagem estimativa de Pontos de Função correspondentes. b) Ordem de Serviço de Fábrica de Software - OSF, emitida para execução das fases de Elaboração, Construção e Transição caracterizando-se como um procedimento complementar ao executado na OSI correspondente. Ao seu final será executada a contagem definitiva dos PF do projeto. Primeira Subcláusula ­ Ambas as Ordens de Serviços serão emitidas uma para cada projeto específico, segundo prioridades e critérios de racionalidade, economicidade e adequação às necessidades preconizadas pela NTI/ADASA, e de acordo com os modelos a serem estabelecidos pelo NTI/ADASA para Ordem de Serviço de Iniciação (OSI) e Ordem de Serviço de Fábrica (OSF). Segunda Subcláusula ­ Comprovada a viabilidade, o NTI/ADASA autorizará a execução da primeira fase do projeto, (i.e. Iniciação) definida no subitem Tabela de Distribuição Percentual de Pagamento do Projeto Básico, mediante emissão de Ordem de Serviço de Iniciação ­ OSI à CONTRATADA, elaborada conforme subitem 11.1 do Projeto Básico, a qual deverá ter início de acordo com o prazo definido no subitem 8.8 do Projeto Básico. Terceira Subcláusula ­ Concluída a fase de Iniciação o Representante da CONTRATADA apresentará a NTI/ADASA a contagem estimativa de Pontos de Função, correspondente ao projeto a ser executado. Quarta Subcláusula ­ O NTI/ADASA promoverá a homologação dos artefatos desenvolvidos pela CONTRATADA durante a execução da OSI junto à Unidade Organizacional da CONTRATANTE solicitante, e ratificará ou retificará a contagem estimativa de Ponto de Função contabilizada pela CONTRATADA, podendo recorrer a parecer técnico especializado de outro fornecedor especificamente contratado. Quinta Subcláusula ­ Aprovados os artefatos resultantes da OSI e estimativa de Pontos de Função, caberá a NTI/ADASA a decisão de continuidade do projeto pela CONTRATADA. Sexta Subcláusula ­ Definida a continuidade do projeto, o NTI/ADASA autorizará a execução dos serviços, conforme o caso, mediante emissão de Ordem de Serviço de Fábrica ­ OSF à CONTRATADA, elaborada conforme subitem 11.2 do Projeto Básico. Sétima Subcláusula ­ A critério do NTI/ADASA poderá ser definida a necessidade de acompanhamento da execução de qualquer projeto, nas instalações da CONTRATADA, por técnicos da Agência ou por ela indicados. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+62 de 85
+
+Oitava Subcláusula ­ Sempre que necessário poderão ser realizadas reuniões entre a CONTRATANTE e a CONTRATADA para esclarecimentos adicionais acerca do projeto a ser executado. As reuniões serão consideradas como esforço de gestão, não cabendo remuneração adicional a CONTRATADA. Nona Subcláusula ­ Toda e qualquer alteração na estimativa inicial da contagem de pontos de função deverá ter a aprovação formal da NTI/ADASA. Décima Subcláusula ­ Os produtos resultantes dos SERVIÇOS (e.g. código fonte), exclusivamente sob a contratação decorrente desta licitação, em qualquer hipótese, serão de propriedade material da CONTRATANTE, deverão ser entregues a ela sem nenhum tipo de restrição de uso e ônus, a qualquer tempo, sendo vedada a sua utilização pela CONTRATADA, a menos que seja dada autorização expressa pela CONTRATANTE. Décima Primeira Subcláusula ­ A CONTRATADA terá a propriedade, intelectual e material, relacionadas ao know-how, idéias, conceitos, técnicas e metodologias utilizadas pela mesma na execução dos SERVIÇOS, tais como compêndios, prospectos, planilhas, programas e manuais. Décima Segunda Subcláusula ­ Para cada fase de cada OS o representante da CONTRATANTE realizará avaliação do nível de atendimento dos serviços contratados, considerando os pontos perdidos nas avaliações dos indicadores estabelecidos no subitem 14.3 ­ Indicadores de Nível de Serviço Prestado, do Projeto Básico. CLÁUSULA DÉCIMA TERCEIRA ­ DA ENTREGA DOS SERVIÇOS Os Projetos concluídos para atendimento ao objeto do Contrato deverão ser entregues, pela CONTRATADA à CONTRATANTE, gravados em meio magnético ou óptico, acompanhados de documentação e manuais de operação correspondentes. Primeira Subcláusula ­ A CONTRATANTE estabelecerá o meio físico de entrega dos artefatos desenvolvidos, em formato digital, acompanhado opcionalmente de cópia impressa, podendo ainda a CONTRATANTE autorizar a transmissão por conexão eletrônica. Segunda Subcláusula ­ Quando formalmente autorizada a transmitir artefatos por conexão eletrônica a CONTRATADA providenciará os recursos de hardware, software e comunicação necessários para o acesso à rede da CONTRATANTE, às suas expensas. Para isso deverão ser seguidas todas as políticas de segurança e acesso aos sistemas e ambientes definidas pela CONTRATANTE. Terceira Subcláusula ­ Para os programas, aplicativos, componentes, sistemas de informação, páginas WEB ou qualquer outra rotina programável desenvolvida para atendimento dos serviços contratados, deverão ser entregues, além do estabelecido no "caput" desta Cláusula, os respectivos programas fontes e executáveis. Quarta Subcláusula ­ O recebimento definitivo dos serviços/produtos não exime a responsabilidade da CONTRATADA pela qualidade técnica e segurança dos trabalhos desenvolvidos, bem assim pelo sigilo sobre os dados utilizados na execução. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+63 de 85
+
+CLÁUSULA DÉCIMA QUARTA ­ DO ACEITE DOS SERVIÇOS A CONTRATANTE emitirá, após a avaliação e teste dos artefatos entregues, para cada fase e ao final do projeto, o Termo de Aceitação do Serviço, no prazo máximo de 10 (dez) dias úteis. Primeira Subcláusula ­ A avaliação pode gerar a recusa de artefatos por motivo de vícios de qualidade. Em caso de recusa, o prazo de entrega do serviço não será prorrogado, o que pode gerar aplicação de penalidades por atraso, conforme definido no item 14 ­ Relatório de Nível de Atendimento de Serviço do Projeto Básico. Segunda Subcláusula ­ A emissão de aceite pela CONTRATANTE não exime a CONTRATADA da responsabilidade pela correção de erros posteriormente identificados, pela qualidade técnica e pela segurança dos trabalhos desenvolvidos, aplicando-se cumulativamente as proteções contra os vícios da atividade de consumo fixadas pela Lei n. 8.078, de 11 de setembro de 1990. CLÁUSULA DÉCIMA QUINTA ­ DA FORMA DE PAGAMENTO A remuneração, dos serviços contratados, será por Ordem de Serviço emitida e calculada de acordo com a mensuração do projeto em pontos de função, apurados conforme definido no subitem 7.2 ­ Tabela de Equações para Contagem de Pontos de Função, do Projeto Básico. Primeira Subcláusula ­ O pagamento dos valores estabelecidos em cada Ordem de Serviço obedecerá a distribuição percentual por fases do processo de desenvolvimento de sistemas adotado pela CONTRATANTE, apresentada na tabela a seguir. O detalhamento de cada fase está apresentado no Anexo II ­ Artefatos Integrantes de Cada Fase do Projeto do Projeto Básico. Tabela de Distribuição Percentual de Pagamento FASES Iniciação Elaboração Construção Transição PERCENTUAL (%) DE PAGAMENTO 5% 10% 25% 20%
+
+Segunda Subcláusula ­ Os 40% (quarenta por cento) restantes dos percentuais indicados Subcláusula Anterior - Tabela de Distribuição Percentual de Pagamento serão pagos após a implementação integral do projeto e aceite final pela NTI/ADASA. Terceira Subcláusula ­ Após elaboração do projeto pela contratada e após o aceite do projeto pela CONTRATANTE, será realizado o primeiro pagamento, correspondente ao percentual estabelecido para a fase de Iniciação, definida na Tabela 19.3 - Distribuição Percentual de Pagamento, do Projeto Básico, que corresponde 5% (cinco por cento) do valor total estimado para o projeto.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+64 de 85
+
+Quarta Subcláusula ­ Os pagamentos subseqüentes deverão ocorrer após a execução da OSF, que conterá cronograma de desembolso específico para o pagamento das parcelas correspondentes aos percentuais estabelecidos para as fases definidas na Tabela 19.3 ­ Tabela de Distribuição Percentual de Pagamento, do Projeto Básico. Quinta Subcláusula ­ O pagamento das parcelas ocorrerá sempre após o aceite pela CONTRATANTE dos artefatos elaborados durante a fase correspondente formalizada pela emissão de um Termo de Aceitação de Serviço. No aceite da última entrega da última fase do projeto, também será emitido um Termo de Aceitação de Serviço referente à parcela residual definida no subitem 19.4. do Projeto Básico. Sexta Subcláusula ­ Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de Pontos de Função, bem como dedução de valores relativos a penalidades, serão efetuados na última parcela de desembolso prevista. Sétima Subcláusula ­ Os pagamentos ocorrerão sempre mediante a apresentação de Nota Fiscal, Fatura de Pagamento correspondente aos serviços entregues e Termo de Aceitação do Serviço. Oitava Subcláusula - Os pagamentos ocorrerão sempre mediante a apresentação de Nota Fiscal, Fatura de Pagamento correspondente aos serviços entregues e Termo de Aceitação do Serviço. O prazo para pagamento, de cada fase, não será superior a 30 dias, observado o disposto nesse item, observado o disposto no art. 40, inc. XIV, alínea "a". Nona Subcláusula - Os valores pagos em período superior ao estabelecido no item anterior serão atualizados pelo IPCA, desde a data final do período de adimplemento até a data do efetivo pagamento.
+
+CLÁUSULA DÉCIMA SEXTA ­ DO CANCELAMENTO DOS SERVIÇOS No caso de cancelamento de uma OSF, a CONTRATANTE se compromete em ressarcir à CONTRATADA o valor total previsto para a fase ora em execução, de acordo com a Tabela de Percentuais de Ressarcimento a seguir, multiplicado pelo valor total estimado do projeto, condicionado este ressarcimento ao término da fase, entrega e aceite dos artefatos correspondentes. Tabela de Distribuição Percentual de Ressarcimento FASES Iniciação Elaboração Construção Transição PERCENTUAL (%) DE RESSARCIMENTO 5% - Relativa à OSI 20% 50% 25%
+
+Subclásula Única - No caso do cancelamento de uma OSI durante sua execução, a CONTRATADA deverá proceder a apuração do quantitativo de PF mensuráveis no momento da solicitação formal do cancelamento do projeto pela CONTRATANTE, que se compromete a ressarcir a CONTRATADA o valor de 5%, previsto para a ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+65 de 85
+
+fase de Iniciação, multiplicado pelo valor total estimado para o projeto, condicionado este ressarcimento ao término da fase, entrega e aceite dos artefatos correspondentes. CLÁUSULA DÉCIMA SÉTIMA ­ DA GARANTIA DOS PROJETOS A CONTRATADA garantirá, por seus próprios meios, os serviços prestados até 12 (doze) meses após o término definitivo do contrato, depois de finda todas as possíveis renovações e prorrogações, contados a partir da assinatura do contrato. Primeira Subcláusula ­ Durante o período de garantia caberá à CONTRATADA toda a manutenção corretiva decorrente de erros ou falhas que resultem em funcionamento incorreto ou em desconformidade com as especificações aceitas na OSI, cometidos durante o desenvolvimento dos serviços contratados ou decorrentes de integração, sem ônus para a CONTRATANTE, desde que o erro ou falha, comprovadamente, não se dê em função de inconsistências nas especificações aceitas pela CONTRATANTE. Segunda Subcláusula ­ O direito da CONTRATANTE à garantia cessará caso o software ou artefato seja alterado pela própria CONTRATANTE ou por outros fornecedores que não a CONTRATADA. Caso a própria CONTRATADA realize manutenções no software ou no artefato, permanece o direito da CONTRATANTE à garantia. Terceira Subcláusula ­ O início de atendimento aos chamados para execução de correções de erros ou falhas em serviços já entregues deve ocorrer no prazo de até 2 (duas) horas, contados a partir do registro do chamado pela CONTRATADA e sem prejuízo dos demais serviços contratados. CLÁUSULA DÉCIMA OITAVA ­ DA GARANTIA CONTRATUAL Será exigida prestação de garantia em qualquer das modalidades previstas no parágrafo 1º do artigo 56 da lei nº 8.666/93 no valor de 5% (cinco por cento) do valor contratado, quando da assinatura do contrato. Primeira Subcláusula ­ As garantias e seus reforços responderão por todas as multas que forem impostas à CONTRATADA e por todas as importâncias que, a qualquer título, forem devidas pela CONTRATADA à ADASA. Segunda Subcláusula ­ Em caso de insuficiência, será a CONTRATADA notificada para, no prazo de 72 (setenta e duas) horas, completar o valor das multas, sob pena de rescisão do contrato. Terceira Subcláusula ­ O reforço e/ou a regularização da garantia, excetuada a hipótese prevista na Segunda Subcláusula deverá ser efetuado no prazo máximo de 5 (cinco) dias úteis, contados do recebimento da comunicação, feita por escrito pela contratante. Quarta Subcláusula ­ O prazo aludido na Terceira Subcláusula poderá ser prorrogado uma vez, por igual período, quando solicitado pela CONTRATADA durante o transcurso do prazo, se ocorrer motivo justificado e aceito pela CONTRATANTE. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+66 de 85
+
+Quinta Subcláusula ­ A garantia prestada deverá ser substituída automaticamente pela CONTRATADA quando da ocorrência de seu vencimento, independentemente de comunicado da CONTRATANTE, de modo a manter ininterruptamente garantido o contrato celebrado. Sexta Subcláusula ­ Por ocasião do encerramento do contrato, o que restar da garantia da execução do contrato e seus reforços serão liberados ou restituídos após a liquidação das multas aplicadas, ou após a dedução de eventual valor de condenação da CONTRATADA. Sétima Subcláusula ­ O prazo da validade da garantia, quando prestada na modalidade seguro-garantia ou fiança bancária, deverá ser de no mínimo 60 (sessenta) dias superior ao prazo de vigência do contrato.
+
+CLÁUSULA DÉCIMA NONA ­ DAS OBRIGAÇÕES DA CONTRATADA Constituem obrigações da CONTRATADA: a) A infra-estrutura tecnológica necessária à prestação do serviço contratado compreendendo: hardware, software e pessoal deverá estar disponível para operação no prazo máximo de 30 (trinta) dias contados da assinatura do contrato, ocasião em que poderá iniciar a emissão de Ordens de Serviço. b) A CONTRATADA deverá estar preparada para no prazo máximo de 30 (trinta) dias, contados a partir da assinatura do contrato, executar desenvolvimento e melhoria em todas as tecnologias listadas no item 16 ­ Descrição do ambiente computacional da ADASA do Anexo deste Edital. Sendo vedada à CONTRATADA a recusa de projetos pela a alegação de desconhecimento ou incapacidade de utilização das tecnologias nele listadas. c) A CONTRATADA deverá disponibilizar, no prazo máximo de 30 (trinta) dias a partir da assinatura do contrato, encarregado para gerenciamento deste e a ele competirá: i. ii. Negociar, junto ao representante da CONTRATANTE, termos e condições para realização dos serviços. Gerenciar e supervisionar a execução dos serviços, exercer controle da assiduidade e pontualidade das entregas de artefatos, franqueando ao representante da CONTRATANTE, a qualquer tempo, o acesso a seus registros, para efeito de acompanhamento e fiscalização do serviço efetivamente executado. Tratar com a CONTRATANTE sobre questões relevantes à execução do contrato e providenciar a regularização de falhas ou defeitos observados. Encaminhar, à CONTRATANTE, Nota Fiscal/Fatura dos serviços prestados, acompanhada dos comprovantes de regularidade fiscal necessários ao processamento do pagamento. Providenciar a entrega de documentação, relatórios técnicos e manuais operacionais, referentes aos serviços concluídos.
+"Brasília - Patrimônio Cultural da Humanidade"
+
+iii. iv. v.
+
+___________________________________________________________________________ 67 de 85
+
+d) A contratada obriga-se a manter, durante toda a execução do contrato, em compatibilidade com as obrigações por ele assumidas, todas as condições de habilitação e qualificação exigidas na licitação CLÁUSULA VIGÉSIMA ­ DAS OBRIGAÇÕES DA CONTRATANTE Constituem obrigações da CONTRATANTE: a) Transmitir formalmente à CONTRATADA, previamente à execução dos serviços objeto deste Contrato, todas as informações necessárias à realização dos trabalhos; b) Designar o representante da NTI/ADASA, referido no item 28 do Anexo I - Projeto Básico, para autorizar, aprovar e medir a eficiência da execução do Contrato; c) Disponibilizar o local para execução dos serviços, quando estes forem executados em suas instalações; d) Autorizar, quando necessário o acesso dos empregados da CONTRATADA às suas instalações para execução dos serviços; e) Fornecer crachá de acesso às dependências da CONTRATANTE, de uso obrigatório pelos funcionários da CONTRATADA; f) Emitir, antes da execução de qualquer serviço as correspondentes Ordens de Serviço - OS, definindo claramente os requisitos técnicos, operacionais, administrativos e financeiros dos trabalhos a serem executados pela CONTRATADA;
+
+g) Prestar as informações e os esclarecimentos relativos à execução dos serviços, que venham a ser solicitados pela CONTRATADA; h) Efetuar os pagamentos devidos pela execução dos serviços, após comprovação da regularidade fiscal da CONTRATADA, na forma, prazo e condições estabelecidas item 19 ­ Pagamento dos Projetos do Anexo I - Projeto Básico; i) Deduzir e proceder a retenção e recolhimento dos tributos incidentes na fonte, sobre os valores devidos à CONTRATADA; Comunicar oficialmente à CONTRATADA quaisquer falhas ou irregularidades observadas no cumprimento deste Instrumento, inclusive e especialmente as não-conformidades constatadas na avaliação dos serviços prestados e consignadas no Relatório de Nível de Atendimento do Serviço, a que se refere o item 14 do Projeto Básico;
+
+j)
+
+k) Notificar a CONTRATADA sobre a aplicação de penalidades, assegurada a prévia defesa, nos termos do subitem 14.3 ­ Indicadores de Nível de Serviço Prestado do Anexo I - Projeto Básico. ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+68 de 85
+
+l)
+
+Fornecer declaração de transferência dos direitos patrimoniais objeto do contrato.
+
+CLÁUSULA VIGÉSIMA PRIMEIRA ­ DA MULTA DE MORA Primeira Subcláusula: O atraso injustificado na execução do contrato, por período superior a 15 (quinze) dias, contados da emissão da ordem de serviço, sujeitará a contratada à multa de mora no percentual de 0,5% por dia de atraso, limitado até 30% por período contínuo. A multa de mora incidirá sobre o correspondente financeiro decorrente do número total de pontos de função exigidos do projeto. Segunda Subcláusula: A multa a que se refere a subcláusula anterior não impede que a Administração rescinda unilateralmente o contrato e aplique as outras sanções previstas nesta Lei. Terceira Subcláusula: A multa, aplicada após regular processo administrativo, será descontada da garantia oferecida e, se esta for insuficiente, dos pagamentos eventualmente devidos pela Administração ou ainda, quando for o caso, cobrada judicialmente, na forma do §3º, do art. 86, da Lei de Licitações. CLÁUSULA VIGÉSIMA SEGUNDA ­ DAS SANÇÕES ADMINISTRATIVAS Primeira Subcláusula: Pelo descumprimento de quaisquer cláusulas ou condições deste Contrato, serão aplicadas as penalidades estabelecidas no Decreto 26.851/2006, publicado no Diário Oficial do Distrito Federal nº. 103 de 31 de maio de 2005, pág. 05 a 07 e alterações posteriores, que regulamentou a aplicação das sanções administrativas prevista na Lei Federal n.º 8.666/93: I - advertência; II - multa; III - suspensão temporária de participação em licitação, e impedimento de contratar com a Administração do Distrito Federal: IV - declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que o contratado ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso anterior. Segunda Subcláusula: As sanções previstas nos incisos I, III e IV, da Primeira Subcláusula, poderão ser aplicadas juntamente com a do inciso II, da mesma subcláusula, facultada a defesa prévia do interessado, no respectivo processo, no prazo de 05 dias úteis. Terceira Subcláusula: A multa prevista no inciso II, da Primeira Subcláusula, será aplicada no caso de descumprimento de qualquer cláusula contratual, no percentual que variará entre 0,05% à 5% incidente sobre o valor total do contrato, tendo em vista a gravidade da infração e extensão do dano pra administração pública. CLÁUSULA VIGÉSIMA TERCEIRA ­ DA RESCISÃO CONTRATUAL Constituem motivos para rescisão deste Contrato: ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+69 de 85
+
+a) o não cumprimento de cláusulas contratuais, especificações ou prazos ; b) o cumprimento irregular de cláusulas contratuais, especificações ou prazos; c) a lentidão no cumprimento do Contrato, levando a CONTRATANTE a comprovar a impossibilidade da prestação do serviço, no prazo estipulado; d) o atraso injustificado no início da prestação dos serviços; e) a paralisação dos serviços, sem justa causa ou prévia comunicação à CONTRATANTE; f) a subcontratação total ou parcial do objeto; g) a associação da CONTRATADA com outrem, a cessão ou transferência total ou parcial das obrigações contraídas, bem como a fusão, cisão ou incorporação da CONTRATADA sem prévio conhecimento e autorização da CONTRATANTE; h) o não atendimento das determinações regulares da Fiscalização, assim como as de seus superiores; i) o cometimento reiterado de faltas na sua execução, anotadas em registro próprio, pelo representante da CONTRATANTE designado para acompanhamento e fiscalização deste Contrato, especialmente as de que possa resultar a aplicação das penalidades de advertência e multa, por avaliações insatisfatórias do nível de atendimento dos serviços prestados pela CONTRATADA, segundo os indicadores previstos no subitem 8.9 do Anexo I ­ Projeto Básico; j) a decretação de falência; k) a dissolução da CONTRATADA; l) a alteração social ou a modificação da finalidade ou da estrutura da CONTRATADA, que prejudique a execução do Contrato; m) razões de interesse público, de alta relevância e amplo conhecimento, justificadas e determinadas pela máxima autoridade da esfera administrativa da CONTRATANTE, e exaradas no processo administrativo a que se refere este Contrato; n) a ocorrência de caso fortuito ou força maior, regularmente comprovada, impeditiva da execução deste Contrato; o) o descumprimento do disposto no inciso V do art. 27 da Lei nº 8.666/93, sem prejuízo das sanções penais cabíveis. Primeira Subcláusula ­ A rescisão deste Contrato poderá ser: a) determinada por ato unilateral e escrito da CONTRATANTE, nos casos enumerados nas alíneas "a" a "m" e "n" desta Cláusula, observado o disposto no artigo 109, inciso I, alínea "e", da Lei nº 8.666/93; b) amigável, por acordo entre as partes, formalizada a intenção com antecedência mínima de 30 (trinta) dias, desde que haja conveniência para a CONTRATANTE; c) judicial, nos termos da legislação vigente. Segunda Subcláusula ­ A rescisão do Contrato obedecerá ao que preceituam os artigos 79 e 80 da Lei nº 8.666/93. CLÁUSULA VIGÉSIMA QUARTA ­ DA ALTERAÇÃO DO CONTRATO
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+70 de 85
+
+Este Contrato poderá ser alterado, com as devidas justificativas, nos casos previstos no art. 65 da Lei nº 8.666/93, mediante o correspondente Termo de Aditamento, a ser firmado pelos representantes legais das partes contratantes, qualificados no preâmbulo deste Instrumento. CLÁUSULA VIGÉSIMA QUINTA ­ DOS APOSTILAMENTOS AO CONTRATO Serão registrados por simples apostila ao Contrato, dispensada a celebração de aditamento, já que não caracterizam alteração contratual, nos termos do parágrafo 8º do art. 65 da Lei nº 8.666/93, as seguintes situações: a) a variação do valor contratual para fazer face ao reajuste de preços previsto na Cláusula Nona deste Contrato; b) o empenho de dotações orçamentárias suplementares até o limite do valor corrigido do Contrato. Subcláusula Única ­ Os apostilamentos de que trata esta Cláusula far-se-ão mediante Termos específicos, numerados seqüencialmente, a serem firmados pelo Superintendente de Administração e Finanças da ADASA e pelo representante legal da CONTRATADA, com base nas respectivas minutas aprovadas pelo Serviço Jurídico da CONTRATANTE. CLÁUSULA VIGÉSIMA SEXTA ­ DOS CASOS OMISSOS A execução deste Contrato, bem como os casos omissos, regular-se-ão pelas suas cláusulas e pelos preceitos de direito público, aplicando-lhes, supletivamente, os princípios da teoria geral dos contratos e as disposições de direito privado, na forma dos arts. 54 e 55, inciso XII, da Lei nº 8.666/93. CLÁUSULA VIGÉSIMA SÉTIMA ­ DA PUBLICIDADE A CONTRATANTE providenciará a publicação, no Diário Oficial do Distrito Federal, do extrato deste Contrato e de eventuais Termos Aditivos e de Apostilamento, em até 5º (quinto) dia útil do mês subseqüente contados a partir da data da assinatura do Contrato. CLÁUSULA VIGÉSIMA OITAVA ­ DO FORO Fica eleito o Foro da Justiça Estadual, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir quaisquer questões oriundas do presente Contrato. Para firmeza e como prova de haverem entre si, justos e avençados, é lavrado este Instrumento em 02 (duas) vias, de igual teor e forma, assinadas pelos representantes legais das partes e por 02 (duas) testemunhas. Brasília, PELA CONTRATANTE: ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+de
+
+de 2010.
+
+71 de 85
+
+------------------------------------------------RICARDO PINTO PINHEIRO Diretor-Presidente da ADASA PELA CONTRATADA: ----------------------------------------------------Nome: Cargo: TESTEMUNHAS: ------------------------------------------------------Nome: CPF: --------------------------------------------------Nome: CPF: ---------------------------------------------------
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+72 de 85
+
+ANEXO VII DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+AGÊNCIA REGULADORA DE ÁGUAS, ENERGIA E SANEAMENTO BÁSICO DO DISTRITO FEDERAL ADASA CONCORRÊNCIA nº 01/ADASA/2010 PROCESSO ADMINISTRATIVO Nº 0197-001097/2009
+
+DECLARAÇÃO DE MICRO EMPRESA OU EMPRESA DE PEQUENO PORTE
+
+Declaramos, em atendimento ao Edital de Concorrência nº 01/2010 que, conforme previsto no art. 3º da Lei Complementar nº 123/06, auferir receita bruta que nos enquadra como......................................................(micro empresa ou empresa de pequeno porte, conforme o caso).
+
+Local e data
+
+Assinatura do Responsável pela Empresa (Nome Legível/Cargo/Carimbo do CNPJ)
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+73 de 85
+
+ANEXO VIII DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+
+AGÊNCIA REGULADORA DE ÁGUAS, ENERGIA E SANEAMENTO BÁSICO DO DISTRITO FEDERAL ADASA CONCORRÊNCIA nº 01/ADASA/2010 PROCESSO ADMINISTRATIVO Nº 0197-001097/2009
+
+TERMO DE CESSÃO DE DIREITOS PATRIMONIAIS A empresa................................................................................................................., com sede na ........................................................................................................, nº ................., C.N.P.J. nº ...........................................................................,por este instrumento, cede todos os direitos patrimoniais decorrentes do objeto da concorrência em epígrafe ­ nos moldes exigidos pelo art. 111 da Lei n°. 8.666/93. Local e data Assinatura do Cedente (Nome Legível/CNPJ)
+
+OBS. esta declaração deverá ser apresentada no original.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+74 de 85
+
+ANEXO IX DO EDITAL DA CONCORRÊNCIA Nº 01/2010-ADASA
+AGÊNCIA REGULADORA DE ÁGUAS, ENERGIA E SANEAMENTO BÁSICO DO DISTRITO FEDERAL ADASA CONCORRÊNCIA nº 01/ADASA/2010 PROCESSO ADMINISTRATIVO Nº 0197-001097/2009
+
+Modelo para Elaboração da Proposta Técnica
+1. FATOR COMPATIBILIDADE (FCO) A proposta técnica do proponente será avaliada e pontuada, relativamente ao Fator Compatibilidade (FCO), em função das notas obtidas no seguinte subfator: SUBFATOR 1.1: Experiência do proponente na prestação de serviços em atividades de desenvolvimento e/ou manutenção de sistemas de informação utilizando as ferramentas descritas no item 1.1.1.
+
+1.1.1
+
+FATOR COMPATIBILIDADE (FCO) LINGUAGENS DE PROGRAMAÇÃO 1. Microsoft Visual Basic.NET 2. Microsoft Visual C# ou JAVA SISTEMA GERENCIADOR DE BASES DE DADOS 3. Microsoft SQLServer 2008 ou superior METODOLOGIA 4. Unified Modeling Language ­ UML TOTAL DA PONTUAÇÃO (PFCO)
+
+SIM
+
+PONTOS 25 25 25 25
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+75 de 85
+
+2. FATOR DESEMPENHO (FDE) SUBFATOR 2.1: Quantidade de Pontos de Função (PF) prestada em atividades relacionadas ao desenvolvimento e manutenção de sistemas de informação em um período de 24 meses consecutivos. FATOR DESEMPENHO (FDE) SIM Entre 3.001 e 4.000 Pontos de Função Entre 4.001 e 5.000 Pontos de Função Entre 5.001 e 6.000 Pontos de Função Entre 6.001 e 7.000 Pontos de Função Entre 7.001 e 8.000 Pontos de Função Entre 8.001 e 9.000 Pontos de Função Entre 9.001 e 10.000 Pontos de Função Acima de 10.001 Pontos de Função TOTAL DA PONTUAÇÃO (PFDE) QUANTIDADE PONTOS 30 40 50 60 70 80 90 100
+
+2.1.1
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+76 de 85
+
+3. FATOR QUALIDADE (FQU) SUBFATOR 3.1: Certificação qualidade (CQ) em uma ou mais das áreas relacionadas no item 3.1.1.
+
+3.1.1
+
+CERTIFICAÇÃO DE QUALIDADE (CQ) SIM PONTOS NBR 9001-2000 ou ISO/IEC 12207 ou ISO/IEC 15504 40 TOTAL DA PONTUAÇÃO (PCQ) Pontuação Máxima: 40 pontos
+
+SUBFATOR 3.2: Empresa detentora de Nível de Maturidade padrão CMMI no mínimo igual a 2 ou padrão MPS.BR no mínimo igual a G, conforme item 3.2.1.
+
+MELHORIA DO PROCESSO DE SOFTWARE (PS) SIM PONTOS Nível de maturidade G do MPS.BR 10 Nível de maturidade D, E ou F do MPS.BR ou CMMI 2 20 3.2.1 Nível de maturidade C do MPS.BR ou CMMI 3 40 Nível de maturidade B do MPS.BR ou CMMI 4 50 Nível de maturidade A do MPS.BR ou CMMI 5 60 TOTAL DA PONTUAÇÃO (PPS) Pontuação Máxima: 60 pontos Totalização dos pontos do Fator de Qualidade (FQU): FATOR QUALIDADE (FQU) TOTAL DA PONTUAÇÃO (PCQ) TOTAL DA PONTUAÇÃO (PPS) TOTAL DA PONTUAÇÃO (PFQU) ITEM 3.1.1 3.2.1 PONTOS
+
+3.3.1
+
+Pontuação Máxima: 100 pontos
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+77 de 85
+
+4. FATOR SUPORTE DE SERVIÇOS (FSS)
+
+SUBFATOR 4.1: Empresa parceira da Microsoft - Microsoft Partner Program (MPP), conforme relacionado no item 4.1.1.
+
+4.1.1
+
+PARCERIA MICROSOFT (MCP) Registered Member Microsoft Certified Partner Microsoft Gold Certified Partner TOTAL DA PONTUAÇÃO (PMCP)
+
+SIM
+
+PONTOS 10 60 80
+
+Pontuação Máxima: 80 pontos SUBFATOR 4.2: Empresa detentora de Parceria com distribuidor LINUX (LI) relacionada ao suporte e desenvolvimento deste sistema operacional, conforme indicado no item 4.2.1. PARCERIA LINUX (LI) SIM PONTOS Acordo ou Contrato de parceria com distribuidor LINUX relacionado ao suporte 20 e desenvolvimento deste sistema operacional. TOTAL DA PONTUAÇÃO (PLI) Pontuação Máxima: 20 pontos
+
+4.2.1
+
+4.3.1
+
+FATOR SUPORTE DE SERVIÇOS (FSS) TOTAL DA PONTUAÇÃO (PMPC) TOTAL DA PONTUAÇÃO (PLI) TOTAL DA PONTUAÇÃO (PFSS)
+
+ITEM 4.1.1 4.2.1
+
+PONTOS
+
+Pontuação Máxima: 100 pontos
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+78 de 85
+
+TOTAL DA PONTUAÇÃO Transporte para o quadro abaixo o somatório da pontuação obtida nos Fatores FATORES Pontos FATOR COMPATIBILIDADE (PFCO) = (1.1.1) Pontuação Máxima: 100 pontos FATOR DESEMPENHO (PFDE) = (2.1.1) Pontuação Máxima: 100 pontos FATOR QUALIDADE (PFQU) = (3.3.1) Pontuação Máxima: 100 pontos FATOR SUPORTE DE SERVIÇOS (PFSS) = (4.3.1) Pontuação Máxima: 100 pontos Total - Pontuação Máxima: 1.200 pontos Peso 4 3 3 2 Pontuação Ponderada
+
+............................................ (Local/Data) ............................................................ (Assinatura do Representante Legal)
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+79 de 85
+
+ANEXO X ­ ARTEFATOS INTEGRANTES DE CADA FASE DO PROJETO I - METODOLOGIA PARA O CICLO DE DESENVOLVIMENTO DE SISTEMAS ETAPAS 1.1. O ciclo de desenvolvimento de sistemas seguirá preferencialmente o padrão de engenharia de software Rational Unified Process (RUP). A metodologia RUP define as fases de Iniciação, Elaboração, Construção e Transição para nortear as disciplinas ou modalidades de trabalho num ciclo de desenvolvimento, e esta nomenclatura será mantida nos detalhamentos a seguir. 1.1.1. Iniciação: especificar a visão do modelo de negócio, do escopo do projeto e do produto final. 1.1.2. Elaboração: analisar o problema, estabelecer a arquitetura da solução, planejar as iterações e analisar os elementos de risco. 1.1.3. Construção: construção dos componentes, gerência cia da construção. 1.1.4. Transição: implantação do software. 2. DISCIPLINAS 2.1. A metodologia Unified Modeling Language (UML), decompõe o ciclo de desenvolvimento de sistemas em tipos de serviço ou disciplinas, as quais são: Modelagem do Negócio, Especificação de Requisitos uisitos, Desenho do Sistema, Codificação, Testes, Implantação e Gerenciamento do Projeto, e esta nomenclatura será mantida nos detalhamentos a seguir. 2.2. As disciplinas do ciclo de desenvolvimento de sistemas, definidas pela metodologia UML, devem ser caracterizadas caracterizadas como pequenos projetos, cujos pontos de controle serão estabelecidos ao final de cada uma das fases definidas pela metodologia RUP, de acordo com o quadro abaixo:
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+80 de 85
+
+Obs. Os gráficos representam a mobilização de recursos em cada disciplina, de acordo com a fase do ciclo de desenvolvimento de sistemas. 2.3. Cada fase do ciclo de desenvolvimento de sistemas poderá, a critério da CONTRATANTE, sofrer revisões, visando o aprimoramento dos serviços. Estas podem acarretar retrabalho nos produtos de cada disciplina, até se chegar ao produto refinado e que atenda às efetivas necessidades dos usuários finais. 2.4. Ao final da execução das disciplinas do ciclo de desenvolvimento de sistemas, será prevista a entrega de artefatos obrigatórios, de uso consagrado e universal, considerados partes integrantes dos serviços previstos neste Projeto Básico. A lista de artefatos obrigatórios e o seu detalhamento estão abaixo:
+Fase Construçã o R R R R R R R R R R C C C C C C C R R R
+
+Disciplinas Modelagem do negócio
+
+Artefato
+
+Iniciaçã o C C C C C
+
+Elaboraçã o R R R R R C C C C
+
+Transiçã o
+
+Diagrama de Contexto ou de Casos de Uso de Negócio Declaração de Escopo Relatório de Especificação de Especificação Requisitos Modelos de Casos de Uso de requisitos Glossário Modelo Funcional Modelo de Dados Desenho do Plano de Gerência sistema Novos Modelos de Casos de Uso Relatório de Pontos de Função Ordem de Serviço para a Fábrica Ambiente de desenvolvimento Mídia com produto de software Relatório de análise da qualidade Codificação Documentação técnica Novos Modelos de Casos de Uso Plano de implantação Sistema ou alteração implantada Testes e Manual do Usuário Implantação Material de treinamento Usuários treinados
+
+C
+
+C C C C
+
+Legenda: C-Criado; R-Revisado.
+
+3. DETALHAMENTO DO CONTEÚDO DOS ARTEFATOS OBRIGATÓRIOS 3.1. Artefatos para gerência do projeto 3.2. Os artefatos para a gerência do projeto seguem a metodologia estabelecida no A Project Management Body of Knowledge, (PMBoK, ed. 2004) do Project Management Institute (PMI). São eles: ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+81 de 85
+
+3.2.1. Declaração de Escopo: Este artefato descreve o produto a ser desenvolvido, em suas linhas gerais. Segue as especificações do cap. 5 Gerência de Escopo, do PMBoK 2004. 3.2.2. O documento deve conter:
+· · · · · Objetivos da solução; Justificativa; Descrição do Produto e Subprodutos; Estrutura Analítica do Projeto (EAP); Dicionário da EAP.
+
+3.2.3. Plano de Gerência: Este artefato descreve o produto a ser desenvolvido, em suas linhas gerais. Segue as especificações do cap. 3 ­ Processos de Gerenciamento, do PMBoK 2004, desenvolvidas nos capítulos subseqüentes. 3.2.4. O documento deve conter como tópicos obrigatórios:
+· · · · Plano de gerência de tempo; Plano de gerência de qualidade; Plano de gerência de comunicação; Plano de gerência de riscos.
+
+3.2.5. Artefatos para definição técnica do serviço: A especificação dos artefatos pode ser encontrada no manual OMG Unified Modeling Language (OMG UML), Superstructure, v. 2.1.2, disponível em: http://www.omg.org/docs/formal/07-11-02.pdf 3.2.6. Diagrama de Contexto ou de Casos de Uso do Negócio: Este documento descreve o processo a ser suportado pelo sistema de informação. 3.2.7. O documento deve conter:
+· · Mapa do processo (diagrama de casos de uso); Fluxo e diagrama de atividades.
+
+3.2.8. Especificações de Requisitos: Este documento captura todos os requisitos de sistema, tanto os funcionais como os não funcionais. Os requisitos funcionais são descritos na forma de casos de uso; já os requisitos não funcionais são descritos apenas, sem o uso de diagramas. Entre os requisitos não funcionais estão incluídos:
+· · · · · Padrões do aplicativo; Requisitos legais e de regulamentação; Requisitos de usabilidade, confiabilidade, e desempenho; Requisitos de segurança e contingência; Outros requisitos, como sistemas operacionais e ambientes, requisitos de compatibilidade e restrições devidas a limitações tecnológicas.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+82 de 85
+
+3.2.9. Modelo de Casos de Uso: Conjunto de todos os diagramas de caso de uso. Seu objetivo é modelar os requisitos funcionais. 3.2.10. Este modelo é minimamente definido por um Diagrama de Caso de Uso e seus descritivos e comentários, e pode ser complementado pelos seguintes diagramas:
+· · · · Diagramas de Atividade Diagramas de Seqüência Diagramas de Colaboração Diagramas de Pacote.
+
+3.2.11.
+
+Glossário: Define termos importantes usados pelo projeto.
+
+3.2.12. Modelo de Dados: Descreve a representação lógica e física dos dados persistentes no sistema. Também abrange qualquer comportamento definido no banco de dados, como Stored Procedures, Triggers, e Constraints. 3.2.13.
+· · ·
+
+O modelo deve conter:
+
+Diagramas de Classes de persistência de dados; Modelo Entidade-Relacionamento (MER); Dicionário de Dados (DD).
+
+3.2.14. Relatório de Pontos de Função: Descreve, passo a passo, a partir do modelo funcional, os cálculos em Pontos de Função do esforço necessário para a realização do serviço. 3.2.15. Ordem de Serviço para a Fábrica: Autoriza a iniciação do serviço. De acordo com formulário padronizado pela CONTRATANTE. 3.2.16.
+· · · ·
+
+Modelo Funcional: Contempla os seguintes documentos:
+
+Diagramas de Classes derivadas dos casos de uso; Diagramas de Estados da UML, representando os possíveis estados do sistema; Diagrama Hierárquico de Funções (DHF) ­ opcional ­ descrição detalhada das funções e especificação dos acessos às entidades de dados e seus atributos; Diagrama de Pacotes.
+
+3.2.17. Mídia com Produto de Software: Entende-se por "mídia" qualquer suporte, seja magnético, óptico ou até mesmo a transmissão de arquivos por FTP ou VPN, suficiente para instalar o produto de software no ambiente da CONTRATANTE. 3.2.18. Relatório de Análise da Qualidade: O requisito mínimo para que o software seja implantado no ambiente da CONTRATANTE é que esteja livre de erros em sua operação. A CONTRATANTE determina que o produto desenvolvido seja exaustivamente testado na CONTRATADA, sendo registradas as ocorrências, que podem ser: ___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+83 de 85
+
+· · ·
+
+Lista dos bugs identificados; Lista dos problemas ocorridos entre a equipe de teste e desenvolvimento durante o ciclo de correção dos bugs. Grau de aderência do produto apresentado frente ao Modelo de Casos de Uso e as Especificações de Requisitos.
+
+3.2.19.
+
+Estes devem ser sistematizados em um Plano de Testes.
+
+3.2.20. Documentação técnica: Deve contemplar manuais do sistema com a definição dos procedimentos operacionais, documentação dos produtos gerados, incluindo as bases de dados, interfaces, rotinas e outros. 3.2.21. Plano de implantação: Antes de ser implantado, o produto de software passará por um período de testes e homologação no ambiente da CONTRATANTE. A CONTRATANTE poderá a seu critério estipular um plano de testes a ser seguido pelos usuários finais, e a implantação será somente levada a efeito após a CONTRATANTE declarar o produto homologado. 3.2.22. O Plano de Implantação descreve como o produto será transferido para a comunidade de usuários. 3.2.23.
+· · · · · ·
+
+Ele deve conter, obrigatoriamente:
+
+Identificação de estratégias de compatibilidade, conversão e migração. Estratégia de Implantação Cronograma de Implantação; Seqüência de Implantação; Manual de instalação do sistema; Manual de operação do sistema.
+
+3.2.24. Manual do usuário: O manual deve, evitando jargões técnicos de T.I.C., explicar a utilização de todas as funcionalidades previstas no serviço. Será permitida a confecção na forma de ajuda on-line. 3.2.25. Material de Treinamento: O material deve incluir o programa dos cursos, apresentações, etc. Também devem ser designados técnicos qualificados para dar suporte à operacionalização do sistema por um período não inferior a 15 (quinze) dias.
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+84 de 85
+
+ANEXO XI ­ FÓRMULAS PARA PONTUAÇÃO NOS CRITÉRIOS DE TÉCNICA E PREÇO
+A Pontuação Técnica de cada proposta será calculada através da média ponderada das pontuações obtidas nos fatores suprareferenciados, utilizando-se a seguinte fórmula:
+
+PTi =
+
+4( PFCO) + 3( PFQU ) + 3( PFDE) + 2( PFSS ) , onde: 12
+
+PTi = Pontuação Técnica da proposta i (ésima); PFCO = Pontuação obtida no Fator Compatibilidade; PFQU = Pontuação obtida no Fator Qualidade; PFDE = Pontuação obtida no Fator Desempenho; PFSS = Pontuação obtida no Fator Suporte de Serviços. A pontuação técnica será considerada até a 2ª (segunda) casa decimal, desprezando-se a fração remanescente. A partir dos resultados obtidos no antecedente, será calculado o Índice Técnico de cada licitante, dividindo-se a Pontuação Técnica da proposta em exame pela maior pontuação técnica obtida pelos proponentes, de acordo com a seguinte fórmula: ITi =
+
+PTPEi , onde: MPT
+
+ITi = Índice Técnico da proposta i (ésima); PTPEi = Pontuação Técnica da Proposta em Exame i (ésima); MPT = Maior Pontuação Técnica obtida. O Índice de Preço de cada proposta será calculado através da divisão do menor valor do Ponto de Função cotado dentre todos os licitantes para a prestação dos serviços pelo valor do Ponto de Função da proposta em exame, conforme a seguinte fórmula:
+
+IPi =
+
+MVMC , onde: VMPEi
+
+IPi = Índice de Preço da proposta i (ésima); MVMC = Menor Valor Mensal Cotado; VMPEi = Valor Mensal da Proposta em Exame i (ésima). A nota final de avaliação de cada proposta será calculada mediante a seguinte fórmula:
+
+NFAi =
+
+( ITi × 5 + IPi × 5) , onde: 10
+
+NFAi = Nota Final de Avaliação da proposta i (ésima); ITi = Índice Técnico da proposta i (ésima); IPi = Índice de Preço da proposta i (ésima).
+
+___________________________________________________________________________
+"Brasília - Patrimônio Cultural da Humanidade"
+
+85 de 85
+
+

@@ -1,0 +1,1044 @@
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO PREGÃO ELETRÔNICO nº 009/2011 Processo: TRT-SOF nº 046/2011
+
+A UNIÃO, por intermédio do TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO, através de seu Pregoeiro, instituído pela Portaria 258/2009 e alterada em parte pelas Portarias 29/2010, 134/2010 e 62/2011 da Presidência desta Corte, comunica aos interessados que devidamente autorizado pelo Sr. Ordenador de Despesas nos autos do processo em referência fará realizar licitação por meio de utilização de recursos de tecnologia de informação - INTERNET, sob a modalidade de Pregão Eletrônico, do tipo MENOR PREÇO GLOBAL, nos termos da Lei nº 10.520, de 17 de julho de 2002, bem como dos Decretos nºs 3.555 de 08 de agosto de 2000 e 3.784, de 06 de abril de 2001, e suas alterações, 5.450 de 31 de maio de 2005, das Instruções Normativas/MARE nº 05, de 21 de julho de 1995 e nº 01, de 17 de maio de 2001, e pelas cláusulas e condições constantes deste edital e, subsidiariamente, pelas normas da Lei nº 8.666, de 21 de junho de 1993, com as devidas alterações e pela Lei Complementar nº 123, de 14 de dezembro de 2006, bem como pelo Decreto 6.204, de 05 de setembro de 2007. ENCERRAMENTO DO RECEBIMENTO DAS PROPOSTAS: 9 hs do dia 13 de julho de 2011. DATA DE ABERTURA DAS PROPOSTAS: 13 de julho de 2011, às 9 hs. INÍCIO DA SESSÃO DE DISPUTA DE PREÇOS: 13 de julho de 2011, às 10 hs. ENDEREÇO ELETRÔNICO: www.licitacoes-e.com.br I ­ DO OBJETO 1.1 A PRESENTE LICITAÇÃO TEM POR OBJETO A CONTRATAÇÃO DE EMPRESA PARA A PRESTAÇÃO DE SERVIÇOS TÉCNICOS
+Comissão Permanente de Licitação 1
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+ESPECIALIZADOS NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO, COMPREENDENDO A MANUTENÇÃO CORRETIVA, EVOLUTIVA, PERFECTIVA E ADAPTATIVA DO SISTEMA DE ACOMPANHAMENTO PROCESSUAL (SAPWEB) E APLICAÇÕES WEB DO TRT DA 1ª REGIÃO, COM ATUAÇÃO EM UMA OU VÁRIAS ETAPAS DO DESENVOLVIMENTO BASEADA NO UP (UNIFIED PROCESS) OBSERVANDO AS ROTINAS QUE SE ENCONTRAM DETALHADAS NO TERMO DE REFERÊNCIA. 1.1.1 Os serviços deverão ser desenvolvidos nas instalações da CONTRATADA, que deverá providenciar, sem quaisquer ônus adicionais para a CONTRATANTE, toda infraestrutura de pessoal, hardware e software necessários para sua execução, com as ressalvas apontadas, nos termos do item 5 do Termo de Referência. 1.2 As licitantes deverão, OBRIGATORIAMENTE, efetuar vistoria prévia da documentação do sistema Sapweb na Secretaria de Tecnologia da Informação, localizada na Av. Augusto Severo, 84, 13º andar, Glória, Rio de Janeiro, RJ, sendo certo que a vistoria ensejará a emissão de comprovante pelo Tribunal, pelo fato de ser OBRIGATÓRIA. 1.2.1 A não apresentação do acarretará a inabilitação da licitante. referido Comprovante
+
+1.2.2 A vistoria deverá ser realizada até 01 (um) dia útil antes da data estipulada para a abertura da licitação, devendo ser agendada até 01 (um) dia útil antes de sua realização através do email dgsp@trt1.jus.br, no horário compreendido entre 10 e 17 horas, de segunda à sexta-feira. 1.3 As dúvidas de natureza técnica porventura surgidas durante a vistoria serão esclarecidas pela Divisão de Gestão de Sistemas e Portal (DGSP), através de expediente dirigido à Comissão Permanente de Licitação (CPL), via e-mail pregao.eletronico@trt1.jus.br, até 03 (três) dias úteis antes da data fixada para recebimento das propostas (conforme subitem 2.1 do presente edital). Observe-se que as vistorias realizadas após tal prazo, não possibilitarão pedido de esclarecimento tendo em vista o prazo previsto no art. 19 do Decreto 5.450/05.
+
+Comissão Permanente de Licitação
+
+2
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+1.4 Em nenhuma hipótese, o desconhecimento das condições operacionais poderá ser alegado como justificativa para inexecução ou execução parcial do serviço a ser prestado, bem como solicitar qualquer alteração no valor do contrato a ser celebrado. 1.5 Maiores informações referentes à perfeita caracterização do objeto, encontram-se minuciosamente descritas nos anexos do presente instrumento convocatório. 1.6 A despesa com esta aquisição correrá durante o presente exercício à conta da seguinte dotação orçamentária: Programa de Trabalho nº 02.061.0571.4256.0001, item 33.90.39, do Orçamento Geral da União. 1.7 Fazem parte deste edital: a) Termo de Referência e seus anexos: - Anexo I - Documento de Arquitetura do SAPWEB; - Anexo II - Relação de Endereços das Unidades da Contratante; - Anexo III - Modelo de Solicitação de Serviço (SS); - Anexo IV - Plano de Gerênciamento de Requisitos; - Anexo V - Documentos de Normas e Padrões; - Anexo VI - Padrão de Codificação; - Anexo VII - Política de Testes; - Anexo VIII - Plano de Gerência de Configuração; - Anexo IX - Histórico de Manutenção Corretiva do SAPWEB; - Anexo X - Planilha de Custos Estimados; - Anexo X-A - Modelo de Planilha de Custos - Licitante Vencedora; - Anexo XI - Termo de Confiabilidade; - Anexo XII - Modelo de Declaração sobre Trabalho de Menores; - Anexo XIII - Modelo de Declaração ref. Resolução nº 07/05 do Conselho Nacional de Justiça; b) Minuta de Contrato. II - DA SOLICITAÇÃO DE ESCLARECIMENTOS E IMPUGNAÇÕES AO EDITAL 2.1 Observado o prazo legal de 03 (três) dias úteis antes da data fixada para abertura das propostas, o fornecedor poderá enviar pedidos de esclarecimento referentes ao processo licitatório,
+Comissão Permanente de Licitação 3
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+exclusivamente por meio eletrônico, via internet, através do seguinte endereço: pregao.eletronico@trt1.jus.br, informando o número da licitação. 2.2 Até 02 (dois) dias úteis anteriores à data fixada para abertura da sessão pública, qualquer pessoa poderá impugnar o presente ato convocatório, por fax (021) 3512-7211 ou 3512-7212, meio eletrônico, ou pessoalmente, na Rua Augusto Severo nº 84, 5º andar, Glória, Rio de Janeiro, RJ, o qual será decidido pelo pregoeiro no prazo de até 24 (vinte e quatro) horas. 2.2.1 Acolhida a petição contra o ato convocatório, será designada nova data para realização do certame. 2.3 Os pedidos de esclarecimentos e as impugnações serão respondidos pelo pregoeiro e divulgados nos sítios www.trt1.jus.br e www.licitacoese.com.br, no campo mensagem, observado o prazo legal previsto no subitens 2.1 e 2.2, conforme o caso. III - DA REFERÊNCIA DE TEMPO 3.1 Todas as referências de tempo no edital, no Aviso e durante a Sessão Pública observarão obrigatoriamente o horário de Brasília-DF e, dessa forma, serão registradas no sistema eletrônico e na documentação relativa ao certame. IV - DA PARTICIPAÇÃO 4.1 O Pregão Eletrônico será realizado em sessão pública, por meio da INTERNET, mediante condições de segurança - criptografia e autenticação - em todas as suas fases. Os trabalhos serão conduzidos por servidor integrante do quadro efetivo deste Regional, denominado Pregoeiro, mediante a inserção e monitoramento de dados gerados ou transferidos para o aplicativo "Licitações", constante da página eletrônica do Banco do Brasil S.A. 4.2 Poderão participar do processo os interessados que atenderem a todas as exigências contidas neste edital e seus anexos, devendo manifestar em campo próprio do sistema eletrônico que cumpre plenamente os requisitos
+Comissão Permanente de Licitação 4
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+de habilitação e que sua proposta está em conformidade com as exigências do instrumento convocatório. 4.3 Não poderão participar: a) empresas que estejam declaradas inidôneas para licitar ou contratar com a Administração Pública ou suspensas de participar em licitação e impedidas de contratar com este Tribunal, como previsto no art. 87, III e IV, da Lei nº 8.666/93; b) empresas com falência decretada ou em recuperação judicial ou extrajudicial; c) consórcio de empresas, qualquer que seja sua forma de constituição. d) servidores ou dirigentes deste órgão, conforme artigo 9º, III da Lei 8.666/93, e e) sociedades cooperativas. 4.4 A participação no certame se dará por meio da digitação de chave da identificação e da senha pessoal e intransferível do representante credenciado (ver item 5) e subseqüente encaminhamento da proposta de preços, exclusivamente por meio do sistema eletrônico no sitio www.licitacoes-e.com.br, opção "Acesso Identificado", observados data e horário limite estabelecidos. V - DO CREDENCIAMENTO 5.1 Para acesso ao sistema eletrônico, os interessados em participar do Pregão deverão dispor de chave de identificação e de senha pessoal e intransferível, obtidas junto às Agências do Banco do Brasil S.A., sediadas no País. 5.2 A chave de identificação e a senha terão validade de 01 (um) ano e poderão ser utilizadas em qualquer pregão eletrônico, salvo quando canceladas por solicitação do credenciado ou por iniciativa do Banco, devidamente justificado.
+Comissão Permanente de Licitação 5
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+5.3 As pessoas jurídicas ou empresários individuais deverão credenciar representantes, mediante a apresentação de procuração por instrumento público ou particular, com firma reconhecida, atribuindo poderes para formular lances de preços e praticar todos os demais atos e operações no www.licitacoes-e.com.br. 5.4 Em sendo sócio, proprietário, dirigente (ou assemelhado) da empresa proponente, deverá apresentar cópia do respectivo Estatuto ou Contrato Social, no qual estejam expressos seus poderes para exercer direitos e assumir obrigações em decorrência de tal investidura. 5.5 É de exclusiva responsabilidade do usuário o sigilo da senha, bem como seu uso em qualquer transação efetuada diretamente ou por seu representante, não cabendo ao TRT da 1ª Região ou ao Banco do Brasil S.A. a responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros. 5.6 O credenciamento do fornecedor e de seu representante legal junto ao sistema eletrônico implica a responsabilidade legal pelos atos praticados e a presunção de capacidade técnica para realização das transações inerentes ao pregão eletrônico. 5.7 É de inteira e exclusiva responsabilidade do pretenso licitante o acesso à senha, aos dados, à chave de identificação e ao envio das propostas até a data e horário limite para o acolhimento das propostas. 5.8 A perda da senha ou a quebra do sigilo deverão ser comunicadas imediatamente ao provedor do sistema, para pronto bloqueio de acesso. VI - DO REGULAMENTO OPERACIONAL DO CERTAME 6.1 O certame será conduzido pelo Pregoeiro, que terá, em especial, as seguintes atribuições: a) Coordenar os trabalhos da equipe de apoio; b) Responder as questões formuladas pelos fornecedores, relativas ao certame;
+Comissão Permanente de Licitação 6
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+c) Abrir as propostas de preço; d) Analisar a aceitabilidade das propostas; e) Desclassificar propostas indicando os motivos; f) Conduzir os procedimentos relativos aos lances e à escolha da proposta ou do lance de menor preço; g) Verificar a habilitação do proponente classificado em primeiro lugar; h) Declarar vencedor; i) Receber, examinar e submeter os recursos à autoridade competente para julgamento; j) Adjudicar o objeto quando não houver recurso; l) Elaborar a ata da sessão; m) Encaminhar o processo à autoridade superior para homologar e autorizar a contratação. VII - DO ENVIO DAS PROPOSTAS DE PREÇO 7.1 O encaminhamento de proposta pressupõe o pleno conhecimento e atendimento às especificações do objeto / serviço e às exigências de habilitação previstas neste edital. O licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiras suas propostas e lances. 7.2 Ao apresentar sua proposta e ao formular lances, o licitante concorda especificamente com as seguintes condições: a) os serviços deverão atender a todas as exigências constantes deste edital, no Termo de Referência e seus anexos;
+Comissão Permanente de Licitação 7
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+b) a cotação de preços englobará todas as despesas relativas ao objeto da licitação, bem como os respectivos custos diretos e indiretos, tributos, remunerações, despesas fiscais e financeiras e quaisquer outras necessárias ao cumprimento do objeto desta licitação;
+
+c) a proposta de preços deverá ser válida pelo período de, no mínimo, 60 (sessenta) dias, contados a partir da data prevista para abertura do certame; d) a garantia dos serviços será prestada durante toda a vigência do contrato e após o seu encerramento, pelo período de 03 (três) meses, a contar da emissão do último Termo de Aceite pela fiscalização, conforme item 17 do Termo de Referência. d.1) durante todo o período da garantia acima mencionado, a empresa Contratada deverá efetuar toda a manutenção corretiva decorrente de quaisquer erros ou falhas do sistema, sem quaiquer ônus adicionais à Contratante, com exceção do disposto no item 9.7 do Termo de Referência. e) é vedada qualquer indexação de preços por índices gerais, setoriais ou que reflitam a variação dos custos. 7.2.1 Caso a licitante não informe em sua proposta comercial o prazo de validade da proposta e o prazo de garantia dos serviços serão considerados os estabelecidos nas letras "c" e "d" do subitem 7.2 deste Edital. 7.3 Ao oferecer sua proposta no sistema eletrônico, o licitante deverá: a) Consignar o PREÇO GLOBAL para o serviço. b) Preencher, se julgar necessário, o campo INFORMAÇÕES ADICIONAIS.
+Comissão Permanente de Licitação 8
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+7.4 A simples apresentação da proposta corresponde à indicação, por parte do licitante, de que inexistem fatos impeditivos de sua participação, eximindo assim, o pregoeiro, do disposto no artigo 97 da Lei 8.666/97. 7.5 Até a abertura da sessão, os licitantes poderão retirar ou substituir a proposta anteriormente apresentada. VIII - DA ABERTURA DAS PROPOSTAS COMERCIAIS 8.1 A partir do horário previsto no edital, terá início a sessão pública virtual do Pregão Eletrônico, com a divulgação das propostas de preços recebidas, passando o Pregoeiro a avaliar a aceitabilidade das propostas. 8.1.1 O pregoeiro verificará as propostas apresentadas, desclassificando aquelas que não estejam em conformidade com os requisitos estabelecidos no edital. 8.1.2 A desclassificação de proposta será sempre fundamentada e registrado no sistema, com acompanhamento em tempo real por todos os participantes. 8.2 Aberta a etapa competitiva, os representantes dos licitantes deverão estar conectados ao sistema para participar da sessão de lances. A cada lance ofertado o participante será imediatamente informado de seu recebimento e respectivo horário de registro e valor. 8.2.1 O licitante somente poderá oferecer lance por meio eletrônico e que seja inferior ao último por ele ofertado e registrado. 8.2.2 Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar. 8.3 Durante o transcurso da sessão pública, os participantes serão informados, em tempo real, do valor do menor lance registrado, vedada a identificação do licitante. 8.4 No caso de desconexão do Pregoeiro, no decorrer da etapa de lances, se o sistema eletrônico permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados.
+Comissão Permanente de Licitação 9
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+8.4.1 Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do pregão será suspensa e terá reinício somente após comunicação expressa aos participantes. 8.5 Caberá ao licitante acompanhar as operações no sistema eletrônico, durante a sessão pública virtual do pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão. 8.6 A etapa de lances da sessão pública virtual será encerrada por decisão do pregoeiro, mediante aviso de fechamento iminente dos lances, emitido pelo sistema eletrônico, após o que transcorrerá período de tempo de até trinta minutos, aleatoriamente determinado também pelo sistema eletrônico, findo o qual será automaticamente encerrada a recepção de lances. 8.7 Encerrada a etapa de lances será observado o disposto nos artigos 44 e 45 da Lei Complementar nº 123/2006, conforme se segue: 8.7.1 Será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte. 8.7.2 Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas ou empresas de pequeno porte sejam iguais ou até 5% (cinco por cento) superiores à proposta de menor preço. 8.7.3 Para efeito no disposto no subitem 8.7.2 deste edital, ocorrendo empate, proceder-se-á da seguinte forma: a) a microempresa ou empresa de pequeno porte melhor classificada será convocada para apresentar nova proposta, a qual deverá ser feita no prazo máximo de 05 (cinco) minutos após o encerramento dos lances, sob pena de preclusão do direito. Caso ofereça proposta inferior à melhor classificada, passará à condição de primeira classificada do certame;
+Comissão Permanente de Licitação 10
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+b) não ocorrendo interesse da microempresa ou empresa de pequeno porte na forma da alínea "a" deste item serão convocadas as remanescentes que porventura se enquadrem na hipótese do subitem 8.7.2 deste edital, na ordem classificatória, para o exercício do mesmo direito; e 8.7.4. Na hipótese da não contratação nos termos previstos no subitem 8.7.2 do Edital, voltará à condição de primeira classificada, a empresa autora de menor preço originalmente apresentada. 8.7.5 O disposto nos subitens 8.7.2 e 8.7.3 somente se aplicará quando a proposta de menor preço não tiver sido apresentada por microempresa ou empresa de pequeno porte. 8.8 Será assegurada preferência observado o subitem 8.7, bem como o disposto no Decreto nº 7.174/2010 e na Medida Provisória nº 495/2010. 8.9 Encerrada a etapa de lances da sessão pública e eventual exercício do direito de preferência previsto nos subitens 8.7 e 8.8, o Pregoeiro poderá encaminhar, pelo sistema eletrônico, contraproposta diretamente ao proponente que tenha apresentado o lance de menor preço, para que seja obtido preço melhor, bem assim decidir sobre sua aceitação. 8.10 O sistema informará a proposta de menor preço. 8.11 Após a etapa prevista no subitem 8.9, o Pregoeiro efetuará consulta no SICAF ou documentos substitutivos (para os licitantes não cadastrados) e os demais documentos, de acordo com o item X, conforme o caso, para comprovar a regularidade de situação do autor da proposta, avaliada na forma da Lei nº 8.666/93. 8.12 Constatado o atendimento das exigências fixadas no edital, o licitante da proposta ou lance de menor preço será declarado vencedor e, ultrapassado o prazo para recurso, o objeto deste Pregão será adjudicado ao mesmo.
+Comissão Permanente de Licitação 11
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+8.12.1 Não atendidas as exigências habilitatórias, o Pregoeiro examinará as ofertas subseqüentes, e a habilitação dos proponentes, observada a ordem de classificação, até a apuração de uma que atenda ao edital, sendo-lhe adjudicado o objeto, caso não haja manifestação de interposição de recurso. 8.12 O proponente classificado em primeiro lugar deverá encaminhar o detalhamento de sua proposta, já com os novos valores decorrentes de lance, via fax - (21) 3512-7211 ou 3512-7212, ou, a critério do pregoeiro, pelo endereço eletrônico pregao.eletronico@trt1.jus.br, no prazo máximo de 04 (quatro) horas, a contar do encerramento da sessão pública virtual. Os originais deverão ser entregues, no prazo máximo de 03 (três) dias úteis, contados da data da sessão pública virtual no endereço constante do item 2.2 deste edital, ou encaminhados, via correio, para: Tribunal Regional do Trabalho da 1ª Região A/C Comissão Permanente de Licitações Rua do Lavradio nº 132 - Lapa CEP 20.230-070 Rio de Janeiro - RJ 8.13.1 O detalhamento da proposta, com os valores readequados de acordo com os lances, se for o caso, será apresentada com a assinatura do licitante, sem rasuras, emendas ou entrelinhas, com as seguintes informações: a) A arrematante deverá apresentar planilha de formação de preços, conforme modelo do Anexo X-A. a.1) Para assegurar que o valor total a ser pago pelo TRT jamais ultrapasse o pactuado na licitação, todas as casas excedentes à segunda casa decimal deverão ser DESPREZADAS, NÃO SENDO ADMITIDO QUALQUER ARREDONDAMENTO. Assim, exemplificativamente, uma proposta cujo preço do Ponto de Função resulte em R$ 0,05678989 teria o seu preço unitário ajustado na planilha definitiva para R$ 0,05.
+Comissão Permanente de Licitação 12
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+b) A razão social do licitante, o CNPJ, número(s) de telefone(s) e de FAX e, se houver, e-mail, e o respectivo endereço. 8.14 A microempresa ou empresa de pequeno porte que desejar fazer jus ao direito de preferência outorgado pela Lei Complementar nº 123/06, deverá apresentar declaração, sob as penas da lei, de que cumpre os requisitos legais para a qualificação como microempresa ou empresa de pequeno porte, estando apta a usufruir do tratamento favorecido estabelecido nos arts. 42 a 49 daquela Lei Complementar, bem como de que não incide em qualquer das vedações estabelecidas no art. 3º, § 4º, da mesma Lei Complementar. IX - DO JULGAMENTO DAS PROPOSTAS 9.1 O Pregoeiro efetuará o julgamento das propostas pelo critério de MENOR PREÇO GLOBAL, referente a estimativa de 3.500 (três mil e quinhentos) Pontos de Função para 30 meses, devendo o preço proposto incluir todos os custos diretos e indiretos pertinentes à prestação do serviço. 9.2 O serviço será executado sob o regime de empreitada por preço global. X - DA HABILITAÇÃO 10.1 Poderão participar desta licitação as licitantes cadastradas e habilitadas parcialmente no Sistema de Cadastramento Unificado de Fornecedores - SICAF, bem como as que comprovarem possuir os seguintes documentos: a) 1. Registro Comercial, no caso de empresário individual; 2. Ato Constitutivo, Estatuto ou Contrato Social, devidamente registrado, em se tratando de sociedades comerciais, e, no caso de sociedades por ações, acompanhado de documento de eleição de seus administradores. No caso de sociedades civis, a inscrição do ato Constitutivo consolidado, acompanhado de prova de diretoria em exercício. Os
+Comissão Permanente de Licitação 13
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+documentos referidos neste item deverão estar acompanhados de todas as alterações ou da consolidação respectiva; 3. Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no país, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. b) Prova de Inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ), do Ministério da Fazenda; c) Prova de Inscrição no Cadastro de Contribuintes Estadual ou Municipal, se houver, relativo à sede da licitante, pertinente ao seu ramo de atividade e compatível com o objeto deste edital; d) Prova de Regularidade para com a Seguridade Social (INSS); e) Prova de Regularidade para com o Fundo de Garantia por Tempo de Serviço (FGTS); f) Prova de Regularidade para com a Receita Federal do Brasil; g) Prova de Regularidade para com a Fazenda Estadual e/ou Prova de Regularidade para com Fazenda Municipal, conforme o caso. 10.2 Todos os licitantes, inscritos no SICAF ou não, também deverão apresentar a seguinte documentação: a) constante no item 10.1.a; b) Pelo menos 01 (um) atestado de capacidade técnica, fornecido por pessoa jurídica de direito público ou privado, comprovando que executou de maneira satisfatória serviço de desenvolvimento e manutenção de sistemas de, pelo menos, 1750 (mil e setecentos e cinquenta) pontos de função brutos utilizando metodologia Unified Process (UP) e Unified Modeling Language (UML), na plataforma Java EE com as seguintes tecnologias: linguagem Java, servidor de aplicação Oracle Application Server
+Comissão Permanente de Licitação 14
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+e/ou JBOSS, Frameworks: Struts e Hibernate; b.1) Os atestados deverão ser emitidos em nome da arrematante em papel timbrado do emitente, contendo, no mínimo, as seguintes informações: razão social, endereço e CNPJ do emitente; razão social da arrematante; referência, vigência e descrição do objeto do contrato; local e data de emissão do atestado; nome e assinatura do signatário com indicação do cargo e telefone para contato. b.2) O quantitativo de pontos de função mencionado no atestado de capacidade técnica corresponde a 50% do total estimado para execução nesta contratação, sendo tal percentual razoável e compatível com as quantidades, características e prazos da presente contratação, de modo a demonstrar a capacidade da arrematante na prestação dos serviços previstos neste termo de referência, na forma do artigo 30, II, da Lei 8.666/93. c) Declaração da arrematante informando: c.1) que possuirá, na data de assinatura do contrato, instalações, pessoal qualificado, estrutura de suporte para troca e informações com a CONTRATANTE suficientes para atender prontamente as demandas inerentes ao objeto a ser contratado, na forma do Termo de Referência; c.2) que cumpre o disposto no inciso XXXIII do artigo 7º da Constituição da República Federativa do Brasil de 1988, anexo XII deste edital; c.3) na forma do anexo XIII deste edital, de que, se contratado, não promoverá a inclusão em seu quadro profissional, durante toda a execução contratual, de empregados que sejam cônjuges, companheiros ou parentes em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, de ocupantes de cargos de direção e de assessoramento, de membros ou juízes vinculados ao Tribunal Regional do Trabalho da 1ª Região, em atendimento ao disposto no artigo 3º da Resolução nº 07/2005 do
+Comissão Permanente de Licitação 15
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Conselho Nacional de Justiça. d) Comprovante de realização de vistoria obrigatória da documentação do sistema Sapweb, conforme item 19 do Termo de Referência. 10.3 As licitantes não-cadastradas e não-habilitadas parcialmente no SICAF deverão comprovar a sua regularidade (inclusive quanto ao "balanço", quando vencido) mediante a apresentação das respectivas Certidões Negativas de Débito (CND's) e documentos, em conformidade com o disposto no inciso XIII, do artigo 4º, da Lei 10.520 de 17/07/2002, bem como: a) Certidão Negativa de Falência ou Recuperação Judicial ou Extrajudicial expedida pelo distribuidor da sede da pessoa jurídica, datada de até 90 (noventa) dias anteriores à data marcada para esta licitação; a.1) Não sendo o licitante sediado na comarca da capital do Estado do Rio de Janeiro, as certidões deverão vir acompanhadas de declaração oficial da autoridade competente, relacionando os distribuidores que, na comarca de sua sede tenham a atribuição para emitir certidões. b) Balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, que comprovem a boa situação financeira da empresa, vedada a substituição por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais quando encerrados há mais de três meses da data da apresentação da proposta: b.1) Os índices a serem analisados serão o de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC), demonstrando valores superiores aos abaixo indicados, resultantes da aplicação das fórmulas, observado o disposto no subitem 10.3, "b.1.1", conforme item 7, subitem 7.2 da Instrução
+Comissão Permanente de Licitação 16
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Normativa nº 5/95 do MARE: LG = Ativo Circulante + Realizável a Longo Prazo> 1 Passivo Circulante + Exigível a Longo Prazo SG = Ativo Total >1 Passivo Circulante + Exigível a Longo Prazo Ativo Circulante Passivo Circulante >1
+
+LC =
+
+b.1.1) As empresas que apresentarem resultado igual ou menor do que 1 (um) em qualquer dos índices referidos no subitem 10.3, "b.1" deverão comprovar, no momento da habilitação, capital ou patrimônio líquido de, no mínimo, 10% do valor global estimado neste edital. A comprovação deverá ser feita mediante apresentação de documento assinado por profissional legalmente habilitado, desde que não seja possível a obtenção dessa informação no Sistema de Cadastramento Unificado de Fornecedores - SICAF. b.2) Serão considerados aceitos como na forma da lei o balanço patrimonial e demonstrações contábeis assim apresentados: 1 - publicados em Diário Oficial; ou 2 - publicados em jornal; ou 3 - por cópia ou fotocópia registrada ou autenticada na Junta Comercial da sede ou domicílio da licitante; ou 4 - por cópia ou fotocópia do Livro Diário, devidamente autenticado na Junta Comercial da sede ou domicílio da licitante, inclusive com os Termos de Abertura e de encerramento. b.3) Das empresas recém-constituídas será exigida a
+Comissão Permanente de Licitação 17
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+apresentação de cópia do Balanço de Abertura, devidamente registrado na Junta Comercial ou cópia do Livro Diário contendo o Balanço de Abertura, inclusive os termos de Abertura e Encerramento, devidamente registrado na Junta Comercial da sede ou domicílio da licitante. 10.4 Caso a empresa-licitante pretenda efetuar o fornecimento objeto desta licitação por intermédio de outro estabelecimento da empresa (matriz ou filial), deverá apresentar, desde logo, o CNPJ desse estabelecimento para consulta "on line" ao SICAF. Se o estabelecimento não for cadastrado ou se encontrar irregular perante o SICAF, a empresa deverá apresentar todos os documentos de regularidade fiscal descritos no subitem 10.1 em nome desse estabelecimento. 10.5 Os documentos relativos ao item 10.2, bem como os documentos das empresas não cadastradas ou parcialmente habilitadas no SICAF, deverão ser remetidos pelo proponente classificado em primeiro lugar, para consulta do Pregoeiro, via Fax (21) 3512-7211 ou 3512-7212, ou, a critério do pregoeiro, pelo endereço eletrônico pregao.eletronico@trt1.jus.br, no prazo máximo de 04 (quatro) horas, a contar do encerramento da sessão pública virtual, com posterior encaminhamento do original ou cópia autenticada, no prazo de 03 (três) dias úteis, para o endereço mencionado no item 8.13. 10.5.1 A validade da documentação será aferida tanto por ocasião do encaminhamento dos documentos via fax, quanto dos originais ou fotocópias autenticadas. No caso de a validade da documentação encaminhada via fax vencer até o recebimento dos originais ou fotocópias autenticadas pelo Pregoeiro, a empresa deverá encaminhar, na mesma oportunidade, além dos originais da documentação anteriormente encaminhada via fax, nova documentação que comprove a manutenção de sua regularidade para fins de habilitação. 10.5.1.1 As Certidões terão o prazo de validade que lhes são próprios; inexistindo este prazo, reputar-se-ão válidas por 90 (noventa) dias, contados de sua expedição. 10.6 A ausência do envio da documentação nos termos dos itens 8.13 e 10.5, tanto via fax, quanto o(s) original(is) ou cópia(s) autenticada(s),
+Comissão Permanente de Licitação 18
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+ensejará a instauração de processo administrativo, que poderá culminar com a aplicação das sanções administrativas previstas neste edital. 10.6.1 Caracterizada a situação acima referida o Pregoeiro(a) retomará os trabalhos e procederá conforme disposto no item 8.12.1 deste Edital. 10.7 A Contratante poderá promover visita às dependências da Licitante e consulta às entidades competentes, a fim de comprovar a exatidão das informações contidas nos documentos requeridos. 10.7.1 Ao Pregoeiro reserva-se o direito de solicitar da licitante, em qualquer tempo, no curso da licitação, quaisquer esclarecimentos sobre documentos já entregues, fixando-lhe prazo para atendimento. 10.7.2 Os documentos exigidos poderão ser analisados pelo fiscal do futuro contrato, para emissão de parecer técnico em eventual diligência instaurada pelo pregoeiro(a), o(a) qual poderá considerá-lo no julgamento da habilitação. 10.8 Serão inabilitadas as empresas-licitantes que não apresentarem a documentação em situação regular. 10.8.1 A falta de quaisquer dos documentos exigidos no edital, implicará inabilitação da licitante, sendo vedada, sob qualquer pretexto, a concessão de prazo para complementação da documentação exigida para a habilitação, ressalvada a hipótese prevista nos itens 10.9 e 10.12. 10.9 No caso microempresa ou empresa de pequeno porte que esteja com alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de 2 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que o PROPONENTE (ME ou EPP) for declarado vencedor do certame, prorrogável por igual período, quando requerido pelo licitante e a critério da Administração, para a regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas efeito de certidão negativa.
+
+Comissão Permanente de Licitação
+
+19
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+10.9.1 A não regularização da documentação, no prazo previsto no subitem 10.9, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no item 16.1 deste edital, sendo facultado à Administração convocar os licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação. 10.10 Todos os documentos exigidos neste edital, deverão ser apresentados em originais ou por cópias reprográficas, obrigatoriamente autenticadas de acordo com o artigo 32 da Lei nº 8.666/93, na forma do artigo 9º da Lei nº 10.520/02. 10.11 Todos os documentos expedidos pela licitante (proposta comercial, declarações, certidões etc.) deverão ser subscritos por seu representante legal ou procurador, com identificação clara do subscritor (nome, número da identidade). 10.12 Se houver impossibilidade de apresentar qualquer documento por motivo de greve do órgão emissor, deverá o licitante apresentar declaração em papel timbrado da empresa, assinado por seu representante legal, de que não está em débito com o referido órgão e que, finda a greve, se compromete a apresentar o documento atualizado, para fins de direito, em até 10 (dez) dias úteis, independentemente da fase em que se encontrar o processo licitatório, sujeitando-se, no caso de não apresentação, às penalidades legais, nos termos do Item 16.1 deste edital. XI ­ DOS RECURSOS ADMINISTRATIVOS 11.1 Declarada a empresa vencedora no site, qualquer licitante poderá manifestar, no prazo de 01 (uma) hora, motivadamente, em campo próprio, a intenção de recorrer, registrando a síntese de suas razões. Será concedido o prazo de 3 (três ) dias úteis para a apresentação das razões de recurso, escritas, ficando as demais licitantes, desde logo, intimadas a apresentar contra-razões em igual número de dias, que começarão a correr do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos elementos indispensáveis à defesa de seus interesses.
+
+Comissão Permanente de Licitação
+
+20
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+11.1.1 As razões e contra-razões por escrito deverão ser enviadas para o endereço constante do subitem 8.13. 11.2 A falta de manifestação no prazo de 01 (uma) hora, importará em decadência do exercício do direito de recorrer. Os recursos imotivados ou insubsistentes não serão recebidos. 11.3 O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. XII - DA HOMOLOGAÇÃO 12.1 Não sendo interposto recurso, caberá ao Pregoeiro adjudicar o objeto e à Administração do TRT da 1ª Região, homologar o procedimento licitatório. 12.2 Havendo recurso, a Administração do TRT da 1ª Região, após deliberar sobre o mesmo, fará a adjudicação do objeto, homologando ou não o procedimento licitatório, na forma do artigo 27 do Decreto 5.450/05. XIII - DO INSTRUMENTO CONTRATUAL 13.1 Após homologado o certame e adjudicado o objeto pertinente, a licitante vencedora deverá comparecer ao TRT-1ª Região para assinatura do referido termo contratual no prazo de até 05 (cinco) dias úteis, a contar da data de sua convocação, conforme prevê o artigo 64 da Lei nº 8.666/93. 13.2 A contratada deverá, indicar na data da assinatura do contrato, à fiscalização, o nome, telefone e email do profissional que atuará como preposto, conforme preceitua o artigo 68 da Lei 8.666/1993. 13.3 A Contratada deverá apresentar ao Fiscal, antes do início do serviço, Declaração de que observa fielmente a legislação trabalhista no que concerne aos seus empregados, na forma do Ato nº 254/02, expedido pela presidência deste E. Regional, publicado no Diário Oficial do Estado do Rio de Janeiro de 07/02/2002, Seção II, às fls. 131.
+Comissão Permanente de Licitação 21
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+13.4 Quando da assinatura do contrato, a empresa vencedora deverá estar com sua situação regularizada no que se refere a débitos para com a Seguridade Social, FGTS e Receita Federal do Brasil, nos termos Lei. XIV - DA FISCALIZAÇÃO DO CONTRATO 14.1 A Fiscalização da presente contratação ficará sob responsabilidade dos seguintes servidores, de acordo com a disciplina de cada etapa de desenvolvimento do sistema, a saber: Disciplina Métrica e Requisitos Fiscal titular Fiscal substituto C e l i a R e g i n a A m a y aErika Sequeiros Pereira Utiyama (22195) Neves (66893) Análise e Projeto R o t e r d a m H o l a n d aJefferson Francisco de Cavalcante J u n i o rSouza (76783) (52108) Implementação, TestesTony Takimoto (62596) L i l i a n d e F á t i m a e Homologação Sapucahy da Silva (49310) Qualidade Marcelo Luís Alves DiasLeslier Levingstone (5085) Fernandes (50083) Gerente de Projeto Denise Barbosa Alves eCarolina Maria de Souza Silva (38105) Corrêa e Leite (67784) 14.2 A Gestão do contrato ficará sob responsabilidade do titular da Divisão de Gestão de Sistemas e Portal (DGSP), Erik Gustavo de Sousa Stofanelli código funcional 67091, tendo como substituto o servidor Tony Takimoto, código funcional 62596. 14.3 A supervisão da presente contratação ficará sob responsabilidade do Diretor da Secretaria de Tecnologia da Informação, Leonardo Fontes Bollentini, código funcional código funcional 20436-6 tendo como substituta a servidora Maria Lúcia Guida, código funcional 3644. 14.4 Os fiscais obrigam-se a acompanhar toda a execução contratual, nos limites da disciplina em que atuam, controlando escopo, prazos e riscos de cada etapa, validando todos os artefatos, fornecendo os subsídios necessários à gerência de projeto da CONTRATANTE. Além disso, os fiscais determinarão à CONTRATADA as providências necessárias ao regular e
+Comissão Permanente de Licitação 22
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+efetivo cumprimento do contrato, anotando as infrações contratuais constatadas, comunicando-as à Secretaria de Tecnologia da Informação, propondo sanções em conformidade com a lei e regulamentação vigentes, conforme item 11 do Termo de Referência. XV - DA RESCISÃO DO CONTRATO 15.1 A inexecução parcial ou total do contrato ensejará sua rescisão, com as conseqüências contratuais previstas em lei, conforme minuta do contrato. 15.2 Também constituirá motivo de rescisão unilateral contratual o não cumprimento das obrigações trabalhistas sociais pela Contratada. XVI - DAS SANÇÕES ADMINISTRATIVAS 16.1 Quem, convocado dentro do prazo de validade da sua proposta, não celebrar o contrato, deixar de entregar documentação exigida para o certame, apresentar documentação falsa, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar a execução do contrato, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal ficará sujeito a ser impedido de licitar e contratar com a União, Estados, Distrito Federal ou Municípios, e ser descredenciado no SICAF, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º da Lei nº 10.520 de 10/07/02, pelo prazo de até 5 (cinco) anos, sem prejuízo das demais cominações legais previstas na Lei 8.666/93, assegurada a observância do prévio contraditório e da ampla defesa. 16.2 Incorrerá em multa no percentual de 2 % (dois por cento) sobre o valor mensal do contrato, por infração de qualquer de suas cláusulas; 16.3 Havendo inexecução total ou parcial do contrato, que venha a originar a rescisão unilateral do mesmo, a contratada estará sujeita à multa compensatória de 5% (cinco por cento) sobre o valor da parcela em atraso, bem como às demais sanções administrativas previstas nas Leis 8.666/93 e 10.520/02.
+Comissão Permanente de Licitação 23
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+16.4 As sanções previstas nos subitens 16.2 e 16.3 poderão ser registradas no SICAF (Sistema Integrado de Cadastro de Fornecedores), observando-se o rito estabelecido pelo Ministério do Planejamento, Orçamento e Gestão (antigo MARE), solicitado pelo órgão interno interessado, mediante motivação circunstanciada, e autorizado pelo Diretor-Geral. 16.5 O valor da multa, aplicada após o regular processo administrativo, observado o Ato nº 2211/05 da Presidência desta Corte, será deduzida da garantia ou, em sua insuficiência, das faturas devidas, ou ainda, cobradas diretamente da contratada, amigável ou judicialmente, na forma dos parágrafos 2º e 3º do artigo 86 da Lei nº 8.666/93, sendo a contratada notificada para recompor o valor inicial da garantia. 16.6 É vedado elevar arbitrariamente os preços, vender, como verdadeira ou perfeita, mercadoria falsificada ou deteriorada, entregar uma mercadoria por outra, alterar substância, qualidade ou quantidade da mercadoria fornecida, tornar, por qualquer modo, injustamente, mais onerosa a proposta ou a execução do contrato, conforme previsto no art. 96 da Lei nº 8.666/93, sujeitando-se o infrator à pena de detenção, de 03 (três) a 06 (seis) anos sem prejuízo das sanções acima elencadas. XVII - DO ACEITE 17.1 A CONTRATADA apresentará a Nota Fiscal instruída com todos os artefatos previstos no Termo de Referência. 17.2 A fiscalização do contrato validará os artefatos de suas respectivas disciplinas, apresentando os indicadores do SLA com os respectivos descontos, se for o caso. 17.3 A Gerente de Projeto consolidará todas essas informações, apresentando os seus artefatos devidamente validados, incluindo-se a análise de todos os SLAs. Tal validação constituir-se-á no recebimento provisório. 17.4 O Gestor do contrato atestará a Nota Fiscal efetuando o recebimento definitivo em até 5 (cinco) dias úteis do recebimento provisório, encaminhando-a à unidade da CONTRATANTE responsável
+Comissão Permanente de Licitação 24
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+pelo pagamento, com todos os relatórios e artefatos validados. XVIII ­ DO VALOR ESTIMADO 18.1 Estima-se o valor global da presente contratação em R$ 2.229.045,00 (dois milhões, duzentos e vinte e nove mil e quarenta e cinco reais) equivalentes a 3.500 (três mil e quinhentos) Pontos de Função (PF) estimados para a manutenção corretiva, evolutiva, adaptativa e perfectiva, cada um avaliado em R$ 636,87 (seiscentos e trinta e seis reais e oitenta e sete centavos), que poderão ser utilizados de acordo com as demandas definidas pelo Comitê de Monitoramento e Evolução do Sapweb (CMES) deste E. Tribunal, que deverá priorizá-las, validá-las e agrupá-las em iterações. 18.1.1 A métrica para desenvolvimento do sistema utilizada na presente contratação é a de Pontos de Função (Function Point) normatizada pelo Manual de Práticas e Contagem (Counting Pratices Manual) na última versão disponível, cuja publicação é feita pelo IFPUG (International Function Point Users Group). 18.1.2 O Sapweb tem seu tamanho estimado em aproximadamente 9.000 (nove mil) Pontos de Função. 18.1.3 Os valores estimados foram obtidos através de pesquisa de preços realizada pela SLG/DICO/SECOM e STI/DGSP. 18.1.4 O Ponto de Função da presente contratação leva em consideração uma produtividade estimada de 12 horas. XIX - DA VIGÊNCIA DO CONTRATO 19.1 O prazo de vigência contratual iniciar-se-á da emissão do Termo de Autorização do início dos serviços, encerrando-se após 30 (trinta) meses, ressalvado o período de garantia dos serviços prestados. 19.2 O Termo de Autorização do início dos serviços deverá ser emitido pela fiscalização do contrato em até 90 (noventa) dias contados da assinatura do instrumento contratual.
+Comissão Permanente de Licitação 25
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+19.3 No período compreendido entre a assinatura do instrumento contratual e a emissão do Termo de Autorização do início dos serviços, a CONTRATADA deverá disponibilizar profissionais que acompanharão a execução contratual com o objetivo de melhor conhecer e entender o funcionamento do Sapweb e suas peculiaridades. 19.4 Admitir-se-á a prorrogação da vigência contratual, na forma estabelecida no artigo 57 da Lei 8.666/1993. XX - DO REAJUSTE 20.1 O contrato poderá ser reajustado, ante requerimento da contratada, observada a periodicidade mínima de 1 (um) ano contada da data limite para a apresentação das propostas, adotando-se para tanto a variação do INPC para o período. 20.2 A data do último reajuste concedido passará a ser considerado como marco inicial para os reajustes subsequentes, sempre respeitado o interregno mínimo de 1 (um) ano. 20.3 O pedido deverá ser expresso quanto ao valor pretendido e quanto à data requerida. 20.4 Os efeitos financeiros do reajuste poderão retroagir, conforme o pedido, até a data em que completada a periodicidade mínima de 1 (um) ano referida acima, observado o item 20.5. 20.5 O prazo decadencial para o requerimento do reajuste será de 60 (sessenta) dias, a contar do dia em que restar preenchido o requisito temporal para a concessão do mesmo, nos termos dos itens 20.1 e 20.2. Após o prazo estabelecido, os efeitos financeiros retroagirão, no máximo, até a data do pedido, a depender dos termos da solicitação da contratada. 20.6 A celebração de prorrogações contratuais quando já preenchido o requisito temporal para concessão de reajuste, sem que haja ressalva expressa a respeito pela contratada, implicará preclusão lógica do direito de pleitear reajustes referentes aos períodos anteriores às prorrogações.
+
+Comissão Permanente de Licitação
+
+26
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+20.7 O requerimento de reajuste deverá ser dirigido à fiscalização do contrato. XXI - DA GARANTIA DE EXECUÇÃO DO CONTRATO 21.1 Será exigida da licitante vencedora a apresentação ao Fiscal do Contrato, no prazo máximo de até 10 (dez) dias úteis, contados da data da assinatura do contrato, comprovante de prestação de garantia correspondente a 5% (cinco por cento) do valor global de sua proposta, com validade para todo o período de execução do objeto deste edital, mediante a opção por uma das modalidades previstas no artigo 56 da Lei 8.666/93: a. Caução em dinheiro ou títulos da dívida pública; b. Seguro garantia; ou c. Fiança bancária. 21.2 A garantia contratual na modalidade de caução em dinheiro deverá ser efetuado mediante depósito em uma conta garantia na Caixa Econômica Federal, conforme artigo 82 do Decreto nº 93.872/1986, titulada pelas partes: Contratado (caucionário) e Tribunal Regional do Trabalho da 1ª Região (beneficiário). 21.3 Caso a opção seja por utilizar títulos da dívida pública, estes devem ter sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Fazenda. 21.4 A garantia, se prestada na forma de fiança bancária ou segurogarantia, deverá ter validade durante a vigência do contrato. 21.5 No caso de garantia na modalidade de fiança bancária, deverá constar expressa renúncia do fiador aos benefícios do art. 827 do código civil. 21.6 No caso de alteração do valor do contrato, a garantia deverá ser readequada nas mesmas condições.
+Comissão Permanente de Licitação 27
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+21.7 Se o valor da garantia for utilizado, total ou parcialmente, pela Contratante, para compensação de prejuízo causado no decorrer da execução contratual por conduta da Contratada, esta deverá proceder à respectiva reposição no prazo de 10 (dez) dias úteis, contados da data em que tiver sido notificada. 21.8 Após a execução do contrato, constatado o regular cumprimento de todas as obrigações a cargo da Contratada, a garantia por ela prestada será liberada ou restituída e, quando em dinheiro, atualizada monetariamente, deduzidos eventualmente valores devidos à Contratante. XXII - DO PAGAMENTO 22.1 Os pagamentos à CONTRATADA serão efetuados efetuado em prazo não superior a 30 (trinta) dias, contados a partir da data final do período de adimplemento de cada parcela, conforme art. 40, inciso XIV, alínea "a" da Lei 8.666/93, após a atestação, pela fiscalização da CONTRATANTE, da(s) nota(s) fiscal(is) do mês anterior, acompanhada de Relatório Mensal de Acompanhamento emitido pela fiscalização. 22.1.1 Os pagamentos poderão sofrer adequações decorrentes do não atendimento das metas previstas nos Acordos de Nível de Serviço, na forma estabelecida no item 10 do Termo de Referência. 22.1.2 A CONTRATANTE somente pagará pelos Pontos de Função efetivamente utilizados, independentemente dos quantitativos estimados indicados no Termo de Referência. 22.1.3 Tratando-se de pagamentos decorrentes de despesas cujos valores não ultrapassem o montante de R$ 8.000,00 (oito mil reais), deverão ser efetuados no prazo de até 5 (cinco) dias úteis, contados da apresentação da Nota Fiscal/fatura atestada, de acordo com o art. 5º, § 3º da Lei 8.666/93. 22.1.4 Havendo erro na apresentação da Nota Fiscal/Fatura ou dos documentos pertinentes à contratação, ou, ainda, circunstância que impeça a liquidação da despesa, o pagamento ficará pendente até que a Contratada providencie as medidas saneadoras. Nessa hipótese, o prazo para pagamento iniciar-se-á após a regularização da situação, não
+Comissão Permanente de Licitação 28
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+acarretando qualquer ônus para a Contratante. 22.1.5 O pagamento será efetuado por meio de Ordem Bancária de Crédito, mediante depósito em conta-corrente, na agência e estabelecimento bancário indicado pela Contratada, ou por outro meio previsto na legislação vigente. 22.1.5.1 Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento. 22.2 Fica a contratada ciente de que, quando da ocasião do pagamento, será verificado se as condições de habilitação estão mantidas. 22.3 Nos casos de eventuais atrasos de pagamento, desde que a Contratada não tenha concorrido de alguma forma para tanto, fica convencionada a taxa de atualização financeira devida pelo contratante, mediante a aplicação da seguinte fórmula: EM = I x N x VP, em que: EM = Encargos Moratórios; N = Número de dias entre a data prevista para o pagamento e a do efetivo pagamento; VP = Valor da parcela pertinente a ser paga; TX = Percentual da taxa anual = 6%; I = Índice de compensação financeira, assim apurado: I = (TX x 100) -> I = (6/100) -> I = 0,00016438 365 365 22.4 Fica a empresa vencedora ciente da obrigatoriedade de apresentação do Termo de Opção pelo Simples, quando assim couber, juntamente com a Nota Fiscal, esclarecendo este Tribunal que a não-apresentação do documento em questão, ocasionará o desconto no pagamento devido à empresa do valor referente ao encargo previsto na Lei nº 9.430 de 27/12/96. XXIII - DAS DISPOSIÇÕES GERAIS 23.1 Fica ressalvado ao TRT o direito de, por provocação ou de ofício, em razão de ilegalidade, anular, no todo ou em parte, ou revogar por interesse
+Comissão Permanente de Licitação 29
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+público, a presente Licitação, bem como aumentar ou suprimir o valor do contrato, dentro dos limites fixados, em conformidade com os arts. 49 e 65, §§ 1º e 2º, ambos da Lei 8.666/93. 23.2 Fica a empresa-licitante ciente da obrigatoriedade de declarar quaisquer fatos supervenientes impeditivos de sua habilitação. 23.3 A participação neste certame implica a aceitação de todas as condições estabelecidas neste edital. 23.4 Ocorrendo decretação de feriado ou outro fato superveniente, de caráter público, que impeça realização deste evento na data acima marcada, a licitação ficará automaticamente prorrogada para o primeiro dia útil subseqüente, no mesmo horário, independente de nova comunicação, salvo aviso expresso da Comissão Permanente de Licitação. 23.5 Quaisquer esclarecimentos e/ou alterações serão comunicados por meio do site do TRT - www.trt1.jus.br e www.licitacoes-e.com.br. As retificações, por iniciativa oficial ou provocadas por eventuais impugnações, obrigarão a todos os licitantes. 23.6 A indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativos à sessão pública virtual deste pregão constarão em ata divulgada no sistema eletrônico.
+
+23.7 O resultado desta licitação será divulgado no sítio www.licitacoese.com.br e publicado na Imprensa Oficial. 23.8 Para dirimir controvérsias decorrentes deste certame o Foro competente é o da Seção Judiciária da Justiça Federal da Capital do Estado do Rio de Janeiro, excluído qualquer outro. Rio de Janeiro, 28 de junho de 2011
+
+Erika Melo Pereira Pregoeira
+Comissão Permanente de Licitação 30
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+ANEXO XII
+
+MODELO DE DECLARAÇÃO SOBRE TRABALHO DE MENORES
+
+Ref.: Pregão nº _____/2011
+
+..............................................., inscrita no CNPJ sob o nº........................................., por intermédio de seu representante legal, Sr (a)........................................................., portador (a) da Carteira de Identidade nº ................................., e do CPF nº ......................................, DECLARA, para fins do disposto no inciso V do art. 27 da Lei nº 8.666, de 21/6/1993, acrescido pela Lei nº 9.854 de 27/10/1999, que não emprega menor de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre e não emprega menor de 16 (dezesseis) anos. Ressalva: emprega menor, a partir de quatorze anos, na condição de aprendiz, ( )sim ( ) não.
+
+.............................................. (data)
+
+.................................................................... (representante)
+
+Comissão Permanente de Licitação
+
+31
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+ANEXO XIII
+
+Modelo de Declaração Referente Resolução CNJ nº 07/2005 Ref.: Pregão nº ______/2011
+
+..............................................., inscrita no CNPJ sob o nº........................................., por intermédio de seu representante legal, Sr (a)........................................................., portador (a) da Carteira de Identidade nº ................................., e do CPF nº ......................................, DECLARA que, se contratado, não promoverá a inclusão em seu quadro profissional, durante toda a execução contratual, de empregados que sejam cônjuges, companheiros ou parentes em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, de ocupantes de cargos de direção e de assessoramento, de membros ou juízes vinculados ao TRT- 1ª Região, em atendimento ao disposto no art. 3º da Resolução nº 07/2005 do Conselho Nacional de Justiça.
+
+.............................................. (data)
+
+.................................................................... (representante)
+
+Comissão Permanente de Licitação
+
+32
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+SEÇÃO DE DOCUMENTO DE REFERÊNCIA
+
+TERMO DE REFERÊNCIA
+
+Objeto:
+
+Manutenção e
+
+Corretiva, do
+
+Evolutiva, e
+
+Adaptativa
+
+Perfectiva
+
+SAPWEB
+
+aplicações web. TRT - SOF 46/11.
+
+1 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+1 ­ OBJETO: 1.1. O objeto da presente contratação é a manutenção corretiva, evolutiva, perfectiva
+
+e adaptativa do sistema de acompanhamento processual (Sapweb) e aplicações web do Tribunal Regional do Trabalho da 1ª Região, com atuação em uma ou várias etapas do desenvolvimento baseada no UP (Unified Process) observando as rotinas que se encontram detalhadas no presente termo de referência. 1.2. As etapas (disciplinas) de desenvolvimento que deverão ser consideradas são as
+
+seguintes: métrica, requisitos, análise e projeto, implementação (codificação), testes e homologação, qualidade e implantação. 1.3. Deverão ser incluídas, ainda, as atividades de Gerência de Configuração e
+
+Mudança, Gerência de Projetos, seguindo as melhores práticas de mercado, tais como: PMBOK (Project Management Body of Knowledge), COBIT, ITIL, CMMI, MPSBR, dentre outros. 1.4. A contratação que envolva apenas algumas das disciplinas de desenvolvimento
+
+do sistema serão contadas e pagas considerando os seguintes percentuais relativos ao valor do Ponto de Função:
+
+Disciplina Requisitos Análise e Projeto Implementação, Testes e Homologação Implantação
+
+Percentual 20% 30% 40% 10%
+
+1.5.
+
+Justifica-se a presente contratação ante a necessidade contínua de correção e
+
+evolução de quaisquer sistemas informatizados, dentre os quais o próprio Sapweb. Reforça-se a necessidade de contratação de uma nova empresa para a manutenção do Sapweb em razão das constantes modificações de regras que são hodiernamente estabelecidas pelos diversos órgãos superiores do Poder Judiciário, tais como: Conselho
+2 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Nacional de Justiça (CNJ), Conselho Superior da Justiça do Trabalho (CSJT) e Tribunal Superior do Trabalho (TST), sem falar nas modificações ocorridas na legislação em vigor. 1.6. Ademais, é de conhecimento que a STI não possui quantitativo de servidores
+
+suficientes para promover, por si só, todas as correções e evoluções do Sapweb. Além de possuir um quadro inferior a metade do que o CNJ considera aceitável (Resolução nº 90), nossos técnicos não estão suficientemente capacitados para desenvolver o sistema, razão pela qual a terceirização é a única opção viável. 2 ­ VALOR ESTIMADO: 2.1. Estima-se o valor global da presente contratação em R$ 2.229.045,00 (dois
+
+milhões, duzentos e vinte e nove mil e quarenta e cinco reais) equivalentes a 3.500 (três mil e quinhentos) Pontos de Função (PF) estimados para a manutenção corretiva, evolutiva, adaptativa e perfectiva, cada um avaliado em R$ 636,87 (seiscentos e trinta e seis reais e oitenta e sete centavos), que poderão ser utilizados de acordo com as demandas definidas pelo Comitê de Monitoramento e Evolução do Sapweb (CMES) deste E. Tribunal, que deverá priorizá-las, validá-las e agrupá-las em iterações. 2.2. A métrica para desenvolvimento do sistema utilizada na presente contratação é a
+
+de Pontos de Função (Function Point) normatizada pelo Manual de Práticas e Contagem (Counting Pratices Manual) na última versão disponível, cuja publicação é feita pelo IFPUG (International Function Point Users Group). 2.3. O Sapweb tem seu tamanho estimado em aproximadamente 9.000 (nove mil)
+
+Pontos de Função. 2.4. Os valores estimados foram obtidos através de pesquisa de preços realizada pela
+
+SLG/DICO/SECOM e STI/DGSP. 2.5. O Ponto de Função da presente contratação leva em consideração uma
+
+produtividade estimada de 12 horas.
+
+3 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+3 ­ DA VIGÊNCIA CONTRATUAL: 3.1. O prazo de vigência contratual iniciar-se-á da emissão do Termo de Autorização
+
+do início dos serviços, encerrando-se após 30 (trinta) meses, ressalvado o período de garantia dos serviços prestados. 3.2. O Termo de Autorização do início dos serviços deverá ser emitido pela
+
+fiscalização do contrato em até 90 (noventa) dias contados da assinatura do instrumento contratual. 3.3. No período compreendido entre a assinatura do instrumento contratual e a
+
+emissão do Termo de Autorização do início dos serviços, a CONTRATADA deverá disponibilizar profissionais que acompanharão a execução contratual com o objetivo de melhor conhecer e entender o funcionamento do Sapweb e suas peculiaridades. 3.4. Admitir-se-á a prorrogação da vigência contratual, na forma estabelecida no
+
+artigo 57 da Lei 8.666/1993. 4 ­ ESPECIFICAÇÕES PRELIMINARES: 4.1. O padrão corporativo utilizado para o desenvolvimento de aplicações de negócio
+
+da CONTRATANTE é a plataforma JAVA EE. 4.2. 4.3. A arquitetura resumida do Sapweb encontra-se detalhada no Anexo I. A CONTRATADA obriga-se a adotar as mesmas ferramentas utilizadas pela
+
+área de informática da CONTRATANTE, conforme quadro a seguir:
+
+Banco de Dados Servidores de Aplicação
+
+Oracle 10g Oracle Application Server e JBoss
+
+Ferramenta de Comunicação Corporativa Ferramenta de Gerenciamento de Projeto
+
+Oracle Messenger e Google Talk
+
+Microsoft Project e Microsoft Excel
+
+4 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Ferramenta de Versionamento de Arquivos Ferramenta de Gerenciamento de Métrica e Requisitos Ferramenta de Modelagem Ferramenta de testes automatizados Ferramenta de gerenciamento de bugs Linguagem de programação
+
+CVS e/ou Rational ClearCase
+
+Microsoft Word e Excel CVS e Rational ClearCase EA ­ Enterprise Architect Selenium Bugzilla Java, PL/SQL, Javascrip e HTML
+
+4.4.
+
+A CONTRATADA obriga-se a incorporar novas tecnologias que porventura a
+
+CONTRATANTE venha a adotar, sem ônus adicional. 5 ­ DO LOCAL DA PRESTAÇÃO DOS SERVIÇOS: 5.1. Os serviços deverão ser desenvolvidos nas instalações da CONTRATADA, que
+
+deverá providenciar, sem quaisquer ônus adicionais para a CONTRATANTE, toda infraestrutura de pessoal, hardware e software necessários para sua execução, com as ressalvas apontadas no presente termo de referência. 5.2. A CONTRATADA, nas ocasiões previstas no presente termo de referência,
+
+poderá prestar serviços em quaisquer das unidades elencadas no Anexo II, respeitandose, neste caso, o horário de expediente de 8 às 18 horas nos dias úteis. 5.3. Admitir-se-á, desde que justificadamente, a solicitação para que o serviço objeto
+
+da presente contratação seja prestado temporariamente nas dependências da própria CONTRATANTE, caso lhe seja conveniente e oportuno.
+
+5 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+6 ­ DOS ARTEFATOS INICIAIS DO PROJETO: 6.1. A CONTRATADA deverá apresentar à Fiscalização da CONTRATANTE, em
+
+até 15 (quinze) dias contados da emissão do Termo de Autorização do início dos serviços, os seguintes artefatos iniciais: a) b) c) d) e) f) 6.2. Metodologia de Desenvolvimento de Software; Plano de Projeto (PP); Matriz de Defeitos; Plano de Testes; Seguro-garantia (na forma definida no instrumento contratual); Termo de confidencialidade devidamente assinado. A Metodologia de Desenvolvimento de Software deverá estabelecer, de forma
+
+sistematizada, o desenvolvimento do sistema baseado no UP (Unified Process), utilizando processos controlados, repetitivos e padronizados de produção. 6.3. O detalhamento do Plano de Projeto deverá ser feito, em conjunto, pela
+
+CONTRATANTE e CONTRATADA, sendo que esta será responsável pela elaboração do documento, que deverá contemplar os prazos de entrega de todos os artefatos previstos no presente termo de referência, indicando-se os responsáveis pelas atividades, os marcos e produtos entregáveis entre as iterações e os critérios de avaliação das mesmas. O modelo exigido é aquele apregoado pelo PMI (PMBOK). 6.3.1. A fiscalização do contrato deverá ajustar previamente os prazos atribuídos ao
+
+Comitê de Monitoramento e Evolução do Sapweb. 6.4. A Matriz de Defeitos deverá permitir o rastreamento de falhas de modo a
+
+identificar possíveis reflexos das mesmas em todo o sistema. 6.5. O Plano de Testes deverá indicar a metodologia e os critérios para elaboração
+
+dos Casos de Testes, bem como a sistemática detalhada da realização dos testes previstos no presente termo de referência. 6.6. A CONTRATADA deverá, em até 30 (trinta) dias contados da emissão do
+
+Termo de Autorização do início dos serviços, providenciar:
+6 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+a)
+
+Instalação de uma conexão de enlace de comunicação dedicado entre a
+
+CONTRATANTE e a CONTRATADA, sem ônus adicional, utilizando-se de protocolos seguros entre os componentes de ligação; b) Ferramenta de gerenciamento e acompanhamento de incidentes (chamados)
+
+abertos para manutenção corretiva do Sapweb definida no início do projeto. 7 ­ DA ROTINA DE TRABALHO DE MANUTENÇÃO EVOLUTIVA, ADAPTATIVA E PERFECTIVA: 7.1. O Gerente do Projeto da CONTRATANTE deverá comunicar ao CMES acerca
+
+da emissão do Termo de Autorização de início dos serviços. 7.2. O CMES apresentará a relação de demandas que serão executadas, agrupando-as
+
+em iterações. 7.3. O Fiscal de Métrica providenciará a contagem estimada em Pontos de Função
+
+das demandas definidas na iteração, encaminhando-a à CONTRATADA para validação. A validação da contagem deverá ser feita por profissional certificado com Certified Function Points Specialist (CFPS) e deverá vir acompanhada de um cronograma de execução. 7.4. O encaminhamento das demandas à CONTRATADA será feito através da
+
+emissão de Solicitação de Serviço conforme modelo estabelecido no Anexo III. 7.5. Com a validação da contagem (incluindo eventuais ajustes), o Gerente de
+
+Projeto da CONTRATANTE solicitará ao Diretor-Geral emissão da competente Nota de Empenho que seja suficiente para garantir a execução da iteração validada pelo CMES. 7.5.1. Na hipótese da Administração optar pela utilização de empenho estimativo, não haverá necessidade de nova autorização do Ordenador de Despesas. 7.6. Havendo garantias orçamentárias para a execução contratual, a Gerência de
+
+Projeto solicitará ao CMES a indicação dos usuários que participarão do levantamento dos requisitos das demandas definidas, a marcação das reuniões, que serão realizadas nas dependências da CONTRATANTE, em quaisquer dos endereços mencionados no
+7 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Anexo II e a convocação dos usuários. 7.7. CMES. 7.8. As atas validadas serão encaminhadas à CONTRATADA para As atas de reuniões deverão ser validadas pela Fiscalização de Requisitos e pelo
+
+elaboração/atualização dos Casos de Uso e da Realização dos Casos de Uso. 7.9. As solicitações inseridas nas atas de reunião deverão constar, sempre que
+
+possível, em pelo menos um dos seguintes artefatos: Caso de Uso ou Realização do Caso de Uso. 7.10. Os Casos de Uso serão submetidos à análise da Fiscalização de Requisitos, dos usuários e do CMES. 7.11. Com a validação dos Casos de Uso, a CONTRATADA deverá providenciar a elaboração/atualização dos Casos de Teste. 7.12. Os Casos de Teste deverão ser validados pela Fiscalização de Testes e Homologação. 7.13. A CONTRATADA deverá apresentar os artefatos de Análise e Projeto, que serão validados pela Fiscalização de Análise e Projeto. 7.14. A CONTRATADA dará início ao trabalho de implementação (codificação) das demandas. 7.15. A CONTRATADA disponibilizará, quando necessário, os protótipos navegáveis que serão validados pela Fiscalização de Requisitos. 7.16. A CONTRATADA realizará os testes previstos no presente Termo de Referência, apresentando os artefatos que serão submetidos à análise da Fiscalização de Testes e Homologação. 7.17. A CONTRATADA gerará o arquivo .ear com uma nova versão do Sapweb, contendo todas as demandas implementadas, que serão analisadas pela Fiscalização de Testes e Homologação em ambiente diferente do de Produção.
+
+8 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+7.18. A Fiscalização de Testes e Homologação realizará testes baseados nos Casos de Homologação, devendo os mesmos ser validados pelos usuários que serão selecionados pelo CMES. 7.19. A CONTRATANTE poderá exigir que a CONTRATADA faça ajustes em artefatos produzidos em quaisquer das disciplinas, ainda que os mesmos já tenham sido validados pela fiscalização, caso seja identificada alguma ocorrência que implique o descumprimento da demanda contratada. Se tais modificações forem inferiores a 20% das regras modificadas, não haverá qualquer ônus adicional para a CONTRATANTE. 7.20. A Fiscalização de Métrica avaliará se houve qualquer alteração no escopo da contagem de Pontos de Função definida no item 7.5 do presente Termo de Referência, submetendo à Contratada, se for o caso. 7.21. A versão disponibilizada pela CONTRATADA entrará em produção em ambiente restrito a poucas unidades, de modo a verificar a confiabilidade do sistema. 7.22. A versão disponibilizada pela CONTRATADA será implantada no ambiente de Produção do Sapweb. 7.23. O Gerente de Projeto da CONTRATANTE comunicará ao CMES o término da etapa de levantamento de requisitos de cada iteração, de modo que sejam definidas as novas demandas da iteração seguinte, reiniciando a rotina prevista no item 7 do termo de referência. 7.24. O Gerente de Projeto da CONTRATANTE comunicará ao CMES o término da etapa de implantação das demandas de cada iteração, de modo que o mesmo indique as providências para definição dos perfis (se for o caso) e comunicação aos usuários do Sapweb. 7.25. Os demais procedimentos serão repetidos um a um, conforme este item.
+
+9 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+8 ­ DAS ATIVIDADES DE CADA DISCIPLINA E SEUS ARTEFATOS: 8.1. Métrica e Requisitos:
+
+8.1.1. A contagem dos Pontos de Função segue critérios bem definidos estabelecidos pelo Manual de Práticas e Contagens (Counting Practices Manual em sua versão mais recente), publicado pelo IFPUG (International Function Point Users Group). 8.1.2. A contagem deverá resultar em Pontos de Função Brutos (ou não ajustados). 8.1.3. As demandas definidas pelo CMES serão associadas aos Casos de Uso. As contagens de Pontos de Função serão efetuadas por caso de uso, associadas às demandas, a cada iteração. 8.1.4. Todas as contagens de pontos de função previstas na presente contratação deverão ser acompanhadas das respectivas memórias de cálculo, indicando a forma que foram obtidos os valores informados. 8.1.5. A CONTRATANTE adota os critérios estabelecidos no Roteiro de Métricas de Software do SISP (versão 1.0) no que se refere aos itens não mensuráveis para a execução dos serviços de manutenção corretiva, evolutiva, adaptativa e perfectiva para calcular o esforço de atividades que não são passíveis de serem mensuradas pela técnica de Pontos de Função. 8.1.6. O gerenciamento dos requisitos obedecerá às regras estabelecidas no Plano de Gerenciamento de Requisitos da CONTRATANTE (Anexo IV). 8.1.7. São artefatos da disciplina de requisitos: atualização do Documento de Visão, do Glossário, da lista de atores, do Documento de Requisitos de Softwares, dos Casos de Uso, da Realização de Casos de Uso, elaboração e atualização da Matriz de Rastreabilidade. 8.1.8. São atividades mínimas necessárias à disciplina de requisitos: realização de reuniões e detalhamento dos requisitos.
+
+10 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+8.1.9. A contagem de pontos de função obedecerá a proporcionalidade estabelecida na tabela constante do item 1.4 do presente termo de referência quando da contratação de algumas disciplinas de desenvolvimento.
+
+8.2.
+
+Análise e Projeto:
+
+8.2.1. Os diagramas deverão obedecer ao Documento de Normas e Padrões da CONTRATANTE (Anexo V). 8.2.2. A CONTRATADA entregará obrigatoriamente os seguintes artefatos: Documento de Arquitetura, Diagrama de Classes Lógicas e Modelo de Dados Físico. 8.2.3. Se a CONTRATANTE entender ser necessário, poderão ser exigidos os seguintes artefatos: Diagrama de Sequência, Diagrama de Máquina de Estados, Diagrama de Pacotes e Diagrama de Componentes. 8.2.4. Os diagramas deverão ser entregues em formato que possa ser importado pela ferramenta de modelagem definida no início do projeto. 8.2.5. São atividades mínimas da disciplina de análise e projeto: revisão e manutenção dos artefatos elencados nos itens 8.2.2 e 8.2.3.
+
+8.3.
+
+Implementação, Testes e Homologação:
+
+8.3.1. As atividades de codificação deverão estar em total consonância com o Padrão de Codificação da CONTRATANTE (Anexo VI). 8.3.2. A CONTRATADA está obrigada a seguir a Política de Testes (Anexo VII) e o Plano de Gerência de Configuração (Anexo VIII) da CONTRATANTE. 8.3.3. A CONTRATANTE exigirá da CONTRATADA a realização dos seguintes testes: a) de unidade: aquele realizado sobre a menor unidade do projeto de software isoladamente (por exemplo: um método), que deve abranger, pelo menos, as técnicas de teste de Caixa Preta e Caixa Branca.
+
+11 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+b) de integração: aquele realizado através da navegação de forma progressiva e ordenada pelas telas ou estruturas internas do software onde seus elementos são combinados e testados para avaliação das suas iterações. c) de sistema: referente a execução controlada do aplicativo, verificando se o seu comportamento ocorre de acordo com o especificado no serviço. 8.3.4. São artefatos da disciplina de implementação, testes e homologação: atualização do documento de arquitetura (visão implementação), especificação e atualização dos Casos de Testes e Casos de Homologação, Relatórios de Testes, implantação, elaboração e atualização do Manual do Usuário, do Help online, das Notas de Release e Deployment e Termo de Homologação. 8.3.5. A CONTRATADA deverá entregar toda a documentação contendo o mapeamento da navegação interna realizada e demais evidências do teste junto com os artefatos previstos, que servirão de subsídio para as atividades de auditoria do trabalho de teste realizado pela CONTRATANTE. 8.3.6. São atividades mínimas da disciplina de implementação, testes e homologação: codificação, construção de telas, planejamento da integração do sistema, geração de script para alteração da base de dados, automatização dos testes, controle da execução dos testes (de unidade, de integração e de sistema). 8.3.7. A CONTRATADA deverá elaborar protótipos de telas navegáveis, quando necessário. 8.3.8. A CONTRATADA deverá apresentar todos os scripts de automatização dos testes.
+
+8.4.
+
+Qualidade:
+
+8.4.1. As aplicações deverão atender aos requisitos de qualidade que foram definidos de acordo com as características e subcaracterísticas de qualidade de software propostas pela ISO/IEC 9.126 (NBR 13596) e com as necessidades da CONTRATANTE, conforme descrito a seguir:
+12 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+a) Funcionalidade: As aplicações deverão atender às necessidades para a finalidade a que o produto se destina; b) Confiabilidade: as aplicações não deverão apresentar falha e, se a mesma ocorrer, deverão ter capacidade de recuperação de dados e manutenção do nível de desempenho adequado as necessidades da CONTRATANTE, de acordo com os prazos estabelecidos no subitem 9.4; c) Manutenibilidade: O código fonte deverá ser bem estruturado, claro e bem documentado e compatível com os padrões de codificação da CONTRATANTE, visando pouco esforço para fazer alterações corretivas, adaptativas e ou evolutivas; d) Usabilidade: As aplicações deverão ser estruturadas com fácil entendimento dos conceitos utilizados, fáceis de aprender, de usar e controlar a operação; e) Portabilidade: As aplicações deverão funcionar em qualquer navegador WEB compatível com o padrão W3C e suas evoluções e na plataforma de hardware que possua suporte à arquitetura tecnológica definida pela CONTRATANTE; f) Eficiência: As aplicações deverão apresentar desempenho apropriado, relativo à quantidade de recursos usados, sob condições especificadas. Além das características acima descritas, destacam-se, ainda, as seguintes subcaracterísticas das Funcionalidades: g) Interoperabilidade: As aplicações deverão permitir o compartilhamento e integração de dados específicos com os Sistemas de Informação Corporativos em uso na CONTRATANTE; h) Segurança: As aplicações deverão ter garantia contra ataques e violação de conteúdo. 8.4.2. Os relatórios que sejam relacionados à manutenção corretiva do sistema ficarão sob responsabilidade da Fiscalização de Qualidade.
+
+13 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+8.5.
+
+Gerência do Projeto:
+
+8.5.1. A Gerência de projeto será toda baseada no Plano de Projeto que será apresentado pela CONTRATADA e validado pela CONTRATANTE,
+
+responsabilizando-se pelo cronograma de execução, entrega dos artefatos, integração entre as diversas disciplinas de desenvolvimento do sistema, além do controle do escopo e riscos do contrato. 8.5.2. Deverá, ainda, validar os Relatórios de Avanço Físico (RAF) e de Iteração (RAI), consolidando as informações prestadas pelos demais fiscais com os seus respectivos artefatos devidamente validados, juntamente com a análise dos indicadores do Acordo de Nível de Serviço (SLA). 8.5.3. A Gerência de Projeto utilizará a tabela abaixo como referência no controle do prazo de duração das iterações, admitindo-se variações para mais ou para menos (até 25%) de acordo com a complexidade das demandas e a necessidade da CONTRATANTE:
+
+Volume de serviço (em Pontos de Função) 1 ­ 100 101 ­ 200 201 ­ 300 301 ­ 400 Acima de 400
+
+Prazo máximo estimado para conclusão (em meses) 2 4 6 8 Negociável entre as partes
+
+9 ­ DA ROTINA DE TRABALHO DA MANUTENÇÃO CORRETIVA: 9.1. Toda e qualquer falha que porventura venha ocorrer no Sapweb deverá ser
+
+inserida no escopo da manutenção corretiva. 9.2. As falhas serão identificadas e registradas no Bugzilla, conforme item 4.3.
+14 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+9.3.
+
+A referida ferramenta será utilizada de modo que seus técnicos possam controlar
+
+os bugs de legado (erros preexistentes) e os bugs decorrentes da manutenção evolutiva, adaptativa e perfectiva do sistema. 9.4. A referida ferramenta permitirá ainda o gerenciamento dos bugs decorrentes da
+
+manutenção evolutiva, adaptativa e perfectiva do sistema pelas datas de abertura e encerramento, pelo assunto, descrição, status, nível de criticidade e responsável. 9.4.1. Tais bugs serão cadastrados na ferramenta em comento observando os seguintes prazos para atendimento e solução, a saber: Criticidade Prazo para atendimento e solução temporária Alta Média Baixa 4 horas 24 horas 48 horas Prazo para solução definitiva 24 horas 48 horas 72 horas
+
+9.4.2. Para os bugs de legado, a ferramenta deve permitir o gerenciamento pelas datas de abertura e encerramento, pelo assunto, descrição, status e responsável. O controle do prazo será definido pela Gerência de Projeto nas iterações, utilizando-se como referência a tabela citada no item 8.5.3. 9.5. Eventuais dúvidas ou esclarecimentos implicarão na suspensão dos prazos
+
+previstos no quadro acima, desde que os mesmos sejam pertinentes. 9.6. Os bugs que sejam decorrentes da manutenção evolutiva, adaptativa e perfectiva
+
+do sistema deverão ser corrigidos pela CONTRATADA sem quaisquer ônus adicionais à CONTRATANTE, até o término da garantia prevista no item 17 do termo de referência. 9.7. Os demais bugs de legado obedecerão a rotina estabelecida no item 7 do termo
+
+de referência, sendo que a contagem dos Pontos de Função deverá levar em consideração a aplicação do fator de ajuste de 0,60, 0,70 ou 0,80, consoante os critérios definidos no item 4.3 do Roteiro de Métricas de Software do SISP (versão 1.0).
+
+15 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+10 ­ DOS ACORDOS DE NÍVEL DE SERVIÇO (SLA): 10.1. A gestão e fiscalização do contrato se darão mediante o estabelecimento e acompanhamento de indicadores de SLA entre CONTRATANTE e CONTRATADA que estão descritos nos quadros a seguir:
+
+Nome do Indicador
+
+Indicador de Desempenho de Atendimento (IDAP)
+
+Finalidade
+
+Avaliar o cumprimento do prazo de atendimento de cada iteração
+
+Meta a cumprir Instrumento de medição
+
+Indicador deve ser igual a 1 Relatório da entrega das iterações
+
+Forma de acompanhamento
+
+A CONTRATADA deverá gerar relatório para cada iteração com as demandas concluídas e homologadas, contendo o período previsto para a execução e o efetivamente executado.
+
+Periodicidade Mecanismo de cálculo
+
+Duração da iteração Tempo efetivo da execução da iteração_ Tempo estimado da execução da iteração 1 a 1,20 ­ 100% do valor da iteração Mais de 1,20 até 1,35 ­ 95% do valor da iteração Mais de 1,35 até 1,50 ­ 90% do valor da iteração Mais de 1,50 ­ 85% do valor da iteração
+
+Faixa de ajuste no pagamento
+
+Início da vigência Observações
+
+Termo de Autorização para início dos serviços Para o cálculo do tempo efetivo, será considerada a data da entrega do último artefato
+
+16 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Nome do Indicador
+
+Indicador de Desempenho de Qualidade da Iteração (IDAI)
+
+Finalidade Meta a cumprir Instrumento de medição
+
+Avaliar a qualidade dos artefatos de cada iteração Indicador deve ser igual a 0 Relação dos artefatos entregues indicando se os mesmos foram validados ou não, bem como o responsável pela validação
+
+Forma de acompanhamento
+
+A CONTRATADA deverá gerar relatório para cada iteração com os artefatos produzidos, indicando se os mesmos foram validados e o respectivo responsável pela validação
+
+Periodicidade Mecanismo de cálculo
+
+Duração da iteração Número de artefatos recusados________ Número de artefatos que deveriam ser entregues 0 a 0,10 ­ 100% do valor da iteração Mais de 0,10 até 0,25 ­ 95% do valor da iteração Mais de 0,25 até 0,40 ­ 90% do valor da iteração Mais de 0,40 ­ 85% do valor da iteração
+
+Faixa de ajuste no pagamento
+
+Início da vigência Observações
+
+Termo de Autorização para início dos serviços -
+
+Nome do Indicador
+
+Indicador de Conformidade das Regras de Negócio (ICRN)
+
+Finalidade
+
+Avaliar a conformidade das regras de negócio na documentação dos requisitos
+
+Meta a cumprir
+
+Indicador deve ser igual a 0
+
+17 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Instrumento de medição
+
+Análise da documentação dos requisitos
+
+Forma de acompanhamento Periodicidade
+
+Verificar se todas as regras de negócio foram atendidas na documentação dos requisitos Duração da iteração
+
+Mecanismo de cálculo
+
+Número de regras de negócio não atendidas Número de regras de negócio relacionadas 0 a 0,10 ­ 100% do valor da iteração Mais de 0,10 até 0,25 ­ 95% do valor da iteração Mais de 0,25 ­ 90% do valor da iteração
+
+Faixa de ajuste no pagamento
+
+Início da vigência Observações
+
+Termo de Autorização para início dos serviços -
+
+18 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Nome do Indicador Nome do Indicador Indicador de Atendimento de questões relacionadas à Gerência de Projeto (IAGP) Finalidade Avaliar o cumprimento das obrigações assumidas com a Gerência de Projeto Meta a cumprir Instrumento de medição Forma de acompanhamento Indicador deve ser igual a 0 Relatório das solicitações da Gerência de Projeto submetidas à CONTRATADA A CONTRATANTE apresentará um relatório com todas as solicitações da Gerência de Projeto submetidas à CONTRATADA Periodicidade Mecanismo de cálculo Duração da iteração Número de solicitações da Gerência de Projeto não atendidas Número de solicitações da Gerência de Projeto 0 a 0,10 ­ 100% do valor da iteração Mais de 0,10 até 0,25 ­ 95% do valor da iteração Mais de 0,25 até 0,40 ­ 90% do valor da iteração Mais de 0,40 ­ 85% do valor da iteração Início da vigência Observações Termo de Autorização para início dos serviços -
+
+Faixa de ajuste no pagamento
+
+Nome do Indicador
+
+Indicador de Confiabilidade do Sistema no ambiente de produção (ICSP)
+
+Finalidade
+
+Avaliar a qualidade do sistema através do controle de falhas ocorridas
+
+19 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Meta a cumprir Instrumento de medição Forma de acompanhamento
+
+Indicador deve ser igual a 0 Relatório das falhas ocorridas no sistema A CONTRATADA emitirá relatório contendo todas as falhas (bugs) registradas na ferramenta escolhida que sejam decorrentes da Manutenção Corretiva, Evolutiva, Adaptativa ou Perfectiva
+
+Periodicidade Mecanismo de cálculo
+
+Duração da iteração Número de bugs abertos______ Total de Pontos de Função da iteração 0 a 0,10 ­ 100% do valor da iteração Mais de 0,10 até 0,20 ­ 95% do valor da iteração Mais de 0,20 até 0,40 ­ 90% do valor da iteração Mais de 0,40 ­ 85% do valor da iteração
+
+Faixa de ajuste no pagamento
+
+Início da vigência Observações
+
+Termo de Autorização para início dos serviços -
+
+Nome do Indicador
+
+Indicador de Ocorrências de Erros Recorrentes (IOER)
+
+Finalidade
+
+Avaliar a quantidade de erros recorrentes no ambiente de produção
+
+Meta a cumprir Instrumento de medição Forma de acompanhamento
+
+Indicador deve ser igual a 0 Relatório das falhas ocorridas no sistema A CONTRATADA emitirá relatório contendo todas as falhas (bugs) registradas na ferramenta escolhida indicando quantas vezes os mesmos foram reabertos
+
+Periodicidade
+
+Duração da iteração
+
+20 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Mecanismo de cálculo
+
+Número de reaberturas de bugs Número de bugs existentes 0 a 0,20 ­ 100% do valor da iteração Mais de 0,20 a 0,30 ­ 95% do valor da iteração Mais de 0,30 a 0,40 ­ 90% do valor da iteração Mais de 0,40 ­ 85% do valor da iteração
+
+Faixa de ajuste no pagamento
+
+Início da vigência Observações
+
+Termo de Autorização para início dos serviços Serão incluídas no presente SLA os bugs decorrentes de manutenção corretiva, evolutiva, adaptativa e perfectiva do sistema
+
+Nome do Indicador Finalidade
+
+Indicador do Tempo de Atendimento dos Bugs (ITAB) Avaliar o tempo de atendimento das falhas do sistema, considerando apenas os bugs decorrentes da manutenção corretiva, evolutiva, adaptativa ou perfectiva
+
+Meta a cumprir Instrumento de medição Forma de acompanhamento
+
+Indicador deve ser igual a 1 Relatório das falhas ocorridas no sistema A CONTRATADA emitirá relatório contendo as falhas (bugs) registradas na ferramenta escolhida indicando o tempo de atendimento
+
+Periodicidade Mecanismo de cálculo
+
+Duração da iteração Tempo de atendimento dos bugs (em horas)_____ Tempo previsto do atendimento dos bugs (em horas) 1 a 1,20 ­ 100% do valor da iteração Mais de 1,20 até 1,35 ­ 95% do valor da iteração Mais de 1,35 até 1,50 ­ 90% do valor da iteração Mais de 1,50 ­ 85% do valor da iteração
+21
+
+Faixa de ajuste no pagamento
+
+Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+Início da vigência Observações
+
+Termo de Autorização para início dos serviços O tempo previsto do atendimento varia de acordo com o grau de severidade das falhas, cujos prazos estão previstos no presente termo de referência
+
+10.2. Os percentuais de desconto obtidos para cada um dos Acordos de Nível de Serviço (SLA) deverão ser somados para que se possa fazer o ajuste no pagamento. 10.3. Os ajustes previstos neste item são independentes das penalidades previstas no presente termo de referência, cuja apuração é definida pelo Ato 2211/2005 da Presidência deste E. Tribunal.
+
+11. DA FISCALIZAÇÃO E GESTÃO DO CONTRATO: 11.1. A Fiscalização da presente contratação ficará sob responsabilidade dos seguintes servidores, de acordo com a disciplina de cada etapa de desenvolvimento do sistema, a saber:
+
+Disciplina Métrica Requisitos Análise e Projeto
+
+Fiscal titular
+
+Fiscal Substituto Sequeiros Pereira
+
+e Celia Regina Amaya Utiyama Erika (22195) Roterdam Holanda
+
+Neves (66893) Cavalcante Jefferson Francisco de
+
+Junior (52108) Implementação, Testes Homologação Qualidade Marcelo Luís Alves Dias (5085) e Tony Takimoto (62596)
+
+Souza (76783) Lilian de Fátima Sapucahy da Silva (49310)
+
+Leslier
+
+Levingstone
+
+Fernandes (50083) Gerente de Projeto Denise Barbosa Alves e Silva Carolina Maria de Souza (38105) Corrêa e Leite (67784)
+22 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+11.2. A Gestão do contrato ficará sob responsabilidade do titular da Divisão de Gestão de Sistemas e Portal (DGSP), Erik Gustavo de Sousa Stofanelli código funcional 67091, tendo como substituto o servidor Tony Takimoto, código funcional 62596. 11.3. A supervisão da presente contratação ficará sob responsabilidade do Diretor da Secretaria de Tecnologia da Informação, Leonardo Fontes Bollentini, código funcional código funcional 20436-6 tendo como substituta a servidora Maria Lúcia Guida, código funcional 3644. 11.4. Os fiscais obrigam-se a acompanhar toda a execução contratual, nos limites da disciplina em que atuam, controlando escopo, prazos e riscos de cada etapa, validando todos os artefatos, fornecendo os subsídios necessários à gerência de projeto da CONTRATANTE. Além disso, os fiscais determinarão à CONTRATADA as providências necessárias ao regular e efetivo cumprimento do contrato, anotando as infrações contratuais constatadas, comunicando-as à Secretaria de Tecnologia da Informação, propondo sanções em conformidade com a lei e regulamentação vigentes. 11.5. Serão gerados os relatórios abaixo, observando a seguinte periodicidade:
+
+Relatório Relatório de Avanço Físico (RAF) Relatório de Avanço de Iteração (RAI)
+
+Periodicidade Mensal (a partir da assinatura do contrato) Ao final de cada iteração (a partir do início da 1ª iteração)
+
+Relatório de SLA
+
+Ao final de cada iteração (a partir do início da 1ª iteração)
+
+12 ­ DAS OBRIGAÇÕES DA CONTRATANTE: 12.1. A CONTRATANTE obriga-se a: propiciar condições de desenvolvimento dos serviços objeto da presente contratação; efetuar o pagamento, na forma estabelecida no presente termo de referência.
+23 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+13 ­ DAS OBRIGAÇÕES DA CONTRATADA: 13.1. A CONTRATADA obriga-se, além do que já foi previsto nos demais itens do presente termo de referência, a: a. utilizar as mesmas ferramentas que a CONTRATANTE e, havendo evolução ou alteração das mesmas, replicar tais modificações em seu ambiente, sem ônus para a CONTRATANTE, inclusive quanto a capacitação de seus profissionais; b. identificar, armazenar e gerenciar os itens de configuração durante todo o projeto, mantendo histórico das alterações efetuadas, criando rótulos e ramificações; c. estar em condições de recuperar uma configuração em um determinado momento no tempo; d. instalar e operacionalizar o seu ambiente de desenvolvimento em conformidade com a plataforma tecnológica da CONTRATANTE; e. manter a compatibilidade entre o seu ambiente de desenvolvimento e o de homologação da CONTRATANTE; f. exigir de seus profissionais, quando circularem nas dependências da
+
+CONTRATANTE, o uso de crachá de identificação com o nome do portador, nome e logotipo da empresa; g. tratar com sigilo e confidencialidade quaisquer informações, dados, processos, fórmulas, códigos, modelos, diagramas e dispositivos relativos ao serviço contratado, utilizando-os apenas para a finalidade prevista; h. facilitar e antecipar a detecção de falhas ou problemas; i. aprimorar e garantir a qualidade dos produtos; j. garantir a adoção irrestrita de normas e procedimentos por parte de toda a equipe do projeto; k. assegurar a conformidade dos produtos e das ações com os padrões e diretrizes do projeto;
+
+24 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+l. transferir conhecimento para a próxima empresa contratada pelo TRT/RJ para a realização do serviço de manutenção do Sapweb por, pelo menos, 3 (três) meses antes do término da vigência contratual; m. assumir, objetivamente, inteira responsabilidade civil e administrativa pela execução dos serviços, correndo por sua conta os ônus inerentes ao serviço prestado, tais como: encargos sociais, trabalhistas, previdenciários, tributos, taxas, licenças, férias e documentos concernentes ao contrato, inclusive seguros contra acidentes de trabalho, bem como de indenizar todo e qualquer dano/prejuízo pessoal e material causados, voluntária ou involuntariamente, por seus prepostos durante e/ou em conseqüência da execução dos serviços contratados, providenciando imediata reparação dos danos ou prejuízos impostos à contratante ou a terceiros, inclusive, se houver, as despesas com custas judiciais e honorários advocatícios; n. indicar na data da assinatura do contrato, à fiscalização, o nome, telefone e email do profissional que atuará como preposto, conforme preceitua o artigo 68 da Lei 8.666/1993.
+
+14 - DA EQUIPE PROFISSIONAL DA CONTRATADA: 14.1. A CONTRATADA deverá, no dia designado para emissão do Termo de
+
+Autorização de Início dos serviços, apresentar comprovação de que dispõe de profissionais habilitados à prestação do objeto que satisfaçam aos perfis técnicos informados pela apresentação da documentação que segue: Gerente de Projetos: - currículo emitido pela contratada que informe experiência de, no mínimo, 3 (três) anos em gerenciamento de projetos seguindo as melhores práticas de mercado (como, por exemplo, o PMBOK); - certificação ITIL, COBIT ou similar.
+
+25 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+b.
+
+Arquiteto de Sistema: - currículo emitido pela contratada que informe experiência em arquitetura de sistemas de, no mínimo, 3 (três) anos e de, no mínimo, 5 (cinco) anos em desenvolvimento, ambos em sistemas Java/J2EE com Banco de Dados Oracle 10g; - declaração da contratada de que possui experiência nos seguintes frameworks e tecnologias: Servidor de aplicações Oracle Application Server, plataforma Java EE, EJB2 (Enterprise Java Beans 2.0), Hibernate, Struts, IDE Eclipse, arquitetura J2EE, PL/SQL, ANT, OpenOffice Server e Client, funcionamento de banco de dados em Oracle RAC; - Certificação Sun Certified Java Programmer (SCJP) ou similar; - Certificação Sun Certified Enterprise Architect (SCEA) ou similar; - Certificação Linux; - Certificação Windows.
+
+c.
+
+Gerente de Configuração: - currículo emitido pela contratada que informe experiência em gerência de configuração de, no mínimo, 3 (três) anos; - Conhecimento de gerência de configuração utilizando CVS (controle de versionamento), Rational Clear Case ou Subversion; - Certificação Linux; - Certificação Windows; - Certificação ITIL, Cobit ou similar.
+
+d.
+
+Analista de Requisitos Sênior: - currículo emitido pela contratada que informe experiência em análise de sistemas de, no mínimo, 3 (três) anos em sistemas Java/JEE com Banco de Dados Oracle 10g;
+26
+
+Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+- declaração da contratada de que possui experiência nos seguintes frameworks e tecnologias: Servidor de aplicações Oracle Application Server, plataforma Java EE, EJB2 (Enterprise Java Beans 2.0), Hibernate, Struts, arquitetura J2EE, IDE Eclipse, ANT, OpenOffice Server e Client e RUP; - Certificação UML.
+
+e.
+
+Projetista Java/J2EE Sênior: - currículo emitido pela contratada que informe experiência em análise de sistemas de, no mínimo, 3 (três) anos em sistemas Java/JEE com Banco de Dados Oracle 10g; - declaração da contratada de que possui experiência nos seguintes frameworks e tecnologias: Servidor de aplicações Oracle Application Server, plataforma Java EE, EJB2 (Enterprise Java Beans 2.0), Hibernate, Struts, arquitetura J2EE, IDE Eclipse, ANT, OpenOffice Server e Client e RUP; - Certificação UML.
+
+f.
+
+Programadores Java/JEE Sênior: - currículo emitido pela contratada que informe experiência de, no mínimo, 3 (três) anos, em programação Java em ambiente Java/J2EE com Banco de Dados Oracle 10g; - declaração da contratada de que possui experiência nos seguintes frameworks e tecnologias: Servidor de aplicações Oracle Application Server, plataforma Java EE, EJB2 (Enterprise Java Beans 2.0), Hibernate, Struts, arquitetura J2EE, IDE Eclipse, ANT, OpenOffice Server e Client. - Certificação Sun Certified Java Programmer (SCJP) ou similar; - Certificação Sun Certified Enterprise Architect (SCEA) ou similar.
+
+27 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+g.
+
+Testadores: - Experiência de, no mínimo, 3 (três) anos em realização de testes de sistemas em ambiente Java/J2EE com Banco de Dados Oracle; - Conhecimento de SQL.
+
+h.
+
+Analista de Testes: - Experiência de, no mínimo, 3 (três) anos em análise de testes de sistemas em ambiente Java/J2EE com Banco de Dados Oracle; - Conhecimento de SQL; - Certificação ALATS/CBTS ou ISTQB/BSTQB/CTFL ou QAI/CSTE ou similar.
+
+i.
+
+Gerente de Testes: - Experiência de, no mínimo, 3 (três) anos em análise de testes de sistemas em ambiente Java/J2EE com Banco de Dados Oracle; - Conhecimento de SQL; - Certificação ALATS/CBTS ou ISTQB/BSTQB/CTFL ou QAI/CSTE ou similar - Conhecimento de Métricas de Teste; - Conhecimento de Processos de Teste.
+
+14.2. A CONTRATADA deverá dimensionar a equipe profissional que prestará o serviço objeto da presente contratação de forma a garantir o cumprimento dos prazos e acordos de nível de serviço estabelecidos. 14.3. O perfil profissional referenciado no item 14.1 do termo de referência é o mínimo que deverá ser empregado pela CONTRATADA na execução contratual, de modo a garantir a qualidade na prestação do serviço objeto da presente contratação. 14.4. Admitir-se-ão variações na nomenclatura dos cargos elencados no item 14.1 desde
+28 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+que efetivamente haja correspondência com o perfil de profissionais exigidos na presente contratação.
+
+15. SUBSÍDIOS PARA ELABORAÇÃO DO EDITAL E DO CONTRATO: 15.1. DA HABILITAÇÃO ­ DOCUMENTOS A SEREM EXIGIDOS DA ARREMATANTE: 15.2. Será exigida da arrematante a seguinte documentação:
+
+A. Pelo menos 01 (um) atestado de capacidade técnica, fornecido por pessoa jurídica de direito público ou privado, comprovando que executou de maneira satisfatória serviço de desenvolvimento e manutenção de sistemas de, pelo menos, 1750 (mil e setecentos e cinquenta) pontos de função brutos utilizando metodologia Unified Process (UP) e Unified Modeling Language (UML), na plataforma Java EE com as seguintes tecnologias: linguagem Java, servidor de aplicação Oracle Application Server e/ou JBOSS, Frameworks: Struts e Hibernate. B. Declaração da própria arrematante com o seguinte teor: I - de que possuirá, na data de assinatura do contrato, instalações, pessoal qualificado, estrutura de suporte para troca e informações com a CONTRATANTE suficientes para atender prontamente as demandas inerentes ao objeto a ser contratado, na forma do termo de referência; II - de que cumpre o disposto no artigo 7º, XXXIII, da Constituição da República Federativa Brasileira em vigor. C. Comprovante de realização de vistoria obrigatória da documentação do sistema Sapweb, conforme item 19 deste Termo. 15.3. A CONTRATANTE poderá promover visitas às dependências da arrematante e consultar as entidades mencionadas em quaisquer documentos e atestados fornecidos pela mesma, a fim de comprovar a exatidão das informações contidas nos documentos requeridos.
+
+29 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+15.4. Os atestados deverão ser emitidos em nome da arrematante em papel timbrado do emitente, contendo, no mínimo, as seguintes informações: razão social, endereço e CNPJ do emitente; razão social da arrematante; referência, vigência e descrição do objeto do contrato; local e data de emissão do atestado; nome e assinatura do signatário com indicação do cargo e telefone para contato. 15.5. O quantitativo de pontos de função mencionado no atestado de capacidade
+
+técnica corresponde a 50% do total estimado para execução nesta contratação, sendo tal percentual razoável e compatível com as quantidades, características e prazos da presente contratação, de modo a demonstrar a capacidade da arrematante na prestação dos serviços previstos neste termo de referência, na forma do artigo 30, II, da Lei 8.666/93.
+
+16. CRITÉRIO DE JULGAMENTO E ELEMENTOS PARA ELABORAÇÃO DA PROPOSTA COMERCIAL: 16.1. Será julgada vencedora a proposta que, atendendo a todos os requisitos técnicos do presente Termo de Referência, ofertar o MENOR PREÇO GLOBAL referente a estimativa de 3.500 (três mil e quinhentos) Pontos de Função para 30 (trinta) meses. 16.2. No preço, deverão ser incluídos todos os custos diretos e indiretos desta contratação. 16.3. Junto com a proposta comercial, a arrematante deverá apresentar planilha de formação de preços, conforme modelo do Anexo X-A. Para assegurar que o valor total a ser pago pelo TRT jamais ultrapasse o pactuado na licitação, todas as casas excedentes à segunda casa decimal deverão ser DESPREZADAS, NÃO SENDO ADMITIDO QUALQUER ARREDONDAMENTO. Assim, exemplificativamente, uma proposta cujo preço do Ponto de Função resulte em R$ 0,05678989 teria o seu preço unitário ajustado na planilha definitiva para R$ 0,05.
+
+30 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+17 ­ DO SUPORTE TÉCNICO E DA GARANTIA DOS SERVIÇOS: 17.1. A CONTRATADA deverá prestar suporte técnico durante todo o período de vigência contratual através de um canal de comunicação online com a equipe técnica da CONTRATANTE para dirimir dúvidas e resolver problemas que porventura surjam no horário de 8 às 18 horas nos dias úteis. 17.2. A ferramenta de comunicação online deverá ser a mesma utilizada pela CONTRATANTE. A eventual aquisição de licenças necessárias para essa comunicação não acarretará ônus adicionais para a CONTRATANTE. 17.3. A CONTRATADA obriga-se a prestar garantia dos serviços durante toda a vigência contratual e após o seu encerramento até 03 (três) meses a contar da emissão do último Termo de Aceite (item 20.4) pela Fiscalização. 17.4. Durante este período, a CONTRATADA deverá efetuar toda a manutenção corretiva decorrente de quaisquer erros ou falhas do sistema, sem quaisquer ônus adicionais à CONTRATANTE, com exceção do disposto no item 9.7 do termo de referência. 18 ­ DA PROPOSTA INTELECTUAL: 18.1. A CONTRATANTE terá direito de propriedade sobre todos os produtos desenvolvidos pela CONTRATADA decorrentes deste contrato, sendo vedada qualquer comercialização por parte da mesma. 18.2. A CONTRATADA cederá, em caráter definitivo, o direito patrimonial e a propriedade intelectual das funcionalidades desenvolvidas e dos resultados produzidos durante a vigência do contrato, incluindo-se relatórios, estudos, especificações, descrições técnicas, protótipos, dados, esquemas, diagramas, fonte dos códigos e documentação didática.
+
+19 - DA VISTORIA OBRIGATÓRIA: 19.1. As licitantes deverão, obrigatoriamente, efetuar vistoria prévia da documentação
+31 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+do sistema Sapweb na Secretaria de Tecnologia da Informação, localizada na Av. Augusto Severo, 84, 13º andar, Glória, Rio de Janeiro, RJ, sendo certo que a vistoria ensejará a emissão de comprovante pelo Tribunal, pelo fato de ser OBRIGATÓRIA. 19.2. A vistoria deverá ser realizada até 01 (um) dia útil antes da data estipulada para a abertura da licitação, devendo ser agendada até 01 (um) dia útil antes de sua realização através do email dgsp@trt1.jus.br, no horário compreendido entre 10 e 17 horas, de segunda à sexta-feira. 19.3. Em nenhuma hipótese, o desconhecimento das condições operacionais poderá ser alegado como justificativa para inexecução ou execução parcial do serviço a ser prestado, bem como solicitar qualquer alteração no valor do contrato a ser celebrado. 19.4. As dúvidas de natureza técnica porventura surgidas durante a vistoria serão esclarecidas pela Divisão de Gestão de Sistemas e Portal (DGSP), através de expediente dirigido à Comissão Permanente de Licitação (CPL). 19.5. A não apresentação do referido comprovante acarretará a inabilitação da licitante.
+
+20 - DO ACEITE E PAGAMENTO: 20.1. A CONTRATADA apresentará a Nota Fiscal instruída com todos os artefatos previstos no presente termo de referência. 20.2. A fiscalização do contrato validará os artefatos de suas respectivas disciplinas, apresentando os indicadores do SLA com os respectivos descontos, se for o caso. 20.3. A Gerente de Projeto consolidará todas essas informações, apresentando os seus artefatos devidamente validados, incluindo-se a análise de todos os SLAs. Tal validação constituir-se-á no recebimento provisório. 20.4. O Gestor do contrato atestará a Nota Fiscal efetuando o recebimento definitivo em até 5 (cinco) dias úteis do recebimento provisório, encaminhando-a à unidade da CONTRATANTE responsável pelo pagamento, com todos os relatórios e artefatos validados. 20.5. A CONTRATANTE somente pagará pelos Pontos de Função efetivamente
+32 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+utilizados, independentemente dos quantitativos estimados indicados no presente termo de referência. 20.6. Os pagamentos poderão sofrer adequações decorrentes do não atendimento das metas previstas nos Acordos de Nível de Serviço, na forma estabelecida no item 10 do termo de referência. 20.7. Os pagamentos à CONTRATADA serão efetuados efetuado em prazo não superior a 30 (trinta) dias, contados a partir da data final do período de adimplemento de cada parcela, conforme art. 40, inciso XIV, alínea "a" da Lei 8.666/93, após a atestação, pela fiscalização da CONTRATANTE, da(s) nota(s) fiscal(is) do mês anterior, acompanhada de Relatório Mensal de Acompanhamento emitido pela fiscalização. 20.8. Fica a Contratada ciente de que, quando da ocasião do pagamento, será verificado se as condições de habilitação estão mantidas.
+
+21 - REAJUSTE: 21.1 O contrato poderá ser reajustado, ante requerimento da contratada, observada a periodicidade mínima de 1 (um) ano contada da data limite para a apresentação das propostas, adotando-se para tanto a variação do INPC para o período. 21.2 A data do último reajuste concedido passará a ser considerado como marco inicial para os reajustes subsequentes, sempre respeitado o interregno mínimo de 1 (um) ano. 21.3 O pedido deverá ser expresso quanto ao valor pretendido e quanto à data requerida. 21.4 Os efeitos financeiros do reajuste poderão retroagir, conforme o pedido, até a data em que completada a periodicidade mínima de 1 (um) ano referida acima, observado o item 21.5. 21.5 O prazo decadencial para o requerimento do reajuste será de 60 (sessenta) dias, a contar do dia em que restar preenchido o requisito temporal para a concessão do mesmo, nos termos dos itens 21.1 e 21.2. Após o prazo estabelecido, os efeitos financeiros retroagirão, no máximo, até a data do pedido, a depender dos termos da solicitação da contratada.
+33 Seção de Documento de Referência
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+
+21.6 A celebração de prorrogações contratuais quando já preenchido o requisito temporal para concessão de reajuste, sem que haja ressalva expressa a respeito pela contratada, implicará preclusão lógica do direito de pleitear reajustes referentes aos períodos anteriores às prorrogações. 21.7 O requerimento de reajuste deverá ser dirigido à fiscalização do contrato.
+
+22 - DA RESCISÃO 22.1. O presente contrato poderá ser rescindido nas hipóteses estabelecidas pelos artigos 77 a 79 da Lei 8.666/93. 23 - DAS PENALIDADES 23.1. No caso de descumprimento das cláusulas contratuais, serão aplicadas sanções administrativas em conformidade com o Ato 2.211/2005 da Presidência deste E. TRT e artigos 81, 86, 87 e 88 da Lei 8.666/93. Rio de Janeiro, 26 de maio de 2011.
+
+Eugenio L. Carvalho Silva Chefe da SEDOR
+
+Alessandra Silva de Souza Chefe da DICO
+
+Célia Regina Amaya Utiyama Fiscal de Métrica e Requisitos
+
+Roterdam Holanda Cavalcante Junior Fiscal de Análise e Projeto
+
+Tony Takimoto Fiscal de Implementação, Testes e Homologação
+
+Marcelo Luís Alves Dias Fiscal de Qualidade
+
+Denise Barbosa Alves e Silva Gerente de Projeto
+
+Erik Gustavo de Sousa Stofanelli Gestor do contrato
+
+34 Seção de Documento de Referência
+
+

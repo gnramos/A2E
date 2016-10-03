@@ -1,0 +1,961 @@
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil ­ Diretoria de Tecnologia Fábrica de Projetos - Projeto Básico Anexo A - Especificação Técnica
+
+1. Objeto Contratação de empresa ou consórcio de empresas para a prestação de serviços técnicos especializados de desenvolvimento e manutenção de sistemas informatizados. 2. Detalhamento do Objeto 2.1. Os serviços a serem contratados compreendem: 2.1.1. Desenvolvimento de novos sistemas informatizados a partir de especificações estabelecidas pelo BB, 2.1.2. Manutenção evolutiva em sistemas informatizados para o acréscimo de novas funcionalidades, extensão ou exclusão de funcionalidades existentes, a partir de especificações estabelecidas pelo BB. 2.1.3. Manutenção adaptativa em sistemas informatizados, compreendendo, mudança de versão de produtos ou de ambiente operacional ou conversão de linguagem, mediante solicitação do BB. 2.2. Na execução dos serviços, a contratada deverá aplicar os procedimentos necessários à garantia da qualidade preconizados pelos documentos anexos: Processo de Desenvolvimento de Aplicativos do Banco do Brasil - PDABB (Anexo A-1), Melhores Práticas de Desenvolvimento (Anexo A-2), Padrões de Desenvolvimento (Anexo A-3), Padrões de Administração de Dados (Anexo A-4). 3 ­ Local de Execução dos Serviços 3.1. Os serviços deverão ser executados nas instalações da contratada, que deverá providenciar, às suas expensas, toda a infra-estrutura de hardware e software bem como os recursos físicos necessários à prestação dos serviços contratados. 3.2. As interações com os profissionais do BB necessárias à execução dos serviços ocorrerão em Brasília, cabendo à contratada a responsabilidade pelo deslocamento dos profissionais envolvidos na prestação dos serviços quando necessário.
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+3.3. A contratada deverá necessariamente se conectar à rede do BB para gravação dos artefatos desenvolvidos ou, quando autorizado expressamente pelo BB, para utilização do ambiente de desenvolvimento do BB, sendo sua atribuição providenciar os recursos de hardware, software e comunicação necessários para o acesso, às suas expensas, sem custos adicionais para o BB. Para isso deverão ser seguidas todas as normas de segurança e acesso aos sistemas e ambientes definidas pelo BB que constam do contrato assinado. 3.4. A infra-estrutura tecnológica necessária à prestação do serviço contratado compreendendo: hardware, software e conexões física e lógica deverá estar operacional no prazo máximo de 60 ( sessenta dias ) dias contados da assinatura do contrato, ocasião em que poderá ser objeto de inspeção pelo BB. 4. Plataforma Tecnológica 4.1. A plataforma tecnológica utilizada no BB encontra-se descrita no Anexo A-5. A contratada deverá utilizar ferramentas e tecnologias compatíveis às adotadas pelo BB. 4.2. Poderão ser demandados serviços com utilização de outras plataformas tecnológicas. Nesses casos, os requerimentos específicos de infra-estrutura tecnológica estarão explicitados nas solicitações de serviços e deverão ser providenciados pela contratada. 4.3. O BB terá ampla liberdade em atualizar as versões dos sistemas operacionais, linguagens de desenvolvimento, ferramentas de apoio ao desenvolvimento, todos de sua propriedade ou de seu direito de uso, segundo sua necessidade e conveniência administrativa. Caberá , nesses casos, à contratada evoluir e se adaptar à respectiva mudança, relativamente as solicitações de serviço a ela posteriores às suas expensas, sem quaisquer custos adicionais para o BB. 5 ­ Processo de Desenvolvimento 5.1 Os artefatos a serem entregues pela contratada serão declarados na Ordem de Fornecimento de acordo com a fase de desenvolvimento contratada e com o estabelecido no PDABB. Os artefatos deverão ser produzidos de acordo com os modelos e padrões declarados no PDABB, Melhores Práticas de Desenvolvimento, Padrões de Desenvolvimento, Padrões de Administração de Dados (Anexos A-1, A2, A-3, A-4). 5.2. Cabe à contratada orientar sua equipe técnica quanto à utilização dos procedimentos, normas, padrões e melhores práticas preceituados pelo BB. 5.3 O BB terá ampla liberdade em alterar os processos, normas, padrões e melhores práticas por ele adotados cabendo à contratada efetuar os ajustes necessários, sem ônus para o BB, no sentido de se adequar às mudanças. 6 ­ Volume de Serviço
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+6.1. O volume de solicitações de serviço estimado para o período de 12 ( doze ) meses está compreendido entre 4.000 (quatro mil) e 80.000 (oitenta mil) Pontos de Função. 6.2 ­ Não há previsão quanto à distribuição das solicitações de serviço ao longo dos meses, sendo responsabilidade da contratada ajustar-se com vistas ao atendimento dos serviços solicitados pelo BB de acordo com os prazos máximos declarados no item 7 desta especificação. 7 ­ Prazo para a Execução dos Serviços 7.1. A tabela abaixo é utilizada pelo BB como referência para estabelecimento dos prazos para atendimento dos serviços. Esta tabela estabelece os prazos máximos admissíveis para a conclusão de um serviço tomando como base seu tamanho em Pontos de Função e contemplando todos os procedimentos preconizados pelo PDABB necessários à garantia da qualidade.
+Prazos máximos admitidos para realização de serviços Tamanho do Prazo Prazo máximo serviço em Pontos máximo em para início do de Função meses projeto 50 2,8 Imediato 100 3,3 Imediato 200 4,4 7 dias 300 5,4 7 dias 400 6,2 7 dias 500 6,8 15 dias 600 7,5 15 dias 700 8,1 15 dias 800 8,8 15 dias 900 9,4 15 dias 1000 10,1 15 dias 1100 10,7 15 dias 1200 11,4 15 dias 1300 12,0 15 dias 1400 12,7 15 dias 1500 13,3 15 dias 1600 14,0 15 dias 1700 14,6 15 dias 1800 15,3 15 dias 1900 15,9 15 dias 2000 16,6 15 dias
+
+Obs: (1) Para serviços inferiores a 50 Pontos de Função, o prazo máximo será determinado em dias e obtido pela multiplicação da quantidade de Pontos de Função por 1,68 (um inteiro e sessenta e oito centésimos) com arredondamento para o inteiro iImediatamente superior.
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+(2) No caso de quantidades de Pontos de Função intermediárias aos valores da tabela, o prazo máximo será determinado por interpolação na tabela. 7.2. Prazos máximos superiores aos definidos no item 7.1 poderão ser excepcionalmente admitidos a critério do BB quando condições supervenientes venham a interferir no andamento do serviço. 7.3. Os prazos definidos no item 7.1 serão utilizados apenas como referência para o estabelecimento dos prazos de entrega dos serviços contratados. O prazo de cada serviço contratado será formalizado na Ordem de Fornecimento. O descumprimento do prazo definido na Ordem de Fornecimento facultará ao BB a aplicação de penalidade de até 30% do valor do serviço, conforme definido no item 14 desta especificação. 7.4. Estão excluídos da aplicação de penalidades por descumprimento de prazo os atrasos motivados por falta de disponibilidade de recursos humanos ou infraestrutura por parte do BB. 8 ­ Forma de Execução dos Serviços 8.1. A solicitação de execução do serviço será formalizada por meio de Ordem de Fornecimento ­ OF ­ que conterá a descrição do serviço, sua estimativa inicial em Pontos de Função e o prazo de sua conclusão. 8.2. A Ordem de Fornecimento especificará: 8.2.1. A relação de artefatos a ser entregue pelo BB à contratada como parte da especificação do serviço e a daqueles que deverão ser produzidos e entregues pela contratada como resultado da contratação. Obs.: (1) A relação de artefatos obrigatórios e opcionais por fase do processo de desenvolvimento de software adotado pelo BB ­ PDABB - encontra-se no Anexo A-1. 8.2.2. Os cronogramas de entregas dos artefatos pela contratada, de aceite dos artefatos pelo BB e de desembolsos pelo BB. Obs.: (1) Atrasos nas entregas de artefatos sem alterações nos requisitos e isento de culpa pelo BB poderão resultar em aplicação de penalidades pelo BB, conforme definido no item 15 deste edital. 8.2.3. A freqüência de atualização, no ambiente do BB, das versões dos artefatos a serem produzidos. 8.2.4. O Responsável Técnico do BB que acompanhará o desenvolvimento dos serviços e o Responsável Técnico da Contratada que responderá pela prestação do serviço. 8.3. O BB poderá alterar a especificação de uma solicitação de serviço até a data prevista na OF para a primeira entrega de artefato. Nesse caso, a estimativa inicial de Pontos de Função feita originalmente será desconsiderada e será feita uma nova
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+contagem baseada na última especificação do serviço. A contagem final, a ser feita na conclusão do serviço, considerará o serviço efetivamente entregue. 8.4 Após a data prevista na OF para a primeira entrega de artefatos, alterações no serviço especificado serão feitas mediante formalização de nova OF, sem prejuízo da OF original. Nessa nova OF, as contagens dos Pontos de Função, tanto na estimativa inicial quanto na conclusão do serviço, serão feitas considerando o serviço como manutenção evolutiva, conforme critérios definidos no item 9.8 deste edital. 8.5. As fases do processo de desenvolvimento de sistemas que podem ser objeto de prestação de serviço pela contratada são: Especificação de Requisitos, Elaboração do Modelo Lógico, Elaboração do Projeto Detalhado, Construção e Integração e Homologação. Uma Ordem de Fornecimento tanto pode se referir a todas estas fases como a um subconjunto delas. 8.6. A subcontratação das fases de Especificação de Requisitos e Elaboração do Modelo Lógico somente ocorrerá em caráter excepcional e nesses casos haverá necessariamente a participação de técnicos do BB atuando junto à contratada. 8.7. A critério do BB poderá ser definida a necessidade de acompanhamento da execução de qualquer serviço por técnicos do BB. 8.8 ­ Sempre que necessário poderão ser realizadas reuniões entre o BB e contratada para esclarecimentos adicionais acerca do serviço a ser executado ou dos sistemas informatizados a serem mantidos no caso das manutenções evolutivas ou adaptativas. 9 - Mensuração dos serviços 9.1. Os serviços serão mensurados em Pontos de Função. 9.2. A contagem de Pontos de Função será realizada conforme a metodologia descrita no Manual de Práticas e Contagens versão 4.2 (Counting Practices Manual Release 4.2), publicado pelo IFPUG (International Function Point Users Group ), em 2005 ou a que for vigente à época da contratação. 9.3. A contagem de Pontos de Função será efetuada no repasse dos serviços (Contagem Estimativa) e na conclusão dos serviços (Contagem Final) pela contratada, cabendo ao BB efetuar a validação dessas contagens. 9.4. Quando da contratação de fases intermediárias do processo de desenvolvimento, a Contagem Final será feita ao término da última fase contratada. 9.5. No caso da contratação da fase de Especificação de Requisitos, a Contagem Estimativa, citada no item 9.3, será feita de acordo com as técnicas de contagens indicativa e estimativa definidas pela NESMA - Netherlands Software Metrics Users Association.
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+9.6. O BB adotará os critérios abaixo na apuração do tamanho em pontos de função dos projetos contratados para fins de remuneração, de acordo com o tipo de serviço:
+
+Critérios de Apuração por Tipo de Serviço Tipo de Serviço Desenvolvimento de novos sistemas Manutenção Evolutiva Descrição Aplicativo novo. Acréscimo ou extensão de funcionalidade em aplicativo existente. Mudança de versão de produto ou ambiente operacional ou conversão de linguagem Exemplo: Natural para Cobol ou Java Contagem (fórmula) I II
+
+Manutenção Adaptativa
+
+III
+
+Fórmulas de Cálculo para Contagem de Pontos de Função de Projeto: Fórmulas
+I PFBB Novo = PF Novo * Fator de Impacto PFBB Evolutiva = (PF Incluido + PFBB Alterado + PFBB Excluido) * Fator de Impacto II onde: PFBB Alterado = PF Alterado * 0,6 PFBB Excluido = PF Excluido * 0,4
+
+III
+
+PFBB Adaptativa = PF Aplicativo * Fator de Adaptação
+
+Obs.: (1) Nas fórmulas acima, entende-se por PF a quantidade de pontos de função apurada pela técnica de Análise de Pontos de Função ou abordagem NESMA e considerando as definições estabelecidas nos itens 9.7 e 9.8 abaixo. Entende-se por PFBB a quantidade de pontos de função obtida com base na aplicação de multiplicadores definidos pelo BB sobre o valor PF apurado. (2) O BB adotará o valor 1,00 (um) como Fator de Ajuste para todos os projetos, razão pela qual esse fator não está representado nas fórmulas. (3) Serão utilizados os seguintes valores como Fator de Impacto:
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+a) 1,00 (um) para projetos desenvolvidos inteiramente na plataforma mainframe utilizando as linguagens Cobol e/ou Natural b) 1,25 (um inteiro e vinte e cinco centésimos) para projetos desenvolvidos em plataforma mista utilizando as linguagens Java e Natural e/ou Cobol (4) Como Fator de Adaptação, serão adotados os seguintes valores: c) 0,35 (trinta e cinco centésimos) na conversão de Natural para Java ou Cobol d) 0,45 (quarenta e cinco centésimos) na conversão de Natural para plataforma mista Java com Cobol e) 0,15 (quinze centésimos) na mudança de versão de produtos ou de ambiente operacional 9.7. Os AIE (Arquivo de Interface Externa) deverão ser contados, conforme determina a técnica de Análise de Pontos de Função, porém não serão considerados para remuneração à contratada sempre que para sua inclusão, alteração ou exclusão forem utilizados componentes fornecidos pelo BB. 9.8. O BB adotará a tabela abaixo para apuração da equivalência em pontos de função de atividades não passíveis de mensuração pela técnica de Análise de Pontos de Função. A quantidade de pontos de função equivalente aos itens não mensuráveis será obtida pela multiplicação da Base de Cálculo pelo Fator de Equivalência em PF.
+
+Equivalência em PF de Itens Não Mensuráveis
+Item Layout de telas e arquivos Contempla alterações de layouts de telas ou arquivos sem que haja alteração de funcionalidade. Campos e Variáveis Contempla a inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas sem que tenha havido mudança na funcionalidade. Mensagens Comtempla alteração de mensagens de retorno a usuários. Menus Contempla a inclusão, alteração ou exclusão de de menus ou telas de ajuda a usuário (helps). Base de Cálculo Fator de equivalência em PF 0,04
+
+Quantidade de itens de layout alterados
+
+Quantidade de campos
+
+0,08
+
+Quantidade de mensagens alteradas Quantidade de telas incluidas ou alteradas Quantidade de telas excluídas
+
+0,04
+
+0,1
+
+0,02
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos Dados Hard Coded Contempla a inclusão, alteração ou exclusão Quantidades de dados de dados pertencentes a listas (combo box) ou tabelas físicas. Code Table Inclusão de Tabela Contempla a necessidade de criação, alteração ou exclusão de tabelas Code Table e Alteração de Tabela respectivas funcionalidades. Exclusão de Tabela Inclusão de Funcionalidade Alteração de Funcionalidade Exclusão de Funcionalidade 0,04
+
+1,00 0,60 0,40 0,30 0,20 0,10
+
+9.9. A distribuição percentual de Pontos de Função por fase do processo de desenvolvimento de aplicativos adotada pelo BB é apresentada na tabela abaixo. O percentual de distribuição já considera o esforço de gestão relativo às etapas a serem executadas pela contratada.
+
+Distribuição percentual de Pontos de Função por fases do processo de desenvolvimento Fases % de Distribuição Definição do Sistema 3% Especificação de Requisitos 13 % Elaboração do Modelo Lógico 11 % Elaboração do Projeto Detalhado 28 % Construção 34 % Integração e Homologação 7% Implantação 4% Como as fases de Definição do Sistema e Implantação não serão objeto de contratação (item 8.5), no máximo 93% de cada projeto poderá ser contratado. A quantidade de pontos por função utilizada como base da remuneração do serviço solicitado será calculada de acordo com as fases do ciclo de desenvolvimento efetivamente contratadas, registradas na descrição do serviço na Ordem de Fornecimento, e do tamanho do projeto em pontos de função calculado conforme definido no item 9.6. Considerando um projeto mensurado em 300 pontos de função:
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+a) Se forem contratadas somente as fases de Elaboração do Projeto Detatalhado e Construção, o serviço contratado será remunerado por 186 Pontos de Função; b) Se for contratada apenas a fase de Construção, o serviço contratado será remunerado por 102 Pontos de Função. 9.10. Caso haja divergências iguais ou superiores a 5% entre o BB e a contratada em relação às contagens de pontos de função do serviço efetuado, representantes do BB e da contratada deverão se reunir para resolver as divergências. Caso as divergências sejam inferiores a 5%, prevalecerá a contagem arbitrada pelo BB. 10 ­ Aceite do Serviço 10.1. O BB emitirá, após a inspeção e teste dos artefatos entregues, o Termo de Aceitação do Serviço, no prazo definido na OF. Poderá haver prorrogação, a critério do BB, de até 50% do prazo inicialmente previsto para o aceite. A não manifestação do BB nesses prazos implicará o aceite tácito dos artefatos entregues. 10.2. A inspeção pode gerar a recusa de artefatos por motivo de vícios de qualidade ou por não observância dos padrões e melhores práticas adotados pelo BB. Em caso de recusa, o prazo de entrega do serviço não será prorrogado, o que pode gerar aplicação de penalidades por atraso, conforme definido no item 15 desta especificação. 10.3. A emissão de aceite pelo BB não exime a contratada da responsabilidade pela correção de erros identificados dentro do prazo de garantia do serviço. 11 ­ Qualidade do serviço 11.1. A qualidade dos serviços entregues será avaliada pela correção dos artefatos, pela aderência às especificações formuladas pelo BB e pela conformidade aos padrões estabelecidos pelo PDABB (Anexo A-1), Melhores Práticas (Anexo A-2) Padrões de Desenvolvimento (Anexo A-3) e Padrões de Administração de Dados (Anexo A-4). 11.2. A avaliação da qualidade dos artefatos entregues será feita no aceite do serviço podendo motivar a recusa de artefatos. A motivação da recusa do artefato será formalizada pelo BB. 11.3. A recusa de mais de 5% dos artefatos documentais previstos em uma OF facultará ao BB a aplicação de penalidades, conforme definido no item 15 deste edital. 11.5. Com relação aos artefatos não documentais, ou seja, componentes de software, a entrega de serviços com índice de erros superior a 0,3 erros por PF estará sujeita a aplicação de penalidades, conforme definido no item 15 deste edital. 11.6. Para efeito de apuração do índice de erros por PF serão considerados erros as desconformidades com relação aos requisitos especificados ou com relação aos
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+padrões e melhores práticas estabelecidos e as paradas e finalizações anormais do software desenvolvido, inclusive as decorrentes de integração. 11.7. Serão excluídos da apuração do índice de erros por PF erros decorrentes de alterações ou upgrades de versão em softwares com os quais os serviços desenvolvidos mantenham interface, ocorridos após a especificação do serviço. 12 ­ Pagamento dos serviços 12.1. A ordem de fornecimento ­ OF - conterá o cronograma de desembolso que deverá prever o pagamento de parcelas, associadas ao cronograma de entrega de artefatos, num montante de até 70% do valor total do serviço. Os 30% restantes serão pagos após 90 (noventa) dias da conclusão da OF. 12.2 O pagamento das parcelas associadas às entregas ocorrerá após o aceite pelo BB e o pagamento da parcela final, depois de decorridos 90 dias da data de conclusão da OF. A data de conclusão da OF será a de emissão do aceite da última entrega a ela referente. 12.3. Os pagamentos ocorrerão sempre mediante a apresentação de Nota Fiscal e Fatura de Pagamento correspondente aos serviços entregues. 12.4. Eventuais ajustes decorrentes de diferenças entre as contagens estimativa e final de Pontos de Função, bem como dedução de valores relativos a penalidades, serão efetuados na última parcela de desembolso prevista. 13 ­ Obrigações da Contratada 13.1 Estar apta à prestação de serviços para o BB em até 60 dias contados a partir da assinatura do contrato. 13.2 Prover e gerir a infra-estrutura tecnológica necessária compreendendo computadores, softwares e conexões física e lógica à rede do BB, ou seja, todo o conjunto sistêmico necessário à prestação dos serviços contratados. O ambiente deverá estar operacional no prazo máximo de 60 (sessenta) dias contados da assinatura do contrato. A não observância desse prazo poderá ocasionar a aplicação de penalidade, conforme definido no item 15. 13.3 ­ A conexão dedicada ao ambiente do BB deve ter capacidade adequada para manter a qualidade da comunicação visando à entrega dos produtos contratados e o acesso ao ambiente do BB sem custo adicional e seguindo as normas de segurança e acesso indicadas pelo BB. 13.4 ­ Garantir, no caso de excepcional indisponibilidade da conexão citada no item 13.3, a entrega dos produtos nos prazos estabelecidos na Ordem de Fornecimento utilizando meio físico de armazenamento digital compatível com o ambiente tecnológico do BB.
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+13.5 ­ Gerenciar os recursos humanos utilizados na execução dos serviços solicitados pelo BB realizando as atividades relativas ao repasse e acompanhamento do serviço. 13.6 ­ Capacitar às suas expensas, sempre que necessário, nas competências necessárias ao atendimento dos serviços solicitados pelo BB, os profissionais utilizados na prestação dos serviços. 13.7 ­ Utilizar e disponibilizar para uso do BB, sem custo adicional, solução sistematizada com interface WEB que possibilite o acompanhamento da execução dos serviços demandados. A solução diponibilizada deve possuir as seguintes informações e funcionalidades mínimas: a) Dados da OF incluindo os atributos relacionados nos itens 8.1 e 8.2. b) Data de incício e de conclusão de cada artefato c) Andamento de cada artefato a ser entregue com indicação da situação atual em termos de percentual de conclusão d) Indicação da quantidade de horas utilizadas para elaboração de cada artefato entregue e) Consulta por OF apresentando dados dos artefatos a ela relacionados f ) Relatório de OFs em andamento e concluídas 13.8 - Orientar sua equipe técnica quanto à utilização do PDABB ( Anexo A-1), Melhores Práticas de Desenvolvimento (Anexo A-2), Padrões de Desenvolvimento (Anexo A-3), Padrões de Administração de Dados (Anexo A-4). 13.9 ­ Garantir a qualidade do software em suas características operacionais, manutenibilidade e adaptabilidade a novos ambientes e assegurar que o software produzido seja eficiente quanto ao desempenho e consumo de hardware e seguro. 13.10 ­ Manter sigilo sobre quaisquer informações do BB às quais tenha acesso. Nesse sentido, a contratada deverá entregar ao BB Termo de Confidencialidade, assinado pelos seus representantes legais. 13.11 ­ Devolver e eliminar de suas bases de informações os documentos encaminhados pelo BB para a especificação dos serviços, bem como outras especificações decorrentes desta, os códigos fontes, os executáveis e demais documentações pertinentes. 13.12 ­ Disponibilizar, a qualquer tempo, caso o BB julgue necessário, suas dependências e seu ambiente de hardware e software para que sejam efetuadas análises e auditorias de segurança. 13.13 ­ Prestar informações e esclarecimentos sobre os serviços prestados em no máximo 48 horas a contar da solicitação feita pelo BB. 13.14 ­ Diponibilizar ao BB ou à empresa por ele designada toda a informação utilizada e/ou produzida na execução dos serviços prestados, em até 30 dias, sem quaisquer ônus adicionais para o BB, contados da data de finalização do contrato.
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+Obs.(1) A retenção de qualquer informação solicitada pelo BB que implique prejuízo à transição do serviço para novo prestador ou a absorção do serviço pelo BB, constituirá quebra de contrato, sujeitando a contratada às obrigações relativas aos danos causados ao BB. . 14 ­ Garantia 14.1. A contratatada garantirá os serviços prestados pelo período pelo qual for pontuada na qualificação técnica desta licitação, contado a partir do aceite do serviço, mesmo após o término do contrato. 14.2. Durante o período de garantia caberá à contratada toda a manutenção corretiva decorrente de erros ou falhas que resultem em funcionamento incorreto ou em desconformidade com as especificações formuladas pelo BB, cometidos durante o desenvolvimento dos serviços contratados ou decorrentes de integração, a qualquer tempo, sem ônus para o BB, desde que o erro ou falha, comprovadamente, não se dê em função de falhas nas especificações feitas pelo BB. 14.3. O direito do BB à garantia cessará caso o software ou artefato seja alterado pelo BB ou por outros fornecedores a serviço do BB. Caso a própria contratada realize manutenções no software ou no artefato, permanece o direiro do BB à garantia. 14.4. O atendimento aos chamados para execução de correções de erros ou falhas citados no item 14.2 acima em serviços já entregues deve ser imediato e sem prejuízo dos demais serviços contratados. O prazo para execução das correções será estabelecido entre o BB e a contratada e registrado em ata de reunião. O não cumprimento dos prazos estabelecidos sujeita a contratada às penalidades previstas no item 15 desta especificação. 15 ­ Penalidades 15.1. No caso de atraso injustificado na disponibilização das instalações, para a qual está previsto o prazo máximo de 60 (sessenta) dias após a assinatura do contrato, a contratada estará sujeita, garantida a prévia defesa e sem prejuízo da possibilidade de rescisão do Contrato, à penalidade de multa de R$ 1.000,00 (mil reais) por dia de atraso. 15.2. A contratada estará sujeita, garantida prévia defesa e sem prejuízo da possibilidade de rescisão do Contrato, às penalidades de advertência e/ou multa nos seguintes casos: a) não cumprimento dos prazos estabelecidos para a entrega dos serviços; b) na ocorrência de taxa de recusa de artefatos não documentais superior a 5% do total de artefatos documentais previstos na OF c) na ocorrência de índice de erros superior a 0,3 erros por PF na entrega de componentes;
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+d) no descumprimento dos prazos acordados para correção de erros em serviços já entregues. 15.3. A sanção de advertência de que trata o item 15.2 poderá ser aplicada nos seguintes casos: a) Na primeira ocorrência no mês, de atraso na entrega de artefatos prevista nos cronogramas de entrega estabelecidos nas OF, sem que tenha havido alteração nos requisitos ou culpa do BB; b) Na primeira ocorrência de atraso no prazo acordado para correção de erro em OF concluída e entregue. 15.4. A penalidade de multa no valor de 1% (um por cento) ao dia, calculado sobre o valor da parcela referente ao artefato e limitada a 10% (dez por cento) do valor da respectiva OF, poderá ser aplicada após a ocorrência de atraso em entrega de artefato, anteriormente penalizada com advertência, conforme item 15.3.a. 15.5. Poderá ser aplicada a penalidade de multa no valor de 5% (cinco por cento), calculado sobre o valor da OF, no caso de apuração de índice erros superior a 0,3 erros por PF. 15.6. Poderá ser aplicada a penalidade de multa no valor de 5% (cinco por cento), calculado sobre o valor da OF, no caso da apuração de taxa de recusa superior a 5% do total de artefatos documentais previstos na OF. 15.7. A penalidade de multa no valor de 0,5% (meio por cento) ao dia, calculado sobre o valor estimado da OF, limitada a 10% (dez por cento) do valor estimado da OF, poderá ser aplicada após a primeira ocorrência de atraso no prazo acordado para correção de erro em OF entregue, anteriormente penalizada com advertência, conforme 15.3.b. 15.8. As penalidades previstas são independentes entre si e poderão ser aplicadas de forma isolada ou conjunta, desde que não ultrapassem a 30% (trinta por cento) do valor total estimado da OF. 15.9. Caso não haja parcela pendente de pagamento por parte do BB, o recolhimento do valor de multas eventualmente aplicadas, dar-se-á através de pagamento (depósito bancário) em conta a ser definida pelo BB, no prazo de 05 (cinco) dias corridos, a contar da data da notificação, podendo o BB, para tanto, descontar das faturas por ocasião do seu pagamento, ou cobrá-las judicialmente se julgar conveniente, ainda que inexista relação de causa e efeito entre o valor faturado e o fato gerador da multa. As orientações (Banco, Conta Corrente, Agência, etc para recolhimento) serão informadas pelo BB.
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil ­ Diretoria de Tecnologia Fábrica de Projetos - Projeto Básico Anexo C ­ Proposta Técnica / Planilha de Avaliação
+
+AO Banco do Brasil S.A. Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos Prezados Senhores: A presente proposta é baseada nas especificações, condições e prazos estabelecidos na licitação n.º ___________, os quais comprometemo-nos a cumprir integralmente. Ela possui todas as folhas numeradas seqüencialmente pelo Banco do Brasil S.A. - BB, no padrão 01/___ até ___/___. Os documentos anexados que completam a presente proposta também estão numerados seqüencialmente, de 01/____ até ____/____. Concordamos com todas as condições estabelecidas no Edital e respectivos anexos e, ainda, declaramos que esta proposta tem validade de 60 (sessenta) dias, contados da data de abertura da mesma. A Proposta Técnica/Planilha de Avaliação ora apresentada, guarda rigorosa conformidade com as seguintes regras: 1 Assinalamos, a seguir, o atendimento de cada atributo técnico constante desta Proposta Técnica/Planilha de Avaliação indicando, na coluna "Página da Comprovação", a página de nossa proposta no formato "____/____" onde nossa empresa está comprovando o atendimento de cada atributo técnico assinalado, mediante a apresentação de documentos. Na coluna "Forma da Comprovação" está especificada a documentação pela qual está sendo comprovado o atendimento de cada subfator conforme segue:
+
+1.1
+
+A­
+
+política de segurança documentada, considerando no mínimo, os aspectos abaixo, com as respectivas Evidências Objetivas de implantação (documento de instituição da prática). · Controle de acesso lógico ­ gestão do sistema de controle de acesso
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+contemplando os processos de autorização e de autenticação. A autenticação pode ser feita por meio de senhas, controles biométricos ou certificado digital. No caso de uso de senhas, os seguintes pontos devem ser considerados - geração, distribuição, comprimento, restrição de uso de senhas antigas e tempo de vida. · · · · Combate a códigos maliciosos (vírus, Worms e Cavalo de Tróia); Gestão de configuração ­ controle de versões de programas; Processo de aplicação de correções (patches) no seu ambiente visando mantê-lo protegido contra as vulnerabilidades identificadas Procedimentos de backup e recuperação (periodicidade, prazo de retenção, local e forma de armazenamento, teste para cópias e procedimentos); Contingência (planos definidos e testados), e Segurança física ­ controle de acesso ao ambiente, entrada/saída de mídias e equipamentos.
+
+· ·
+
+Obs.(1) os documentos que não puderem ser apresentados por motivos de sigilo, deverão ser apresentados, em síntese, com indicação dos requisitos exigidos e serão verificados, se necessário, por meio de diligência. (2) O documento de instituição da prática, a qualquer título ou padrão adotado pelas proponentes, deve conter, no mínimo, nome do processo, público alvo e data de implantação B­ cópia dos processos de desenvolvimento e manutenção de sistemas informatizados. Obs: (1) no caso de comprovação da utilização da técnica de Casos de Uso para o levantamento de requisitos, deve-se incluir os templates que evidenciem sua adoção pelo proponente além de cópia do documento que instituiu a prática na organização. (2) caso a proponente apresente avaliação CMM ou CMMI a partir do nível 3, inclusive, ou resultado de avaliação MPS/BR a partir do nível c, inclusive, não precisará apresentar a cópia dos processos citados em B nem os documentos citados na Obs (1) acima. C­ cópia do resultado de avaliação ou documento equivalente emitido por parceiro do SEI, no caso de avaliações CMM ou CMMI, ou emitido pela SOFTEX ou parceiro autorizado, no caso de certificação MPS/BR. Obs.: (1) Caso a proponente já tenha passado por avaliação e não tenha recebido o resultado oficial, poderá apresentar declaração informando
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+esta condição com a indicação do nível de maturidade alcançado, desde que emitida pela instituição que a avaliou. D­ E­ declaração do proponente, sujeita à diligência do BB para confirmação das informações declaradas. atestado, fornecido por tomador do serviço, de que o proponente executou o serviço de forma satisfatória, em que constem o sistema operacional, o banco de dados, a linguagem de programação, o assunto do sistema, o método de desenvolvimento e o ambiente utilizado além do item específico a ser comprovado. cópia das duas últimas relações nominais de recolhimento de FGTS ou GFIP e dos comprovantes de pagamento, tomando por base a data da sessão de habilitação para este certame, publicada no DOU. cópia do Termo de Adesão, ou Aditivos, ao PNPE (§ Único do Art. 4º da Lei 10.748), informando os beneficiários contratados em conformidade com o Programa. currículo do profissional evidenciando o item específico a ser comprovado. Obs: (1) na comprovação da atuação como Gerente de Projeto, o currículo do profissional deve indicar a data de início na função e os projetos gerenciados citando os clientes correspondentes. Icópia de diploma ou certificado de conclusão de formação em nível superior, reconhecido pelo MEC ou por Instituições credenciadas por ele, em Tecnologia da Informação, Tecnólogo em Processamento de Dados, Ciência da Computação, Processamento de Dados, Engenharia de Software ou outros que evidenciem o domínio do conhecimento de desenvolvimento de sistemas. Será aceito, também, Diploma ou certificado de conclusão de formação em nível superior em qualquer área acompanhado de diploma ou Certificado, em nível de especialização ou pós-graduação, na área de desenvolvimento de sistemas, reconhecido pelo MEC. cópia do diploma ou certificado de conclusão de pós-graduação strictu sensu (mestrado ou doutorado) emitido por instituição reconhecida pelo MEC nas áreas de gestão de projetos, engenharia de software, qualidade de software ou planejamento e gestão de sistemas de informação. cópia do certificado emitido pelo Project Management Institute, que comprove a avaliação e aprovação, por meio de prova específica, do gerente. Não serão aceitos, para efeito de comprovação do subfator, certificados que não estiverem no prazo de validade. cópia do certificado a que se refere o subfator a ser comprovado. relatório de inspeção de código recente (emitido até 1 ano antes da data
+
+F­
+
+G-
+
+H­
+
+J-
+
+K-
+
+L­ M-
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+de abertura deste edital), baseado em modelo de ameaças. No mínimo as seguintes categorias de ameaças devem ser consideradas no processo de inspeção: falsificação de identidade; modificação não autorizada dos dados; repúdio; apresentação não autorizada de informações; elevação de privilégios e recusa de serviços. Caso o código não esteja vulnerável a uma destas categorias, deve ser explicitado no relatório. O relatório deve conter no mínimo, os itens: ameaça; categoria de ameaça; técnica adotada para tratar a ameaça. No caso de processo de inspeção de código realizado internamente, a empresa deve apresentar adicionalmente o relatório da auditoria realizado por instituição externa. 2 Esta Proposta Técnica/Planilha de Avaliação está sendo apresentada em estrita conformidade com as exigências do edital. Desde já, concordamos com a desclassificação desta proposta, por desconformidade, caso seja verificada qualquer alteração ou exclusão comparativamente ao texto da planilha de avaliação original. Concordamos com a regra de que o não preenchimento, nesta Proposta Técnica/Planilha de Avaliação, de qualquer atributo técnico opcional constante da mesma, implicará a desconsideração dos pontos correspondentes. Caso venha a ser constatado o não atendimento de atributos técnicos exigidos nesta Proposta Técnica/Planilha de Avaliação, por ocasião de sua conferência, pela Comissão de Licitação, concordamos com a desconsideração de pontos para os atributos técnicos opcionais e com a desclassificação para os atributos técnicos obrigatórios. Declaramos estar cientes de que a constatação da prática de atos ilícitos no preenchimento desta Proposta Técnica/Planilha de Avaliação sujeitarnos-á às sanções previstas no Edital, em especial às relativas a suspensão do direito de licitar com o BB e a declaração de inidoneidade. Relativamente à Planilha de Avaliação, a seguir descrita, declaramos, também, estar cientes de que a pontuação constante da mesma é estabelecida da seguinte forma: O atendimento a todos os requisitos técnicos obrigatórios, corresponde a 400 (quatrocentos) pontos. Para cada subfator de julgamento dos requisitos opcionais foi definida uma pontuação máxima ("PESO X NOTA") que será transformada em pontos para os atributos técnicos opcionais de acordo com a regra definida para pontuação do subfator e com o que estiver devidamente assinalado e comprovado. A pontuação técnica desta proposta corresponderá ao somatório dos pontos obrigatórios (400 pontos, conforme item 6.1) com o total dos
+
+3
+
+4
+
+5
+
+6
+
+6.1 6.2
+
+6.3
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+pontos obtidos com a comprovação dos subfatores comprovados (máximo de 600 pontos, conforme item 6.2). 7
+
+opcionais
+
+Somos conhecedores de que a Nota de Avaliação final desta Proposta Técnica/Planilha de Avaliação será calculada em conformidade com o disposto no Decreto Nº 1.070, de 02/03/94, utilizando-se 6 como Fator de Ponderação Técnico. Os fatores a seguir eleitos foram considerados pelo BB como suficientes para avaliar tecnicamente a contratação que se pretende.
+
+8
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+FATOR 1 - SUPORTE DE SERVIÇOS
+Pontuação Máxima (pesoXnota) Comprovação Pontos Obrigatório
+
+Sub fator
+
+Descrição
+
+Opcional
+
+Forma
+
+Página
+
+O proponente será pontuado em função da quantidade de PROGRAMADORES, com pelo menos 12 meses de experiência na função, que se compromete a utilizar na prestação dos serviços solicitados. 1.1 Considera-se PROGRAMADOR o profissional responsável por fazer a codificação das unidades de implementação, considerando padrões da organização, modelo de arquitetura definido, melhores práticas e as características da linguagem e da tecnologia escolhidas para a implementação. O proponente se compromete a utilizar programadores com experiência de no mínimo 12 meses na prestação dos serviços solicitados. Serão atribuídos 10 pontos a cada 20 programadores com experiência de no mínimo 12 meses que o proponente se comprometer a utilizar na prestação dos serviços.
+
+1.1.1
+
+X
+
+D
+
+1.1.2
+
+X
+
+30
+
+D, F, H
+
+O proponente será pontuado em função da quantidade de ANALISTAS, com pelo menos 12 meses de experiência na função, que se compromete a utilizar na prestação dos serviços solicitados. 1.2 Considera-se ANALISTA o profissional com formação superior em área relacionada à Tecnologia da Informação ou com formação superior em qualquer área com pós-graduação ou especialização em área relacionada à Tecnologia da Informação, responsável pelo desenvolvimento dos modelos estáticos e dinâmicos de análise, especificando, no nível lógico, como um conjunto de requisitos de software será realizado em termos de elementos de análise. O proponente se compromete a utilizar analistas com experiência de no mínimo 12 meses na prestação dos serviços solicitados. Serão atribuídos 10 pontos a cada 10 analistas com experiência de no mínimo 12 meses que o proponente se comprometer a utilizar na prestação dos serviços. X D
+
+1.2.1
+
+1.2.2
+
+X
+
+30
+
+D, F, H, I
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+Pontuação Máxima (pesoXnota) Comprovação Pontos Obrigatório
+
+Sub fator
+
+Descrição
+
+Opcional
+
+Forma
+
+Página
+
+O proponente será pontuado em função da quantidade de GERENTES DE PROJETO DE SOFTWARE, com experiência de no mínimo 6 meses na função, que se compromete a utilizar para o gerenciamento dos serviços solicitados. Considera-se GERENTE DE PROJETO DE SOFTWARE o profissional com formação superior em área relacionada à Tecnologia da Informação ou com formação superior em qualquer área com pós-graduação ou especialização em área relacionada à Tecnologia da Informação, responsável pela condução de projetos de desenvolvimento de software incluindo a coordenação dos analistas e programadores responsáveis pelo desenvolvimento dos projetos. Assinalar apenas um dos itens opcionais abaixo. 1.3.1 O proponente se compromete a utilizar um ou mais Gerentes de Projeto de Software no gerenciamento dos serviços solicitados. O proponente se compromete a utilizar 1 Gerente de Projeto de Software a cada 10 analistas e/ou programadores utilizados na prestação dos serviços solicitados. O proponente se compromete a utilizar um Gerente de Projeto de Software a cada 5 analistas e/ou programadores utilizados na prestação dos serviços solicitados. X D
+
+1.3
+
+1.3.2
+
+X
+
+15
+
+D, F, H, I
+
+1.3.3
+
+X
+
+30
+
+D, F, H, I
+
+1.4
+
+O proponente será pontuado em função da quantidade de profissionais contratados através do Programa Nacional de Estímulo ao Primeiro Emprego-PNPE, nos termos da Lei 10.748/2003, de 22/10/2003. O proponente comprovou possuir um ou mais profissionais contratados através do PNPE. X 10 F, G
+
+1.4.1 1.5
+
+O proponente será pontuado em função da disponibilidade de atendimento em horário comercial ­ de 08:00 às 18:00 horas, de segunda a sexta-feira, excluídos os feriados. O proponente declarou que prestará atendimento no horário comercial ­ de 08:00 às 18:00 horas, de segunda a sexta-feira, excluídos os feriados.
+
+1.5.1
+
+X
+
+D
+
+1.6
+
+O proponente será pontuado em função do tempo de garantia sobre os serviços efetuados que se compromete a prestar a partir da data do aceite do serviço. Assinalar apenas um dos itens opcionais abaixo.
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+Pontuação Máxima (pesoXnota) Comprovação Pontos Obrigatório
+
+Sub fator
+
+Descrição
+
+Opcional
+
+Forma
+
+Página
+
+1.6.1
+
+O proponente se compromete a prestar a garantia mínima de 90 dias sobre os serviços efetuados. O proponente se compromete a prestar 180 dias de garantia sobre os serviços efetuados. O proponente se compromete a prestar 360 dias de garantia sobre os serviços efetuados. TOTAL DE PONTOS DO FATOR:
+
+X
+
+D
+
+1.6.2 1.6.3
+
+X X
+
+15 30 130
+
+D D
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+FATOR 2 : QUALIDADE
+(peso X nota)
+
+Comprovação Pontos
+
+Obrigatório
+
+Sub fator
+
+Descrição
+
+Pontuação Máxima
+
+Opcional
+
+Forma
+
+Página
+
+2.1
+
+O proponente comprovou que possui qualificação em desenvolvimento e manutenção de sistemas informatizados. O proponente apresentou seu processo de desenvolvimento e manutenção de sistemas informatizados. O proponente comprovou a obtenção de nível de maturidade CMM ou CMMI no mínimo igual a 3, inclusive ou MPS/BR no mínimo igual a C, inclusive, nos 36 meses anteriores ao mês de abertura do certame. Em caso de consórcios, pelo menos a metade das empresas consorciadas devem apresentar nível de maturidade compatível com os citados acima. O proponente comprovou possuir alguma das seguintes certificações de qualidade, dentro do prazo de validade: ISO/IEC 12207, ISO/IEC 15504, eSCM-SP, NBR 9001-2000. Em caso de consórcios, pelo menos a metade das empresas consorciadas devem apresentar certificação compatível com as citadas acima. X B
+
+2.1.1
+
+2.1.2
+
+X
+
+30
+
+C
+
+2.1.3
+
+X
+
+20
+
+L
+
+2.2
+
+O proponente será pontuado em função dos procedimentos de segurança adotados. O proponente se compromete a adotar controles de segurança em seu ambiente de desenvolvimento utilizado para prestação dos serviços. O proponente se compromete a realizar inspeção do código desenvolvido por meio de instituição externa ou a utilizar processo interno de inspeção de código auditado por instituição externa no código desenvolvido.
+
+2.2.1
+
+X
+
+A, D
+
+2.2.2
+
+X
+
+20
+
+D, M
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+(peso X nota)
+
+Comprovação Pontos
+
+Obrigatório
+
+Sub fator
+
+Descrição
+
+Pontuação Máxima
+
+Opcional
+
+Forma
+
+Página
+
+O proponente será pontuado em função da disponibilidade para atuação nos serviços prestados de profissionais possuidores de um dos seguintes certificados: 2.3 2.3.1 CISSP (Certified Information Systems Security Professional) emitido pela ISC (International Information Systems Security Certification Consortium) CISM (Certified Information Systems Manager) emitido pela ISACA Auditor Líder BS 7799 X D, L
+
+O proponente se compromete a utilizar na prestação dos serviços um ou mais profissionais certificados. O proponente se compromete a utilizar na prestação dos serviços mais de um profissional certificado
+
+2.3.2
+
+X
+
+20
+
+D, L
+
+O proponente será pontuado em função da qualificação dos Gerentes de Projeto de Software que se compromete a utilizar na prestação dos serviços. Será Considerado prova de qualificação gerencial a certificação fornecida pelo Project Management Institute (PMI) ou curso de pós-graduação(strictu sensu), nas áreas de gestão de projetos, engenharia de software, qualidade de software ou planejamento e gestão de sistemas de informação, em nível de mestrado ou doutorado, por meio de diploma ou certificado de conclusão de cursos reconhecidos pelo MEC ou pela CAPES. Cursos de pós-graduação (strictu sensu) em outras áreas, ou cursos de pósgraduação (strictu sensu) nas áreas mencionadas acima que não tenham fornecido titulação não serão considerados para pontuação. O proponente se compromete a utilizar na prestação de serviços um ou mais Gerentes de Projeto com certificação PMP. O Proponente se compromete a utilizar na prestação de serviços Gerentes de Projeto com certificação PMP. 2.4.2 O proponente receberá 10 pontos a cada 5 Gerentes de Projeto possuidores de certificação, limitado a 20 pontos. X 20 D, K
+
+2.4
+
+2.4.1
+
+X
+
+D, K
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+(peso X nota)
+
+Comprovação Pontos
+
+Obrigatório
+
+Sub fator
+
+Descrição
+
+Pontuação Máxima
+
+Opcional
+
+Forma
+
+Página
+
+2.4.3
+
+O proponente se compromete a utilizar na prestação dos serviços um ou mais Gerentes de Projeto com diploma ou certificado strictu sensu, nível de mestrado ou doutorado, nas áreas gestão de projeto, engenharia de software; qualidade de software ou planejamento e gestão de sistemas de informação. TOTAL DE PONTOS DO FATOR:
+
+X
+
+10
+
+D, J
+
+120
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+FATOR 3 : COMPATIBILIDADE
+Comprovação
+(peso Xnota)
+
+Obrigatório
+
+Pontuação Máxima
+
+Opcional
+
+Sub fator
+
+Descrição
+
+Pontos
+
+Forma
+
+Página
+
+3.1
+
+O proponente será pontuado em função da experiência na prestação de serviços de desenvolvimento e manutenção de sistemas informatizados utilizando a métrica de APF (Análise de Pontos de Função) de acordo com o IFPUG (International Function Point Users Group) . Assinalar apenas um dos itens opcionais abaixo. O proponente comprovou experiência na prestação de serviços de desenvolvimento e manutenção de sistemas informatizados utilizando a métrica de APF. O proponente comprovou experiência de até 20.000 pontos de função em prestação de serviços de desenvolvimento e manutenção de sistemas informatizados utilizando a métrica de APF. O proponente comprovou experiência de acima de 20.000 pontos de função em prestação de serviços de desenvolvimento e manutenção de sistemas de informações utilizando a métrica de Ponto por Função.
+
+3.1.1
+
+X
+
+E
+
+3.1.2
+
+X
+
+15
+
+E
+
+3.1.3
+
+X
+
+30
+
+E
+
+3.2
+
+O proponente será pontuado em função da experiência na prestação de serviços de especificação de requisitos segundo a técnica de Casos de Uso. O proponente comprovou experiência na prestação de serviços de especificação de requisitos segundo a técnica de Casos de Uso
+
+3.2.1
+
+X
+
+10
+
+B, D
+
+3.3
+
+O proponente será pontuado em função da experiência na prestação de serviços técnicos de desenvolvimento e manutenção de sistemas, utilizando diferentes Sistemas Operacionais. O proponente comprovou experiência em pelo menos um dos sistemas operacionais utilizados pelo BB (OS/390 ou ZOS ou Solaris ou LINUX).
+
+3.3.1
+
+X
+
+E
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+Comprovação
+(peso Xnota)
+
+Obrigatório
+
+Pontuação Máxima
+
+Opcional
+
+Sub fator
+
+Descrição
+
+Pontos
+
+Forma
+
+Página
+
+3.3.2
+
+O proponente se compromete a utilizar na prestação dos serviços analistas/ programadores com experiência de no mínimo 12 meses em desenvolvimento utilizando o Sistema Operacional OS/390 ou superior (ZOS). O proponente se compromete a utilizar na prestação dos serviços analistas/ programadores com experiência de no mínimo 12 meses em desenvolvimento utilizando os Sistemas Operacionais Solaris ou LINUX.
+
+X
+
+20
+
+D, F, H
+
+3.3.3
+
+X
+
+10
+
+D, F, H
+
+3.4
+
+O proponente será pontuado em função da experiência na prestação de serviços técnicos de análise, projeto e construção em atividades de desenvolvimento e manutenção, utilizando diferentes Linguagens de Programação. O proponente comprovou experiência em pelo menos uma linguagem utilizada pelo BB (Natural ou Cobol ou Java ou JAVA SCRIPT).
+
+3.4.1
+
+X
+
+E
+
+3.4.2
+
+O proponente será pontuado em função da experiência na prestação de serviços técnicos de análise, projeto e construção em atividades de desenvolvimento e manutenção, utilizando a linguagem de programação Natural.
+
+O proponente apresentou 1 certificado (Software AG Partner ou Software AG 3.4.2.1 Gold Partner ou Software AG Platinum Partner). O proponente se compromete a alocar analistas/ programadores com no mínimo 12 meses de experiência na linguagem 3.4.2.2 Natural na prestação dos serviços. O proponente receberá 1 ponto a cada analista/programador, limitado a 30 pontos. 3.4.3
+
+X
+
+5
+
+L
+
+X
+
+30
+
+D, E, F, H
+
+O proponente será pontuado em função da experiência na prestação de serviços técnicos de análise, projeto e construção em atividades de desenvolvimento e manutenção, utilizando a Linguagem de Programação Cobol.
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+Comprovação
+(peso Xnota)
+
+Obrigatório
+
+Pontuação Máxima
+
+Opcional
+
+Sub fator
+
+Descrição
+
+Pontos
+
+Forma
+
+Página
+
+O proponente se compromete a utilizar analistas/ programadores com no mínimo 12 meses de experiência na linguagem 3.4.3.1 Cobol na prestação dos serviços. O proponente receberá 1 ponto a cada analista/programador, limitado a 30 pontos.
+3.4.4
+
+X
+
+30
+
+D, E, F,H
+
+O proponente será pontuado em função da capacitação e/ou da experiência na prestação de serviços técnicos de análise, projeto e construção em atividades de desenvolvimento e manutenção, utilizando a Linguagem de Programação Java ou Java Script.
+
+O proponente se compromete a utilizar na prestação dos serviços 1 ou mais programadores/analistas possuidores de uma das seguintes certificações: Sun Certified Programmer for the Java 2 Platform ou Sun Certified Developer for the 3.4.4.1 Java 2 Platform ou Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition (J2EE) ou Sun Certified Business Component Developer for the Java 2 Platform, Enterprise Edition ou Sun Certified Enterprise Architect for the Java 2 Platform, Enterprise Edition. O proponente se compromete a utilizar programadores/analistas com no mínimo 12 meses de experiência na experiência na linguagem Java na prestação dos serviços.
+
+X
+
+5
+
+D, F, L
+
+3.4.4.2
+
+X
+
+10
+
+D, E, F, H
+
+O proponente se compromete a utilizar programadores/analistas com no mínimo 3.4.4.3 12 meses de experiência na linguagem Java Script na prestação dos serviços.
+
+X
+
+10
+
+D, E, F, H
+
+3.5
+
+O proponente será pontuado em função da experiência na prestação de serviços técnicos de análise, projeto e construção em atividades de desenvolvimento e manutenção, utilizando os Bancos de Dados ­ DB2, ADABAS e Oracle - utilizados pela contratante. O proponente comprovou experiência nos bancos de dados utilizados pela contratante (Adabas, DB2 e Oracle) X E
+
+3.5.1
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+Comprovação
+(peso Xnota)
+
+Obrigatório
+
+Pontuação Máxima
+
+Opcional
+
+Sub fator
+
+Descrição
+
+Pontos
+
+Forma
+
+Página
+
+3.5.2
+
+O proponente se compromete a utilizar analistas/programadores com no mínimo 12 meses de experiência em banco de dados ADABAS. O proponente se compromete a utilizar analistas/programadores com no mínimo 12 meses de experiência em banco de dados DB2. O proponente receberá 1 ponto a cada analista/programador, limitado a 20 pontos. O proponente se compromete a utilizar analistas/programadores com no mínimo 12 meses de experiência em banco de dados Oracle. O proponente receberá 1 ponto a cada analista/programador, limitado a 10 pontos. O proponente se compromete a utilizar na prestação dos serviços 1 ou mais analistas/programadores que possuam alguma dentre as seguintes certifcações: IBM Certified Solutions Expert - DB2 UDB V7.1 Database Administration for OS/390 ou IBM Certified Solutions Expert - DB2 UDB V7.1 Family Application Development ou IBM Certified Database Associate ­ DB2 Universal Database V8.1 Family ou IBM Certified Application Developer ­ DB2 Universal Database V8.1 Family).
+
+X
+
+5
+
+D, E, F, H
+
+3.5.3
+
+X
+
+20
+
+D, E, F, H
+
+3.5.4
+
+X
+
+10
+
+D, E, F, H
+
+3.5.5
+
+X
+
+5
+
+E,F, L
+
+3.6
+
+O proponente será pontuado em função da experiência na prestação de serviços de análise, projeto e construção de sistemas informatizados utilizando diferentes abordagens de desenvolvimento de sistemas: Análise Estruturada e Orientação a Objetos O proponente comprovou experiência em 1 ou mais serviços que utilizaram Análise Estruturada ou Orientação a Objetos. O proponente comprovou ter desenvolvido sistemas utilizando análise estruturada que totalizaram mais de 2.000 pontos de função. X E
+
+3.6.1
+
+3.6.2
+
+X
+
+20
+
+E
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+Comprovação
+(peso Xnota)
+
+Obrigatório
+
+Pontuação Máxima
+
+Opcional
+
+Sub fator
+
+Descrição
+
+Pontos
+
+Forma
+
+Página
+
+3.6.3
+
+O proponente comprovou ter desenvolvido sistemas utilizando análise orientada a objetos que totalizaram mais de 2.000 pontos de função.
+
+X
+
+20
+
+E
+
+3.7
+
+O proponente será pontuado em função da experiência na prestação de serviços técnicos de análise, projeto e construção em atividades de desenvolvimento e manutenção os seguintes ambientes de desenvolvimento: JCL, TSO, Roscoe, Mainframe Express (MFE), ERWIN, WebSphere Studio Application Developer-WSAD ou Eclipse. O proponente comprovou experiência em pelo menos um dos seguintes ambientes de desenvolvimento: TSO ou ROSCOE ou Mainframe Express (MFE). O proponente se compromete a utilizar analistas/programadores com no mínimo 12 meses de experiência em JCL na prestação dos serviços. O proponente receberá 1 ponto a cada analista/programador, limitado a 10 pontos. O proponente se compromete a utilizar analistas/programadores com no mínimo 12 meses de experiência em ERWIN na prestação dos serviços. O proponente receberá 1 ponto a cada analista/programador, limitado a 5 pontos. O proponente se compromete a utilizar analistas/programadores com no mínimo 12 meses de experiência em TSO ou Roscoe ou Mainframe Express (MFE) na prestação dos serviços. O proponente receberá 1 ponto a cada analista/programador, limitado a 10 pontos.
+
+3.7.1
+
+X
+
+E
+
+3.7.2
+
+X
+
+10
+
+D, E, F, H
+
+3.7.3
+
+X
+
+5
+
+D, E, F, H
+
+3.7.4
+
+X
+
+10
+
+D, E, F, H
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+Comprovação
+(peso Xnota)
+
+Obrigatório
+
+Pontuação Máxima
+
+Opcional
+
+Sub fator
+
+Descrição
+
+Pontos
+
+Forma
+
+Página
+
+3.7.5
+
+O proponente se compromete a utilizar na prestação dos serviços programadores/ analistas com experiência em WebSphere Studio Application DeveloperWSAD e com uma dentre as seguintes certificações: IBM Certified Solution Developer Web Services with WebSphere Studio V5.1 ou IBM Certified Associate Developer WebSphere Studio, V5.0 ou IBM Certified Solution Developer WebSphere Studio, V5.0 ou IBM Certified Enterprise Developer WebSphere Studio, V5.0 ou IBM Certified Developer Associate IBM WebSphere Studio Family of Products, V4.0.x ou IBM Certified Specialist - IBM WebSphere Studio Application Developer for Windows, V4.0.3 ou IBM Certified Solution Developer IBM WebSphere Studio Application Developer for Windows, V 4.0.3). O proponente receberá 1 ponto a cada analista/programador, limitado a 5 pontos.
+
+X
+
+5
+
+D, E, F, H, L
+
+3.8
+
+O proponente será pontuado em função da experiência na prestação de serviços técnicos desenvolvimento e manutenção de sistemas informatizados para instituição financeira. Assinalar apenas um dos itens opcionais abaixo.
+
+3.8.1 3.8.2
+
+O proponente apresentou comprovação de experiência em 1 empresa. O proponente apresentou comprovação de experiência em mais de 1 empresa. TOTAL DE PONTOS DO FATOR
+
+X X
+
+10 20 290
+
+D D
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos FATOR 4 : PRAZO DE ENTREGA
+Comprovação Obrigatório
+(Peso X Nota
+
+Pontuação Máxima
+
+Opcional
+
+Sub fator
+
+Descrição
+
+Pontos
+
+Forma
+
+Página
+
+Atendimento ao Chamado Técnico do BB para manutenção corretiva. 4.1 Assinalar apenas um dos itens opcionais abaixo. 4.1.1 4.1.2 4.1.3 No máximo em até 24 horas após o chamado No máximo em até 12 horas após o chamado No máximo em até 6 horas após o chamado Dispor de infra-estrutura para início dos serviços. 4.2 Assinalar apenas um dos itens opcionais abaixo. 4.2.1 4.2.2 4.2.3 4.3 Em até 60 dias após a assinatura do X D contrato. Em até 45 dias após a assinatura do X 10 D contrato. Em até 30 dias após a assinatura do X 20 D contrato. Dispor de recursos-humanos para iniciar os serviços solicitados pela contratante. Assinalar apenas um dos itens opcionais abaixo. Dispor dos recursos-humanos imediatamente no caso de serviços de até 200 PF, em até 7 dias corridos no caso de X serviços de 200 até 500 PF e em até 15 dias corridos no caso de serviços de mais de 500 PF. Dispor dos recursos-humanos em até 3 X 20 D dias independente do tamanho do serviço. 60 TOTAL DE PONTOS DO FATOR X X X 10 20 D D D
+
+4.3.1
+
+4.3.2
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+Banco do Brasil S.A
+
+DITEC ­ Diretoria de Tecnologia Unidade Soluções Desenvolvimento de Aplicativos
+
+Os dados de identificação de nossa Empresa, os quais utilizaremos para faturamento, são os seguintes:
+NOME:
+
+ENDEREÇO:
+
+CEP:
+
+TELEFONE:
+
+FAC-SIMILE:
+
+CNPJ:
+
+INSCRIÇÃO ESTADUAL:
+
+E-MAIL:
+
+NOME COMPLETO E CARGO DA AUTORIDADE COMPETENTE PARA ASSINATURA DO INSTRUMENTO CONTRATUAL:
+
+______________________________ local e data ______________________________________ assinatura autorizada, devidamente identificada
+
+USDA ­ Unidade Soluções Desenvolvimento de Aplicativos
+
+

@@ -1,0 +1,1087 @@
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES SUBSECRETARIA GERAL DO SERVIÇO EXTERIOR DEPARTAMENTO DE ADMINISTRAÇÃO COORDENAÇÃO DE LICITAÇÕES
+
+PROCESSO ADMINISTRAT IVO Nº 09020.000001/2009-11
+
+LICITAÇÃO
+
+PREGÃO ELETRÔNICO Nº DCD 01 / 2009
+
+O presente Pregão tem por objeto a contratação de serviços técnicos especializados em Tecnologia da Informação, complementares às atividades do Departamento de Comunicações e Documentação do Ministério das Relações Exteriores - MRE, nas áreas de planejamento estratégico, banco de dados, desenvolvimento e manutenção de sistemas, observadas as especificações técnicas constantes do Termo de Referência consignadas no Anexo I deste Edital. DATA DE INCLUSÃO DA PROPOSTA: A PARTIR DA PUBLICAÇÃO DATA DE ABERTURA: 05 / 05 / 2009 ÀS 10H HORÁRIO DE BRASÍLIA LOCAL: WWW.COMPRASNET.GOV.BR BRASÍLIA, DF, 20 DE ABRIL DE 2009
+
+Página 1
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES SUBSECRETARIA GERAL DO SERVIÇO EXTERIOR DEPARTAMENTO DE ADMINISTRAÇÃO COORDENAÇÃO DE LICITAÇÕES
+
+SUMÁRIO DO EDITAL
+
+1. DO OBJETO................................................................................................................................ 3 2. DA PARTICIPAÇÃO ................................................................................................................... 4 3. DA REPRESENTAÇÃO E DO CREDENCIAMENTO ................................................................ 4 4. DA PROPOSTA DE PREÇOS.................................................................................................... 4 5. DO RECEBIMENTO E DA ABERTURA DAS PROPOSTAS .................................................... 5 6. DA FORMULAÇÃO DOS LANCES ............................................................................................ 6 7. DO JULGAMENTO E ACEITAÇÃO DAS PROPOSTAS ........................................................... 6 8. DA HABILITAÇÃO ...................................................................................................................... 8 9. DA IMPUGNAÇÃO DO ATO CONVOCATÓRIO ..................................................................... 13 10. DOS RECURSOS, ADJUDICAÇÃO E HOMOLOGAÇÃO DO PROCESSO ........................ 13 11. DA ASSINATURA DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS ............................... 14 12. DA VIGÊNCIA DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS ..................................... 14 13. DA REPACTUAÇÃO DE PREÇOS........................................................................................ 14 14. DO VALOR ESTIMADO E DOTAÇÃO ORÇAMENTÁRIA .................................................... 14 15. DO MODELO DE EXECUÇÃO E FORMA DE PAGAME NTO .............................................. 14 16. DAS PENALIDADES............................................................................................................... 15 17. DA GARANTIA........................................................................................................................ 16 18. DAS DISPOSIÇÕES GERAIS ................................................................................................ 17
+
+Página 2
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES SUBSECRETARIA GERAL DO SERVIÇO EXTERIOR DEPARTAMENTO DE ADMINISTRAÇÃO COORDENAÇÃO DE LICITAÇÕES
+
+EDITAL DO PREGÃO ELETRÔNICO Nº DCD 01 / 2009
+
+PROCESSO Nº09020.000001/2009-11 TIPO DE LICITAÇÃO: MENOR PREÇO GLOBAL DATA DE INCLUSÃO DAS PROPOSTAS: A PARTIR DA PUBLICAÇÃO DATA DE ABERTURA: 05 DE MAIO DE 2009 ÀS 10:00 LOCAL: WWW.COMPRASNET.GOV.BR HORÁRIO DE BRASÍLIA
+
+A União, por intermédio do Ministério das Relações Exteriores, mediante Pregoeiro designado pela Portaria MRE nº 53, de 24 de janeiro de 2009, publicada no Diário Oficial da União de 2 de fevereiro de 2009, torna público para conhecimento dos interessados que na data, horário e local acima indicados fará realizar licitação na modalidade de PREGÃO ELETRÔNICO, do tipo MENOR PREÇO GLOBAL, conforme descrito neste Edital e seus Anexos. O procedimento licitatório que dele resultar obedecerá integralmente a IN SLTI/MPOG nº 04, de 19/05/2008, publicada no D.O.U. de 20/05/2008; a IN MARE nº 05, de 21/07/1995, publicada no D.O.U. de 19/04/1996; a Lei nº 10.520, de 17/07/2002, publicada no D.O.U. de 18/07/2002; os Decretos: nº 5.450, de 31/05/2005, publicado no Diário Oficial da União d e 01/06/2005, nº 3.555, de 8/8/2000, publicado no D.O.U. de 9/8/2000, nº 3.693 de 20/12/2000, publicado no D.O.U. de 21/12/2000 e nº 3.784 de 06/04/2001, publicado no D.O.U. de 09/04/2001 e, no que couber, a Lei nº 8.666/1993. Pedidos de informação e esclarecimentos poderão ser enviados somente por escrito, dirigidos ao Pregoeiro Euclides Santa Cruz Oliveira Junior, até o terceiro dia útil anterior à data da sessão de abertura, exclusivamente pelo endereço de correio eletrônico pregoeiro-dcd@mre.gov.br. 1. DO OBJETO 1.1. Contratação de serviços técnicos especializados em Tecnologia da Informação, complementares às atividades do Departamento de Comunicações e Documentação ­ DCD do Ministério das Relações Exteriores ­ MRE, nas áreas de planejamento estratégico, banco de dados, desenvolvimento e manutenção de sistemas, de acordo com as especificações técnicas constantes do Termo de Referência, Anexo I deste Edital.
+
+Página 3
+
+PROCESSO Nº 09020.000001/2009-11
+
+2. DA PARTICIPAÇÃO 2.1. Poderão participar deste Pregão os interessados que atenderem a todas as exigências, inclusive quanto à documentação, constantes deste Edital e seus Anexos. 2.1.1. Os licitantes arcarão com todos os custos decorrentes da elaboração e apresentação das propostas. 2.2. Não será admitida nesta licitação a participação de empresas: 2.2.1. concordatárias ou em processo de falência, em recuperação judicial ou extrajudicial, sob concurso de credores, em dissolução ou em liquidação; 2.2.2. suspensas de licitar e impedidas de contratar com o MRE; 2.2.3. que tenham sido declaradas inidôneas para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade; 2.2.4. cujos objetos sociais não sejam pertinentes e compatíveis com o objeto deste Pregão; 2.2.5. que estejam reunidas em consórcio, sejam controladoras, coligadas ou subsidiárias entre si, qualquer que seja sua forma de constituição; 2.2.6. estrangeiras que não funcionem no País; 2.2.7. que tenham entre seus sócios servidor do Ministério das Relações Exteriores. 3. DA REPRESENTAÇÃO E DO CREDENCIAMENTO 3.1. O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico, obtida através do site www.comprasnet.gov.br (§ 1º, art. 3º, do Decreto nº 5.450). O credenciamento junto ao provedor do sistema implica a responsabilidade legal da licitante ou seu representante legal e a presunção de sua capacidade técnica para realizar as transações inerentes ao pregão eletrônico (§ 6º, art. 3º, do Decreto nº 5.450). O uso da senha de acesso pela licitante é de sua responsabilidade exclusiva, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou ao MRE responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros (§ 5º, art. 3º, do Decreto nº 5.450). As micro ou pequenas empresas deverão declarar sua condição em campo próprio do sistema, para que venham a se beneficiar das vantagens garantidas pela Lei Complementar nº 123, de 14/12/2006
+
+3.2.
+
+3.3.
+
+3.4.
+
+4. DA PROPOSTA DE PREÇOS 4.1. A licitante será responsável por todas as transações no sistema eletrônico efetuadas em seu nome, assumindo como firmes e verdadeiras suas propostas e lances (inciso III, art. 13, Decreto nº 5.450). Incumbirá ainda à licitante acompanhar as operações no sistema eletrônico durante a sessão pública do pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão (inciso IV, art. 13, Decreto nº 5.450).
+Página 4
+
+4.2.
+
+PROCESSO Nº 09020.000001/2009-11
+
+4.3.
+
+O acesso ao sistema eletrônico, pelo sítio www.comprasnet.gov.br, com vistas à participação neste pregão, dar-se-á por meio da digitação da senha privativa da licitante. O subseqüente encaminhamento da Proposta de Preços deverá ser efetuado no período compreendido entre a data de publicação do Edital (no sítio www.comprasnet.gov.br e no Diário Oficial da União) e a data de abertura da sessão pública mencionadas no preâmbulo deste Edital, horário de Brasília, exclusivamente por meio do sistema eletrônico. (art. 21 do Decreto nº 5.450). 4.4.1. A licitante poderá, durante este período, retirar ou substituir a proposta originalmente apresentada.
+
+4.4.
+
+4.5.
+
+Os esclarecimentos, avisos e impugnações referentes a este Pregão serão publicados, no período destinado à inserção das propostas, em campo próprio do sítio www.comprasnet.gov.br, acessível às licitantes devidamente cadastradas. Como requisito para participar do pregão, a licitante deverá manifestar, em campo próprio do sistema eletrônico, que cumpre plenamente os requisitos de habilitação e que sua proposta está em conformidade com as exigências do instrumento convocatório. 4.6.1. A declaração falsa, relativa ao cumprimento dos requisitos de habilitação previstas no § 3º, do art. 21, do Decreto nº 5.450/2005, sujeitará a licitante às sanções estabelecidas no art. 28, do Decreto nº 5.450 de 2005, e na legislação pertinente.
+
+4.6.
+
+4.7.
+
+A Proposta de Preços, inserida pela licitante em campo próprio destinado a este Pregão, no sítio www.comprasnet.gov.br, deverá conter a identificação do objeto, a quantidade ofertada, valor unitário e valor total, além de todas as suas especificações descritivas pertinentes, atendendo às especificações mínimas do Termo de Referência, Anexo I deste Edital. 4.7.1. Os valores apresentados na Proposta de Preços devem incluir todas as despesas necessárias à execução do objeto, de forma que a licitante que vier a ser contratada não poderá pleitear junto à Administração quaisquer acréscimos em função de custos não previstos. 4.7.2. A Proposta de Preços terá validade mínima de 60 (sessenta) dias.
+
+5. DO RECEBIMENTO E DA ABERTURA DAS PROPOSTAS 5.1. No dia e hora previstos no preâmbulo deste Edital e, em conformidade com o subitem 4.3, terá início a sessão pública do Pregão Eletrônico, com a divulgação das Propostas de Preços recebidas e de seus respectivos anexos. O acesso público à sessão dar-se-á por meio do sítio www.comprasnet.gov.br pela opção "acesso livre". O acesso das licitantes às propostas apresentadas na sessão pública, contendo a descrição do objeto, preços e eventuais anexos, dar-se-á por meio de sua chave de acesso e senha. Durante a primeira etapa da sessão pública, o Pregoeiro verificará as Propostas de Preços apresentadas, com as especificações dos serviços ofertados, desclassificando aquelas que não estejam em conformidade com o Edital. 5.4.1. A desclassificação da proposta será sempre fundamentada e registrada no sistema, com acompanhamento, em tempo real, por todos os participantes. 5.5. Apenas as propostas classificadas poderão participar da fase seguinte do processo licitatório, ou seja, a formulação de lances.
+Página 5
+
+5.2. 5.3.
+
+5.4.
+
+PROCESSO Nº 09020.000001/2009-11
+
+6. DA FORMULAÇÃO DOS LANCES 6.1. Aberta a etapa competitiva, as licitantes classificadas na etapa anterior do certame poderão encaminhar lances exclusivamente por meio do sistema eletrônico, sendo a licitante informada imediatamente da aceitação de seu lance e o respectivo horário de registro e valor. As licitantes poderão oferecer lances sucessivos, observando o horário fixado e as regras de aceitação dos mesmos. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado primeiro. A licitante somente poderá oferecer lance inferior ao último por ela ofertado e registrado pelo sistema, não sendo obrigada a oferecer lance obrigatoriamente inferior ao menor dentre todos registrados. Durante o transcurso da sessão pública as licitantes serão informadas, em tempo real, do valor do menor lance registrado, vedada a identificação do detentor do lance. A fase de oferta de lances da sessão pública será encerrada por decisão do Pregoeiro, que informará o momento e o prazo subseqüente ­ tempo de iminência ­ a partir do qual o sistema entrará em encerramento aleatório, com duração de até trinta minutos. Finda a fase de lances, as licitantes serão classificadas pelo sistema em ordem crescente, segundo o valor do último lance ofertado por cada uma. O último lance ofertado representará o valor atualizado da proposta originalmente apresentada pela licitante, vinculando a empresa a sua manutenção sob os aspectos legais. Para obter melhor preço após o fechamento da etapa de lances, o Pregoeiro poderá encaminhar contraproposta pelo sistema eletrônico diretamente à licitante que apresentou o lance de menor valor.
+
+6.2. 6.3. 6.4.
+
+6.5. 6.6.
+
+6.7. 6.8.
+
+6.9.
+
+7. DO JULGAMENTO E ACEITAÇÃO DAS PROPOST AS 7.1. A licitante classificada em primeiro lugar na fase de lances deverá enviar para o pregoeiro, no prazo de 24 (vinte e quatro) horas, contado do encerramento da fase de lances, fac-símile de sua Proposta de Preços, que deverá obrigatoriamente incluir a Planilha de Custos e Formação de Preço de Serviço para cada perfil profissional e a Planilha de Cálculo de Preço Global dos Serviços, conforme Anexos III e IV deste Edital, respectivamente. 7.1.1. Encerrada a fase de lances, o pregoeiro informará o número de telefone para o qual deverá ser enviado o fac-símile. 7.1.2. Os originais ou cópias autenticadas da Proposta de Preços deverão ser entregues ao pregoeiro no prazo de 5 (cinco) dias úteis, contado do encerramento da fase de lances. 7.2. O Pregoeiro examinará a Proposta de Preços classificada em primeiro lugar na fase de lances e decidirá sobre sua aceitação, utilizando como critério: a) a compatibilidade dos preços global e unitários em relação aos valores estimados (art. 40, inciso X, da lei 8.666/93). b) o atendimento às especificações do serviço licitado exigidas por este Edital e seus anexos, caso as informações prestadas na proposta original não tenham sido suficientes para avaliação definitiva no primeiro momento da sessão.
+
+Página 6
+
+PROCESSO Nº 09020.000001/2009-11
+
+7.3.
+
+7.4.
+
+7.5.
+
+7.6.
+
+Uma vez aceita sua proposta pelo pregoeiro, a licitante detentora da melhor oferta deverá comprovar as exigências de habilitação, por meio da entrega dos documentos de habilitação previstos no Item 8 deste Edital, no prazo de 5 (cinco) dias úteis contado do momento da aceitação. Os originais ou cópias autenticadas dos documentos mencionados nos itens 7.1 e 7.3 deverão ser entregues aos cuidados do pregoeiro, Sr. Euclides Santa Cruz Oliveira Junior, no seguinte endereço: Coordenação-Geral de Planejamento Administrativo CGPLAN Ministério das Relações Exteriores, Anexo II, 3º Andar Esplanada dos Ministérios - Bloco H 70170-900 Brasília, DF O Pregoeiro poderá solicitar, também, com vista à maior agilidade do processo, o envio das propostas de preços e dos documentos de habilitação das licitantes classificadas abaixo da primeira colocada, pela ordem. Se a proposta da licitante com o lance de menor valor não for aceitável, nos termos estipulados em 7.1, o Pregoeiro examinará a proposta subseqüente, verificando a sua aceitabilidade e procedendo à sua habilitação, na ordem de classificação estabelecida pela fase de lances, e assim sucessivamente, até a apuração de uma proposta que atenda a o Edital, sendo esta considerada a vencedora do certame, cabendo sempre negociar para a obtenção de melhor preço. Se houver necessidade de tempo para a confirmação dos documentos de habilitação apresentados, a sessão pública poderá ser suspensa e as licitantes serão avisadas da data e hora da reabertura da sessão para a continuidade dos trabalhos.
+
+7.7.
+
+7.8.
+
+No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do pregão, o sistema eletrônico poderá permanecer acessível às licitantes para a recepção dos lances, retornando o Pregoeiro, quando possível, a sua atuação no certame, dando prosseguimento à sessão, sem prejuízo dos atos realizados. 7.8.1. Quando a desconexão persistir por tempo superior a 10 (dez) minutos a sessão do pregão será suspensa e terá reinício somente após comunicação expressa aos participantes no endereço eletrônico utilizado para a divulgação. 7.9. As microempresas ou empresas de pequeno porte mais bem classificadas no intervalo de até 5% acima da melhor proposta ­ apenas no caso de esta não ter sido apresentada por micro ou pequena empresa ­ serão convocadas, na ordem de classificação, para, em até 5 (cinco) minutos, sob pena de preclusão, apresentar proposta de preço inferior àquela considerada vencedora do certame. A primeira micro ou pequena empresa que apresentar proposta nesse sentido passará ao primeiro lugar no rol de classificação da fase de lances. 7.10. No caso de equivalência de valores entre duas ou mais microempresas e empresas de pequeno porte que se encontrem no intervalo citado no subitem 7.9, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta (art. 45, inciso III, da Lei Complementar nº 123/06). 7.10.1. Na hipótese de não haver adjudicação a micro ou pequena empresa, nos termos previstos neste subitem, o objeto será adjudicado em favor da proposta originalmente classificada em primeiro lugar, se cumpridas as condições de aceitação e habilitação (art. 45, §1º, da Lei Complementar nº 123/06). 7.11. No julgamento da habilitação e das propostas, o Pregoeiro poderá sanar erros ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de habilitação e classificação.
+
+Página 7
+
+PROCESSO Nº 09020.000001/2009-11
+
+7.12. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e as licitantes, encerrada a fase de lances. 8. DA HABILITAÇÃO 8.1. Os documentos comprobatórios de habilitação mencionados no Item 7.3 compreendem: 8.1.1. Quanto à Habilitação Jurídica: a) registro comercial, no caso de empresa individual; b) ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, na Junta Comercial, em se tratando de sociedades comerciais; c) inscrição do ato constitutivo, devidamente registrado, acompanhado de prova da diretoria em exercício, para as sociedades civis e demais entidades; d) decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, ou publicado no Diário Oficial da União, quando a atividade assim o exigir; 8.1.2. Quanto à Regularidade Fiscal: a) prova de inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ); b) prova de inscrição no Cadastro de contribuintes estadual ou municipal, se houver, relativa ao domicílio ou sede do licitante, pertinente ao seu ramo de atividade, de acordo com o disposto no inciso II do art. 29 da Lei 8.666/93; c) prova de regularidade com a Fazenda Nacional (certidão conjunta da Procuradoria Geral da Fazenda Nacional e Secretaria da Receita Federal), referente aos tributos federais e à Dívida Ativa da União; d) certidão de regularidade de débito para com o Sistema de Seguridade Social por meio da CND - Certidão Negativa de Débito / INSS; e) certidão de regularidade de débito para com o Fundo de Garantia por Tempo de Serviço - FGTS mediante a apresentação do CRF - Certificado de Regularidade do FGTS / CEF; 8.1.2.1. As certidões mencionadas no item 8.1.2. terão sua validade comprovada on-line no momento da habilitação.
+
+8.1.3. Quanto à Qualificação Econômico-Financeira: a) certidão negativa de falência, concordata, recuperação judicial e/ou extrajudicial, expedida pelo distribuidor da sede da pessoa jurídica, ou de execução patrimonial, expedida no domicílio da pessoa física, nos termos do inciso II do art. 31 da Lei nº 8.666/93; b) balanço patrimonial e demonstração contábil do último exercício social, devidamente assinados por contabilista registrado no Conselho Regional de Contabilidade pertinente e registrados na Junta Comercial competente, que comprovem a boa situação financeira da empresa, vedada a substituição por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais quando encerrado há mais de 3 (três) meses da data de apresentação da proposta. 8.1.3.1. A boa situação financeira das licitantes será aferida com base nos índices de Liquidez Geral (LG), Liquidez Corrente (LC) e Solvência Geral (SG), maiores que 1 (um), resultantes da aplicação das fórmulas abaixo, com os valores extraídos de seu
+Página 8
+
+PROCESSO Nº 09020.000001/2009-11
+
+balanço patrimonial ou apurados mediante consulta "on line" no caso de empresas inscritas no SICAF: Ativo Circulante + Realizável a longo prazo Passivo Circulante + Exigível a longo prazo Ativo Circulante Passivo Circulante Ativo Total Passivo Exigível Total
+
+LG =
+
+>1
+
+LC =
+
+>1
+
+SG =
+
+>1
+
+8.1.3.2.
+
+A licitante, cadastrada ou não no SICAF, que apresentar índice econômico igual ou menor que 1 (um) em qualquer dos índices de Liquidez Geral, Solvência Geral e Liquidez Corrente, deverá comprovar por meio de balanço patrimonial, que possui capital social ou patrimônio líquido equivalente a 10% (dez por cento) do valor cotado em sua Proposta de Preços. A licitante, cadastrada no SICAF, cujos índices econômicofinanceiros não constem do respectivo cadastro, deverá comprová-los por intermédio da apresentação do Balanço Patrimonial, nas condições previstas no subitem 8.1.3, alínea "b)". Considerando-se a natureza do serviço, os padrões de excelência que se deseja alcançar e os resultados esperados, é significativo que as empresas candidatas demonstrem condições, em proporção razoável, de experiência comprovada na prestação de serviços compatíveis em características, quantidades e prazos com o objeto desta licitação. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na execução de 3.000 (três mil) pontos de função/ano em modalidade de fábrica de software, correspondentes a aproximadamente 60% da demanda anual prevista para fins de contratação, nas seguintes áreas: a) Desenvolvimento de sistemas; b) Manutenção evolutiva de sistemas; c) Manutenção corretiva de sistemas; d) Manutenção adaptativa de sistemas; e) Manutenção perfectiva de sistemas; f) Documentação de sistemas; g) Sustentação de sistemas. 8.1.4.2.1. O total dos pontos de função executados, para efeito de comprovação da qualificação técnica, será obtido pelo somatório, em qualquer proporção de pontos de função/ano, das experiências devidamente comprovadas em cada área relacionada anteriormente.
+Página 9
+
+8.1.3.3.
+
+8.1.4. Quanto à Qualificação Técnica: 8.1.4.1.
+
+8.1.4.2.
+
+PROCESSO Nº 09020.000001/2009-11
+
+8.1.4.2.2. Será permitido o cômputo de pontos de função em contratos/clientes distintos, desde que executados num mesmo período de 12 (doze) meses. 8.1.4.3. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na execução de serviços de 73.500 (setenta e três mil e quinhentas) horas trabalhadas/ano, correspondentes a aproximadamente 60% da demanda anual prevista para fins de contratação, nas seguintes áreas: a) Suporte a Planejamento Estratégico; b) Administração de Banco de Dados; c) Desenvolvimento e Manutenção de Sistemas. 8.1.4.3.1. O total das horas trabalhadas executadas, para efeito de comprovação da qualificação técnica, será obtido pelo somatório, em qualquer proporção de horas trabalhadas/ano, das experiências devidamente comprovadas em cada área relacionada anteriormente. 8.1.4.3.2. Será permitido o cômputo de horas de serviços em contratos/clientes distintos, desde que executados num mesmo período de 12 (doze) meses. 8.1.4.4. A licitante deverá apresentar um dos certificados a seguir: a) Certificado de qualidade CMM/CMMI nível 4, emitido pelo Carnegie Mellon Software Engineering Institute; b) Certificado de qualidade MPS-BR nível B, emitido pela Sociedade Brasileira para a Promoção da Exportação de Software ­ SOFTEX ou parceiro autorizado; c) Certificado de qualidade ISO/IEC 15504 (SPICE Software Process Improvement and Capability dEtermination) nível 4, emitido por entidade reconhecida pelo INMETRO. 8.1.4.5. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na execução de serviços de desenvolvimento e manutenção de sistemas utilizando a plataforma Zope/Plone/Python. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na execução de serviços de desenvolvimento e manutenção de sistemas utilizando Processo Unificado. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na elaboração e execução de Planos de Teste de Software unitário, de integração, funcional, de carga/desempenho e de regressão. As comprovações acima poderão ser apresentadas por meio de um único atestado de capacidade técnica. Os atestados de capacidade técnica deverão ser obrigatoriamente emitidos por pessoa jurídica de direito público ou privado, contendo nome, cargo e número de telefone institucional para contato do emitente. Adicionalmente, deverão informar os dados do contrato de referência, a saber: número, período de vigência, contratante e local da prestação dos serviços. Serão considerados
+Página 10
+
+8.1.4.6.
+
+8.1.4.7.
+
+8.1.4.8. 8.1.4.9.
+
+PROCESSO Nº 09020.000001/2009-11
+
+para avaliação apenas os atestados acompanhados de cópias dos respectivos contratos e aditivos. 8.1.4.10. 8.1.4.11. 8.1.4.12. Documentos em língua estrangeira deverão ser acompanhados por versão em português, produzida por tradutor juramentado. Todos os documentos apresentados devem ser originais ou cópias autenticadas e ficarão arquivados no processo. O MRE reserva-se o direito de fazer diligências para confirmar as informações prestadas nos atestados apresentados.
+
+8.1.5. Outras comprovações: 8.1.5.1. A licitante deverá apresentar declaração emitida pela Divisão de Informática do MRE, comprovando a realização de vistoria do ambiente físico, organizacional e tecnológico descrito no Anexo B do Termo de Referência, por meio de seu representante legal ou pessoa devidamente credenciada por Procuração Pública ou Procuração Particular com firma reconhecida, acompanhada de cópia autenticada da documentação que dá poderes ao outorgante para tal. a) A vistoria deverá ser realizada até 2 (dois) dias úteis anteriores à data da abertura das propostas, em dia e hora previamente marcados com o Sr Filipe Carneiro Guimarães, pelo telefone (61) 3411-9325, no horário de 9h às 12h e das 14h às 16h, de 2ª a 6ª feira. b) Será emitida declaração de vistoria, em duas vias de igual teor, assinadas pelas partes interessadas, cf. Anexo E do Termo de Referência ­ Declaração de Vistoria. 8.1.5.2. A licitante deverá apresentar, de acordo com o item 7, inciso IV, da Instrução Normativa MARE/Nº 05/1995, declaração quanto à superveniência de fato impeditivo de habilitação, na forma do § 2º do art. 32 da Lei nº 8.666/93, conforme o modelo abaixo, que se refere ao anexo IV da mencionada Instrução Normativa:
+DECLARAÇÃO
+
+(RAZÃO SOCIAL OU NOME DA LICITANTE), inscrita no CNPJ ou CPF sob o nº _____, sediada na (ENDEREÇO COMPLETO), declara, sob as penas da Lei, que: 1) até a presente data inexistem fatos impeditivos para a sua habilitação no presente processo licitatório, ciente da obrigatoriedade de declarar ocorrências posteriores; 2) está ciente das penalidades cabíveis, no caso de sobrevirem fatos impeditivos após o cadastramento e/ou habilitação parcial, seja perante órgão da Administração pública ou SICAF; 3) tem pleno conhecimento e aceitação do presente Edital, inclusive de seus anexos; 4) manterá as condições de habilitação durante todo o certame licitatório e, se adjudicatária, durante toda vigência contratual.
+(LOCAL E DATA) ____________________________ (NOME E ASSINATURA DO DECLARANTE) (NÚMERO DA CÉDULA DE IDENTIDADE DO DECLARANTE) Página 11
+
+PROCESSO Nº 09020.000001/2009-11
+
+8.1.5.3.
+
+A licitante deverá apresentar d eclaração de que não emprega menor, em cumprimento do disposto no inciso V do art. 27 da Lei nº 8.666, de 21 de junho de 1993, acrescido pela Lei nº 9.854, de 27 de outubro de 1999, referente ao disposto no inciso XXXIII, do art. 7º da Constituição Federal, conforme o modelo abaixo:
+DECLARAÇÃO
+
+Ref.: Pregão Eletrônico Nº DCD ___/2009 - MRE/DA/CPL (NOME DA EMPRESA), inscrita no CNPJ no _________, por intermédio de seu representante legal o(a) Sr(a) ________________________, portador(a) da carteira de identidade nº __________ e do CPF nº ___________, DECLARA, para fins do disposto no inciso V, do art. 27, da Lei nº 8.666, de 21 de junho de 1993, acrescido pela Lei nº 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega menor de dezesseis anos. ( ) Ressalva: emprega menor, a partir de quatorze anos, na condição de aprendiz.
+(LOCAL E DATA) _________________________ (ASSINATURA DO REPRESENTANTE LEGAL)
+
+Observação: em caso afirmativo, assinalar a ressalva acima. 8.2. Os documentos necessários à habilitação poderão ser apresentados no seu original, ou por cópia autenticada em Cartório de Notas ou por servidor público competente, ou publicação em órgão da imprensa oficial ou, ainda, por cópias acompanhadas dos originais para conferência pelo Pregoeiro. As licitantes regularmente cadastradas e HABILITADAS no Sistema de Cadastro Unificado de Fornecedores - SICAF, instituído pela Administração Federal, conforme Instrução Normativa nº 5, de 21/07/1995, ficarão dispensadas de apresentar os documentos de que tratam os subitens 8.1.1, 8.1.2 e 8.1.3. A empresa ou sociedade estrangeira em funcionamento no País deverá apresentar, também, o decreto de autorização ou o ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. Será assegurado à licitante cadastrada no SICAF, em situação regular, na data de abertura da sessão pública, porém com a documentação vencida no SICAF, o direito de apresentar as respectivas certidões de quitação nas condições e prazos estabelecidos nos subitens 7.3 e 7.4. A comprovação de regularidade fiscal das microempresas e empresas de pequeno porte somente será exigida como condição para a assinatura do contrato (art. 42, caput, da Lei Complementar nº 123/06). As microempresas e empresas de pequeno porte deverão apresentar, na fase de habilitação, toda a documentação exigida, mesmo que esta apresente alguma restrição (art. 43, da Lei Complementar nº 123/06). Será declarada vencedora do certame a micro ou pequena empresa detentora da proposta de menor valor definida na fase de lances ou na fase de desempate, ainda que haja restrições quanto a sua regularidade fiscal.
+Página 12
+
+8.3.
+
+8.4.
+
+8.5.
+
+8.6.
+
+8.7.
+
+8.8.
+
+PROCESSO Nº 09020.000001/2009-11
+
+8.9.
+
+Havendo alguma restrição quanto à comprovação da regularidade fiscal das micro ou pequenas empresas, lhes será assegurado o prazo de 2 (dois) dias úteis, cujo termo inicial corresponde ao momento em que o proponente for declarado vencedor do certame, prorrogável por igual período, a critério da Administração, para a regularização da documentação, pagamento ou parcelamento do débito, e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa (art. 43, §1º, da Lei Complementar nº 123/06).
+
+8.10. A falta de regularização da documentação, no prazo previsto, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei 8.666/93, sendo facultado à Administração convocar os licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação (art. 43, §2º, da Lei Complementar nº 123/06). 8.11. A falta de atendimento às exigências de habilitação acarretará a inabilitação da licitante e o exame da proposta subseqüente, na ordem de classificação, para fins de aceitação. 9. DA IMPUGNAÇÃO DO ATO CONVOCATÓRIO 9.1. Até 2 (dois) dias úteis antes da data fixada para recebimento das propostas, qualquer pessoa poderá impugnar o ato convocatório deste Pregão. As impugnações deverão ser publicadas pelo pregoeiro no Quadro de Avisos próprio, disponível no sítio www.comprasnet.gov.br, acessível aos licitantes. Caberá ao pregoeiro, auxiliado pelo setor responsável pela elaboração do Edital, decidir sobre a petição no prazo de 24 (vinte e quatro) horas e publicar sua resposta no Quadro de Avisos próprio, disponível no sítio www.comprasnet.gov.br, acessível aos licitantes. Acolhida a impugnação, será designada nova data para a realização do certame. Os pedidos de esclarecimentos poderão ser enviados ao Pregoeiro até 3 (três) dias úteis anteriores à data de abertura do pregão, pelo endereço de correio eletrônico pregoeiro-dcd@mre.gov.br e serão publicados pelo pregoeiro, com as respostas, no Quadro de Avisos próprio, disponível no sítio www.comprasnet.gov.br, acessível aos licitantes. As alterações efetuadas no texto do Edital e Anexos, decorrentes de pedidos de esclarecimentos ou impugnações que não afetem a formulação das propostas, serão comunicadas no Quadro de Avisos próprio, disponível no sítio www.comprasnet.gov.br, e o texto alterado será disponibilizado aos licitantes.
+
+9.2.
+
+9.3. 9.4.
+
+9.5.
+
+10. DOS RECURSOS, ADJUDICAÇÃO E HOMOLOGAÇÃO DO PROCESSO 10.1. Declarado o vencedor, será aberta pelo pregoeiro a possibilidade para que qualquer licitante possa, de forma imediata e motivada, em campo próprio do sistema, manifestar sua intenção de recorrer. 10.2. Caberá ao pregoeiro acatar ou recusar a intenção de recurso manifestada. 10.3. Uma vez aceita a intenção de recurso, será concedido à licitante o prazo de três dias para apresentar suas razões, cujo texto deve ser inserido em campo próprio do sítio www.comprasnet.gov.br, ficando as demais licitantes, desde logo, intimadas para apresentar contra-razões, cujos textos também devem ser inseridos em campo próprio do mesmo sítio, em igual prazo, que começará a contar do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos elementos indispensáveis à defesa dos seus interesses.
+
+Página 13
+
+PROCESSO Nº 09020.000001/2009-11
+
+10.4. A falta de manifestação imediata e motivada da licitante importará a decadência do direito de recurso, podendo o pregoeiro adjudicar o objeto à licitante vencedora. 10.5. Não havendo interposição de recursos, o objeto será adjudicado pelo pregoeiro à licitante declarada vencedora do certame. 10.6. Caso haja interposição de recurso, este será julgado em primeira instância pelo pregoeiro, no prazo máximo de 5 (cinco) dias úteis e, se recusadas as razões, passará à apreciação de autoridade superior, que deverá manifestar-se no mesmo prazo, a partir do recebimento da peça. 10.7. Decididos os recursos e constatada a regularidade dos atos praticados, a autoridade competente adjudicará o objeto e homologará o procedimento licitatório. 10.8. O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 10.9. Os autos do processo permanecerão com vista franqueada aos interessados, n o Setor Auxiliar de Controle da Coordenação-Geral de Planejamento Administrativo do Ministério das Relações Exteriores, no horário de 10h00min as 13h00min e de 15h00min as 17h00min horas. 11. DA ASSINATURA DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS 11.1. Feita a homologação e emitida a respectiva Nota de Empenho, o adjudicatário será convocado a assinar o Contrato no prazo de 5 (cinco) dias úteis, contado da data da convocação. 12. DA VIGÊNCIA DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS 12.1. O Contrato vigorará por 12 (doze) meses a partir da data de sua assinatura, podendo ser prorrogado, por interesse da Administração, por períodos subseqüentes de doze meses, com vistas à obtenção de preços e condições mais vantajosas, a critério do Ministério das Relações Exteriores, nas condições e limites estabelecidos no inciso II do Art. 57 da Lei nº 8.666/93, alterado pela Lei nº 9.648/98. 13. DA REPACTUAÇÃO DE PREÇOS 13.1. Será admitida a repactuação dos preços dos serviços com prazo de vigência igual ou superior a doze meses, observado o interregno mínimo de um ano, contado da data limite para apresentação da Proposta de Preços, com base no disposto no art. 5° do Decreto n° 2.271, de 7/7/1997; no art. 28 da Lei nº 9.069, de 29/6/1995; no art. 3°, § 1°, da Lei n° 10.192, de 14/2/2001; e nos artigos 37 a 41 da Instrução Normativa n° 2, de 30/4/2008, do Ministério do Planejamento, Orçamento e Gestão. 14. DO VALOR ESTIMADO E DOTAÇÃO ORÇAMENTÁRIA 14.1. A presente licitação tem o valor estimado de R$ 14.942.979,32 (quatorze milhões, novecentos e quarenta e dois mil, novecentos e setenta e nove reais e centavos). 14.2. As despesas referentes à aquisição objeto deste Edital correrão à conta das seguintes programações, constantes do orçamento do Ministério das Relações Exteriores: Programa de Trabalho 07.122.0750.2000.0001 - Administração da Unidade, Elemento de Despesa 3390.39 ­ Serviço de Terceiros ­ Pessoa Jurídica. 15. DO MODELO DE EXECUÇÃO E FORMA DE PAGA MENTO 15.1. Para a execução do contrato de prestação de serviços será praticado o método de trabalho com base no conceito de delegação de responsabilidade. Este conceito
+Página 14
+
+PROCESSO Nº 09020.000001/2009-11
+
+atribui ao Ministério das Relações Exteriores a gestão quantitativa e qualitativa dos resultados a serem obtidos pelas atividades desenvolvidas dentro dos prazos previstos pela licitante vencedora, de acordo com especificações, custos, prazos e padrões de qualidade previamente definidos. Cabe à licitante vencedora, por sua vez, a responsabilidade pela execução operacional dos serviços e pelo gerenciamento apropriado de seus recursos humanos, físicos e tecnológicos. 15.2. Os detalhamentos da execução dos serviços e da forma de pagamento estão contidos nos itens 5 e 6 do Termo de Referência, Anexo I deste Edital 16. DAS PENALIDADES 16.1. A licitante que, convocada dentro do prazo de validade de sua proposta, deixar de entregar documentação exigida no Edital, ensejar o retardamento da execução do objeto, não mantiver a proposta ou falhar na execução do objeto, garantido o direito à ampla defesa, ficará impedida de licitar e de contratar com a União, e será descredenciada no SICAF pelo prazo de 3 (três) anos, sem prejuízo de multas previstas em Edital e no Contrato e das demais cominações legais; 16.2. A licitante que apresentar documentação falsa; fizer declaração falsa; cometer fraude fiscal; fraudar na execução do Contrato ou comportar-se de modo inidôneo ficará impedida de licitar e de contratar com a União, e será descredenciada no SICAF pelo prazo de 5 (cinco) anos, sem prejuízo de multas previstas em Edital e no Contrato e das demais cominações legais; 16.3. Em caso de inexecução total ou parcial das condições pactuadas, ficará a licitante vencedora sujeita às seguintes sanções, facultada a rescisão contratual, cujo julgamento ficará a critério exclusivo do MRE: a) Advertência escrita, nas faltas consideradas de natureza leve quando da execução do objeto da presente licitação; b) Multa de 1% (um por cento) sobre o valor estimado da respectiva Ordem de Serviços (OS) por dia de atraso injustificado na alocação de profissionais para início da prestação de serviços, na modalidade "Horas Trabalhadas", conforme disposto no item 12 ­ Prazos de Execução dos Serviços ­ do Termo de Referência, até o limite de 30% (trinta por cento); c) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) de Desenvolvimento ou Manutenção de Sistemas por descumprimento dos prazos para correção de erros em serviços já entregues (erros definidos como incidentes) ou para a correção de erros apontados pelos usuários, na modalidade "Fábrica de Software", conforme disposto no item 12 ­ Prazos de Execução dos Serviços ­ do Termo de Referência; · Serão tolerados 5% (cinco por cento) de descumprimento de prazos nas resoluções de Nível 2 e 10% (dez por cento) naquelas de Nível 3.
+
+d) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) de Sustentação por descumprimento dos prazos de atendimento e solução de problemas, na modalidade "Fábrica de Software", conforme disposto no item 12 ­ Prazos de Execução dos Serviços ­ do Termo de Referência; · Serão tolerados 5% (cinco por cento) de descumprimento de prazos nas resoluções de Nível 2 e 10% (dez por cento) naquelas de Nível 3.
+
+e) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) de Desenvolvimento ou Manutenção de Sistemas por erros em Pontos de Função, na modalidade "Fábrica de Software";
+Página 15
+
+PROCESSO Nº 09020.000001/2009-11
+
+·
+
+Serão tolerados 1% (um por cento) do total de erros de pontos de função de Nível 1, 3% (três por cento) do total de erros de pontos de função de Nível 2 e 5% (cinco por cento) do total de erros de pontos de função de Nível 3. Para efeito de apuração do índice de erros por ponto de função serão considerados erros as não-conformidades em relação aos requisitos especificados e as paradas/finalizações anormais do produto desenvolvido.
+
+·
+
+f)
+
+Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) de Desenvolvimento, Manutenção ou Documentação de Sistemas por descumprimento dos prazos acordados, na modalidade "Fábrica de Software";
+
+g) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) pela recusa de artefatos/produtos entregues ou serviços prestados, na modalidade "Fábrica de Software" ou "Horas Trabalhadas"; · Será tolerada a recusa de 10% dos artefatos entregues. h) Multa de 10% (dez por cento) do valor global do contrato, nas faltas consideradas de natureza grave e que redundem na execução insatisfatória do objeto de presente licitação; i) Suspensão temporária do direito de licitar e de contratar com o MR E pelo prazo de até 2 (dois) anos, a ser fixado pela autoridade competente, nas faltas consideradas de natureza muito grave e que redundem na execução altamente insatisfatória do objeto da presente licitação; Declaração de inidoneidade para licitar ou contratar com a Administração Pública Federal, enquanto durarem os motivos determinantes da punição ou até que seja promovida a reabilitação, perante a própria autoridade que aplicou a penalidade, que será concedida sempre que a licitante vencedora ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada.
+
+j)
+
+16.4. O valor da multa aplicada será descontado das faturas devidas à licitante vencedora, da garantia ou, se necessário, cobrado judicialmente. 16.5. A sanção estabelecida na alínea i) do caput deste item é de competência exclusiva do Senhor Ministro de Estado das Relações Exteriores, facultada a defesa do interessado no respectivo processo, no prazo de 10 (dez) dias da abertura de vista, podendo a reabilitação ser requerida após 2 (dois) anos de sua aplicação. 16.6. As penalidades serão obrigatoriamente registradas no SICAF. 16.7. Fica garantido o direito à ampla defesa e ao contraditório. 17. DA GARANTIA 17.1. Para garantir o integral cumprimento das obrigações assumidas, a licitante vencedora deverá prestar ao MRE, no ato de assinatura do contrato, garantia no montante de 5% (cinco por cento) do valor total do contrato, sob qualquer das modalidades previstas no § 1º, art. 56, da Lei nº 8.666/93. 17.2. O MRE poderá utilizar o valor da garantia para se ressarcir de danos causados pela licitante vendedora, para cobrir custos resultantes de deficiência dos equipamentos, de danos causados a terceiros na execução do Contrato, bem como para cobrança de valores das penalidades porventura aplicadas.
+
+Página 16
+
+PROCESSO Nº 09020.000001/2009-11
+
+17.3. Se o valor da garantia for utilizado em pagamento de qualquer obrigação, inclusive indenização a terceiros, ou reduzido em termos reais por desvalorização da moeda, de forma que não mais represente 5% (cinco por cento) do valor global do contrato, a licitante vencedora deverá restabelecer o valor real da garantia, no prazo máximo de 5 (cinco) dias úteis, a contar da data em que, para tanto, for notificada pelo MRE. 17.4. O valor descontado a título de multa de forma alguma será devolvido à licitante vencedora. 17.5. A garantia somente será restituída pelo MRE após o cumprimento integral de todas as obrigações contratuais assumidas pela licitante vencedora. 18. DAS DISPOSIÇÕES GERAIS 18.1. É facultado ao Pregoeiro ou à autoridade superior, em qualquer f ase da licitação, promoção de diligência destinada a esclarecer ou complementar a instrução do processo, vedada a inclusão posterior de documento ou informação que deveria constar no ato da sessão do pregão. 18.2. Todas as declarações e propostas formuladas pela licitante, no âmbito deste pregão, devem ser assinadas por seu representante legal, o qual deverá comprovar ter poder de administração para fazê-lo, mediante a apresentação de Contrato Social, no caso de sócio, ou Ata de Assembléia de Acionistas, no caso de diretor de S/A, ou procuração concedendo poder de administração. A comprovação será dispensável se o representante constar do rol do SICAF como sócio ou administrador da licitante. 18.3. A autoridade competente para determinar a contratação poderá revogar a licitação no todo ou em parte, em face de razões de interesse público derivadas de fato superveniente devidamente comprovado, pertinente o suficiente para justificar tal conduta, devendo anulá-la se constatado ilegalidade, no âmbito do processo licitatório, de ofício ou por provocação de terceiros, mediante ato escrito fundamentado. 18.4. As licitantes são responsáveis pela fidelidade e legitimidade das informações e dos documentos apresentados em qualquer fase da licitação. 18.5. Após apresentação da proposta não caberá desistência, salvo por motivo justo decorrente de fato superveniente e aceito pelo Pregoeiro. 18.6. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subseqüente, no mesmo horário e local anteriormente estabelecido, desde que não haja comunicação do Pregoeiro em contrário. 18.7. Na contagem dos prazos estabelecidos neste Edital e seus Anexos excluir-se-á o dia do início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente no Ministério das Relações Exteriores. 18.7.1. Para o cumprimento dos prazos referidos acima, as licitantes devem observar o horário de atendimento ao público no Ministério das Relações Exteriores, das 10h às 13h e das 15h às 17h. 18.8. O não atendimento de exigências formais não-essenciais não importará no afastamento da licitante, desde que seja possível a aferição da sua qualificação e a exata compreensão da sua proposta durante a realização da sessão pública de pregão. 18.9. A Sessão Pública deste pregão poderá ser suspensa e reiniciada por iniciativa do pregoeiro.
+
+Página 17
+
+PROCESSO Nº 09020.000001/2009-11
+
+18.10.As normas que disciplinam este pregão serão sempre interpretadas em favor da ampliação da disputa entre os interessados, sem comprometimento da qualidade do serviço a ser prestado. 18.11.Não serão aceitos protocolos de entrega ou solicitação de documento em substituição aos documentos requeridos no presente Edital e seus Anexos. 18.12.O foro para dirimir questões relativas ao presente Edital será o da Justiça Federal, Seção Judiciária do Distrito Federal, com exclusão de qualquer outro, por mais privilegiado que o seja. 18.13.Constituem parte integrante deste Edital: a) Anexo I ­ Termo de Referência e seus anexos A,B,C,D,E e F. b) Anexo II ­ Minuta de Contrato. c) Anexo III ­ Planilha de Custos e Formação de Preço de Serviço d) Anexo IV ­ Planilha de Cálculo de Preço Global dos Serviços
+
+Hélio Vitor Ramos Filho Diretor do Departamento de Comunicações e Documentação
+
+Página 18
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES SUBSECRETARIA GERAL DO SERVIÇO EXTERIOR DEPARTAMENTO DE ADMINISTRAÇÃO COORDENAÇÃO DE LICITAÇÕES
+
+PROCESSO ADMINISTRAT IVO Nº 09020.000001/2009-11 PREGÃO ELETRÔNICO Nº DCD 01 / 2009
+
+ANEXO I DO EDITAL
+
+TERMO DE REFERÊNCIA
+
+Página 19
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+TERMO DE REFERÊNCIA
+
+CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS EM TECNOLOGIA DA INFORMAÇÃO, COMPLEMENTARES ÀS ATIVIDADES DO DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENT AÇÃO DO MINISTÉRIO DAS RELAÇÕES EXTERIORES - MRE, NAS ÁREAS DE PLANEJAMENTO ESTRATÉGICO, BANCO DE DADOS, DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS.
+
+Página 20
+
+PROCESSO Nº 09020.000001/2009-11
+
+TERMO DE REFERÊNCIA
+
+SUMÁRIO
+
+1. OBJETO ................................................................................................................................. 22 2. OBJETIVO .............................................................................................................................. 22 3. JUSTIFICATIVA ...................................................................................................................... 22 4. CONDIÇÕES GERAIS ............................................................................................................. 23 5. DESCRIÇÃO DETALHADA DOS SERVIÇOS............................................................................ 23 5.1. O serviço na modalidade "Fábrica de Software" ...................................................................... 24 5.2. O serviço na modalidade "Horas Trabalhadas" ....................................................................... 24 5.3. Perfis dos profissionais.......................................................................................................... 26 6. MODELO DE EXECUÇÃO E FORMA DE PAGAMENTO ........................................................... 26 6.1. Ordens de serviço................................................................................................................. 29 6.2. Recebimento e aceite dos serviços ........................................................................................ 29 6.3. Atestação das faturas ............................................................................................................ 29 7. ACOMPANHAMENTO E FISCALIZAÇÃO DOS SERVIÇOS....................................................... 29 8. METODOLOGIAS, PRÁTICAS E PROCEDIMENTOS TÉCNICOS ............................................. 30 9. HORÁRIO DA PRESTAÇÃO DOS SERVIÇOS.......................................................................... 31 10. LOCAIS DA PRESTAÇÃO DOS SERVIÇOS ........................................................................... 32 11. INÍCIO DA EXECUÇÃO DOS SERVIÇOS ............................................................................... 32 12. PRAZOS DE EXECUÇÃO DOS SERVIÇOS............................................................................ 32 12.1. Níveis de criticidade de incidentes ........................................................................................ 32 12.2. Prazos comuns às modalidades "Fábrica de Software" e "Horas Trabalhadas" ....................... 33 12.3. Prazos na modalidade "Horas Trabalhadas": ........................................................................ 34 13. GARANTIA DE QUALIDADE DE PRODUTOS E SERVIÇOS ................................................... 34 13.1. Garantia de qualidade na modalidade "Fábrica de Software" ................................................. 34 13.2. Garantia de qualidade na modalidade "Horas Trabalhadas"................................................... 37 14. PERÍODO DE TRANSFERÊNCIA DOS SERVIÇOS ................................................................ 37 15. PROCEDIMENTOS TÉCNICOS E ADMINISTRATIVOS INICIAIS ............................................. 37 16. ESTIMATIVA DE DEMANDA DE SERVIÇOS .......................................................................... 38 16.1. Estimativa de demanda na modalidade "Fábrica de Software" ............................................... 38 16.2. Estimativa de demanda na modalidade "Horas Trabalhadas"................................................. 39 17. COTAÇÃO DE PREÇOS DOS SERVIÇOS ............................................................................. 39 18. VISTORIA ............................................................................................................................. 40 19. QUALIFICAÇÃO TÉCNICA .................................................................................................... 40
+
+Página 21
+
+PROCESSO Nº 09020.000001/2009-11
+
+20. DIREITO PATRIMONIAL, PROPRIEDADE INTELECTUAL E DOCUMENTAÇÃO DOS PRODUTOS GERADOS .............................................................................................................. 42 21. SIGILO DAS INFORMAÇÕES ................................................................................................ 42 22. ESTIMATIVA DO PREÇO ...................................................................................................... 42 23. RECURSOS ORÇAMENTÁRIOS............................................................................................ 42 24. AUMENTO OU SUPRESSÃO DO VALOR A SER CONTRATADO ........................................... 43 25. REPACTUAÇÃO DE PREÇOS ............................................................................................... 43 26. OBRIGAÇÕES DA LICITANTE VENCEDORA ......................................................................... 43 27. OBRIGAÇÕES DO MINISTÉRIO DAS RELAÇÕES EXTERIORES........................................... 45 28. PENALIDADES ..................................................................................................................... 46 29. VIGÊNCIA DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS................................................. 47 30. DISPOSIÇÕES GERAIS ........................................................................................................ 48
+
+1. OBJETO Contratação de serviços técnicos especializados em Tecnologia da Informação, complementares às atividades do Departamento de Comunicações e Documentação do Ministério das Relações Exteriores - MRE, nas áreas de planejamento estratégico, banco de dados, desenvolvimento e manutenção de sistemas. 2. OBJETIVO Modernização dos sistemas de tratamento de informação existentes com a implantação de tecnologias de ponta e mão-de-obra especializada para implementação e manutenção dos recursos tecnológicos do MRE, com vistas a assegurar qualidade, disponibilidade e melhor desempenho das soluções de Tecnologia da Informação ora adotadas. Desenvolvimento de novas soluções que permitam ao Ministério começar a dar tratamento estratégico à tecnologia de informação, em cumprimentos às determinações elencadas na IN n° 4/2008, do Ministério do Planejamento, Orçamento e Gestão. Busca da integração tecnológica do Ministério, englobando, sempre que possível, as atividades de outras áreas do MRE que vem historicamente mantendo contratos isolados para a prestação de serviços de TI. 3. JUSTIFICATIVA Auditoria do Tribunal de Contas da União, que teve lugar no final do ano de 2007, recomendou o desmembramento do objeto "serviços de informática" em pelo menos dois lotes diferentes. A Unidade optou por sua separação em três lotes, dos quais o que ora se apresenta é um deles. Assinou-se em 23 de janeiro o contrato para a prestação dos serviços de atendimento e service desk, tendo a empresa contratada o prazo de 30 dias para iniciar os seus serviços. Os serviços objeto da presente licitação vêm sendo prestados de forma integrada e são essenciais para que o Ministério das Relações Exteriores cumpra com as funções que lhe são acometidas. A prestação dos mencionados serviços garante a manutenção dos níveis de investimento do Ministério, ao garantir o pleno e total funcionamento dos sistemas de tratamento da informação existentes. Ao ser a informação matéria-prima básica do trabalho diplomático, e ao dar-se dimensão estratégica aos investimentos na área de TI, impõe-se a contratação de empresa capaz não só de manter o
+
+Página 22
+
+PROCESSO Nº 09020.000001/2009-11
+
+legado de informática na área de manutenção e desenvolvimento de sistemas, mas também de produzir novos sistemas no sistema de fábrica de software. Diante da vetustez, em termos tecnológicos, de parte significativa dos sistemas ora em uso, grande parte da equipe ora contratada dedica-se quase integralmente à manutenção desses sistemas, estando o desenvolvimento de novas soluções restrito a soluções pontuais. Com o contrato que resultará do presente processo licitatório, pretendese buscar a evolução dessas soluções e investir-se significativamente no desenvolvimento de sistemas que signifiquem um salto tecnológico para o Itamaraty. 4. CONDIÇÕES GERAIS Durante o período de vigência do contrato, a licitante vencedora prestará serviços técnicos especializados nas áreas supramencionadas, com vistas a atender a Secretaria de Estado das Relações Exteriores, em Brasília, as Unidades Descentralizadas no Brasil e as Repartições no exterior (Cf. Anexo A ­ Unidades Administrativas do MRE no Brasil e no Exterior). Os serviços deverão suprir as necessidades de integração de informações processadas e acessadas pelos diversos setores do Ministério das Relações Exteriores no Brasil e nos Postos no exterior; de implantação de novas tecnologias de automação de processos; de modernização de sistemas de tratamento de informação existentes com a implementação de tecnologias de ponta; e de permanente capacitação e atualização de mão-de-obra especializada para implementação e manutenção dos recursos tecnológicos existentes no MRE (Cf. Anexo B - Demonstrativo do Ambiente Tecnológico Atual do Ministério das Relações Exteriores). Os empregados da licitante vencedora não terão nenhum vínculo empregatício com o Ministério das Relações Exteriores. 5. DESCRIÇÃO DETALHADA DOS SERVIÇOS Os serviços a serem prestados são de natureza técnica especializada, executados sob demanda ou de forma continuada, envolvendo, de um modo geral: prospecção tecnológica; gerenciamento de projetos; desenvolvimento, manutenção, documentação e sustentação de sistemas; banco de dados; identificação e análise de problemas; estudo e formulação de opções de solução; suporte técnico e implementação de planos de Tecnologia da Informação. Na execução dos serviços deverão ser observadas as políticas, premissas e especificações técnicas definidas pelos Padrões de Interoperabilidade de Governo Eletrônico (e-PING) e Modelo de Acessibilidade em Governo Eletrônico (e-MAG) e adotadas as melhores práticas de gestão e qualidade, tais como: Governança Corporativa, PMBOK, ISO 9001:2000, CMMI, MPS-BR, ITIL, COBIT, ISO 17799, ISO 20000, ISO 27001 e UP. A execução dos serviços poderá ser feita em duas modalidades, a critério do MRE. A primeira, denominada "Fábrica de Software", e a segunda, denominada "Horas Trabalhadas".
+
+Página 23
+
+PROCESSO Nº 09020.000001/2009-11
+
+5.1. O serviço na modalidade "Fábrica de Software" Na modalidade "Fábrica de Software", os serviços serão prestados sob demanda e categorizam-se em: Desenvolvimento de sistema, que é a execução de todas as etapas do ciclo de desenvolvimento de sistemas, com vistas à criação e implantação de novo aplicativo no MRE. Manutenção de sistema, dividida em: a) Manutenção Evolutiva, que abrange a concepção e implantação de novas funcionalidades e de novos componentes em sistemas existentes no MRE. b) Manutenção Corretiva, que contempla a identificação de pontos falhos e eliminação de defeitos de códigos de funcionalidades de sistemas existentes no MRE. c) Manutenção Adaptativa, que refere-se à adequação das funcionalidades dos sistemas a novas regras de negócio, a nova legislação ou a novas tecnologias a serem adotadas no MRE. d) Manutenção Perfectiva, que refere-se à adequação das funcionalidades dos sistemas, com vistas à melhoria do desempenho e qualidade de sistemas existentes no MRE. Documentação de sistema, que é a execução de atividades de documentação de aplicativos existentes no MRE. Sustentação de sistemas , que compreende a absorção de sistemas já existentes no MRE e desempenho de atividades de manutenção corretiva, atualização de documentação e personalização de sistemas, com vistas a assegurar o uso pleno dos aplicativos da área de Informática do MRE. 5.2. O serviço na modalidade "Horas Trabalhadas" Na modalidade "Horas Trabalhadas", as atividades serão desempenhadas de forma continuada e dividem-se em: Atividades de Suporte ao Planejamento Estratégico, que incluem: a) Prospecção tecnológica na área de Informática. b) Elaboração de estudos, análises e relatórios estratégicos. c) Elaboração de projetos de implantação, racionalização e redesenho de processos. d) Elaboração de estudos, pareceres e análises comparativas de técnicas, processos e tecnologias. e) Elaboração de Especificações de Projetos. f) Elaboração de Planos de Modernização Tecnológica. g) Elaboração de estudos econômico-financeiros de projetos de Informática. h) Planejamento do desenvolvimento, implantação e suporte de sistemas de informação e de sistemas integrados de gestão.
+
+Página 24
+
+PROCESSO Nº 09020.000001/2009-11
+
+i) j)
+
+Pesquisa de soluções tecnológicas específicas. Emissão de pareceres técnicos.
+
+k) Produção de subsídios para formulação de políticas de utilização de recursos de informática e de segurança da informação. l) Participação de reuniões de planejamento e coordenação com a Chefia para subsidiá-la com informações necessárias à tomada de decisões.
+
+Atividades de Banco de Dados, que incluem: a) Planejamento, organização, orientação e avaliação técnica das atividades de administração de banco de dados. b) Instalação, configuração e manutenção de servidores de banco de dados. c) Projeto e implementação de estruturas de bancos de dados. d) Desenvolvimento de modelagens de dados e objetos. e) Geração de esquemas de banco de dados. f) Padronização de procedimentos de acesso a dados. evolutiva dos bancos de dados sob g) Manutenção corretiva e responsabilidade do DCD.
+
+h) Avaliação e implementação de modelos, metodologias e tecnologias de administração de dados. i) j) Apoio técnico às demais áreas de Informática do DCD. Participação de reuniões de planejamento com a Chefia para subsidiá-la com informações necessárias à tomada de decisões.
+
+Atividades de Desenvolvimento e Manutenção de Sistemas, que incluem: a) Planejamento, organização, orientação e avaliação técnica das atividades de desenvolvimento de sistemas. b) Levantamentos, análise, identificação e detalhamento de necessidades sistêmicas. c) Desenvolvimento de sistemas de processamento de dados a partir de análise de coleta de informações dos usuários, fluxos de trabalho e necessidades de recursos. d) Elaboração de propostas de melhorias tecnológicas. e) Elaboração de propostas de melhorias de rotinas e fluxos de trabalho. f) Elaboração e implantação de normas e metodologias de desenvolvimento e documentação de sistemas e programas.
+
+g) Elaboração de manuais de sistemas. h) Codificação, desenvolvimento e teste de programas. i) j) Preparo de fluxogramas, codificação e documentação das rotinas necessárias ao processamento de dados. Realização de manutenção preventiva e corretiva dos programas.
+
+k) Projeto e execução da programação visual das interfaces dos sítios e aplicativos para a Web. l) Revisão e validação de soluções de interatividade e ergonomia de software.
+
+Página 25
+
+PROCESSO Nº 09020.000001/2009-11
+
+m) Geração de imagens e grafismos necessários para a implementação da programação visual. n) Controle da utilização e do desempenho dos recursos tecnológicos da área. o) Desenvolvimento e implantação de projetos de Gerenciamento Eletrônico de Documentos, Workflow, Business Intelligence e Criptografia/Certificação Digital. p) Implantação de novos sistemas e manutenção daqueles já existentes, observando eficiência, racionalidade e solução de problemas técnicos. q) Participar de reuniões de planejamento e coordenação com a Chefia e subsidiá-la com informações necessárias à tomada de decisões. 5.3. Perfis dos profissionais Os profissionais contratados pela licitante vencedora para o atendimento das demandas da modalidade "Horas Trabalhadas" deverão ter perfis que atendam aos requisitos mínimos constantes no Anexo C ­ Perfis Profissionais. 6. MODELO DE EXECUÇÃO E FORMA DE PAGAMENTO Para a execução do contrato de prestação de serviços será implementado método de trabalho com base no conceito de delegação de responsabilidade. Este conceito atribui ao Ministério das Relações Exteriores a gestão quantitativa e qualitativa dos resultados a serem obtidos pelas atividades desenvolvidas dentro dos prazos previstos pela licitante vencedora, de acordo com especificações, custos, prazos e padrões de qualidade previamente definidos. Cabe à licitante vencedora, por sua vez, a responsabilidade pela execução operacional dos serviços e pelo gerenciamento apropriado de seus recursos humanos, físicos e tecnológicos. Para o dimensionamento dos serviços na modalidade "Fábrica de Software", executados sob demanda, será adotada a medição em Pontos de Função. Para as categorias de desenvolvimento de novos sistemas, manutenção de sistemas (evolutiva, adaptativa e perfectiva) e documentação, o pagamento será feito com base nos serviços efetivamente executados no mês pela equipe técnica da licitante vencedora, devidamente autorizados em Ordem de Serviços e documentados nos relatórios de acompanhamento de Ordens de Serviços. O valor a ser pago corresponderá à multiplicação do tamanho do sistema/módulo em pontos de função (PF) pelo "valor do ponto de função" da categoria de serviço correspondente (desenvolvimento, manutenção ou documentação). A Ordem de Serviços deverá contemplar os pontos de medição do tamanho do sistema/módulo e cronograma de desembolso financeiro, considerando o pagamento de parcelas associadas à entregas de artefatos e produtos. Para a categoria de sustentação de sistemas, o pagamento será feito com base em valor fixo mensal, devidamente autorizado em Ordem de Serviços e documentado nos relatórios de acompanhamento de Ordens de Serviços. O valor a ser pago corresponderá à multiplicação do tamanho do sistema em pontos de função (PF) pelo valor do "ponto de função de sustentação de sistemas". A Ordem de Serviços deverá conter os pontos de medição do tamanho do sistema para fins de adequação do valor fixo mensal de sustentação. Na fase de transição/imersão, prevista para os primeiros 90 (noventa) dias de prestação de serviços de sustentação de sistemas ­ a qual corresponde às atividades de levantamento de situação, dimensionamento do tamanho e absorção do sistema pela equipe
+
+Página 26
+
+PROCESSO Nº 09020.000001/2009-11
+
+técnica da licitante vencedora, o pagamento será feito com base nas horas despendidas no mês para a realização dos serviços por aquela equipe, devidamente autorizados em Ordens de Serviço e documentados nos relatórios de acompanhamento de Ordens de Serviço. O valor a ser pago corresponderá à multiplicação das horas efetivamente despendidas no mês pelo "valor da hora de serviço prestado por perfil profissional" correspondente. Eventuais ajustes decorrentes de diferenças entre as contagens inicial (estimativa), intermediária (de acordo com pontos de medição indicados na Ordem de Serviços) e final em Pontos de Função, bem como deduções de valores relativos a penalidades, serão feitos a cada pagamento de parcela prevista no cronograma de desembolso financeiro. Na modalidade "Horas Trabalhadas" os serviços serão prestados de forma continuada e mensurados por "hora de serviço prestado por perfil profissional". O pagamento dos serviços nesta modalidade corresponderá à multiplicação das horas despendidas por cada profissional pelo respectivo valor-hora do perfil profissional utilizado. A execução dos serviços a seguir relacionados deverá obedecer aos critérios definidos pela Metodologia de Desenvolvimento de Sistemas (MDS) e pela Metodologia de Análise de Pontos de Função (MAPF) baseada no Manual de Práticas de Contagem de Pontos de Função versão 4.2.1 ("Function Point Counting Practices Manual release 4.2"), publicado pelo IFPUG ("International Function Point Users Group"): a) Levantamento e gerência de requisitos, análise e projeto lógicos, construção e implantação de sistemas de informação transacionais e gerenciais, em ambiente cliente-servidor simples e "n-Tier" (multicamadas/web); b) Modelagem de negócio ("Business Modeling"), compreendendo o mapeamento dos produtos e serviços das áreas de negócio do MRE e/ou fluxo de informação, com vistas a identificar necessidades de construção de novos sistemas e/ou manutenções evolutivas; c) Gerência de projetos por meio da elaboração de documentos de controle das metodologias, controle de iterações, gestão de riscos e de recursos; d) Execução de testes para os requisitos funcionais e não-funcionais, envolvendo o planejamento, documentação e execução dos testes, inclusive por meio de ferramentas de automação dos testes, considerando os devidos controles de acesso, integridade e segurança da informação; e) Documentação e redocumentação de sistemas; f) Planejamento, elaboração de material e execução de treinamentos relacionados ao uso dos sistemas de informação desenvolvidos.
+
+Para um determinado processo, o MRE poderá demandar tanto a execução de todo o ciclo de desenvolvimento quanto só alguma(s) de sua(s) fase(s) ou disciplina(s). Todo e qualquer serviço a ser prestado pela licitante vencedora só poderá ser executado mediante Ordem de Serviços (OS), devidamente autorizada pelo MRE. O valor de cada etapa da OS e, conseqüentemente, o valor global da mesma, deverá ser calculado pela unidade de medida "hora de serviço prestado por perfil profissional" (quantidade de horas trabalhadas por cada profissional multiplicado pelo valor da hora do perfil profissional) e, quando for o caso, acrescida dos valores referentes a "pontos de função" executados no período (quantidade de pontos de função multiplicada pelo valor do Ponto de Função do serviço executado: desenvolvimento, manutenção ou documentação) e dos valores referentes a sustentação de sistemas (quantidade de pontos de função dos sistema multiplicada pelo valor de sustentação).
+
+Página 27
+
+PROCESSO Nº 09020.000001/2009-11
+
+Mensalmente, deverão ser apresentados pela licitante vencedora relatórios das atividades desenvolvidas no período, bem como planilha de controle das horas de serviços prestados por Ordens de Serviço. A apresentação desses documentos é imprescindível para a validação/aceite dos produtos/serviços executados e a conseqüente liberação dos pagamentos. O pagamento à licitante vencedora será efetuado mensalmente, mediante ordem bancária, em até 30 (trinta) dias, contados a partir da data de apresentação de fatura ou nota fiscal, em duas vias. No caso de faturas emitidas com erro, a contagem de novo prazo de 30 (trinta) dias será iniciada a partir da data de reapresentação do documento corrigido. O MRE poderá sustar o pagamento à licitante vencedora caso comprove: a) inadimplência no cumprimento de qualquer cláusula ou condição contratual; b) execução insatisfatória dos serviços contratados; c) descumprimento pela licitante vencedora de obrigações para com terceiros que possam prejudicar os serviços prestados ao MRE; d) situação irregular da licitante vencedora junto ao SICAF, apurada nos termos do subitem 8.8. da IN/MARE nº 5, de 21/07/95. Em caso de irregularidade junto ao SICAF, o MRE notificará a licitante vencedora para que sejam sanadas as pendências no prazo de 30 (trinta) dias, prorrogáveis por igual período. Findo este prazo sem que haja a regularização da pendência por parte da licitante vencedora, ou apresentação de defesa aceita pelo MRE, o Contrato estará passível de rescisão e a licitante vencedora sujeita às sanções administrativas previstas neste documento. Nos casos de eventuais atrasos de pagamento, desde que a licitante vencedora não tenha concorrido de alguma forma para tanto, fica convencionado que a taxa de atualização financeira devida pelo MRE, desde a data final do período de adimplemento até a data do efetivo pagamento, será calculada pela fórmula: EM = N × I × VP Onde: · · · · EM = Encargos moratórios (em R$) N = Número de dias entre a data prevista para o pagamento e a do efetivo pagamento. I = Índice de atualização financeira = 0,0001095, correspondente a 365 avos de previsão de 4% (quatro por cento) anual VP = Valor da parcela a ser paga (em R$)
+
+No caso de rescisão contratual caberá à licitante vencedora somente o pagamento dos serviços efetivamente prestados, ressalvado o disposto no § 2° do artigo 79 da Lei n° 8.666/93. Desde que autorizada previamente pelo MRE, a licitante vencedora, na execução do contrato, sem prejuízo das responsabilidades contratuais e legais, poderá subcontratar partes dos serviços até o limite de 20% (vinte por cento) do valor do contrato.
+
+Página 28
+
+PROCESSO Nº 09020.000001/2009-11
+
+6.1. Ordens de serviço Todo e qualquer serviço a ser prestado pela licitante vencedora deverá ser objeto de Ordens de Serviço (OS), acompanhada dos respectivos Acordos de Nível de Serviço, que serão como adendos ao contrato firmado entre o MRE e a licitante vencedora. Nessas OS estarão especificadas, principalmente, a descrição detalhada dos serviços a serem executados, a identificação do tipo de serviço, a complexidade, os prazos, os requisitos de qualidade, os responsáveis pelo MRE e pela licitante vencedora, os recursos a serem utilizados, os valores, as condições de pagamento e a data de assinatura da OS. A licitante vencedora, após exame da Ordem de Serviços emitida pelo MRE, deverá apresentar, no prazo máximo de 5 (cinco) dias úteis, proposta de execução indicando as atividades/recursos necessários e os quantitativos de pontos de função e/ou horas de cada perfil profissional solicitado para execução dos serviços. O MRE poderá recusar a proposta de execução da licitante vencedora. Neste caso, cabe à licitante vencedora revisar a proposta e encaminhar a versão atualizada para reconsideração, no prazo máximo de 3 (três) dias úteis. Nenhum trabalho poderá ser iniciado pela licitante vencedora sem a devida autorização da respectiva Ordem de Serviços por parte do MRE. O aceite e posterior pagamento de cada produto/serviço executado não eximirá a licitante vencedora das responsabilidades quanto às garantias específicas associadas a cada produto desenvolvido e estabelecido na OS. 6.2. Recebimento e aceite dos serviços Os serviços deverão ser recebidos por meio de Termo de Recebimento emitido por Comissão de Verificação especialmente designada para esse fim pelo MRE, conforme os critérios estabelecidos nas Ordens de Serviço (OS). 6.3. Atestação das faturas A atestação das faturas caberá ao servidor do MRE formalmente designado para esse fim pelo Diretor do Departamento de Comunicações e Documentação. 7. ACOMPANHAMENTO E FISCALIZAÇÃO DOS SERVIÇOS A prestação dos serviços será acompanhada e fiscalizada por representante designado pelo Departamento de Comunicações e Documentação do Ministério das Relações Exteriores, nos termos do art. 67 da Lei n° 8.666/93. A licitante vencedora deverá manter preposto, aceito pelo MRE, durante o período de vigência do Contrato, para representá-la administrativamente sempre que for necessário. A fiscalização pelo MRE não exclui nem reduz a responsabilidade da licitante vencedora de eventuais danos causados diretamente à Administração ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços e não implica em coresponsabilidade do MRE ou de seus agentes e prepostos, em conformidade com o artigo 70 da Lei nº 8.666/93.
+
+Página 29
+
+PROCESSO Nº 09020.000001/2009-11
+
+8. METODOLOGIAS, PRÁTICAS E PROCEDIMENTOS TÉCNICOS Para fins de atendimento das demandas de desenvolvimento, manutenção, e documentação de sistemas, além de modelagem e redesenho de processos de negócio, a licitante vencedora deverá dispor, fornecer, customizar e/ou utilizar: a) Metodologia de gestão de projetos, tendo como referência as práticas do PMBOK (PMI), com o objetivo de melhorar as ações na camada gerencial, diminuir os riscos e aumentar as chances de sucesso na execução de projetos; b) Metodologia de modelagem e redesenho de processos, com vistas a melhorar o desempenho do negócio, racionalizar processos e uso de recursos; c) Metodologia(s) de desenvolvimento e manutenção de Sistemas, tendo como referência as práticas de CMMI ou MPS-BR, UP (Processo Unificado), Orientação a Objetos, Transferência de Conhecimento e Acordo de Nível de Serviço; Atualmente, a Divisão de Informática - DINFOR utiliza a Metodologia UP ("Unified Process") de desenvolvimento e manutenção de sistemas, a qual poderá ser aprimorada para melhoria da qualidade dos produtos e aumento da produtividade da equipe durante a vigência do contrato. A documentação pertinente está disponível no seguinte link: http://www2.mre.gov.br/download/mds-dinfor.pdf d) Metodologia de estimativa de software, tendo com referência o Manual de Práticas e Contagem de Pontos por Função ­ CPM 4.2 ou superior (do IFPUG - International Function Point Users Group), a fim de permitir o dimensionamento dos sistemas e o esforço necessário para realização dos serviços; Atualmente, a Divisão de Informática - DINFOR utiliza metodologia de estimativa de software baseada na CPM 4.2, a qual poderá ser aprimorada para melhoria da qualidade dos produtos e aumento da produtividade da equipe durante a vigência do contrato. A documentação pertinente está disponível no seguinte link: http://www2.mre.gov.br/download/mds-dinfor.pdf e) Metodologia de teste de software (unitário, integrado, funcional, carga, desempenho e regressão), a f im de garantir a qualidade dos produtos gerados, diminuindo o retrabalho; f) Metodologia de desenvolvimento de sistemas de apoio à decisão (Business Inteligence).
+
+Para fins de gerenciamento da prestação dos serviços contratados, a licitante vencedora deverá dispor, fornecer, customizar e/ou utilizar: a) Ferramentas automatizadas próprias ou devidamente licenciadas de mensuração de software (Pontos de Função/CPM 4.2 ­ IFPUG), modelagem de processos e sistemas (CASE ­ Computer Aided Software Engineering), teste de software e gerenciamento de configuração; b) Ferramentas automatizadas próprias ou devidamente licenciadas de gerenciamento de projetos e demandas, que permitam consultas "on-line" e produzam relatórios individuais e consolidados com as seguintes informações mínimas: · Número de série;
+
+Página 30
+
+PROCESSO Nº 09020.000001/2009-11
+
+· · · · · · · · · · ·
+
+Requisitante; Descrição do(s) produto(s) e/ou serviço(s); Quantidade de recursos a serem utilizados ou volume de horas estimado para execução dos serviços; Data prevista de início; Data prevista de término; Valor da Ordem de Serviço; Responsável pela autorização dos serviços; Responsável pelo aceite da demanda; Indicador gráfico do andamento da Ordem de Serviço; Quantidade de demandas por tipo e período; Indicador de desempenho por tipo de demanda e período (previsto x realizado).
+
+A liberação do acesso às ferramentas automatizadas de gerenciamento de projetos e demandas obedecerá aos requisitos de segurança (identificação, controle de acesso de usuários e controle de transações para inclusão, alteração e exclusão) determinados pela DINFOR. A licitante vencedora deverá manter infra-estrutura de Fábrica de Software em suas próprias instalações, com softwares compatíveis com o ambiente tecnológico existente no MRE. A licitante vencedora deverá apresentar declaração de propriedade e/ou cessão de direito de uso das metodologias e ferramentas a serem disponibilizadas e utilizadas na execução dos serviços , antes de sua efetiva utilização. A utilização de quaisquer produtos (metodologias, políticas, normas, procedimentos, softwares, etc.) sem a autorização expressa do proprietário, quando cabível, constituirá falta grave, podendo resultar na aplicação de sanções à licitante vencedora, inclusive rescisão contratual. A inclusão de componentes de softwares proprietários é vedada em qualquer das etapas de desenvolvimento e/ou manutenção de sistemas sem prévia e expressa autorização do MRE. Só após a efetiva avaliação de custos e viabilidade, tais componentes poderão ser utilizados. A DINFOR poderá sugerir alterações nas políticas, normas, procedimentos, metodologias, ferramentas e técnicas discriminadas anteriormente. Nestes casos, uma vez validadas tecnicamente pela licitante vencedora, deverão ser incorporadas ao acervo técnico da DINFOR, sem ônus adicional para o MRE, e adotadas na execução das Ordens de Serviço (OS) seguintes. 9. HORÁRIO DA PRESTAÇÃO DOS SERVIÇOS Todos os serviços relativos à modalidade "Horas Trabalhadas" deverão ser prestados em turnos diários de 8 horas, nos horários das 9 às 13 horas e das 15 às 19 horas ou das 8 às 12 horas e das 14 às 18 horas, à critério do MRE. Em caso de necessidade o MRE poderá convocar, em caráter excepcional, a licitante vencedora para executar tarefas fora do horário indicado, bem como durante fins de semana e feriados.
+
+Página 31
+
+PROCESSO Nº 09020.000001/2009-11
+
+10. LOCAIS DA PRESTAÇÃO DOS SERVIÇOS Os locais de prestação dos serviços relativos à modalidade "Horas Trabalhadas" são as instalações físicas do complexo do Ministério das Relações Exteriores em Brasília, atualmente compreendendo o Palácio Itamaraty, os Anexos I e II e a sede do Instituto Rio Branco. Caso a licitante vencedora, com a devida concordância e autorização do MRE, venha a prestar serviços de suporte técnico remoto, a mesma deverá providenciar, às suas expensas, conexão do seu ambiente computacional com o do Ministério. A eventual conexão estará condicionada ao cumprimento, pela licitante vencedora, de todos os quesitos e normas pertinentes à segurança da informação e, ainda, pela responsabilidade legal e criminal inerentes ao sigilo e confidencialidade das informações trafegadas. 11. INÍCIO DA EXECUÇÃO DOS SERVIÇOS A licitante vencedora deverá iniciar a execução dos serviços no prazo de 30 (trinta) dias corridos a partir da data de assinatura do contrato. Será considerado como início da execução dos serviços o momento em que a licitante vencedora estiver operando de acordo com todos os requisitos previstos no edital e anexos da contratação, incluindo toda a infra-estrutura de "software" implantada e configurada, profissionais treinados, capacitados e no desempenho de suas atribuições. A licitante vencedora deverá apresentar, para aprovação do MRE, no prazo máximo de 5 (cinco) dias após a data de assinatura do contrato, projeto completo para implantação dos serviços, contendo cronograma detalhado de atividades a serem executadas pela licitante vencedora e pelo MRE. 12. PRAZOS DE EXECUÇÃO DOS SERVIÇOS 12.1. Níveis de criticidade de incidentes Os incidentes que afetem os sistemas informatizados serão classificados segundo o nível de criticidade, de acordo com a tabela abaixo:
+CRITICIDADE Nível 1: Nível 2: Nível 3: Incidente com paralisação do sistema ou comprometimento grave de dados, processo ou ambiente. Incidente com comprometimento mediano de dados, processo ou ambiente, sem paralisação do sistema. Incidente com pequeno ou nenhum comprometimento de dados, processo ou ambiente, sem paralisação do sistema.
+
+Página 32
+
+PROCESSO Nº 09020.000001/2009-11
+
+12.2. Prazos comuns às modalidades "Fábrica de Software" e "Horas Trabalhadas" Para os serviços de desenvolvimento de novos sistemas, a licitante vencedora utilizará os prazos de início e conclusão estabelecidos na tabela a seguir:
+DESENVOLVIMENTO DE NOVOS SISTEMAS Volume de serviços (em PF) 1 ­ 150 151 ­ 300 301 ­ 450 451 ­ 600 601 ­ 750 751 ­ 1.000 Acima de 1.000 Prazo máximo para início (em dias) Imediato 7 7 7 15 15 15 Prazo máximo para conclusão (em dias) 45 90 135 180 225 300 Negociado caso a caso
+
+Para os serviços de manutenção evolutiva, adaptativa e perfectiva, a licitante vencedora utilizará os prazos de início e conclusão estabelecidos na tabela a seguir:
+MANUTENÇÃO EVOLUTIVA, ADAPTATIVA E PERFECTIVA Volume de serviços (em PF) 1 ­ 50 51 ­ 100 101 ­ 200 201 ­ 400 401 ­ 600 601 ­ 800 801 ­ 1.000 Acima de 1.000 Prazo máximo para início (em dias) 5 5 10 10 10 15 15 15 Prazo máximo para conclusão (em dias) 84 99 132 186 225 264 303 Negociado caso a caso
+
+Para os serviços de documentação, a licitante vencedora utilizará os prazos de início e conclusão estabelecidos na tabela a seguir:
+DOCUMENTAÇÃO Volume de serviços (em PF) 1 ­ 50 51 ­ 100 101 ­ 200 201 ­ 400 401 ­ 600 601 ­ 800 801 ­ 1.000 Acima de 1.000 Prazo máximo para início (em dias) 5 5 10 10 10 15 15 15 Prazo máximo para conclusão (em dias) 21 24 33 48 57 66 75 Negociado caso a caso
+
+Página 33
+
+PROCESSO Nº 09020.000001/2009-11
+
+Para os serviços de manutenção corretiva, a licitante vencedora utilizará os prazos de início e conclusão estabelecidos na tabela a seguir:
+MANUTENÇÃO CORRETIVA Criticidade Nível 1 Nível 2 Nível 3 Prazo máximo para início Imediatamente. Até 2 (duas) horas. Até 4 (quatro) horas. Prazo máximo para conclusão Até 2 (duas) horas. Até 4 (quatro) horas. Até 6 (seis) horas.
+
+A dilatação dos prazos supracitados poderá ser admitida em casos fortuitos ou de força maior, informados com a devida antecedência e devidamente justificados pela licitante vencedora e aceitos pelo MRE. A redução dos prazos supracitados para os serviços de desenvolvimento, manutenção e documentação poderá ser admitida, de comum acordo entre o MRE e a licitante vencedora, mediante justificativa formalizada na respectiva Ordem de Serviços (OS). O atraso no cumprimento dos prazos estabelecidos na Ordem de Serviços (OS) resultará na aplicação das penalidades previstas em contrato, garantido à licitante vencedora o direito à ampla defesa. Será descabida multa se a DINFOR ou a unidade do MRE solicitante dos serviços não fornecer em tempo hábil as informações ou recursos sob sua responsabilidade necessários à realização das atividades. 12.3. Prazos na modalidade "Horas Trabalhadas": Os prazos para execução dos serviços definidos de comum acordo entre o MRE e a licitante vencedora serão formalizados nas Ordens de Serviço (OS). Durante a execução do contrato, no caso de necessidade de alocação de profissional para preenchimento de posto na modalidade "Horas Trabalhadas", o prazo máximo será de 10 (dez) dias corridos a partir da data da solicitação à licitante vencedora. O atraso no cumprimento dos prazos estabelecidos na Ordem de Serviços (OS) e/ou para o preenchimento dos respectivos postos de trabalho resultará na aplicação das penalidades previstas em contrato, garantido à licitante vencedora o direito à ampla defesa. 13. GARANTIA DE QUALIDADE DE PRODUTOS E SERVIÇOS 13.1. Garantia de qualidade na modalidade "Fábrica de Software" Os produtos gerados pela licitante vencedora terão garantia de qualidade pelo período de vigência do contrato, dentro do qual a licitante vencedora corrigirá defeitos identificados sem custos adicionais para o MRE. Durante o período de garantia, caberá à licitante vencedora a manutenção corretiva decorrente de erros ou falhas, sem ônus adicional para o MRE, desde que o erro ou falha, comprovadamente, não seja derivado de falhas em especificações fornecidas pela unidade solicitante.
+
+Página 34
+
+PROCESSO Nº 09020.000001/2009-11
+
+O início e término dos serviços de correção de erros ou falhas deverão ocorrer nos prazos máximos estabelecidos no item 12 ­ Prazos de Execução dos Serviços, contados a partir do registro da ocorrência em sistema de registro e acompanhamento de demandas, a ser disponibilizado pela licitante vencedora. A unidade solicitante dos serviços emitirá Termo de Aceitação do Serviço no prazo definido na Ordem de Serviço (OS), após a inspeção e teste dos artefatos entregues. Poderá haver prorrogação do prazo inicial previsto para o aceite, a critério do MRE, de até 25% (vinte e cinco por cento). A não manifestação do MRE nesses prazos implicará na aprovação automática do serviço. A emissão de aceite dos serviços pelo MRE não exime a licitante vencedora da responsabilidade pela correção de erros porventura identificados dentro do prazo de vigência do Contrato e após o seu encerramento, dentro do prazo de garantia fornecido pela licitante vencedora, sem ônus para o MRE, desde que o erro ou falha, comprovadamente, não se dê em função de falhas da unidade solicitante dos serviços. A partir do aceite dos serviços pelo MRE e após o início da prestação do serviço pela licitante vencedora, alterações solicitadas serão tratadas como novas Ordens de Serviço (OS). As não-conformidades identificadas durante a inspeção dos serviços contratados serão corrigidas pela licitante vencedora sem ônus para o MRE, mantendo a consistência da documentação correspondente. A inspeção pode gerar a eventual recusa de artefatos por motivo de vícios de qualidade ou por não observância dos padrões adotados pelo MRE. Será tolerado um índice de recusa de artefatos por vícios de qualidade igual ou inferior a 10% (dez por cento) dos artefatos previstos na Ordem de Serviço (OS) correspondente. Índices de recusa de artefatos superiores a 10% (dez por cento) do total de artefatos previstos, não prorrogarão o prazo de entrega do serviço e facultarão ao MRE a aplicação da penalidade cabível. Serão aceitos os seguintes índices máximos de erros na prestação dos serviços de desenvolvimento e/ou manutenção de sistemas, apurados para os volumes acordados nas Ordens de Serviço (OS) demandadas, de acordo com os níveis de criticidade estabelecidos no item 12 ­ Prazos de Execução dos Serviços : · · · 5% (cinco por cento) de erros por ponto de função para o Nível 3; 3% (três por cento) de erros por ponto de função para o Nível 2; 1% (um por cento) de erro por ponto de função para o Nível 1.
+
+A entrega de serviços com índice de erros superior aos valores acima ensejará a aplicação de penalidades conforme o disposto no item 28 - Penalidades. A licitante vencedora codificará os programas seguindo os padrões definidos pelo MRE. A licitante vencedora produzirá metodologias do MRE. todos os artefatos mencionados nas
+
+A licitante vencedora executará as atividades de testes relacionadas a seguir, a fim de detectar e corrigir erros potenciais ou reais e assegurar a funcionalidade e qualidade dos produtos gerados:
+
+Página 35
+
+PROCESSO Nº 09020.000001/2009-11
+
+· · · · · · · · ·
+
+Levantamento de informações do sistema para os testes; Planejamento dos testes que compreenda a elaboração de estratégia, cenário, roteiro e casos de testes; Implementação de roteiros de testes e casos de testes; Geração de massa de testes; Execução dos testes; Evidenciação dos testes; Registro de ocorrências dos testes; Avaliação e validação dos testes; Fornecimento de informações de controle e acompanhamento da execução dos serviços de testes, como parte do serviço que e stá sendo executado.
+
+A licitante vencedora será responsável pelas atividades de homologação do sistema no ambiente computacional do MRE, com a seguinte abrangência: · · · · · Requisitos do ambiente de produção, o qual comportamento estável e baixo consumo de recursos; deverá ter
+
+Requisitos de segurança, buscando proteger as informações dos usuários, a integridade dos dados, da aplicação e do ambiente; Requisitos do negócio, disponibilizando o sistema para avaliação dos usuários quanto ao atendimento dos requisitos contratados; Acompanhamento da execução dos testes no ambiente de homologação; Acompanhamento das atividades de homologação pelo usuário final.
+
+O MRE manterá ambiente de teste e homologação de sistemas, espelho do ambiente de produção, a fim de assegurar que o comportamento do sistema não será alterado quando transferido para o ambiente de produção. Os seguintes relatórios de acompanhamento devem ser gerados pela licitante vencedora mensalmente, a fim de permitir a avaliação dos Níveis de Serviço: · Relatório de conformidade dos prazos na resolução de incidentes e na correção de erros. Espera-se que estejam dentro do prazo a resolução de 100% (cem por cento) dos incidentes de Nível 1, pelo menos 95% (noventa e cinco por cento) dos incidentes do Nível 2 e pelo menos 90% (noventa por cento) dos incidentes de Nível 3; Relatórios de defeitos resultantes de desenvolvimento e/ou manutenções feitas pela licitante vencedora. Espera-se, no máximo, 1% (um por cento) do total de erros em pontos de função de Nível 1, 3% (três por cento) do total de erros em pontos de função de Nível 2 e 5% (cinco por cento) do total de erros em pontos de função de Nível 3, calculados com base no volume de pontos de função das Ordens de Serviço (OS);
+
+·
+
+Página 36
+
+PROCESSO Nº 09020.000001/2009-11
+
+·
+
+Relatório do percentual de Ordens de Serviço atendidas dentro do prazo. Espera-se que, no mínimo, 90% (noventa por cento) das Ordens de Serviço (OS) estejam dentro do prazo; Relatório do percentual de Ordens de Serviço que respeitaram o orçamento proposto. Espera-se que, no mínimo, 90% (noventa por cento) das Ordens de Serviço estejam dentro do orçamento.
+
+·
+
+· 13.2. Garantia de qualidade na modalidade "Horas Trabalhadas" Os produtos gerados pela licitante vencedora terão garantia de qualidade pelo período de vigência do contrato, dentro do qual a licitante vencedora corrigirá defeitos identificados sem custos adicionais para o MRE. Durante o período de garantia, caberá à licitante vencedora a manutenção corretiva decorrente de erros ou falhas, sem ônus adicional para o MRE, desde que o erro ou falha, comprovadamente, não seja derivado de falhas em especificações fornecidas pelo MRE. O início dos serviços de correção de erros ou falhas ocorrerá no prazo máximo de 4 (quatro) horas, contados a partir do registro da ocorrência em sistema de registro e acompanhamento de demandas, a ser disponibilizado pela licitante vencedora. O prazo de conclusão do atendimento será objeto de negociação entre a licitante vencedora e o MRE, em função do grau de complexidade envolvido.
+
+14. PERÍODO DE TRANSFERÊNCIA DOS SERVIÇOS Ao final d o contrato, com o objetivo de possibilitar a plena continuidade da prestação dos serviços, quanto ao desenvolvimento e manutenção dos sistemas implantados, a licitante vencedora se obriga a elaborar plano de absorção dos conhecimentos necessários para garantir, no mínimo, o padrão e qualidade dos serviços já prestados. Será emitida Ordem de Serviços para a elaboração e execução desse plano de transferência. O prazo máximo para o desenvolvimento das atividades previstas para a total transferência e absorção das responsabilidades é de 2 (duas) semanas, sendo que a data final não poderá ser superior à data final de vigência do atual contrato.
+
+15. PROCEDIMENTOS TÉCNICOS E ADMINISTRATIVOS INICIAIS A licitante vencedora e o MRE deverão estabelecer no mínimo, quando do início da prestação dos serviços, os seguintes procedimentos técnicos e administrativos iniciais: a) Detalhamento das atribuições e responsabilidades; b) Posicionamento hierárquico funcional; c) Recursos técnicos e materiais necessários; d) Definição da documentação e dos processos; e) Estabelecimento de padrões de gestão;
+
+Página 37
+
+PROCESSO Nº 09020.000001/2009-11
+
+f)
+
+Definição da qualidade dos serviços a serem prestados;
+
+g) Definição dos padrões e periodicidade dos relatórios; h) Informações gerais sobre o MRE, normas de comportamento, aspectos de segurança, sigilo, cuidados especiais, etc. É expressamente proibida a veiculação de publicidade acerca dos serviços contratados, salvo com autorização expressa do MRE. Por questões de segurança, fica a licitante vencedora obrigada a apresentar toda e qualquer informação e documentação solicitada pelo MRE, sobre os profissionais indicados para a prestação dos serviços. O MRE se reserva o direito de proceder ao levantamento e/ou confirmação de informações pertinentes à idoneidade de qualquer profissional que venha a ser indicado para a prestação dos serviços. A licitante vencedora emitirá, por ocasião da assinatura do Contrato, Termo de Compromisso de Manutenção de Sigilo, de acordo com o modelo constante do Anexo D Termo de Compromisso de Manutenção de Sigilo. A licitante vencedora exigirá de cada profissional que venha a prestar os seus serviços a assinatura de termo de compromisso, pelo qual se compromete a manter o sigilo e a confidencialidade de todos os dados e informações de que venha a ter conhecimento no exercício de suas atribuições (cf. Decreto 4.553, de 27 de dezembro de 2002). A licitante vencedora será responsabilizada pela divulgação não autorizada ou pelo uso indevido de qualquer informação pertinente ao MRE. Caso se verifique a quebra de sigilo de informações, serão aplicadas à licitante vencedora as sanções previstas na Lei 8.666/93, sem prejuízo das demais cominações legais. 16. ESTIMATIVA DE DEMANDA DE SERVIÇOS Alterações nas necessidades previstas e mudanças no cenário tecnológico podem implicar ajustes nos quantitativos estimados, que poderão ser modificados, se necessário, a critério do Ministério das Relações Exteriores, respeitados os valores globais do contrato. 16.1. Estimativa de demanda na modalidade "Fábrica de Software" Estima-se que a demanda anual, para a modalidade "Fábrica de Software", seja de 5.000 (cinco mil) Pontos de Função. Considerando-se que o esforço necessário para a construção de um Ponto de Função e dos respectivos sub-produtos varia de acordo com a categoria de serviço, os valores máximos a serem pagos por Ponto de Função em cada categoria obedecerão a tabela a seguir, em termos de percentual do preço do Ponto de Função indicado pela licitante vencedora na Planilha de Cálculo de Preço Global de Serviços:
+
+Página 38
+
+PROCESSO Nº 09020.000001/2009-11
+
+TABELA DE VALORES MÁXIMOS A SEREM PAGOS PELO MRE POR PONTO DE FUNÇÃO NA MODALIDADE "FÁBRICA DE SOFTWARE" Percentual do preço Categoria do Ponto de Função indicado na planilha Desenvolvimento de novos de sistemas 90% Manutenção de sistemas (evolutiva, adaptativa e perfectiva) Documentação de sistemas Sustentação de sistemas 100% 20% 5%
+
+16.2. Estimativa de demanda na modalidade "Horas Trabalhadas" Estima-se que a demanda anual, para a modalidade "Horas Trabalhadas", seja conforme o quadro a seguir:
+ESTIMATIVA DE DEMANDA ANUAL DE SERVIÇOS NA MODALIDADE "HORAS TRABALHADAS" POR PERFIL PROFISSIONAL Perfil profissional Analista de Sistemas em Ambiente Cliente-Servidor (Sênior) Analista de Sistemas em Ambiente Web (Pleno) Analista de Sistemas em Ambiente Web (Sênior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Júnior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Pleno) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Sênior) Programador em Ambiente Cliente-Servidor (Pleno) Programador em Ambiente Cliente-Servidor (Sênior) Programador em Ambiente Web (Júnior) Programador em Ambiente Web (Pleno) Programador em Ambiente Web (Sênior) WEB Designer Administrador de Banco de Dados (Pleno) Administrador de Banco de Dados (Sênior) Analista de Sistemas de Informação Supervisor de Banco de Dados Supervisor de Desenvolvimento de Sistemas Supervisor de Manutenção de Sistemas Horas 4.032 8.064 10.080 8.064 6.048 4.032 4.032 4.032 8.064 18.144 18.144 6.048 6.048 6.048 6.048 2.016 2.016 2.016
+
+17. COTAÇÃO DE PREÇOS DOS SERVIÇOS A cotação de preços dos serviços na modalidade "Fábrica de Software" será feita individualmente para cada categoria de serviço, utilizando-se como unidade de fornecimento o "Ponto de Função". A cotação de preços na modalidade "Horas Trabalhadas" será feita individualmente para cada tipo de perfil profissional, utilizando-se como unidade de fornecimento a "hora de serviço prestado" por profissional. Nesta cotação deverão estar incluídos todos os itens de custo e despesas, tais como salários dos profissionais, benefícios trabalhistas (auxílio transporte, auxílio alimentação, plano de saúde, etc.), despesas com treinamento e aperfeiçoamento, encargos sociais na forma da legislação trabalhista, encargos tributários, taxas, etc., considerando-se jornadas mensais de 168 (cento e sessenta e oito) horas por profissional.
+
+Página 39
+
+PROCESSO Nº 09020.000001/2009-11
+
+O preço global dos serviços deverá ser a soma das seguintes parcelas: a) Preço dos serviços na modalidade "Fábrica de Software" conforme estimativa indicada no item 16 ­ Estimativa de Demanda de Serviços. b) Preço dos serviços na modalidade "Horas Trabalhadas" (somatório da cotação dos preços anuais de cada perfil profissional, apresentados nas planilhas de custo e formação de preços de serviços ), conforme estimativa indicada no item 16 ­ Estimativa de Demanda de Serviços. 18. VISTORIA A empresa interessada em participar do certame deverá apresentar declaração emitida pela Divisão de Informática do MRE, comprovando a realização de vistoria do ambiente físico, organizacional e tecnológico descrito no Anexo B deste Termo de Referência, por meio de seu representante legal ou pessoa devidamente credenciada por Procuração Pública ou Procuração Particular com firma reconhecida, acompanhada de cópia autenticada da documentação que dá poderes ao outorgante para tal. Será emitido certificado de vistoria em duas vias de igual teor, assinadas pelas partes interessadas, conforme Anexo E ­ Declaração de Vistoria. Uma das vias deverá ser anexada à documentação de habilitação da empresa. 19. QUALIFICAÇÃO TÉCNICA Considerando-se a natureza do serviço, os padrões de excelência que se deseja alcançar e os resultados esperados, é significativo que as empresas candidatas demonstrem condições, em proporção razoável, de experiência comprovada na prestação de serviços compatíveis em características, quantidades e prazos com o objeto desta licitação. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na execução de 3.000 (três mil) pontos de função/ano em modalidade de fábrica de software, correspondentes a aproximadamente 60% da demanda anual prevista para fins de contratação, nas seguintes áreas: a) Desenvolvimento de sistemas; b) Manutenção evolutiva de sistemas; c) Manutenção corretiva de sistemas; d) Manutenção adaptativa de sistemas; e) Manutenção perfectiva de sistemas; f) Documentação de sistemas; g) Sustentação de sistemas. O total dos pontos de função executados, para efeito de comprovação da qualificação técnica, será obtido pelo somatório, em qualquer proporção de pontos de função/ano, das experiências devidamente comprovadas em cada área relacionada anteriormente. Será permitido o cômputo de pontos de função em contratos/clientes distintos, desde que executados num mesmo período de 12 (doze) meses.
+
+Página 40
+
+PROCESSO Nº 09020.000001/2009-11
+
+A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na execução de serviços de 73.500 (setenta e três mil e quinhentas) horas trabalhadas/ano, correspondentes a aproximadamente 60% da demanda anual prevista para fins de contratação, nas seguintes áreas: a) Suporte a Planejamento Estratégico; b) Administração de Banco de Dados; c) Desenvolvimento e Manutenção de Sistemas. O total das horas trabalhadas executadas, para efeito de comprovação da qualificação técnica, será obtido pelo somatório, em qualquer proporção de horas trabalhadas/ano, das experiências devidamente comprovadas em cada área relacionada anteriormente. Será permitido o cômputo de horas de serviços em contratos/clientes distintos, desde que executados num mesmo período de 12 (doze) meses. A licitante deverá apresentar um dos certificados a seguir: a) Certificado de qualidade CMM/CMMI nível 4, emitido pelo Carnegie Mellon Software Engineering Institute; b) Certificado de qualidade MPS-BR nível B, emitido pela Sociedade Brasileira para a Promoção da Exportação de Software ­ SOFTEX ou parceiro autorizado; c) Certificado de qualidade ISO/IEC 15504 (SPICE - Software Process Improvement and Capability dEtermination) nível 4, emitido por entidade reconhecida pelo INMETRO. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na execução de serviços de desenvolvimento e manutenção de sistemas utilizando a plataforma Zope/Plone/Python. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na execução de serviços de desenvolvimento e manutenção de sistemas utilizando Processo Unificado. A licitante deverá comprovar, por meio de atestado de capacidade técnica, experiência na elaboração e execução de Planos de Teste de Software unitário, de integração, funcional, de carga/desempenho e de regressão. As comprovações acima poderão ser apresentadas por meio de um único atestado de capacidade técnica. Os atestados de capacidade técnica deverão ser obrigatoriamente emitidos por pessoa jurídica de direito público ou privado, contendo nome, cargo e número de telefone institucional para contato do emitente. Adicionalmente, deverão informar os dados do contrato de referência, a saber: número, período de vigência, contratante e local da prestação dos serviços. Serão considerados para avaliação apenas os atestados acompanhados de cópias dos respectivos contratos e aditivos. O MRE reserva-se o direito de fazer diligências para confirmar as informações prestadas nos atestados apresentados.
+
+Página 41
+
+PROCESSO Nº 09020.000001/2009-11
+
+20. DIREITO PATRIMONIAL, PROPRIEDADE INTELECTUAL E DOCUMENTAÇÃO DOS PRODUTOS GERADOS A licitante vencedora cederá ao Ministério das Relações Exteriores, nos termos do Art. 111 da Lei 8.666/93, c/c o Art. 4° da Lei 9.609/98, o direito patrimonial e a propriedade intelectual em caráter definitivo dos sistemas desenvolvidos e resultados produzidos em conseqüência desta licitação. Entende-se por resultados quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, fluxogramas, listagens de programas de computador (fonte e/ou executável) e documentação didática, em papel e mídia eletrônica. A licitante vencedora fica proibida de veicular e comercializar os produtos gerados relativos ao objeto da prestação dos serviços. 21. SIGILO DAS INFORMAÇÕES O MRE fornecerá à licitante vencedora as informações necessárias para a instalação e perfeito funcionamento dos equipamentos e sistemas alocados à execução dos serviços descritos neste Termo de Referência. A licitante vencedora emitirá, por ocasião da assinatura do Contrato, Termo de Compromisso de Manutenção de Sigilo, de acordo com o modelo constante do Anexo D Termo de Compromisso de Manutenção de Sigilo. A licitante vencedora exigirá de cada profissional que venha a prestar os seus serviços a assinatura de termo de compromisso, pelo qual se compromete a manter o sigilo e a confidencialidade de todos os dados e informações de que venha a ter conhecimento no exercício de suas atribuições (cf. Decreto nº 4.553, de 27 de dezembro de 2002). A licitante vencedora será responsabilizada pela divulgação não autorizada ou pelo uso indevido de qualquer informação pertinente ao MRE. Caso se verifique a quebra de sigilo das informações sigilosas do MRE, serão aplicadas à licitante vencedora as sanções previstas na Lei n° 8.666/93, sem prejuízo das demais cominações legais. 22. ESTIMATIVA DO PREÇO Estima-se o preço da contratação em R$ 14.942.979,32 (quatorze milhões, novecentos e quarenta e dois mil, novecentos e setenta e nove reais e centavos), conforme média obtida de cálculo com base em pesquisa de mercado e detalhada no Anexo F ­ Custo Estimado da Contratação. 23. RECURSOS ORÇAMENTÁRIOS As despesas referentes à contratação objeto deste Termo de Referência correrão à conta das seguintes programações, constantes do orçamento do Ministério das Relações Exteriores: Programa de Trabalho 07.122.0750.2000.0001 - Administração da Unidade, Elemento de Despesa 3390.39 ­ Serviço de Terceiros ­ Pessoa Jurídica.
+
+Página 42
+
+PROCESSO Nº 09020.000001/2009-11
+
+24. AUMENTO OU SUPRESSÃO DO VALOR A SER CONTRATADO A licitante vencedora obrigar-se-á a aceitar, nas mesmas condições contratuais, e mediante Termo Aditivo, os acréscimos ou supressões que se fizerem necessários, no interesse do MRE, até 25% (vinte e cinco por cento) do valor inicial atualizado do Contrato, de acordo com os Parágrafos 1º e 2º do Artigo 65 da Lei nº 8.666/93. 25. REPACTUAÇÃO DE PREÇOS Será admitida a repactuação dos preços dos serviços com prazo de vigência igual ou superior a doze meses, observado o interregno mínimo de um ano, contado da data limite para apresentação da Proposta de Preços estabelecida no edital, com base no disposto no artigo 5° do Decreto n° 2.271, de 7 /7/1997; no artigo 28 da Lei nº 9.069, de 29/6/1995; no artigo 3°, § 1°, da Lei n° 10.192, de 14/2/2001; e nos artigos 37 a 41 da Instrução Normativa n° 2, de 30/4/2008, do Ministério do Planejamento, Orçamento e Gestão. 26. OBRIGAÇÕES DA LICITANTE VENCEDORA Caberá à licitante vencedora: a) Atender às solicitações do MRE, de acordo com as especificações técnicas, procedimentos de controle administrativo e cronogramas físicos que venham a ser estabelecidos; b) Elaborar relatório mensal de atividades, no qual devem ser relacionados os serviços prestados durante o mês anterior; c) Designar profissionais especializados e devidamente credenciados, assumindo total responsabilidade pelo cumprimento de todas as obrigações trabalhistas, fiscais e previdenciárias, inclusive aquelas decorrentes de acidentes, indenizações, multas, seguros, normas de saúde pública e regulamentadoras do trabalho; d) Capacitar a equipe técnica alocada aos serviços contratados sempre que se fizer necessário, considerando a evolução tecnológica e/ou mudança de tecnologia, cabendo ao MRE esta definição; e) Manter seus funcionários devidamente informados das normas disciplinares do MRE, bem como das normas de utilização e de segurança das instalações e do manuseio dos documentos; f) Comunicar previamente ao MRE a relação dos profissionais que serão alocados aos serviços, com vistas a verificar o cumprimento do item, 5.3 Perfis dos profissionais, quanto à habilitação profissional.
+
+g) Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no todo ou em parte, o equipamento em que se verificarem vícios, defeitos ou incorreções resultantes de mau uso por parte de seus funcionários; h) Manter, durante a execução do contrato, todas as condições de habilitação exigidas na licitação, mantendo todos os documentos fiscais nos seus prazos de validade;
+
+Página 43
+
+PROCESSO Nº 09020.000001/2009-11
+
+i)
+
+Não se valer do contrato a ser celebrado para assumir obrigações perante terceiros, dando-o como garantia, nem utilizar os direitos de crédito, a serem auferidos em função dos serviços prestados, em quaisquer operações de desconto bancário, sem prévia autorização do MRE; Substituir imediatamente qualquer dos técnicos alocados aos serviços cuja atuação, permanência ou comportamento forem julgados prejudiciais ou inconvenientes à execução do objeto contratado ou às normas do MRE;
+
+j)
+
+k) Garantir a execução dos serviços sem interrupção, substituindo, caso necessário, e sem ônus adicional, qualquer técnico que esteja em gozo de férias, auxílio doença, auxílio maternidade ou qualquer outro benefício; l) Fornecer crachá de identificação a seus funcionários, de uso obrigatório quando em serviço;
+
+m) Indicar responsáveis setoriais para as equipes prestadoras dos serviços; n) Apresentar, junto com a fatura mensal, prova de quitação de suas obrigações trabalhistas, fiscais e previdenciárias, referentes ao mês anterior ao da prestação dos serviços objeto da fatura. A não comprovação desobriga o MRE do pagamento da fatura até que seja efetuada a regularização e ensejará, após as notificações de advertência e multa, a rescisão do contrato de prestação de serviços; o) Informar imediatamente ao MRE, por escrito, qualquer anormalidade que ponha em risco a execução dos serviços, com vistas a ações corretivas; p) Refazer, sem ônus para o MRE, dentro do prazo estabelecido, os serviços prestados que apresentem defeitos, erros, danos, falhas e/ou quaisquer outras irregularidades em razão de negligência, má execução e emprego de mão-de-obra e/ou ferramentas inadequadas; q) Informar a relação dos integrantes da equipe técnica, contendo nome completo, função e número do registro de identidade, a fim de que o MRE possa providenciar crachás de identificação que permitam acesso às suas dependências; r) Cumprir e atender os padrões de segurança e controle para acesso e uso das instalações do MRE, zelando por sua integridade, preservando o sigilo e a confidencialidade de todos os dados e informações pertinentes aos serviços prestados, de acordo com o Decreto nº 4.553, de 27 de dezembro de 2002, que dispõe sobre a categoria dos documentos públicos sigilosos e o acesso a eles;
+
+s) Informar ao MRE no prazo de 48 (quarenta e oito) horas sobre qualquer alteração social ou modificação da finalidade ou estrutura da licitante vencedora; t) Responsabilizar-se por qualquer acidente ocorrido com seus empregados por imprudência, negligência ou imperícia, fora ou dentro dos locais da prestação/execução dos serviços, no desempenho das atividades ou em conexão com os mesmos, inclusive por danos causados a terceiros;
+
+u) Responsabilizar-se pela eventual perda de dados, danos a programas, arquivos e computadores, comprovada negligência ou a intenção de causar o dano por seus profissionais; v) Elaborar e executar, em conjunto com o MRE, projeto de passagem do serviço a terceiro, a ser desenvolvido durante o período de transição, por ocasião de rescisão ou término de contrato;
+
+Página 44
+
+PROCESSO Nº 09020.000001/2009-11
+
+w) Arcar com os ônus resultantes de quaisquer ações, demandas, custos e despesas decorrentes de contravenção, seja por culpa sua ou de quaisquer de seus empregados ou prepostos, obrigando-se, outrossim, a quaisquer responsabilidades decorrentes de ações judiciais ou extrajudiciais de terceiros, que lhe venham a ser exigidas por força da lei, ligadas ao cumprimento do contrato a ser firmado; x) Assinar, por ocasião da assinatura do Contrato, Termo de Compromisso de Manutenção de Sigilo, de acordo com o modelo constante do Anexo D Termo de Compromisso de Manutenção de Sigilo; y) Exigir, de cada profissional que venha a prestar os seus serviços, a assinatura de termo de compromisso, pelo qual se compromete a manter o sigilo e a confidencialidade de todos os dados e informações de que venha a ter conhecimento no exercício de suas atribuições (cf. Decreto 4.553, de 27 de dezembro de 2002); z) Manter, no período de prestação do serviço e durante 5 (cinco) anos após o seu término, no mais estrito sigilo toda documentação de natureza técnica e administrativa, gerada em função da execução do contrato, não copiando, não usando em seu próprio benefício, nem revelando ou mostrando a terceiros, nem publicando tais informações, no território brasileiro ou no exterior; aa) Entregar ao MRE, em até 15 (quinze) dias após o encerramento do contrato, toda e qualquer informação sigilosa gerada em conseqüência da prestação do serviço, destruindo de maneira irrecuperável todas as cópias instaladas na memória de seus equipamentos ou em qualquer outro tipo de suporte, inclusive as cópias de segurança ("backup") que estiverem em seu poder; bb) Notificar imediatamente ao MRE, por escrito, qualquer má utilização, revelação não autorizada, esbulho, apropriação indébita ou outra violação das informações que lhe foram reveladas, que chegue ao seu conhecimento; cc) Apresentar ao MRE, sempre que solicitada, documentação comprobatória do cumprimento das exigências curriculares dos perfis profissionais, dispostas no Anexo C ­ Perfis Profissionais deste Termo de Referência, por meio da apresentação de currículos e certificados. 27. OBRIGAÇÕES DO MINISTÉRIO DAS RELAÇÕES EXTERIORES Caberá ao MRE: a) Permitir o acesso do pessoal técnico e dos equipamentos d a licitante vencedora, necessários à execução dos serviços, respeitadas as disposições legais, regulamentares e as normas do Departamento de Comunicações e Documentação que disciplinam a segurança e o sigilo; b) Informar à licitante vencedora as normas e procedimentos de acesso às instalações do MRE, e eventuais alterações; c) Prestar à licitante vencedora, em tempo hábil, as informações disponíveis e necessárias à execução dos serviços;
+
+Página 45
+
+PROCESSO Nº 09020.000001/2009-11
+
+d) Promover o acompanhamento e a fiscalização dos serviços prestados, registrando as ocorrências relacionadas com a execução do objeto contratado e determinando as medidas necessárias à regularização das falhas observadas; e) Comunicar eventuais irregularidades detectadas na execução dos serviços tempestivamente à licitante vencedora; f) Encaminhar para a atestação dos gestores as faturas emitidas e os produtos dos serviços prestados;
+
+g) Pagar as faturas de serviços, mensalmente, de acordo com as condições de pagamento constantes neste Termo de Referência. 28. PENALIDADES Em caso de inexecução total ou parcial das condições pactuadas, ficará a licitante vencedora sujeita às seguintes sanções, facultada a rescisão contratual, cujo julgamento ficará a critério exclusivo do Ministério das Relações Exteriores, garantido à licitante vencedora o direito à ampla defesa: a) Advertência escrita, nas faltas consideradas de natureza leve quando da execução do objeto da presente licitação; b) Multa de 1% (um por cento) sobre o valor estimado da respectiva Ordem de Serviços (OS) por dia de atraso injustificado na alocação de profissionais para início da prestação de serviços, na modalidade "Horas Trabalhadas", conforme disposto no item 12 ­ Prazo de Execução dos Serviços, até o limite de 30% (trinta por cento); c) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) de Desenvolvimento ou Manutenção de Sistemas por descumprimento dos prazos para correção de erros em serviços já entregues (erros definidos como incidentes) ou para a correção de erros apontados pelos usuários, na modalidade "Fábrica de Software", conforme disposto no item 12 ­ Prazo de Execução dos Serviços; · Serão tolerados 5% (cinco por cento) de descumprimento de prazos nas resoluções de Nível 2 e 10% (dez por cento) naquelas de Nível 3.
+
+d) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) de Sustentação por descumprimento dos prazos de atendimento e solução de problemas, na modalidade "Fábrica de Software", conforme disposto no item 12 ­ Prazo de Execução dos Serviços; · Serão tolerados 5% (cinco por cento) de descumprimento de prazos nas resoluções de Nível 2 e 10% (dez por cento) naquelas de Nível 3.
+
+e) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) de Desenvolvimento ou Manutenção de Sistemas por erros em Pontos de Função, na modalidade "Fábrica de Software";
+
+Página 46
+
+PROCESSO Nº 09020.000001/2009-11
+
+·
+
+Serão tolerados 1% (um por cento) do total de erros de pontos de função de Nível 1, 3% (três por cento) do total de erros de pontos de função de Nível 2 e 5% (cinco por cento) do total de erros de pontos de função de Nível 3. Para efeito de apuração do índice de erros por ponto de função serão considerados erros as não-conformidades em relação aos requisitos especificados e as paradas/finalizações anormais do produto desenvolvido.
+
+·
+
+f)
+
+Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) de Desenvolvimento, Manutenção ou Documentação de Sistemas por descumprimento dos prazos acordados, na modalidade "Fábrica de Software";
+
+g) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviços (OS) pela recusa de artefatos/produtos entregues ou serviços prestados, na modalidade "Fábrica de Software" ou "Horas Trabalhadas"; · Será tolerada a recusa de 10% dos artefatos entregues. h) Multa de 10% (dez por cento) do valor global do contrato, nas faltas consideradas de natureza grave e que redundem na execução insatisfatória do objeto de presente licitação; i) Suspensão temporária do direito de licitar e de contratar com o MRE pelo prazo de até 2 (dois) anos, a ser fixado pela autoridade competente, nas faltas consideradas de natureza muito grave e que redundem na execução altamente insatisfatória do objeto da presente licitação; Declaração de inidoneidade para licitar ou contratar com a Administração Pública Federal, enquanto durarem os motivos determinantes da punição ou até que seja promovida a reabilitação, perante a própria autoridade que aplicou a penalidade, que será concedida sempre que a licitante vencedora ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada.
+
+j)
+
+O valor da multa aplicada será descontado das faturas devidas à licitante vencedora, da garantia ou, se necessário, cobrado judicialmente. A sanção e stabelecida na alínea i) do caput deste item é de competência exclusiva do Senhor Ministro de Estado das Relações Exteriores, facultada a defesa do interessado no respectivo processo, no prazo de 10 (dez) dias da abertura de vista, podendo a reabilitação ser requerida após 2 (dois) anos de sua aplicação. 29. VIGÊNCIA DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS O Contrato de prestação de serviços vigorará por 12 (doze) meses a partir da data de sua assinatura, podendo ser prorrogado, por interesse da Administração e demonstrada a vantajosidade, por períodos subseqüentes de doze meses, desde que demonstrado interesse público, e a critério do MRE, nas condições e limites estabelecidos no inciso II do Art. 57 da Lei 8.666/93, alterado pela Lei 9.648/98.
+
+Página 47
+
+PROCESSO Nº 09020.000001/2009-11
+
+30. DISPOSIÇÕES GERAIS Os profissionais alocados aos serviços desta contratação deverão ter dedicação exclusiva durante o desenvolvimento das atividades sob sua responsabilidade. Os atestados de comprovação de capacitação profissional deverão ser obrigatoriamente emitidos por pessoa jurídica de direito público ou privado, contendo nome, cargo e número de telefone institucional para contato do emitente. Todos os documentos apresentados devem ser originais ou cópias autenticadas e ficarão arquivados no processo. Documentos em língua estrangeira deverão ser acompanhados por versão em português, produzida por tradutor juramentado. Brasília, em 30 de janeiro de 2009
+
+Guilherme José Roeder Friaça Chefe, substituto, da Divisão de Informática
+
+Aprovo. Declaro, outrossim, que o objeto deste Termo de Referência é considerado serviço comum, nos termos do parágrafo 1º do artigo 2º do Decreto nº 5.450/05, para realização de licitação na modalidade de pregão. Brasília, em 30 de janeiro de 2009
+
+Hélio Vitor Ramos Filho Diretor do DCD
+
+Página 48
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+ANEXOS DO TERMO DE REFERÊNCIA:
+
+Anexo A ­ Unidades administrativas no MRE e no exterior Anexo B ­ Demonstrativo do ambiente tecnológico atual do MRE Anexo C ­ Perfis profissionais Anexo D ­ Termo de compromisso de manutenção de sigilo Anexo E ­ Declaração de vistoria Anexo F ­ Custo estimado da contratação
+
+Página 49
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+TERMO DE REFERÊNCIA - ANEXO A UNIDADES ADMINISTRAT IVAS DO MRE NO BRASIL E NO EXTERIOR
+
+1. SECRETARIA DE ESTADO DE RELAÇÕES EXTERIORES Brasília 2. ESCRITÓRIOS DE REPRESENTAÇÃO NO BRASIL Belo Horizonte Curitiba Florianópolis 3. EMBAIXADAS Abidjã Abu Dhabi Abuja Acra Adis Abeba Amã Ancara Argel Assunção Astana Atenas Bagdá Bamaco Bangcoc Beirute Belgrado Belmopan Berlim Berna Bissau Bogotá Bratislava Brazzaville Bridgetown Gaborone Georgetown Guatemala Haia Hanoi Harare Havana Helsinque Iaundê Ierevan Islamabade Jacarta Kiev Kingston Kinshasa Kuaite Kuala Lumpur La Paz Libreville Lima Lisboa Liubliana Lomé Londres
+Página 50
+
+Manaus Porto Alegre Recife
+
+Rio de Janeiro São Paulo
+
+Porto Príncipe Praga Praia Pretória Quito Rabat Riade Roma Santiago Seul São Domingos São José São Salvador São Tomé Sófia Teerã Tegucigalpa Tel Aviv Trípoli Tóquio Túnis Uagadugu Varsóvia Vaticano
+
+PROCESSO Nº 09020.000001/2009-11
+
+Bruxelas Bucareste Budapeste Buenos Aires Cairo Camberra Caracas Cartum Castries Cingapura Colombo Conacri Copenhague Cotonou Dacar Damasco Dar Es Salaam Doha Dublin Díli Estocolmo 4. DELEGAÇÕES E MISSÕES Bruxelas Genebra (3) Lisboa Montevidéu 5. CONSULADOS-GERAIS Assunção Atlanta Barcelona Beirute Boston Buenos Aires Caiena Caracas Chicago Cidade do Cabo Ciudad del Este Córdoba Frankfurt Genebra Hong Kong 6. CONSULADOS Chuí Ciudad Guayana 7. VICE-CONSULADOS Artigas Cobija Cochabamba Concepción Encarnación
+
+Luanda Lusaca Madri Malabo Manila Manágua Maputo Montevidéu Moscou México Nairobi Nassau Nouakchott Nova Delhi Oslo Ottawa Panamá Paramaribo Paris Pequim Port-of-Spain
+
+Viena Washington Wellington Windhoek Zagreb
+
+Montreal Nova York Paris Roma
+
+Viena Washington
+
+Houston Lagos Lisboa Londres Los Angeles Madri Mendoza Mexico Miami Milão Montevidéu Montreal Mumbai Munique Nagóia
+
+Nova York Paris Porto Roma Roterdã Sta Cruz de la Sierra Santiago Sydney São Francisco Toronto Tóquio Vancouver Xangai Zurique
+
+Iquitos Pedro Juan Caballero
+
+Rivera
+
+Guayaramerin Letícia Paso de Los Libres Puerto Ayacucho Puerto Iguazu
+Página 51
+
+Puerto Suarez Rio Branco Saltos do Guaíra Santa Elena do Uairen
+
+PROCESSO Nº 09020.000001/2009-11
+
+8. ESCRITÓRIO DE REPRESENTAÇÃO Ramalá 9. ESCRITÓRIO COMERCIAL Taipé 10. ESCRITÓRIO FINANCEIRO Nova York
+
+Página 52
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+TERMO DE REFERÊNCIA - ANEXO B DEMONSTRATIVO DO AMBIENTE TECNOLÓGICO AT UAL DO MRE
+
+1. Equipamentos 885 436 376 827 434 100 27 4 4 16 2 2 2 2 17 8 4 2 1 1 1 2 1 1 4 4 10 1 1 1 1 14 8 1 99 20 Microcomputadores AMD; Microcomputadores Celeron; Microcomputadores Pentium III; Microcomputadores Pentium IV; Impressoras a laser; Impressoras jato de tinta; Scanners; Servidores Intel Xeon IBM xSeries 236; Servidores Intel Xeon 3650 com 4 processadores de núcleo duplo, acondicionados em rack de 42 U de altura e módulo KVT; Servidores HP/COMPAQ modelo ML 530 P-III Xeon/1GHz , 2GB de RAM; Servidores HP/COMPAQ modelo ML 570 P-III Xeon/700MHz, 2GB de RAM; Servidores COMPAQ Proliant 6000 dual P-III Xeon 500MHz; Servidores UNISYS P-III 730MHz, 512MHz de RAM; Servidores ITAUTEC P-III 1,2GHz; Servidores IBM ThinCentre P-IV 3GHz, 512MB de RAM; Servidores IBM ThinkCentre Intel Celeron 2,4GHz, 256MB de RAM Servidores HP AMD Athlon64 3500+ 1GB de RAM Torres de CD-Rom; Sistema de armazenamento Fas-3020 Netapp, com capacidade de armazenamento de 2TB acondicionados em rack próprio; Unidade de backup robotizada IBM 3583 com 72 slots e 6 unidades de gravação acondicionada em rack de 42 U de altura; Roteador Cisco 3660; Roteadores Cisco 2500; Roteador Cisco 3640; Switch Core Cisco Catalyst 6590 (5 módulos); Switches 3Com 3870 48 Portas; Switches 3Com 4400 FX; Switches 3Com 4228G 24 portas; 3Com PS Hub 40; Switch 3Com 3300; DTE - SMDS Converter DIGITAL LINK; Switch Foundry 12 Portas Gigabit; Conversores de Mídia RJ45 100 FX; Modems US Robotics 56K; Conversor de Midia CH 1 ASGA; Switches Huawei 3952ei 48 Portas; Switches DLINK 16 portas.
+Página 53
+
+PROCESSO Nº 09020.000001/2009-11
+
+2. Programas 2.1. Sistemas Operacionais 2.1.1. 2.1.2. 2.1.3. 2.1.4. 2.1.5. 2.1.6. 2.1.7. 2.1.8. 2.1.9. 2.1.10. 2.1.11. 2.1.12. 2.1.13. 2.1.14. 2.2. 2.2.1. 2.2.2. 2.2.3. 2.2.4. 2.3. 2.3.1. 2.3.2. 2.3.3. 2.3.4. 2.3.5. 2.4. 2.4.1. 2.4.2. 2.4.3. 2.4.4. 2.4.5. 2.4.6. 2.4.7. 2.4.8. 2.4.9. 2.4.10. 2.4.11. Data ONTAP 7.22 da NETAPP Debian GNU/Linux 4.0 FreeBSD 6.2/7.0 Mandriva Microsoft Windows 2000 Advanced Server Microsoft Windows 2000 Professional Microsoft Windows 2000 Server Standard Edition Microsoft Windows 2003 Server Enterprise Edition Microsoft Windows 2003 Server Standard Edition Microsoft Windows NT Server 4.0 Microsoft Windows XP Professional OpenBSD 4.2 Suse Linux 9.0 Ubuntu Microsoft Access Microsoft SQL Server 2005 Microsoft SQL Server 2008 ( futura utilização) MySQL Microsoft ASP Microsoft .NET Microsoft Visual Basic 6.0 PHP Python Adobe After Effects 5.5 Adobe Illustrator 10 Adobe Photoshop 6.0 Adobe Premiere 6.0 Borland JBuilder Enterprise 7 Computer Associates ErWin dotProject Eclipse KDeveloper Macromedia Dreamweaver MX Macromedia Fireworks MX
+Página 54
+
+Bancos de Dados
+
+Linguagens de Programação
+
+Apoio ao Desenvolvimento
+
+PROCESSO Nº 09020.000001/2009-11
+
+2.4.12. 2.4.13. 2.4.14. 2.4.15. 2.4.16. 2.4.17. 2.4.18. 2.4.19. 2.5. 2.5.1. 2.5.2. 2.5.3. 2.5.4. 2.5.5. 2.5.6. 2.5.7. 2.5.8. 2.5.9. 2.5.10. 2.5.11. 2.5.12. 2.5.13. 2.5.14. 2.5.15. 2.5.16. 2.5.17. 2.5.18. 2.5.19. 2.5.20. 2.5.21. 2.6. 2.6.1. 2.6.2. 2.6.3. 2.6.4. 2.6.5. 2.6.6. 2.6.7. 2.6.8.
+
+Macromedia Flash MX Microsoft Visual Studio .NET Microsoft Visual Studio SourceSafe (VSS) Plone/Zope Quanta SubVersion (SVN) Sybase Power Designer Trac Attachmate MyExtra Enterprise CACIC Cacti Captaris RightFax Single Mailbox Recover da NETAPP (futura utilização) Operation Manager da NETAPP (futura utilização) A-SIS Deduplication da NETAPP (futura utilização) Huawei iManager N2000 ­ DMS/DMA Hyena 7.02 Microsoft Exchange Server 5.5 Enterprise Edition Microsoft Exchange Server 2007 Enterprise Edition (futura utilização) Microsoft Office Communication Server 2007 (futura utilização) Microsoft Office Microsoft Active Directory Nagios OpenLDAP 2.3 OpenOffice PostFix 2.1 TraumaZero 1.7 Veritas BackupEXEC 9.1 WhatsUp Professional 2006 Apache 1.3 Calamaris ClamAV 0.9x DansGuardian 2.3.8 IPFW2 Iptables JFMS 2.5 MailScanner 3.8
+Página 55
+
+Aplicativos
+
+Aplicativos de Segurança
+
+PROCESSO Nº 09020.000001/2009-11
+
+2.6.9. 2.6.10. 2.6.11. 2.6.12. 2.6.13. 2.6.14. 2.6.15. 2.6.16. 2.6.17. 2.6.18. 2.6.19. 2.6.20. 2.6.21. 2.6.22. 2.6.23. 3. Serviços de rede 3.1. 3.2. 3.3. 3.4. 3.5. 3.6. 3.7. 3.8. 3.9.
+
+MailWatch for MailScanner 1.3 McAfee AntiSpyware 8.5 McAfee ePolicy Orchestrator 3.6 McAfee VirusScan 8.5 Nessus 3 OpenVPN PFSync Samba 3.24 SMBLDAPTools Snort 2.3 SpamAssassin 3.0.4 SqStat Squid 2.6 Stunnel TinyCA 2.07
+
+Servidores WEB Apache e IIS; Windows Internet Name Service (WINS); Dynamic Host Configuration Service (DHCP); Domain Name System (DNS); Outlook Web Access; Impressão em rede; Backup e restauração de dados; Inventário de recursos da rede; Stream de TV;
+
+3.10. Windows Server Update Services (WSUS); 3.11. Atualização automática de vacinas de antivírus. 4. Sistemas em produção 4.1. 4.2. 4.3. 4.4. 4.5. 4.6. 4.7. 4.8. 4.9. ADMP - Administração de Postos AIG - Sistema de Cadastro dos Profissionais de Imprensa BIBLIOTECA - Sítio da Biblioteca CGPL - Portal da Coordenação Geral de Protocolo CLIC - Cliente de Comunicação dos Postos no Exterior CLIC/SERE - Central de Comunicações com os Postos no Exterior CMCE - Sistema de Convidados e Eventos DAV - Sítio da Divisão de Audiovisual DSG - Sistema de controle de compras e contratos
+
+4.10. DTA - Automação da Divisão de Treinamento 4.11. EXPED/POSTO - Elaborador de Expedientes - Versão Postos no Exterior
+Página 56
+
+PROCESSO Nº 09020.000001/2009-11
+
+4.12. EXPED/SERE - Elaborador de Expedientes - Versão SERE 4.13. GAM - Gerador Automático de Minutas 4.14. GDCOF - Gerenciamento de Destinatários de Correspondência Oficial 4.15. GOS - Gerência Operacional do Sistema de Comunicação 4.16. HELPDESK - Sistema de Solicitações de Serviço 4.17. INTRATEC - Intranet do MRE 4.18. LISTA ANTIGUIDADES - Sistema de Lista de Antiguidades 4.19. LOJA FUNAG - Sistema de Loja Virtual da FUNAG 4.20. OCORRÊNCIA - Sistema de Registro e Acompanhamento de Ocorrências 4.21. QA - Votação do Quadro de Acesso 4.22. RANKING DE VEÍCULOS - Cadastro de Veículos dos Postos 4.23. RENDA CONSULAR - Controle de estampilhas de Renda Consular 4.24. SCCE - Sistema de Controle Contábil de Eventos 4.25. SCNA - Sistema de Controle de Nível de Acesso 4.26. SCTABM - Sistema de Cadastro e Tramitação dos Acordos 4.27. SEDIT - Sistema Eletrônico de Distribuição de Telegramas 4.28. SEPROD - Sistema de Elaboração e Protocolo de Documentos 4.29. SET - Sistema de acesso à Série Telegráfica 4.30. SGMEMO - Sistema Gerenciador de Mini-memos 4.31. SGRH - Sistema de Gerenciamento de Recursos Humanos 4.32. SIABI - Sistema de Administração dos Bens Imóveis 4.33. SICOL - Sistema de pagamentos de contratados locais 4.34. SICOP - Sistema de Controle de Patrimônio dos Postos no Exterior 4.35. SIGABS - Sistema de Gestão de Aquisições de Bens Móveis e Serviços 4.36. SIGEF - Sistema Integrado de Gestão e Execução Financeira 4.37. SIGOF - Sistema Integrado De Gestão Orçamentária e Financeira 4.38. SINCER - Sistema Integrado de Cerimonial 4.39. SISCASG - Sistema de Documentação da CASG 4.40. SISMAT - Sistema de Controle de Materiais 4.41. SISMEM - Sistema de Controle de Exportação de Bens Sensíveis e Serviços Diretamente Vinculados 4.42. SISREQ - Sistema de Controle de Requisições de Passagens 4.43. SISTRANS - Sistema de Controle de Transferência de Material 4.44. SMCD - Serviços de Malas e Correios Diplomáticos 4.45. SRTP - Sistema de Recursos Tecnológicos dos Postos 4.46. VISTO - Sistema de Controle de Vistos e Passaportes de Imigrantes Estrangeiros
+
+Página 57
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+TERMO DE REFERÊNCIA - ANEXO C PERFIS PROFISSIONAIS
+
+1. RELAÇÃO DAS ESPECIALIDADES 1.1. 1.2. 1.3. 1.4. 1.5. 1.6. 1.7. 1.8. 1.9. Analista de Sistemas em Ambiente Cliente-Servidor (Sênior) Analista de Sistemas em Ambiente Web (Pleno/Sênior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Júnior/Pleno/Sênior) Programador em Ambiente Cliente-Servidor (Pleno/Sênior) Programador em Ambiente Web (Júnior/Pleno/Sênior) WEB Designer Administrador de Banco de Dados (Pleno/Sênior) Analista de Sistemas de Informação Supervisor de Banco de Dados
+
+1.10. Supervisor de Desenvolvimento de Sistemas 1.11. Supervisor de Manutenção de Sistemas 2. DESCRIÇÃO DAS ATRIBUIÇÕES E COMPETÊNCIAS TÉCNICAS MÍNIMAS 2.1. Analista de Sistemas em Ambiente Cliente-Servidor (Sênior)
+
+Atribuições: Atuar no planejamento e coleta das informações junto aos usuários, a fim de implantar sistemas de processamentos de dados. Desenvolver sistemas a partir da análise de coleta de informações, estudando fluxos de trabalho, necessidades de recursos, a fim de propor alterações de rotina e elaborar propostas. Implantar e manter sistemas, observando eficiência, racionalidade e solução de problemas técnicos. Elaborar manuais de sistemas. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em desenvolvimento de projetos lógicos e físicos de sistemas.
+
+Página 58
+
+PROCESSO Nº 09020.000001/2009-11
+
+· · · · ·
+
+Experiência em projeto de sistemas com UML, especificação em 3-Camadas, OOP e modelo de dados ERM. Experiência em ambiente "M S-Windows", "MS-SQLServer" e "ExchangeServer". Conhecimento de ambiente "Linux", "FreeBSD", "PostgreSQL" e "MySQL". Experiência em projetos de sistemas implementados em "Visual Basic". Experiência em projetos de sistemas colaborativos na plataforma "MS-Office" e VBA.
+
+Capacitação: Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos por Função; Teste/Qualidade de Software. Carga-horária mínima: 16 horas para cada curso. 2.2. Analista de Sistemas em Ambiente Web (Pleno/Sênior)
+
+Atribuições: Atuar no planejamento e coleta das informações junto aos usuários, a fim de implantar sistemas de processamentos de dados. Desenvolver sistemas a partir da análise de coleta de informações, estudando fluxos de trabalho, necessidades de recursos, a fim de propor alterações de rotina e elaborar propostas. Implantar e manter sistemas, observando eficiência, racionalidade e solução de problemas técnicos. Elaborar manuais de sistemas. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em desenvolvimento de projetos lógicos e físicos de sistemas. · Experiência em projeto de sistemas com UML, especificação em 3-Camadas, OOP e modelo de dados ERM. · Experiência em ambiente "MS-Windows" e "MS-SQLServer". · Conhecimento de ambiente "Linux", "FreeBSD", "PostgreSQL" e "MySQL" · Experiência em projetos de sistemas implementados em "Vbscript", "PHP" e "Javascript". · Conhecimento de TCP/IP, HTTP, CGI, SMTP, DOM, HTML, CSS, XML e AJAX. Capacitação: Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos por Função; Teste/Qualidade de Software. Carga-horária mínima: 16 horas para cada curso. 2.3. Analista de Sistemas em Ambiente "Plone-Zope-Python" (Júnior/Pleno/Sênior)
+
+Atribuições: Atuar no planejamento e coleta das informações junto aos usuários, a fim de implantar sistemas de processamentos de dados. Desenvolver sistemas a partir da análise de coleta de informações, estudando fluxos de trabalho, necessidades de recursos, a fim de propor alterações de rotina e elaborar propostas. Implantar e manter sistemas, observando eficiência, racionalidade e solução de problemas técnicos. Elaborar manuais de sistemas.
+
+Página 59
+
+PROCESSO Nº 09020.000001/2009-11
+
+Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em desenvolvimento de projetos lógicos e físicos de sistemas. · Experiência em projeto de sistemas com UML, especificação em 3-Camadas, OOP e modelo de dados OODB. · Experiência em banco de dados ZODB. · Conhecimento de ambiente "MS-Windows" e "MS-SQLServer". · Experiência em ambiente "Linux", "FreeBSD", "PostgreSQL" e "MySQL". · Experiência em projetos de sistemas implementados em "Plone", "Zope" e "Python". · Conhecimento de TCP/IP, HTTP, CGI, SMTP, DOM, HTML, CSS, XML e AJAX. Capacitação: Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos por Função; Teste/Qualidade de Software; Plone/Zope. Carga-horária mínima: 16 horas para cada curso. 2.4. Programador em Ambiente Cliente-Servidor (Pleno/Sênior)
+
+Atribuições: Codificar, desenvolver e testar programas projetados pelos analistas de sistemas. Preparar fluxogramas, codificar e documentar as rotinas necessárias ao processamento de dados. Realizar manutenção preventiva e corretiva dos programas. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Conhecimento de ambiente "MS-Windows" e "MS-SQLServer". · Experiência em OOP, com modelo de dados ERM, e especificação em 3Camadas. · Experiência em programação de aplicativos com "Visual Basic". · Experiência em programação de sistemas colaborativos na plataforma "MSOffice" e VBA. Capacitação: Programação Visual Basic, Java Script/VB Script, Delphi e/ou Java; Teste/Qualidade de Software. Carga-horária mínima: 40 horas para cada curso. 2.5. Programador em Ambiente Web (Júnior/Pleno/Sênior)
+
+Atribuições: Codificar, desenvolver e testar programas projetados pelos analistas de sistemas. Preparar fluxogramas, codificar e documentar as rotinas necessárias ao processamento de dados. Realizar manutenção preventiva e corretiva dos programas. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em OOP, com modelo de dados ERM, e especificação em 3Camadas.
+
+Página 60
+
+PROCESSO Nº 09020.000001/2009-11
+
+· · · · · ·
+
+Experiência na linguagem SQL. Experiência em ambiente "MS-Windows" e "MS-SQLServer". Conhecimento de ambiente "Linux", "FreeBSD", "PostgreSQL" e "MySQL" Experiência em programação "VBScript", "PHP" e "JavaScript". Experiência em desenvolvimento de sistemas para Intranet/Internet. Conhecimento de TCP/IP, HTTP, CGI, SMTP, DOM, HTML, CSS, XML e AJAX
+
+Capacitação: Programação PHP, ASP/HTML/Java Script/VB Script, Delphi e/ou Java; Teste/Qualidade de Software. Carga-horária mínima: 40 horas para cada curso. 2.6. WEB Designer
+
+Atribuições: Fazer a programação visual das interfaces dos sítios e aplicativos para a Web. Propor, revisar e validar soluções de interatividade. Gerar imagens e grafismos necessários para implementar as soluções propostas. Competências técnicas: · Formação de nível superior, preferencialmente em área de Comunicação. · Conhecimento de ambiente "MS-Windows". · Conhecimento de DOM, CGI e AJAX. · Experiência em DHTML e CSS. · Experiência em "Adobe Photoshop", "Macromedia Flash" e "Corel Draw". Capacitação: Programação Visual ou Web Design. Carga-horária mínima: 40 horas para cada curso. 2.7. Administrador de Banco de Dados (Pleno/Sênior)
+
+Atribuições: Coordenar, controlar e acompanhar as atividades referentes à administração de banco de dados, envolvendo instalação, configurações, projetos e manutenção de dados, com a finalidade de agilizar e facilitar os trabalhos de desenvolvimento de sistemas, dentro de parâmetros de segurança e integridade. Projetar estruturas de novos bancos de dados, desenvolver modelagem de dados e objetos, gerar esquemas de banco de dados e padronizar os procedimentos de acesso aos dados. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em modelagem de dados ERM. · Experiência na linguagem SQL. · Conhecimento de modelagem de dados OODBM. · Experiência em UML e técnicas de 3-Camadas. · Experiência em "MS-SQLServer", "PostgreSQL" e "MySQL". · Conhecimento de ambiente "MS-Windows", "Linux" e "FreeBSD".
+
+Página 61
+
+PROCESSO Nº 09020.000001/2009-11
+
+Capacitação: Modelagem de Dados; Análise/Projeto Orientado a Objetos. Carga-horária mínima: 16 horas para cada curso. 2.8. Analista de Sistemas de Informação
+
+Atribuições: Prestar informações de alto nível em assuntos referentes à área de Informática por meio de estudos, análises e relatórios estratégicos. Planejar o desenvolvimento, implantação e suporte de sistemas de informação e de sistemas integrados de gestão. Pesquisar soluções tecnológicas específicas. Emitir pareceres técnicos. Subsidiar a formulação de políticas de utilização de recursos de informática e de segurança da informação. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em elaboração de projetos de implantação, racionalização e redesenho de processos. · Experiência em elaboração de estudos, pareceres e análises comparativas de técnicas, processos e tecnologias. · Experiência em prospecção tecnológica na área de Informática. · Experiência em elaboração de Planos de Modernização Tecnológica. · Experiência em elaboração de estudos econômico-financeiros de projetos de Informática. Capacitação: Arquitetura de Hardware e Software; Análise/Projetos Estruturados; Planejamento e Gerenciamento de Serviços de TI. Carga-horária mínima: 16 horas para cada curso. 2.9. Supervisor de Banco de Dados
+
+Atribuições: Planejar, organizar, orientar e avaliar tecnicamente as atividades da área de banco de dados. Propor melhorias tecnológicas. Controlar a utilização e desempenho dos recursos tecnológicos da sua área. Participar de reuniões de planejamento com a Chefia e subsidiá-la com informações necessárias à tomada de decisões. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em modelagem de dados ERM. · Experiência na linguagem SQL. · Conhecimento de modelagem de dados OODBM. · Experiência em UML e técnicas de 3-Camadas. · Experiência em "MS-SQLServer", "PostgreSQL" e "MySQL". · Conhecimento de ambiente "MS-Windows", "Linux" e "FreeBSD". Capacitação: Modelagem de Dados; Análise/Projeto Orientado a Objetos. Carga-horária mínima: 16 horas para cada curso.
+
+Página 62
+
+PROCESSO Nº 09020.000001/2009-11
+
+2.10. Supervisor de Desenvolvimento de Sistemas Atribuições: Planejar, organizar, orientar e avaliar tecnicamente as atividades da área de desenvolvimento de sistemas. Propor melhorias tecnológicas. Controlar a utilização e desempenho dos recursos tecnológicos da sua área. Participar de reuniões de planejamento com a Chefia e subsidiá-la com informações necessárias à tomada de decisões. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em desenvolvimento de projetos lógicos e físicos de sistemas . · Conhecimento de projeto de sistemas com UML, especificação em 3Camadas, OOP e modelos de dados ERM e OODBM. · Conhecimento de ambiente "MS-Windows" e "MS-SQLServer". · Conhecimento de ambiente "Linux", "FreeBSD", "PostgreSQL" e "MySQL" · Conhecimento de projetos de sistemas implementados em "Vbscript", "PHP" e "Javascript". · Conhecimento de projetos de sistemas implementados em "Plone", "Zope" e "Python". · Conhecimento de TCP/IP, HTTP, CGI, SMTP, DOM, HTML, CSS, XML e AJAX. Capacitação: Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos por Função; Teste/Qualidade de Software; Plone/Zope. Carga-horária mínima: 16 horas para cada curso. 2.11. Supervisor de Manutenção de Sistemas Atribuições: Planejar, organizar, orientar e avaliar tecnicamente as atividades da área de manutenção de sistemas. Propor melhorias tecnológicas. Controlar a utilização e desempenho dos recursos tecnológicos da sua área. Participar de reuniões de planejamento com a Chefia e subsidiá-la com informações necessárias à tomada de decisões. Competências técnicas: · Formação de nível superior, preferencialmente em área de Informática. · Experiência em desenvolvimento de projetos lógicos e físicos de sistemas. · Conhecimento de projeto de sistemas com UML, especificação em 3Camadas, OOP e modelos de dados ERM e OODBM. · Conhecimento de ambiente "MS-Windows" e "MS-SQLServer". · Conhecimento de ambiente "Linux", "FreeBSD", "PostgreSQL" e "MySQL" · Conhecimento de projetos de sistemas implementados em "Visual Basic". · Conhecimento de projetos de sistemas colaborativos implementados na plataforma "MS-Office" e VBA. · Conhecimento de projetos de sistemas implementados em "Vbscript", "PHP" e "Javascript". · Conhecimento de projetos de sistemas implementados em "Plone", "Zope" e "Python".
+
+Página 63
+
+PROCESSO Nº 09020.000001/2009-11
+
+·
+
+Conhecimento de TCP/IP, HTTP, CGI, SMTP, DOM, HTML, CSS, XML e AJAX.
+
+Capacitação: Análise/Projeto Orientado a Objetos; Gerenciamento de Projetos PMI; Análise de Pontos por Função; Teste/Qualidade de Software; Plone/Zope. Carga-horária mínima: 16 horas para cada curso. 3. TEMPO MÍNIMO DE EXPERIÊNCIA
+Tempo mínimo de Experiência em anos
+
+Perfil Profissional
+
+Analista de Sistemas em Ambiente Cliente-Servidor (Sênior) Analista de Sistemas em Ambiente Web (Pleno) Analista de Sistemas em Ambiente Web (Sênior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Júnior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Pleno) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Sênior) Programador em Ambiente Cliente-Servidor (Pleno) Programador em Ambiente Cliente-Servidor (Sênior) Programador em Ambiente Web (Júnior) Programador em Ambiente Web (Pleno) Programador em Ambiente Web (Sênior) WEB Designer Administrador de Banco de Dados (Pleno) Administrador de Banco de Dados (Sênior) Analista de Sistemas de Informação Supervisor de Banco de Dados Supervisor de Desenvolvimento de Sistemas Supervisor de Manutenção de Sistemas 4. ACRÔNIMOS E ABREVIATURAS UTILIZADOS AJAX: Asynchronous Javascript and XML CARP: Common Address Redundancy Protocol CGI: Common Gateway Interface CSS: Cascade Style Sheet DHCP: Dynamic Host Configuration Protocol DNS: Domain Name Server DOM: Document Object Model ERM: Entity-Relation Model HTML: Hypertext Markup Language HTTP: Hypertext Transfer Protocol IDS: Intrusion Detection System
+
+5 3 5 1 3 5 3 5 1 3 5 2 3 5 10 5 5 5
+
+Página 64
+
+PROCESSO Nº 09020.000001/2009-11
+
+LAN: Local Area Network LDAP: Lightweight Directory Access Protocol OODB: Object-Oriented Database OODBM: Object-Oriented Database Model OOP: Object-Oriented Programming SMTP: Simple Mail Transport Protocol SQL: Structured Query Language TCP/IP: Transport Control Protocol / Internet Protocol UML: Unified Modeling Language VBA: Visual Basic for Applications WAN: Wide Area Network WINS: Windows Internet Name Service XML: Extensible Markup Language ZODB: Zope Object Database
+
+Página 65
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+TERMO DE REFERÊNCIA - ANEXO D TERMO DE COMPROMISSO DE MANUTENÇÃO DE SIGILO (MODELO)
+
+A _________(empresa)_________, com sede na _______________________, CEP ____________, inscrita no CNPJ sob o nº _________________, neste ato representada por _______________________, portador do documento de identidade ________________, CPF nº _____________, compromete-se a manter sigilo sobre os atos e fatos conhecidos em decorrência da execução do contrato nº __________, celebrado com o Ministério das Relações Exteriores, zelar pela proteção dos documentos, materiais, áreas de instalações, comunicações e sistemas de informação de natureza sigilosa sob sua responsabilidade, tudo conforme os preceitos do Decreto nº 4.553, de 27 de dezembro de 2002, bem como outros dispositivos legais que o complementem ou que venham a substituí-lo. E por estar de acordo com o presente TERMO DE COMPROMISSO, assina na presença das testemunhas abaixo nomeadas.
+
+Brasília, ______ de ________________ de 2009.
+
+____________________________________ Representante Legal Testemunhas:
+
+_____________________________ (Nome) (CPF) (RG)
+
+_____________________________ (Nome) (CPF) (RG)
+
+Página 66
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+TERMO DE REFERÊNCIA - ANEXO E DECLARAÇÃO DE VISTORIA (MODELO)
+
+Empresa: CNPJ: Declaramos, para fins de participação no Pregão Eletrônico DCD Nº ___/2009, do Ministério das Relações Exteriores - MRE, que realizamos vistoria do ambiente físico, organizacional e tecnológico do MRE e que, para todos os efeitos, tomamos conhecimento de todos os dados e elementos que possam vir a influir no valor proposto e na execução dos trabalhos pertinentes. Declaramos, outrossim, que estamos satisfeitos com as informações obtidas e plenamente capacitados a elaborar nossa proposta para a licitação.
+
+Brasília, DF Assinatura: Nome: Identidade:
+
+de
+
+2009.
+
+Ministério das Relações Exteriores:
+
+Confirmo a realização da vistoria. ___________________________ (nome) (RG)
+
+Página 67
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+TERMO DE REFERÊNCIA - ANEXO F CUSTO ESTIMADO DA CONTRATAÇÃO
+
+Modalidade "Fábrica de Software"
+Demanda anual prevista Ponto de Função Preço estimado por Ponto de Função Preço estimado anual
+
+5.000 Modalidade "Horas Trabalhadas"
+Demanda prevista de horas anuais
+
+804,37
+
+4.021.850,00
+
+Perfil Profissional
+
+Preço estimado por hora
+
+Preço estimado anual
+
+Analista de Sistemas em Ambiente Cliente-Servidor (Sênior) Analista de Sistemas em Ambiente Web (Pleno) Analista de Sistemas em Ambiente Web (Sênior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Júnior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Pleno) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Sênior) Programador em Ambiente Cliente-Servidor (Pleno) Programador em Ambiente Cliente-Servidor (Sênior) Programador em Ambiente Web (Júnior) Programador em Ambiente Web (Pleno) Programador em Ambiente Web (Sênior) WEB Designer Administrador de Banco de Dados (Pleno) Administrador de Banco de Dados (Sênior) Analista de Sistemas de Informação Supervisor de Banco de Dados Supervisor de Desenvolvimento de Sistemas Supervisor de Manutenção de Sistemas
+
+4.032 8.064 10.080 8.064 6.048 4.032 4.032 4.032 8.064 18.144 18.144 6.048 6.048 6.048 6.048 2.016 2.016 2.016
+
+114,33 80,89 106,65 62,77 97,45 140,20 72,82 87,24 42,04 64,72 84,96 50,11 85,26 119,46 123,80 123,75 128,42 112,02
+
+460.979,36 326.133,60 860.000,32 632.685,40 785.807,04 847.950,96 293.590,72 351.755,04 169.502,08 521.916,80 1.541.468,88 909.251,64 515.643,84 722.495,28 748.765,08 748.461,84 258.888,56 225.832,88
+
+Estimativa de preço global Preço estimado dos serviços na modalidade "Fábrica de Software" Preço estimado dos serviços na modalidade "Horas Trabalhadas" PREÇO GLOBAL ESTIMADO DOS SERVIÇOS
+
+4.021.850,00 10.921.129,32 14.942.979,32
+
+Página 68
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES SUBSECRETARIA GERAL DO SERVIÇO EXTERIOR DEPARTAMENTO DE ADMINISTRAÇÃO COORDENAÇÃO DE LICITAÇÕES
+
+PROCESSO ADMINISTRAT IVO Nº 09020.000001/2009-11 PREGÃO ELETRÔNICO Nº DCD 01 / 2009
+
+ANEXO II DO EDITAL
+
+MINUTA DE CONTRATO
+
+Página 69
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES DEPARTAMENTO DE COMUNICAÇÕES E DOCUMENTA ÇÃO DIVISÃO DE INFORMÁTICA
+
+MINUTA DE CONTRATO
+
+CONTRATO Nº DCD _____ / 2009 CONTRATO DE PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS EM TECNOLOGIA DA INFORMAÇÃO QUE ENTRE SI CELEBRAM A UNIÃO, POR INTERMÉDIO DO MINISTÉRIO DAS RELAÇÕES EXTERIORES E A EMPRESA _________________________________________.
+
+A UNIÃO, por intermédio do Ministério das Relações Exteriores, com sede na Esplanada dos Ministérios, Bloco H, em Brasília - DF, CNPJ nº 00.394.536/0012-91, doravante denominada CONTRATANTE, neste ato representada por Hélio Vitor Ramos Filho, CPF nº 512.168.097-04, portador da Carteira de Identidade nº 8.006/MRE, Diretor do Departamento de Comunicações e Documentação, de acordo com a Portaria nº 53, de 24 de janeiro de 2006, da Ministra de Estado Chefe da Casa Civil da Presidência da República, no uso das atribuições que lhe são conferidas pelo disposto no artigo 183 do Regimento Interno da Secretaria de Estado, baixado pela Portaria nº 212, de 30 de abril de 2008, e a empresa ________________, com sede na cidade de ___________________, com registro no CNPJ nº ___________________, neste ato representada por ____________________, CPF nº. ________________, portador da Carteira de Identidade nº ______________, doravante denominada CONTRATADA, têm entre si justo e contratado o serviço em epígrafe, resultado do Pregão Eletrônico nº DCD 10 / 2008, mediante as cláusulas e condições a seguir estipuladas, em conformidade com a IN SLTI/MPOG nº 04, de 19/05/2008, publicada no D.O.U. de 20/05/2008; a IN MARE nº 05, de 21/07/95, publicada no D.O.U. de 19/04/96; a Lei nº 10.520, de 17/07/2002, publicada no D.O.U. de 18/07/2002; os Decretos : nº 5.450, de 31/05/2005, publicado no Diário Oficial da União de 01/06/2005, nº 3.555, de 8/8/2000, publicado no D.O.U. de 9/8/2000, nº 3.693 de 20/12/2000, publicado no D.O.U. de 21/12/2000 e nº 3.784 de 06/04/2001, publicado no D.O.U. de 09/04/2001 e a Lei nº 8.666/1993. CLÁUSULA 1 - DO OBJETO O objeto do presente Contrato é a contratação de serviços técnicos especializados em Tecnologia da Informação, complementares às atividades do Departamento de Comunicações e Documentação do Ministério das Relações Exteriores - MRE, nas áreas de planejamento estratégico, banco de dados, desenvolvimento e manutenção de sistemas.
+
+Página 70
+
+PROCESSO Nº 09020.000001/2009-11
+
+1.1.
+
+Informações sobre o escopo, atividades e requisitos técnicos referentes à execução deste Contrato estão contidas no Edital do Pregão Eletrônico Nº DCD 01 / 2009 e seus anexos e na Proposta da CONTRATADA, datada de ___ de __________ de 2009, com os documentos que a compõem, que passam a integrar este Instrumento, independente de transcrição.
+
+CLÁUSULA 2 - INÍCIO DA EXECUÇÃO DOS SERVIÇOS A CONTRATADA deverá iniciar a execução dos serviços no prazo de 30 (trinta) dias corridos a partir da data de assinatura deste Contrato. 2.1. Será considerado como início da execução dos serviços o momento em que a CONTRATADA estiver operando de acordo com todos os requisitos previstos no edital e anexos da contratação, incluindo toda a infra-estrutura de "software" implantada e configurada, profissionais treinados, capacitados e no desempenho de suas atribuições. A CONTRATADA deverá apresentar, para aprovação da CONTRATANTE, no prazo máximo de 5 (cinco) dias após a data de assinatura deste Contrato, projeto completo para implantação dos serviços, contendo cronograma detalhado de atividades a serem executadas pela CONTRATADA e pela CONTRATANTE.
+
+2.2.
+
+CLÁUSULA 3 - DA EXECUÇÃO DO CONTRATO A execução deste Contrato, bem como os casos nele omissos, regular-se-ão pelas cláusulas contratuais e pelos preceitos de direito público, aplicando-se-lhes, supletivamente, os princípios da Teoria Geral dos Contratos e as disposições de direito privado, na forma do artigo 54, da Lei nº 8.666/93, combinado com o inciso XII do artigo 55 do mesmo diploma legal. CLÁUSULA 4 - DO REGIME DE EXECUÇÃO DO CONTRATO O regime de execução do presente Contrato é o de empreitada por preço global. CLÁUSULA 5 - DOS PREÇOS Os preços dos serviços são descritos na tabela a seguir, conforme Proposta da CONTRATADA:
+Modalidade "Fábrica de Software" Demanda anual prevista 5.000 Modalidade "Horas Trabalhadas" Demanda prevista de horas anuais 4.032 8.064 10.080 8.064 6.048 4.032 Preço estimado por hora Preço estimado anual Preço estimado por Ponto de Função Preço estimado anual
+
+Ponto de Função
+
+Perfil Profissional Analista de Sis temas em Ambiente Cliente-Servidor (Sênior) Analista de Sistemas em Ambiente Web (Pleno) Analista de Sistemas em Ambiente Web (Sênior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Júnior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Pleno) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Sênior)
+
+Página 71
+
+PROCESSO Nº 09020.000001/2009-11
+
+Programador em Ambiente Cliente-Servidor (Pleno) Programador em Ambiente Cliente-Servidor (Sênior) Programador em Ambiente Web (Júnior) Programador em Ambiente Web (Pleno) Programador em Ambiente Web (Sênior) WEB Designer Administrador de Banco de Dados (Pleno) Administrador de Banco de Dados (Sênior) Analista de Sistemas de Informação Supervisor de Banco de Dados Supervisor de Desenvolvimento de Sistemas Supervisor de Manutenção de Sistemas Estimativa de preço global
+
+4.032 4.032 8.064 18.144 18.144 6.048 6.048 6.048 6.048 2.016 2.016 2.016
+
+Preço estimado dos serviços na modalidade "Fábrica de Software": Preço estimado dos serviços na modalidade "Horas Trabalhadas": PREÇO GLOBAL ESTIMADO DOS SERVIÇOS:
+
+CLÁUSULA 6 - DO VALOR DO CONTRATO Considerando-se a demanda de serviços estimada, conforme a cláusula 5, o valor anual estimado deste Contrato é de R$ XXX.XXX.XXX, XX (XXXXXXXXXXXXXXX) e o valor mensal estimado deste Contrato é de R$ XXX.XXX.XXX,XX (XXXXXXXXXXXX). 6.1. Para atendimento desta despesa foi emitida a Nota de Empenho nº ______, datada de ____________ de 2009.
+
+CLÁUSULA 7 - DOS RECURSOS ORÇAMENTÁRIOS As despesas decorrentes da aquisição objeto deste Contrato correrão à conta das seguintes programações, constantes do orçamento do Ministério das Relações Exteriores: Programa de Trabalho 07.122.0750.2000.0001 - Administração da Unidade, Elemento de Despesa 3390.39 ­ Serviço de Terceiros ­ Pessoa Jurídica. CLÁUSULA 8 - DA GARANTIA Para garantir o integral cumprimento das obrigações assumidas neste Instrumento, a CONTRATADA entrega neste ato à CONTRATANTE garantia, na modalidade XXXXXXXXXXX, no valor de R$ XXXXXXXXXXX (XXXXXXXXXXXXXXXX), correspondente a 5% (cinco por cento) do valor anual estimado do Contrato. 8.1. A CONTRATANTE poderá utilizar o valor da garantia para se ressarcir de danos causados pela CONTRATADA, para cobrir custos resultantes de má execução dos serviços, de danos causados a terceiros na execução deste Contrato, bem como para cobrança de valores das penalidades porventura aplicadas. Se o valor da garantia for utilizado em pagamento de qualquer obrigação, inclusive indenização a terceiros, ou reduzido em termos reais por desvalorização da moeda, de forma que não mais represente 5% (cinco por cento) do valor anual estimado do Contrato, a CONTRATADA se obriga a restabelecer o valor real da garantia, no prazo máximo de 5 (cinco) dias úteis, a contar da data em que, para tanto, for notificada pela CONTRATANTE.
+
+8.2.
+
+Página 72
+
+PROCESSO Nº 09020.000001/2009-11
+
+8.3. 8.4.
+
+A garantia somente será restituída pela CONTRATANTE após o cumprimento integral de todas as obrigações contratuais assumidas pela CONTRATADA. O valor descontado a título de multa de forma alguma será devolvido à CONTRATADA.
+
+CLÁUSULA 9 - DA VIGÊNCIA O Contrato de prestação de serviços vigorará por 12 (doze) meses a partir da data de sua assinatura, podendo ser prorrogado, por interesse da Administração e demonstrada a vantajosidade, por períodos subseqüentes de doze meses, desde que demonstrado interesse público, e a critério do MRE, nas condições e limites estabelecidos no inciso II do Art. 57 da Lei 8.666/93. CLÁUSULA 10 - DO MODELO DE EXECUÇÃO E FORMA DE PAGAMENTO Para a execução deste Contrato será implementado método de trabalho com base no conceito de delegação de responsabilidade. Este conceito atribui à CONTRATANTE a gestão quantitativa e qualitativa dos resultados a serem obtidos pelas atividades desenvolvidas dentro dos prazos previstos pela CONTRATADA, de acordo com especificações, custos, prazos e padrões de qualidade previamente definidos. Cabe à CONTRATADA, por sua vez, a responsabilidade pela execução operacional dos serviços e pelo gerenciamento apropriado de seus recursos humanos, físicos e tecnológicos. 10.1. A execução dos serviços poderá ser feita em duas modalidades, a critério da CONTRATANTE. A primeira, denominada "Fábrica de Software", e a segunda, denominada "Horas Trabalhadas". 10.2. Para o dimensionamento dos serviços na modalidade "Fábrica de Software", executados sob demanda, será adotada a medição em Pontos de Função. 10.3. Para as categorias de desenvolvimento de novos sistemas, manutenção de sistemas (evolutiva, adaptativa e perfectiva) e documentação, o pagamento será feito com base nos serviços efetivamente executados no mês pela equipe técnica da CONTRATADA, devidamente autorizados em Ordem de Serviços e documentados nos relatórios de acompanhamento de Ordens de Serviços. O valor a ser pago corresponderá à multiplicação do tamanho do sistema/módulo em pontos de função (PF) pelo "valor do ponto de função" da categoria de serviço correspondente (desenvolvimento, manutenção ou documentação). A Ordem de Serviços deverá contemplar os pontos de medição do tamanho do sistema/módulo e cronograma de desembolso financeiro, considerando o pagamento de parcelas associadas a entregas de artefatos e produtos. 10.4. Para a categoria de sustentação de sistemas, o pagamento será feito com base em valor fixo mensal, devidamente autorizado em Ordem de Serviço e documentado nos relatórios de acompanhamento de Ordens de Serviço. O valor a ser pago corresponderá à multiplicação do tamanho do sistema em pontos de função (PF) pelo valor do "ponto de função de sustentação de sistemas". A Ordem de Serviço deverá conter os pontos de medição do tamanho do sistema para fins de adequação do valor fixo mensal de sustentação. 10.5. Na fase de transição/imersão, prevista para os primeiros 90 (noventa) dias de prestação de serviços de sustentação de sistemas ­ a qual corresponde às atividades de levantamento de situação, dimensionamento do tamanho e absorção do sistema pela equipe técnica da CONTRATADA, o pagamento será feito com base nas horas despendidas no mês para a realização dos serviços
+Página 73
+
+PROCESSO Nº 09020.000001/2009-11
+
+por aquela equipe, devidamente autorizados em Ordem de Serviço e documentados nos relatórios de acompanhamento de Ordens de Serviço. O valor a ser pago corresponderá à multiplicação das horas efetivamente despendidas no mês pelo "valor da hora de serviço prestado por perfil profissional" correspondente. 10.6. Eventuais ajustes decorrentes de diferenças entre as contagens inicial (estimativa), intermediária (de acordo com pontos de medição indicados na Ordem de Serviço) e final em Pontos de Função, bem como deduções de valores relativos a penalidades, serão feitos a cada pagamento de parcela prevista no cronograma de desembolso financeiro. 10.7. Na modalidade "Horas Trabalhadas" os serviços serão prestados de forma continuada e mensurados por "hora de serviço prestado por perfil profissional". O pagamento dos serviços nesta modalidade corresponderá à multiplicação das horas despendidas por cada profissional pelo respectivo valor-hora do perfil profissional utilizado. 10.8. A execução dos serviços a seguir relacionados deverá obedecer aos critérios definidos pela Metodologia de Desenvolvimento de Sistemas (MDS) e pela Metodologia de Análise de Pontos de Função (MAPF) baseada no Manual de Práticas de Contagem de Pontos de Função versão 4.2.1 ("Function Point Counting Practices Manual release 4.2"), publicado pelo IFPUG ("International Function Point Users Group"): a) Levantamento e gerência de requisitos, análise e projeto lógicos, construção e implantação de sistemas de informação transacionais e gerenciais, em ambiente cliente-servidor simples e "n-Tier" (multicamadas/web); b) Modelagem de negócio ("Business Modeling"), compreendendo o mapeamento dos produtos e serviços das áreas de negócio da CONTRATANTE e/ou fluxo de informação, com vistas a identificar necessidades de construção de novos sistemas e/ou manutenções evolutivas; c) Gerência de projetos por meio da elaboração de documentos de controle das metodologias, controle de iterações, gestão de riscos e de recursos; d) Execução de testes para os requisitos funcionais e não-funcionais, envolvendo o planejamento, documentação e execução dos testes, inclusive por meio de ferramentas de automação dos testes, considerando os devidos controles de acesso, integridade e segurança da informação; e) Documentação e redocumentação de sistemas; f) Planejamento, elaboração de material e execução de treinamentos relacionados ao uso dos sistemas de informação desenvolvidos.
+
+10.9. Para um determinado processo, a CONTRATANTE poderá demandar tanto a execução de todo o ciclo de desenvolvimento quanto só alguma(s) de sua(s) fase(s) ou disciplina(s). 10.10. Todo e qualquer serviço a ser prestado pela CONTRATADA só poderá ser executado mediante Ordem de Serviço (OS), devidamente autorizada pela CONTRATANTE. 10.11. O valor de cada etapa da OS e, conseqüentemente, o valor global da mesma, deverá ser calculado pela unidade de medida "hora de serviço prestado por perfil
+Página 74
+
+PROCESSO Nº 09020.000001/2009-11
+
+profissional" (quantidade de horas trabalhadas por cada profissional multiplicado pelo valor da hora do perfil profissional) e, quando for o caso, acrescida dos valores referentes a "pontos de função" executados no período (quantidade de pontos de função multiplicada pelo valor do Ponto de Função do serviço executado: desenvolvimento, manutenção ou documentação) e dos valores referentes a sustentação de sistemas (quantidade de pontos de função dos sistema multiplicada pelo valor de sustentação). 10.12. Mensalmente, deverão ser apresentados pela CONTRATADA o relatório das atividades desenvolvidas no período, bem como planilha de controle das horas de serviços prestados por Ordem de Serviço. A apresentação desses documentos é imprescindível para a validação/aceite dos produtos/serviços executados e a conseqüente liberação dos pagamentos. 10.13. O pagamento à CONTRATADA será efetuado mensalmente, mediante ordem bancária, em até 30 (trinta) dias, contados a partir da data de apresentação de fatura ou nota fiscal, em duas vias. 10.14. No caso de faturas emitidas com erro, a contagem de novo prazo de 30 (trinta) dias será iniciada a partir da data de reapresentação do documento corrigido. 10.15. A CONTRATANTE poderá sustar o pagamento à CONTRATADA caso comprove: a) inadimplência no cumprimento de qualquer cláusula ou condição contratual; b) execução insatisfatória dos serviços contratados; c) descumprimento pela CONTRATADA de obrigações para com terceiros que possam prejudicar os serviços prestados à CONTRATANTE; d) situação irregular da CONTRATADA junto ao SICAF, apurada nos termos do subitem 8.8. da IN/MARE nº 5, de 21/07/95. 10.16. Em caso de irregularidade junto ao SICAF, a CONTRATANTE notificará a CONTRATADA para que sejam sanadas as pendências no prazo de 30 (trinta) dias, prorrogáveis por igual período. Findo este prazo sem que haja a regularização da pendência por parte da CONTRATADA, ou apresentação de defesa aceita pela CONTRATANTE, este Contrato estará passível de rescisão e a CONTRATADA sujeita às sanções administrativas previstas neste documento. 10.17. Nos casos de eventuais atrasos de pagamento, desde que a CONTRATADA não tenha concorrido de alguma forma para tanto, fica convencionado que a taxa de atualização financeira devida pela CONTRATANTE, desde a data final do período de adimplemento até a data do efetivo pagamento, será calculada pela fórmula: EM = N × I × VP Onde: EM = Encargos moratórios (em R$) N = Número de dias entre a data prevista para o pagamento e a do efetivo pagamento. I = Índice de atualização financeira = 0,0001095, correspondente a 365 avos de previsão de 4% (quatro por cento) anual VP = Valor da parcela a ser paga (em R$)
+Página 75
+
+PROCESSO Nº 09020.000001/2009-11
+
+10.18. No caso de rescisão contratual caberá à CONTRATADA somente o pagamento dos serviços efetivamente prestados, ressalvado o disposto no § 2° do artigo 79 da Lei n° 8.666/93. 10.19. Desde que autorizada previamente pela CONTRATANTE, a CONTRATADA, na execução deste Contrato, sem prejuízo das responsabilidades contratuais e legais, poderá subcontratar partes dos serviços até o limite de 20% (vinte por cento) do valor deste Contrato. CLÁUSULA 11 - DO ACOMPANHAMENTO E FISCALIZAÇÃO DOS SERVIÇOS A prestação dos serviços será acompanhada e fiscalizada por representante designado pelo Departamento de Comunicações e Documentação do Ministério das Relações Exteriores, nos termos do art. 67 da Lei n° 8.666/93. 11.1. A CONTRATADA deverá manter preposto, aceito pela CONTRATANTE, durante o período de vigência do Contrato, para representá-la administrativamente sempre que for necessário. 11.2. A fiscalização pela CONTRATANTE não exclui nem reduz a responsabilidade da CONTRATADA de eventuais danos causados diretamente à Administração ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços e não implica em co-responsabilidade da CONTRATANTE ou de seus agentes e prepostos, em conformidade com o artigo 70 da Lei nº 8.666/93. 11.3. A atestação das faturas caberá ao servidor da CONTRATANTE formalmente designado para esse fim pelo Diretor do Departamento de Comunicações e Documentação. CLÁUSULA 12 - DA REPACTUAÇÃO DE PREÇOS Será admitida a repactuação dos preços dos serviços com prazo de vigência igual ou superior a doze meses, observado o interregno mínimo de um ano, contado da data limite para apresentação da Proposta de Preços estabelecida no edital do Pregão nº DCD 01 / 2009, em anexo a este Contrato, com base no disposto no artigo 5° do Decreto n° 2.271, de 7/7/1997; no artigo 28 da Lei nº 9.069, de 29/6/1995; no artigo 3°, § 1°, da Lei n° 10.192, de 14/2/2001; e nos artigos 37 a 41 da Instrução Normativa n° 2, de 30/4/2008, do Ministério do Planejamento, Orçamento e Gestão. CLÁUSULA 13 - DOS ACRÉSCIMOS E SUPRESSÕES A CONTRATADA obriga-se a aceitar, nas mesmas condições contratuais, e mediante Termo Aditivo, os acréscimos ou supressões que se fizerem necessários, no interesse da CONTRATANTE, até 25% (vinte e cinco por cento) do valor inicial atualizado do Contrato, de acordo com os Parágrafos 1º e 2º do Artigo 65 da Lei nº 8.666/93. CLÁUSULA 14 - DO DIREITO PATRIMONIAL, DOCUMENTAÇÃO DOS PRODUTOS GERADOS PROPRIEDADE INTELECTUAL E
+
+A CONTRATADA cederá à CONTRATANTE, nos termos do Art. 111 da Lei nº 8.666/93, c/c o Art. 4° da Lei nº 9.609/98, o direito patrimonial e a propriedade intelectual em caráter definitivo dos sistemas desenvolvidos e resultados produzidos em conseqüência da prestação dos serviços. Entende-se por resultados quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, fluxogramas, listagens de programas de computador (fonte e/ou executável) e documentação didática, em papel e meio digital.
+
+Página 76
+
+PROCESSO Nº 09020.000001/2009-11
+
+14.1. A CONTRATADA fica proibida de veicular e comercializar os produtos gerados relativos ao objeto da prestação dos serviços. CLÁUSULA 15 - DO SIGILO DAS INFORMAÇÕES Para que seja possível a execução dos serviços descritos neste Contrato, a CONTRATANTE fornecerá à CONTRATADA as informações e o acesso aos seus equipamentos e sistemas. 15.1. A CONTRATADA será responsabilizada pela divulgação não autorizada ou pelo uso indevido de qualquer informação pertinente à CONTRATANTE. 15.2. Caso se verifique a quebra de sigilo das informações sigilosas da CONTRATANTE, serão aplicadas à CONTRATADA as sanções previstas na Lei n° 8.666/93, sem prejuízo das demais cominações legais. CLÁUSULA 16 - DAS OBRIGAÇÕES DA CONTRATADA Caberá à CONTRATADA: a) Atender às solicitações da CONTRATANTE, de acordo com as especificações técnicas, procedimentos de controle administrativo e cronogramas físicos que venham a ser estabelecidos; b) Elaborar relatório mensal de atividades, no qual devem ser relacionados os serviços prestados durante o mês anterior; c) Designar profissionais especializados e devidamente credenciados, assumindo total responsabilidade pelo cumprimento de todas as obrigações trabalhistas, fiscais e previdenciárias, inclusive aquelas decorrentes de acidentes, indenizações, multas, seguros, normas de saúde pública e regulamentadoras do trabalho; d) Capacitar a equipe técnica alocada aos serviços contratados sempre que se fizer necessário, considerando a evolução tecnológica e/ou mudança de tecnologia, cabendo à CONTRATANTE esta definição; e) Manter seus funcionários devidamente informados das normas disciplinares da CONTRATANTE, bem como das normas de utilização e de segurança das instalações e do manuseio dos documentos; f) Comunicar previamente à CONTRATANTE a relação dos profissionais que serão alocados aos serviços, com vistas a verificar o cumprimento do item, 5.3 - Perfis dos profissionais, do Termo de Referência, quanto à habilitação profissional.
+
+g) Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no todo ou em parte, o equipamento em que se verificarem vícios, defeitos ou incorreções resultantes de mau uso por parte de seus funcionários; h) Manter, durante a execução do contrato, todas as condições de habilitação exigidas na licitação, mantendo todos os documentos fiscais nos seus prazos de validade; i) Não se valer deste Contrato para assumir obrigações perante terceiros, dando-o como garantia, nem utilizar os direitos de crédito, a serem auferidos em função dos serviços prestados, em quaisquer operações de desconto bancário, sem prévia autorização da CONTRATANTE; Substituir imediatamente qualquer dos técnicos alocados aos serviços cuja atuação, permanência ou comportamento forem julgados prejudiciais ou
+
+j)
+
+Página 77
+
+PROCESSO Nº 09020.000001/2009-11
+
+inconvenientes à execução do objeto contratado ou às normas da CONTRATANTE; k) Garantir a execução dos serviços sem interrupção, substituindo, caso necessário, e sem ônus adicional, qualquer técnico que esteja em gozo de férias, auxílio doença, auxílio maternidade ou qualquer outro benefício; l) Fornecer crachá de identificação a seus funcionários, de uso obrigatório quando em serviço;
+
+m) Indicar responsáveis setoriais para as equipes prestadoras dos serviços; n) Apresentar, junto com a fatura mensal, prova de quitação de suas obrigações trabalhistas, fiscais e previdenciárias, referentes ao mês anterior ao da prestação dos serviços objeto da fatura. A não comprovação desobriga a CONTRATANTE do pagamento da fatura até que seja efetuada a regularização e ensejará, após as notificações de advertência e multa, a rescisão deste Contrato; o) Informar imediatamente à CONTRATANTE, por escrito, qualquer anormalidade que ponha em risco a execução dos serviços, com vistas a ações corretivas; p) Refazer, sem ônus para a CONTRATANTE, dentro do prazo estabelecido, os serviços prestados que apresentem defeitos, erros, danos, falhas e/ou quaisquer outras irregularidades em razão de negligência, má execução e emprego de mão-de-obra e/ou ferramentas inadequadas; q) Informar a relação dos integrantes da equipe técnica, contendo nome completo, função e número do registro de identidade, a fim de que a CONTRATANTE possa providenciar crachás de identificação que permitam acesso às suas dependências; r) Cumprir e atender os padrões de segurança e controle para acesso e uso das instalações da CONTRATANTE, zelando por sua integridade, preservando o sigilo e a confidencialidade de todos os dados e informações pertinentes aos serviços prestados, de acordo com o Decreto nº 4.553, de 27 de dezembro de 2002, que dispõe sobre a categoria dos documentos públicos sigilosos e o acesso a eles;
+
+s) Informar à CONTRATANTE, no prazo de 48 (quarenta e oito) horas, sobre qualquer alteração social ou modificação da finalidade ou estrutura da CONTRATADA; t) Responsabilizar-se por qualquer acidente ocorrido com seus empregados por imprudência, negligência ou imperícia, fora ou dentro dos locais da prestação/execução dos serviços, no desempenho das atividades ou em conexão com os mesmos, inclusive por danos causados a terceiros;
+
+u) Responsabilizar-se pela eventual perda de dados, danos a programas, arquivos e computadores, comprovada negligência ou a intenção de causar o dano por seus profissionais; v) Elaborar e executar, em conjunto com a CONTRATANTE, projeto de passagem do serviço a terceiro, a ser desenvolvido durante o período de transição, por ocasião de rescisão ou término de contrato; w) Arcar com os ônus resultantes de quaisquer ações, demandas, custos e despesas decorrentes de contravenção, seja por culpa sua ou de quaisquer de seus empregados ou prepostos, obrigando-se, outrossim, a quaisquer responsabilidades decorrentes de ações judiciais ou
+
+Página 78
+
+PROCESSO Nº 09020.000001/2009-11
+
+extrajudiciais de terceiros, que lhe venham a ser exigidas por força da lei, ligadas ao cumprimento deste Contrato; x) Assinar, por ocasião da assinatura deste Contrato, Termo de Compromisso de Manutenção de Sigilo, de acordo com o modelo constante do Anexo D do Termo de Referência; y) Exigir, de cada profissional que venha a prestar os seus serviços a assinatura de termo de compromisso, pelo qual se compromete a manter o sigilo e a confidencialidade de todos os dados e informações de que venha a ter conhecimento no exercício de suas atribuições (cf. Decreto nº 4.553, de 27 de dezembro de 2002); z) Manter, no período de prestação do serviço e durante 5 (cinco) anos após o seu término, no mais estrito sigilo toda documentação de natureza técnica e administrativa, gerada em função da execução deste contrato, não copiando, não usando em seu próprio benefício, nem revelando ou mostrando a terceiros, nem publicando tais informações, no território brasileiro ou no exterior; aa) Entregar à CONTRATANTE, em até 15 (quinze) dias após o encerramento do Contrato, toda e qualquer informação sigilosa gerada em conseqüência da prestação do serviço, destruindo de maneira irrecuperável todas as cópias instaladas na memória de seus equipamentos ou em qualquer outro tipo de suporte, inclusive as cópias de segurança ("backup") que estiverem em seu poder; bb) Notificar imediatamente à CONTRATANTE, por escrito, qualquer má utilização, revelação não autorizada, esbulho, apropriação indébita ou outra violação das informações que lhe foram reveladas, que chegue ao seu conhecimento; cc) Apresentar à CONTRATANTE, sempre que solicitada, documentação comprobatória do cumprimento das exigências curriculares dos perfis profissionais, dispostas no Anexo C ­ Perfis Profissionais do Termo de Referência, por meio da apresentação de currículos e certificados.
+
+CLÁUSULA 17 - DAS OBRIGAÇÕES DA CONTRATANTE Caberá à CONTRATANTE: a) Permitir o acesso do pessoal técnico e dos equipamentos da CONTRATADA, necessários à execução dos serviços, respeitadas as disposições legais, regulamentares e as normas da CONTRATANTE que disciplinam a segurança e o sigilo; b) Informar à CONTRATADA as normas e procedimentos de acesso às instalações da CONTRATANTE, e eventuais alterações; c) Prestar à CONTRATADA, em tempo hábil, as informações disponíveis e necessárias à execução dos serviços; d) Promover o acompanhamento e a fiscalização dos serviços prestados, registrando as ocorrências relacionadas com a execução do objeto contratado e determinando as medidas necessárias à regularização das falhas observadas; e) Comunicar tempestivamente à CONTRATADA eventuais irregularidades detectadas na execução dos serviços;
+
+Página 79
+
+PROCESSO Nº 09020.000001/2009-11
+
+f)
+
+Encaminhar para a atestação dos gestores as faturas emitidas e os produtos dos serviços prestados;
+
+g) Pagar as faturas de serviços, mensalmente, de acordo com as condições de pagamento constantes neste Contrato. CLÁUSULA 18 - DAS PENALIDADES Em caso de inexecução total ou parcial das condições pactuadas, ficará a CONTRATADA sujeita às seguintes sanções, facultada a rescisão contratual, cujo julgamento ficará a critério exclusivo da CONTRATANTE, garantido à CONTRATADA o direito à ampla defesa: a) Advertência escrita, nas faltas consideradas de natureza leve quando da execução do objeto deste Contrato; b) Multa de 1% (um por cento) sobre o valor estimado da respectiva Ordem de Serviço (OS) por dia de atraso injustificado na alocação de profissionais para início da prestação de serviços, na modalidade "Horas Trabalhadas", conforme disposto no item 12 ­ Prazos de Execução dos Serviços ­ do Termo de Referência, até o limite de 30% (trinta por cento); c) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviço (OS) de Desenvolvimento ou Manutenção de Sistemas por descumprimento dos prazos para correção de erros em serviços já entregues (erros definidos como incidentes) ou para a correção de erros apontados pelos usuários, na modalidade "Fábrica de Software", conforme disposto no item 12 ­ Prazos de Execução dos Serviços ­ do Termo de Referência; · Serão tolerados 5% (cinco por cento) de descumprimento de prazos nas resoluções de Nível 2 e 10% (dez por cento) naquelas de Nível 3.
+
+d) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviço (OS) de Sustentação por descumprimento dos prazos de atendimento e solução de problemas, na modalidade "Fábrica de Software", conforme disposto no item 12 ­ Prazos de Execução dos Serviços ­ do Termo de Referência; · Serão tolerados 5% (cinco por cento) de descumprimento de prazos nas resoluções de Nível 2 e 10% (dez por cento) naquelas de Nível 3.
+
+e) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviço (OS) de Desenvolvimento ou Manutenção de Sistemas por erros em Pontos de Função, na modalidade "Fábrica de Software"; · Serão tolerados 1% (um por cento) do total de erros de pontos de função de Nível 1, 3% (três por cento) do total de erros de pontos de função de Nível 2 e 5% (cinco por cento) do total de erros de pontos de função de Nível 3. Para efeito de apuração do índice de erros por ponto de função serão considerados erros não-conformidades em relação aos requisitos especificados e paradas/finalizações anormais do produto desenvolvido.
+
+·
+
+f)
+
+Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviço (OS) de Desenvolvimento, Manutenção ou Documentação de Sistemas por descumprimento dos prazos acordados, na modalidade "Fábrica de Software";
+Página 80
+
+PROCESSO Nº 09020.000001/2009-11
+
+g) Multa de 10% (dez por cento) sobre o valor estimado da Ordem de Serviço (OS) pela recusa de artefatos/produtos entregues ou serviços prestados, na modalidade "Fábrica de Software" ou "Horas Trabalhadas"; · Será tolerada a recusa de 10% dos artefatos entregues. h) Multa de 10% (dez por cento) do valor global do contrato, nas faltas consideradas de natureza grave e que redundem na execução insatisfatória do objeto deste Contrato; i) Suspensão temporária do direito de licitar e de contratar com a CONTRATANTE pelo prazo de até 2 (dois) anos, a ser fixado pela autoridade competente, nas faltas consideradas de natureza muito grave e que redundem na execução altamente insatisfatória do objeto deste Contrato; Declaração de inidoneidade para licitar ou contratar com a Administração Pública Federal, enquanto durarem os motivos determinantes da punição ou até que seja promovida a reabilitação, perante a própria autoridade que aplicou a penalidade, que será concedida sempre que a CONTRATADA ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada.
+
+j)
+
+18.1. O valor da multa aplicada será descontado das faturas devidas à licitante vencedora, da garantia ou, se necessário, cobrado judicialmente. 18.2. A sanção estabelecida na alínea i) do caput desta cláusula é de competência exclusiva do Senhor Ministro de Estado das Relações Exteriores, facultada a defesa do interessado no respectivo processo, no prazo de 10 (dez) dias da abertura de vista, podendo a reabilitação ser requerida após 2 (dois) anos de sua aplicação. CLÁUSULA 19 - DA RESCISÃO A inexecução total ou parcial deste Contrato enseja a sua rescisão, conforme disposto nos artigos 77 a 80 da Lei nº 8.666/93. 19.1. Os casos de rescisão contratual deverão ser formalmente motivados nos autos do processo, assegurados o contraditório e a ampla defesa. 19.2. A rescisão administrativa ou amigável deverá ser precedida de autorização escrita e fundamentada da autoridade competente. 19.3. Ocorrendo rescisão amigável, à CONTRATADA será devido apenas o pagamento referente aos serviços já executados, ressalvado o disposto no § 2° do artigo 79 da Lei n° 8.666/93. CLÁUSULA 20 - DA PUBLICAÇÃO A CONTRATANTE providenciará publicação resumida deste Contrato no Diário Oficial da União, conforme dispõe a legislação vigente. CLÁUSULA 21 - DO FORO As questões decorrentes da execução deste Contrato, que não possam ser dirimidas administrativamente, serão processadas e julgadas no Foro da Justiça Federal, Seção Judiciária do Distrito Federal, com exclusão de qualquer outro por mais privilegiado que seja.
+
+Página 81
+
+PROCESSO Nº 09020.000001/2009-11
+
+E, para firmeza e validade do que foi pactuado, lavrou-se o presente Contrato em 3 (três) vias de igual teor e forma, para que surtam um só efeito, as quais, depois de lidas, são assinadas pelos representantes das partes, CONTRATANTE e CONTRATADA, e pelas testemunhas abaixo. Brasília, ____ de ___________ de 2009.
+
+Hélio Vitor Ramos Filho
+Diretor do Departamento de Comunicações e Documentação MINISTÉRIO DAS RELAÇÕES EXTERIORES
+
+Nome do Representante da Empresa
+Cargo ou Função na Empresa NOME DA EMPRESA
+
+Testemunhas:
+
+Nome: Identidade:
+
+Nome: Identidade:
+
+Página 82
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES SUBSECRETARIA GERAL DO SERVIÇO EXTERIOR DEPARTAMENTO DE ADMINISTRAÇÃO COORDENAÇÃO DE LICITAÇÕES
+
+PROCESSO ADMINISTRAT IVO Nº 09020.000001/2009-11
+
+ANEXO III DO EDITAL
+PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇO DE SERVIÇO
+Categoria de serviço/perfil profissional (especificar)
+
+1. REMUNERAÇÃO 1.1. Salário-base mensal 1.2. (outros ­ especificar) ...
+
+% % TOTAL DA REMUNERAÇÃO 2. ENCARGOS SOCIAIS E TRABALHISTAS (incidentes sobre a remuneração) GRUPO A ­ Obrigações sociais 2A.1. Previdência Social % 2A.2. FGTS e Contribuição Social % 2A.3. (outros ­ especificar) % ... % Total do Grupo A GRUPO B ­ Tempo não trabalhado 2B.1. Férias % 2B.2. Auxílio-enfermidade % 2B.3. Licença-paternidade/maternidade % 2B.4. Faltas legais % 2B.5. Acidente de trabalho % 2B.6. Aviso prévio % 2B.7. (outros ­ especificar) % ... % Total do Grupo B GRUPO C ­ Gratificações 2C.1. Adicional de férias % 2C.2. 13º Salário % 2C.3. (outros ­ especificar) % ... % Total do Grupo C GRUPO D ­ Indenizações 2D.1. Demissão sem justa causa (+ Contrib. Social) % 2D.2. Aviso prévio (+ 13º + férias + adic. ? ind.) % 2D.3. Indenização adicional % 2D.4. FGTS s/ Aviso prévio % 2D.5. (outros ­ especificar) % ... % Total do Grupo D
+
+R$ R$ R$ R$
+
+R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$
+
+R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$
+
+Página 83
+
+PROCESSO Nº 09020.000001/2009-11
+
+GRUPO E ­ Incidência Cumulativa 2E.1. Incidência dos encargos do Grupo A sobre o Grupo B 2E.2. (outros ­ especificar) ...
+
+3. INSUMOS DE MÃO-DE-OBRA1 3.1. Transporte % 3.2. Alimentação % 3.3. Assistência médica % 3.4. Seguro de vida % 3.5. Treinamento, capacitação, reciclagem % 3.6. (outros ­ especificar) % ... % TOTAL DOS INSUMOS DE MÃO-DE-OBRA 4. DEMAIS COMPONENTES (incidentes sem valor de custo) 4.1. Despesas operacionais/administrativas2 % 4.2. Previsão de lucro3 % TOTAL DOS DEMAIS COMPONENTES 5. TRIBUTOS SOBRE O FATURAMENTO 4 5.1. ISS % 5.2. COFINS % 5.3. PIS % 5.4. Outros tributos (especificar) % ... % TOTAL DOS TRIBUTOS 6. PREÇO MENSAL 5 PREÇO MENSAL DO SERVIÇO 7. PREÇO DA HORA 6 PREÇO DA HORA DE SERVIÇO ([6.Preço Mensal] dividido por 168)
+
+% % % Total do Grupo E TOTAL DOS ENCARGOS SOCIAIS
+
+R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$ R$
+
+1 2
+
+O valor a ser informado deverá considerar o valor descontado do empregado, cf. Legislação.
+
+O valor referente a despesas operacionais/administrativas deverá ser obtido aplicando-se o percentual sobre os demais itens calculados anteriormente ([1.Remuneração] + [2.Encargos] + [3.Insumos]).
+3
+
+O valor referente à previsão de lucro deverá ser obtido aplicando-se o percentual sobre os demais itens calculados anteriormente ([1.Remuneração] + [2.Encargos] + [3.Insumos] + [4.1.Despesas operacionais/administrativas]).
+4
+
+O valor referente a cada tributo deverá ser obtido aplicando-se o percentual sobre o valor do faturamento (faturamento = [1.Remuneração] + [2.Encargos] + [3.Insumos] + [4.Demais componentes]).
+5
+
+O valor referente ao preço mensal deverá ser obtido da soma: [1.Remuneração] + [2.Encargos] + [3.Insumos] + [4.Demais componentes] + [5.Tributos].
+6
+
+O valor referente ao preço da hora deverá ser obtido da divisão do valor [6.Preço mensal] por 168.
+
+Página 84
+
+PROCESSO Nº 09020.000001/2009-11
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES SUBSECRETARIA GERAL DO SERVIÇO EXTERIOR DEPARTAMENTO DE ADMINISTRAÇÃO COORDENAÇÃO DE LICITAÇÕES
+
+PROCESSO ADMINISTRAT IVO Nº 09020.000001/2009-11
+
+ANEXO IV DO EDITAL
+PLANILHA DE CÁLCULO DE PREÇO GLOBAL DOS SERVIÇOS (EM REAIS)
+
+Ponto de Função
+
+Cálculo da modalidade "Fábrica de software" Demanda anual estimada 5.000
+
+Preço por Ponto de Função
+
+Preço anual
+
+Cálculo da modalidade "Horas Trabalhadas" Demanda estimada de horas Perfil Profissional anuais Analista de Sistemas em Ambiente Cliente-Servidor (Sênior) 4.032 Analista de Sistemas em Ambiente Web (Pleno) Analista de Sistemas em Ambiente Web (Sênior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Júnior) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Pleno) Analista de Sistemas em Ambiente "Plone-Zope-Python" (Sênior) Programador em Ambiente Cliente-Servidor (Pleno) Programador em Ambiente Cliente-Servidor (Sênior) Programador em Ambiente Web (Júnior) Programador em Ambiente Web (Pleno) Programador em Ambiente Web (Sênior) WEB Designer Administrador de Banco de Dados (Pleno) Administrador de Banco de Dados (Sênior) Analista de Sistemas de Informação Supervisor de Banco de Dados Supervisor de Desenvolvimento de Sistemas Supervisor de Manutenção de Sistemas 8.064 10.080 8.064 6.048 4.032 4.032 4.032 8.064 18.144 18.144 6.048 6.048 6.048 6.048 2.016 2.016 2.016
+
+Preço por hora
+
+Preço anual
+
+Página 85
+
+PROCESSO Nº 09020.000001/2009-11
+
+Cálculo do preço global Preço dos serviços na modalidade "Fábrica de Software" Preço dos serviços na modalidade "Horas Trabalhadas" PREÇO GLOBAL DOS SERVIÇOS
+
+_________________________________________________________ (empresa) __________________________________ (CNPJ) _____________________________________________ (nome, cargo e assinatura do representante legal)
+
+Esclarecimentos:
+a) b) c) d) e) f) Preço anual da modalidade "Fábrica de Software" = Preço por Ponto de Função × 5.000. Preço por hora da modalidade " Horas Trabalhadas" = preço por hora com encargos sociais, taxas administrativas, lucratividade, impostos e demais despesas já computados. Preço anual da modalidade " Horas Trabalhadas" = Demanda de horas anuais × preço por hora Preço dos serviços na modalidade "Fábrica de software" = Preço anual na modalidade "Fábrica de software" Preço dos serviços na modalidade " Horas Trabalhadas" = Somatório dos preços anuais dos perfis profissionais. Preço global dos serviços = Preço dos serviços na modalidade "Fábrica de Software" + Preço dos serviços na modalidade "Horas Trabalhadas ".
+
+Página 86
+
+

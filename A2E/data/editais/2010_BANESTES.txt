@@ -1,0 +1,1611 @@
+EDITAL DE CONCORRÊNCIA 004/2010 EDITAL DE CONCORRÊNCIA 004/2010 PARA FORNECIMENTO DE SOFTWARE. O BANESTES S.A. - BANCO DO ESTADO DO ESPÍRITO SANTO, com sede na Av. Princesa Isabel, 574, Ed. Palas Center, Bloco "B", 9º andar, Centro, na cidade de Vitória, Estado do Espírito Santo, neste Edital denominado abreviadamente BANESTES, conforme autorização exarada em Reunião de Diretoria de 25/01/2010 torna público, para conhecimento dos interessados, que de acordo com a Lei Federal n.º 8.666/93 e suas alterações e demais legislações e normas aplicáveis, fará realizar CONCORRÊNCIA do tipo "TÉCNICA E PREÇO" objetivando selecionar sociedade empresária para DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS. 1. 1.1 TERMO DE REFERÊNCIA Os envelopes: ENVELOPE N.º 1 ­ DOCUMENTOS DE HABILITAÇÃO, ENVELOPE N.º 2 ­ PROPOSTA TÉCNICA e ENVELOPE N.º 3 ­ PROPOSTA DE PREÇO, serão recebidas até às 10:00 do dia 21 de JUNHO de 2010, pela Comissão Permanente de Licitação designada, pelo ato n.º 16.633 de 14/07/2009, situada na Av. Princesa Isabel, n.º 574, Edifício Palas Center, Bloco "B", 2º andar, Centro, Vitória, ES, CEP 29010-931. Processo n.º 8090-0 Os interessados poderão obter cópia do presente Edital e de esclarecimentos e informações na Comissão Permanente de Licitação, situada à Av. Princesa Isabel, 574, Ed. Palas Center, Bloco "B", 2° andar, Vitória, ES, CEP 29010-931, telefones números (0xx27) 3383-1366/1368 e fax (0xx27) 3383-1367, nos dias úteis, das 09:00 às 17:00 horas. O Edital também estará disponível no site www.banestes.com.br , opção licitações; Recursos: As despesas decorrentes da contratação do objeto deste edital correrão por conta dos recursos próprios do BANESTES S/A. PARTES INTEGRANTES DESTE EDITAL Especificações e Critérios de Pontuação Técnica e Comercial; Modelo de Procuração; Modelo de Declaração; Declaração que cumpre requisitos de habilitação; Minuta de Contrato; Modelo de Gestão de Sistema do Banestes Minuta do termo de confidencialidade; OBJETO A presente licitação tem por objeto a contratação de sociedade empresária para SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO PARA ESPECIFICAÇÃO, DESENVOLVIMENTO, MANUTENÇÃO E DOCUMENTAÇÃO DE SISTEMAS NA FORMA DE FÁBRICA DE SOFTWARE, de acordo com o presente edital e respectivos anexos. DA PARTICIPAÇÃO, DA REPRESENTAÇÃO E DO CREDENCIAMENTO Somente poderão participar desta licitação as licitantes que satisfaçam as exigências deste edital, e apresentar os documentos nele exigidos, bem como, a Lei 8.666/93 e demais legislações e normas aplicáveis, preenchendo
+PÁG. - 1 AM
+
+1.2 1.3
+
+1.4 2. Anexo I Anexo II Anexo III Anexo IV Anexo V Anexo VI
+
+Anexo VII 3. 3.1
+
+4. 4.1
+
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 cumulativamente as seguintes condições: 4.1.1 4.1.2 Não será permitida a participação de empresas em consórcio; Não poderão participar na presente licitação as empresas que tenham sofrido penalidades resultantes de contratos firmados anteriormente com o Banestes e demais sociedades empresárias que compõem o Sistema Financeiro, na condição de prestadores de serviços, fornecedores, empreiteiros ou construtores, tais como suspensão e declaração de inidoneidade. A inversão dos documentos no interior dos envelopes, por exemplo, a colocação da PROPOSTA no envelope dos documentos da HABILITAÇÃO e vice-versa, acarretará a exclusão da licitante do certame. Não poderão participar desta Concorrência, direta ou indiretamente, empregados ou dirigentes do Banestes e das demais sociedades empresárias que compõem o Sistema Financeiro Banestes. O representante legal da licitante deverá apresentar-se ao Presidente da Comissão Permanente de Licitação, como participante deste edital, munido de carteira de identidade, ou de outra equivalente, e do documento que lhe dê poderes para manifestar-se durante as reuniões de abertura dos envelopes relativos a este Edital; Sócio, Proprietário, Dirigente ou Assemelhado: deverá apresentar o Estatuto ou Contrato Social juntamente com a(s) alteração(ões) que comprove(m) sua capacidade de representação legal, com expressa previsão dos poderes para se manifestar pela empresa, dar declarações, receber intimação, interpor e renunciar recurso, assim como praticar todos os demais atos pertinentes ao certame, em nome da Licitante. Em caso de administrador eleito em ato apartado, deverá ser apresentada cópia da ata de reunião ou assembléia em que se deu a eleição; Procurador: o credenciamento deverá ser feito através da apresentação de Instrumento Público ou Particular de Mandato (procuração), neste último caso com firma reconhecida em cartório, outorgando expressamente poderes para se manifestar pela licitante, dar declarações, receber intimação, interpor e renunciar recurso, assim como praticar todos os demais atos pertinentes ao certame; A procuração por instrumento particular deverá ser acompanhada do Contrato Social e suas alterações ou com o Estatuto Social e a ata de eleição da Diretoria em exercício; A não apresentação ou incorreção nos documentos de credenciamento a que se refere este item 4 não excluirão o licitante do certame, mas impedirão o seu representante de se manifestar pela empresa, bem como praticar qualquer outro ato inerente a este procedimento; O representante legal ou procurador da Licitante poderá, a qualquer tempo, ser substituído por outro, desde que apresente os documentos de credenciamento relativos ao novo representante, devendo apenas ser observada a restrição constante do subitem 4.10; Cada representante somente poderá representar uma única proponente; O representante legal da licitante que não se credenciar perante o Presidente da Comissão Permanente de Licitação ficará impedido de representar a licitante em todos os atos durante a reunião de abertura dos envelopes;
+PÁG. - 2 AM
+
+4.2
+
+4.3
+
+4.4
+
+4.4
+
+4.6
+
+4.7
+
+4.8
+
+4.9
+
+4.10 4.11.
+
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 Nota: 5. 5.1 5.2 Os documentos relativos ao credenciamento deverão ser apresentados em mãos, ou seja, não deverão estar dentro de nenhum dos envelopes. APRESENTAÇÃO DOS DOCUMENTOS E DAS PROPOSTAS Para participação na presente Concorrência, os licitantes apresentarão a documentação conforme especificado abaixo: Os documentos necessários à participação no presente certame licitatório compreendendo os documentos referentes à habilitação, proposta técnica e de preço, deverão ser apresentados em 03 (três) envelopes distintos e separados, todos fechados endereçados à Comissão Permanente de Licitação ­ COLIC, em que estarão indicados, a razão social da licitante, o número desta Concorrência e o nome do representante legal da licitante ou de seu preposto habilitado, quando for o caso; Os documentos de habilitação deverão ter todas as suas páginas rubricadas por representante legal da licitante, bem como ser apresentados em original, ou cópia autenticada por cartório competente, ou, sob a forma de publicação em órgão da imprensa oficial ou, ainda, em cópia não autenticada, desde que seja exibido o original, para conferência pela Comissão Permanente de Licitação, no ato da abertura dos documentos de habilitação. Somente serão aceitas cópias legíveis, que ofereçam condições de análise por parte da Comissão Permanente de Licitação; As Propostas Técnica e de Preço deverão ser apresentadas em papel que identifique a licitante, numeradas seqüencialmente, redigidas em língua portuguesa, salvo quanto a expressões técnicas de uso corrente, com clareza, sem emendas ou rasuras, datadas, rubricadas em todas as suas vias e assinadas; Para comprovar a representação legal, a pessoa indicada entregará, juntamente com o seu documento de identidade ou outro documento de identificação de fé pública: O(s) representante(s) legal(is), contrato social, estatuto e ata de eleição do(s) dirigente(s) da licitante; Se procurador, deverá apresentar ainda, procuração pública ou particular, pelo menos com os poderes constantes do modelo que constitui o Anexo II; Não serão aceitos certificados, certidões ou quaisquer outros documentos com prazo de validade vencido. DOCUMENTOS DE HABILITAÇÃO - ENVELOPE N.º 1 Os documentos de habilitação deverão ser apresentados em envelope individual, devidamente fechado e rubricado no fecho com os seguintes dizeres em seu exterior: BANESTES S.A. ­ Banco do Estado do Espírito Santo Edital de CONCORRÊNCIA n.º 004/2010, ENVELOPE N.º 1 DOCUMENTOS DE HABILITAÇÃO (RAZÃO SOCIAL DA EMPRESA)
+
+5.3
+
+5.4
+
+5.5
+
+5.5.1 5.5.2 5.6 6.
+
+EC_2010/004
+
+PÁG. - 3
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 6.1 a) b) Habilitação Jurídica Registro comercial em caso de empresário individual; Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrados na Junta Comercial em se tratando de Sociedade Empresária e ou no caso de sociedades por ações, acompanhados de documentos de eleição de seus administradores, e no Cartório de Registro de Títulos Especiais em se tratando de Sociedades Simples; Decreto de autorização devidamente arquivado na Junta Comercial em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento, expedido pelo órgão competente, quando a atividade assim o exigir. Regularidade Fiscal Prova de inscrição no Cadastro Nacional de Pessoa Jurídica - CNPJ; Prova de inscrição no Cadastro de Contribuintes Estadual ou Municipal, se houver, relativo ao domicílio ou sede da licitante, pertinente ao seu ramo de atividade e compatível com o objeto desta Concorrência; Prova de regularidade para com as Fazendas Públicas Federal (Certidão de Quitação de Tributos e Contribuições administrados pela Receita Federal e Certidão Quanto à Dívida Ativa da União expedida pela Procuradoria da Fazenda Nacional), Estadual e Municipal da sede da licitante através de Certidão Negativa ou documento equivalente; Prova de regularidade de situação para com o Fundo de Garantia por Tempo de Serviço (FGTS); Prova de regularidade de situação perante o INSS, através da Certidão Negativa de Débito (CND); Será considerada como válida pelo prazo de 90 (noventa) dias, contados a partir da data da respectiva emissão, a certidão que não apresentar prazo de validade, exceto se anexada legislação específica que estabeleça validade diversa para o respectivo documento. Qualificação Econômico - Financeira Certidão Negativa de pedido de falência ou de concordata ou de recuperação judicial ou extrajudicial, expedida pelo(s) distribuidor(es) da sede da Licitante, emitida no máximo 60 (sessenta) dias antes da data determinada para entrega dos envelopes; Cópia da publicação do balanço patrimonial do último exercício social já exigível e apresentado na forma da lei, incluindo a demonstração do resultado do exercício. Não sendo a licitante obrigada a publicar seu balanço, deverá apresentar cópia legível da página do DIÁRIO GERAL, onde foi transcrito o balanço patrimonial, e a demonstração do resultado do exercício. Estes documentos deverão conter as assinaturas dos sócios, do contador responsável, com os respectivos termos de abertura e encerramento, registrados na Junta Comercial ou Cartório de Registros, ficando a licitante obrigada à apresentação dos cálculos dos índices extraídos das demonstrações contábeis que serão aferidos pelo BANESTES, comprovando a boa situação financeira da Sociedade Empresária;
+PÁG. - 4 AM
+
+c)
+
+6.2 a) b)
+
+c)
+
+d) e) f)
+
+6.3 a)
+
+b)
+
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 c) No caso de micro empresa e sociedade empresária de pequeno porte, deverão apresentar o resumo de suas demonstrações contábeis e declaração simplificada do imposto de renda, do último exercício social; Qualificação Técnica A LICITANTE deverá apresentar atestado(s), emitido(s) por empresa(s) de direito público ou privado, que comprove, de maneira satisfatória, aptidão para execução de serviços, com desempenho em atividade pertinente e compatível em características, quantidades e prazos com o objeto da presente licitação, para um mínimo de 5.000 (cinco mil) Pontos de Função, comprovando que o proponente executa ou executou serviços especializados de desenvolvimento e manutenção de sistemas, abrangendo as tecnologias mencionadas no Anexo VI ­ Modelo de Gestão de Sistemas do Banestes, letra "d" Ambientes Tecnológicos, item d.1) Cliente X Servidor, sendo necessária a comprovação da utilização desses componentes considerando a respectiva versão do item, superior ou a versão imediatamente anterior. Nota: Para efeito de apuração da quantidade de Pontos de Função para comprovação da experiência mínima, será aplicado aos Pontos de Função de desenvolvimento comprovados o fator 1,0 e aos Pontos de Função de manutenção comprovados, o fator 0,35. 6.4.2 A LICITANTE deverá apresentar atestado(s), devidamente acompanhado dos contratos, emitido(s) por empresa(s) de direito público ou privado, que comprove, de maneira satisfatória a capacidade de prestação de serviços de desenvolvimento, implementação e manutenção de Sistemas de Informação, para um mínimo de 5.000 (cinco mil) Pontos de Função, utilizando a métrica de Análise de Pontos de Função (conforme o IFPUG) para dimensionamento das demandas. Nota: Para efeito de apuração da quantidade de Pontos de Função para comprovação da experiência mínima, será aplicado aos Pontos de Função de desenvolvimento comprovados o fator 1,0 e aos Pontos de Função de manutenção comprovados, o fator 0,35. 6.5 6.5.1 Demais documentos necessários: Declaração de que a licitante está apta a prestar os serviços objeto desta licitação, em conformidade com as exigências descritas na especificação dos serviços constantes deste Edital e seus Anexos; Os documentos exigidos neste Edital somente serão aceitos quando apresentados em original, por qualquer processo de cópia (exceto de fax) autenticada por cartório competente ou por membro da Comissão, quando cotejada com o documento original, ou publicados em órgão da imprensa oficial, bem como se estiverem dentro do seu período de validade; A licitante regularmente cadastrada e habilitada parcialmente no Sistema de Cadastro Unificado de Fornecedores ­ SICAF, poderá apresentar o Certificado de Registro Cadastral, em substituição às documentações elencadas nos itens 6.1, 6.2 e 6.3 (exceto letra "a" do item 6.3), acompanhados, obrigatoriamente, dos documentos relacionados nos itens 6.4. e 6.5 no envelope n.º 1 (Documentos de Habilitação). Os documentos que porventura estejam vencidos no SICAF e ou não atendem ao solicitado neste edital, poderão ser apresentados em complemento ao cadastro.
+PÁG. - 5 AM
+
+6.4 6.4.1
+
+6.5.2
+
+6.5.3
+
+6.5.3.1
+
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 6.5.4 7. A licitante não cadastrada no SICAF deverá apresentar, no envelope n.º 1, toda documentação prevista no item 6. PROPOSTA TÉCNICA - ENVELOPE N.º 2 A Proposta Técnica deverá ser apresentada em envelope individual, devidamente fechado e rubricado no fecho com os seguintes dizeres em seu exterior: BANESTES S.A. ­ Banco do Estado do Espírito Santo Edital de CONCORRÊNCIA n.º 004/2010, ENVELOPE N.º 2 PROPOSTA TÉCNICA (RAZÃO SOCIAL DA EMPRESA) 7.1 7.1.1 7.1.2 Além das exigências previstas no item 5.3, a Proposta Técnica deverá conter as seguintes informações e documentos: Número deste Edital de CONCORRÊNCIA; Prazo de validade das Propostas Técnica e de Preço, que não poderá ser inferior a 60 (sessenta) dias, contados da data fixada no item 1.1 deste Edital para abertura do "ENVELOPE N.º 1 - DOCUMENTOS DE HABILITAÇÃO"; Planilha de Pontuação Técnica por Fator, conforme Anexo I, devidamente preenchida segundo instruções constantes no próprio Anexo; Outras informações afins que julgarem necessárias ou convenientes. PROPOSTA DE PREÇO - ENVELOPE N.º 3 A proposta de preço deverá ser apresentada em envelope individual, devidamente fechado e rubricado no fecho com os seguintes dizeres em seu exterior: BANESTES S.A. ­ Banco do Estado do Espírito Santo Edital de CONCORRÊNCIA n.º 004/2010, ENVELOPE N.º 3 PROPOSTA DE PREÇO (RAZÃO SOCIAL DA EMPRESA) 8.1 8.1.1 8.1.2 Além das exigências previstas no item 5.3, a Proposta de Preço deverá conter as seguintes informações: Número deste Edital de CONCORRÊNCIA; Preço unitário do Ponto de Função para a realização dos serviços objeto desta licitação, incluindo impostos, tributos, transporte, seguros e demais despesas incidentes sobre o objeto desta licitação, isentando o BANESTES de quaisquer custos adicionais. A forma de pagamento consta da cláusula segunda da minuta de contrato, Anexo V. O valor deverá ser apresentado em moeda nacional (R$), expressos em algarismo e por extenso, com duas casas decimais; Os valores apresentados deverão ser finais, ou seja, devendo estar neles inclusos todos os custos com pessoal, encargos sociais, impostos, taxas, estadia
+PÁG. - 6 AM
+
+7.1.3 7.1.4 8.
+
+8.2 8.3
+
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 e deslocamento do pessoal envolvido, equipamentos, materiais, comunicação e outras despesas relacionadas com a realização dos serviços; 9. 9.1 PROCESSAMENTO DA LICITAÇÃO No local, data e horário estabelecidos nos itens 1.1 deste Edital, a Comissão Permanente de Licitação examinará os documentos fornecidos para a habilitação e os submeterá às licitantes presentes que os rubricarão, folha por folha, juntamente com os membros da Comissão Permanente de Licitação. A critério da Comissão Permanente de Licitação, esta poderá julgar a habilitação de imediato, comunicando aos presentes o resultado, que será devidamente registrado em ata; Após o julgamento da Habilitação serão aguardados os prazos recursais para, então, serem abertos os "ENVELOPES N.º 2 - PROPOSTA TÉCNICA" das participantes que tenham sido habilitadas, e devolvidos, fechados, os envelopes das participantes não habilitadas; Na hipótese da Comissão Permanente de Licitação vir a julgar a habilitação das participantes na reunião de apresentação da documentação ou em data marcada para esse fim, estando presentes todas as licitantes e havendo a desistência expressa, em ata, ou através de termo de renúncia do direito de impetrarem recursos, a licitação terá prosseguimento naquele momento, com a abertura dos "ENVELOPES N.º 2 - PROPOSTA TÉCNICA"; Não ocorrendo a hipótese do item 9.2.1, a data de abertura dos "ENVELOPES N.º 2 - PROPOSTA TÉCNICA" será comunicada posteriormente, aos participantes, por correspondência, fac-símile, e-mail, telegrama ou através de publicação em jornal de grande circulação no Estado do Espírito Santo; Abertos os "ENVELOPES N.º 2", contendo as Propostas Técnicas, estas serão examinadas, devendo os licitantes presentes rubricar, folha por folha, na presença da Comissão Permanente de Licitação, que as autenticará com sua rubrica; Durante a reunião de abertura dos envelopes contendo as Propostas Técnicas, a Comissão Permanente de Licitação, a seu critério, poderá efetuar o julgamento das propostas; Após o julgamento da "PROPOSTA TÉCNICA", serão aguardados os prazos recursais, para, então, serem abertos os "ENVELOPES N.º 3 - PROPOSTA DE PREÇO" das participantes que tenham sido habilitadas tecnicamente, e devolvidos, fechados, os envelopes das participantes não habilitadas; Na hipótese da Comissão Permanente de Licitação vir a julgar as Propostas Técnicas das participantes na reunião de apresentação das mesmas ou em data marcada para esse fim, estando presentes todas as licitantes e havendo a desistência, em ata, ou através de termo de renúncia, do direito de impetrarem recursos, a licitação terá prosseguimento naquele momento, com a abertura dos "ENVELOPES N.º 3 - PROPOSTA DE PREÇO"; Não ocorrendo a hipótese do item 9.5.1, a data de abertura dos "ENVELOPES N.º 3 - PROPOSTA DE PREÇO" será comunicada posteriormente, aos participantes, por correspondência, fac-símile, e-mail, telegrama ou através de publicação em jornal de grande circulação no Estado do Espírito Santo;
+
+9.2
+
+9.2.1
+
+9.3
+
+9.4
+
+9.4.1
+
+9.5
+
+9.5.1
+
+9.6
+
+EC_2010/004
+
+PÁG. - 7
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 9.7 De todas as reuniões realizadas serão lavradas atas circunstanciadas que mencionarão todas as propostas apresentadas, as reclamações e impugnações feitas e as demais ocorrências que interessem ao julgamento da licitação; As dúvidas que surgirem durante as reuniões serão, a juízo da Comissão Permanente de Licitação, por esta resolvidas, na presença das licitantes, ou deixadas para posterior deliberação com os fatos registrados em ata. JULGAMENTO DAS PROPOSTAS E AVALIAÇÃO FINAL Proposta Técnica: O julgamento da proposta técnica consistirá na verificação da apresentação, pelas licitantes, da totalidade das informações solicitadas no item 7 deste Edital, bem como da análise do seu conteúdo, e obedecerá os critérios e fatores estabelecidos no Anexo I; Cálculo da Pontuação Técnica da Licitante (PTL), de acordo com dados informados pela Licitante na planilha constante no Anexo I ­ item 3.2; Calculo do Índice Técnico da Licitante (ITL) correspondente, calculado em função da Maior Pontuação Técnica Apurada, conforme fórmula abaixo:
+
+9.8
+
+10. 10.1 10.1.1
+
+10.1.2 10.1.3
+
+ PTL  ITL =   x100  MPTA 
+Onde: ITL = Índice Técnico da Licitante em análise;
+
+PTL = Pontuação Técnica da Licitante em análise; MPTA = Maior Pontuação Técnica Apurada entre as Licitantes. NOTA: Não serão passíveis de análise as Propostas Técnicas que não atingirem no mínimo 70 % da pontuação técnica máxima apurada em análise. 10.2 10.2.1 Proposta de Preço: O julgamento da proposta de preço consistirá na verificação da apresentação, pelas Licitantes, da totalidade das informações solicitadas no item 8 deste Edital, bem como da análise do seu conteúdo; Cálculo da Pontuação de Preço da Licitante (PPL), conforme critérios descritos abaixo; Cálculo da Pontuação de Preço: PPL = (PF) Onde: PPL VPF =Pontuação de Preço da Licitante em análise = Valor por ponto de função
+
+10.2.2
+
+EC_2010/004
+
+PÁG. - 8
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 10.2.3 Cálculo do Índice de Preço da Licitante (IPL) correspondente, calculado em função da Menor Pontuação de Preço Apurada, conforme fórmula abaixo:
+
+ mPPA  IPL =   x100  PPL 
+Onde: IPL = Índice de Preço da Licitante em análise; MPPA = menor Pontuação de Preço Apurada; PPL = Pontuação de Preço da Licitante em análise 10.3 Avaliação Final: O Índice Geral da Licitante (IGL) em análise será calculado pela seguinte fórmula: IGL Onde: IGL = Índice Geral da Licitante em análise; ITL = Índice Técnico da Licitante em análise; IPL = Índice de Preço da Licitante em análise. 10.3.1 Os valores numéricos referentes ao Índice Técnico da Licitante (ITL), Índice de Preço da Licitante (IPL) e Índice Geral da Licitante (IGL) serão calculados com duas casas decimais, desprezando-se a fração remanescente, sem arredondamento; Verificada a absoluta igualdade de IGLs vencedores na avaliação final, a COLIC, em reunião pública marcada para este fim, cuja data será comunicada a todas as Licitantes, decidirá a licitação, solucionando o empate, mediante sorteio entre as vencedoras; Não serão consideradas, para efeito de julgamento, as vantagens não previstas neste Edital, nem preço, vantagens ou descontos oferecidos em relação a ofertas de outras Licitantes. A classificação final das propostas será por ordem decrescente de IGL em análise; Será declarada vencedora a licitante cuja avaliação resultar no MAIOR IGL em análise; Serão desclassificadas: As propostas que não atenderem às condições previstas neste Edital de CONCORRÊNCIA; As propostas com preços globais excessivos ou manifestamente inexeqüíveis, em face daqueles obtidos a partir de pesquisa de mercado; = (0,70 x ITL) + (0,30 x IPL)
+
+10.4
+
+10.5
+
+10.6 10.7 10.8 10.8.1 10.8.2
+
+EC_2010/004
+
+PÁG. - 9
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 10.8.3 10.8.4 Havendo discordância entre os valores numéricos e por extenso, prevalecerão os últimos; Quando todas as Licitantes forem inabilitadas ou todas as propostas forem desclassificadas, a Comissão Permanente de Licitação ­ COLIC poderá fixar às Licitantes o prazo de 8 (oito) dias úteis para apresentação de nova documentação ou de outras propostas escoimadas das causas ensejadoras da inabilitação ou desclassificação; Após o julgamento das propostas pela Comissão Permanente de Licitação, o resultado será submetido à autoridade superior para fins de homologação. O resultado final do julgamento será publicado no Diário Oficial do Estado do Espírito Santo e em jornal de grande circulação, iniciando-se a contagem do prazo recursal no primeiro dia útil após a publicação. RECURSOS Dos atos e decisões proferidos pela Comissão Permanente de Licitação ou pela Diretoria do BANESTES, decorrentes desta CONCORRÊNCIA, cabem: Recurso, no prazo de 5 (cinco) dias úteis a contar da intimação do ato ou da lavratura da ata, nos casos de: Habilitação ou inabilitação da licitante; Julgamento das propostas; Anulação ou revogação da licitação; Indeferimento do pedido de inscrição em registro cadastral, sua alteração ou cancelamento; Rescisão do contrato nos casos previstos no Artigo 79, Inc I, da lei 8.666/93; Aplicação das penas de advertência, suspensão temporária ou de multa. 11.3 Representação, no prazo de 5 (cinco) dias úteis da intimação da decisão relacionada com o objeto da licitação ou do contrato, desde que não caiba recurso hierárquico; Pedido de reconsideração de decisão da Secretaria de Estado da Fazenda do estado do Espírito Santo, na hipótese de aplicação da pena de inidoneidade para licitar e contratar com o BANESTES ou demais sociedades empresárias que compõem o Sistema Financeiro Banestes, no prazo de 10 (dez) dias úteis da intimação do ato; A intimação dos atos referidos no item 11.2, alíneas "a", "b", "c", e "e" excluídos os relativos a advertência e multa de mora, e no item 11.4. deste Edital, será feita mediante publicação no Diário Oficial do Estado do Espírito Santo; Em se tratando de atos relativos à habilitação ou inabilitação da licitante e ao julgamento das propostas, a publicação poderá ser dispensada pela COLIC, se presentes os prepostos das licitantes no ato em que foi adotada a decisão, ocasião em que a mesma lhes será comunicada diretamente, efetuando-se o devido registro em ata; O recurso previsto no item 11.2, alíneas "a" e "b", terá efeito suspensivo, podendo a autoridade competente, motivadamente e presentes razões de interesse público, atribuir ao recurso interposto eficácia suspensiva aos demais recursos;
+PÁG. - 10 AM
+
+10.8.5 10.8.6
+
+11. 11.1 11.2 a) b) c) d) e) f)
+
+11.4
+
+11.5
+
+11.6
+
+11.7
+
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 11.8 11.9 Interposto o recurso, será comunicado às demais licitantes, que poderão impugná-lo no prazo de 5 (cinco) dias úteis; O recurso será dirigido à autoridade superior, por intermédio de quem praticou o ato recorrido, a qual poderá reconsiderar sua decisão, no prazo de 05 (cinco) dias úteis, ou, nesse mesmo prazo, fazê-lo subir, devidamente informado, devendo, neste caso, a decisão ser proferida dentro do prazo de 05 (cinco) dias úteis, contado do recebimento do recurso; Nenhum prazo de recurso, representação ou pedido de reconsideração se inicia ou corre sem que os autos do processo estejam com vista franqueada ao interessado; No caso de haver impugnação a Recurso interposto, as licitantes deverão apresentar todas as razões de impugnação, inclusive quanto a eventual reconsideração de decisão pela Comissão Permanente de Licitação, pois havendo reconsideração ou não da decisão, seja ela total ou parcial, será esta remetida à apreciação da autoridade superior para decisão, não cabendo neste caso abertura de novo prazo recursal. Para fins do disposto neste item, a hierarquia administrativa no BANESTES, em ordem crescente, é a seguinte: Comissão Permanente de Licitação - COLIC; Diretor Jurídico e Administrativo; Diretor Presidente; Diretoria Colegiada; Conselho de Administração. HOMOLOGAÇÃO E ADJUDICAÇÃO Caberá à vencedora da licitação a prestação dos serviços objetos deste Edital. A adjudicação será procedida após o julgamento das propostas, cujo resultado será submetido à autoridade superior, que o homologará ou não. Após a homologação da licitação, o BANESTES convocará a vencedora para assinar o contrato dentro do prazo referido no item 13.1 sob pena de decair do direito à contratação, sem prejuízo das sanções previstas prevista na minuta de contrato - cláusula de penalidades.. Se a vencedora da licitação não assinar o contrato no prazo estabelecido no item 13.1, o BANESTES poderá convocar as licitantes remanescentes, na ordem de classificação, para fazê-lo em igual prazo e nas mesmas condições propostas pela primeira classificada, inclusive quanto aos preços, ou revogar a licitação, independentemente da cominação prevista na minuta de contrato - cláusula de penalidades. PRAZOS O prazo máximo para assinar o contrato será de 5 (cinco) dias úteis, contados da data de recebimento da notificação. CLÁUSULAS CONTRATUAIS As cláusulas contratuais constam da Minuta de Contrato, Anexo V deste Edital.
+PÁG. - 11 AM
+
+11.10
+
+11.11
+
+11.12 a) b) c) d) e) 12. 12.1 12.2 12.3
+
+12.4
+
+13. 13.1 14. 14.1
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 15. 15.1 DISPOSIÇÕES GERAIS Estará sempre ressalvado ao BANESTES o direito de, por despacho motivado, de que se dará ciência às licitantes, revogar esta licitação e o dever de anulá-la, em caso de ilegalidade; Na contagem dos prazos estabelecidos neste Edital, excluir-se-á o dia do começo e incluir-se-á o do vencimento. Se este recair em dia sem expediente no BANESTES, o término ocorrerá no primeiro dia útil subseqüente; Quaisquer questões decorrentes da execução do contrato, que possam ser suscitadas entre o BANESTES e a CONTRATADA, serão resolvidas de acordo com a legislação brasileira; A Comissão Permanente de Licitação dirimirá as dúvidas sobre este Edital, desde que argüidas pelos representantes legais da licitante, pelo email:colic@banestes.com.br, até 5 (cinco) dias úteis antes do dia fixado para abertura dos envelopes de Documentos de Habilitação, no endereço indicado no item 1.1. Os pedidos de esclarecimentos serão respondidos apenas por escrito por e-mail, sendo certo que a Comissão Permanente de Licitação dará conhecimento das consultas e respostas às demais licitantes que retiraram o Edital; Não serão atendidas solicitações verbais ou formuladas após o prazo estabelecido no item 15.4; Observadas as condições legais, a Comissão Permanente de Licitação poderá, por motivo de interesse público, por sua iniciativa ou em conseqüência de solicitações de esclarecimentos, modificar este Edital e seus Anexos, bem como adiar ou prorrogar o prazo para recebimento dos Documentos de Habilitação ou das Propostas Técnica e de Preço; Poderá a Comissão Permanente de Licitação, no interesse do BANESTES e a seu exclusivo critério, relevar omissões puramente formais, desde que não comprometam a lisura e o caráter competitivo da licitação e/ou possam ser sanadas no prazo que vier a ser fixado pela Comissão Permanente de Licitação; Decairá do direito de impugnar os termos deste Edital perante ao BANESTES a licitante que não o fizer até às 18 h do dia útil anterior a dois dias úteis que anteceder a abertura dos envelopes com as propostas desta CONCORRÊNCIA; O foro de Vitória, Comarca da Capital do Estado do Espírito Santo, será o competente para dirimir quaisquer dúvidas ou questões oriundas do presente Edital, do processo licitatório ou do contrato respectivo. de de 2010
+
+15.2
+
+15.3
+
+15.4
+
+15.5
+
+15.6 15.7
+
+15.8
+
+15.9
+
+15.10
+
+Vitória (ES),
+
+ANSELMO MAGESKI PRESIDENTE DA COMISSÃO PERMANENTE DE LICITAÇÃO
+
+EC_2010/004
+
+PÁG. - 12
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 ANEXO I A pontuação técnica será calculada pela soma dos pontos obtidos nos seguintes fatores: Fator A (máximo 40 pontos) > Serviços de desenvolvimento e manutenção de sistemas no Modelo de Fábrica de Software com a utilização da Técnica de Pontos de Função como unidade de medida para subsidiar o planejamento, monitoramento, medição e remuneração dos serviços (máximo 30 pontos) > Serviços de desenvolvimento e manutenção de sistema de Gestão de Demandas e Serviços incluindo as funcionalidades de registro, controle e acompanhamento de Solicitações de Serviços e Ordens de Serviço. (máximo 20 pontos) > Serviços de desenvolvimento e manutenção de sistema para instituições financeiras. (máximo 10 pontos) > Serviços de desenvolvimento e manutenção de sistema abrangendo as tecnologias descritas no Anexo VI ­ Modelo de Gestão de Sistemas do Banestes, letra "e" Ambientes Tecnológicos, sendo necessária a comprovação da utilização desses componentes considerando a respectiva versão do item, superior ou a versão imediatamente anterior.
+
+Fator B
+
+Fator C Fator D
+
+Total máximo de pontos: 100, apurados através da apresentação de atestado(s), emitido(s) por empresa(s) de direito público ou privado, que comprove, de maneira satisfatória, aptidão para execução de serviços, conforme acima definido, firmados por dirigente(s) identificado(s), no mínimo, por nome, cargo ou função e emitidos em papel timbrado das respectivas instituições. As empresas licitantes que obtiverem pontuação inferior a 40 na Pontuação Técnica serão consideras inabilitadas. Os valores numéricos acima referidos serão calculados com duas casas decimais, desprezando-se a fração remanescente.
+
+EC_2010/004
+
+PÁG. - 13
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 2. PLANILHAS DE PONTUAÇÃO TÉCNICA POR FATOR Fator A: Pontuação máxima: 40 pontos - Serviços de desenvolvimento e manutenção de sistemas no Modelo de Fábrica de Software com a utilização da Técnica de Pontos de Função como unidade de medida para subsidiar o planejamento, monitoramento, medição e remuneração dos serviços FATORES a. Possui experiência de 5.000 Pontos de Funções b. Possui experiência de 10.000 Pontos de Funções c. Possui experiência de 15.000 Pontos de Funções d. Possui experiência de 20.000 Pontos de Funções PONTUAÇÃO PONTUAÇÃO MÁXIMA OBTIDA 0 10 25 40
+
+Observação: Para efeito de apuração da quantidade de Pontos de Função para comprovação da experiência, será aplicado aos Pontos de Função de desenvolvimento comprovados o fator 1,0 e aos Pontos de Função de manutenção comprovados, o fator 0,35.
+
+Fator B: Pontuação máxima: 30 pontos - Serviços de desenvolvimento e manutenção de sistema de Gestão de Demandas e Serviços incluindo as funcionalidades de registro, controle e acompanhamento de Solicitações de Serviços e Ordens de Serviço. FATORES a. Não prestou serviços de desenvolvimento e manutenção de sistema de Gestão de Demandas e Serviços b. Prestou serviços de desenvolvimento e manutenção de sistema de Gestão de Demandas e Serviços PONTUAÇÃO PONTUAÇÃO MÁXIMA OBTIDA 0 30
+
+EC_2010/004
+
+PÁG. - 14
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Fator C: Pontuação máxima: 20 pontos - Serviços de desenvolvimento e manutenção de sistema para instituições financeiras. FATORES a. Prestou serviços de desenvolvimento e manutenção de sistema para instituições financeiras por um período inferior ou igual a 12 meses. b. Prestou serviços de desenvolvimento e manutenção de sistema para instituições financeiras por um período maior que 12 meses e inferior ou igual a 36 meses. c. Prestou serviços de desenvolvimento e manutenção de sistema para instituições financeiras por um período maior que 36 meses e inferior ou igual a 60 meses. d. Prestou serviços de desenvolvimento e manutenção de sistema para instituições financeiras por um período maior que 60 meses e inferior ou igual a 120 meses. PONTUAÇÃO PONTUAÇÃO MÁXIMA OBTIDA
+
+0
+
+5
+
+10
+
+20
+
+EC_2010/004
+
+PÁG. - 15
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Fator D: Pontuação máxima: 10 pontos - Serviços de desenvolvimento e manutenção de sistema abrangendo as tecnologias descritas no Anexo VI ­ Modelo de Gestão de Sistemas do Banestes, letra "d" Ambientes Tecnológicos, sendo necessária a comprovação da utilização desses componentes considerando a respectiva versão do item, superior ou a versão imediatamente anterior. FATORES a. Possui experiência de 5.000 Pontos de Funções b. Possui experiência de 15.000 Pontos de Funções c. Possui experiência de 20.000 Pontos de Funções d. Possui experiência de 25.000 Pontos de Funções PONTUAÇÃO PONTUAÇÃO MÁXIMA OBTIDA 0 02 05 10
+
+Observação: A comprovação da experiência que trata a letra "a" deve abranger as tecnologias mencionadas no Anexo VI ­ Modelo de Gestão de Sistemas do Banestes, letra "d" Ambientes Tecnológicos, item d.1) Cliente X Servidor. A comprovação da experiência que tratam as letras "b", "c" e "d" deve considerar 70% (setenta por cento) dessa experiência abrangendo as tecnologias mencionadas no item e.1) Cliente X Servidor e 30% (trinta por cento) dessa experiência abrangendo as tecnologias mencionadas no item d.2) WEB, ambos os itens constam do Anexo VI ­ Modelo de Gestão de Sistemas do Banestes, letra "d" Ambientes Tecnológicos. Será necessária a comprovação da utilização desses componentes considerando a respectiva versão do item, superior ou a versão imediatamente anterior. Para efeito de apuração da quantidade de Pontos de Função para comprovação da experiência, será aplicado aos Pontos de Função de desenvolvimento comprovados o fator 1,0 e aos Pontos de Função de manutenção comprovados, o fator 0,35.
+
+EC_2010/004
+
+PÁG. - 16
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 ANEXO II
+
+MODELO DE PROCURAÇÃO
+
+OUTORGANTE: (qualificação ­ nome, endereço, razão social, etc.). OUTORGADO: (representante devidamente qualificado) OBJETO: representar a outorgante na Concorrência n.º 004/2010.
+
+PODERES: Apresentar documentação e propostas, participar de sessões públicas de recebimento de documentos de habilitação e de propostas técnica e comercial, assinar as respectivas atas, registrar ocorrências, formular impugnações, interpor recurso, renunciar ao direito de recurso e assinar todos os atos e quaisquer documentos indispensáveis ao bom e fiel cumprimento do presente mandato, inclusive substabelecer.
+
+__________________ de _________________de 2010.
+
+LICITANTE: _______________________________________________________ NOME E CARGO
+
+OBSERVAÇÃO: se particular, a procuração deverá ser elaborada em papel timbrado da licitante assinada por representante(s) legal(is) ou pessoa devidamente autorizada e, será necessário comprovar a declaração de poderes para fazer as declarações acima.
+
+EC_2010/004
+
+PÁG. - 17
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+ANEXO III
+
+MODELO DE DECLARAÇÃO
+
+APRESENTAÇÃO OBRIGATÓRIA NO ENVELOPE Nº 01
+
+___________________________, CNPJ nº ______________, por intermédio do seu representante legal abaixo assinado, declara sob as penalidades da lei, para fins de participação na EDITAL DE CONCORRÊNCIA nº 004/2010, que: 1. Os documentos que compõem o Edital foram colocados à disposição e tomou conhecimento de todas as informações, condições locais e grau de dificuldade dos produtos a serem fornecidos e dos serviços a serem executados; 2. Não se encontra declarada inidônea para licitar ou contratar com órgãos da Administração Pública Federal, Estadual, Municipal e do Distrito Federal; 3. Inexiste fato superveniente impeditivo de sua habilitação e 4. Que atende o disposto no inciso XXXIII, do art. 7, da Constituição Federal.
+
+Localidade, ______ de __________________ de 2010
+
+______________________________________________________ Assinatura e nome do representante legal da sociedade empresária
+
+EC_2010/004
+
+PÁG. - 18
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 ANEXO IV
+
+MODELO DE DECLARAÇÃO
+
+APRESENTAÇÃO OBRIGATÓRIA EM MÃOS JUNTO AO CREDENCIAMENTO
+
+____________________,
+
+CNPJ nº. _____________________, por intermédio do seu
+
+representante legal abaixo assinado, declara sob as penalidades da lei, para fins de participação no presente Edital de Concorrência 004/2010 que cumpre plenamente os requisitos de habilitação.
+
+Localidade, ______ de __________________ de 2010.
+
+Assinatura e nome do representante legal da sociedade empresária
+
+EC_2010/004
+
+PÁG. - 19
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 ANEXO V MINUTA DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO E MANUTENÇÃO DE SISTEMAS, QUE ENTRE SI FAZEM O BANESTES S.A.- BANCO DO ESTADO DO ESPÍRITO SANTO, COMO CONTRATANTE, E A SOCIEDADE EMPRESÁRIA .................................., COMO CONTRATADA, NA FORMA ABAIXO: O BANESTES S.A - BANCO DO ESTADO DO ESPÍRITO SANTO, Instituição Financeira Múltipla, com sede na Avenida Princesa Isabel, nº 574, Ed. Palas Center, Bloco "B", 9º andar, Centro, Vitória, ES, CEP 29010-931, inscrito no CNPJ/MF sob o nº 28.127.603/000178, representado neste ato por seus representantes legais que ao final assinam e se identificam, doravante denominado simplesmente BANCO ou CONTRATANTE, e a ..................................., com sede e foro na ..................................................., CEP ................, inscrita no CNPJ/MF sob o nº ................................................., representada neste ato por seu(s) representante(s) legal(is) que ao final assina(m) e se identifica(m), doravante denominada simplesmente CONTRATADA, tem justo e contratado o que se contém nas cláusulas e condições seguintes: CLÁUSULA PRIMEIRA: DO OBJETO Contratação de sociedade empresária especializada em PRESTAÇÃO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO PARA ESPECIFICAÇÃO, DESENVOLVIMENTO, MANUTENÇÃO E DOCUMENTAÇÃO DE SISTEMAS NA FORMA DE FÁBRICA DE SOFTWARE, de acordo com este instrumento e com o edital de Concorrência 004/2010. CLÁUSULA SEGUNDA: DO PREÇO E REAJUSTE O preço unitário do valor do Ponto de Função Ajustado para a realização dos serviços é de R$ .................., incluindo todas as despesas necessárias para o fornecimento e para a plena execução dos serviços, tais como de pessoal, de administração, tributos e todos os encargos (obrigações sociais trabalhistas e previdenciárias, tributos etc), incidentes sobre o fornecimento/serviço. Parágrafo Primeiro: O CONTRATANTE pagará à CONTRATADA, no dia 10 do mês subseqüente a prestação dos serviços, através de crédito em conta corrente da CONTRATADA, junto à Agência do BANCO, Conta Corrente nº , mediante a apresentação de Nota Fiscal/Fatura, devidamente assinada e carimbada pela GESIS Gerência de Desenvolvimento de Sistemas, sito na Av. Marechal Campos, nº 90, Ed. Bressan, Bairro de Lourdes, - Vitória - ES, atestando a prestação dos serviços de acordo com o especificado. Parágrafo Segundo: O faturamento deverá ser apresentado pela CONTRATADA ao CONTRATANTE com antecedência mínima de 05 (cinco) dias da data prevista para o pagamento. Parágrafo Terceiro: Ocorrendo erro na apresentação da fatura, esta será devolvida à CONTRATADA para retificação, ficando estabelecido que o pagamento será efetuado obedecendo o prazo de 10 (dez) dias após a apresentação da nova fatura devidamente retificada. Parágrafo Quarto: O fornecedor deverá apresentar, obrigatoriamente, junto com a Nota Fiscal/Fatura, o Certificado de Regularidade de Situação do FGTS e a Certidão Negativa de
+EC_2010/004 PÁG. - 20 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Débito para com o INSS. Estes documentos deverão ser apresentados em original, fotocópia autenticada em cartório, ou fotocópia com apresentação do original para serem autenticadas pelo órgão receptor. Parágrafo Quinto: O não cumprimento do contido no subitem anterior implicará na sustação do pagamento, que só será processado após a apresentação das referidas Certidões, não podendo ser considerado atraso de pagamento e, em conseqüência, não cabendo ao BANESTES qualquer ônus financeiro (correção, reajuste, atualização, juros, multas, etc.). Parágrafo Sexto: Após 12 (doze) meses, contados do inicio da prestação dos serviços valor mencionado o preâmbulo desta cláusula será reajustado através de negociação entre as partes, considerando como limite máximo a variação do IGPM - FGV, referente ao período ou, caso este não seja divulgado, por qualquer outro índice que vier a ser estabelecido pelo Governo Federal. Parágrafo Sétimo: Se, em virtude de lei subseqüente, vier a ser admitida correção de obrigações contratuais em periodicidade inferior à prevista na legislação vigente, as partes, desde já, concordam que a correção do valor constante nesta cláusula passará a ser feita mediante acordo entre as partes. CLÁUSULA TERCEIRA: DAS OBRIGAÇÕES DO CONTRATANTE Caberá ao CONTRATANTE correspondentes, bem como: a) b) c) d) alocar os recursos necessários aos pagamentos
+
+Acompanhar e fiscalizar a execução do contrato; Fornecer a CONTRATADA todas as informações que esta necessitar para poder cumprir adequadamente o presente contrato; Fornecer ao pessoal técnico da CONTRATADA condições necessárias para a adequada execução dos serviços; Efetuar o pagamento da nota fiscal/fatura apresentada pela CONTRATADA, conforme o prazo e as condições estabelecidos no presente instrumento.
+
+CLÁUSULA QUARTA: DAS OBRIGAÇÕES DA CONTRATADA Para consecução dos objetivos previstos neste contrato, a CONTRATADA, além das obrigações definidas em outras cláusulas do presente instrumento ou estabelecidas em lei, se obriga a: a) Prestar os serviços conforme definições, procedimentos e políticas definidos no Anexo VI ­ Modelo de Gestão de Sistemas do Banestes do Edital de Concorrência 004/2010 e neste instrumento contratual; Responsabilizar-se pela integral prestação de serviços, inclusive no que se referir a inobservância da legislação em vigor; Reparar ou corrigir, às suas expensas, no todo ou em parte, os vícios resultantes da má execução dos serviços objeto deste contrato; Arcar com todos os ônus necessários à completa prestação dos serviços objeto deste contrato, inclusive no que se referir a seleção e treinamento dos recursos humanos necessários ao seu desenvolvimento;
+PÁG. - 21 AM
+
+b) c) d)
+
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 e) Responder civil e penalmente por quaisquer danos materiais ou pessoais ocasionados ao CONTRATANTE e/ou a terceiros, pelos funcionários alocados para a prestação dos serviços objeto deste contrato; Providenciar a correção das deficiências apontadas pelo CONTRATANTE na execução dos serviços contratados conforme definido no Modelo de Gestão de Sistemas do Banestes; Efetuar os pagamentos de todos os tributos, contribuições fiscais e parafiscais que incidam direta ou indiretamente sobre este contrato ou seu objeto, ficando, desde logo, convencionado que o CONTRATANTE poderá descontar de qualquer crédito da CONTRATADA a importância correspondente a eventuais pagamentos desta natureza, que porventura venha a efetuar por imposição legal, podendo também, o CONTRATANTE exigir, se e quando necessário, a apresentação dos respectivos comprovantes de quitação dos períodos anteriores; Atendimento às solicitações do BANESTES, de acordo com as especificações técnicas, procedimentos de controle administrativo e cronogramas físicos que venham a ser estabelecidos. Prestação dos serviços com pessoal adequadamente capacitado em locais e instalações determinadas pelo BANESTES. Manutenção, durante a vigência do contrato, de todas as condições de habilitação, incluindo a atualização de documentos de controle da arrecadação de tributos e contribuições federais e outras legalmente exigíveis, junto ao BANESTES. Participação, através de representante legal com poderes para decidir em nome da empresa, em todas as reuniões e atividades de coordenação, planejamento, acompanhamento e avaliação que venham ser convocadas pelo BANESTES. Cumprimento rigoroso de todas as programações e atividades constantes do objeto do contrato e que venham a ser estabelecidas. Manter o mais completo e absoluto sigilo, para os jurídicos e legais efeitos, devendo guardar, por si, seus empregados e/ou prepostos, em relação às informações, documentos de qualquer natureza e tecnologia que, em razão deste instrumento, lhe sejam exibidos, manuseados ou por qualquer outra forma ou modo, venham a tomar conhecimento, ficando, portanto, responsáveis por sua indevida divulgação, descuidada ou incorreta utilização, sem perda das responsabilidades civis e criminais.
+
+f)
+
+g)
+
+h)
+
+i) j)
+
+k)
+
+l) m)
+
+CLÁUSULA QUINTA: DO SIGILO A CONTRATADA fará com que seus funcionários, representantes, sócios e empregados envolvidos ou não com a prestação dos serviços ora contratados, mantenham o mais rigoroso e absoluto sigilo, todos e quaisquer dados e informações, presentes, futuros ou passados, de qualquer natureza, sejam do CONTRATANTE, de seus representantes, seus funcionários, sobre todos os assuntos e documentos reservados do CONTRATANTE que porventura venha ter acesso ou conhecimento em razão desta contratação, bem como a não comunicar, revelar, copiar ou utilizar as informações e documentos a que tiverem acesso direto ou indireto, com exceção àqueles que se fizerem necessários ao sistema, condição essa que deverá perdurar inclusive após a cessação da prestação dos serviços.
+
+EC_2010/004
+
+PÁG. - 22
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 CLÁUSULA SEXTA: DA NOVAÇÃO OU TOLERÂNCIA A tolerância de uma parte para com a outra quanto ao descumprimento de qualquer uma das obrigações assumidas neste contrato não implicará novação ou renúncia de direito. A parte tolerante poderá exigir da outra o fiel e cabal cumprimento deste Contrato a qualquer tempo. CLÁUSULA SÉTIMA: DA CESSÃO OU TRANSFERÊNCIA A CONTRATADA não poderá ceder, alienar, dar em garantia, transferir ou gravar de ônus, no todo ou em parte, o objeto do presente instrumento, bem como créditos decorrentes deste contrato, salvo com prévia e expressa autorização, por escrito, da CONTRATANTE. A CONTRATADA, todavia, por sua conta e risco, poderá contratar com terceiros serviços necessários ao cumprimento deste contrato, mediante prévia e expressa autorização da CONTRATANTE, ficando a CONTRATADA, como única responsável pelo fiel cumprimento dos serviços perante a CONTRATANTE, bem como pelo sigilo e confidencialidade das informações que lhe tenham sido repassadas pela CONTRATANTE. CLÁUSULA OITAVA: DO PRAZO O prazo de vigência do presente contrato é de 12 meses, a contar de ...../...../....., podendo ser renovado por novos períodos de acordo com a lei nº 8.666/93. CLÁUSULA NONA: DOS MOTIVOS PARA RESCISÃO DO CONTRATO O BANESTES poderá considerar rescindido o contrato, garantida prévia defesa, ocorrendo quaisquer das hipóteses previstas em lei, e ainda, se a CONTRATADA: a) b) c) d) e) Tiver sua falência decretada; Dissolver a sociedade; Deixar de cumprir regularmente quaisquer das cláusulas do presente instrumento, inclusive os prazos para instalação; Deixar de atender ao disposto no anexo III do Edital de Pregão 020/2010; Subcontratar total ou parcialmente o objeto deste contrato, se associar com outrem, ceder ou transferir a terceiros, no todo ou em parte o presente contrato, sem prévia autorização do CONTRATANTE; Desatender as determinações regulares do responsável do CONTRATANTE pelo acompanhamento e fiscalização da execução do presente contrato, assim como as de seus superiores; Alterar sua finalidade social ou a sua estrutura, de forma que, a juízo do CONTRATANTE venha a prejudicar a execução do presente contrato; Agir com imperícia, negligência, imprudência ou desídia na prestação dos serviços ou no fornecimento de informações ao CONTRATANTE; Promover a lentidão do seu cumprimento, levando o CONTRATANTE a comprovar a impossibilidade da conclusão dos serviços, nos prazos estipulados; Promover o atraso injustificado no início da prestação dos serviços; Promover a paralisação dos serviços, sem justa causa e prévia comunicação ao CONTRATANTE;
+PÁG. - 23 AM
+
+f)
+
+g) h) i) j) k)
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 l) m) Cometer reiteradamente faltas na sua execução, anotadas na forma do § 1° do art. 67 da Lei 8.666/93; Tiver fornecido declarações, certificados, atestados, certidões ou quaisquer outras informações falsas, imprecisas ou incorretas durante o processo
+
+CLÁUSULA DÉCIMA PRIMEIRA: DA RESCISÃO DO CONTRATO O presente contrato poderá ainda ser rescindido pelo CONTRATANTE, a qualquer momento, mediante aviso por escrito, com 30 (trinta) dias de antecedência, sem que isto implique no direito de indenização de uma parte a outra, ou ainda: I) II) III) Determinada por ato unilateral do CONTRATANTE; Amigável, por acordo entre as partes, reduzida a termo no processo de licitação, desde que haja conveniência para o CONTRATANTE; Judicial, nos termos da legislação.
+
+Parágrafo Primeiro: A rescisão administrativa ou amigável deverá ser precedida de autorização escrita e fundamentada da autoridade competente. Parágrafo Segundo: Quando a rescisão ocorrer sem que haja culpa da CONTRATADA, nas hipóteses do § 2.º do art. 79 da Lei 8.666/93, será esta ressarcida dos prejuízos regularmente comprovados. Parágrafo Terceiro: O BANESTES também poderá considerar rescindido o contrato, garantida prévia defesa, quando da ocorrência de caso fortuito ou de força maior regularmente comprovada, impeditiva da sua execução e/ou quando for promovida a supressão dos serviços por parte do CONTRATANTE, acarretando modificação do valor inicial do contrato, além do limite permitido no § 1° do Artigo 65 da Lei 8666/1993. CLÁUSULA DÉCIMA SEGUNDA: DAS PENALIDADES A Contratada, pelo atraso no inicio da prestação dos serviços objeto deste instrumento, será notificada pelo BANESTES, sendo-lhe garantida prévia defesa. Caso as razões alegadas forem julgadas improcedentes, o BANESTES sujeitará à licitante vencedora a multa de 1% (um por cento) do valor do contrato por dia de atraso, limitado ao total de 10% (dez por cento), quando, então, será rescindido o contrato. Parágrafo Primeiro: Pela inexecução total ou parcial do contrato, a CONTRATADA será notificada pelo CONTRATANTE, sendo-lhe garantida prévia defesa. Caso as razões alegadas forem julgadas improcedentes, o CONTRATANTE aplicará à CONTRATADA, as seguintes sanções: a) b) c) d) Advertência; Multa de 2% (dois por cento) sobre o valor global do contrato; Suspensão de participação em licitação e impedimento de contratar com o CONTRATANTE, pelo prazo de até 2 (dois) anos; Declaração de inidoneidade para licitar ou contratar com o CONTRATANTE e com as demais sociedades empresárias que compõem o Sistema Financeiro BANESTES, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a
+PÁG. - 24 AM
+
+EC_2010/004
+
+EDITAL DE CONCORRÊNCIA 004/2010 penalidade, que será concedida sempre que as licitantes ressarcirem o CONTRATANTE pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base na alínea anterior. Parágrafo Segundo: As multas previstas nesta cláusula será(ão) compensada(s), de imediato, dos pagamentos ou cobrada judicialmente, se for o caso. Parágrafo Terceiro: A sanção estabelecida no inciso "d" é de competência exclusiva da Secretaria de Estado da Fazenda, facultada a defesa do interessado no respectivo processo, no prazo de 10 (dez) dias da abertura de vista, podendo a reabilitação ser requerida após 2 (dois) anos de sua aplicação. Parágrafo Quarto: Na hipótese de não correção pela CONTRATADA de anormalidades verificadas pela fiscalização, o CONTRATANTE descontará do pagamento devido a importância correspondente àqueles serviços, cuja execução providenciará. Parágrafo Quinto: A suspensão do direito de licitar e contratar com o CONTRATANTE serão declarado em função da natureza e gravidade da falta cometida. Parágrafo Sexto: A declaração de inidoneidade para licitar e contratar com o CONTRATANTE será em função da natureza e gravidade da falta cometida, de faltas e penalidades anteriormente aplicadas, ou em caso de reincidência. Parágrafo Sétimo: Sem prejuízo da aplicação ao inadimplente das sanções que lhe couberem, o CONTRATANTE recorrerá às garantias porventura constituídas, a fim de ressarcir-se dos prejuízos que lhe tenha acarretado a CONTRATADA, podendo ainda reter créditos decorrentes do Contrato e promover a cobrança judicial, ou extrajudicial, por perdas e danos. CLÁUSULA DÉCIMA TERCEIRA: DA FISCALIZAÇÃO O CONTRATANTE efetuará, sob sua exclusiva fiscalização da execução dos serviços objeto deste desenvolvimento, está sendo cumprido o contrato, assim como participar de todos os atos que se cumprimento. competência e responsabilidade, a contrato, cabendo verificar, se no seu bem como autorizar os pagamentos, fizerem necessários para o seu fiel
+
+CLÁUSULA DÉCIMA QUARTA: DADOS DA OUVIDORIA GERAL Informamos que os contatos com a OUVIDORIA GERAL do BANESTES, quando necessários dar-se-ão, pelo número de telefone 0800-7270030 ou pelo e-mail: ouvidoriageral@banestes.com.br. CLÁUSULA DÉCIMA QUINTA: DAS DISPOSIÇÕES GERAIS Fica fazendo parte integrante do presente contrato, para todos os fins de direito, o processo relativo ao edital de Concorrência 004/2010. CLÁUSULA DÉCIMA SEXTA: DO FORO As partes elegem, de comum acordo, o foro de Vitória - Comarca da Capital do Estado do Espírito Santo, como competente para dirimir todas as dúvidas e controvérsias oriundas da interpretação ou da execução do presente contrato, renunciando a qualquer outro, por mais especial que seja, ressalvado, entretanto, ao BANESTES, se lhe convier, optar pelo foro de domicílio da CONTRATADA.
+EC_2010/004 PÁG. - 25 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 E, por terem assim ajustado as partes contratantes, depois de sua leitura, na presença das testemunhas abaixo, assinam as 02 (duas) vias de igual teor deste contrato, obrigando-se por si e por seus sucessores, a cumpri-lo fielmente em todos os seus termos. Vitória (ES), de de 2010.
+
+CONTRATANTE BANESTES S.A - BANCO DO ESTADO DO ESPÍRITO SANTO
+
+CONTRATADA
+
+TESTEMUNHAS: NOME: ASS. CPF NOME: ASS. CPF
+
+EC_2010/004
+
+PÁG. - 26
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 ANEXO VI Modelo de Gestão de Sistemas do Banestes I. Aplicação
+
+Este modelo aplica-se aos serviços de levantamento, especificação, desenvolvimento, manutenção, documentação e Suporte Técnico e Operacional de Sistemas para o BANESTES ­ Banco do Estado do Espírito Santo. II. Definições / Critérios
+
+a)
+
+Fluxo
+
+O Modelo de Gestão de Sistemas do Banestes contempla o Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas ­ PGDMS que incorpora as fases de Ativação, Concepção, Implementação e Transição e utiliza métodos customizados/adaptados para o gerenciamento e implementação de projetos de desenvolvimento e manutenção de sistemas de informação. O processo é aderente aos paradigmas de desenvolvimento de software do mercado, como a Análise Orientada a Objeto e Análise Estruturada de Sistemas.
+Modelagem Ativação Concepção
+
+Implementação
+
+Construção
+
+Homologação
+
+Fase 1
+
+Fase 2
+
+Fase 3
+
+Fase 4
+
+Diagrama 1 ­ Fluxo do PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas
+
+EC_2010/004
+
+PÁG. - 27
+
+Transição
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 A tabela a seguir apresenta os percentuais de esforço por fase do processo. Esses percentuais serão utilizados como base para a remuneração da CONTRATADA pela conclusão de cada fase do processo por ela realizada. Fase Nome da Fase 1 Ativação % de Esforço 10% Observações - Como está previsto no PGDMS - Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas a realização apenas de uma estimativa de Pontos de Função com baixo nível de precisão nessa fase, não haverá remuneração específica na sua conclusão; - Ao final dessa fase a CONTRATADA será remunerada pela conclusão também da fase 1 ­ Ativação; - Esta fase é dividida em três subfases: "Modelagem", "Construção e Testes" e "Homologação": - A subfase de "Modelagem" corresponde a 30% do esforço da fase de Implementação. - A subfase "Construção" corresponde a 50% do esforço da fase Implementação. - A subfase "Homologação" corresponde a 20% do esforço da fase Implementação. 4 Transição 20% - Essa fase será considerada concluída após o funcionamento ininterrupto em produção, durante 5 dias úteis contados a partir da efetiva implantação, dos produtos de software objetos da Ordem de Serviço.
+
+2 3
+
+Concepção Implementação
+
+30% 40%
+
+Tabela 1 ­ Percentual de esforço para cada fase do PGDMS - Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas b) Tipos de Projetos a serem contratados
+
+O Modelo de Desenvolvimento e Manutenção de Sistemas do BANESTES possibilita a contratação de vários tipos de projetos que serão estruturados contendo em seu escopo fases ou subfases do processo selecionadas de acordo com os objetivos e necessidade do CONTRATANTE. Estão descritos a seguir os Tipos de Projetos definidos para o Modelo de Desenvolvimento e Manutenção de Sistemas do BANESTES considerando as fases do PGDMS ­ Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas: Projeto de desenvolvimento de um novo sistema Desenvolvimento de sistemas informatizados a partir dos requisitos solicitados pelo CONTRATANTE, aplicando os procedimentos preconizados no PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas.
+EC_2010/004 PÁG. - 28 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Projeto de Manutenção de Sistema Manutenção de funções em sistemas existentes com o objetivo de implementação de melhorias ou adaptações, a partir dos requisitos estabelecidos pelo CONTRATANTE e classificadas conforme abaixo: Manutenção Adaptativa - Adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e SGBD, que não impliquem em inserção, alteração ou exclusão de funcionalidades. Manutenção Evolutiva - Corresponde a inclusão, alteração e exclusão de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio. A correção de erros nos sistemas que tenham sido gerados por intervenções anteriores a entrega do sistema para manutenção da CONTRATADA, será considerada Manutenção Evolutiva, ou seja, a CONTRATADA será remunerada pelo serviço. Manutenção Perfectiva - Corresponde às adequações da aplicação à necessidade de melhorias, sem alteração de funcionalidades, sob o ponto de vista do usuário. A finalidade da manutenção perfectiva é promover a melhoria de performance, a manutenibilidade e usabilidade da aplicação. Projeto de Levantamento de Demanda Levantamento e documentação dos requisitos funcionais, de negócio, técnicos e de qualidade para um novo sistema informatizado, aplicando os procedimentos preconizados no PGDMS ­ Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas. Projeto de Especificação de um novo Sistema Especificação funcional de um novo sistema informatizado a partir dos requisitos estabelecidos pelo CONTRATANTE, aplicando os procedimentos preconizados no PGDMS ­ Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas. Projeto de Implementação de Sistema Realização das subfases Modelagem, Construção, Homologação da fase de Implementação e a fase de Transição de manutenções ou desenvolvimento de funções em sistemas existentes ou desenvolvimento de novos sistemas a partir dos requisitos estabelecidos pelo CONTRATANTE, aplicando os procedimentos preconizados no PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas. Para a contratação desse tipo de projeto o CONTRATANTE deverá providenciar os artefatos de especificação funcional compatíveis com os modelos estabelecidos no PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas. Projeto de documentação de um sistema existente Realização da fase de Concepção e da subfase de Modelagem visando a disponibilização da documentação técnica e funcional, atualizada, de sistemas existentes
+EC_2010/004 PÁG. - 29 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 no CONTRATANTE aplicando os procedimentos preconizados no PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas. Caso o sistema objeto do projeto de documentação possua algum nível de documentação, essa poderá ser atualizada a partir do serviço contratado. Nesse caso, a CONTRATADA deverá realizar uma análise dos documentos existentes levantando o nível de esforço necessário para a sua atualização. A CONTRATADA deverá se comprometer a avaliar o nível de esforço necessário para atualização da documentação e negociar um desconto para o serviço. Caso a CONTRATADA decida por não conceder o desconto, ela deverá elaborar um relatório técnico e encaminhar ao CONTRATANTE para justificar sua decisão. A Tabela 2 ­ Tipos de Projetos apresenta os Tipos de Projetos definidos para o PGDMS ­ Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas com as respectivas fases envolvidas no escopo a ser respeitado para a contratação do serviço: Tipo de Projeto Desenvolvimento de Sistemas Manutenção de Sistemas Levantamento de Demanda Especificação de um novo Sistema Implementação de Sistemas Documentação de um Sistema existente Fases do processo envolvidas
+- Envolve todas as fases do PGDMS - Envolve todas as fases do PGDMS - Realização da fase 1 do PGDMS - Realização das fases 1 e 2 do PGDMS - Realização das fases 3 e 4 do PGDMS - Realização da fase 2 e da Subfase de Modelagem da fase 3 do PGDMS
+
+Tabela 2 ­ Tipos de Projetos c) Mudança de Escopo
+
+O Modelo de Gestão de Sistemas do BANESTES contempla duas possibilidades de alteração no escopo de uma ordem de serviço e, consequentemente, mudanças no tamanho do serviço em Pontos de Função: Solicitação de Serviço à Informática Corretiva de Conceito - é a mudança ocorrida durante a execução de uma ordem de serviço. Tal alteração poderá decorrer da revisão, pelo CONTRATANTE, das necessidades de negocio a serem atendidas pelo serviço, não estando relacionada com o simples detalhamento dos requisitos ou Casos de Uso identificados inicialmente. Solicitação de Revisão de Solução ­ é a revisão da solução proposta pela CONTRATADA para a demanda em função da identificação de novas funcionalidades impactadas ou a partir de uma nova concepção para o produto objeto do serviço. Nesse caso, a solicitação de revisão de solução deverá ser encaminhada formalmente para a avaliação e aprovação do CONTRATANTE através do formulário de "Solicitação de Revisão de Solução" (conforme modelo constante na seção VII. Modelos de Artefatos do Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas).
+
+EC_2010/004
+
+PÁG. - 30
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 d) Ambientes Tecnológicos d.1) Cliente X Servidor Desenvolvido em arquitetura 3 camadas Cliente Sistema Operacional Linguagem de programação Camada de Negócio Servidor de Transação Objetos de Negócio Middleware Banco de Dados SGBD Sistema Operacional Servidor d.2) WEB Plataforma de desenvolvimento .Net 3.5 Sistema Operacional Cliente Sistema Operacional Servidor - Windows 2000, Windows XP e Windows Vista - Windows 2000 Server - SQL Server 2005 ou superior - Windows 2000 Server - Microsoft (MTS / COM +) - Delphi versão 2006 ou superior - Midas - Windows 2000, Windows XP e Windows Vista - Delphi versão 2006 ou superior
+
+Modelo de acesso ao banco de - LINQ dados SGBD Ferramenta de Apoio - Oracle versão 10.x.x ou superiores - Microsft SQL Server 2000 ou superiores - Visual Studio 2008 ou superior Tabela 3 ­ Detalhamento dos Lotes e Ambientes Tecnológicos A atualização dos elementos de hardware ou software descritos na Tabela X - Detalhamento dos Lotes e Ambientes Tecnológicos será decidida pelo CONTRATANTE seguindo suas necessidades e conveniência. Entretanto, nesses casos, o CONTRATANTE deverá acordar com a CONTRATADA um prazo compatível para que ocorra a adequação à nova plataforma tecnológica e, esta deverá adaptar-se à mudança, às suas expensas, sem custos adicionais para o CONTRATANTE. e) Condições de Execução dos serviços
+
+Locais e Infra-estrutura para Execução dos serviços Os serviços deverão ser desenvolvidos nas instalações da CONTRATADA, que deverá providenciar, às suas expensas, a infra-estrutura de hardware e software necessária para sua execução observando a compatibilidade de ambiente operacional, padrões e critérios de segurança estabelecidos pelo CONTRATANTE. Entretanto, algumas das atividades do PGDMS - Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas, pelas características específicas como, por exemplo, a necessidade de interação (reuniões, apresentações, workshops, conferências, entrevistas, etc.) com as áreas demandantes ou áreas técnicas do CONTRATANTE, serão realizadas nas instalações do CONTRATANTE localizadas na cidade de Vitória/ES. A
+EC_2010/004 PÁG. - 31 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 subfase de Homologação (fase Implementação) e a fase de Transição serão realizadas nos locais onde os respectivos ambientes (homologação e produção) estiverem instalados. Será de responsabilidade da CONTRATADA o deslocamento necessário dos profissionais envolvidos na prestação dos serviços, inclusive quanto às despesas de passagem e hospedagem. Quando os serviços estiverem sendo realizados nas dependências do CONTRATANTE, os profissionais da CONTRATADA sempre exercerão suas atribuições sob a supervisão, acompanhamento e orientação do Gerente de Projeto da mesma, responsável pela realização dos serviços contratados, que atuará como Preposto. Segurança O acesso físico e/ou lógico ao ambiente controlado do CONTRATANTE somente será disponibilizado aos funcionários da CONTRATADA mediante o cumprimento das condições de segurança estabelecidas. - A CONTRATADA deverá garantir que todo dado entregue, por qualquer meio, aos ambientes tecnológicos do CONTRATANTE esteja livre de vírus de computador. - A CONTRATADA deverá providenciar recursos de antivírus para proteção das informações administradas, no mínimo, capaz de: - Detectar e remover vírus, Cavalos de Tróia, worms e ameaças correlatas, para a solução a ser utilizada no ambiente da CONTRATADA. - Fornecer proteção contra vírus em tempo real para correio eletrônico SMTP e tráfego FTP e HTTP. - A CONTRATADA deve apresentar, sempre que solicitado pelo CONTRATANTE, evidências de que o ambiente de realização dos serviços contratados possui o grau de proteção necessário para garantir a segurança e o sigilo das informações a ela confiadas. f) Garantia
+
+O Modelo de Gestão de Sistemas do BANESTES contempla dois tipos de Garantia: Garantia do Serviço e Garantia da Funcionalidade. A Garantia do Serviço está inserida como parte integrante do serviço contratado e consiste na realização pela CONTRATADA, sem ônus adicional para o CONTRATANTE, de toda e qualquer correção decorrente de erros ou falhas cometidas na execução desses serviços. A Garantia da Funcionalidade está inserida como parte integrante, exclusivamente dos Serviços de Desenvolvimento de Função ou Contratação de Garantia e, nesses casos, consiste na realização pela CONTRATADA, sem ônus adicional para o CONTRATANTE, de toda e qualquer remoção de erros ou falhas ocorridas que impeçam o funcionamento das funcionalidades sob Garantia, bem como de todos os componentes de software e artefatos a ela associados. A Garantia do Serviço e a Garantia da Funcionalidade irão vigorar a partir da data de implantação do serviço contratado ou a partir da data da Contratação da Garantia até 6 (seis) meses após o término do contrato.
+EC_2010/004 PÁG. - 32 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 A garantia de um serviço ou de uma funcionalidade estará imediata e automaticamente expirada se a codificação dos componentes de software associados for modificada por pessoal estranho ao quadro dos técnicos autorizados, vinculados à CONTRATADA. Na hipótese de ocorrer o estabelecido no parágrafo anterior, a garantia da funcionalidade poderá ser restabelecida mediante a sua contratação e remuneração conforme previsto na Tabela x ­ Fator de Remuneração. g) Suporte Técnico e Operacional
+
+A CONTRATADA deverá durante a vigência do contrato e por um período de até 6 (seis) meses após seu término, garantir a disponibilidade de equipe capacitada para realizar as atividades referentes ao Suporte Técnico e Operacional dos sistemas sob a sua responsabilidade. O CONTRATANTE transferirá a responsabilidade do Suporte Técnico e Operacional à CONTRATADA de forma gradual e crescente ao longo do contrato, seguindo uma sistemática de absorção dos serviços pela CONTRATADA. A transferência da responsabilidade pelo Suporte Técnico e Operacional do sistema para a CONTRATADA será formalizada através de documento específico, sendo nesse momento negociado o período necessário para a transição visando a absorção, pela CONTRATADA, do conhecimento sobre as informações úteis à manutenção do sistema, tais como, comportamento do sistema, estrutura, ambiente, documentação, entre outras. O início efetivo do Suporte Técnico e Operacional ocorrerá após o término do prazo de transição acordado. Entretanto, o prazo de transição deverá ser determinado entre 1 (um) e 3 (três) meses, dependendo do tamanho e da complexidade do sistema. As atividades a serem executadas pela CONTRATADA, no âmbito do Suporte Técnico e Operacional, incluem as seguintes: a) Suporte Técnico a.1) Recebimento, análise, solução, implementação e implantação de todas as intervenções necessárias para manter o sistema sob a sua responsabilidade e todos os componentes relacionados, funcionando através de ações pró-ativas e/ou reativas; a.2) Remoção de erros ou falhas ocorridas que impeçam o funcionamento do sistema sob a sua responsabilidade, tais como cancelamento de programa, demora no processamento, parada de rotinas, resultados inesperados no processamento e, quaisquer defeitos ou deficiências. b) Suporte Operacional b.1) Receber e responder prontamente aos chamados referentes aos sistemas, avaliando ou participando de reuniões para avaliar e identificar causas e soluções para os problemas operacionais ou funcionais dos sistemas; b.2) Esclarecimento de dúvidas, orientações, acompanhamento da utilização dos sistemas;
+EC_2010/004 PÁG. - 33 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Para a situação em que os problemas forem decorrentes de erros ou falhas cometidas na execução dos serviços contratados ou nos casos em que as funcionalidades com problemas estejam sob garantia, as ações de Suporte Técnico ou de Suporte Operacional necessárias, ocorrerão sob a forma de Garantia, ou seja, não cabendo remuneração à CONTRATADA. Caso contrário, a sua atuação no Suporte Técnico ou Suporte Operacional deverá ser remunerada com base nos critérios e procedimentos estabelecidos no Modelo de Gestão de Sistema do BANESTES e considerando a caracterização dos serviços definida na Tabela X Fator de Remuneração. A CONTRATADA deverá providenciar o início do atendimento, referente ao Suporte Técnico e Operacional, no prazo de até 1 (uma) hora, após acionamento, para situações definidas pelo CONTRATANTE como emergenciais. Para as demais situações, o prazo para início do atendimento será negociado e acordado com a CONTRATADA. Também deverá ser negociado e acordado entre as partes o prazo para a implementação da solução atendendo aos requisitos de urgência, criticidade e prazo do CONTRATANTE. As solicitações, o acompanhamento e o controle dos prazos acordados referentes a este atendimento serão formalizados por meio de documento específico a ser emitido pelo CONTRATANTE e assinado pelas partes. Na hipótese do não atendimento pela CONTRATADA nos prazos acordados e formalizados dos serviços relacionados à Garantia, o CONTRATANTE poderá providenciar, a seu critério, a implementação da solução e descontará do pagamento devido à CONTRATADA a importância correspondente aos serviços. Entretanto, mesmo que essa intervenção ocorra em componentes de software, a garantia das funcionalidades a eles associados não se expirará. Para permitir agilidade e qualidade no Suporte Técnico e Operacional, a CONTRATADA deverá possuir obrigatoriamente, na Grande Vitória, uma unidade onde permanecerão lotados os profissionais designados para esse atendimento. Adicionalmente, a CONTRATADA se obriga a disponibilizar, sem ônus adicionais para o CONTRATANTE, no ato da assinatura do CONTRATO, no mínimo, os seguintes canais de atendimento: · TELEFONE; · E-MAIL; · FAX; A CONTRATADA não poderá atribuir o não cumprimento dos prazos estabelecidos (ou acordados) para início e finalização dos atendimentos e serviços a uma eventual indisponibilidade dos canais de atendimento. h) Direito de Propriedade
+
+Todos os produtos resultantes dos serviços desenvolvidos pela CONTRATADA deverão ser entregues ao CONTRATANTE que fará a conferência e será responsável pela guarda dos mesmos, assim como terá o exclusivo direito de propriedade sobre os produtos, inclusive códigos fonte, documentação, componentes básicos e bibliotecas, utilizados no desenvolvimento.
+EC_2010/004 PÁG. - 34 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 A CONTRATADA obriga-se a repassar os conhecimentos e técnicas empregadas na execução dos serviços para o CONTRATANTE e/ou para outra empresa indicada por ele. A CONTRATADA obriga-se a tratar como "segredos comerciais e confidenciais", quaisquer informações, dados, processos, fórmulas, códigos, fluxogramas, diagramas lógicos, dispositivos e modelos relativos aos serviços ora contratados, utilizando-os apenas para as finalidades previstas neste CONTRATO, não podendo revelá-los ou facilitar a sua revelação a terceiros. i) Medição e Remuneração dos Serviços
+
+Os serviços serão solicitados, contratados e medidos utilizando-se a técnica de Análise em Pontos de Função (Function Points Analysis) conforme as especificações contidas no Manual de Práticas e Contagens (CPM - Counting Practices Manual) Versão 4.2 publicado pelo IFPUG (International Function Point Users Group). A utilização de novas versões do Manual de Práticas e Contagens (CPM - Counting Practices Manual) que venha a ser publicadas pelo IFPUG (International Function Point Users Group) ficará a critério do CONTRATANTE, que mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA. Especificidades dos ambientes tecnológicos que, porventura, não estejam descritas ou detalhados no Manual de Práticas e Contagens publicado pelo IFPUG e estejam resultando em desequilíbrio na relação contratual e comercial entre a CONTRATADA e o CONTRATANTE, deverão ser negociadas entre as partes. O resultado dessa negociação será documentado pelo CONTRATANTE visando auxiliar e facilitar as decisões das futuras ocorrências da mesma situação. Essas alterações poderão ser formalmente celebradas por meio de termo aditivo, desde que resultem em comprovado aumento dos encargos da CONTRATADA, deve ser resguardada a manutenção do equilíbrio econômico-financeiro do contrato. Para efeito de dimensionamento dos Pontos de Função de um serviço, será adotado o valor de 1,00 (um) para o Fator de Ajuste para todos os sistemas que fazem parte, ou que venham a fazer parte, do escopo do contrato. O Valor do Fator de Ajuste será mantido igual a 1,00 (um) mesmo no caso em que uma nova versão do Manual de Práticas e Contagens publicado pelo IFPUG venha a ser utilizada. Quando o valor do Fator de Ajuste relacionado a um determinado sistema e, conseqüentemente, a uma Ordem de Serviço, for maior que 1,00 (um) e, essa diferença, resultar em comprovado aumento do esforço para a CONTRATADA, esta deverá elaborar Relatório Técnico assinado por Profissional Certificado pelo IFPUG, descrevendo os argumentos e justificativas para que o CONTRATANTE avalie e, se for o caso, aprove a revisão deste valor para o sistema. Os AIE (Arquivos Interface Externa) que venham a fazer parte do escopo de uma ordem de serviço não serão remunerados à CONTRATADA, exceto quando a necessidade de esforço para a extração dos dados dos AIE for comprovada através de Relatório Técnico assinado por Profissional Certificado pelo IFPUG, descrevendo os argumentos e justificativas para que o CONTRATANTE avalie e, se for o caso, aprove a remuneração dos AIE (Arquivos Interface Externa). Entretanto os AIEs referenciados em transações (Entradas Externas, Saídas Externas e Consultas Externas) serão considerados para efeito de contagem e,
+EC_2010/004 PÁG. - 35 AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 consequentemente, remuneração. A remuneração dos serviços ocorrerá mensalmente considerando os percentuais das fases, conforme Tabela 1 ­ Percentual de esforço para cada fase do PGDMS - Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas, concluídas e formalmente aceitas pelo CONTRATANTE, conforme descrito no item x ­ Recebimento e Aceite dos Serviços Contratados, sobre o quantitativo total de Pontos de Função da Ordem de Serviço contratada. A determinação do quantitativo de Pontos de Função se dará através da Tabela 4 - Fator de Remuneração que contempla todas as atividades previstas no PGDMS - Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas incluindo itens mensuráveis pela técnica de Análise de Pontos de Função e itens não mensuráveis. No caso da CONTRATADA identificar algum item não passível de pontuação e que não conste da tabela de Fator de Remuneração, deverá ser enviado relatório técnico ao CONTRATANTE que avaliará e, se for o caso, incluirá o novo item na referida tabela de com o respectivo Fator de Remuneração adequado ao esforço necessário para a realização da atividade. No caso de existir divergência por parte da CONTRATADA quanto às contagens realizadas pelo CONTRATANTE, esta deverá encaminhar pedido de revisão formal, indicando profissional do seu quadro com certificação atualizada Certified Function Point Specialist (CFPS), para realizar, juntamente com profissional indicado pelo CONTRATANTE, a revisão das contagens e elaboração da final para a solução do impasse. A existência de divergências quanto às contagens não autoriza à CONTRATADA a onerar os prazos, os custos ou o nível de atendimento previsto neste contrato. Glossário: Funcionalidades Compreendem funcionalidades as funções de dados (com exceção dos AIE - Arquivos Interface Externa) e as transações conforme as especificações contidas no Manual de Práticas e Contagens (CPM Counting Practices Manual) Versão 4.2 publicado pelo IFPUG (International Function Point Users Group). PGDMS Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas
+
+EC_2010/004
+
+PÁG. - 36
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem 1 Desenvolvimento de Função ­ Desenvolvimento de novas funcionalidades para novos sistemas ou sistemas existentes. Manutenção de Função com documentação prévia ­ Manutenções em funcionalidades nos sistemas existentes que possuam documentação atualizada e seguindo os padrões e características estabelecidas no PGDMS - Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas. Contempla também a manutenção da documentação atualizada e seguindo os padrões e características estabelecidas no PGDMS - Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas. Quando a funcionalidade fizer parte do escopo de uma ordem de serviço pela primeira vez dentro da vigência do contrato, o CONTRATANTE deverá, obrigatoriamente, contratar a Garantia dessa funcionalidade conforme item x da Tabela Fator de Remuneração, O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade a ser alterada.
+
+Fator de Remuneração 1,00
+
+Tipo de Garantia Funcionalidade
+
+2
+
+0,35
+
+Serviço
+
+EC_2010/004
+
+PÁG. - 37
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Manutenção de Função sem documentação prévia ­ Manutenções em funcionalidades nos sistemas existentes que não possuam documentação atualizada e seguindo os padrões e características estabelecidas no PGDMS - Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas. Não contempla a elaboração da documentação referente à funcionalidade a ser alterada. Essa documentação será elaborada caso, o CONTRATANTE necessite e tenha interesse, através do item 5 ­ Desenvolvimento de Documentação da Tabela de Fator de Remuneração. Quando a funcionalidade fizer parte do escopo de uma ordem de serviço pela primeira vez dentro da vigência do contrato, o CONTRATANTE deverá, obrigatoriamente, contratar a Garantia dessa funcionalidade conforme item x da Tabela Fator de Remuneração, O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade a ser alterada. Manutenção de Documentação ­ Contempla a realização das atividades relacionadas a manutenção na documentação de uma funcionalidade existente, seguindo os padrões e características estabelecidas no PGDMS - Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade associada a documentação a ser alterada. Desenvolvimento de Documentação ­ Contempla realização das atividades relacionadas a elaboração da documentação de uma funcionalidade existente, seguindo os padrões e características estabelecidas no PGDMS - Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade associada a documentação a ser desenvolvida.
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+3
+
+0,30
+
+Serviço
+
+4
+
+0,10
+
+Serviço
+
+5
+
+0,25
+
+Serviço
+
+EC_2010/004
+
+PÁG. - 38
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Elemento de Contagem Elaboração de Manual do Usuário ­ Contempla realização das atividades relacionadas à elaboração e atualização do Manual do Usuário de uma funcionalidade. Quando a elaboração do manual for demandada para um conjunto de funcionalidades, um módulo ou sistemas, estará incluso no escopo desse serviço a elaboração de todo o conteúdo referente a organização do documento tais como, mas não limitado a, capa e contracapa, índices, texto de apresentação, orientações gerais, etc. Quando o serviço for demandado para a inclusão de novas funcionalidades, atualização ou exclusão de funcionalidades já descritas no manual, estará incluso no escopo desse serviço a atualização de todo o conteúdo referente a organização do documento tais como, mas não limitado a, capa e contracapa, índices, texto de apresentação, orientações gerais, etc. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade associada a documentação a ser desenvolvida. Inclusão de uma funcionalidade no Manual de Usuário Atualização de uma funcionalidade no Manual de Usuário Exclusão de uma funcionalidade do Manual de Usuário 0,10 0,03 0,01 Fator de Remuneração Tipo de Garantia
+
+6
+
+Serviço
+
+EC_2010/004
+
+PÁG. - 39
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Manutenção Cosmética ­ Contempla as alterações referentes aos layouts de telas, relatórios ou layout de interfaces (arquivos, mensagens, etc.), mudança de posição ou ordem de campos em telas ou relatórios, definição de valor default (desde que não seja necessária implementação de um novo acesso a tabelas físicas), sem que haja alteração na quantidade de elementos de dados acessados, arquivos referenciados ou informações de controle. 7 Contempla também a inclusão, alteração ou exclusão de logotipo da empresa em telas ou relatórios ou divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. A Manutenção Cosmética também engloba as alterações no estilo de interface, cores, fontes, títulos ou mascara de entrada de dados. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade impactada pela Manutenção Cosmética independente da quantidade de elementos de interface impactados. Manutenção de Campos ­ Contempla a alteração ou exclusão de campos em tabelas, sem que tenha havido mudança na funcionalidade. Compreende-se mudança na funcionalidade quando houver impacto no fluxo de processamento do Caso de Uso. Contempla também padronização de nomenclatura dos campos. 8 O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade impactada para cada campo alterado ou excluído. Quando ocorrer a manutenção em muitos Campos em uma mesma funcionalidade, o Fator de Remuneração aplicado não poderá ultrapassar o Fator de Remuneração estipulado para a Manutenção de Função conforme itens 2 ou 3 da Tabela de Fator de Remuneração.
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+0,05
+
+Serviço
+
+0,07
+
+Serviço
+
+EC_2010/004
+
+PÁG. - 40
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Manutenção de Variáveis - Contempla a inclusão, alteração ou exclusão de variáveis em programas, sem que tenha havido mudança na funcionalidade. Compreende-se mudança na funcionalidade quando houver impacto no fluxo de processamento do Caso de Uso. Contempla também padronização de nomenclatura de variáveis. 9 O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade associada aos componentes de softwares impactados para cada Manutenção de Variáveis. Quando ocorrer a manutenção em muitas Variáveis em uma mesma funcionalidade, o Fator de Remuneração aplicado não poderá ultrapassar o Fator de Remuneração estipulado para a Manutenção de Função conforme itens 2 ou 3 da Tabela de Fator de Remuneração. Manutenção de Mensagens - Contempla a necessidade de alterações de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. 10 O Fator de Remuneração será aplicado sobre 1 (um) PF para cada mensagem alterada. Quando ocorrer a manutenção em muitas mensagens em uma mesma funcionalidade, o Fator de Remuneração aplicado não poderá ultrapassar o Fator de Remuneração estipulado para a Manutenção de Função conforme itens 2 ou 3 da Tabela de Fator de Remuneração.
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+0,07
+
+Serviço
+
+0,05
+
+Serviço
+
+EC_2010/004
+
+PÁG. - 41
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Manutenção de Menus - Contempla a necessidade de manutenção em menus de navegação estáticos já existentes no sistema ou criação de novos menus estáticos a partir de funcionalidades já existentes no sistema. Consistem de Menus Estáticos aqueles que não sejam apresentados a partir de dados mantidos em tabelas ou qualquer função de dados (ALI ou AIE). 11 Os serviços de Desenvolvimento ou Manutenção de Função englobarão em seu escopo o trabalho necessário para construir ou manter os menus associados a estas funções não sendo, portanto, tratados como Manutenção de Menus e, consequentemente, passíveis de remuneração em separado. O Fator de Remuneração será aplicado sobre 1 (um) PF para cada menu estático mantido. Alteração ou Inclusão de uma opção de menu Exclusão de uma opção de menu Manutenção de Tela de Ajuda, Página ou Tela ­ Contempla a necessidade de manutenção em telas de ajuda (Help), página ou telas estáticas, ou seja, que não sejam apresentados a partir de dados mantidos em tabelas ou qualquer função de dados (ALI ou AIE). 12 O Fator de Remuneração será aplicado sobre 1 (um) PF para cada Tela de Ajuda, Página ou Tela Estáticas mantidas. Inclusão de Tela de Ajuda, Página ou Tela Alteração de Tela de Ajuda, Página ou Tela Exclusão de Tela de Ajuda, Página ou Tela
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+Serviço
+
+0,10 0,05
+
+Serviço
+
+1,00 0,35 0,10
+
+EC_2010/004
+
+PÁG. - 42
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Dados Hard Coded - Contempla a necessidade de inclusão, alteração ou exclusão de dados pertencentes a listas (Ex.: Combo Box, List box). O Fator de Remuneração será aplicado sobre 1 (um) PF para cada lista a ser mantida. Quando ocorrer a manutenção em muitas listas associadas a uma mesma funcionalidade, o Fator de Remuneração aplicado não poderá ultrapassar o Fator de Remuneração estipulado para a Manutenção de Função conforme itens 2 ou 3 da Tabela de Fator de Remuneração. Parâmetros de Processamento - Contempla a necessidade de alteração dos valores dos parâmetros, sem que a lógica de processamento tenha sido alterada. 14 Exemplo: ajustar filtro para recuperar dados entre 0 e 50 ao invés de valores entre 10 e 50. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade associada aos componentes de software impactados pela Manutenção nos Parâmetros de Processamento independente da quantidade de parâmetros impactados.
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+13
+
+0,05
+
+Serviço
+
+0,025
+
+Serviço
+
+EC_2010/004
+
+PÁG. - 43
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Camada de apresentação adicional - Contempla a necessidade de criação de mais de uma camada de apresentação (diferente) para a mesma funcionalidade sem que haja necessidade de desenvolvimento ou manutenção dos componentes de software relacionados às camadas de negócio ou de dados. Exemplo: um sistema construído para rodar no mainframe com camada de apresentação na EXTRANET, INTRANET e INTERNET, desde que sejam as mesmas funcionalidades com padrões visuais distintos. Uma camada de apresentação adicional será considerada uma nova funcionalidade quando houver DER ­ Dado Elementar Referenciado ou ALR - Arquivo Lógico Referenciado ou Lógica de Processamento distintos da funcionalidade original. Quando uma funcionalidade, que possuir duas ou mais camadas de apresentação, necessitar ser alterada, a manutenção de uma camada de apresentação será tratada como Manutenção de Função, conforme itens 2 ou 3 da Tabela de Fator de Remuneração, e a manutenção das demais camadas de apresentação serão tratadas como Alteração de Camada de apresentação adicional de acordo com o descrito neste item. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade relacionada à camada de apresentação adicional. Inclusão de Camada de apresentação adicional Alteração de Camada de apresentação adicional Exclusão de Camada de apresentação adicional
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+15
+
+Serviço
+
+0,30 0,10 0,05
+
+EC_2010/004
+
+PÁG. - 44
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Apoio Técnico - Contempla a necessidade de execução de tarefas, não passíveis de serem classificadas ou que não fazem parte do escopo do serviço de outro elemento de remuneração, como por exemplo: análise e apoio na solução de problemas ou demandas, participação ou execução de atividades ou eventos como reuniões, treinamentos, elaboração de documentos adicionais como manuais de produção ou operação ou material para treinamentos, intervenções na base de dados, apoio na utilização ou esclarecimentos de dúvidas relacionadas ao uso dos sistemas. Para uma Intervenção na base de dados ser caracterizada e, consequentemente, remunerada como apoio técnico, na intervenção visando extração de informação, os dados deverão ser obtidos através de até 2 (duas) Tabelas Físicas e nas intervenções para manutenção de dados, no máximo 2 (duas) Tabelas Físicas deverão ser atualizadas. Caso a quantidade de tabelas físicas ultrapasse esse limite o serviço deverá ser caracterizado e, consequentemente, remunerado como Solução de Suporte (caso atenda aos demais requisitos conforme item 20 da Tabela de Fator de Remuneração). Esses serviços deverão ser demandados formalmente pelo CONTRATANTE e o seu atendimento deverá, obrigatoriamente, atender os requisitos de urgência, criticidade, horários e prazos para o atendimento definidos pelo CONTRATANTE conforme seção XX ­ Garantia dos Serviços. Deverá ser considerado o período de 8 (oito) horas, ou fração, de esforço realizado por 1 (um) recurso.
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+16
+
+1,00
+
+Sem Garantia
+
+EC_2010/004
+
+PÁG. - 45
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Elemento de Contagem Code Table ­ Contempla a necessidade de criação, alteração e exclusão de tabelas "CODE TABLE" e suas respectivas funcionalidades. (Esse item não se aplica às atividades de "popular" a tabela). Compreendem tabelas "CODE TABLE" tabelas simples contendo apenas os campos Código, Descrição e mais um campo desde que não seja chave estrangeira. Serão consideradas tabelas "CODE TABLE" mesmo que possuam recursos de segurança de acesso e auditoria. Quando uma funcionalidade inserida no escopo de uma Ordem de Serviço de Desenvolvimento de Função, conforme item 1 da Tabela de Fator de Remuneração, necessitar da inclusão de uma tabela "CODE TABLE" e das suas respectivas funcionalidades (CRUD), essa implementação já estará englobada no escopo dos Pontos de Função dimensionadas para essa funcionalidade. Entretanto, quando uma funcionalidade existente necessitar da inclusão de uma tabela "CODE TABLE" e das suas respectivas funcionalidades (CRUD), essa implementação será remunerada conforme o descrito nesse item da Tabela de Fator de Remuneração, e a manutenção da funcionalidade principal para refletir a utilização da tabela "CODE TABLE" será remunerada como Manutenção de Função, conforme itens 2 ou 3 da Tabela de Fator de Remuneração O Fator de Remuneração será aplicado sobre o quantitativo de 5 (cinco) PF referente ao serviços de Inclusão de uma tabela "CODE TABLE" e suas funcionalidades (CRUD). Os serviços abaixo relacionados já prevêem em seu escopo o desenvolvimento ou a manutenção da Documentação CRUD. Entretanto, quando essa documentação não existir, será obrigatória a contratação do serviço de Desenvolvimento da Documentação CRUD, exceto para o serviço "Exclusão tabela e suas funcionalidades". Compreende Documentação CRUD a Especificação de Caso de Uso CRUD (EDUCRUD) e a relação de Componentes de Software associados ao Caso de Uso. Fator de Remuneração Tipo de Garantia
+
+17
+
+EC_2010/004
+
+PÁG. - 46
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Elemento de Contagem Inclusão de tabela e suas funcionalidades (CRUD) Alteração da tabela e suas funcionalidades (CRUD) Exclusão da tabela e suas funcionalidades (CRUD) Inclusão de uma funcionalidade Alteração de uma funcionalidade Exclusão de uma funcionalidade Desenvolvimento da documentação do CRUD Fator de Remuneração 1,00 0,35 0,10 0,20 0,07 0,02 0,05 Tipo de Garantia Funcionalidade Serviço Serviço Funcionalidade Serviço Serviço Serviço
+
+EC_2010/004
+
+PÁG. - 47
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Manutenção em massa ­ Contempla atividades de repetição de uma mesma manutenção em mais de uma funcionalidade ou manutenção de um componente de software que seja reutilizado em várias funcionalidades. Exemplos: Alteração de crítica de validação de um campo presente em várias telas. Quando ocorrer de uma mesma manutenção necessitar ser repetida em mais de uma funcionalidade, todas elas deverão ser inseridas no escopo do serviço e, consequentemente, remuneradas observando o Fator de Remuneração descrito nesse item da Tabela. Quando ocorrer uma manutenção em um componente de software que seja reutilizado em várias funcionalidades, o CONTRATANTE poderá optar por estabelecer uma amostra do conjunto de funcionalidades impactadas para fazer parte do escopo do serviço e, consequentemente, remuneradas observando o Fator de Remuneração descrito nesse item da Tabela. 18 O escopo desse serviço contempla também a atualização da documentação das funcionalidades inseridas no escopo, caso existam. Entretanto, as funcionalidades impactadas pela manutenção do componente de software, que não foram inseridas no escopo do serviço, deverão ter, obrigatoriamente, a sua documentação atualizada e, para isso, deverá ser necessário demandar um serviço de Manutenção de Documentação conforme item 04 da Tabela de Fator de Remuneração. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade inserida no escopo do serviço. Primeira função alterada (devendo ser considerada a de maior quantidade de Pontos de Função). Utilizar os fatores de remuneração previstos nos itens 2 ou 3 da Tabela de Fator de Remuneração. Demais funções alteradas com documentação prévia Demais funções alteradas sem documentação prévia
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+Serviço
+
+0,35
+
+0,10 0,05
+
+EC_2010/004
+
+PÁG. - 48
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Elemento de Contagem Contratação de Garantia ­ Consiste na contratação da garantia para uma funcionalidade que não foi desenvolvida durante a vigência do contrato ou o restabelecimento da garantia extinta de uma funcionalidade, em função da necessidade do CONTRATANTE de intervir, através de recursos próprios ou de profissionais estranhos ao quadro de técnicos da CONTRATADA, em componentes de software a ela associada. A partir da Contratação da Garantia para uma funcionalidade todas as ações de Suporte Técnico ocorrerão sem ônus adicionais para o CONTRATANTE. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade que se deseja restabelecer a garantia.
+
+Fator de Remuneração
+
+Tipo de Garantia
+
+19
+
+0,20
+
+Funcionalidade
+
+EC_2010/004
+
+PÁG. - 49
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Solução de Suporte ­ Contempla o serviço de desenvolvimento ou manutenção de funcionalidades necessárias para tratamento de situações excepcionais visando à extração de informações (arquivos, relatórios, etc...) ou manutenção de dados, que não são supridas por funcionalidades existentes nos sistemas e que, em função dos requisitos de prazo, urgência, criticidade ou excepcionalidade, não necessitarão atender aos padrões e características referente a documentação da funcionalidade estabelecidas no PGDMS Processo de Gerenciamento do Desenvolvimento e Manutenção de Sistemas. Além do não cumprimento das exigências relativas a documentação estabelecidas no PGDMS, uma funcionalidade para ser caracterizada como Solução de Suporte deverá também atender aos seguintes requisitos: - Não haver requisitos para que a funcionalidade seja agregada ao sistema, ou seja, não havendo requisitos para qualquer mecanismo de acionamento da funcionalidade através do sistema como tela de parâmetro, menu, botão, tecla de atalho, etc. - Para as funcionalidades de Extração de Informação os dados deverão ser obtidos através de no mínimo 3 (três) Tabelas Físicas. - Para as funcionalidades de Manutenção de Dados pelo menos 3 (três) Tabelas Físicas deverão ser atualizadas. Caso uma funcionalidade, independente das outras características, for agregada ao sistema havendo, portanto, requisitos para qualquer mecanismo de acionamento, o serviço deverá ser remunerado como Desenvolvimento de Função ou Manutenção de Função, conforme Tabela de Fator de Remuneração. Entretanto, caso uma funcionalidade de Extração de Informação ou de Manutenção de Dados não atenda aos requisitos de utilização de no mínimo 3 (três) Tabelas Físicas, este serviço deverá ser caracterizado como Intervenção na base de dados e remunerado como Apoio Técnico, conforme Tabela de Fator de Remuneração. Os produtos resultado da implementação desse serviço deverão ser entregues pela CONTRATADA ao CONTRATANTE quando da sua conclusão. O Fator de Remuneração será aplicado sobre o quantitativo de Pontos de Função referente à funcionalidade objeto do serviço.
+
+20
+
+Serviço
+
+EC_2010/004
+
+PÁG. - 50
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 Desenvolvimento de Solução de Suporte Manutenção de Solução de Suporte Tabela 4 ­ Fator de Remuneração j) Recebimento e Aceite dos Serviços Contratados 0,40 0,15
+
+Será considerado recebido e aceito o serviço que estiver de acordo com as especificações e critérios estabelecidos na OS. O Termo de Aceite é o instrumento utilizado para ateste das entregas parciais e/ou totais de uma OS. Para identificar a conformidade dos serviços entregues pela CONTRATADA serão avaliados e classificados pelo CONTRATANTE no Termo de Aceite, considerando os seguintes critérios: Rejeitado ­ quando o índice de defeitos da entrega for maior que o Limite de Pontos de Defeitos (LPD), sujeitando-se a CONTRATADA às penalidades estabelecidas para o caso. Recebido - quando o(s) artefato(s) entregue(s) for(em) recebido(s) integralmente pelo CONTRATANTE, não cabendo nenhum ajuste. Recebido com Ajustes - quando o índice de defeitos da entrega for maior que zero e menor ou igual ao Limite de Pontos de Defeitos (LPD) e nesta situação o CONTRATANTE apresentará à CONTRATADA uma relação de ajustes a serem realizados, com prazo para adequação negociado com a CONTRATADA, limitado a 5 (cinco) dias úteis ou 10% (dez por cento) do prazo determinado para a fase de Implementação, o que for maior. Caso não realize integralmente os ajustes no prazo estabelecido, a entrega será considerada rejeitada e a empresa estará sujeita às penalidades previstas. Finalizados todos os ajustes por parte da CONTRATADA, o CONTRATANTE emitirá o Termo de Aceite para efeito de pagamento. A emissão do Termo de Aceite classificado como "Recebido com Ajustes" ou "Rejeitado" não autoriza a CONTRATADA a faturar os serviços, sendo necessária a emissão do Termo de Aceite com classificação "Recebido" para isto.
+
+EC_2010/004
+
+PÁG. - 51
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+k)
+
+Qualidade e Desempenho
+
+O CONTRATANTE adotará indicadores para avaliar o desempenho dos serviços contratados. Quando não forem cumpridos pela CONTRATADA os limites mínimos de desempenho previstos, serão aplicadas as multas determinadas no contrato. Relacionamos a seguir os indicadores que regerão os critérios para avaliação dos serviços contratados: Limite de Pontos de Defeito 0,5 Pontos de Defeito
+
+Para a determinação dos defeitos encontrados nos produtos de softwares relacionados a uma Ordem de Serviço, para cada erro identificado será aplicada o peso conforme a tabela de severidade apresentada a seguir: Descrição do problema Erro impede o funcionamento da funcionalidade Erro impacta o funcionamento da funcionalidade Erro não impede e não impacta o funcionamento da funcionalidade, porém a sua implementação está em desacordo com o especificado Severidade Alta Média Peso 1,00 0,50
+
+Baixa
+
+0,25
+
+Tabela 5 ­ Tabela de Severidade de Erros
+
+Cálculo do PD ­ Pontos de Defeito PD = (QOE * PSE) / TOS Onde: QOE = Quantidade de Ocorrências de Erros PSE = Peso da Severidade do Erro TOS = Tamanho da Ordem de Serviço em Pontos de Função
+
+EC_2010/004
+
+PÁG. - 52
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 III. Direitos e Responsabilidades a) O CONTRATANTE se reserva ao direito de aplicar inspeção ou auditoria naqueles artefatos ou componentes de software que são fundamentais para garantir a qualidade dos sistemas e para isso, poderá utilizar como insumos qualquer elemento produzido pela CONTRATADA tais como, mas não limitado a, especificações funcionais, especificação de programas, código-fonte, e o modelo de arquitetura de solução. Os serviços inspeção ou auditoria poderão ser realizados pelo CONTRATANTE ou empresa por ela contratada. O CONTRATANTE se reserva ao direito de alterar as definições, critérios, processos e procedimentos descritos no Modelo de Gestão de Sistemas do Banestes sendo, nesse caso, a CONTRATADA obrigada a adaptar-se, no prazo máximo de 30 (trinta) dias corridos, a partir da comunicação formal pelo CONTRATANTE. Esse prazo poderá ser prorrogado, desde que aceitas as justificativas apresentadas pela CONTRATADA. A partir desse prazo, todos os novos projetos e/ou serviços contratados passarão a adotar esse novo modelo. No ato da comunicação formal o CONTRATANTE disponibilizará a nova versão da metodologia, em conjunto com os modelos de artefatos. O CONTRATANTE se compromete a avaliar as justificativas técnicas da CONTRATADA, se a alteração impactar no incremento do esforço, e negociará com a mesma, se for o caso. As alterações poderão ser formalmente celebradas por meio de termo aditivo, desde que comprovado o aumento dos encargos da CONTRATADA, resguardada a manutenção do equilíbrio econômico-financeiro do contrato. A CONTRATADA se compromete a obedecer todas as normas, padrões, processos e procedimentos determinados pelo CONTRATANTE.
+
+-
+
+b)
+
+
+
+
+
+
+
+
+
+
+
+c)
+
+EC_2010/004
+
+PÁG. - 53
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 IV. Transição ao Final do Contrato Todo conhecimento adquirido ou desenvolvido bem como toda informação produzida e/ou utilizada para a execução dos projetos ou serviços contratados deverão ser disponibilizados ao CONTRATANTE ou à empresa por ele designados em até 90 (noventa) dias após a finalização do contrato. Para isto, um Plano de Transição, endereçando todas as atividades necessárias para a completa transição deverá ser entregue ao CONTRATANTE pela CONTRATADA 06 (seis) meses antes da expiração ou da finalização do CONTRATO. O CONTRATANTE deverá avaliar e aprovar o Plano de Transição se comprometendo em disponibilizar os recursos qualificados conforme identificados no Plano de Transição para atuarem como receptores do serviço. No plano deverão estar identificados todos os compromissos, projetos, papéis e responsabilidades, artefatos e tarefas, a data início da transição, o período de tempo necessário e a identificação de todos os envolvidos com a transição. Será de inteira responsabilidade da CONTRATADA a execução do Plano de Transição, bem como a garantia do repasse bem sucedido de todas as informações necessárias para a continuidade dos serviços pelo CONTRATANTE ou empresa por ele designada. O fato de a CONTRATADA ou seus representantes não cooperarem ou reterem qualquer informação ou dado solicitado pelo CONTRATANTE, que venha a prejudicar, de alguma forma, o andamento da transição das tarefas e serviços para um novo prestador, constituirá quebra de CONTRATO, sujeitando-a as obrigações em relação a todos os danos causados ao CONTRATANTE por esta falha. Durante o tempo requerido para desenvolver e executar o Plano de Transição, a CONTRATADA deve responsabilizar-se pelo esforço que necessite dedicar à tarefa de completar a transição. Por esforço entende-se o treinamento nas tarefas, pesquisas, transferência de conhecimento (entre a CONTRATADA e o CONTRATANTE e/ou empresa por ele designada), documentação ou qualquer outro esforço vinculado à tarefa de transição.
+
+EC_2010/004
+
+PÁG. - 54
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+V. DETALHAMENTO DO PROCESSO Descrição das atividades
+Fase 1 ­ Ativação Objetivo Essa fase tem o objetivo de formalizar a existência de uma demanda para o desenvolvimento ou manutenção de sistemas ou funções e levantar e documentar suas características técnicas, funcionais e do projeto (requisitos). Essa fase também irá, através das estimativas de custos e de prazo, subsidiar o CONTRATANTE na decisão pela realização ou não do serviço. Atividade A1 - Elaborar Solicitação de Serviço à Informática Descrição Responsável Participante - Contratante Produto - SSI ­ Solicitação de Serviço à Informática
+
+A partir de uma orientação estratégica, necessidade de melhorias de - Contratante controles administrativos ou operacionais ou uma determinação legal, uma área de negócio do Contratante irá identificar uma nova demanda para a contratação de serviço de especificação, desenvolvimento, manutenção e documentação de sistemas e irá registrar uma SSI (Solicitação de Serviço à Informática) contendo a descrição da demanda à área de informática, os problemas a serem resolvidos e uma visão geral do escopo. O CONTRATANTE, através de seus Analistas de Negócio, recebe, organiza - Contratante e analisa a documentação referente à SSI. Neste ponto, a equipe de trabalho para atendimento da SSI será formada, podendo conter outros Analistas de Negócio, profissionais de outras áreas técnicos ou funcionais do CONTRATANTE ou Analistas de Sistemas da CONTRATADA. A necessidade de envolvimento de Analistas de Sistemas da CONTRATADA no levantamento de requisitos será demandada caso o CONTRATANTE considere importante esta participação e, para isso, o pedido deverá ser, formalizado junto à CONTRATADA informando a área de negócio relacionada a SSI.
+
+EC_2010/004
+
+Fase 1
+
+A2 ­ Analisar SSI
+
+PÁG. - 55
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade A3 ­ Levantar requisitos
+
+Descrição
+
+Responsável
+
+Participante - Contratada
+
+Produto - RDR ­ Registro de Requisitos - Registro das reuniões de Levantamento de Requisitos
+
+Definir e registrar os requisitos com objetivo de identificar, analisar e - Contratante documentar todas as condições ou capacidades que devem ser atendidas pelas entregas do serviço. Converter as necessidades, desejos e expectativas dos usuários em requisitos, buscando uma atitude pró-ativa e de questionamento visando identificar requisitos adicionais que não foram explicitamente declarados pelos usuários. Os requisitos serão levantados em reuniões com a participação dos usuários do CONTRATANTE e registrados no documento RDR ­ Registro de Requisitos. O registro dos requisitos será realizado, preferencialmente, pelos Analistas de Negócio do CONTRATANTE. Entretanto, o CONTRATANTE, ao seu critério, poderá, eventualmente, determinar que o registro dos requisitos seja realizado pela CONTRATADA, não cabendo, porém, remuneração adicional para esses casos já que a fase de Ativação já está contemplada no escopo dos serviços.
+
+Fase 1 A4 ­ Aprovar requisitos
+
+Para se continuar o projeto é necessário ter-se o comprometimento da área - Contratante de negócio responsável pelo registro da Solicitação de Serviço à Informática sobre o conjunto de requisitos levantados. A área de negócio responsável pelo registro da Solicitação de Serviço à Informática irá avaliar a documentação dos requisitos levantados e aprovála ou rejeitá-la.
+
+- RDR ­ Registro de Requisitos aprovados
+
+EC_2010/004
+
+PÁG. - 56
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade A5 ­ Ordenar serviço
+
+Descrição
+
+Responsável
+
+Participante
+
+Produto - Ordem de Serviço
+
+A OS - Ordem de Serviço tem o objetivo de formalizar a passagem de - Contratante serviço para a CONTRATADA, visando uma orientação sobre o trabalho a ser realizado. Esse documento deverá conter informações sobre a demanda descrevendo os objetivos, necessidades de negócio, restrições, expectativas e metas que servirão de diretriz para a solução técnica a ser proposta e para o planejamento do projeto. Para se continuar o projeto é necessário ter-se o comprometimento da - Contratada CONTRATADA sobre o conjunto de requisitos levantados. O comprometimento com o Registro de Requisitos significa que a CONTRATADA está de acordo com o Registro de Requisitos. A equipe de desenvolvimento da CONTRATADA, com base nas - Contratada informações registradas no RDR ­ Registro de Requisitos e OS ­ Ordem de Serviço, irá identificar quais funcionalidades e arquivos dos sistemas deverão ser alterados, excluídos e quais novas funcionalidades ou arquivos deverão ser desenvolvidos. Esse levantamento deverá ser registrado pela CONTRATADA no DVS Documento de Visão de Serviço formalizando dessa forma, o escopo da OS - Ordem de Serviço. Nesta fase, a equipe de desenvolvimento deverá adotar uma atitude próativa e atuar detalhando os requisitos e questionando o CONTRATANTE sobre a importância dos requisitos identificados e os relacionamentos ou impactos destes requisitos com funcionalidades já existentes no sistema com o objetivo de apresentar uma proposta adequada nos aspectos financeiros e técnicos. Após a sua aprovação, ao final da fase de Ativação, o DVS - Documento de Visão de Serviço não poderá ser alterado sem que se tenha realizado os procedimentos de mudança de escopo previstos no PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas. - Contratante - Contratante
+
+A6 - Obter o comprometiment o com os requisitos
+
+- Termo de Compromisso com os Requisitos assinado pela Contratada - DVS Documento de Visão do Serviço
+
+EC_2010/004
+
+Fase 1
+
+A7 ­ Levantar funções
+
+PÁG. - 57
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade A8 ­ Contar Pontos de Função
+
+Descrição
+
+Responsável
+
+Participante
+
+Produto - Contagem de Pontos de Função
+
+O DVS ­ Documento de Visão do Serviço será utilizado como base para, - Contratante utilizando a técnica de Análise de Pontos de Função estabelecida pelo IFPUG (International Function Point Users Guide), realizar a Contagem dos Pontos de Função do serviço. Caso não seja possível, em função do nível de detalhamento das funções existente nessa etapa do processo, determinar a complexidade das funcionalidades para efeito de Contagem dos Pontos de Função, essa deverá ser estabelecida, nesse momento, como média. Essa contagem será utilizada pelo CONTRATANTE apenas para estimar o custo e o prazo do serviço e, consequentemente, prova-lo. Ela será utilizada para efeito de remuneração da CONTRATADA apenas nas situações em que a única fase a ser realizada no serviço for a Ativação (Cancelamento da Ordem de Serviço ou Projeto de Levantamento de Demanda), desde que ela tenha sido realizada totalmente.
+
+Fase 1
+
+A9 - Avaliar O CONTRATANTE, avaliando as informações sobre escopo, custo e prazo - Contratante execução da SSI apresentadas, de acordo com as suas expectativas, poderá decidir pela continuidade, ou não, da implementação da SSI ­ Solicitação de Serviço à Informática e, consequentemente, suas Ordens de serviços associadas.
+
+- SSI aprovada - OS aprovada
+
+EC_2010/004
+
+PÁG. - 58
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade A10 ­ Planejar Serviço
+
+Descrição
+
+Responsável
+
+Participante - Contratada
+
+Produto - Estimativa de prazos para a SSI
+
+O CONTRATANTE irá, em conjunto com as demais áreas técnicas e - Contratante funcionais e, principalmente, com o apoio da CONTRATADA, estimar os prazos para a realização das fases e respectivos produtos previstos no PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas. Os prazos de execução de cada fase/produtos deverão ser ajustados no encerramento da fase anterior e formalizados no respectivo Termo de Aceite se transformando em compromisso contratual a ser assumido pela CONTRATADA. Ficará a critério do CONTRATANTE determinar o nível de formalismo a ser utilizado nas atividades de planejamento e acompanhamento dos serviços. Entretanto, a CONTRATADA deverá, para todas as suas atividades, adotar processos e procedimentos de gerenciamento de projetos compatíveis com a complexidade, criticidade, tamanho e esforço associado ao serviço.
+
+Fase 1
+
+A11 ­ Encerrar a Essa atividade consiste da formalização da conclusão da fase de Ativação. - Contratante fase de Ativação Nesse momento, o CONTRATANTE deve preencher o Termo de Aceite relativo à fase de Ativação, indicando os produtos aprovados nesta fase. No caso de aprovação da implementação da SSI, o CONTRATANTE deverá comunicar a CONTRATADA a aprovação OS ­ Ordem de Serviço e, consequentemente, autorizar o início da próxima fase. Caso o CONTRATANTE tenha decidido cancelar a SSI, todo o trabalho realizado pela CONTRATADA até esta fase deve ser remunerado integralmente, ou seja, devem ser pagos os percentuais de esforço relativos à fase de Ativação da referida OS - Ordem de Serviço.
+
+- Termo de Aceite da fase de Ativação
+
+EC_2010/004
+
+PÁG. - 59
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Fase 2 ­ Concepção Objetivo Essa fase tem o objetivo de produzir ou manter atualizada a documentação de especificação funcional das funcionalidades impactadas pelo serviço contratado através da Ordem de serviço. Atividade Descrição Responsável - Contratada Participante - Contratante Produto - Manual de Especificação Funcional conforme modelo EDU ­ Especificação de Caso de Uso
+
+C11 - Especificar Elaborar o Manual de Especificação Funcional com proposta das funções funcionalidades que deverão ser desenvolvidas e/ou alteradas visando atender aos requisitos. Esse documento deverá incluir, no mínimo, as seguintes informações: - Descrição dos Casos de Uso; - Protótipo (proposta de layout) das telas ou relatórios (ou similar) relacionados às funcionalidades; - Descrição das funcionalidades impactadas; - Descrição das críticas, regras de negócio, interface com outras funcionalidades e/ou sistemas e qualquer comportamentos de exceção relacionados às funcionalidades. C12 - Avalia a Especificação Funcional Fase 2
+
+O CONTRATANTE irá avaliar todas as EDU ­ Especificações de Caso de - Contratante Uso impactadas pela SSI/OS usando como base o DVS ­ Documento de Visão do Serviço aprovado. Em caso de não conformidade, ou não aceitação da proposta, caberá a CONTRATADA realizar a adequação necessária. Os representantes do CONTRATANTE deverão avaliar a necessidade de encaminhar as EDU ­ Especificações de Caso de Uso para avaliação da área de negócio demandante. Entretanto, esta avaliação será obrigatória sempre que houver definição de layout de telas e relatórios, soluções de interface, utilização de elementos de telas ou implementação de regras de negócio complexas.
+
+- Contratada
+
+- Manual de Especificação Funcional conforme modelo EDU ­ Especificação de Caso de Uso aprovados
+
+EC_2010/004
+
+PÁG. - 60
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade C13 ­ Refinar Contagem de Pontos de Função
+
+Descrição
+
+Responsável
+
+Participante
+
+Produto - Contagem de Pontos de Função refinada
+
+O CONTRATANTE, a partir das informações detalhadas da Especificação - Contratante Funcional, ajustar a complexidade das funcionalidades identificadas e contadas na fase de Ativação. Após a sua aprovação, ao final da fase de Ativação, o DVS - Documento de Visão de Serviço não poderá ser alterado sem que se tenha realizado os procedimentos de mudança de escopo previstos no PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas. Qualquer outra alteração na Contagem de Pontos de Função com relação a contagem elaborada na fase de Ativação deverá ser realizada através dos procedimentos de mudança de escopo previstos no PGDMS ­ Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas
+
+Fase 2
+
+C14 ­ Encerrar a fase de Concepção
+
+O CONTRATANTE preenche o Termo de Aceite da Fase de Concepção, e - Contratante solicita a assinatura de todos os envolvidos com a fase. Nesse momento o CONTRATANTE também estará, através do Termo de Aceite, formalizando a autorização para o início da próxima fase.
+
+- Termo de Aceite da fase de Concepção
+
+EC_2010/004
+
+PÁG. - 61
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Fase 3 ­ Implementação Objetivo Essa fase tem o objetivo de realizar os trabalhos relacionados a elaboração, construção e homologação das funções conforme documentado no Manual de Especificação Funcional. Atividade I15 ­ Modelar as funcionalidades Descrição A equipe de desenvolvimento de sistemas (CONTRATADA) irá, com base nas definições descritas no Manual de Especificação Funcional especificar, de acordo com os padrões definidos no PGDMS - Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas, as novas funcionalidades e as alterações nas funcionalidades no sistema. Para possibilitar a aprovação dos produtos resultados dessa fase, a CONTRATADA deverá demandar os respectivos aprovadores do CONTRATANTE nos momentos oportunos visando garantir a evolução do processo dentro dos padrões estabelecidos no PGDMS - Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas e nos prazos acordados. I16 ­ Avaliar Modelagem A CONTRATADA deverá elaborar os produtos referentes à subfase Modelagem e apresentá-los aos representantes do CONTRATANTE para avaliação. O CONTRATANTE deverá formalizar todas as considerações e solicitações de alteração nos produtos e encaminhá-las para a CONTRATADA. - Contratante - Contratada Responsável - Contratada Participante - Contratante Produto - Relação de Componentes de Software por Caso de Uso; - Modelo EntidadeRelacionamento - Padrão de Interface (para projetos de Desenvolvimento de novos Sistemas) - Produtos referentes à subfase Modelagem validados
+
+EC_2010/004
+
+Fase 3
+
+PÁG. - 62
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade I17 - Aprovar padrão de interface Fase 3
+
+Descrição Em projetos de desenvolvimento de um novo sistema, a proposta de padrão de interface para funcionalidades, como telas, relatórios, menus e outras funcionalidades de iteração com usuários, deverá ser submetida para aprovação formal do órgão demandante. A CONTRATADA deverá elaborar a proposta de padrão de interface e apresentá-la (através de documentação e/ou prototipação) aos representantes do CONTRATANTE. O CONTRATANTE deverá formalizar todas as considerações e solicitações de alteração no padrão de interface e encaminhar para a CONTRATADA. A aceitação final do padrão de interface pelo CONTRATANTE deverá ser formalizada em documento específico.
+
+Responsável - Contratante
+
+Participante - Contratada
+
+Produto - Padrão de Interface aprovado (para projetos de Desenvolvimento de novos Sistemas)
+
+EC_2010/004
+
+PÁG. - 63
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade I18 - Construir Produtos de Softwares
+
+Descrição A equipe de desenvolvimento de sistemas (CONTRATADA) irá, com base nas definições descritas no Manual de Especificação Funcional codificar e testar, de acordo com os padrões definidos no PGDMS - Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas, as novas funcionalidades e as alterações nas funcionalidades no sistema. Todos os serviços contratados, que envolvam a subfase Construção, deverão conter, obrigatoriamente, em seu escopo as atividades de Testes Unitários, Testes Integrados e Testes de Aplicativos baseado no planejamento de testes a ser elaborado pela CONTRATADA. Entende-se como Teste Unitário aquele realizado sobre um componente de software isoladamente (Por exemplo: um programa em Java, um programa em Cobol, um programa em ASP), que deve abranger pelo menos as técnicas de teste Caixa Preta e Caixa Branca. Entende-se como Teste Integrado aquele realizado através da navegação de forma progressiva e ordenada pelas telas ou estruturas internas do software onde seus elementos são combinados e testados para avaliação das suas interações além dos testes funcionalidades com as suas respectivas interfaces internas e externas. Entende-se como Teste de Aplicativo a execução controlada do aplicativo, verificando se o seu comportamento ocorre de acordo com os requisitos especificados no serviço, buscando assim mostrar se os resultados estão atendendo as expectativas documentadas através dos documentos de especificação funcional. Nessa atividade também deverá ser elaborado, quando for o caso, a documentação para instalação e configuração de sistema usando o modelo de EI - Especificação de Implantação.
+
+Responsável - Contratada
+
+Participante
+
+Produto Sub-fase: Construção - Código Fonte; - Pacote para Deployment; - EI Especificação de Implantação.
+
+EC_2010/004
+
+Fase 3
+
+PÁG. - 64
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade I19 ­ Elaborar lista de funcionalidades para homologação I20 ­ Validar ambiente de homologação
+
+Descrição Elaborar documento contendo a relação das funcionalidades desenvolvidas e impactadas pelo serviço de desenvolvimento e manutenção de sistemas e a descrição dos testes que deverão ser realizados pelo CONTRATANTE. Esse documento poderá ser elaborado com o auxílio do CONTRATANTE. Essa atividade consiste na validação do ambiente em que a Homologação ocorrerá, verificando aspectos relacionados à instalação do sistema, configuração, preparação do banco de dados, segurança de acesso. Também deverão ser realizados testes básicos nas funcionalidades entregues visando validar o ambiente, registros e configuração das mesmas.
+
+Responsável - Contratada
+
+Participante - Contratante
+
+Produto - Roteiro de Testes de Homologação
+
+Fase 3
+
+- Contratante
+
+- Contratada
+
+- Produto Implantado no Ambiente de Homologação
+
+EC_2010/004
+
+PÁG. - 65
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Atividade I21 ­ Homologar produtos de software
+
+Descrição Sessões de homologação, com a participação da equipe de usuários designada pelo CONTRATANTE, das funcionalidades alteradas e/ou desenvolvidas. Essas sessões deverão ser registradas, pela CONTRATADA, em formulário de "Registro de Homologação" e o mesmo deverá ser submetido para conhecimento e validação de todos os envolvidos com o projeto. Qualquer erro ou problema identificado deverá também ser registrado no formulário de "Registro de Homologação" e caberá a CONTRATADA realizar as adequações necessárias. Durante a Homologação serão realizadas as medições dos Indicadores de Desempenho relacionados aos Pontos de Defeitos dos produtos de software relacionados a Ordem de Serviço conforme estabelecido na Seção Recebimento e Aceite dos Serviços do Anexo X ­ Modelo de Desenvolvimento e Manutenção de Sistemas do BANESTES. Ao final da homologação o CONTRATANTE emitirá o Termo de Aceite de Produto registrando a situação da Ordem de Serviço ("Rejeitada", "Recebido com ajustes" ou "Recebido").
+
+Responsável - Contratante
+
+Participante - Contratada
+
+Produto - Registro de Homologação - Funções homologadas pelos usuários - Termo de Aceite de produto (Produtos de Software)
+
+Fase 3 I22 ­ Encerrar fase
+
+No momento em que for emitido o Termo de Aceite com a situação para a Ordem de Serviço "Recebida" o CONTRATANTE irá formalizar a conclusão da fase 3 ­ Implementação e também formalizar a autorização para o início da fase de Transição.
+
+- Contratante
+
+EC_2010/004
+
+PÁG. - 66
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Fase 4 ­ Transição Objetivo Essa fase tem o objetivo de disponibilizar a solução desenvolvida no ambiente final do demandante, bem como realizar o acompanhamento dos produtos de software resultados da Ordem de Serviço nesse ambiente. Atividade T24 ­ Definir estratégia de implantação Descrição O CONTRATANTE, em conjunto com a CONTRATADA, envolvendo as áreas técnicas e funcionais do CONTRATANTE, definir a estratégia e planejar a implantação da versão do software objeto do serviço. A definição da estratégia (implantação em paralelo, piloto, cutover, etc.) deverá considerar as características do sistema como ciclo de vida do negócio, urgência, riscos e necessidades de treinamentos. T25 ­ Implantar produtos de software Fase 4 T27 ­ Acompanhar software em produção A partir da definição da Estratégia de Implantação, de acordo com as características de cada ambiente tecnológico e dos produtos de software referentes ao serviço, a CONTRATADA, procederão a instalação da solução no ambiente de produção. A CONTRATADA irá disponibilizar equipe de profissionais para acompanhar os produtos de software referente ao serviço em produção de forma a garantir a imediata correção de erros ou falhas apresentadas. Esta atividade será considerada concluída após o funcionamento ininterrupto em produção durante 5 dias úteis imediatamente após a implantação. A ocorrência de algum erro durante esse período reiniciará a contagem. Toda informação referente as datas de erros, avisos, soluções, reinício, observações e fim do período devem ser registrados no modelo de Termo de Aceite para a fase de Transição. T28 ­ Encerrar Projeto Depois de decorridos 5 dias úteis sem a ocorrência de erros ou falhas nos produtos de softwares referentes ao serviço, o CONTRATANTE emitirá o Termo de Aceite da fase de Transição formalizando também o encerramento da Ordem de Serviço. - Contratante - Termo de Aceite da Fase de Transição - Contratada - Contratante - Produto Implantado no Ambiente de Produção Responsável - Contratante Participante - Contratada Produto - Plano de Implantação
+
+- Contratada
+
+- Contratante
+
+EC_2010/004
+
+PÁG. - 67
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+VI. ARTEFATOS O PGDMS - Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas prevê associado às atividades, a elaboração de artefatos (produtos do processo) técnicos e não técnicos (relacionados ao negócio). A seção ­ Modelos de Artefatos do Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas apresenta os modelos de documentos que deverão ser utilizados pelos atores envolvidos no Modelo de Desenvolvimento e Manutenção de Sistemas do BANESTES. A Tabela 6 - Relação de Artefatos apresenta todos os artefatos previstos no processo. A tabela também indica quais artefatos possuem modelo fornecido pelo CONTRATANTE e para quais artefatos existe a possibilidade de utilização de modelos propostos pela CONTRATADA. Porém, para o segundo caso, o modelo proposto deverá ser avaliado e aprovado formalmente pelo CONTRATANTE. O CONTRATANTE se reserva ao direito de substituir qualquer um dos documentos acima, devendo a CONTRATADA adotar o novo padrão estabelecido. Entretanto, para os serviços em andamento, para os artefatos já entregues, irá prevalecer o padrão em vigor quando da emissão da Ordem de Serviço e para os artefatos ainda não entregues o padrão a ser adotado será indicado a critério do CONTRATANTE. Os diagramas previstos nos artefatos deverão ser fornecidos na forma impressa para possibilitar a realização das atividades de validação e aprovação, porém também deverão ser disponibilizados em meio eletrônico, no padrão XMI (XML Metadata Interchange), quando pertinente. O XMI (XML Metadata Interchange) é um padrão para troca de modelos de sistemas que tenta solucionar o problema de interoperabilidade nesses dois níveis através da definição de um padrão de codificação genérico, o XML, e da definição de um padrão para os esquemas conceituais. XMI é aplicável em uma grade variedade de objetos: análise (UML), software (Java, C++), componentes (EJB, IDL, Corba Component Model), e banco de dados (CWN). Mas um dos motivos mais fortes para a utilização desse padrão é porque ele é o padrão adotado pelas ferramentas mais utilizadas para modelagem UML (Poseidon e Rational Rose).
+
+EC_2010/004
+
+PÁG. - 68
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Artefato
+
+Existe modelo fornecido pelo Contratante
+
+Empresa pode apresentar modelo que deverá ser avaliado pelo Contratante
+
+OS ­ Ordem de Serviço RDR ­ Registro de Requisitos Registro das reuniões de Levantamento de Requisitos Termo de Compromisso com os Requisitos DVS ­ Documento de Visão do Serviço Registro de Homologação Termo de Aceite EDU ­ Especificação de Caso de Uso MER ­ Modelo Entidade-Relacionamento EI ­ Especificação de Implantação SRS ­ Solicitação de Revisão de Solução
+
+SIM SIM SIM SIM SIM SIM SIM SIM SIM SIM SIM
+
+NÃO SIM SIM SIM SIM SIM NÃO SIM SIM SIM NÃO
+
+Tabela 6 ­ Relação de Artefatos
+
+EC_2010/004
+
+PÁG. - 69
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+VII. Modelos de Artefatos do Processo de Gerenciamento de Desenvolvimento e Manutenção de Sistemas
+
+Ordem de Serviço
+SSI / OS de Origem Assunto/Título da SSI Solicitante (área/gestor) Analista de Negócio Empresa / Coordenadoria Analista de Negócio Sistema (s) Data de criação da OS Expectativa de conclusão Fluxo do Processo < Data do ponto de vista do Gestor, se houver.> < Informar o solicitante da SSI >
+
+N.º nnn
+
+< Analista de negócio que preencheu o RDR e é responsável pelo atendimento de toda a SSI. > <Analista de negócio quando se tratar de OS para outra coordenadoria> <Sigla e nome do(s) sistema(s) cuja manutenção será efetuada>
+
+< Inserir a classificação do fluxo do processo que deve ser usado pela empresa>1
+
+1. DESCRIÇÃO DA ORDEM DE SERVIÇO <Esta seção deve ser preenchida com orientação para a empresa contratada ou coordenadoria envolvida sobre o serviço a ser feito em relação a SSI.> 2. Fora do Escopo
+<Esta seção deve ser preenchida com os itens que não serão tratados nesse serviço>
+
+3. REQUISITOS ASSOCIADOS <Copiar para esta seção os requisitos da tabela de levantamento de requisitos do RDR que devem ser cobertos por essa OS> 4. REQUISITOS DETALHADOS <Opcional ­ será usado pela coordenadoria envolvida no detalhamento dos requisitos originais. >
+
+1
+
+Fluxos do processo : Normal, Invertido e Invertido sem DVS.
+
+EC_2010/004
+
+PÁG. - 70
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Registro de Requisitos
+
+SSI / OS de Origem Assunto/Título da SSI Solicitante (área/gestor) Analista de Negócio Área/Gestor Envolvido 1. Levantamento de Requisitos Código Descrição do Requisito Requisito RQ001 RQ002 ... RQnnn 2. Fora do Escopo
+<Esta seção deve ser preenchida com os itens que não serão tratados nesse serviço>
+
+< informar o solicitante da SSI >
+
+3. Distribuição de Ordem de Serviço N.º da OS OS_nnnnnn_xx_SSS ... Onde : "nnnnnn" ­ representa o nº da SSI, "xx" ­ representa o nº sequencial da OS e "SSS" a sigla do sistema. Ex.: OS_203981_01_MUT. 4. Controle de Versão Versão Autor Descrição da Alteração Empresa / Coordenadoria2 Responsável Requisitos Associados FPA
+
+2
+
+Se este documento estiver sendo criado a partir de uma OS, a distribuição de OSs só poderá envolver outras empresas.
+
+Quando precisar do envolvimento de uma terceira coordenadoria, esta informação deverá ser repassada para o analista de negócio da SSI / OS de Origem para que este crie esta nova OS.
+
+EC_2010/004
+
+PÁG. - 71
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Registro das Reuniões de Levantamento de Requisitos
+Projeto: Registro Número:
+
+Gestor do Projeto:
+
+Gerente do Projeto:
+
+Local:
+
+Data:
+
+Hora Início:
+
+Hora Término:
+
+Participantes:
+
+Cópias para:
+
+1. Descrição das informações: 1.1
+
+2. Distribuição das Atividades de Apoio: 2.1
+
+Responsável
+
+Situação
+
+Previsão
+
+Real
+
+3. Comentários Gerais: 3.1
+
+4. Ocorrências: 4.1
+
+5. Pendências: 5.1 6. Próxima Reunião: Local: Data: Horário:
+
+EC_2010/004
+
+PÁG. - 72
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Termo de Compromisso com os Requisitos
+SSI / OS de Origem Assunto/Título da SSI Solicitante (área/gestor) Analista de Negócio Empresa Responsável Sistema (s) N.º da OS Data de criação da OS Declaro concordar e aceitar os Requisitos registrados na seção ­ Requisitos Associados - da Ordem de Serviço mencionada acima, comprometendo-me com a implementação, seguindo essas definições. Estimamos a elaboração dos próximos produtos previstos conforme tabela a seguir: Produto Data Início Data Fim <Sigla e nome do(s) sistema(s) cuja manutenção será efetuada> < Informar o solicitante da SSI > < Analista de negócio que preencheu a OS que está sendo aceita. >
+
+[Local], [Dia] de [mês] de [Ano]. _________________________________________________ Empresa Nome do preposto:
+
+_________________________________________________ Analista de Negócio Nome:
+
+_________________________________________________ Coordenador Nome:
+
+EC_2010/004
+
+PÁG. - 73
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Documento de Visão de Serviço
+
+SSI / OS de Origem Assunto/Título da SSI Solicitante (área/gestor) Analista de Negócio Sistema Principal Sistemas Envolvidos Empresa Responsável Descrição do Serviço
+<Esta seção deve ser preenchida com a descrição sucinta do serviço a ser realizado.>
+
+FORA DO ESCOPO
+<Esta seção deve ser preenchida com os itens que não serão tratados nesse serviço>
+
+Levantamento de Funcionalidades Impactadas
+<Esta seção deve ser preenchida com a descrição técnica da manutenção a ser efetuada. Deve ser documentada a mudança gerada pela OS>
+
+FUNÇÕES INCLUÍDAS
+<NOME DA FUNÇÃO>
+
+<Descrição sucinta da função a ser incluída e justificativa da inclusão>
+
+FUNÇÕES ALTERADAS
+<NOME DA FUNÇÃO NO BASELINE>
+
+<Texto descritivo da mudança (o que está sendo alterado) na função e justificativa da alteração>
+
+FUNÇÕES EXCLUÍDAS
+<NOME DA FUNÇÃO NO BASELINE>
+
+<Descrição sucinta da função a ser excluída e justificativa da exclusão>
+
+FUNÇÕES DE CONVERSÃO DE DADOS
+<NOME DA FUNÇÃO>
+
+< Descrição sucinta da função a ser incluída e justificativa da inclusão>
+
+EC_2010/004
+
+PÁG. - 74
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+ARQUIVOS INCLUÍDOS
+<NOME DO ARQUIVO>
+
+< Descrição sucinta do arquivo a ser incluído e justificativa da inclusão>
+
+Nome do campo
+
+Formato
+
+Tamanho Decimais Validades
+
+ARQUIVOS ALTERADOS
+<NOME DO ARQUIVO NO BASELINE>
+
+<Texto descritivo da mudança (o que está sendo alterado) a ser efetuada no arquivo e justificativa da alteração ­ informar na coluna Tipo se o campo está sendo (I)incluído, (A)alterado ou (E)excluído.>
+
+Tipo
+
+Nome do campo
+
+Formato Tamanho
+
+Decimais
+
+Validades
+
+ARQUIVOS EXCLUÍDOS
+<NOME DO ARQUIVO NO BASELINE>
+
+< Descrição sucinta do arquivo a ser excluído e justificativa da exclusão>
+
+Nome do campo
+
+Formato Tamanho
+
+Decimais
+
+Validades
+
+Outras informações
+<Esta seção pode ser preenchida, por exemplo, com a lista de atividades envolvidas na manutenção, Lay-outs de integração, ou qualquer outra informação que a equipe de desenvolvimento julgar importante.>
+
+Controle de Versão do Documento Versão Autor Descrição da Alteração
+
+EC_2010/004
+
+PÁG. - 75
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Registro de Homologação
+Projeto: Registro Número:
+
+Gestor do Projeto:
+
+Gerente do Projeto:
+
+Local:
+
+Data:
+
+Hora Início:
+
+Hora Término:
+
+Participantes:
+
+Cópias para:
+
+1. Funções Testadas (conforme manual de Análise): 1.1
+
+Situação
+
+2. Distribuição das Atividades de Apoio: 2.1
+
+Responsável
+
+Situação
+
+Previsão
+
+Real
+
+3. Comentários Gerais: 3.1
+
+4. Ocorrências: 4.1
+
+5. Pendências: 5.1 6. Próxima Homologação:
+
+Local: Data: Horário:
+
+EC_2010/004
+
+PÁG. - 76
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Termo de Aceite
+SSI / OS de Origem Assunto/Título da SSI Solicitante (área/gestor) Analista de Negócio Empresa Responsável Sistema (s) N.º da OS Data de criação da OS Nº de Pontos de Função Fase < Indicar a fase do processo que este aceite está encerrando > < Sigla e nome do(s) sistema(s) cuja manutenção será efetuada > < Informar o solicitante da SSI > < Analista de negócio que preencheu a OS que está sendo aceita. >
+
+Em virtude da conclusão da fase do projeto de melhoria, declaramos que os seguintes produtos foram entregues e concluídos com sucesso: Produtos Entregues
+
+Estimamos a elaboração dos produtos previstos para a próxima fase conforme tabela a seguir: Produto Data Início Data Fim
+
+EC_2010/004
+
+PÁG. - 77
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Nada mais havendo a ressaltar, declaramos que aceitamos os produtos supracitados.3 < Devem ser inseridas observações e ressalvas, quando for o caso > [Local], [Dia] de [Mês] de [Ano]. _________________________________________________ Analista de Negócio Nome: _________________________________________________ Coordenador Nome: _________________________________________________ Empresa Nome do preposto: _________________________________________________ Gestor4 Nome:
+
+3
+
+Se a SSI/OS for cancelada, isto deve ficar explícito neste documento e deverá estar acompanhado da planilha de levantamento
+
+de horas trabalhadas, para pagamento.
+4
+
+Quando houver validação do Gestor em algum artefato na fase, deve ser colhida a assinatura deste.
+
+EC_2010/004
+
+PÁG. - 78
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Sigla ­ Descrição do Sistema
+
+EDUnnn5 - Nome do Caso de Uso
+Tipo Estereótipo Tipo do caso de uso ­ Batch, Integração ou on-line. Estereótipo do caso de uso ­ Comum ou CRUD.
+
+Descrição Sucinta Descrição sucinta do caso de uso. Esta descrição não deve conter o fluxo do caso de uso, apenas uma descrição que identifique sua função. Atores Nome dos atores participantes do caso de uso Fluxo Básico Fluxo Básico do caso de uso e regras de serviço utilizadas. Fluxos Alternativos Fluxo Alternativo do caso de uso e regras de serviço utilizadas. Observações Observações. Casos de Uso Associados Nome dos casos de uso associados a este caso de uso, ou seja, que acionam ou são acionados por este caso de uso. Protótipos Inserir desenho dos protótipos de tela e relatório do caso de uso, se houver.
+
+5
+
+Código do caso de uso no formato EDUnnn onde nnn é um número sequencial por sistema.
+
+EC_2010/004
+
+PÁG. - 79
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Componentes de Sistema Associados Nome Tipo6 Descrição Localização
+
+Controle de Versão do Documento Versão SSI/OS Descrição da Manutenção Autor Data
+
+6
+
+Relatório, Telas, SubRotinas, Programas Batch, Classes, Métodos.
+
+EC_2010/004
+
+PÁG. - 80
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Sigla ­ Descrição do Sistema
+
+MER ­ Modelo de Entidade e Relacionamento
+
+<diagrama>
+
+EC_2010/004
+
+PÁG. - 81
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Especificação de Implantação
+SSI / OS / FAS de Origem Assunto/Título da SSI ou FAS Solicitante (área/gestor) Analista de Negócio Empresa Responsável Sistema (s) N.º da OS < Sigla e nome do(s) sistema(s) cuja manutenção será implantada> <opcional> <opcional> <opcional> < Informar o solicitante da SSI > < Analista de negócio que preencheu a OS que está sendo implantada >
+
+OBJETOS <Relacionar os objetos a serem colocados em produção> Descrição Responsável
+
+BANCO DE DADOS <Descrever atividades relacionadas a Banco de Dados.> Descrição Responsável
+
+SINCRONISMO <Identificar situações de sincronismo com outras implantações, processos que devem ser executados, etc.> Descrição Responsável
+
+EC_2010/004
+
+PÁG. - 82
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 PARAMETRIZAÇÃO <Relacionar parametrizações necessárias para a implantação.> Descrição Responsável
+
+OUTRAS IMPLANTAÇÕES <Relacionar outras necessidades para a implantação.> Descrição Responsável
+
+[Local], [Dia] de [Mês] de [Ano]. _________________________________________________ Analista de Negócio Nome: _________________________________________________ Coordenador Nome: _________________________________________________ Empresa Nome do preposto:
+
+EC_2010/004
+
+PÁG. - 83
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010
+
+Solicitação de Revisão de Solução
+SSI / OS de Origem Assunto/Título da SSI Solicitante (área/gestor) Analista de Negócio Empresa Responsável Sistema (s) Data de criação da SRS OS associada < Informar o solicitante da SRS >
+
+N.º nnn
+
+< Analista de negócio que preencheu a OS relacionada a solução que está sendo revisada. >
+
+<Sigla e nome do(s) sistema(s) cuja revisão será efetuada>
+
+< OS relacionada a solução que está sendo revisada.>
+
+5. DESCRIÇÃO DA nova solução <Esta seção deve ser preenchida com a indicação da nova solução proposta pela empresa sobre o serviço a ser feito em relação a SSI/OS.>
+
+6. ESTIMATIVA fpa REVISADA
+<Esta seção deve ser preenchida com a estimativa de FPA, quando a nova solução envolver funções ainda não contadas.>
+
+7. CONSEQUÊNCIAS DA NÃO IMPLEMENTAÇÃO <Indicar se a solução prevista anteriormente é viável sem esta nova proposta de solução, quais os benefícios desta nova solução e outras informações relevantes.>
+
+EC_2010/004
+
+PÁG. - 84
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 ANEXO VII
+
+TERMO DE RESPONSABILIDADE SIGILO E CONFIDENCIALIDADE Pelo presente Instrumento: O BANCO DO ESTADO DO ESPÍRITO SANTO ­ BANESTES S.A, Instituição Financeira Múltipla, com sede na Avenida Princesa Isabel, nº 574, Ed. Palas Center, Bloco "B", 9º andar, Centro, Vitória, ES, inscrito no CNPJ/MF sob o nº 28.127.603/0001-78, representado neste ato representado neste ato por seus Diretores que ao final assinam e se identificam, doravante denominado simplesmente BANCO ou CONTRATANTE e a Empresa ................., com sede e foro na ........................., inscrita no CNPJ/MF sob o nº .........................., representada neste ato por seus Sócios Diretores, Srs. ...................., inscritos no CPF/MF sob os nºs ..................., doravante denominada simplesmente CONTRATADA, tem justo e acordado o seguinte: 1 1.1 DA INFORMAÇÃO CONFIDENCIAL Para os fins do presente Termo, são consideradas "Informações Confidenciais" os documentos e informações transmitidos pelo BANESTES e recebidos pela CONTRATADA, por seus diretores, sócios, administradores, empregados, prepostos ou agentes, compreendendo os documentos, Projetos, Demonstrações Contábeis e Financeiras, Atas de Reunião, Relatórios de Auditoria e Avaliação Patrimonial, Relatórios ou Pareceres Gerenciais, Organizacionais e Técnicos, ou não, bancos de dados, metodologias e quaisquer outros esclarecimentos escritos ou divulgados, seja por meio impresso, eletrônico ou verbal, sob o poder e propriedade do BANESTES; A CONTRATADA assume a obrigação de manter as "Informações Confidenciais" em absoluto sigilo, não podendo divulgá-las ou transferi-las a terceiros, sob qualquer forma, bem como não fazer qualquer uso das mesmas para fins diversos daqueles previstos no contrato nº ............... . O acesso a essas informações é baseado na confiança e no estrito cumprimento dos preceitos éticos e legais aplicáveis às atividades do BANESTES, estando ainda, muitas vezes, regulado por compromissos formalmente assumidos com clientes e terceiros, envolvendo, em todos os casos, riscos financeiros e de imagem incalculáveis; A CONTRATADA fica também responsável perante o BANESTES pelo sigilo das "Informações Confidenciais" que, por necessidade de trabalho, precisem transmitir a seus empregados/prepostos e agentes, comprometendo-se ainda a: a) b) a. guardar as "Informações Confidenciais" com o mesmo cuidado com que normalmente guardam suas informações próprias ou confidenciais; não fazer uso das "Informações Confidenciais" recebidas do BANESTES para quaisquer outros fins, a não ser para aqueles necessários e imprescindíveis em vista do objeto do contrato já referenciado e previamente autorizado pelo BANESTES, destruindo-as ou restituindo-as ao BANESTES imediatamente após sua utilização.
+
+1.2
+
+1.3
+
+EC_2010/004
+
+PÁG. - 85
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 1.4 O BANESTES não admitirá, em hipótese alguma, qualquer divulgação das informações confidenciais, seja ela por parte de seus funcionários, fornecedores ou prestadores de serviços. Aqueles que forem identificados como responsáveis pela divulgação serão processados nas esferas cível e criminal, na extensão dos danos direta ou indiretamente causados ao BANESTES, seus clientes, parceiros e terceiros, inclusive por lucros cessantes, mesmo que a divulgação das informações confidenciais ocorra após a rescisão do contrato de trabalho ou contrato de prestação de serviços do(s) envolvido(s). Para fins desta Cláusula, não serão consideradas "Informações Confidenciais" as que: a) b) já estejam à disposição do público no momento da assinatura do presente Termo; venham a tornar-se disponíveis ao público por ato do BANESTES ou do Estado de Espírito Santo, e não decorrente de ação da CONTRATADA, seus empregados, agentes ou prepostos; e já fossem de conhecimento da CONTRATADA, comprovado por registros formais escritos em posse das mesmas, no momento em que as "Informações Confidenciais" foram recebidas do BANESTES. DAS PROIBIÇÕES
+
+1.5
+
+c)
+
+2
+
+Fica expressamente proibido a CONTRATADA, seus empregados, agentes ou prepostos: 2.1 2.2 2.3 utilizar informações dos dados confidenciais em seu próprio benefício ou de terceiros; divulgar quaisquer informações relativas aos dados confidenciais, incluindo seus clientes ou terceiros; divulgar quaisquer informações referentes aos projetos de informática, equipamentos, sistemas operacionais, softwares, projetos de infra-estrutura, sistemas de controles e outros, por serem a propriedade do BANESTES; falar em nome do BANESTES sem a aquiescência expressa da administração do BANESTES; divulgar quaisquer informações disponíveis através da documentação dos Projetos de Sistemas e/ou Infra-estrutura, sua estratégias, processos, entre outros, sem a devida autorização; reproduzir no todo ou em parte, documentos, softwares ou qualquer outra informação, para uso próprio ou de terceiros, seja dentro ou fora do estabelecimento de trabalho; fazer transitar por qualquer meio, quaisquer informações que não sejam de domínio público, sem consentimento da administração do BANESTES ou fora dos procedimentos estabelecidos pelo BANESTES. DO DEVER DE INDENIZAR A violação, pela CONTRATADA, seus diretores, sócios, administradores,
+
+2.4 2.5
+
+2.6
+
+2.7
+
+3 3.1
+
+EC_2010/004
+
+PÁG. - 86
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 empregados, agentes ou prepostos, das obrigações de sigilo e não-divulgação prevista neste Termo, sujeitará a desqualificação da parte infratora para licitar junto ao Estado do Espírito Santo, inclusive entidades da Administração Indireta, pelo prazo de 02 (dois) anos, e ao pagamento de multa, conforme Cláusula Décima Segunda do contrato nº ________, celebrado entre as partes, na data de ....../........./2010, sem prejuízo do BANESTES demandar pela indenização por perdas e danos e da adoção, como parte diretamente prejudicada, das medidas judiciais e extrajudiciais que entender cabíveis, bem como da aplicação das demais penalidades previstas no contrato. 4 4.1 DA VIGÊNCIA As obrigações de confidencialidade aqui assumidas pelas partes vigorarão pelo prazo de 5 (cinco) anos, a contar da data do término do presente instrumento ou até que tais informações venham a se tornar de domínio público. DA PROPRIEDADE INTELECTUAL As disposições do presente Termo não implicam em qualquer licença a CONTRATADA de direitos de utilização e/ou exploração de marcas ou outros bens de propriedade do BANESTES. DA INCOMUNICABILIDADE Na hipótese de qualquer cláusula ou disposição deste Termo ser declarada nula ou inexeqüível, tal nulidade ou inexequibilidade não afetará quaisquer outras cláusulas ou disposições aqui contidas, as quais permanecerão em pleno vigor e efeito, desde que o seu objeto não tenha sido alterado ou prejudicado. DAS NOTIFICAÇÕES Todas as notificações pertinentes a este Termo deverão ser tratadas nos seguintes endereços: I ­ BANCO DO ESTADO DO ESPÍRITO SANTO - BANESTES. Av. Princesa Isabel, 574, Ed. Palas Center, 10º andar, Bloco A, Centro Tel.: (27) 3383.1480 Fax: (27) 3383.1275
+
+5 5.1
+
+6 6.1
+
+7 7.1
+
+A/C: Gerente de Segurança - GESEG E-mail: __________________ @banestes.com.br II ­ XXXXXXXXX XXXXXXXXXXX Rua XXXXXX Tel.: XXXXXXXX xxxx@xxxxxxxx.com.br 8 8.1 A/C XXXXXXX e-mail:
+
+DA DECLARAÇÃO DE RESPONSABILIDADE Os subscritores do presente Termo asseveram e garantem que possuem plenos poderes de representação das partes constantes no Preâmbulo deste Termo para, em nome delas, assinar o presente Termo de Confidencialidade.
+
+EC_2010/004
+
+PÁG. - 87
+
+AM
+
+EDITAL DE CONCORRÊNCIA 004/2010 8.2 Caso alguns dos subscritores do presente Acordo não possuam os poderes previstos na cláusula 8.1. acima, responderá pelas sanções e indenizações previstas na cláusula 3.1. DO FORO As partes elegem, de comum acordo, o foro de Vitória, Comarca da Capital do Estado do Espírito Santo, como competente para dirimir todas as dúvidas e controvérsias oriundas da interpretação ou da execução do presente instrumento ou a qualquer outro, por mais privilegiado que seja, ressalvado, entretanto, ao CONTRATANTE, se lhe convier, optar pelo foro do domicílio da CONTRATADA.
+
+9 9.1
+
+E, por terem assim ajustado as partes contratantes, depois de sua leitura, na presença das testemunhas abaixo, assinam as 02 (duas) vias de igual teor deste instrumento, obrigando-se por si e por seus sucessores, a cumpri-lo fielmente em todos os seus termos. Vitória/ES, ........ de ...................... de 2010.
+
+BANESTES S.A - BANCO DO ESTADO DO ESPÍRITO SANTO
+
+CONTRATADA
+
+TESTEMUNHAS:
+
+NOME: ASS. CPF
+
+NOME: ASS. CPF
+
+EC_2010/004
+
+PÁG. - 88
+
+AM
+
+

@@ -1,0 +1,1075 @@
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+TERMO DE RETIRADA DE EDITAL PREGÃO Nº 017/2011
+
+Confirmamos a retirada, na data abaixo, de cópia integral do Edital do Pregão nº 017/2011-CLDF, processo nº 001-000.946/2010 que tem por objeto a prestação de
+
+serviços de desenvolvimento e manutenção de software, com previsão de execução de 3.890 (três mil, oitocentos e noventa) pontos de função, conforme condições, quantidades
+e especificações constantes do Projeto Básico - Anexo I do Edital. A sessão de recebimento dos envelopes de proposta de preços e de habilitação das empresas credenciadas será realizada no dia 28 de junho de 2011, às 10 horas, na Sala da CPL, localizada no Edifício Sede da CLDF, Eixo Monumental, Praça Municipal, Quadra 02, Lote 05, Térreo Inferior ­ CEP: 70094-902, Telefones: (061) 3348-8650 ou 3348-8652 e Fax: 3348-8651. Brasília/DF, de de 2011.
+
+___________________________________________________________
+Assinatura do responsável e carimbo da empresa
+
+DADOS CADASTRAIS Empresa CNPJ Nº Representante Endereço Nº do fax Nº do telefone E-mail
+OBSERVAÇÃO: O preenchimento incorreto deste Termo de Retirada de Edital ou o não envio do mesmo para o fax
+(61) 3348.8651 ou pelo e-mail cpl@cl.df.gov.br exime a CPL/CLDF da comunicação de eventuais retificações ocorridas no instrumento convocatório. Gentileza, digitar ou datilografar.
+
+1
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+PROCESSO Nº: 001-000.946/2010 TIPO: Menor preço unitário DATA DO RECEBIMENTO DAS PROPOSTAS DE PREÇOS: 28 / 06 / 2011 INTERESSADO: Coordenadoria de Modernização e Informática HORÁRIO DE INÍCIO DA SESSÃO: 10 horas LOCAL DA REUNIÃO: Térreo inferior do Edifício Sede da CLDF, em Brasília/DF
+A Câmara Legislativa do Distrito Federal - CLDF, por meio do pregoeiro designado pelos Atos do Presidente nº 565/2010 e nº 309/2011, publicados no DCL de 22/11/2010 e 05/04/2011, torna público que fará realizar pregão presencial, que tem por objeto prestação de serviços de desenvolvimento e manutenção de software, com previsão de execução de 3.890 (três mil, oitocentos e noventa) pontos de função, nas condições estabelecidas no Projeto Básico - Anexo I deste Edital. O presente certame foi autorizado nos autos do processo em epígrafe e será regido pela Lei nº 10.520/2002, Ato da Mesa diretora nº 113/2003, Leis nº 8.666/93, 8.078/90, e demais normas pertinentes, observadas as condições estabelecidas neste Ato Convocatório e seus Anexos. Os envelopes de "PROPOSTA DE PREÇOS" e "DOCUMENTAÇÃO" relativa a esta licitação serão recebidos simultaneamente na sessão pública que será realizada na Sala de Reunião da CPL/CLDF, no endereço, data e horário acima indicados. 1. DO OBJETO 1.1. O presente pregão tem por objeto a prestação de serviços de desenvolvimento e manutenção de software, com previsão de execução de 3.890 (três mil, oitocentos e noventa) pontos de função, de acordo com as especificações e quantitativos constantes do Projeto Básico ­ Anexo I deste Edital. 1.2. Integram este Edital todos os seus anexos. 2. DAS CONDIÇÕES DE PARTICIPAÇÃO 2.1. Somente poderão participar deste pregão as empresas especializadas no ramo do objeto licitado e que atendam a todas as exigências, inclusive quanto à documentação, constantes deste edital e seus anexos, arcando os licitantes com todos os custos decorrentes da elaboração e apresentação das propostas. 2.2. Não poderão concorrer direta ou indiretamente nesta licitação pessoas físicas e jurídicas, que se enquadrem em qualquer das seguintes situações: 2.2.1. Não estejam credenciadas, na forma do Capítulo 3 deste Edital; 2.2.2. Encontrem-se sob falência, recuperação judicial ou extrajudicial, liquidação judicial ou extrajudicial, concurso de credores, dissolução, bem como as estrangeiras que não funcionem no país; 2.2.3. Tenham sido declaradas inidôneas pela Administração Pública, direta ou indireta, Federal, Estadual, Municipal ou Distrital, ou que estejam cumprindo sanção de suspensão temporária de participação em licitação e impedimento de contratar com a CLDF. 2.2.4. Constituídas sob qualquer modalidade de consórcio. 2.2.5. Possuam qualquer servidor da CLDF entre seus dirigentes, gerentes, sócios, responsáveis técnicos ou empregados. 2.3. A simples participação no presente processo licitatório importa total, irrestrita e irretratável submissão dos proponentes às condições deste Edital. 2.4. Para garantir a integridade da documentação e da proposta, recomenda-se que contenham índice e folhas numeradas e timbradas com o nome, logotipo ou logomarca da licitante. 2.5. Não serão aceitos documentos apresentados em papel térmico para fac-símile. 3. DO CREDENCIAMENTO DOS REPRESENTANTES 3.1. O credenciamento será iniciado com 30 (trinta) minutos de antecedência do horário designado para a sessão de abertura e é condição obrigatória para a formulação de lances e para a prática de todos os atos neste pregão, conforme prevê o artigo 4º, inciso VI, da Lei nº 10.520/02. 3.2. Até a abertura da sessão, os representantes deverão se apresentar para credenciamento junto ao Pregoeiro por um representante que, devidamente munido de documento que o credencie a participar deste procedimento licitatório, venha a responder por sua representada, devendo, ainda, no ato de entrega dos envelopes, identificar-se exibindo a carteira de identidade ou outro documento equivalente com fé pública.
+2
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+3.3. O credenciamento far-se-á mediante a apresentação dos seguintes documentos: 3.3.1. instrumento público de procuração ou instrumento particular com firma reconhecida, com poderes especiais para formular ofertas e lances de preços e praticar todos os atos pertinentes ao certame , conforme alínea "A" do Anexo II deste Edital (Termo de Credenciamento); 3.3.2. cópia autenticada do respectivo estatuto ou contrato social e suas alterações, devidamente registrados na Junta Comercial ou no órgão competente, exceto se o representante apresentar procuração pública. 3.3.3. no caso de microempresa, empresa de pequeno porte ou cooperativa, o representante deverá apresentar declaração, conforme alínea "E" do Anexo II deste Edital. 3.4. Em sendo sócio, proprietário, dirigente ou assemelhado da empresa proponente, é suficiente a apresentação de cópia do respectivo estatuto ou contrato social, no qual estejam expressos seus poderes para exercer direitos e assumir obrigações em decorrência de tal investidura. 3.5. As decisões pertinentes ao credenciamento serão de competência do pregoeiro, que as motivará na ata, imediatamente após a abertura da sessão. Cabe recurso contra estas decisões na forma do art. 4º, inciso XVIII da Lei nº 10.520/02, e seu acolhimento implicará na invalidação dos atos insuscetíveis de aproveitamento. 4. DA SESSÃO PÚBLICA DO PREGÃO 4.1. A reunião para recebimento e abertura dos envelopes de proposta de preços e de documentos de habilitação será pública, dirigida por Pregoeiro, na data, hora e local definidos no preâmbulo deste Edital ou no primeiro dia útil subseqüente, na hipótese de não haver expediente nessa data. 4.2. Após declarada aberta a sessão pelo Pregoeiro, não mais serão admitidos novos proponentes, e os interessados ou seus representantes presentes deverão entregar: 4.2.1 ­ declaração de cumprimento dos requisitos de habilitação, conforme modelo constante da alínea "B" do Anexo II deste Edital; 4.2.2 ­ envelopes nº 01 "PROPOSTA DE PREÇOS" e nº 02 "DOCUMENTOS DE HABILITAÇÃO" , lacrados e rubricados no fecho, contendo em suas partes externas e frontais, em caracteres destacados, os seguintes dizeres:
+Câmara Legislativa do Distrito Federal Pregão nº 017/2011-CLDF Envelope nº 01 ­ Proposta de Preço Razão Social da Empresa CNPJ Nº Câmara Legislativa do Distrito Federal Pregão nº 017/2011-CLDF Envelope nº 02 ­ Documentos de Habilitação Razão Social da Empresa CNPJ Nº
+
+4.3. Não será permitida a entrega de apenas 01 (um) envelope, nem será admitido que uma mesma pessoa represente mais de uma licitante. 4.4. Não será aceita, em nenhuma hipótese, a participação de interessada retardatária, a não ser como ouvinte. 4.5. Caso não apresente documento de titularidade ou credenciamento ou até mesmo a desconformidade desses impedirá a empresa de participar da fase de lances verbais, de negociação de preços, de declarar a intenção de interpor recurso, de renunciar ao direito de interposição de recursos, enfim, para representar a licitante durante a reunião de abertura dos envelopes de proposta ou documentação relativos a este pregão presencial, mantidos, com isto, o seu preço apresentado na proposta escrita, para efeito de ordenação das propostas e apuração do menor preço. 4.6. Em seguida, o Pregoeiro procederá à abertura dos envelopes de propostas de preço das licitantes credenciadas e examinará sua conformidade com os requisitos estabelecidos no edital. 4.7. As propostas de preços que atenderem aos requisitos do edital, no exame de conformidade, serão selecionadas para a fase subseqüente. 4.8. O Pregoeiro identificará a proposta de menor preço global, bem como as que apresentarem preços até 10% (dez por cento) superiores àquela, para fazerem lances verbais e sucessivos, até a proclamação da vencedora. 4.9. Havendo mais de uma proposta selecionada, o Pregoeiro passará à fase de lances, observando-se o seguinte: 4.9.1 - os lances deverão ser distintos, sucessivos e decrescentes; 4.9.2 - o pregoeiro poderá estabelecer, nesta fase, o intervalo mínimo entre os lances; 4.9.3 - caso o credenciado necessite consultar sua empresa, o pregoeiro decidirá a respeito;
+
+3
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+4.9.4 - o uso de telefone celular e outros aparelhos de comunicação para consulta terão tempo limitado de uso e é de exclusiva responsabilidade e ônus dos licitantes. 4.10. Se duas ou mais propostas, em absoluta igualdade de condições, ficarem empatadas, será realizado sorteio, em ato público. 4.10.1 Será assegurado, como critério de desempate, preferência de contratação para as microempresas, empresas de pequeno porte e cooperativas, na forma do Capítulo V da Lei Complementar nº 123, de 2006 e, sucessivamente, para as empresas fornecedoras de bens e serviços produzidos de acordo com o Processo Produtivo Básico (PPB), desenvolvidos no país. 4.10.1.1 Entende-se por empate na preferência de contratação para microempresas, empresas de pequeno porte e cooperativas aquelas situações em que as propostas apresentadas pelas microempresas, empresas de pequeno porte e cooperativas sejam iguais ou até 5% (cinco por cento) superiores à proposta mais bem classificada. 4.10.1.2 A aplicação das regras de preferência para as empresas fornecedoras de bens e serviços produzidos de acordo com o Processo Produtivo Básico (PPB) se processará na forma do disposto no Decreto nº 7.174/2010. 4.10.2 Caso nenhuma empresa classificada venha a exercer o direito de preferência, observar-se-ão as regras usuais de classificação e julgamento previstas na Lei no 8.666, de 21 de junho de 1993, e na Lei no 10.520, de 17 de julho de 2002 4.10.3 Ocorrendo empate, real ou ficto, entre microempresas, empresas de pequeno porte e cooperativas e empresas comuns proceder-se-á da seguinte forma: 4.10.3.1 - a microempresa ou empresa de pequeno porte ou cooperativa mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão, situação em que, caso apresente proposta de preço inferior, será adjudicado em seu favor o objeto licitado; 4.10.3.2 - no caso de equivalência dos valores apresentados pelas microempresas, empresas de pequeno porte e cooperativas que se encontrem no intervalo estabelecido no item 4.12 deste Edital, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta. 4.10.3.3 - não ocorrendo a contratação da microempresa, empresa de pequeno porte ou cooperativa, na forma do subitem 4.12.1, serão convocadas as remanescentes que porventura se enquadrem na hipótese do item 4.11 deste Edital, na ordem classificatória, para o exercício do mesmo direito; 4.10.3.4 - na hipótese da não-contratação de microempresa, empresa de pequeno porte ou cooperativa beneficiada por critério de desempate, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame. 4.11. Não havendo pelo menos 03 (três) ofertas nas condições definidas no inciso anterior, poderão os autores das melhores propostas, até o máximo de 03 (três), oferecer lances verbais e sucessivos, quaisquer que sejam os preços oferecidos, até a proclamação da vencedora. 4.12. Não havendo mais nenhuma licitante disposta a ofertar lance, e sendo a primeira colocada uma licitante não caracterizada como microempresa ou empresa de pequeno porte ou cooperativa, e as subseqüentes licitantes caracterizadas como tal, e sendo o preço destas igual ou até 5% (cinco por cento) superior ao daquela, conceder-se há direito de preferência da seguinte forma: 4.12.1 - a microempresa ou empresa de pequeno porte ou cooperativa mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, no prazo máximo de 5 (cinco) minutos, situação em que será adjudicado em seu favor o objeto licitado; 4.12.2 - não ocorrendo a contratação da microempresa ou empresa de pequeno porte ou cooperativa, conforme acima, serão convocadas as remanescentes que porventura se enquadrem na hipótese indicada neste item, na ordem classificatória, para o exercício do mesmo direito; 4.12.3 - no caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte e cooperativas que se encontrem no intervalo estabelecido neste item, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta; 4.12.4 - a ausência de representante da microempresa ou empresa de pequeno porte ou cooperativa na sessão implica na preclusão do direito de preferência. 4.13. Após o Pregoeiro declarar aberta a sessão, não serão admitidos pedidos de desistência, retificação de preços ou de lances ofertados ou de quaisquer outras condições oferecidas, somente se julgado
+4
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+necessário e aceito pelo Pregoeiro com vistas a sanar evidentes erros materiais, esclarecer ou complementar a instrução do processo licitatório. 4.14. Examinada a proposta classificada em primeiro lugar, quanto ao objeto e valor, caberá ao pregoeiro decidir motivadamente a respeito de sua aceitabilidade. 4.15. Caso não se realizem lances verbais, será verificada a conformidade entre a proposta escrita de menor preço e o valor estimado para a contratação. 4.16. No curso da análise, verificado o atendimento das exigências fixadas no Edital, o pregoeiro declarará o vencedor. Caso seja verificado o descumprimento de algum requisito, a proposta será desclassificada. 4.17. Encerrada a etapa competitiva e ordenadas as ofertas, o Pregoeiro procederá à abertura do envelope nº 02 "DOCUMENTOS DE HABILITAÇÃO" do licitante que apresentou a melhor proposta, para verificação do atendimento das condições fixadas no edital em face dos documentos apresentados. 4.17.1 - Para habilitação de microempresas ou empresas de pequeno porte, não será exigida comprovação de regularidade fiscal, mas será obrigatória a apresentação dos documentos indicados no item 6.3, incisos VI, VII, VIII, IX, X, XI e XII deste Edital, ainda que os mesmos veiculem restrições impeditivas à referida comprovação. 4.17.2 - Para efeito de assinatura do contrato, a licitante habilitada nas condições do subitem 4.17.1 deste Edital deverá comprovar sua regularidade fiscal, sob pena de decadência do direito à contratação, sem prejuízo da aplicação das sanções cabíveis. 4.17.3 - A comprovação de que trata o subitem 4.17.2 deste Edital deverá ser efetuada mediante a apresentação das competentes certidões negativas de débitos, ou positivas com efeitos de negativas, no prazo de 2 (dois) dias úteis, contado a partir do momento em que a licitante for declarada vencedora do certame, prorrogável por igual período, a critério da CLDF. 4.18. Se a oferta não for aceitável ou se o licitante desatender às exigências habilitatórias, o pregoeiro examinará as ofertas subseqüentes e a qualificação dos licitantes, na ordem de classificação e assim sucessivamente, até a apuração de uma que atenda ao edital, sendo o respectivo licitante declarado vencedor. 4.19. Nas situações previstas em lei, o pregoeiro poderá negociar diretamente com o proponente para que seja obtido preço melhor. 4.20. As licitantes enquadradas nas categorias de microempresas e empresas de pequeno porte, por ocasião da participação nesta licitação, deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição. 4.21. Para as licitantes inscritas no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF ou em sistemas semelhantes mantidos por Estados, Distrito Federal ou Municípios, a comprovação dos documentos de habilitação que já constem dos sistemas, poderá ser feita mediante consulta on-line. 4.22. Caso algum dos documentos de habilitação apresentados na licitação esteja vencido, o Pregoeiro poderá, conforme lhe faculta o § 3º do art. 43 da Lei n.º 8.666/93, efetuar consulta ao órgão responsável pela emissão do documento, para verificação de sua regularidade. 4.23. A validade dos documentos apresentados, quando não expressa, nos mesmos nem estabelecida em lei será de 60 (sessenta) dias, contados de sua emissão. 4.24. Da reunião lavrar-se-á ata circunstanciada de todas as ocorrências que interessarem ao certame e que será lida no local da reunião e assinada pelo pregoeiro, pela equipe de apoio e pelos licitantes. 5. DAS PROPOSTAS DE PREÇOS 5.1. O envelope nº 01 ­ "PROPOSTA DE PREÇOS", sob pena de desclassificação, deverá ser apresentado lacrado e rubricado no fecho, indicando em sua parte externa a razão social da empresa e o número deste pregão, conforme referido no subitem 4.2.2 deste Edital. 5.2. A Proposta de Preços deverá: 5.2.1. - ser datilografada ou impressa no idioma português do Brasil, e apresentada sem alternativas, emendas, rasuras ou entrelinhas, preferencialmente em 02 (duas) vias, numeradas e rubricadas e a última folha assinada pelo representante legal da licitante; 5.2.2. - conter nome da proponente, endereço, números do CNPJ e da Inscrição Estadual ou do Distrito Federal, telefone, fax, endereço eletrônico (e-mail), e nome do Banco, e números da agência bancária e da conta-corrente;
+
+5
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+5.2.3 - conter o preço unitário do ponto de função, o valor global da proposta, expressos em algarismos e por extenso, em moeda nacional e PLANILHA DE CUSTO E PRODUTIVIDADE DA EQUIPE, conforme modelo apresentado no Anexo IV do Edital. 5.2.4 - conter prazo de validade da proposta que não poderá ser inferior a 60 (sessenta) dias, contados da data de sua entrega. 5.2.5 - nome completo, cargo na empresa e número de inscrição no CPF da pessoa que ficará encarregada da assinatura do contrato; 5.2.6. - conter declarações expressas: I - de que o preço proposto é definitivo e nele estão inclusos todos os tributos, embalagens, encargos trabalhistas, previdenciários, fiscais, comerciais, taxas, emolumentos e quaisquer despesas operacionais, despesas e obrigações financeiras de qualquer natureza, fretes, seguro, etc., e quaisquer outras despesas, inclusive lucro, que incidam ou venham a incidir sobre o objeto desta licitação. II - de que a licitante se compromete a ceder à CLDF, nos termos do art. 111 da Lei nº 8.666/93 e art. 4º da Lei nº 9.609/98, o direito patrimonial, a propriedade intelectual de toda e qualquer documentação e produto gerados, logo após o recebimento definitivo dos serviços prestados; III - de que licitante apresentará Termo de Avaliação para assinatura do contrato, avaliado pelos responsáveis pelos modelos de avaliação, nos termos do item "19. Exigências Técnicas" do Projeto Básico ­ Anexo I, deste Edital. 5.3. É vedada a retirada das propostas após a abertura dos envelopes a elas correspondentes, salvo por motivo justo decorrente de fato superveniente e aceito pelo Pregoeiro. 5.4. Em nenhuma hipótese poderá ser alterado o conteúdo da proposta apresentada, seja com relação a prazo e especificações do produto ofertado ou qualquer condição que importe modificação dos seus termos originais, ressalvadas apenas aquelas alterações destinadas a sanar evidentes erros formais, nem serão admitidas alegações de enganos, erros ou distrações na elaboração das propostas de preços, como justificativas de solicitação de quaisquer acréscimos, de re-equilíbrio econômico-financeiro do contrato, de indenizações ou ressarcimentos de qualquer natureza. 5.5. A cotação apresentada e levada em conta, para efeito de julgamento, será de exclusiva e total responsabilidade da licitante, não lhe cabendo o direito de pleitear qualquer alteração. 5.6. Cada licitante poderá apresentar somente uma proposta, não sendo admitidas propostas alternativas. 5.7. Caso o prazo de que trata o subitem 5.2.4 não esteja expressamente indicado na proposta, o mesmo será considerado como aceito para efeito de julgamento. 5.8. Serão corrigidos automaticamente pelo Pregoeiro quaisquer erros de soma e/ou multiplicação e o preço total da proposta. 6. DA HABILITAÇÃO 6.1. Os documentos de habilitação deverão ser entregues em envelopes separados, devidamente fechados e rubricados no fecho, identificados conforme indicado neste edital. 6.2. Para habilitar-se na presente licitação, as empresas deverão estar devidamente CADASTRADAS e HABILITADAS PARCIALMENTE no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, ou mediante a apresentação da documentação relacionada no item 6.3 deste Edital. 6.2.1. A habilitação das licitantes fica condicionada à verificação dos seus respectivos registros, bem como da validade dos documentos cadastrais e de habilitação parcial por meio de consulta "on-line" ao SICAF, no ato da abertura do certame, que será impressa sob forma de "Declaração de Situação" e instruirá os autos do processo. 6.2.2. As licitantes devidamente cadastradas no SICAF ainda deverão incluir no envelope DOCUMENTAÇÃO as seguintes declarações: I ­ De que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e menor de dezesseis anos, salvo a partir dos quatorze anos, na condição de aprendiz, conforme alínea "C" do Anexo II deste Edital; II ­ De que, até a presente data, inexistem fatos impeditivos para sua habilitação no presente processo licitatório, ciente da obrigatoriedade de declarar ocorrências supervenientes, conforme alínea "D" do Anexo II deste Edital;
+
+6
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+III ­ Atestado(s) de capacidade técnica, emitido(s) por pessoa jurídica de direito público ou privado, na forma estabelecida pelo Anexo III deste Edital; IV ­ A licitante deverá possui r Patrimônio Líquido mínimo correspondente a 5% (cinco inteiros por cento) do valor estimado da contratação, que é de R$ 2.129.911,15 (dois milhões, cento e vinte e nove mil, novecentos e onze reais e quinze centavos), na forma dos §§ 2.º e 3.º do art. 31 da Lei n.º 8.666/93. As demonstrações contábeis deverão apresentar as assinaturas do titular ou representante da empresa e do contabilista responsável, legalmente habilitado. V ­ Certidão Negativa de Falência, Concordata, Recuperação judicial ou extrajudicial, dissolução e liquidação expedida pelo distribuidor da sede da empresa, datado dos últimos 30 (trinta) dias, ou que esteja dentro do prazo de validade expresso na própria certidão; 6.3. As licitantes não cadastradas ou com situação irregular junto ao SICAF deverão incluir no envelope nº 02 ­ "DOCUMENTAÇÃO" os seguintes documentos, além dos referidos nos incisos do subitem 6.2.2 acima: I ­ registro comercial, no caso de empresa individual; II ­ ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, em se tratando de sociedade comercial, e, no caso de sociedade por ações, acompanhado de documentos de eleição de seus administradores e alterações ou da consolidação respectiva; III ­ Inscrição do ato constitutivo e prova de diretoria em exercício, no caso de sociedade simples; IV ­ Decreto de autorização em se tratando de sociedade estrangeira em funcionamento no País; V ­ Ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir, em se tratando de sociedade estrangeira em funcionamento no País; VI ­ Prova de inscrição no Cadastro de Contribuintes do Distrito Federal do domicílio ou sede do licitante, segundo seu ramo de atividade e compatível com o objeto contratual; VII ­ Prova da inscrição no Cadastro de Pessoa Física e Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda ­ CNPJ/MF; VIII ­ Certificado de Regularidade perante o FGTS, fornecido pela Caixa Econômica Federal, devidamente atualizado, nos termos da Lei nº 8.036, de 11 de maio de 1990; IX ­ Certificado de Regularidade perante o INSS, devidamente atualizado, nos termos da Lei nº 8.212, de 24 de julho de 1991, alterada pela Lei nº 8.870, de 15 de abril de 1994; X ­ Certidão Negativa de Débitos, emitida pela Secretaria de Fazenda do Distrito Federal, em plena validade, para empresas com estabelecimento no Distrito Federal. Para empresas sem matriz ou filial no DF, apresentar prova de regularidade com a Fazenda Estadual e Municipal de seu domicílio ou sede, somente para os tributos relativos à atividade licitada, nos termos do art. 193 do Código Tributário Nacional; XI ­ Prova de regularidade para com a Fazenda Federal, mediante a apresentação da certidão conjunta emitida pela Receita Federal do Brasil e Procuradoria-Geral da Fazenda Federal, conforme Portaria Conjunta PGFN/RFB nº 02, de 31 de agosto de 2005. XII - Balanço Patrimonial e Demonstrativos Contábeis do último exercício social, já exigíveis e apresentados na forma da Lei, registrados na Junta Comercial, que comprovem a boa situação financeira da empresa, vedada a sua substituição por balancetes ou balanços provisórios;
+
+a) A comprovação de que trata este inciso deverá ser feita através de cópias autenticadas de
+
+referências do Livro Diário (nº do livro, Termo de Abertura e Encerramento), inclusive das folhas onde contém o balanço patrimonial e os demonstrativos contábeis extraídos deste Livro, com evidência de registro da Junta Comercial, de acordo com a personalidade jurídica da empresa licitante, devidamente assinadas pelo seu titular ou representante legal e por contador registrado no Conselho Regional de Contabilidade;
+
+b) As empresas constituídas no ano em curso poderão substituir o balanço anual por balanço e/ou
+
+balancete referente ao mês imediatamente anterior à data de abertura da licitação, devidamente autenticado pela Junta Comercial;
+
+c) a boa situação financeira de que trata o item "III" será avaliada pelos Índices de Liquidez Geral
+
+(LG), e Liquidez Corrente (LC) e Solvência Geral (SG), resultantes da aplicação das seguintes fórmulas e que deverão ser iguais ou maiores do que 1 (um):
+Ativo circulante + Realizável a longo prazo LG = _______________________________________ Ativo circulante LC = __________________ Ativo total SG = _______________________________
+
+7
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+Passivo circulante + Exigível a longo prazo Passivo circulante
+
+11.868
+
+Passivo circulante + Exigível a longo prazo
+
+com esses documentos, o memorial de cálculo correspondente. f) As demonstrações contábeis deverão apresentar as assinaturas do titular ou representante da empresa e do contabilista responsável, legalmente habilitado. g) As demonstrações contábeis das empresas com menos de um exercício social de existência devem cumprir a exigência contida na lei, mediante a apresentação do Balanço de Abertura ou do último Balanço Patrimonial levantado. h) Poderão ser exigidas das empresas, para confrontação com as Demonstrações Contábeis, as informações prestadas à Receita Federal. 6.4. Para as licitantes cadastradas no SICAF, cujos índices de LG, SG e LC sejam iguais ou superiores a 1,0 (um vírgula zero) fica dispensada a apresentação do balanço e das demonstrações contábeis. 6.5. Os documentos necessários à habilitação deverão ser apresentados em original, ou por qualquer processo de cópia autenticada por cartório ou mediante cotejo das cópias com os originais pelo Pregoeiro ou por membro da equipe de apoio ou publicação em órgão de imprensa oficial. 6.6. Não será aceito nenhum protocolo de entrega em substituição aos documentos relacionados neste Edital. 6.7. Os documentos apresentados para habilitação deverão estar todos em nome da matriz ou todos em nome da filial, exceto aqueles que comprovadamente só possam ser fornecidos à matriz e referir-se ao local do domicílio ou sede do interessado. 6.8. Para os efeitos desta licitação, considera-se sede a matriz ou o único estabelecimento comercial, industrial e de prestação de serviços da empresa. 6.9. Em nenhuma hipótese serão aceitos documentos com prazo de validade vencido. 6.10. Quando o documento e/ou certidão apresentada não informarem a sua validade deverão estar datados dos últimos 90 (noventa) dias. 6.11. Caso conste algum documento nos registros cadastrais com prazo de validade vencido, a licitante deverá anexar comprovante idêntico, com o respectivo prazo atualizado, sob pena de inabilitação. 6.12. O Certificado de Registro Cadastral em órgão da Administração Pública substituirá os documentos relacionados nos incisos I, II e III do subitem 6.3, para fins de habilitação da licitante. 7. DO JULGAMENTO 7.1. No julgamento das propostas será adotado o critério de MENOR PREÇO UNITÁRIO, atendidas as condições estabelecidas neste pregão. 7.2. O Pregoeiro poderá, se necessário, suspender a sessão para realizar diligências e recorrer a setores técnicos interno e externos, a fim de obter parecer que possibilite melhor julgamento das especificações dos produtos cotados, definindo nova data para continuidade da sessão licitatória. 7.3. Será verificada a conformidade das propostas apresentadas com os requisitos estabelecidos neste edital e serão desclassificadas as que estiverem em desacordo. 7.4. Não serão aceitas propostas que apresentarem preços globais ou unitários, simbólicos, irrisórios ou de valor zero, nem serão levadas em consideração vantagens não previstas no Edital. 7.5. Serão desclassificadas as propostas que apresentem preços excessivos ou manifestamente inexeqüíveis, considerando-se excessivos aqueles que estiverem incompatíveis com os praticados no mercado e manifestamente inexeqüíveis os que não demonstrarem sua viabilidade. 7.6. A desclassificação da proposta da licitante importa na preclusão do seu direito de participar da fase de lances verbais. 7.7. Quando todas as propostas forem desclassificadas, o Pregoeiro poderá fixar às licitantes o prazo de 08 (oito) dias úteis para apresentação de novas propostas, escoimadas das causas de desclassificação. 7.8. Os preços oferecidos devem estar compatíveis com os praticados no mercado. 7.9. O Pregoeiro examinará a aceitabilidade, quanto ao objeto e ao valor, da primeira classificada, decidindo motivadamente a respeito. 7.10. Sendo aceitável a oferta, será verificado o atendimento das condições habilitatórias pelo licitante que a tiver formulado.
+
+d) As fórmulas deverão estar devidamente aplicadas em memorial de cálculos juntado ao balanço. e) Se necessária a atualização do balanço e do patrimônio líquido, deverá ser apresentado, juntamente
+
+8
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+8. DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO 8.1. Constatado o atendimento das exigências fixadas neste Edital e caso não haja interposição de recurso, o Pregoeiro adjudicará o objeto à licitante vencedora, com a posterior homologação do resultado pelo Ordenador de Despesa da CLDF. 8.2. Para fins de homologação, a adjudicatária fica obrigada a apresentar, na Sala da CPL/CLDF, proposta adequada ao preço ofertado no lance final até o término do expediente do dia seguinte a esta sessão. 8.3. O resultado final do pregão será publicado na imprensa oficial e afixado no quadro de avisos da CPL/CLDF e os autos serão enviados ao Ordenador de Despesa da CLDF para homologação da licitação. 9. DOS RECURSOS 9.1. Declarado(s) o(s) vencedor(ES) do certame, qualquer licitante poderá manifestar imediata e motivadamente a intenção de recorrer e será registrada em Ata a síntese das razões do recurso. Será concedido ao(s) recorrente(s) o prazo de 03 (três) dias para apresentação das razões do(s) recurso(s). As demais licitantes disporão do prazo de até 03 (três) dias, contados do término do prazo da(s) recorrente(s), para, querendo, apresentar suas contra-razões. 9.2. As razões recursais escritas e as contra-razões aos recursos deverão ser entregues na Sala de Reuniões da CPL/CLDF no Edifício Sede da CLDF, situado no Eixo Monumental, Quadra 02, Lote 05, Térreo Inferior, Brasília/DF, onde os autos do processo permanecerão com vista franqueada aos interessados. 9.3. O recurso contra decisão do Pregoeiro não terá efeito suspensivo. 9.4. No caso de interposição de recurso, caberá ao Pregoeiro receber, examinar e instruir os recursos e deverá: 9.4.1. - rever sua decisão fundamentadamente; ou, 9.4.2. - prestar suas informações e submeter o assunto à decisão ao Ordenador de Despesa da CLDF, que poderá dar ou negar provimento ao recurso. 9.5. O acolhimento do recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 9.6. A falta de manifestação imediata e motivada das licitantes durante a realização da sessão, importará na decadência do direito de interpor recurso, podendo o Pregoeiro adjudicar o objeto à vencedora. 9.7. Após decididos os recursos e constatada a regularidade dos atos procedimentais, o Ordenador de Despesa da CLDF procederá à homologação deste pregão e adjudicação dos itens objeto de recurso. 10. DO CONTRATO 10.1. A adjudicatária será convocada para assinar o respectivo instrumento contrato, conforme modelo constante do Anexo V deste Edital, dentro do prazo e condições estabelecidos, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na Lei nº 8.666/93 e alterações subseqüentes e neste Edital. 10.2. O prazo para assinatura do contrato será de até 05 (cinco) dias úteis, contados a partir da intimação da adjudicatária, podendo ser prorrogado uma vez por igual período, desde que ocorra motivo justificado e aceito pela Administração. 10.3. O contrato poderá ser alterado nas hipóteses previstas no art. 65 da Lei nº 8.666/93. 10.4. Incumbirá à contratante providenciar a publicação resumida do instrumento do contrato e de seus eventuais termos aditivos nos órgãos da imprensa oficial. 10.5. O contrato poderá ser rescindido conforme o disposto no art. 78, com os desdobramentos dos arts. 79 e 80 da Lei nº 8.666/93. 10.6. O contrato terá vigência de 24 (vinte e quatro) meses, a partir da data da sua assinatura, com eficácia a partir da data de sua publicação no DODF, e efeitos financeiros a partir do "aceite" do executor do contrato/Comissão de Recebimento, designado(s) pela Contratante, e poderá ser prorrogado na forma do art. 57, inciso II da Lei nº 8.666/93. 11. DAS CONDIÇÕES DE ENTREGA DO OBJETO 11.1. A entrega dos serviços, objeto deste edital, será realizada na Coordenadoria de Modernização e Informática, nas condições e forma estabelecidas no Projeto Básico, Anexo I deste Edital.
+
+9
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+11.2. Constatada qualquer irregularidade nos equipamentos fornecidos, o servidor/comissão responsável pelo recebimento poderá: 11.2.1. ­ relativamente à especificação, rejeitá-lo no todo ou em parte, determinando sua substituição ou rescindindo a contratação, sem prejuízo das penalidades cabíveis; 11.2.1.1. - na hipótese de substituição ou refazimento de serviços, a adjudicatária deverá fazê-la em conformidade com a indicação da CLDF, no prazo máximo de 02 (dois) dias, contados da notificação por escrito, mantido o preço inicialmente contratado; 11.2.2. ­ relativamente à diferença de quantidade ou de partes, determinar sua complementação ou rescindir a contratação, sem prejuízo das penalidades cabíveis; 11.2.2.1. - na hipótese de complementação, a contratada deverá fazê-la em conformidade com a indicação da CLDF, nas condições e forma estabelecidas no Projeto Básico ­ Anexo I, contados da notificação por escrito, mantido o preço inicialmente contratado. 12. DA GARANTIA 12.1. Os produtos e serviços adquiridos deverão apresentar garantia, sem ônus adicional, pelo período mínimo de 90 (noventa) dias, contados a partir da homologação e aceite definitivo de cada serviço. 12.3. As implementações que estejam em desacordo com os requisitos estabelecidos ou com as especificações do sistema e as falhas ou funcionamentos irregulares identificados na operação normal do produto são considerados defeitos. 12.4 A contratada oferecerá garantia no valor de 3% (três por cento) do valor do contrato em dinheiro (caução), ou títulos da dívida pública, ou seguro-garantia, ou fiança bancária, na forma do art. 56 da Lei n. 8.666/1993. 13. DAS PENALIDADES 13.1. A licitante que convocada dentro do prazo de validade de sua proposta não celebrar o contrato, deixar de entregar ou apresentar documentação falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar a execução do contrato, comportar-se de modo inidôneo ou cometer fraude fiscal, ficará impedida de licitar e contratar com a União, Estados, Distrito Federal ou Municípios e, será descredenciada no SICAF, e no Cadastro de Fornecedores do Governo do Distrito Federal, pelo prazo de até cinco anos, sem prejuízo das multas prevista neste edital. 13.2. As penalidades de natureza técnica, estabelecidas em acordo de nível de serviços, estão descritas no item 15 do Projeto Básico, Anexo I deste Edital. 13.3. Com fundamento nos artigos 86 e 87 da Lei nº 8.666/93 e no Decreto n° 3.555/00, a adjudicatária ficará sujeita, no caso de atraso injustificado, assim considerado pela Administração, execução parcial ou inexecução da obrigação, sem prejuízo das responsabilidades civil e criminal, assegurada a prévia e ampla defesa, às seguintes penalidades, cumulativamente ou não: 13.3.1 - advertência; 13.3.2 - multa de: a) 0,3% (três décimos por cento) ao dia sobre o valor da parcela não cumprida, no caso de atraso, limitado a 30 (trinta) dias; b) 0,5% (cinco décimos por cento) sobre o valor da nota de empenho, quando ocorrer recusa injustificada para retirá-la dentro do prazo estabelecido pela Administração; c) 15,0% (quinze por cento) sobre o valor contratado depois de decorridos 30 (trinta) dias de atraso, caracterizando-se, portanto, o descumprimento da obrigação assumida; 13.3.3 - suspensão temporária do direito de participar de licitação e impedimento de contratar com a Câmara Legislativa do Distrito Federal, pelo prazo de até dois anos; 13.3.4 - declaração de inidoneidade para licitar ou contratar com a Administração Pública. 13.4. Se o valor da multa não for recolhido pela contratada, será automaticamente descontado da primeira parcela do pagamento a que fizer jus. Em caso de inexistência ou insuficiência de crédito da Contratada, o valor devido será cobrado administrativamente e/ou inscrito como Dívida Ativa do Distrito Federal e cobrado judicialmente;
+
+10
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+13.5. Advertência é o aviso por escrito, emitido pelo CLDF quando a licitante/adjudicatária descumprir qualquer obrigação. 14. DO PAGAMENTO 14.1. Para efeito de pagamento, a CONTRATADA deverá apresentar os documentos abaixo relacionados: I ­ Certidão Negativa de Débitos ­ CND, emitida pelo INSS ­ Instituto Nacional de Seguridade Social, devidamente atualizada (Lei nº 8.212/91); II ­ Certificado de Regularidade do Fundo de Garantia por Tempo de Serviço ­ FGTS, fornecido pela CEF ­ Caixa Econômica Federal, devidamente atualizado (Lei nº 8.036/90); III ­ Certidão de Regularidade com a Fazenda do Distrito Federal ; IV ­ Atesto de entrega dos materiais, emitido pelo servidor/Setor competente da CLDF; 14.2. Os pagamentos serão efetuados de acordo com o disposto no item nº 10, alínea "b", da Portaria Conjunta SEF/SEPLAN nº 087/91, de 20.09.91, ou seja, até o 10º (décimo) dia útil da apresentação da nota fiscal/fatura devidamente atestada. 14.3. Passados 30 (trinta) dias sem o devido pagamento por parte da Administração, a parcela devida será atualizada monetariamente, desde o vencimento da obrigação até a data do efetivo pagamento de acordo com a variação "pro rata tempore" do INPC. 14.4. Nenhum pagamento será efetuado à licitante enquanto pendente de liquidação, qualquer etapa de cronograma ou obrigação que lhe for imposta, em virtude de penalidade ou inadimplência, sem que isso gere direito ao pleito de reajustamento de preços ou correção monetária (quando for o caso). 14.5. Caso haja multa por inadimplemento contratual, será adotado o seguinte procedimento: I ­ a multa será descontada do valor total do respectivo contrato; e II ­ se o valor da multa for superior ao valor devido pela prestação do serviço, responderá o contratado pela sua diferença a qual será descontada dos pagamentos eventualmente devidos pela Administração, ou ainda, quando for o caso, cobrada judicialmente. 15. DA IMPUGNAÇÃO DO ATO CONVOCATÓRIO 15.1. Até 02 (dois) dias úteis antes da data fixada para a sessão deste pregão, qualquer pessoa poderá solicitar esclarecimentos, providências ou impugnar o respectivo ato convocatório, cabendo ao Pregoeiro decidir sobre a petição em 24 horas. 15.2. As petições deverão ser formuladas por escrito, até 02 (dois) dias úteis antes da data da abertura da licitação, por carta ou fac-símile, no seguinte endereço: Sede da CLDF, Eixo Monumental, Praça Municipal, Quadra 02, Lote 05 - Térreo Inferior, CEP 70094-902, Fones/Fax: (061) 3348.8650; 3348.8651 ou 3348.8652 e-mail: cpl@cl.df.gov.br, em Brasília/DF, telefone: (61) 3348.8650 e fax (61) 3348.8651, de segunda a sexta-feira, das 09:30 às 12:00 horas e das 14:30 às 17:30 horas. Os pedidos de esclarecimentos serão respondidos apenas por escrito, se possível pelas mesmas vias, ressalvado que o Pregoeiro dará conhecimento das consultas às demais licitantes. 15.3. Caso a impugnação seja acolhida, será designada nova data para a realização do certame. 16. DOS RECURSOS ORÇAMENTÁRIOS 16.1 As despesas decorrentes do presente procedimento licitatório correrão à conta de dotação orçamentária própria da CLDF, Programa de Trabalho: 0103102541471 ­ Modernização do Sistema de informática; Subtítulo: 0006 ­ da CLDF; Elemento de Despesa: 3390-39 ­ Outros Serviços de Terceiros ­ Pessoa Jurídica. 17. DAS DISPOSIÇÕES FINAIS 17.1. Toda comunicação oficial se dará por e-mail, fax ou publicação na imprensa oficial. 17.2. A autoridade competente poderá, em qualquer fase do processo licitatório desclassificar a proposta da licitante que for declarada inidônea na área da Administração Pública. 17.3. Fica reservado à Câmara Legislativa do DF o direito de revogar a presente licitação por razões de interesse público decorrente de fato superveniente devidamente comprovado, devendo anulá-la por ilegalidade, de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente fundamentado conforme art. 49 da Lei nº 8.666/93.
+11
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+17.4. O contratado fica obrigado a aceitar nas mesmas condições contratuais, acréscimos ou supressões que se fizerem necessárias, até 25% (vinte e cinco por cento) do valor inicial, conforme art. 65, §§ 1º, 2º, inciso II da Lei nº 8.666/93. 17.5. Quaisquer tributos ou encargos legais criados, alterados ou extintos, bem como a superveniência de disposições legais, quando ocorridas após a data da apresentação da proposta, de comprovada repercussão nos preços contratados, implicarão na revisão destes para mais ou para menos, conforme o caso (Lei nº 8.666/93, art. 65, § 5º). 17.6. O foro para dirimir questões relativas ao presente edital, será o da circunscrição judiciária especial de Brasília­DF, com exclusão de qualquer outro, por mais privilegiado que seja. 17.7. Os casos omissos e demais dúvidas suscitadas serão dirimidas pelo Pregoeiro no endereço mencionado no preâmbulo. 17.8. Este edital poderá ser adquirido na Comissão Permanente de Licitação da Câmara Legislativa do Distrito Federal, nos dias de expediente, de 09:30 às 11:30h e das 14:00 à 17:00h, ao custo de R$ 0,10 (dez centavos) por página, mediante apresentação de comprovante de depósito bancário no Banco de Brasília ­ BRB, agência nº 0218, conta-corrente nº 800.110-3, em favor da Câmara Legislativa do Distrito Federal ou recebido via e-mail. Outras informações pelos telefones (61) 3348.8650, 3348.8651, 3348-8652 ou no endereço Eixo Monumental, Praça Municipal, Quadra 02, Lote 05 - Térreo Inferior, CEP: 70094-902. 17.9. Nenhuma indenização será devida às empresas licitantes pela elaboração de proposta ou apresentação de documentos relativos a esta licitação. 17.10. Em caso de divergência entre os termos deste Edital e de seus anexos, prevalecerão os do primeiro. 17.11. As normas que disciplinam este procedimento licitatório serão interpretadas em favor da ampliação da disputa entre os interessados, facultando-se ao Pregoeiro relevar erros meramente formais ou simples omissões em quaisquer documentos, para fins de habilitação e classificação do proponente, desde que sejam irrelevantes, não firam o entendimento das propostas e o ato não acarrete violação aos princípios básicos da licitação. Brasília, 08 de fevereiro de 2011.
+
+Carlos Eugênio Dias Marinho Pregoeiro
+
+12
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+ANEXO I Parte 1 Projeto Básico
+1. OBJETO 1.1. Contratação de empresa para prestação de serviços técnicos especializados de desenvolvimento e manutenção de sistemas, na área de Tecnologia da Informação ­ TI, com previsão de execução de 3.890 (três mil, oitocentos e noventa) pontos de função. 1.2. O escopo da contratação são as metas listadas abaixo conforme priorização definida no "Plano de Ações para o Biênio 2010/2011". Meta 1.1 1.6 1.7 1.8 3.1 3.5 3.11 3.17 3.18 3.20 Descrição Disponibilizar emendas de plenário e folhas de votação Disponibilizar pautas, atividades, atas, links e folha de votação das comissões Disponibilizar documentos nos termos previstos no AMD 15/2007 Disponibilizar ordem do dia e folha de votação de sessão plenária e redação do vencido Disponibilizar sistema de informação da Gestão de Planejamento Integrado da CLDF Disponibilizar sistema de informação para controle financeiro Disponibilizar sistemas de informação para controle de proposições Aperfeiçoar o sistema de informação de catalogação das normas jurídicas Aperfeiçoar o sistema de informação de apoio ao processo legislativo (LEGIS) Aperfeiçoar o sistema de informação de leis e atos legislativos ­ Legislação
+Tabela 1. Relação de sistemas
+
+1.3. 1.4.
+
+Essa lista pode ser alterada a qualquer tempo por decisão da Mesa Diretora, podendo sofrer supressões ou adições. O tamanho dos projetos foi estimado com base no método indicativo para a contagem de pontos de função desenvolvido pela NESMA ­ Nederland Software Metrieken Associatie para permitir uma contagem nos momentos iniciais do ciclo de vida de um sistema.
+
+2. JUSTIFICATIVA 2.1. Com a evolução dos processos internos da CLDF e a atualização tecnológica vivenciada pelos usuários nos últimos anos, tornou-se necessário o desenvolvimento de novos sistemas e a atualização dos já existentes para atender as necessidades de trabalho na Casa. Diante do cenário estratégico proposto pela Mesa Diretora, o GGTI ­ Grupo de Governança de Tecnologia de Informação ­ criou o Plano de Ações 2010-2011 da Coordenação de Modernização e Informática. Este documento apresenta uma relação dos sistemas priorizados estrategicamente pela Casa para o seu pleno funcionamento. Com as prioridades tecnológicas definidas, à SEASI ­ Seção de Administração de Sistemas ­ cabe o papel de desenvolver e atualizar os sistemas existentes, bem como integrar os sistemas a fim de prover os serviços necessários aos usuários. Durante a análise sobre desenvolver os sistemas internamente ou contratar empresas para desenvolvê-los externamente, a SEASI optou pela segunda opção, pois não tem equipe
+13
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+2.2.
+
+2.3.
+
+2.4.
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+suficiente para desenvolver tempestivamente alguns dos sistemas priorizados no Plano de Ações 2010-2011. 3. OBJETIVOS ESPERADOS COM A CONTRATAÇÃO Com essa contratação a CLDF traçou como objetivo: 3.1. 3.2. 3.3. 3.4. 3.5. 3.6. Aumento da capacidade de atendimento das demandas por sistemas das unidades da CLDF; Atendimento de sistemas previstos nas metas genéricas 1 e 3 no Plano de Ações 20102011; Entrega dos sistemas às unidades demandantes tempestivamente; Desenvolvimento da cultura da organização com a contratação de fábrica de software; Melhor dimensionamento do tamanho funcional dos sistemas e geração de base histórica que possibilite melhoria do processo de estimativa da CLDF; Emprego mais intensivo da tecnologia da informação nos processos de trabalho da CLDF de forma a melhorar a atuação das unidades organizacionais.
+
+4. TIPOS DE SERVIÇOS A SEREM CONTRATADOS 4.1. 4.2. 4.2.1. O processo de aquisição deste serviço de fábrica de software se baseia no item 5.1 da Norma ABNT NBR ISO/IEC12207 ­ Processos de Ciclo de Vida de Software. Poderão ser contratados os serviços abaixo: Serviços de Desenvolvimento de Novos Sistemas de Informação Correspondem ao desenvolvimento de novos sistemas de informação, a partir de especificações estabelecidas ou validadas pela CLDF, aplicando os procedimentos necessários à garantia da qualidade para desenvolvimento de sistemas. Serviços de Manutenção de Sistemas de Informação São modificações em sistemas já existentes, em produção, com o objetivo de prevenção, correção de falhas, implementação de melhorias ou adaptações, classificadas conforme abaixo: Manutenção Corretiva - Consiste na correção de defeitos em sistemas em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento do sistema e quaisquer desvios em relação aos requisitos aprovados pelo Gestor. Os custos de manutenção corretiva são de responsabilidade da CONTRATADA, durante o período de garantia do sistema, coforme o item 25 do presente Projeto Básico. Após esse período, os defeitos encontrados serão corrigidos diretamente pela CLDF ou por meio da abertura de OS para corrigi-los. Manutenção Adaptativa - Adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e sistema gerenciador de banco de dados - SGBD, que não impliquem em inserção, alteração ou exclusão de funcionalidades. Manutenção Evolutiva - Corresponde a inclusão, alteração e exclusão de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio e/ou demandas legais. 4.3. A CONTRATADA será responsável por todas as fases e disciplinas do projeto, exceto pela criação do documento de Visão e pela disponibilização do sistema ou melhoria desenvolvida em ambiente de produção.
+14
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+4.2.2.
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 4.4.
+
+11.868
+
+A elaboração de documentação referente aos serviços de desenvolvimento ou manutenção realizados pela CONTRATADA é obrigatória e sem custo adicional à CLDF.
+
+5. MEDIÇÃO E CUSTOS DOS SERVIÇOS 5.1. Os serviços terão seus valores definidos com base no tamanho da demanda, mensurado por meio da técnica de Análise de Pontos de Função, utilizando a metodologia descrita na versão 4.2.1 do Manual de Práticas de Contagens por Pontos de Função (Function Point Counting Practices Manual Release 4.2.1), publicado pelo IFPUG (International Function Point Users Group, www.ifpug.org). A CLDF adotará a técnica definida pela NESMA para a realização de contagens por tipo indicativa e estimada. A CLDF adotará as adaptações da parte 2 deste anexo para realizar todas as contagens de pontos de função. Mesmo no caso de ser utilizada uma nova versão do Manual, o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um). A CLDF fará a contagem de pontos de função indicativa de um sistema com base no escopo definido no documento de Visão. A CLDF desmembrará o escopo de projeto em uma ou mais OSs, definindo assim a ordem de implementação das funcionalidades do projeto. Para cada OS finalizada e aceita, a CONTRATADA realizará a contagem estimada do projeto e a contagem detalhada das funcionalidades da OS; A CLDF validará as contagens apresentadas pela CONTRATADA; A CLDF pagará pela OS a quantidade de pontos de função encontrados na contagem detalhada, descontados os pontos das funções existentes nesta OS já contados e pagos em OSs anteriores.
+
+5.2. 5.3. 5.4. 5.5. 5.6. 5.7. 5.8. 5.9.
+
+5.10. Qualquer serviço que implique em alteração do número de pontos de função contratados deverá ser previa e expressamente aprovado pela CLDF conforme processo de solicitação de mudança descrito no item 9. 5.11. As mudanças de escopo que ocorrerem sobre funcionalidades do projeto já desenvolvidas devem seguir as determinações da parte 2 deste anexo. 5.12. O pagamento das mudanças de escopo que ocorrerem sobre funcionalidades do projeto já desenvolvidas serão pagas de acordo com o cálculo de alteração de escopo presente na parte 2 deste anexo. 5.13. Os serviços relacionados ao presente Contrato serão definidos em Ordens de Serviço ­ OS. O custo de cada OS será definido pela seguinte fórmula: COS = ( QtdPF x PPF ) Onde: COS = Custo da OS QtdPF = Quantidade de pontos de função obtidos de acordo com o item 5.9. PPF = Preço do ponto de função da CONTRATADA. 6. ARTEFATOS A SEREM PRODUZIDOS A CONTRATADA deverá entregar os seguintes artefatos: 6.1. Gerenciamento de Projeto
+15
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011    6.2.     6.3.      6.4.     6.5.    6.6.    Atas de Reuniões Termo de Entrega Cronograma da OS com linha de base
+
+11.868
+
+Requisitos Diagrama de casos de uso Detalhamento dos casos de uso Especificação suplementar Glossário
+
+Projeto de software (análise e design) Diagrama de classes Modelo de entidade e relacionamento Dicionário de dados Documento de arquitetura do sistema Protótipo
+
+Construção de software Programas-fonte Builds e componentes Javadoc Manual do usuário
+
+Teste (de software, de sistema e de integração) Plano de testes Casos de teste automatizados Programas-fonte de testes de unidade e de integração
+
+Implantação Plano de implantação Scripts de criação do banco de dados para os ambientes de desenvolvimento, homologação e produção; Scripts de instalação e configuração do desenvolvimento, homologação e produção. sistema para os ambientes de
+
+7. REGRAS PARA EXECUÇÃO DOS SERVIÇOS 7.1. 7.2. 7.3. 7.4. As regras de negócio devem ser descritas nos casos de uso; A CONTRATADA deve obter a homologação dos casos de uso e casos de teste antes de envidar esforços no desenvolvimento do código do projeto; Os diagramas de classes deverão ser entregue apenas em nível de análise; Os comentários do código devem informar qual o objetivo daquele código e não descrever o que está sendo feito no código;
+
+16
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 7.5. 7.6. 7.7. 7.7.1. 7.7.2. 7.7.3. 7.7.4. 7.8. 7.9.
+
+11.868
+
+A CONTRATADA deverá seguir o guia de programação da CLDF para desenvolver os códigos-fonte dos sistemas; Ao refatorar um código, os seus comentários devem ser atualizados, quando necessário; A CLDF realizará a revisão do código da CONTRATADA por amostragem; A CLDF utilizará ferramentas de análise estática para auxiliar o processo de revisão de código, tais como PMD, FindBugs, entre outras; Os erros apontados pela CLDF deverão ser corrigidos pela CONTRATADA, que deverá disponibilizar nova versão do código para nova avaliação; Os erros e não-conformidades apontados nessas revisões somente serão aceitos sem correção após justificativa por escrito da CONTRATADA e concordância da CLDF; Códigos considerados de difícil manutenção e entendimento deverão ser refatorados e seguiram o mesmo processo do item 7.7.2 e 7.7.3; A cobertura de testes será observada pela CLDF com base nos testes funcionais e nos testes unitários; Os casos de teste devem refletir todos os fluxos dos casos de uso;
+
+7.10. A CONTRATADA deverá desenvolver os casos de teste na ferramenta FIT ou outra equivalente; caso a CONTRATADA deseje utilizar outra ferramenta para criação e execução dos casos de teste, ela deverá fornecer à CLDF a ferramenta e suas licenças sem custos; 7.11. A CONTRATADA deverá fornecer todos os artefatos de testes para a CDLF; 7.12. A CLDF poderá utilizar ferramentas para teste da interface dos sistemas, tais como: Selenium e JMeter; 7.13. Semanalmente a CONTRATADA deve disponibilizar, em servidor SVN (Apache Subversion) ou Mercurial, um build do código-fonte desenvolvido durante a semana. A CLDF utilizará esse código para analisar a qualidade do produto que está sendo desenvolvido; 8. FLUXO DE EXECUÇÃO E HOMOLOGAÇÃO DOS SERVIÇOS 8.1. 8.2. 8.3. 8.4. 8.5. 8.6. A CLDF definirá o escopo dos projetos a serem desenvolvidos e os documentará no documento de Visão do projeto; Com base na definição do escopo, a CLDF abrirá as ordens de serviço contendo funcionalidades a serem desenvolvidas; A CONTRATADA avalia a demanda e aceita a OS; A CONTRATADA executa os serviços necessários e entrega os artefatos produzidos para homologação; A CLDF homologa os artefatos recebidos; Os passos 8.4 e 8.5 serão realizados para os artefatos de todas as disciplinas da engenharia de software solicitados no item 6 e se repetirá até que todas as funcionalidades previstas na OS sejam implementadas e finalizadas; Quaisquer negociações acerca dos serviços demandados, inclusive divergências na contagem de pontos de função e não-conformidades identificadas pela CLDF nos passos do fluxo operacional, serão conduzidas por meio de reuniões entre o Gerente de Projeto da CLDF e o Preposto da CONTRATADA e quando o assunto requerer, com a presença do Especialista em Métricas. As decisões serão formalmente registradas em Ata de Reunião, respeitando os níveis de serviços estabelecidos no presente Projeto Básico.
+17
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+8.7.
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 8.8.
+
+11.868
+
+A CLDF terá prazo de até 30% (trinta por cento) do prazo acordado para a execução da OS para homologar a demanda. Não-conformidades identificadas na homologação dos artefatos serão corrigidas pela CONTRATADA, sem ônus para a CLDF, num prazo de até 20% (vinte por cento) do prazo acordado para a execução da OS. O aceite definitivo e liberação da OS para faturamento não eximem a CONTRATADA de responsabilidade pela garantia do produto, conforme definida no item 25.
+
+8.9.
+
+9. GESTÃO DE MUDANÇAS 9.1. 9.2. 9.3. 9.4. O processo de gestão de mudanças deve ser utilizado para manter o controle sobre o escopo do projeto; O processo de mudança pode ser disparado pela CMI ou pela CONTRATADA; Ao iniciar o projeto, a partir do documento de Visão, uma linha de base de requisitos será traçada pela CMI; Ao identificar uma mudança no escopo, o solicitante (CLDF ou CONTRATADA) deverá apresentar uma solicitação de mudanças, especificando o que será alterado no escopo do projeto, as possíveis áreas afetadas e uma estimativa do tamanho funcional da mudança, levando em consideração o que já foi implementado no projeto. A requisição de mudança deverá ser aprovada pela unidade gestora do projeto e pela CMI; A CONTRATADA e a CMI farão uma análise de custo-benefício para decidir se a mudança será implementada como parte de alguma OS em andamento ou se ela será realizada em uma próxima OS; Se a decisão tomada for pela implementação da mudança em uma próxima OS, o escopo previsto na solicitação de mudança deve ser adicionado a uma lista de funcionalidades a serem desenvolvidas nas próximas OS. Se a decisão for pela inclusão do escopo previsto na solicitação de mudança em alguma OS em andamento, a CONTRATADA deve realizar uma avaliação do impacto no prazo e apresentar o cronograma atualizado com esse impacto, caso exista. Após a aprovação, a CMI deve atualizar a linha de base do escopo do projeto, bem como os documentos do projeto relacionados à solicitação de mudança e de gerenciamento de projetos. Se houver alteração na linha de base do cronograma de alguma OS em andamento, a CONTRATADA deve atualizar o prazo de término previsto na OS. Depois disso, a solicitação de mudança estará incorporada ao projeto e deverá seguir as regras de execução dos serviços descritas em 7.
+
+9.5. 9.6.
+
+9.6.1.
+
+9.6.2.
+
+9.7.
+
+9.8. 9.9.
+
+9.10. As solicitações de mudanças não aprovadas serão arquivadas juntamente com os motivos que justificaram o arquivamento. 10. PAGAMENTO DOS SERVIÇOS 10.1. A CLDF pagará a CONTRATADA somente as ordens de serviço com termo de aceite definitivo assinado pelo gerente de projetos da CLDF e pelo usuário gestor. 10.2. Mensalmente, a CONTRATADA consolidará as OS com estado de aceite definitivo, concluídas entre o dia 21 do mês anterior e o dia 20 do mês corrente e entregará à CLDF relatório detalhado dos serviços prestados e dos níveis de serviço realizados, juntamente com a correspondente Pré-Fatura. 10.3. A CLDF terá prazo de 5 (cinco) dias úteis para aprovar ou rejeitar a Pré-Fatura, neste último caso, apontando os pontos não conformes, para correção pela CONTRATADA.
+18
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+10.4. A CLDF apontará os pontos nos quais os acordos de nível de serviço não foram atendidos e aplicará as devidas sanções, quando for o caso, conforme descrito no item 15. 10.5. O valor de cada OS será calculado conforme fórmula apresentada em 5.13. 10.6. Depois de aprovada a Pré-Fatura, a CONTRATADA emitirá Nota Fiscal detalhando os serviços executados, quantitativos e valores e a CLDF efetuará o pagamento num prazo de até 10 (dez) dias úteis. 11. AMBIENTE COMPUTACIONAL DA CLDF 11.1. O ambiente computacional a ser utilizado para a implantação dos sistemas será o existente atualmente nas dependências da CLDF. 11.2. Ambiente virtualizado de servidores, divididos em ambientes de produção, homologação e desenvolvimento, sendo que para cada um dos ambientes haverá um servidor virtual. 11.3. Ambientes virtuais Microsoft Hyper V e VM Ware ESXi 4 ou superior; 11.4. Os servidores de aplicação serão instalados em ambiente virtualizado compatíveis com o sistema operacional Windows 2008 Enterprise ou Red Hat Linux 64bits Enterprise Server 4 ou superior. 11.5. Sistema operacional das estações de trabalho MICROSOFT XP e Vista; 11.6. Os computadores dos usuários são padrão IBM-PC e plataforma Intel; 12. ARQUITETURA DOS SISTEMAS 12.1. As especificações relativas à arquitetura dos sistemas estão descritas no Anexo III Arquitetura dos Sistemas; 13. INICIO DOS SERVIÇOS 13.1. A CLDF e a CONTRATADA definirão, antes do início dos serviços, quais ferramentas de software deverão ser usadas para a geração dos artefatos da OS. 13.2. A CLDF se baseia no uso de ferramentas open source para a criação de seus artefatos de software. 13.3. Para a criação de documentos, planilhas, apresentações e documentos de escritório em geral, a CLDF utiliza o Microsoft Office versão 2007, portanto a CONTRATADA deverá entregar esses arquivos neste formato. 13.4. O cronograma das OS deve ser entregue no formato do MS-Project 2007 ou em outro que possa ser importado por essa ferramenta. 13.5. Caso a CONTRATADA utilize ferramentas CASE, para modelagem, desenvolvimento, testes ou outra disciplina, que necessite de licença específica para a sua utilização, a CONTRATADA deverá fornecer tal licença para a CLDF sem ônus. 13.6. No início dos serviços haverá reuniões entre e a CLDF e a CONTRATADA para apresentação dos modelos, padrões e checklists a serem utilizados durante o desenvolvimento das OSs. 13.7. Os pontos acertados serão documentados e poderão ser revistos, na abertura de cada OS, com o objetivo de melhorar o processo de desenvolvimento. 14. CRITÉRIOS DE ACEITAÇÃO 14.1. A CONTRATADA deverá garantir:
+
+19
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+14.1.1. Entrega de serviços e produtos demandados nos prazos acordados nas respectivas OS; 14.1.2. A qualidade dos artefatos entregues: documentos nos formatos e padrões estabelecidos, produtos de software aderentes às especificações e sem erros de codificação; 14.2. Os produtos de software deverão atender aos seguintes requisitos de qualidade, baseados na norma ABNT NBR ISO/IEC 9126 ­ Qualidade do Produto de Software: 14.2.1. Usabilidade: o sistema deverá ser fácil de entender em relação aos conceitos utilizados, de aprender, de usar e controlar a operação; 14.2.2. Facilidade de manutenção: o código fonte do software deverá ser bem estruturado e documentado visando pouco esforço para fazer alterações corretivas, adaptativas e/ou evolutivas. Não devem ser utilizados componentes proprietários que não possuam fontes disponíveis ou que requeiram licenças pagas para a sua utilização; 14.2.3. Confiabilidade: o sistema não deverá apresentar falha e se ocorrer, deverá ter capacidade de recuperação de dados e manutenção do nível de desempenho requerido; 14.2.4. Desempenho: o sistema deve apresentar velocidade de execução de suas funcionalidades aceitável para os usuários da CLDF. No início de cada projeto, será definido também o grau de desempenho necessário para satisfazer as necessidades dos usuários. Essa informação deverá ser documentada em documento de requisitos não funcionais; 15. ACORDOS DE NÍVEL DE SERVIÇO 15.1. Acordos de nível de serviço são aqueles formalmente definidos entre um fornecedor de serviços e o Cliente, com o objetivo de estabelecer compromissos que devem ser cumpridos pelas partes, a fim de garantir o prazo, a qualidade e as condições comerciais dos serviços, além da satisfação final do Cliente. 15.2. Definições de nível de serviço para prazos 15.2.1. Prazos de atendimento para serviços de desenvolvimento de novos sistemas e manutenção adaptativa 15.2.2. Os prazos de atendimento de serviços de desenvolvimento de novos sistemas e manutenção adaptativa serão acordados no cronograma da OS. 15.2.3. Os cronogramas apresentados pela CONTRATADA deverão apresentar prazos para correção dos artefatos apresentados à CLDF para validação. 15.3. As manutenções corretivas deverão ser iniciadas pela CONTRATADA conforme os prazos apresentados na Tabela 2. Prazo para execução dos serviços 8 horas úteis 3 dias úteis 10 dias úteis
+
+Categoria do serviço
+
+Severidade Alta
+
+Manutenção corretiva (No período de garantia)
+Tabela 2.
+
+Média Baixa
+
+Prazos para execução dos serviços
+
+15.3.1. Será considerado o horário de trabalho da CLDF para o cálculo dos prazos de execução; 15.3.2. O prazo para as manutenções corretivas começará a ser contado a partir da notificação da CONTRATADA pela CLDF; 15.3.3. Uma manutenção corretiva será classificada como:
+20
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+15.3.4. Alta caso o problema que a motivou interrompa o processo de trabalho. 15.3.5. Média caso o problema que a motivou interrompa o processo de trabalho, mas exista outra solução temporária para o problema. 15.3.6. Baixa caso o problema que a motivou não interrompa o processo de trabalho. 15.4. A CONTRATADA deverá atender, para todas as OS encaminhadas na vigência do presente Contrato, os indicadores de Nível de Serviço apresentados a seguir: Indicador de Atraso na Entrega Descrição: Aferição: Mecanismo de cálculo: Mede os atrasos ocorridos nas entregas de produtos e artefatos acordados nas OS. Pela CLDF, no aceite final da OS IAE = (PEE ­ PPE ) ÷ PPE x 100 Onde: IAE = Índice de atraso na entrega; PEE = Prazo efetivo de entrega, em dias; PPE = Prazo previsto de entrega na OS, em dias. Nível esperado: IAE Desejável: = 0 % (zero por cento); IAE Aceitável:  5 % (até cinco por cento); IAE Indesejado: > 5 % (acima de cinco por cento). Penalidades: IAE Desejável: Nenhuma; IAE Aceitável: Advertência; IAE Indesejado: Multa de acordo com o art. 4º do Decreto Distrital 26.993/2006. Auditoria: Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e níveis de serviços prestados.
+
+Indicador de não-conformidades com requisitos Descrição: Aferição: Mecanismo de cálculo: Mede as implementações que estejam em desacordo com os requisitos estabelecidos ou com as especificações do sistema. Pela CLDF, durante a homologação dos serviços INC = QNC ÷ TPF Onde: INC = Índice de não-conformidades; QNC = Quantidade de não-conformidades aferidas; TPF = Tamanho do serviço em pontos de função. Nível esperado: INC Desejável: = 0; INC Aceitável:  0,1 não-conformidades/pontos de função; INC Indesejado: > 0,1 não-conformidades/pontos de função;
+
+21
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 Penalidades: INC Desejável: Nenhuma; INC Aceitável: Advertência;
+
+11.868
+
+INC Indesejado: glosa de 5 % (cinco por cento) no valor da OS correspondente, a título de compensação à CLDF pelo retrabalho na atividade de homologação. Auditoria: Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e níveis de serviços prestados.
+
+Indicador de Erros de Operação Descrição: Aferição: Fórmula: Mede as falhas ou funcionamentos irregulares identificados na operação normal do produto. Pela CLDF, durante a homologação dos serviços IEO = QEO ÷ TPF Onde: IEO = Índice de erros de operação; QEO = Quantidade de erros encontrados; TPF = Tamanho do serviço em pontos de função. Nível esperado: IEO Desejável: = 0; IEO Aceitável:  0,3 erros/pontos de função; IEO Indesejado: > 0,3 erros/pontos de função; Penalidades: IEO Desejável: Nenhuma; IEO Aceitável: Advertência; IEO Indesejado: glosa de 5 % (cinco por cento) no valor da OS correspondente para cada entrega realizada. Auditoria: Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e níveis de serviços prestados.
+
+Indicador de quantidade de entregas de correção para uma Entrega Principal Descrição: Aferição: Periodicidade Início da vigência Mecanismo de cálculo: Nível esperado: Mede a quantidade de entregas necessárias para se obter uma entrega principal aceita pela CLDF. Pela CLDF, durante a homologação dos serviços. A cada ordem de serviço A partir da segunda OS Número de entregas de correção para uma entrega principal = X. Considera-se entrega principal aquela prevista como sendo a última para finalização da OS. INC Desejável: X = 0; INC Aceitável: X < 3; INC Indesejado: X > 3; Penalidades: INC Desejável: Nenhuma; INC Aceitável: Advertência; INC Indesejado: glosa de 10% no valor da OS correspondente.
+22
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 Auditoria: Fiscalização contratual
+
+11.868
+
+Indicador de cobertura de testes automatizados do projeto Descrição: Aferição: Periodicidade Início da vigência Mecanismo de cálculo: Nível esperado: Mede a cobertura geral de testes automatizados do projeto Pela CLDF, por Inspeção manual ou por verificação de relatório de ferramenta de análise de cobertura de testes ­ Sonar A cada ordem de serviço A partir da primeira OS Avaliação da ferramenta SONAR http://www.sonarsource.org, parâmetro line coverage IC Desejável: Entre 70 e 100% IC Aceitável: entre 55 e 69% de teste de unidade implementados; IC Indesejado: entre 40 e 54% de testes unitários para o código desenvolvido. IC Inaceitável: menor que 40% de testes unitários para o código desenvolvido. Faixas de ajuste no pagamento: IC Desejável: 100% do pagamento da OS IC Aceitável: Redução de 15% no valor da OS; IC Indesejado: Redução de 25% no valor da OS; IC Inaceitável: Não recebimento da OS. A CONTRATADA deverá refazer os testes do projeto antes de enviar a OS novamente para avaliação da CLDF;
+Tabela 3. Indicadores
+
+15.5. Reincidências de não conformidades na homologação de uma única OS acima de 3 (três) vezes serão passíveis de multas, em conformidade com o Art.58, inciso IV, da Lei 8666/93. 15.6. Havendo aplicação de multas em mais de 30% das OSs, de acordo com o item anterior, apurado nos últimos 6 (seis) meses, a CLDF poderá rescindir o contrato unilateralmente em conformidade com o Art.58, inciso II, da Lei 8666/93. 15.7. As penalidades previstas são cumulativas até o limite do valor da OS. 16. PRAZO DE EXECUÇÃO DO PROJETO 16.1. O projeto deverá ser desenvolvido no prazo de 2 (dois) anos, prorrogável na forma da lei. 17. LOCAL DE EXECUÇÃO DOS SERVIÇOS 17.1. Os serviços serão executados nas instalações da CONTRATADA, que deverá alocar Preposto para se relacionar com a CLDF e cumprir as suas atribuições previstas neste Projeto Básico. 18. FORMA DE PAGAMENTO DOS SERVIÇOS 18.1. Os serviços executados serão pagos ao término da OS.
+
+23
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 19. EXIGÊNCIAS TÉCNICAS
+
+11.868
+
+19.1. Apresentar atestados de capacidade técnica expedidos por pessoa jurídica de direito público ou privado, no somatório total de pontos de função, que comprovem: 19.1.1. Execução de serviços técnicos especializados em desenvolvimento de software com pelo menos 70% dos pontos de função previstos no item 1.1 desse projeto básico. A tecnologia usada no desenvolvimento deve ser a plataforma Java, arquitetura Java EE, Framework Spring e Hibernate envolvendo pelo menos os ciclos de software para análise funcional/ negócio (UML), análise / desenvolvimento de programas, arquitetura de soluções e testes de aplicações; 19.1.2. Execução de serviços técnicos de software utilizando regime de fábrica de software utilizando metodologia compatível com UP (Unified Process) ou processos ágeis, orientação a objetos e UML; 19.1.3. Execução de serviços de software apoiados por metodologia de gerenciamento de projetos baseada no PMBOK (Project Management Body of Knowledge) e com tamanho funcional definido por meio de análise por ponto de função; 19.1.4. O atestado deve ser apresentado conforme modelo apresentado no anexo IV - Atestado de capacidade técnica; 19.2. Apresentar planilha de custo conforme o modelo apresentado anexo V ­ Custo e produtividade da equipe. 19.3. A CONTRATANTE poderá, a qualquer fase deste processo licitatório, promover diligências com vistas a esclarecer ou a complementar a instrução do processo, obrigando as licitantes a prestar todos os esclarecimentos necessários. 19.4. No caso de atestados emitidos por empresa da iniciativa privada, não serão considerados aqueles emitidos entre empresas pertencentes ao mesmo grupo empresarial da empresa proponente. Serão considerados como pertencentes ao mesmo grupo empresarial, empresas controladas ou controladoras da empresa proponente, ou que tenha pelo menos uma mesma pessoa física ou jurídica que seja sócio da empresa emitente e da empresa proponente. 19.5. Comprovar Patrimônio Líquido não inferior a 5% (cinco por cento) do valor proposta. 19.6. Alocar Preposto, com experiência comprovada em gerenciamento de projetos de desenvolvimento de sistemas, para exercer as seguintes atribuições: receber serviços, aceitar os serviços demandados, participar de reuniões, entregar produtos, assinar documentos, apresentar relatórios de progresso e de níveis de serviço e pré-faturas e efetuar quaisquer atividades relacionadas com a gestão do presente contrato, se apresentando na sede da CLDF sempre que convocado.
+
+19.7. Alocar Especialista em Métricas, com domínio da técnica de Análise de Pontos de Função, utilizando a metodologia descrita na versão 4.2.1 do Manual de Práticas de Contagens por Pontos de Função, com experiência comprovada para exercer as seguintes atribuições: efetuar contagem de ponto de função, prestar esclarecimentos sobre a técnica de contagem de ponto de função, participar de reuniões para discussão e revisão de métricas, realizar atividades relacionadas a métrica de serviços e a metodologia de Análise de Pontos de Função.
+19.8. A critério da CONTRATADA, o Preposto e o Especialista em Métricas poderão ser a mesma pessoa, desde que atenda aos requisitos exigidos. 19.9. Executar os serviços e entregar os produtos respeitando as especificações, padrões de qualidade e níveis de serviço definidos no presente Projeto Básico.
+
+24
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+19.10. Prover sistema para gestão de Ordens de Serviços (OS), que permita automatizar o fluxo operacional, manter os dados da OS e gerar relatórios de andamento das demandas, com as seguintes características: 19.10.1. Inclusão e consulta de ordens de serviços; 19.10.2. Registro do dimensionamento de demandas e prazo para entrega; 19.10.3. Aprovação de ordens de serviços registradas; 19.10.4. Consulta do andamento das OSs; 19.10.5. Possibilidade de anexar arquivos a OS; 19.10.6. Emissão de relatórios com múltiplos critérios de seleção (filtros); 19.11. Prover sistema para gestão de Erros/Defeitos, que permita automatizar o fluxo operacional, de correção manter os dados da OS e gerar relatórios de andamento das demandas, com as seguintes características: 19.11.1. Registro de ocorrências de forma simples (rápida) ou detalhada; 19.11.2. Notificação automática de status (envio automático de e-mail para usuário responsável pelo cadastramento da ocorrência); 19.11.3. Possibilidade de anexar arquivos à Ocorrência; 19.11.4. Localização de ocorrências através de busca textual e filtros simples / avançados; 19.11.5. Resposta automática, via e-mail, de solução da ocorrência para usuário responsável pelo cadastramento da ocorrência; 19.12. Todas as ferramentas previamente citadas deverão: 19.12.1. Possuir controle de acesso com login e senha individual por usuário 19.12.2. Ser implementadas em ambiente WEB e disponibilizadas para uso através da internet com acesso compatível com os navegadores Internet Explorer (no mínimo com a versão 7.0) ou Mozilla Firefox (no mínimo com a versão 3.5) 19.12.3. Ser, preferencialmente, software livre ou, se proprietário, a empresa deverá prover as devidas licenças de uso para a CONTRATANTE das licenças necessárias para o acompanhamento das atividades da CONTRATADA. 20. SUBCONTRATAÇÃO 20.1. Nos termos do art. 72, da Lei nº 8.666/93, a CONTRATADA não poderá subcontratar quaisquer partes do serviço a serem desenvolvidos. 21. PROVA DE CONCEITO 21.1. A empresa vencedora do certame deverá realizar uma prova de conceito a fim de se averiguar se ela realmente é capaz de desenvolver os serviços com a qualidade prevista e de acordo com a arquitetura selecionada pela CMI. 21.2. A empresa vencedora deverá desenvolver um projeto simples levando em consideração a arquitetura prevista no anexo III ­ Arquitetura de Sistemas. 21.3. O projeto será o desenvolvimento de um cadastro simples persistindo as informações em duas tabelas com relacionamento 1 (um) para N. A tabela 1 será chamada de tabela principal, enquanto a tabela N será chamada de tabela filha; 21.4. Um dos campos da tabela principal deverá ser preenchido com informações de outra tabela com relacionamento também de 1 (um) para N com a tabela principal. Essa tabela será chamada de tabela auxiliar;
+25
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+21.5. No formulário de cadastramento das informações da tabela principal, o campo previsto no item anterior terá as informações da tabela auxiliar apresentadas por meio de um combo. 21.6. O projeto deve permitir a inclusão, alteração, consulta e exclusão das informações da tabela principal do projeto; 21.7. O projeto deve permitir a inclusão, alteração, consulta e exclusão das informações da tabela filha; 21.8. O projeto deve atingir o nível desejável do Indicador de Cobertura de Testes Automatizados do projeto previsto no item 15.4. 21.9. Como documentação, a empresa vencedora deverá entregar os seguintes artefatos: 21.9.1. Diagrama de casos de uso; 21.9.2. Especificação de casos de uso; 21.9.3. Diagrama de classes; 21.9.4. Modelo de entidade e relacionamento 21.9.5. Dicionário de dados 21.9.6. Programas-fonte 21.9.7. Casos de teste automatizados 21.9.8. Programas-fonte de testes de unidade e de integração 21.10. Os campos de cada tabela serão definidos no primeiro dia da execução da prova de conceito; 21.11. A empresa vencedora terá o prazo de 5 dias úteis para realizar o projeto; 21.12. Caso haja esclarecimentos necessários para a execução da prova de conceito, a empresa vencedora terá um dia para solucioná-los junto à CMI; 21.13. O sistema resultante da prova de conceito deverá funcionar em um servidor da CMI conforme a especificação prevista no anexo III ­ Arquitetura de Sistemas. 21.14. Caso a empresa vencedora não consiga implementar a prova de conceito de acordo com as características acima, ela será desclassificada e a próxima empresa classificada será chamada para a realização dessa prova de conceito. 22. OBRIGAÇÕES DA CONTRATADA 22.1. Executar as ordens de serviço designadas em prazo não superior ao máximo estipulado neste edital e seus anexos. 22.2. Ceder à CLDF, nos termos do artigo 111 da Lei n.º 8.666/93, c/c o artigo 4º da Lei n.º 9.609/98, o direito patrimonial, a propriedade intelectual de toda e qualquer documentação e produto gerados, logo após o recebimento definitivo dos serviços prestados. 22.3. Manter sigilo dos dados e informações confidenciais a que tiverem acesso. 22.3.1. Todo empregado da CONTRATADA diretamente envolvido nos trabalhos relacionados a esse projeto básico, inclusive seu representante legal, deverão assinar termo de compromisso contendo declaração de manutenção de sigilo e ciência das normas de segurança vigentes na CLDF; 22.4. Manter os seus técnicos sujeitos às normas disciplinares da CLDF, porém sem qualquer vínculo empregatício com o órgão. 22.5. Respeitar as normas e procedimentos de segurança da CLDF.
+
+26
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+22.6. Iniciar a execução dos serviços no prazo máximo de 7 (sete) dias úteis contados do recebimento da ordem de serviço. 22.7. Realizar reuniões de ponto de controle entre a CONTRATADA e a CLDF, nas dependências desta, destinadas ao acompanhamento da execução dos serviços, observando o seguinte: 22.7.1. Periodicidade quinzenal; 22.7.2. Presença obrigatória do gerente de projetos indicado pela CONTRATADA e o responsável técnico ou gerente de projetos da CLDF 22.7.3. Presença de quaisquer dos demais profissionais da CONTRATADA, caso solicitado pela CONTRATADA ou pela CLDF; 22.8. Serão objetos de deliberação, entre outros: 22.8.1. Cronograma de execução das OSs; 22.8.2. Solicitações de mudanças; 22.8.3. Acompanhamento das OSs em execução. 22.9. Elaborar e entregar todos os artefatos relacionados no item 6. 22.10. Prestar garantia aos produtos e serviços fornecidos de acordo com o item 25. 22.10.1. Os serviços de garantia serão solicitados por meio de chamado efetuado pela CMI e encaminhado à CONTRATADA; 22.11. Encaminhar, quando do término da Ordem de Serviço, relatório acompanhado da respectiva fatura, relacionando: 22.11.1. Identificação dos produtos concluídos, ou seja, aqueles entregues e aprovados pelo gerente técnico da CLDF; 22.12. Responder por quaisquer danos causados diretamente aos equipamentos, softwares, informações e a outros bens de propriedade da CLDF, quando esses tenham sido ocasionados por seus técnicos durante a prestação dos serviços objeto desta contratação. 22.13. Responder, integralmente, por perdas e danos que vier a causar diretamente à CLDF ou a terceiros em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, independentemente de outras cominações contratuais ou legais a que estiver sujeita. 22.14. Responder pelas despesas relativas a encargos trabalhistas, de seguro de acidentes, impostos, contribuições previdenciárias e quaisquer outras que forem devidas e referentes aos serviços executados por seus empregados, os quais não têm nenhum vínculo empregatício com a CLDF. 22.15. A CONTRATADA não será responsável: 22.15.1. Por qualquer perda ou dano resultante de caso fortuito ou força maior; 22.15.2. Por quaisquer obrigações, responsabilidades, trabalhos ou serviços não previstos neste edital. 22.16. A CLDF não aceitará, sob nenhum pretexto, a transferência de responsabilidade da CONTRATADA para terceiros, sejam fabricantes, representantes ou quaisquer outros. 23. OBRIGAÇÕES DA CLDF 23.1. Encaminhar toda a documentação necessária para a precisa especificação dos requisitos, na emissão das OS. 23.2. Manter pessoal técnico especializado para prestar esclarecimentos sobre os processos de negócio e requisitos das OS emitidas.
+27
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+23.3. Efetuar a homologação, dar aceite definitivo e pagar os serviços nos prazos estabelecidos no presente termo. 23.4. Conceder, quando necessário para a execução dos serviços, acesso aos prepostos da CONTRATADA. 24. PROPRIEDADE DO SOFTWARE, PRODUTOS E SERVIÇOS 24.1. Serão de propriedade da CLDF todos os produtos gerados na vigência deste contrato, incluindo os dados, documentos e elementos de informação de qualquer natureza e aplicação, tais como produtos de softwares, programas-fonte, classes e componentes, relatórios, diagramas, fluxogramas, modelos e arquivos, em conformidade com o artigo 111 da Lei 8666/93, com a Lei 9609/98, que dispõe sobre propriedade intelectual de programa de computador e com a Lei 9610/98, que dispõe sobre direito autoral, sendo vedada qualquer comercialização destes por parte da CONTRATADA. 24.2. A CONTRATADA se compromete ainda, em conformidade com o parágrafo único do artigo 111 da Lei 8666/93, repassar para a CLDF e/ou para outra empresa por esta indicada, todo o conhecimento e técnicas utilizados na execução dos serviços. 25. GARANTIA 25.1. Os produtos e serviços decorrentes da presente contratação deverão ter garantia de 90 (noventa) dias, contados a partir da homologação e aceite definitivo dos serviços, dentro dos quais a CONTRATADA corrigirá os defeitos identificados sem custos para a CLDF. 25.2. As implementações que estejam em desacordo com os requisitos estabelecidos ou com as especificações do sistema e as falhas ou funcionamentos irregulares identificados na operação normal do produto são consideradas defeitos. 26. ASSINATURAS Brasília, 06 de junho de 2011 João de Carvalho Ferreira
+Matrícula nº 16.752
+
+Juliana de Carvalho Mello
+Matrícula nº 12530
+
+Ranieri José Dantas Severiano
+Matrícula nº 18.338
+
+Ronald Tetsuo Miúra
+Matrícula nº 18.552
+
+Wagner Lopes Dias
+Matrícula nº 16.772
+
+28
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+ANEXO I ­ PARTE 2 ADAPTAÇÕES DA ANÁLISE DE PONTOS DE FUNÇÃO (APF)
+1. CONCEITOS 1.1. As OSs enviadas para a CONTRATADA terão o tamanho de um projeto, ou seja, serão enviados sistemas inteiros para serem desenvolvidos. Entretanto, evoluções dos sistemas e alterações decorrentes de necessidades de negócio poderão ocorrer durante o período de desenvolvimento. Estas duas últimas situações serão tratadas como manutenção adaptativa. Cada OS poderá ser medida obedecendo a regras diferenciadas, determinadas neste anexo. Dessa forma, uma OS poderá ser composta por funções de dados ou transações (itens mensuráveis por pontos de função), por itens não mensuráveis por pontos de função ou por ambos.
+
+1.2.
+
+2. MÉTODO OFICIAL 2.1. A CONTRATADA deverá adotar a Análise de Pontos de Função (APF) como o método oficial para estimar e apurar o tamanho das OSs recebidas e produzidas, exceto em situações que não podem ser medidas por meio deste método. A APF foi a técnica escolhida devido aos seguintes fatores:
+
+2.1.1. É o método mais utilizado no mercado brasileiro; 2.1.2. É o método melhor documentado; 2.1.3. É suportado por uma instituição (IFPUG) com credibilidade e reconhecida mundialmente. 2.2. O CPM (Manual de Práticas de Contagem, na sigla em Inglês) versão 4.2.1, mantido pelo IFPUG (International Function Point Users Group), será o documento oficial e único de referência das regras de APF para a medição do tamanho das OSs. Caso o IFPUG divulgue novas versões do CPM, deverá haver negociação entre a CLDF e a CONTRATADA para avaliar o impacto no contrato vigente, decidir sobre sua aplicabilidade e realizar os ajustes necessários no contrato. Havendo acordo entre as partes, a nova versão passará a ser utilizada para a métrica das OSs enviadas à CONTRATADA. Caso contrário, a versão 4.2.1 continuará vigente.
+
+2.3.
+
+3. FATOR DE AJUSTE 3.1. Será aplicado fator de ajuste igual a 1 (um) em todas as OSs.
+
+4. ITENS DE OSS NÃO MENSURÁVEIS POR PONTOS DE FUNÇÃO 4.1. Os itens de uma OS que não puderem ser dimensionados em Pontos de Função terão seus tamanhos estimados e apurados por meio de fórmulas definidas neste anexo.
+
+5. FATORES REDUTORES DE TIPO DE MANUTENÇÃO 5.1. Aos itens de OS referentes a manutenções adaptativas, mensuráveis por pontos de função, será aplicado um fator redutor de tipo de manutenção para o cálculo do seu tamanho em pontos função. Este fator irá variar em decorrência do tipo de manutenção: inclusão de funcionalidades, alteração de funcionalidades ou exclusão de funcionalidades. Para manutenções adaptativas, as regras de APF serão seguidas para a apuração do tamanho da OS, antes da aplicação do fator redutor de tipo de manutenção.
+
+5.2.
+
+29
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 Aplicativo Desenvolvido pela CONTRATADA 5.3. Tipo de Manutenção
+
+11.868
+
+Fator FR = 1 FR = 0,5 FR = 0,25
+
+Inclusão de novas funcionalidades no aplicativo Alteração de funcionalidades já existentes Exclusão de funcionalidades já existentes
+
+Aos itens de OSs não mensuráveis por PF não será aplicado o fator redutor de tipo de manutenção, pois o total de pontos de função será calculado a partir de fórmulas definidas neste anexo.
+
+6. TABELA DE ITENS DE OSS NÃO MENSURÁVEIS POR PF 6.1. A tabela a seguir será utilizada como insumo para a apuração do tamanho de itens de OSs não mensuráveis por pontos de função. Os exemplos são ilustrativos e estão baseados em um sistema fictício de administração escolar. Tipo de OS Não Mensurável
+Inclusão, Alteração ou Exclusão de cabeçalhos ou títulos ou qualquer outro tipo de literal em telas e relatórios. Mudança da posição de campos em telas, relatórios ou arquivos; SEM alteração em elementos de dados, arquivos referenciados, informação de controle ou lógica de processamento. Mudança na parte visual de telas e relatórios, SEM alteração de funcionalidade. População de tabelas com novos dados fornecidos pelo Cliente, SEM a necessidade de utilizar funcionalidade específica para isto. Ou seja; incluir, alterar ou excluir dados diretamente em tabelas.
+
+Nº
+1
+
+Exemplo
+Alterar o Título do Relatório "Listagem de Estudantes" para "Listagem de Alunos"
+
+Fórmula
+0,1 PF
+
+Unidade de Medida
+Tela (**) ou Relatório
+
+2
+
+Centralizar o campo Matrícula do Aluno na Tela de Consulta de Alunos Incluir marca d'água com o logo da escola em todas as telas do Sistema de Administração Escolar Incluir 3 novos registros na Tabela de Séries (a escola só contemplava as séries do primeiro grau e passou a contemplar o 1º, 2º e 3º anos do segundo grau). Alterar o nome da professora "Maria" para "Ana Maria" em todas as turmas em que ela leciona (tabela de Turmas) Dividir a Tela de Consulta de Alunos em duas: uma com os dados do aluno e outra com as notas (nenhum campo será adicionado, alterado ou excluído; nem haverá alteração na lógica de processamento ou mudança nos arquivos lógicos referenciados)
+
+0,2 PF
+
+Tela ou Relatório ou Arquivo
+
+3
+
+0,1 PF
+
+Tela ou Relatório
+
+4
+
+0,2 PF
+
+Tabela
+
+5
+
+Divisão de uma tela ou relatório em vários e viceversa, SEM mudança em funcionalidade.
+
+2 PF
+
+Tela ou Relatório
+
+6
+
+Alteração do mensagens.
+
+texto
+
+de
+
+Alterar a mensagem "Inclua as informações do aluno" para "Informe os dados do aluno"
+
+0,1 PF
+
+Mensagem independentemente de quantas vezes essa mensagem aparecer
+
+30
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 Nº
+7
+
+11.868
+
+Tipo de OS Não Mensurável
+Adição ou reestruturação de menus de navegação estáticos
+
+Exemplo
+Na tela de Consulta de Alunos, adicionar um link para a tela de Consulta de Notas Ao inicializar o Sistema de Administração Escolar, exibir uma página com o texto a seguir... (Não existe funcionalidade, apenas texto) Alterar o filtro de pesquisa de alunos em recuperação. Ao invés de recuperar alunos com nota < 7; deverá recuperar alunos com nota < 6,5.
+
+Fórmula
+0,1 PF
+
+Unidade de Medida
+item de menu / navegação
+
+8
+
+Criação, alteração ou exclusão de páginas estáticas Alteração da lista de resultados exibidos em tela ou relatório, através de modificação do valor do parâmetro existente, SEM alteração de lógica Criação de listas suspensas (combo box ou list box); inclusão, alteração ou exclusão de dados nessas listas, desde que esses dados sejam fixos no código (hard code). Não será acessado nenhum arquivo lógico para popular essas listas.
+
+1 PF
+
+Tela
+
+9
+
+0,5 PF
+
+Programa
+
+10
+
+Na tela de inclusão de aluno, alterar os dados da combo box de idade do aluno. Os valores fixos (hard code) de idade devem variar de 3 a 17 anos, ao invés de 2 a 15 anos. Executar o aplicativo que gera listagem de alunos com baixo desempenho no período compreendido entre 1º de Março a 1º de Junho. OBS: por determinação do usuário, esta funcionalidade não faz parte do Sistema de Administração Escolar. Toda vez que o usuário necessita desta informação, solicita que a mesma seja executada, passando o período objeto da pesquisa Alterar os nomes de todas as tabelas do sistema para SAETBXXX_YYYYYYYYYYYYYYY YYY YY, onde SAE = Sistema de Administração Escolar, TB = Tabela, XXX = número seqüencial da tabela e YYYYYYYYYYYYYYYYYYY Y = nome da tabela. Implementar Tabela de séries escolares (código e descrição) e funções para manutenção da mesma (CRUD).
+
+0,3 PF
+
+Lista
+
+11
+
+Execução de aplicações (geração de arquivos, relatórios, consultas Ad-Hoc, etc...) já construídos sob OS do usuário e Recompilação de código para migração de sistemas
+
+1 PF
+
+Execução
+
+12
+
+Padronização de nome de campos, variáveis, etc... O objetivo desta padronização é atender a normativos de desenvolvimento de sistemas da CLDF
+
+0,5 PF
+
+Programa ou Arquivo ou Tabela
+
+13
+
+Dados de Código e funções de manutenção dos mesmos (inclusão, alteração, consulta e exclusão dos dados de código)
+
+0,30 * tamanho apurado em pontos de função
+
+Dado ou Transação
+
+(*) Para cada item de OS não mensurável listado acima, está sendo estabelecida uma regra para mensuração. É importante ressaltar que o esforço atrelado à fórmula definida compreende não só o esforço de implementação da OS, como a produção de todos os artefatos necessários, de acordo com a metodologia de desenvolvimento de sistemas adotada.
+31
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+(**) Fica definido que tela é cada janela ou página do aplicativo para a realização de um cadastro, exibição de uma consulta, etc... No caso de aplicativos que utilizem recurso de abas ou várias páginas para a inclusão de um único registro de um cadastro ou exibição de consulta, fica estabelecido que caba aba ou página será contada como uma tela.
+
+6.2. 6.3.
+
+A identificação das tabelas de código deverá obedecer às regras descritas no CPM; As Funções de Transação que referenciem tabelas de dados de código, nas condições estabelecidas no item 6.1, terão estes dados de código considerados como Arquivos Referenciados.
+
+7. CÁLCULO DO TAMANHO TOTAL DE UMA OS 7.1. OSs de Desenvolvimento de Novos Aplicativos TD = UFP + CFP + INMPF Sendo: TD = Tamanho da OS UFP = contagem de PF não-ajustados para as funções que serão disponibilizadas depois da instalação CFP = contagem de PF não-ajustados das funções de conversão INMPF = contagem dos Itens não mensuráveis por Ponto de Função, através das fórmulas estabelecidas neste documento 7.1.2. Exemplo do Cálculo de uma OS de desenvolvimento de um novo aplicativo Suponhamos que a CLDF envie para a CONTRATADA uma OS de construção do sistema ABC, que possua as seguintes características: O somatório das funções que serão disponibilizadas é 850 PF; O somatório das funções de conversão de dados é 50 PF; A contagem dos itens não mensuráveis por PF, através da aplicação de fórmulas préestabelecidas, totaliza 100 PF; O cálculo do tamanho desta OS (TD) seria: TD = UFP + CFP + INMPF  TD = 850 + 50 + 100 TD = 1000 PF 7.2. OSs referentes a Manutenções Adaptativas 7.2.1. A CONTRATADA poderá receber OSs de inclusão, alteração ou exclusão de funcionalidades referentes aos aplicativos por ela desenvolvidos. Evoluções dos casos de uso e alterações decorrentes de necessidades de negócio poderão ocorrer durante o período de desenvolvimento ou até o fim do período de garantia do produto. 7.2.2. O tamanho de uma OS de uma manutenção adaptativa é calculado por meio da seguinte fórmula: TD = (INC * 1) + (ALT * 0,5) + (EXC *0,25) + INMPF Sendo: INC = contagem de pontos de função não-ajustados das funções que foram ou serão incluídas pelo projeto de melhoria 7.1.1. O tamanho de uma OS de um sistema completo é calculado por meio da seguinte fórmula:
+
+32
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+ALT = contagem de pontos de função não-ajustados das funções que foram ou serão alteradas pelo projeto de melhoria. Este número reflete o tamanho das funções depois da modificação. EXC = contagem de pontos de função nãoajustados das funções que foram ou serão excluídas pelo projeto de melhoria. INMPF = contagem dos Itens não mensuráveis por Ponto de Função, através das fórmulas estabelecidas neste documento. Exemplo do Cálculo de uma OS Adaptativa Suponhamos que a CLDF envie para a CONTRATADA uma OS para adequação a novas necessidades de negócio, referente ao sistema ABC, desenvolvido pela CONTRATADA. Entre essas adequações, temos: 30 PF referentes a funções incluídas; 40 PF referentes a funções alteradas (valor após a manutenção); 8 PF referentes a funções excluídas; 2 PF referentes a itens não mensuráveis por PF (calculados através de fórmulas estabelecidas neste documento). O cálculo do tamanho desta OS seria: TD = (INC * 1) + (ALT * 0,5) + (EXC *0,25) + INMPF  TD = (30 * 1) + (40 * 0,5) + (8 * 0,25) + 2  TD = 30 + 20 + 2 + 2 = 54 PF 7.3. OSs referentes a Manutenções Corretivas 7.3.1. As OSs de manutenções corretivas serão executadas sem ônus algum para a CLDF, durante o período de desenvolvimento do sistema e durante o período da garantia. 8. PRAZO DAS OSS 8.1. O prazo de uma OS é o tempo que a CONTRATADA necessita para executar o ciclo completo de desenvolvimento, produzindo todos os artefatos estabelecidos pela metodologia. A fórmula de Capers Jones que será aplicada para o cálculo do prazo de OSs de novos desenvolvimentos e de manutenções adaptativas é: TO (em meses) = TD 0,36 onde, TD é o tamanho da OS em pontos de função e; TO é o tempo ótimo em meses. 8.3. 8.4. 8.5. 8.6. O Tempo Ótimo (TO) deve ser utilizado pela CONTRATADA como limite para execução dos serviços e os cronogramas apresentados devem respeitar este limite. O prazo para a realização das manutenções corretivas enviadas para a CONTRATADA será estabelecido sempre por um ou mais Acordos de Nível de Serviço. Caso o prazo de execução proposto pela CONTRATADA não atenda as necessidades da CLDF, novos prazos deverão ser apresentados. A CONTRATADA poderá solicitar, ainda, prorrogação do prazo, quando justificada e comprovada a necessidade, em função de complexidade da solução a ser desenvolvida, ficando a critério da CLDF, aceitar ou não as justificativas da prorrogação do prazo apresentadas pela CONTRATADA.
+33
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+8.2.
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 8.7. 8.8.
+
+11.868
+
+A prorrogação do prazo deve ser solicitada com, no mínimo, 12 dias úteis antes do término do prazo. A solicitação de prorrogação de prazo não justifica a suspensão do atendimento pela CONTRATADA e, durante o julgamento da solicitação pela CLDF, ficam mantidas as condições estipuladas para o serviço. O prazo prorrogado não deverá ultrapassar o TO (Tempo Ótimo) para um serviço ou projeto contratado.
+
+8.9.
+
+34
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+ANEXO II ­ MODELOS DE DECLARAÇÕES
+A) TERMO DE CREDENCIAMENTO
+A empresa .....(razão social)..., com sede em ...(endereço da empresa)..., inscrita no CNPJ/MF nº .........., por seu representante legal abaixo identificado, credencia o Sr. ............., RG nº ........., (órgão expedidor) ...., CPF/MF nº ........., para representá-la perante a Câmara Legislativa do Distrito Federal nos atos relacionados ao Pregão nº 017/2011, podendo para tanto, formular ofertas e lances verbais de preços, manifestar intenção de interpor recursos, desistir do direito de os interpor, requerer o registro em ata das observações que entender relevantes, concordar, discordar, transigir, desistir, firmar compromissos, requerer, alegar e assinar o que convier e praticar todos os atos necessários ao perfeito desempenho do presente credenciamento. ..........-....., ...... de .................. de 2011.
+Obs: Junto com o termo deverá ser apresentado o documento de identidade do credenciado.
+(assinatura) (Nome legível do representante legal da empresa) (RG e órgão expedidor)
+
+B) DECLARAÇÃO DE CUMPRIMENTO DOS REQUISITOS DE HABILITAÇÃO
+A empresa ................, inscrita no CNPJ/MF nº ............, declara a Câmara Legislativa do Distrito Federal, para fins de participação no procedimento licitatório sob a modalidade de Pregão nº 017/2011, cumprir plenamente todos os requisitos de habilitação, nos termos do artigo 4º, inciso VII, da Lei nº 10.520/2002, estando ciente da responsabilidade administrativa, civil e penal. ..........-....., ...... de .................. de 2011.
+....................................................................
+
+C) DECLARAÇÃO RELATIVA A TRABALHO DE MENORES
+A empresa ............., inscrita no CNPJ/MF nº .........., por intermédio de seu representante legal o(a) Sr(a)...................................., RG ............................ e CPF ........................., DECLARA, para fins do disposto no inciso V do art. 27 da Lei nº 8.666, de 21 de junho de 1993, acrescido pela Lei nº 9.854, de 27 de outubro de 1999, que não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre e menor de 16 anos em qualquer trabalho, salvo na condição de aprendiz, a partir de 14 anos. ..........-....., ...... de .................. de 2011.
+.................................................................... (assinatura do representante legal)
+
+D) DECLARAÇÃO DE FATOS IMPEDITIVOS
+A empresa .............., inscrita no CNPJ/MF nº ..............., declara à Câmara Legislativa do Distrito Federal, sob as penas da Lei, que inexiste fato impeditivo de sua participação no Pregão nº 017/2011 e que se compromete a informar qualquer fato superveniente que a impeça de participar de licitação. ..........-....., ....... de .................... de 2011.
+.................................................................... (assinatura do representante legal)
+
+E) DECLARAÇÃO DE MICROEMPRESA, EMPRESA DE PEQUENO PORTE E COOPERATIVA
+A empresa .............., inscrita no CNPJ/MF nº ..............., declara à Câmara Legislativa do Distrito Federal, sob as penas da Lei, que é (Microempresa, Empresa de Pequeno Porte ou Cooperativa, conforme o caso). ..........-....., ....... de .................... de 2011.
+.................................................................... (assinatura do representante legal)
+
+35
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+ANEXO III
+NOTA TÉCNICA ­ 002/2010-SEASI
+Define a arquitetura padrão dos softwares adquiridos pela CLDF. 1. MOTIVAÇÃO O AMD nº 15/2007, de 12/02/2007, dispõe sobre a informatização da Câmara Legislativa do Distrito Federal ­ CLDF. Este Ato, em seu Art. 4°, item X, alínea "a", estabelece a padronização das plataformas computacionais como um dos objetivos da informatização da CLDF. A uniformização da tecnologia utilizada nos diversos sistemas de uma organização traz enormes benefícios como:    Redução na demanda de treinamentos. Mobilidade da equipe entre os projetos. Unificação das atividades de monitoramento e suporte.
+
+ Reaproveitamento de código. A partir da experiência da equipe técnica e do sucesso dos últimos sistemas desenvolvidos pela CMI, esta Nota Técnica é elaborada buscando estabelecer um padrão de arquitetura de desenvolvimento para novos sistemas adquiridos pela Câmara Legislativa do Distrito Federal. Vale ressaltar que tal padronização só será aplicada na aquisição de sistemas com alto nível de personalização para a CLDF. Por outro lado, os "softwares de prateleira", aqueles utilizados com pouco ou nenhum ajuste por várias instituições, deverão ter suas arquiteturas submetidas a avaliação específica pela CMI. 2. DESCRIÇÃO DA ARQUITETURA DE INFRAESTRUTURA A arquitetura para desenvolvimento de sistemas atualmente utilizada pela CMI/CLDF é composta pelos seguintes componentes: servidor HTTP
+
+Apache 2.2 e servidor de aplicações JBoss 4.2 (instalados em servidores cujo sistema operacional é o CentOS 5), acessando o banco de dados Informix 10. Cada um desses componentes
+
+Apache Tomcat JBoss
+
+desempenha uma função diferente dentro da arquitetura abaixo: 2.1. Apache HTTPD: servidor web utilizado para servir páginas e arquivos estáticos, e atuar como front-end para as aplicações do sistema, descrito sucintamente
+
+SGBD
+36
+
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 dinâmicas executadas no servidor de aplicações JBoss. 2.2.
+
+11.868
+
+JBoss: servidor que executa os componentes que implementam a lógica de negócio e o acesso ao banco de dados, usando os frameworks Spring e Hibernate. O JBoss integra também o servidor Tomcat, responsável pela camada de apresentação das aplicações web com conteúdo dinâmico. Banco de dados: A CLDF utiliza o Sistema Gerenciador de Banco de Dados ­ SGBD Informix como principal meio de armazenamento de dados para aplicações. O acesso a este banco de dados a partir das aplicações é feito exclusivamente através do framework Hibernate, o que facilita sua futura migração para um sistema de banco de dados livre, como o PostgreSQL.
+
+2.3.
+
+3. DESCRIÇÃO DA ARQUITETURA DOS SISTEMAS Os sistemas desenvolvidos para a CLDF deverão utilizar a linguagem Java, no padrão Java EE. Abaixo uma descrição das camadas que compõem a arquitetura de software: 3.1. 3.1.1. Camada de Apresentação Camada responsável pela geração da interface entre o sistema e o usuário. Esta camada é voltada para a geração dinâmica de páginas web que serão acessadas por meio do navegador Internet Explorer 7 e superiores, e Firefox 3.5 e superiores. A tecnologia utilizada na implementação deve ser o framework Apache Wicket versão 1.4.10, ou superior. Caso haja a necessidade de utilizar Ajax para atender requisitos do sistema, deve-se utilizar o suporte nativo do framework Apache Wicket. 3.1.3.1. Quando esse suporte não for suficiente para atender aos requisitos, e a CONTRATADA julgar necessário o uso de outra biblioteca, ela deverá solicitar formalmente a autorização da CLDF para utilizá-la. 3.2. 3.2.1. Camada de Negócio Camada onde se encontra a inteligência do sistema. Ela é a responsável por receber as informações enviadas pelo usuário, e interpretar, processar e transformar os dados armazenados de forma a oferecer ao usuário o serviço solicitado. O framework utilizado para a gerência dos componentes deve ser o Spring, versão 3.0 ou superior. Será vedada a utilização da tecnologia EJB de qualquer versão, de modo a facilitar a portabilidade das aplicações entre servidores de aplicações de diferentes capacidades, como o Apache Tomcat, Jetty, etc. Camada de Persistência Camada responsável pela comunicação com o banco de dados de forma a armazenar de forma permanente as informações e recuperar as informações e dados solicitados pela camada de negócio. Esta camada deve ser implementada utilizando-se o framework Hibernate, versão 3.3.2.GA ou superior, de forma a prover independência do SGBD utilizado.
+
+3.1.2. 3.1.3.
+
+3.2.2. 3.2.3.
+
+3.3. 3.3.1.
+
+3.3.2.
+
+4. INTEGRAÇÃO ENTRE SISTEMAS Havendo a necessidade de integração com outros sistemas, a tecnologia e a arquitetura adotadas na implementação desta integração serão definidas pela CLDF. Entre as tecnologias candidatas encontram-se:
+37
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011 4.1.
+
+11.868
+
+Web Services: publicação e consumo de serviços aderentes aos padrões de Interoperabilidade de Governo Eletrônico (e-Ping). A CLDF pode optar pelo uso da abordagem REST para a implementação dos serviços. Consulta direta em bases de dados externas: acesso direto a bases de dados relacionais de bancos de outros sistemas. Importação/exportação de arquivos de dados: importação e exportação de dados a partir de arquivos, como CSV, XLS, TXT, SQL, etc. Outras tecnologias: diante do caso concreto, a CLDF poderá definir formas mais apropriadas para determinadas integrações, quando as enumeradas acima não atenderem os requisitos.
+
+4.2. 4.3. 4.4.
+
+5. BIBLIOTECAS E FRAMEWORKS 5.1. 5.2. 5.3. 5.4. 5.4.1. 5.4.2. Todas as bibliotecas de software necessárias para a execução da aplicação, além das já citadas neste documento, deverão passar por aprovação da CLDF. Terão preferência as bibliotecas de código aberto cujos projetos estejam em ativo desenvolvimento. Bibliotecas proprietárias poderão ser adicionadas ao projeto na forma de código-fonte, sendo submetidas às mesmas regras e métricas de qualidade do restante da aplicação. O uso de bibliotecas proprietárias é permitido, desde que: Aprovado pela CLDF As licenças, se necessárias, sejam fornecidas e não tenham limitações quanto a tempo de validade, quantidade de usuários, número de processadores, e outros.
+
+6. FRAMEWORKS E FERRAMENTAS SUGERIDAS Para a implementação dentro dos padrões descritos acima, os seguintes frameworks e ferramentas são sugeridos, mas não fazem parte obrigatória da arquitetura: 6.1. 6.2. 6.3. 6.4. 6.5. 6.6. jQuery: framework javascript para efeitos visuais e validações no browser Maven 2/3: ferramenta de construção, gerência de bibliotecas, e geração de relatórios de análise do código-fonte Hudson: servidor de integração contínua Cobertura: ferramenta de geração de relatórios de cobertura de testes automatizados PMD: ferramenta de análise estática de código-fonte, que indica potenciais erros e violações do padrão de codificação FindBugs: ferramenta de análise estática de código-fonte, que indica potenciais erros de codificação
+
+Brasília, 21 de setembro de 2010 João de Carvalho Ferreira
+Matrícula nº 16.752
+
+Ronald Tetsuo Miúra
+Matrícula nº 18.552
+
+Ranieri José Dantas Severiano
+Matrícula nº 18.338
+
+38
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+ANEXO IV ­ Custo e Produtividade da Equipe
+Perfil Profissional Custo Mensal (R$) Custo Relativo (%)
+
+(1)
+
+Total (R$)
+
+100%
+
+Observações: 1. Devem ser informados os diversos perfis profissionais diretamente envolvidos na execução do trabalho contratado. 2. O custo mensal informado deve ser a média do custo total dos profissionais em cada perfil, considerando salário, encargos sociais, tributos, despesas administrativas e previsão de lucro. 3. O custo relativo corresponde ao peso do custo de cada perfil em relação ao custo total da equipe a ser alocada. 4. O valor "Total" será obtido através da média de salários ponderados pelos custos relativos. 5. Podem ser incluídas ou excluídas linhas da tabela para ajustá-la à quantidade de perfis profissionais. Descrição
+(2) (3) (4)
+
+Valor
+
+Custo por Hora (R$/homem-hora) (
+
+(1)
+
+/ 168 horas)
+
+Produtividade da Equipe (horas / ponto de função) Valor do Ponto de Função (R$/ponto de função) (
+(2)
+
+*
+
+(3)
+
+)
+
+Valor do Ponto de Função (por extenso):
+(5) (4)
+
+Valor Total (R$) (
+
+* 3.890 pontos de função)
+
+Valor Total (por extenso):
+
+Observações: 1. O "Custo por Hora" é o resultado da divisão do valor total obtido na primeira tabela ( ) por 168 horas, 2. Em "Produtividade da Equipe" deve ser informado o total de horas trabalhadas pelos diversos perfis profissionais em todas as etapas do processo de desenvolvimento, e de acordo com a arquitetura definida, para a conclusão de 1 (um) ponto de função. Brasília, _____ de _____________________ de ______.
+(1)
+
+_____________________________________________ (Nome do representante legal)
+
+_____________________________________________ (Assinatura)
+39
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+ANEXO V ­ Atestado de capacidade técnica
+1. ATESTADO DE CAPACIDADE TÉCNICA
+Tipo de Informação Identificação do projeto Tamanho funcional Descrição sucinta do(s) projeto(s) Nome do Projeto Número de Pontos de Função. Constando a informação sobre o uso do regime de Fábrica de Software. Constando a identificação do projeto, com descrições sucintas, contendo as etapas de Ciclo de Desenvolvimento/Manutenção executadas e a utilização de metodologia formal. Apresentação de evidências de utilização da metodologia de gestão preconizada pelo PMBOK Apresentação de envidências de utilização da plataforma tecnológica Java, com framework spring e Hibernate. Nome / E-mail / Telefone do responsável pelos contatos técnicos do cliente (pessoa vinculada ao cliente responsável pelos contatos relativos ao projeto). Nome comercial / CNPJ / Endereço / Telefone e E-mail da empresa / Órgão Público emitente, com firma reconhecida e cargo ocupado pelo signatário do atestado. Cópia do Contrato Conteúdo
+
+Informações sobre o processo utilizado para desenvolver o projeto Informações sobre o processo de gerenciamento utiilizado durante o desenvolvimento do projeto Informações técnicas dos sistemas desenvolvidos Dados dos responsáveis pela pelas informações Informações da Empresa/Órgão Público que emitiu o atestado e assinatura Identificação do contrato
+
+Brasília, _____ de _____________________ de ______.
+
+_____________________________________________ (Nome e assinatura do representante legal)
+
+40
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+ANEXO VI ­ MINUTA DE CONTRATO
+TERMO DE CONTRATO QUE FAZEM ENTRE SI A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL E A EMPRESA .............. para prestação de serviços de desenvolvimento e manutenção de software, com previsão de execução de 3.890 (três mil, oitocentos e noventa) pontos de função para a Câmara Legislativa do Distrito Federal. A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL, neste ato denominada CONTRATANTE, com sede no Setor de Áreas Isoladas Norte - Parque Rural, nesta capital, inscrita no CNPJ/MF sob o nº 26.963.645/0001-13, representada por seu Presidente, Deputado Distrital ........., consoante competência originária prevista no art. 42, § 1º, inc. XI, do Regimento Interno da CLDF, e de outro lado a EMPRESA .........., inscrita no CNPJ/MF sob o nº ............, doravante denominada CONTRATADA, neste ato representado por ..........., portador da Cédula de Identidade nº ....... e CPF nº ..........., de acordo com a representação legal que lhe é outorgada, têm entre si justo e avençado e celebram o presente contrato que tem por objeto o para a Câmara Legislativa do Distrito Federal, do qual são partes integrantes o edital do Pregão nº 017/2011-CLDF, a proposta apresentada pela CONTRATADA, no que couber, e os anexos constantes do processo n° 001-000.946/2010, sujeitandose as partes às normas disciplinares da Lei nº 8.666/93, com as alterações introduzidas pelas Leis nº 8.883/94, n° 9.648/98 e 9.854/99, da Lei nº 8.078/90, da Lei nº 10.520/02 e demais legislação aplicável à espécie, mediante as cláusulas e condições a seguir estipuladas: CLÁUSULA PRIMEIRA - DO OBJETO 1.1 O presente contrato tem por objeto a prestação de serviços de desenvolvimento e manutenção de software, com previsão de execução de 3.890 (três mil, oitocentos e noventa) pontos de função,para a Câmara Legislativa do Distrito Federal, conforme condições, especificações a quantidades constantes do Anexo I - Projeto Básico, que integra este contrato, independentemente de transcrição. CLÁUSULA SEGUNDA ­ DAS OBRIGAÇÕES DA CONTRATADA 2.1 A CONTRATADA deverá prestar os serviços com eficiência e presteza, dentro dos padrões exigidos pela CONTRATANTE, obrigando-se, especialmente a: 2.1.1 Cumprir as obrigações estabelecidas no Projeto Básico, não se admitindo qualquer modificação em sua execução sem prévia autorização da CONTRATANTE, em especial em relação à garantia dos serviços; 2.1.2 Executar as ordens de serviço designadas em prazo não superior ao máximo estipulado no edital e seus anexos; 2.1.3 Ceder à CLDF, nos termos do artigo 111 da Lei n.º 8.666/93, c/c o artigo 4º da Lei n.º 9.609/98, o direito patrimonial, a propriedade intelectual de toda e qualquer documentação e produto gerados, logo após o recebimento definitivo dos serviços prestados; 2.1.4 Manter sigilo dos dados e informações confidenciais a que tiverem acesso; 2.1.5 Todo empregado da CONTRATADA diretamente envolvido nos trabalhos relacionados a esse projeto básico, inclusive seu representante legal, deverão assinar termo de compromisso contendo declaração de manutenção de sigilo e ciência das normas de segurança vigentes na CLDF; 2.1.6 Manter os seus técnicos sujeitos às normas disciplinares da CLDF, porém sem qualquer vínculo empregatício com o órgão; 2.1.7 Respeitar as normas e procedimentos de segurança da CLDF; 2.1.8 Iniciar a execução dos serviços no prazo máximo de 7 (sete) dias úteis contados do recebimento da ordem de serviço; 2.1.9 Realizar reuniões de ponto de controle entre a CONTRATADA e a CLDF, nas dependências desta, destinadas ao acompanhamento da execução dos serviços, observando o seguinte; 2.1.10 Periodicidade quinzenal; 2.1.11 Presença obrigatória do gerente de projetos indicado pela CONTRATADA e o responsável técnico ou gerente de projetos da CLDF;
+41
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+2.1.12 Serão objetos de deliberação, entre outros: 1.12.1 Cronograma de execução das OSs; 1.12.2 Solicitações de mudanças; 1.12.3 Acompanhamento das OSs em execução; 2.1.13 Elaborar e entregar todos os artefatos relacionados no item 6 da Parte 1 do Projeto Básico; 2.1.14 Prestar garantia aos produtos e serviços fornecidos de acordo com o item 25 da Parte 1 do Projeto Básico; 2.1.15 Os serviços de garantia serão solicitados por meio de chamado efetuado pela CMI e encaminhado à CONTRATADA; 2.1.16 Encaminhar, quando do término da Ordem de Serviço, relatório acompanhado da respectiva fatura, relacionando a identificação dos produtos concluídos, ou seja, aqueles entregues e aprovados pelo gerente técnico da CLDF; 2.1.17 Responder por quaisquer danos causados diretamente aos equipamentos, softwares, informações e a outros bens de propriedade da CLDF, quando esses tenham sido ocasionados por seus técnicos durante a prestação dos serviços objeto desta contratação; 2.1.18 Responder, integralmente, por perdas e danos que vier a causar diretamente à CLDF ou a terceiros em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus prepostos, independentemente de outras cominações contratuais ou legais a que estiver sujeita; 2.1.19 Permitir o acompanhamento dos serviços por técnicos da CONTRATANTE; 2.1.20 Cumprir todas as orientações do executor do contrato, exceto as que infringirem normas legais; 2.1.21 Levar imediatamente ao conhecimento da CONTRATANTE qualquer fato extraordinário ou anormal que ocorra durante o cumprimento do contrato para adoção imediata das medidas cabíveis; 2.1.9 Manter, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas no ato convocatório, bem como aquelas que decorrem da Lei nº 8.666/93 e normas específicas de higiene e controle de qualidade; 2.1.10 Responsabilizar-se por todos os encargos previdenciários, fiscais, trabalhistas, comerciais e demais obrigações sociais previstos na legislação em vigor, sendo que sua inadimplência não poderá transferir à CONTRATANTE a responsabilidade por seu pagamento, nem onerar o objeto deste Contrato; 2.1.11 Manter seus empregados identificados por crachá quando da prestação dos serviços nos locais indicados pela CONTRATANTE, devendo substituir imediatamente qualquer um deles caso seja considerado inconveniente pela Administração; 2.1.12 Arcar com as despesas decorrentes de qualquer infração relacionada à execução do objeto do contrato; 2.1.13 Cumprir diretamente o contrato, ficando expressamente vedada a subcontratação de outra empresa para esse fim; 2.1.14 Comunicar por escrito ao executor do contrato qualquer anormalidade que possa prejudicar o cumprimento do contrato, prestando todos os esclarecimentos necessários; 2.2 É expressamente vedado à CONTRATADA: 2.2.1 a contratação de servidor pertencente ao quadro de pessoal da CONTRATANTE, durante a execução dos serviços; 2.2.2 a veiculação de publicidade do objeto do contrato, salvo se houver prévia autorização da CONTRATANTE; 2.2.3 a cessão, transferência ou subcontratação total ou parcial de outra empresa para execução dos serviços, sejam fabricantes, representantes ou quaisquer outros; 2.3 A aceitação pelo executor do contrato de qualquer equipamento, material ou serviço não exime a CONTRATADA da total responsabilidade porventura existente, respeitando-se os prazos de garantia; 2.4 Em caso de necessidade de atendimento de urgência, o mesmo deverá ser efetuado de imediato, com prioridade máxima determinada pela CONTRATANTE, devendo a CONTRATADA disponibilizar prontamente um técnico para resolver exclusivamente o problema relatado; 2.5 A CONTRATADA não será responsável:
+42
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+2.5.1 2.5.2 edital.
+
+11.868
+
+Por qualquer perda ou dano resultante de caso fortuito ou força maior; Por quaisquer obrigações, responsabilidades, trabalhos ou serviços não previstos neste
+
+CLÁUSULA TERCEIRA - DAS OBRIGAÇÕES DA CONTRATANTE 3.1 A fim de possibilitar a execução do objeto deste contrato, constituem obrigações da CONTRATANTE: 3.1.1 Encaminhar toda a documentação necessária para a precisa especificação dos
+
+requisitos, na emissão das OS; 3.1.2 Manter pessoal técnico especializado para prestar esclarecimentos sobre os processos de negócio e requisitos das OS emitidas; 3.1.3 Efetuar a homologação, dar aceite definitivo e pagar os serviços nos prazos estabelecidos no presente termo; 3.1.4 Conceder, quando necessário para a execução dos serviços, acesso aos prepostos da CONTRATADA;
+3.1.5 - Exigir a substituição de qualquer empregado da CONTRATADA, caso o julgue tecnicamente inapto, ou por conveniência administrativa; 3.1.6 - Acompanhar e fiscalizar a execução do contrato por intermédio de servidor especialmente designado, que anotará em registro próprio todas as ocorrências relacionadas com a sua execução; 3.1.7 - Prestar esclarecimentos sobre as circunstâncias em que foram observadas as irregularidades e/ou defeitos no funcionamento dos equipamentos; 3.1.8 - Sustar a prestação de qualquer serviço, quando verificada irregularidade na qualidade de sua prestação e determinar a sua substituição; 3.1.9 - Notificar a CONTRATADA, formal e tempestivamente, sobre a aplicação de multas, penalidades ou quaisquer débitos de sua responsabilidade; 3.1.10 - Atestar a nota fiscal após a entrega e instalação do equipamento pela CONTRATADA; 3.1.11 - Efetuar o pagamento do objeto deste contrato, mediante apresentação de nota fiscal devidamente atestada e em condições de liquidação. CLÁUSULA QUARTA ­ DA GARANTIA 4.1 A garantia incluirá, o reparo e o refazimento de quaisquer serviços sem qualquer ônus para a Câmara Legislativa do Distrito Federal pelo prazo de 90 (noventa) dias, contados a partir da homologação e aceite definitivo dos serviços; 4.2 A contratada ofereceu garantia no valor de 3% (três inteiros por cento) do valor do contrato em dinheiro ou títulos da dívida pública ou seguro-garantia ou fiança bancária, na forma do art. 56 da Lei n. 8.666/1993. CLÁUSULA QUINTA ­ DA FISCALIZAÇÃO 5.1 A execução dos serviços será acompanhada por executor especialmente designado, que anotará em registro próprio todas as ocorrências, determinando o que for necessário à regularização das faltas ou defeitos observados, além das atribuições contidas nas normas de execução orçamentária e financeira vigentes; 5.2 Cabe ao executor do contrato: 5.2.1 - responsabilizar-se pela supervisão do contrato, administrando-o de conformidade com as disposições contratuais e editalícias; 5.2.2 - certificar a execução dos serviços, encaminhando cópia desta certificação à Diretoria de Administração e Finanças - DAF, para serem apensados ao contrato; 5.2.3 - pronunciar-se por escrito sobre a prorrogação do contrato, antes da extinção deste, em tempo hábil para, se for o caso, ser promovida a abertura de nova licitação, dispensa ou inexigibilidade; 5.2.4 - adotar toda e qualquer providência necessária à perfeita execução do contrato, podendo valer-se dos demais órgãos da CÂMARA LEGISLATIVA; 5.2.5 - convocar por escrito a CONTRATADA para efetuar os serviços de manutenção corretiva;
+
+43
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+5.2.6 - notificar por escrito a CONTRATADA, quando a mesma deixar de cumprir qualquer cláusula deste contrato e encaminhar cópia da referida notificação à Diretoria de Administração e Finanças DAF, para ser anexada ao contrato; 5.2.7 - exigir da CONTRATADA por escrito a substituição de qualquer membro da equipe técnica responsável pela execução dos serviços; 5.2.8 - adotar toda e qualquer providência necessária à perfeita execução do contrato, podendo valer-se dos demais órgãos da CONTRATANTE; 5.2.9 - fazer cumprir o disposto no art. 56, inciso VI, do Decreto nº 10.098/94, no que se refere à observância da validade da certidão negativa de débitos junto à Fazenda Pública do DF. CLÁUSULA SEXTA - DO VALOR DO CONTRATO 6.1 O valor total do contrato é de R$ 00,00 (......... reais), conforme estipulado na proposta vencedora do certame; 6.2 O valor de que trata esta cláusula abrange todas as despesas com administração, materiais, mãode-obra, leis sociais, trabalhistas e fiscais, equipamentos auxiliares, seguros, todos os tributos incidentes e demais encargos, enfim, todo o necessário para a execução dos serviços. CLÁUSULA SÉTIMA - DO PAGAMENTO 7.1 O pagamento relativo ao objeto desta licitação será efetuado após a entrega dos equipamentos no local indicado pela CONTRATANTE e em consonância com o cronograma estabelecido no Projeto Básico; 7.2 O pagamento somente será efetuado, ressalvados os casos definidos em legislação própria, após o recolhimento, pela CONTRATADA, de quaisquer multas que lhe tenham sido impostas em decorrência de inadimplência contratual; 7.3 Para liquidação da despesa correspondente à nota de empenho relativa ao objeto desta licitação, a CONTRATADA compromete-se a apresentar, juntamente com a primeira via da nota fiscal/fatura, a Certidão Negativa de Débitos junto ao GDF, nos termos do art. 56, parágrafo único, inciso VI, do Decreto nº 16.098/94, assim como as certidões de regularidade com a previdência social - CND/INSS e com o FGTS, em plena validade; 7.4 O pagamento processado pela CONTRATANTE não isenta a CONTRATADA de suas obrigações e responsabilidades vinculadas à prestação dos serviços de suporte técnico; 7.5 Havendo erro no documento de cobrança ou outra circunstância que impeça a liquidação da despesa, a mesma ficará pendente e o pagamento sustado até que a CONTRATADA providencie as medidas saneadoras necessárias, não ocorrendo, neste caso, quaisquer ônus por parte da CONTRATANTE; 7.6 Passados 30 (trinta) dias sem o devido pagamento por parte da Administração, a parcela devida será atualizada monetariamente, desde o vencimento da obrigação até a data do efetivo pagamento de acordo com a variação "pro rata tempore" do INPC. CLÁUSULA OITAVA - DAS PENALIDADES 8.1 Pela inexecução total ou parcial das obrigações assumidas, inclusive as relativas à qualidade do serviço contratado, assim como pela recusa injustificada em retirar a nota de empenho, a licitante vencedora ficará sujeita às sanções previstas no art. 87 da Lei nº 8.666/93; 8.2 As penalidades de natureza técnica, estabelecidas em acordo de nível de serviços, observarão os seguintes indicadores: Indicador de Atraso na Entrega Mede os atrasos ocorridos nas entregas de produtos e artefatos acordados nas OS. Pela CLDF, no aceite final da OS IAE = (PEE ­ PPE ) ÷ PPE x 100 Onde: IAE = Índice de atraso na entrega; PEE = Prazo efetivo de entrega, em dias; PPE = Prazo previsto de entrega na OS, em dias.
+44
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+Descrição: Aferição: Mecanismo cálculo:
+
+de
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+Nível esperado:
+
+11.868
+
+IAE Desejável: = 0 % (zero por cento); IAE Aceitável:  5 % (até cinco por cento); IAE Indesejado: > 5 % (acima de cinco por cento). Penalidades: IAE Desejável: Nenhuma; IAE Aceitável: Advertência; IAE Indesejado: Multa de acordo com o art. 4º do Decreto Distrital 26.993/2006. Auditoria: Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e níveis de serviços prestados. Indicador de não-conformidades com requisitos Descrição: Mede as implementações que estejam em desacordo com os requisitos estabelecidos ou com as especificações do sistema. Aferição: Pela CLDF, durante a homologação dos serviços Mecanismo de INC = QNC ÷ TPF cálculo: Onde: INC = Índice de não-conformidades; QNC = Quantidade de não-conformidades aferidas; TPF = Tamanho do serviço em pontos de função. Nível esperado: INC Desejável: = 0; INC Aceitável:  0,1 não-conformidades/pontos de função; INC Indesejado: > 0,1 não-conformidades/pontos de função; Penalidades: INC Desejável: Nenhuma; INC Aceitável: Advertência; INC Indesejado: glosa de 5 % (cinco por cento) no valor da OS correspondente, a título de compensação à CLDF pelo retrabalho na atividade de homologação. Auditoria: Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e níveis de serviços prestados. Indicador de Erros de Operação Descrição: Mede as falhas ou funcionamentos irregulares identificados na operação normal do produto. Aferição: Pela CLDF, durante a homologação dos serviços Fórmula: IEO = QEO ÷ TPF Onde: IEO = Índice de erros de operação; QEO = Quantidade de erros encontrados; TPF = Tamanho do serviço em pontos de função. Nível esperado: IEO Desejável: = 0; IEO Aceitável:  0,3 erros/pontos de função; IEO Indesejado: > 0,3 erros/pontos de função; Penalidades: IEO Desejável: Nenhuma; IEO Aceitável: Advertência; IEO Indesejado: glosa de 5 % (cinco por cento) no valor da OS correspondente para cada entrega realizada. Auditoria: Em reunião mensal de entrega da pré-fatura e do relatório de serviços realizados e níveis de serviços prestados. Indicador de quantidade de entregas de correção para uma Entrega Principal Descrição: Mede a quantidade de entregas necessárias para se obter uma entrega principal aceita pela CLDF. Aferição: Pela CLDF, durante a homologação dos serviços. Periodicidade A cada ordem de serviço
+
+45
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+Início da vigência Mecanismo de cálculo: Nível esperado:
+
+11.868
+
+A partir da segunda OS Número de entregas de correção para uma entrega principal = X. Considera-se entrega principal aquela prevista como sendo a última para finalização da OS. INC Desejável: X = 0; INC Aceitável: X < 3; INC Indesejado: X > 3; Penalidades: INC Desejável: Nenhuma; INC Aceitável: Advertência; INC Indesejado: glosa de 10% no valor da OS correspondente. Auditoria: Fiscalização contratual Indicador de cobertura de testes automatizados do projeto Descrição: Mede a cobertura geral de testes automatizados do projeto Aferição: Pela CLDF, por Inspeção manual ou por verificação de relatório de ferramenta de análise de cobertura de testes ­ Sonar Periodicidade A cada ordem de serviço Início da vigência A partir da primeira OS Mecanismo de Avaliação da ferramenta SONAR http://www.sonarsource.org, parâmetro line cálculo: coverage Nível esperado: IC Desejável: Entre 70 e 100% IC Aceitável: entre 55 e 69% de teste de unidade implementados; IC Indesejado: entre 40 e 54% de testes unitários para o código desenvolvido. IC Inaceitável: menor que 40% de testes unitários para o código desenvolvido. Faixas de ajuste no IC Desejável: 100% do pagamento da OS pagamento: IC Aceitável: Redução de 15% no valor da OS; IC Indesejado: Redução de 25% no valor da OS; IC Inaceitável: Não recebimento da OS. A CONTRATADA deverá refazer os testes do projeto antes de enviar a OS novamente para avaliação da CLDF; 8.2.1 Reincidências de não conformidades na homologação de uma única OS acima de 3 (três) vezes serão passíveis de multas, em conformidade com o Art.58, inciso IV, da Lei 8666/93; 8.2.2 Havendo aplicação de multas em mais de 30% das OSs, de acordo com o item anterior, apurado nos últimos 6 (seis) meses, a CLDF poderá rescindir o contrato unilateralmente em conformidade com o Art.58, inciso II, da Lei 8666/93; 8.2.3 As penalidades previstas são cumulativas até o limite do valor da OS; 8.3 À CONTRATADA, pelo descumprimento das obrigações assumidas ou pela infringência de preceitos legais, serão aplicadas, segundo a gravidade da falta cometida, as seguintes penalidades: a) Advertência; b) Multa de 0,5% (cinco décimos por cento), calculada sobre o valor adjudicado, quando o adjudicatário injustificadamente se recusar a receber a nota de empenho e/ou assinar o contrato, dentro do prazo estabelecido pela Administração; c) Multa de 0,3% (três décimos por cento) ao dia até o 30º (trigésimo) dia de atraso, sem justa causa devidamente comprovada e aceita pela Administração, na prestação de qualquer das demais obrigações decorrentes do presente contrato, calculada sobre o valor da parcela não cumprida; d) Multa de 15% (quinze por cento), calculada sobre o valor total da nota de empenho, quando decorridos 30 (trinta) dias de atraso no cumprimento das obrigações, sem justificação por parte do adjudicatário, devidamente comprovada e aceita pela Administração. Neste caso estará caracterizada a recusa, dando causa ao cancelamento da nota de empenho; d.1) A multa de que trata o subitem anterior incidirá, ainda, nos casos em que o adjudicatário, sem motivo de força maior ou caso fortuito devidamente comprovado e aceito pela CONTRATANTE, solicitar o cancelamento antes ou depois de decorridos 30 (trinta) dias de atraso;
+
+46
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+e) Suspensão temporária de participação em licitação e impedimento de contratar com a Administração pelo prazo de 12 (doze) meses; f) Declaração de inidoneidade para licitar ou contratar com a Administração, quando a empresa, sem justa causa, deixar de cumprir as obrigações assumidas, praticando falta grave, dolosa ou revestida de má-fé, a juízo da Câmara Legislativa do Distrito Federal. A declaração de inidoneidade terá efeito enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que a CONTRATADA ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no subitem anterior; 8.4 As multas aplicadas deverão ser recolhidas diretamente à conta-corrente da CONTRATANTE, no prazo de quinze dias corridos, contados da publicação do ato de punição. Não ocorrendo o pagamento, a CONTRATANTE promoverá, mediante prévio procedimento administrativo, desconto nos pagamentos eventualmente devidos à CONTRATADA, ou da garantia oferecida. Fica ressalvado o direito da CONTRATANTE de exigir o valor judicialmente, nos termos dos §§ 2º e 3º do art. 86 da Lei nº 8.666/93, caso venha a ser necessário; 8.6 Em qualquer caso, a CONTRATADA será notificada para apresentação de defesa prévia, no prazo de 05 (cinco) dias úteis, contados da notificação; 8.7 As penalidades previstas neste contrato são independentes entre si, podendo ser aplicadas isoladas ou cumulativamente, sem prejuízo de outras medidas cabíveis, inclusive aquelas previstas no Código de Defesa do Consumidor ­ Lei nº 8.078/90. CLÁUSULA NONA - DA RESCISÃO 9.1 A rescisão deste Contrato poderá ser: 9.1.1 determinada por ato unilateral e escrito da CONTRATANTE, nos casos enumerados no art. 78, incs. I a XII e XVII, da Lei nº 8.666/93; 9.1.2 amigável, por acordo entre as partes, reduzido a termo nos autos do processo da licitação, desde que haja conveniência para a CONTRATANTE; 9.1.3 judicial, nos termos da legislação em vigor; 9.2 A rescisão do Contrato obedecerá ao que preceituam os arts. 77 a 80, da Lei nº 8.666/93. 9.3 Além das hipóteses expressamente previstas no art. 78 da Lei nº 8.666/93, garantida a prévia defesa, constituem motivos para a rescisão deste contrato: 9.3.1 ­ o não cumprimento ou cumprimento irregular das cláusulas contratuais; 9.3.2 ­ o atraso injustificado no início do serviço e, ainda, a paralisação sem justa causa sem prévia comunicação à CONTRATANTE; 9.3.3 ­ o desatendimento às determinações regulares da autoridade designada para acompanhar e fiscalizar a sua execução, assim como as de seus superiores; 9.3.4 ­ o cometimento reiterado de faltas na sua execução, comprovadas por meio de registro próprio efetuado pelos representantes da CONTRATANTE, especialmente designados para acompanhar o contrato; 9.3.5 ­ a decretação de falência, a dissolução da sociedade, a alteração social ou a modificação da finalidade ou da estrutura da empresa, que prejudique a execução do contrato; 9.3.6 ­ a ocorrência de caso fortuito ou força maior, de alta relevância e amplo conhecimento, regularmente comprovado e impeditivo da execução do objeto deste contrato, sem prejuízo do disposto no art. 79, §2º da Lei nº 8.666/93; 9.3.7 ­ razões de interesse público, de alta relevância e amplo conhecimento, justificadas e determinadas pela máxima autoridade da CONTRATANTE e exaradas nos autos do processo administrativo a que se refere este contrato, sem prejuízo do disposto no art. 79, § 2º da Lei nº 8.666/938.3.8 ­ a subcontratação, cessão ou transferência parcial ou total do objeto deste contrato; 9.3.8 ­ a supressão superior a 25% (vinte e cinco por cento) do valor contrato, por parte da Administração, quando não decorrentes de acordo entre as partes; 9.4 Os casos de rescisão contratual serão formalmente motivados nos autos do processo, assegurado o contraditório e a ampla defesa; 9.5 A rescisão administrativa ou amigável será precedida de autorização escrita e fundamentada da autoridade competente;
+47
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+9.6 Os atos de aplicação das penalidades previstas neste contrato serão publicados no Diário da Câmara Legislativa ­ DCL e no Diário Oficial do Distrito Federal ­ DODF. CLÁUSULA DÉCIMA - DA VIGÊNCIA 10.1 O Contrato terá vigência de 24 (vinte e quatro) meses, contados de sua assinatura, com eficácia a partir da data da publicação do seu extrato no Diário Oficial do Distrito Federal e efeitos financeiros a partir da instalação do equipamento, após o "aceite" do executor do contrato; 10.2 O contrato a critério das partes, mediante termo aditivo, poderá ser prorrogado pelo mesmo período. CLÁUSULA DÉCIMA PRIMEIRA ­ DO REAJUSTE 10.1 O valor do contrato poderá ser reajustado, inclusive por apostilamento, a cada 12 (doze) meses, contados da publicação do seu extrato no Diário Oficial do Distrito Federal, de acordo com a média ponderada dos índices INPC e IGP-M, ou os que vierem a substituí-los, nos doze meses anteriores ao mês de reajustamento, na conformidade da legislação aplicável e em vigor no Distrito Federal. CLÁUSULA DÉCIMA SEGUNDA - DA DOTAÇÃO ORÇAMENTÁRIA 12.1 As despesas decorrentes das obrigações assumidas com a execução deste Contrato correrão à conta de dotação orçamentária própria da CONTRATANTE: Programas de Trabalho 00000; Subtítulos 00000; Elementos de despesa 0000-00, sob o evento nº ........, na modalidade ......... CLÁUSULA DÉCIMA TERCEIRA ­ DA ALTERAÇÃO CONTRATUAL 13.1 A CONTRATADA fica obrigada a aceitar acréscimos e supressões de até 25% (vinte e cinco por cento) do valor contratado, mantidas as mesmas condições contratuais estipuladas, sem que lhe caiba qualquer reclamação; 13.2 Toda e qualquer alteração, inclusive as contidas na lista do item 1.3 do Projeto Básico ­ Anexo I, obervarão o limite estabelecido no subitem anterior. 13.3 Toda e qualquer alteração deverá ser processada mediante a celebração de Termo Aditivo, com amparo no art. 65 da Lei nº 8.666/93, vedada a modificação do objeto. CLÁUSULA DÉCIMA QUARTA ­ DO PROCEDIMENTO LICITATÓRIO 14.1 A prestação dos serviços objeto deste contrato foi precedida de licitação, realizada sob a modalidade de Pregão nº 017/2011-CLDF, instruída nos autos do processo nº 001-000.946/2010; 14.2 Independentemente de transcrição, fazem parte deste Contrato todas as condições estabelecidas no Ato Convocatório do Pregão nº 017/2011-CLDF e seus Anexos. CLÁUSULA DÉCIMA QUINTA ­ DO FORO 15.1 As partes elegem o foro da Circunscrição Judiciária Especial de Brasília-DF, com exclusão de qualquer outro por mais privilegiado que seja, para dirimir eventuais dúvidas e litígios decorrentes do presente Contrato. CLÁUSULA DÉCIMA SEXTA ­ DA PUBLICAÇÃO 16.1 A CONTRATANTE providenciará, às suas expensas, a publicação do extrato do presente Contrato no Diário Oficial do Distrito Federal. CLÁUSULA DÉCIMA SÉTIMA - DAS DISPOSIÇÕES FINAIS 17.1 A Câmara Legislativa do Distrito Federal convocará oficialmente a licitante vencedora para, no prazo máximo de 03 (três) dias úteis, a contar do recebimento da notificação, assinar o contrato, sob pena de decair do direito à contratação, sem prejuízo das sanções previstas no art. 87 da Lei nº 8.666/93 e no instrumento convocatório do certame; 17.2 Os casos omissos decorrentes da aplicação deste contrato serão dirimidos pela CONTRATANTE, com fundamento na legislação aplicável à espécie, em especial, pelas Leis nº 8.666/93 e 10.520/02; 17.3 Durante a execução deste contrato não serão consideradas comunicações verbais. Todas as comunicações que envolvam a execução deste contrato, de uma parte à outra, serão consideradas como
+48
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+CÂMARA LEGISLATIVA DO DISTRITO FEDERAL
+Comissão Permanente de Licitação
+
+Folha nº Processo nº 001-000.946/2010 Rubrica: _________________ Matrícula:
+
+Pregão Presencial nº 017/2011
+
+11.868
+
+suficientes desde que efetuadas por escrito e entregues sob protocolo ou qualquer outro meio que comprove o recebimento; 17.4 Se a CONTRATANTE relevar o descumprimento no todo ou em parte de qualquer obrigação da CONTRATADA relacionadas co a execução deste, tal fato não poderá desonerar ou de qualquer modo afetar ou prejudicar essas mesmas obrigações, as quais permanecerão inalteradas como se nenhuma omissão ou tolerância houvesse ocorrido. E por estarem de acordo, firmam as partes o presente contrato em 02 (duas) vias de igual teor e forma, na presença de duas testemunhas, para que produza seus efeitos.
+
+Brasília - DF,
+
+de ................. de 2011.
+
+______________________________ CONTRATANTE
+Testemunhas:
+
+________________________________ CONTRATADA
+
+49
+Eixo Monumental, Praça Municipal, Qd. 02, Lt. 05-Térreo Inferior CEP: 70 094-902 Fones: (061) 3348.8650 8651 8652 e-mail: cpl@cl.df.gov.br
+
+

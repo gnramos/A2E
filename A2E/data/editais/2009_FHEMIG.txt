@@ -1,0 +1,844 @@
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais
+
+MINUTA EDITAL DE LICITAÇÃO Modalidade: PREGÃO PRESENCIAL - PROCESSO N º 0500005 080/2009 Tipo: MENOR PREÇO
+
+Objeto: Pregão Presencial para Contratação de fábrica de software objetivando o desenvolvimento de 2.650 (dois mil seiscentos e cinqüenta) pontos de função para evolução do Sistema Informatizado de Gestão Hospitalar ­ SIGH suporte técnico sob demanda a equipe de desenvolvimento da FHEMIG. ÍNDICE
+
+1 ­ PREÂMBULO ..............................................................................................................2 2 ­ OBJETO ......................................................................................................................3 3 - DAS CONDIÇÕES DE PARTICIPAÇÃO ......................................................................3 4 ­ DA ENTREGA DOS ENVELOPES ..............................................................................3 5 - DO CREDENCIAMENTO .............................................................................................4 6 - DAS PROPOSTAS COMERCIAIS................................................................................6 7 - DA HABILITAÇÃO ........................................................................................................8 8 - DA SESSÃO DO PREGÃO E DO JULGAMENTO......................................................14 9 - DOS RECURSOS ......................................................................................................18 10 - DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO ...........................................................19 11 ­ DA CONTRATAÇÃO ...............................................................................................19 12 - DO PAGAMENTO ....................................................................................................20 16 - DISPOSIÇÕES GERAIS...........................................................................................26 ANEXO I - ESPECIFICAÇÃO TÉCNICA E CONDIÇÕES COMERCIAIS.........................29 ANEXO II ­ PARÂMETROS PARA CONTAGEM DE PONTO DE FUNÇÃO ...................38 ANEXO III - ITEM NÃO MENSURAVEL ..........................................................................39 ANEXO IV - MODELO DE PROPOSTA...........................................................................41 ANEXO V ­ MODELO DE CREDENCIAMENTO .............................................................42 ANEXO VI ­ CONTRATO N.º .........................................................................................43
+
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+EDITAL DE LICITAÇÃO
+
+Modalidade: PREGÃO PRESENCIAL - PROCESSO N º 0500005 080/2009
+
+1 ­ PREÂMBULO O ESTADO DE MINAS GERAIS, através da Fundação Hospitalar do Estado de Minas Gerais, por intermédio da ADMINISTRAÇÃO CENTRAL, realizará a licitação na modalidade pregão presencial, em sessão pública, a ser realizada no Auditório da Administração Central, localizado à Alameda Vereador Álvaro Celso, nº. 100, Santa Efigênia ­ Belo Horizonte/MG, para Contratação de fábrica de software objetivando o desenvolvimento de 2.650 (dois mil Seiscentos e Cinqüenta) pontos de função para evolução do Sistema Informatizado de Gestão Hospitalar ­ SIGH, utilizando a plataforma JEE e banco de dados MySQL; suporte técnico sob demanda a equipe de desenvolvimento da FHEMIG, conforme especificações contidas no Anexo I desse Edital. O pregão presencial será regido pela Lei Federal nº. 10.520, de 17 de julho de 2002, Lei Estadual nº. 14.167, de 10 de janeiro de 2002, Lei Complementar nº. 123, de 14 de dezembro de 2006, pelos Decretos nº. 44.786 de 19 de abril de 2008, nº. 44.431, de 29 de dezembro de 2006 e alterações posteriores, e nº. 44.630, de 03 de outubro de 2007, pela Resolução SEPLAG nº. 09, de 16 de fevereiro de 2009, pela Resolução SEPLAG nº. 10, de 26 de janeiro de 2007, pela Resolução Conjunta SEPLAG / JUCEMG nº. 6419, de 30 de novembro de 2007, pela Resolução SEPLAG nº. 058, de 30 de novembro de 2007, aplicando-se, subsidiariamente a Lei Federal nº. 8.666, de 21 de junho de 1993, com suas alterações posteriores.
+
+1.1 - O pregão será realizado pelo Pregoeiro Antonio Moreira Sabino, e Equipe de Apoio, designados pela Portaria Presidencial nº. 583, de 03 de Julho do ano de 2009. 1.2 - A abertura da Sessão de Pregão terá início previsto para o dia 27 de Agosto de 2009, às 09:00, quando serão abertas e analisadas as propostas comerciais no endereço acima apresentado. 1.3 - Para todas as referências de tempo contidas neste edital será observado o horário oficial de Brasília - DF.
+
+2
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+2 ­ OBJETO 2.1 - Constitui objeto da presente licitação a Contratação de fábrica de software objetivando o desenvolvimento de 2.650 (dois mil seiscentos e cinqüenta) pontos de função para evolução do Sistema Informatizado de Gestão Hospitalar ­ SIGH, utilizando a plataforma JEE e banco de dados MySQL; suporte técnico sob demanda à equipe de desenvolvimento da FHEMIG observadas as especificações e quantitativos constantes do Anexo I, deste instrumento convocatório.
+
+3 - DAS CONDIÇÕES DE PARTICIPAÇÃO 3.1 - Poderão participar da presente licitação todos os fornecedores que realizem atividades no ramo pertinente ao objeto desta licitação. 3.2 - Não poderão participar da presente licitação as empresas que: 3.2.1 - Se encontrem sob falência, concordata, recuperação judicial ou extrajudicial, concurso de credores, dissolução, liquidação ou empresas estrangeiras que não funcionam no país; 3.2.2 - Forem declaradas suspensas de contratar junto a qualquer órgão da Administração Pública Estadual; 3.2.3 - Forem declaradas inidôneas para licitar junto a qualquer órgão da administração direta ou indireta Federal, Estadual ou Municipal; 3.2.4 - Não atendam ao estipulado na cláusula 3.1. 3.2.5 - Que estejam constituídas sob a forma de consórcio ou cooperativas; 3.2.6 - Que possuam participação direta ou indireta de sócio, diretor ou responsável técnico que tenha vínculo empregatício com a Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG. 3.3 - O Licitante arcará integralmente com todos os custos de preparação e apresentação de sua proposta, independente do resultado do procedimento licitatório. 3.4 - A participação neste certame implica em aceitação de todas as condições estabelecidas neste instrumento convocatório e seus anexos.
+
+4 ­ DA ENTREGA DOS ENVELOPES 4.1 Dos envelopes "PROPOSTA COMERCIAL" e "DOCUMENTAÇÃO DE
+3
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+HABILITAÇÃO". 4.1.1 - Os envelopes "Proposta Comercial" e "Documentação de Habilitação" deverão ser indevassáveis, hermeticamente fechados e entregues ao Pregoeiro, na sessão pública de abertura deste certame, conforme endereço, dia e horário especificados abaixo.
+
+LOCAL: Alameda Álvaro Celso, 100-Santa Efigênia - Belo Horizonte - MG. DATA: 27 de Agosto de 2009. HORÁRIO: 09:00 (Nove horas)
+
+4.1.2 - Os envelopes deverão ainda indicar em sua parte externa e frontal os seguintes dizeres: FUNDAÇÃO HOSPITALAR DO ESTADO DE MINAS GERAIS ADMINISTRAÇÃO CENTRAL PREGÃO PRESENCIAL N.º 0500005 080/2009 ENVELOPE N.º 1 ­ PROPOSTA COMERCIAL PROPONENTE:
+
+FUNDAÇÃO HOSPITALAR DO ESTADO DE MINAS GERAIS ADMINISTRAÇÃO CENTRAL PREGÃO PRESENCIAL N.º 0500005 080/2009 ENVELOPE N.º 2 ­ DOCUMENTOS DE HABILITAÇÃO PROPONENTE:
+
+4.2 - A Fundação Hospitalar do Estado de Minas Gerais não se responsabilizará por envelopes de "Proposta Comercial" e "Documentação de Habilitação" que não sejam entregues ao Pregoeiro designado, no local, data e horário definidos neste edital.
+
+5 - DO CREDENCIAMENTO 5.1 - Na sessão pública de realização do pregão, o representante do licitante deverá se apresentar para credenciamento, junto ao Pregoeiro, devidamente munido de documento que o credencie a participar deste certame e a responder pela representada, devendo, ainda, identificar-se, exibindo a Cédula de Identidade ou outro documento
+4
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+equivalente. 5.2 - O credenciamento far-se-á através de instrumento público ou particular de procuração, com firma reconhecida, ou documento que comprove os necessários poderes especiais para formular ofertas e lances de preços, e praticar todos os demais atos pertinentes ao certame, em nome do licitante. 5.2.1 - No caso de sócio, proprietário, dirigente ou assemelhado da empresa licitante, deverá ser apresentado cópia autenticada do Estatuto ou Contrato Social juntamente com as alterações que comprovem sua capacidade de representação legal, com expressa previsão dos poderes para exercício de direitos e assunção de obrigações. Em caso de administrador eleito em ato apartado, deverá ser apresentada cópia da ata de reunião ou assembléia em que se deu a eleição. 5.2.2 - No caso de credenciamento por instrumento particular de procuração, com firma reconhecida de dirigente, sócio ou proprietário da empresa licitante, deverá ser apresentada no momento do credenciamento, cópia autenticada do respectivo Estatuto ou Contrato Social acompanhado da última alteração estatutária ou contratual, e ata de eleição da Diretoria em exercício, no qual estejam expressos os poderes do signatário para exercer direitos e assumir obrigações em decorrência de tal investidura. 5.3 ­ O fornecedor que desejar obter os benefícios previstos no Capítulo V da Lei Complementar Federal nº. 123/06, disciplinados no Decreto Estadual nº. 44.630/07, pela Resolução SEPLAG nº. 58, de 1º de dezembro de 2007 deverá comprovar a condição de micro ou pequena empresa quando do seu credenciamento junto ao Cadastro Geral de Fornecedores do Estado de Minas Gerais - CAGEF, com a apresentação de: 5.3.1 - se inscrito no Registro Público de Empresas Mercantis, a declaração de enquadramento arquivada ou a certidão simplificada expedida pela Junta Comercial, ou equivalente, da sede da Pequena Empresa; 5.5.2 - se inscrito no Registro Civil de Pessoas Jurídicas, a declaração de enquadramento arquivada ou a Certidão de Breve Relato do Cartório de Registro Civil de Pessoas Jurídicas, ou equivalente, da sede da Pequena Empresa. 5.4 - Na hipótese de o Cartório de Registro Civil de Pessoas Jurídicas não emitir o documento mencionado no item 5.5.2 deste artigo, nos termos da Lei Complementar Federal n° 123/06, será aceita, mediante a comprovação dessa circunstância, pelo CAGEF, declaração de porte feita pelo representante da empresa, sob as penas da lei.
+5
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+5.5 - Para fins de registros cadastrais no CAGEF, a comprovação de condição de Pequena Empresa dar-se-á nos termos dos arts. 3º e 4º da Resolução Conjunta SEPLAG/SEDE/JUCEMG nº. 6419, de 1º de dezembro de 2007. 5.6 - A empresa licitante deverá apresentar declaração dando ciência de que cumpre plenamente os requisitos de habilitação, conforme modelo a seguir:
+DECLARAÇÃO A empresa .................................................., CNPJ n.º ..............................., declara, sob as penas da lei, que atende plenamente a todos os requisitos de habilitação exigidos para participar do Pregão Presencial nº. 0500005 080/2009. Data e local _____________________________________ Nome e assinatura do Diretor ou Representante Legal
+
+5.6.1 ­ A pequena empresa que apresentar restrições na documentação relativa à comprovação de regularidade fiscal deverá fazê-lo constar da Declaração de que trata a cláusula 5.5 deste Edital, conforme modelo a seguir:
+DECLARAÇÃO A empresa .................................................., CNPJ n.º ..............................., declara, sob as penas da lei, possuir restrição nos documentos de comprovação da regularidade fiscal, conforme faculdade prevista na Lei Complementar Federal nº. 123, de 14 de dezembro de 2006, e se compromete a adotar todas as medidas necessárias, em razão do prazo concedido para este fim, para tentar promover sua regularização fiscal, caso venha a formular o lance vencedor, sob pena de aplicação do art. 12 da Lei Estadual nº. 14.167, de 10 de janeiro de 2002, cumprindo plenamente os demais requisitos de habilitação para o Pregão Presencial nº. 0500005 080/2009. Data e local _____________________________________ Nome e assinatura do Diretor ou Representante Legal
+
+5.6.2 ­ Será facultado ao representante da empresa firmar a declaração de que trata esta cláusula, por ocasião do credenciamento. 5.7 - O documento de credenciamento deverá obedecer ao modelo do Anexo III. 5.8 ­ A declaração ou certidão de que trata a cláusula 5.3 e a declaração de que trata a cláusula 5.6 deverão ser apresentadas FORA DE QUALQUER ENVELOPE, juntamente com os documentos exigidos para credenciamento. 5.9 ­ Será admitido apenas 1 (um) representante para cada empresa licitante credenciada, sendo que cada um deles poderá representar apenas uma credenciada. 5.10 - A ausência do credenciado importará a imediata exclusão do licitante da sessão de lances e renúncia ao direito de manifestação de interposição de recursos.
+
+6 - DAS PROPOSTAS COMERCIAIS 6.1 - As propostas comerciais deverão ser datilografadas ou impressas, em uma via,
+6
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+com suas páginas numeradas e rubricadas, e a última assinada pelo representante legal da empresa, sem emendas, acréscimos, borrões, rasuras, ressalvas, entrelinhas ou omissões, salvo se, inequivocamente, tais falhas não acarretarem lesões ao direito dos demais licitantes, prejuízo à Administração ou não impedirem a exata compreensão de seu conteúdo, observado o modelo constante do Anexo II, deste edital, e deverão constar: 6.1.1 - Nome, número do CNPJ, endereço, telefone e fax da empresa proponente; 6.1.2 - Prazo de validade da proposta não inferior a 60 (sessenta) dias, contados da data estipulada para a entrega dos envelopes; 6.1.3 - Prazo para início da execução do serviço não superior 10 (dez) dias (ÚTEIS), contados a partir do recebimento da nota de empenho pela contratada. 6.1.4 - Declaração de que nos preços propostos encontra-se incluídos todos os tributos, encargos sociais, frete até o destino e quaisquer outros ônus que porventura possam recair sobre o fornecimento do objeto da presente licitação; 6.1.5 - Os fornecedores estabelecidos no Estado de Minas Gerais ficam isentos do ICMS, conforme dispõe o Decreto 43.080/2002, alterado pelo Decreto 43.349, de 30 de maio de 2003. 6.1.6 - O fornecedor mineiro deverá informar em sua proposta, além do preço normal de mercado dos produtos ou serviços o preço resultante da dedução do ICMS. 6.1.7 ­ O PROPONENTE optante pelo Simples Minas deverá apresentar em sua proposta apenas os preços com ICMS. 6.1.7.1 ­ O disposto nos subitens 6.1.5 a 6.1.7 não se aplica aos contribuintes mineiros enquadrados como pequena empresa optantes pelo regime do Simples Nacional e para contratação de serviços. 6.1.7.2 - As pequenas empresas mineiras optantes pelo Simples Nacional deverão apresentar em suas propostas apenas os preços com ICMS. 6.1.7.3 - As pequenas empresas mineiras não optantes pelo Simples Nacional farão suas propostas conforme o disposto nos itens 6.1.5 a 6.1.7. 6.1.7.4 - As pequenas empresas mineiras de que trata o item 6.1.7.2 deverão anexar em suas propostas comerciais a ficha de inscrição estadual na qual conste a opção pelo Simples Nacional, podendo o pregoeiro, na sua falta, consultar a opção por este regime através do
+7
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+site: http://www8.receita.fazenda.gov.br/SimplesNacional/. 6.1.8 - As propostas não poderão impor condições ou conter opções, somente sendo admitidas propostas que ofertem apenas um preço para o objeto desta licitação. 6.1.9 ­ O licitante deverá explicitar o valor unitário de cada material constante do(s) lote(s). 6.1.10 - Todos os preços deverão estar expressos em moeda corrente (R$), contendo 2 (dois) dígitos na casa decimal. 6.1.11 ­ O licitante deverá apresentar a Certidão de Tomada de Conhecimento Técnico. 6.1.11.1 ­ É obrigatória a visita técnica do licitante, à Gerência de Solução em Tecnologia de Informação da Fhemig, ocasião em que será fornecida aos interessados a Certidão de Tomada de Conhecimento Técnico ­ documento a ser apresentado junto à Proposta Comercial. 6.1.11.2 ­ As visitas deverão ser agendadas previamente coma Gerência de Solução em Tecnologia da Informação da Fhemig através do telefone 3239-9560 e deverão ocorrer no horário comercial, no prazo máximo de 24 horas antes do dia marcado para entrega das propostas. 6.1.11.3 ­ O licitante deverá, expressamente, nomear um representante, com autorização para realizar a visita técnica.
+
+7 - DA HABILITAÇÃO 7.1 - REGULARIDADE JURÍDICA 7.1.1 ­ Documento de Identificação do responsável pela assinatura do contrato e, se for o caso, procuração. 7.1.2 - Registro empresarial na Junta Comercial, no caso de empresário individual; 7.1.3 - Ato Constitutivo, estatuto ou contrato social e suas alterações posteriores ou instrumento consolidado, devidamente registrado na Junta Comercial, em se tratando de sociedades empresárias ou cooperativas, e no caso de sociedade de ações, acompanhado de documentos de eleição ou designação de seus administradores; 7.1.4 - Ato constitutivo devidamente registrado no Registro Civil de Pessoas
+8
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+Jurídicas tratando-se de sociedade não empresária, acompanhado de prova da diretoria em exercício; 7.1.5 - Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo Órgão competente, quando a atividade assim o exigir. 7.1.6 ­ Os documentos relacionados nos subitens 7.1.1 a 7.1.4 não precisarão constar do Envelope "Documentos de Habilitação", se tiverem sido apresentados para o credenciamento neste Pregão.
+
+7.2 - REGULARIDADE FISCAL 7.2.1 - Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fazenda - CNPJ; 7.2.2 - Prova de inscrição no Cadastro de Contribuintes Estadual, relativo à sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto do certame; 7.2.3 - Prova de regularidade para com a Fazenda Estadual da sede do licitante; 7.2.4 - Certificado de Regularidade perante o Fundo de Garantia por Tempo de Serviço - FGTS; 7.2.5 - Certificado de Situação Regular perante o Sistema de Seguridade Social INSS, ou prova de garantia em juízo de valor suficiente para pagamento do débito, quando em litígio. 7.2.6 ­ A pequena empresa deverá apresentar toda a documentação relativa à comprovação da regularidade fiscal. 7.2.6.1 - Havendo alguma restrição na comprovação da regularidade fiscal de pequena empresa, assegurar-se-á o prazo de 2 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que a pequena empresa for declarada vencedora do certame, para a devida e necessária regularização. 7.2.6.2 - A comprovação da regularidade fiscal deverá ser efetuada mediante a apresentação das competentes certidões negativas de débitos, ou positivas com efeitos de negativas. 7.2.6.3 - O prazo previsto no item 6.2.6.1, poderá ser prorrogado por igual período, se requerido pelo licitante e expressamente autorizado pela
+9
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+Administração. 7.2.6.4 - A não regularização da documentação, no prazo deste item, implicará a decadência do direito à contratação.
+
+7.3 - QUALIFICAÇÃO ECONÔMICO-FINANCEIRA 7.3.1 - Certidão negativa de falência, concordata, recuperação judicial e extrajudicial expedida pelo distribuidor da sede da pessoa jurídica, ou de execução patrimonial, expedida pelo distribuidor do domicílio da pessoa física, emitida nos últimos 06(seis) meses;
+
+7.4 - QUALIFICAÇÃO TÉCNICA 7.4.1 - Comprovação de aptidão para desempenho de atividade pertinente e compatível em características, quantidades e prazos com o objeto da licitação através da apresentação de no mínimo 01 (um) atestado de desempenho anterior, fornecido por pessoa jurídica de direito público ou privado, comprobatório da capacidade técnica para atendimento ao objeto da presente licitação, com indicação da prestação do serviço, qualidade do material, do atendimento, cumprimento de prazos e demais condições da prestação do serviço. 7.4.2 - A equipe de Desenvolvimento deverá ser minimamente composta dos seguintes profissionais em tempo integral: a) Um profissional responsável pela gerência dos projetos de Desenvolvimento e pela representação da empresa junto à Gerência de Solução em Tecnologia da Informação; b) Dois arquitetos de software; c) Dois analistas; d) Cinco desenvolvedores Java; e) Dois testadores. 7.4.2.1 - A equipe técnica que atuará na FHEMIG deverá atender aos seguintes requisitos: a) Os componentes da equipe deverão ter experiência nas tecnologias Hibernate, Spring, Tapestry 5, JBoss, MySQL e jUnit ­ além da própria linguagem Java. A experiência deverá ser comprovada através de apresentação de curriculum, sobre o qual a empresa contratada ficará integralmente responsável pela confiabilidade da informação
+10
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+b) Comprovação de possuir pelo menos um profissional com a certificação de Project Management Professional, emitido pelo Project Management Institute, a fim de exercer o papel de gerente do projeto. c) Comprovação de possuir no mínimo três profissionais do quadro regular da empresa com Certificação SCJP ­ Sun Certified Java Programmer emitidos pela Sun Microsystems. d) Comprovação de possuir em seu quadro regular, no mínimo dois profissionais com titulação de mestre em ciência da computação comprovada através de diploma ou certificado emitido pela instituição de ensino, com experiência de no mínimo 01 (um) ano na execução da função a ser exercida, para exercer as funções de arquiteto e líder desenvolvimento. e) A comprovação de vínculo regular com a empresa será demonstrada através de Contrato Social da Empresa; Carteira de Trabalho ou Contrato de Estágio devidamente assinados há no mínimo 180 dias. 7.4.3 - Certidão de tomada de conhecimento técnico, fornecida pela Gerência de Solução em Tecnologia da Informação da FHEMIG. 7.4.4 - Apresentação de atestado de Desenvolvimento de sistema de gestão hospitalar utilizando a plataforma JEE e banco de dados MySQL com pelo menos 80% dos pontos de função previstos neste edital (equivalente a 2120 pontos de função). 7.4.4.1 - Deve ser explicitado o conjunto de módulos desenvolvidos de modo a atestar que a empresa proponente desenvolveu um sistema contemplando os módulos de custos hospitalares e prontuário do paciente e pelo menos seis entre os seguintes módulos: Atendimento, Laboratório, Imaginologia, Bloco Cirúrgico, Farmácia, prescrição médica, anotações de enfermagem, gestão da qualidade em hospitais, hotelaria, CCIH, CME, SND, atendimento ambulatorial, agendamento de consultas. 7.4.4.2 - O atestado deverá ser emitido em português por pessoa jurídica de direito público ou privado nacional e deverá conter: a) nome da entidade que está emitindo o atestado; b) nome do sistema desenvolvido; c) indicação de que foi utilizada a plataforma JEE e banco de dados MySQL; d) lista de módulos do sistema desenvolvidos pela empresa; e) quantidade de pontos de função utilizados na codificação; f) data da emissão do atestado;
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+11
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+g) nome do responsável pela assinatura do atestado e o cargo do mesmo na entidade atestante. 7.4.5 - Certificação de Qualidade de processo de Software MPS.Br - Melhoria de Processo de Software Brasileiro , referente à unidade organizacional "fábrica de projetos", "fábrica de software", ou "área de desenvolvimento de software" que irá executar o projeto.
+
+7.5 ­ DECLARAÇÕES 7.5.1 - Declaração de que o licitante não se acha declarado inidôneo para licitar e contratar com o Poder Público ou suspenso do direito de licitar ou contratar com a Administração Estadual; e, segundo determina o inciso V do art. 27 da Lei Federal 8.666/93 (com redação dada pela Lei 9.854, de 27 de outubro de 1999), declaração de que o licitante não possui, em seus quadros, trabalhadores menores de 18 anos realizando trabalho noturno, perigoso ou insalubre e que em nenhuma hipótese, emprega trabalhadores menores de 16 anos, salvo na condição de aprendiz, na forma da Lei. As declarações serão conforme modelos a seguir:
+DECLARAÇÃO A empresa .................................................., CNPJ n.º ..............................., declara, sob as penas da lei, que, até a presente data, inexistem fatos impeditivos para sua habilitação, no presente processo licitatório, ciente da obrigatoriedade de declarar ocorrências posteriores. DATA E LOCAL ________________________________________________________ ASSINATURA DO DIRETOR OU REPRESENTANTE LEGAL
+
+DECLARAÇÃO A empresa ................................................, CNPJ n.º ..............................., declara, sob as penas da lei, que na mesma não há realização de trabalho noturno, perigoso ou insalubre por menores de 18 anos ou a realização de qualquer trabalho por menores de 16 anos, salvo na condição de aprendiz, na forma da lei. DATA E LOCAL ________________________________________________________ ASSINATURA DO DIRETOR OU REPRESENTANTE LEGAL
+
+7.6 ­ DISPOSIÇÕES GERAIS DA HABILITAÇÃO 7.6.1 ­ O licitante que possuir o novo Certificado de Registro Cadastral - Cadastramento, criado pelo Decreto nº. 44.431, de 29 de dezembro de 2006, emitido pelo Portal de Compras ou o antigo Certificado de Registro Cadastral, emitido pelo SIAD, com a validade em vigor, poderá apresentá-lo para utilizar-se de documento nele constante como substituto de documento exigido para este certame, desde que o documento do
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+12
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+certificado esteja com a validade em vigor. 7.6.1.1 - Caso o documento constante do certificado esteja com a validade vencida, tal documento não poderá ser utilizado como substituto, devendo ser apresentado o documento exigido para este certame, com a validade em vigor. 7.6.1.2 - Serão analisados no certificado somente os documentos exigidos para este certame, sendo desconsiderados todos os outros documentos, mesmo que estejam com validade em vigor. 7.6.1.3 ­ O Certificado de Registro Cadastral ­ Cadastramento emitidos a partir de 02/01/2007, conforme dispõe o §2º do art. 8º do Decreto nº. 44.431/06 e as alterações trazidas pelo Decreto nº. 44.515/07, poderá substituir os seguintes documentos, interpretados em conformidade com aqueles exigidos para este certame: a) contrato ou estatuto social e suas alterações posteriores ou documento equivalente; b) ata de eleição da diretoria, conforme o caso; c) inscrição no CNPJ; d) prova de inscrição no cadastro estadual de contribuintes, do respectivo Estado no qual está instalada a pessoa jurídica; e) prova de regularidade junto à Fazenda Estadual, do respectivo Estado no qual está instalada a pessoa jurídica; f) prova de regularidade junto ao FGTS; g) prova de regularidade junto ao INSS; h) balanço patrimonial do último exercício ou declaração de imposto de renda da pessoa jurídica do último exercício, na forma da lei; i) demonstrações de resultado do último exercício, conforme o caso; j) certidão negativa de pedido de falência ou recuperação judicial de empresa expedida pelo Distribuidor da sede da empresa; k) declaração conforme modelo disponibilizado no sítio
+
+"www.compras.mg.gov.br" e no Anexo I do Decreto nº. 44.515/07; e l) outros documentos que, no caso específico, sejam necessários para comprovar a regularidade jurídica do fornecedor.
+13
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+8 - DA SESSÃO DO PREGÃO E DO JULGAMENTO 8.1 ­ Encerrado o credenciamento e identificação dos representantes das empresas participantes, o Pregoeiro declarará aberta a sessão pública do pregão presencial, momento a partir do qual não serão aceitos novos participantes, dando início ao recebimento dos envelopes contendo a Proposta Comercial e os Documentos de Habilitação, exclusivamente dos participantes devidamente credenciados. 8.1.1 ­ Abertos os envelopes com as propostas comerciais, estas serão analisadas verificando o atendimento a todas as especificações e condições estabelecidas neste Edital e seus Anexos, sendo imediatamente desclassificadas aquelas que estiverem em desacordo. 8.1.2 ­ Serão classificadas a proposta de menor preço, seguida das demais propostas cujos valores sejam inferiores a 10% (dez por cento) ao valor da primeira. 8.1.3 ­ Caso não haja no mínimo 3 (três) propostas de preços nas condições definidas na cláusula anterior, o Pregoeiro classificará as melhores propostas subseqüentes, até o máximo de 3 (três), para que seus autores participem dos lances verbais, quaisquer que sejam os preços oferecidos nas propostas apresentadas. 8.1.4 ­ Após a abertura da sessão de pregão no horário previsto neste edital, o Pregoeiro poderá iniciar ou marcar nova data para abertura da sessão de lances, com a divulgação das propostas de preços recebidas. 8.1.5 ­ A classificação inicial da proposta não obsta a análise e a reprovação posterior de documentações técnicas exigidas neste edital e seus anexos e que venham a ser apresentadas até o final do certame.
+
+8.2 - DOS LANCES VERBAIS 8.2.1 - Aos licitantes classificados, será dada a oportunidade para nova disputa, por meio de lances verbais e sucessivos, de valores distintos e decrescentes, a partir do autor da proposta classificada de maior preço e os demais. 8.2.2 - Se duas ou mais propostas, em absoluta igualdade de condições, ficarem empatadas, será realizado sorteio em ato público, para definir a ordem de apresentação dos lances. 8.2.3 - A desistência em apresentar lance verbal, quando convocado pelo pregoeiro, implicará na exclusão do licitante da etapa de lances verbais e na
+14
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+manutenção do último preço apresentado pelo licitante, para efeito de posterior ordenação das propostas. 8.2.4 ­ A etapa de lances será considerada encerrada quando todos os participantes dessa etapa declinarem da formulação de lances. 8.2.5 ­ Não poderá haver desistência dos lances ofertados, sujeitando-se o licitante desistente às penalidades constantes deste Edital.
+
+8.3 - DO JULGAMENTO 8.3.1 - O critério de julgamento será o de MENOR PREÇO ofertado POR LOTE. 8.3.2 - Encerrada a etapa de lances e ordenadas as ofertas, o pregoeiro examinará a aceitabilidade da primeira classificada, quanto ao objeto e valor, decidindo motivadamente a respeito. 8.3.2.1 - Caso não se realizem lances verbais, será verificada a conformidade entre a proposta de menor preço e o valor estimado da contratação. 8.3.2.2 - Em havendo apenas uma oferta e desde que atenda a todos os termos do edital e que seu preço seja compatível com o valor estimado da contratação, esta poderá ser aceita. 8.3.2.3 - Considera-se inaceitável, para todos os fins aqui dispostos, a proposta que não atender as exigências fixadas neste Edital ou determinar preços manifestamente inexeqüíveis. 8.3.2.3 - Caso o pregoeiro entenda que o preço é inexeqüível, deverá, antes de desclassificar a oferta, estabelecer prazo para que o licitante demonstre a exeqüibilidade de seu preço; confirmada a inexeqüibilidade, e com a finalidade de tornar mais eficiente o certame, o pregoeiro poderá convocar os licitantes para a apresentação de novos lances, 8.3.2.4 - Para demonstração da exeqüibilidade do preço ofertado, serão admitidos: 8.3.2.4.1 - planilha de custos elaborada pelo próprio licitante, sujeita a exame pela Administração; e 8.3.2.4.2 - contratação em andamento com preços semelhantes; 8.3.2.5 - O licitante que ofertar preço considerado inexeqüível pelo pregoeiro, e que não demonstre posteriormente a sua exeqüibilidade, se sujeita às
+15
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+sanções administrativas pela não-manutenção da proposta, previstas no art. 12 da Lei nº. 14.167, de 2002, sem prejuízo de outras sanções, inclusive aquela tipificada no art. 93 da Lei Federal nº. 8.666, de 1993; 8.3.2.6 - O pregoeiro consultará por meio eletrônico, quando for o caso, a situação de regularidade do licitante detentor da melhor proposta perante o Cadastro Geral de Fornecedores ­ CAGEF, do Sistema Integrado de Administração de Materiais e Serviços, SIAD, nos documentos por ele abrangidos; no caso de não constar do CAGEF documento exigido no edital, o licitante deverá apresentá-lo em original ou cópia, na própria sessão, no momento determinado pelo pregoeiro; 8.3.3 - Sendo aceitável a oferta de menor preço, será aberto o envelope contendo a documentação de habilitação do licitante que a tiver formulado, para confirmação das suas condições habilitatórias. 8.3.4 ­ Constatado o atendimento pleno às exigências editalícias, será declarado o proponente vencedor provisório do objeto para o qual apresentou proposta. 8.3.5 ­ Se a proposta não for aceitável ou se o proponente não atender às exigências habilitatórias, o pregoeiro examinará as ofertas subseqüentes, verificando a sua aceitabilidade e procedendo a verificação das condições de habilitação de proponente, na ordem de classificação, até a apuração de uma proposta que atenda ao edital, sendo o respectivo proponente declarado vencedor e a ele adjudicado o objeto deste edital, para o qual apresentou proposta. 8.3.6 ­ Após a apuração da menor proposta válida, observada a classificação das propostas até o momento, será assegurado às pequenas empresas o direito de preferência à contratação, observadas as seguintes regras: 8.3.6.1 ­ O pregoeiro convocará a pequena empresa detentora da proposta de menor valor dentre aquelas que estejam na situação de empate, ou seja, cujos valores sejam iguais ou superiores até 5% (cinco por cento) em relação ao valor apresentado pelo proponente vencedor, para que apresente nova proposta de preço INFERIOR ao valor da melhor oferta inicial, no prazo de 5 (minutos) minutos, sob pena de preclusão do direito de preferência. 8.3.6.2 ­ Realizada nova oferta de preço, nos termos do subitem anterior, o pregoeiro examinará a aceitabilidade desta, quanto ao objeto e valor, decidindo motivadamente a respeito. 8.3.6.3 ­ Sendo aceitável a nova oferta de preço, será aberto o envelope
+16
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+contendo a documentação de habilitação da pequena empresa que a tiver formulado, para a confirmação das suas condições habilitatórias. 8.3.6.3.1 ­ Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo previsto no item 7.2.6.1, para a devida e necessária regularização. 8.3.6.3.2 ­ Se houver a necessidade de abertura do prazo para a pequena empresa regularizar sua documentação fiscal, o pregoeiro deverá suspender a sessão de pregão para o lote específico e registrar a ata que todos os presentes ficam, desde logo, intimados a comparecer no dia, horário e local informados para a retomada da sessão de lances do lote em referência. 8.3.6.4 ­ Constatado o atendimento às exigências editalícias, a pequena empresa será declarada vencedora, sendo beneficiária. 8.3.6.5 ­ Se a pequena empresa não apresentar proposta de preços ou não atender às exigências de habilitação, o pregoeiro convocará as pequenas empresas remanescentes que estiverem na situação de empate prevista no subitem 8.3.6.1, na ordem classificatória para o exercício do mesmo direito. 8.3.6.6 ­ Caso não haja pequena empresa dentro da situação de empate ou não ocorra a apresentação de nova proposta de preço ou não sejam atendidas as exigências documentais de habilitação, o pregoeiro realizará o pregão para o licitante originalmente declarado vencedor. 8.3.6.7 - O disposto no item anterior só se aplica quando a melhor oferta válida não tiver sido apresentada por pequena empresa. 8.3.7 ­ Após a aplicação do critério de desempate, se houver, o pregoeiro poderá negociar com o autor da oferta de menor valor com vistas à redução do preço. 8.3.7.1 ­ Após a negociação do preço, o Pregoeiro deverá verificar se há algum licitante, obedecida a ordem de classificação, que deseja se manifestar nas mesmas condições do primeiro colocado. 8.3.7.2 ­ Caso ocorram situações do subitem anterior, o pregoeiro deverá verificar as suas condições habilitatórias, sendo autorizado apenas quando for constatado o pleno atendimento às exigências do edital. 8.3.7.2.1 ­ Para a habilitação de pequena empresa, deverá ser observado o disposto no item 7.2.6.1, quanto aos prazos para regularização fiscal.
+17
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+8.3.8 ­ Apurada a melhor proposta que atenda ao edital, o Pregoeiro deverá negociar para que seja obtido um melhor preço. 8.3.9 ­ Não poderá haver desistência dos lances ofertados, sujeitando-se o proponente desistente às penalidades constantes deste edital. 8.3.10 ­ Da reunião lavrar-se-á ata circunstanciada, na qual serão registrados todos os atos do procedimento e as ocorrências relevantes e que, ao final, será assinada pelo pregoeiro, equipe de apoio e pelos licitantes.
+
+9 - DOS RECURSOS 9.1 - Declarado o vencedor, qualquer licitante poderá se manifestar imediata e motivadamente a intenção de recorrer, cuja síntese será lavrada em ata, sendo concedido o prazo de 3 (três) dias úteis para apresentação das razões de recurso, ficando os demais licitantes desde logo intimados para apresentar contra-razões em igual número de dias, que começarão a correr do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos autos. 9.2 ­ O licitante poderá também apresentar as razões do recurso no ato do pregão, as quais serão reduzidas a termo na respectiva ata, ficando todos os demais licitantes desde logo intimados para apresentar contra-razões no prazo de 3 (três) dias úteis, contados da lavratura da ata, sendo-lhes assegurada vista imediata dos autos. 9.3 - A ausência de manifestação imediata e motivada do licitante importará a decadência do direito de recurso. 9.4 - Os recursos e contra-razões de recurso de qualquer natureza devem ser endereçados ao pregoeiro e protocolados junto ao Protocolo, localizado à Portaria da Administração Central, dentro do prazo legal, no horário de 09 às 12 horas ou de 14 às 18 horas, o qual deverá receber, examinar e submetê-los à autoridade competente que decidirá sobre sua pertinência. 9.5 - Os recursos deverão ser decididos no prazo de 5 (cinco) dias úteis. 9.6 - O recurso contra a decisão do pregoeiro terá efeito suspensivo, exceto quando manifestamente protelatório ou quando o pregoeiro puder decidir de plano, e seu acolhimento importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 9.7 - Não serão conhecidos os recursos interpostos após os respectivos prazos legais. 9.8 - O resultado do recurso será divulgado mediante publicação no Diário Oficial do Estado de Minas Gerais.
+18
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+9.9 - Decididos os recursos ou transcorrido o prazo para a manifestação de intenção de interposição dos mesmos, sem que tenha havido manifestação dos licitantes, o Pregoeiro devolverá, aos licitantes julgados desclassificados em todos os itens, os envelopes "DOCUMENTAÇÃO DE HABILITAÇÃO", inviolados, podendo, todavia, retê-los até o encerramento da licitação.
+
+10 - DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO 10.1 - Inexistindo manifestação recursal, o Pregoeiro adjudicará o objeto da licitação ao licitante vencedor, com a posterior homologação do resultado pelo Diretor da Unidade. 10.2 - Decididos os recursos porventura interpostos, e constatada a regularidade dos atos procedimentais, a Autoridade Competente adjudicará o objeto ao licitante vencedor e homologará o procedimento licitatório.
+
+11 ­ DA CONTRATAÇÃO 11.1 - Encerrado o procedimento licitatório, o representante legal do licitante que tiver apresentado a proposta vencedora e aceita será convocado para firmar o termo de contrato ou instrumento equivalente, conforme minuta do Anexo V. 11.1.1 ­ O detentor da proposta vencedora deverá comprovar a manutenção das condições demonstradas para habilitação para assinar o contrato ou instrumento equivalente, bem como conservá-las durante toda a sua execução. 11.1.2 - Caso o licitante adjudicatário não apresente situação regular no ato da assinatura do contrato ou instrumento equivalente, ou recuse-se a assiná-lo, serão convocados os licitantes remanescentes, observada a ordem de classificação, para celebrar o contrato, já ultrapassada a fase da aplicação, nesta hipótese, do disposto no art. 5º do decreto estadual n° 44.630/07. 11.1.3 - Na hipótese de convocação dos licitantes remanescente no pregão, o licitante deverá manter sua última proposta registrada, podendo negociar este preço, não havendo necessidade de cobrir o preço da proposta mais vantajosa, conforme disposto no art. 9º, incisos XIV e XV da Lei Estadual nº. 14.167, de 10 de janeiro de 2002. 11.2 - O representante legal do licitante que tiver apresentado a proposta vencedora deverá assinar o contrato, dentro do prazo máximo de 5 (cinco) dias úteis a contar do recebimento da comunicação, através de FAX ou Correio ou e-mail.
+19
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+11.3 ­ Qualquer solicitação de prorrogação de prazo para assinatura do contrato ou instrumento equivalente, decorrentes desta licitação, somente será analisada se apresentada antes do decurso do prazo para tal e devidamente fundamentada.
+
+12 - DO PAGAMENTO 12.1 - O pagamento será efetuado através do Sistema Integrado de Administração Financeira - SIAFI/MG, por meio de ordem bancária emitida por processamento eletrônico, a crédito do beneficiário, preferencialmente, em um dos bancos credenciados pelo Estado, no prazo de 30 (trinta) dias corridos da data de aceitação do serviço ou medição, pela CONTRATANTE, acompanhado da planilha detalhada dos serviços executados e dos documentos fiscais. 12.2 ­ A Fundação procederá à retenção do percentual de 11% (onze por cento) sob o valor da Nota Fiscal de prestação de serviços, cabendo a CONTRATADA apresentar aquela nos termos da legislação previdenciária. 12.3 ­ Os valores relativos às horas extras e ao adicional noturno, quando expressamente autorizados pela Diretoria de Planejamento, Gestão e Finanças ­ DPGF, serão reembolsados pela Fundação, na forma da legislação aplicável, desde que devidamente comprovados e apurados. 12.4 ­ O valor dos vales-transporte concedidos aos empregados da CONTRATADA será reembolsado pela Fundação no montante correspondente ao seu valor facial, deduzida a parcela de contribuição do empregado prevista em lei. 12.5 ­ O valor das diárias de viagem concedidas aos empregados da CONTRATADA será reembolsado pela Fundação, no montante correspondente ao valor apurado e autorizado pela Diretoria de Planejamento, Gestão e Finanças ­ DPGF. 12.6 ­ O valor das passagens concedidas aos empregados da CONTRATADA será reembolsado pela Fundação, no montante correspondente ao valor apurado e autorizado pela Diretoria de Planejamento, Gestão e Finanças ­ DPGF. 12.7 ­ A CONTRATADA deverá excluir do faturamento mensal os dias de trabalho e salários dos empregados faltosos, em férias, licença ou afastados legalmente, para os quais não houver sido encaminhado substituto. Também deverão ser excluídas do faturamento todas e quaisquer ocorrências que, por força do Contrato a ser celebrado, não forem de responsabilidade da Fundação, assim como aquelas que não corresponderem a serviços efetivamente prestados ou reembolsados devidos.
+20
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+12.8 ­ O preço mensal pago inclui todos os custos diretos e indiretos necessários à completa e perfeita execução dos serviços, especialmente os indicados em planilha. 12.9 ­ Os pagamentos à CONTRATADA somente serão realizados mediante a efetiva prestação dos serviços nas condições especificadas neste Contrato, que será comprovada por meio de atestado de homologação a ser expedido pela Gerência de Solução em Tecnologia de Informação da Fundação. 12.10 ­ A CONTRATADA deverá manter atualizado, durante toda a vigência deste Contrato, o prazo de validade das "Certidões Negativas de Débito" e do "Certificado de Regularidade do FGTS ­ CRF", encaminhando cópia destes documentos à Diretoria de Finanças da Fundação, cuja autenticidade será confirmada nos sites dos órgãos emissores. 12.11 ­ Independente da liquidação e do pagamento de qualquer despesa deste Contrato, a CONTRATADA deverá, nos prazos legais, promover as diligências necessárias e proceder aos recolhimentos de todos os tributos, encargos e contribuições de sua responsabilidade. Caso a Fundação tenha que realizar algum procedimento dessa natureza, promoverá o respectivo ressarcimento por meio da retenção de créditos da CONTRATADA, execução da garantia prestada ou medida judicial apropriada, a critério da Fundação. 12.12 ­ Os documentos comprobatórios dos recolhimentos e pagamentos relativos a tributos, encargos e contribuições de responsabilidade da CONTRATADA deverão ser enviados para a Fundação mensalmente. A documentação deverá ser exclusiva do Contrato, não podendo ser conjunta com outros empregados dos quadros da CONTRATADA. 12.13 ­ A CONTRATADA deverá apresentar a Gerência de Solução em Tecnologia de Informação da Fundação, até o 4º (quarto) dia útil do mês subseqüente ao da prestação dos serviços, a correspondente nota fiscal/fatura, com a planilha de horas efetivamente trabalhadas, acompanhada da seguinte documentação: a) Folhas de pagamento analítica e sintética, específicas dos trabalhadores designados para os serviços na Fundação e na forma da legislação previdenciária, juntamente com os comprovantes de pagamento de salários, referentes ao mês faturado. b) Declaração firmada pelo representante legal e pelo contador da CONTRATADA, nos seguintes termos: "Declaramos, sob as penas da Lei, que a folha de pagamento pertinente à competência MM/AAAA contém todos os empregados
+21
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+designados para os serviços na Fundação, objeto do Contrato nº.___ / ___, tendo sido quitada na sua integralidade." c) Guia de recolhimento do FGTS ­ GRF e respectivo comprovante de quitação, acompanhado do protocolo de envio das informações à Previdência Social, referentes apenas aos trabalhadores designados para os serviços na Fundação. d) Relação de empregados ­ RE/GFIP e respectivo resumo do fechamento, referente à guia especificada na letra "c" anterior. e) Guia de recolhimento do INSS ­ GPS ­ "Outras Entidades". f) Para o faturamento a ser apresentado em janeiro, anexar também os documentos referentes ao pagamento das parcelas do 13º salário e respectivos recolhimentos. g) Comprovante de pagamento dos seguros e respectivas apólices, nos termos das normas aplicáveis. h) Documentos que comprovem de forma cabal e inequívoca o
+
+pagamento/recolhimento de outros encargos sociais, trabalhistas, fundiários, previdenciários, fiscais e tributários devidos pela CONTRATADA, nos termos da legislação pertinente. i) Documentos que comprovem a concessão de benefícios previstos na Convenção Coletiva de Trabalho ­ CCT da categoria. j) No que tange ao adicional noturno, folha de pagamento analítica constando a rubrica "adicional noturno" específica desta Fundação e na forma da legislação previdenciária, juntamente com declaração firmada pelo representante legal e pelo contador da CONTRATADA, nos seguintes termos: "Declaramos, sob as penas da Lei, que o adicional noturno e seus reflexos, referente ao período de DD/MM/AAAA a DD/MM/AAAA, devido aos empregados designados para os serviços na Fundação, objeto do Contrato nº.___ / ___ foi quitado na sua integralidade." k) No que tange a horas extras, folha de pagamento analítica constando a rubrica "hora extra", específica desta Fundação e na forma da legislação previdenciária, juntamente com declaração firmada pelo representante legal e pelo contador da CONTRATADA, nos seguintes termos: "Declaramos, sob as penas da Lei, que as horas extras e seus reflexos, referentes ao período de DD/MM/AAAA a DD/MM/AAAA, devidas aos empregados designados para os serviços na Fundação, objeto do Contrato nº.___ / ___, foram quitadas na sua integralidade." l) No que tange aos vales-transporte, cujo valor do reembolso corresponderá à
+22
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+diferença entre o valor dos vales concedidos e a participação legal do empregado, deverão ser apresentados os comprovantes originais de fornecimento a cada empregado, acompanhados de cópias que deverão ser devidamente conferidas e autenticadas por servidor da Gerência de Solução em Tecnologia de Informação da Fundação. m) No que tange às diárias de viagem, cujo valor do reembolso será apurado pela DPGF, deverão ser apresentados os comprovantes originais dos gastos. n) Relação dos empregados faltosos, em férias, licença ou afastados legalmente no período, com indicação do substituto, quando for o caso, acompanhada de declaração firmada pelo representante legal e pelo contador da CONTRATADA, nos seguintes termos: "Declaramos, sob as penas da Lei, que os trabalhadores designados como substitutos no período de DD/MM/AAAA a DD/MM/AAAA, para atendimento aos serviços objeto do Contrato nº.___ / ___, foram remunerados em observância à legislação trabalhista vigente, tendo sido efetuados os recolhimentos de todos os encargos devidos". o) Relação dos empregados designados no período, devendo ser apresentados os seguintes documentos: · Cópia reprográfica da notificação da dispensa do empregado, devidamente formalizada, ou pedido de demissão. · Comprovante de fornecimento da Guia CD/SD ­ "Certificado de Dispensa e Seguro Desemprego". · Termo de Rescisão do Contrato de Trabalho (TRCT), quitado e homologado perante a autoridade competente, acompanhado de cópia que será devidamente conferida e autenticada por servidor da Gerência de Infra-estrutura para fins de comprovação do pagamento das verbas rescisórias, dentre elas: (I) Saldo de Salário, (II) Aviso Prévio, (III) 13º Salário, (IV) Férias + 1/3 (Vencidas e Proporcionais), (V) Indenização Adicional (Artigo 9º da Lei Federal nº.7.238/84, que trata da dispensa sem justa causa no período dos 30 dias que antecedem a data da correção salarial), caso devidas. · Extratos individualizados que comprovem os depósitos relativos ao FGTS, emitidos pela própria Caixa Econômica Federal, para fins de comprovação dos depósitos relativos ao mês da rescisão e o imediatamente anterior, assim como para confirmação do recolhimento da indenização prevista no art. 18, §1º, da Lei nº.8.036/90 (rescisão sem justa causa), que corresponderá a 40% (quarenta por
+23
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+cento) dos depósitos relativos ao FGTS. · Guia de quitação, perante a Caixa Econômica Federal, da contribuição social (Artigo 1º da Lei Complementar nº.110/01), que corresponderá a 10% (dez por cento) dos depósitos relativos ao FGTS. · Outros documentos que comprovem a quitação das verbas rescisórias devidas ao empregado desligado, bem como confirmem o recolhimento dos encargos a elas relativos. p) Relação dos empregados admitidos no período. q) Outros documentos que, a critério da Fundação, deverão instruir o processo de pagamento, desde que relativos ao presente Contrato, aos serviços prestados ou aos trabalhos envolvidos. 12.14 - Caso ocorra, a qualquer tempo, a não aceitação da prestação do(s) serviço(s), o prazo de pagamento será descontinuado e reiniciado após a correção pela CONTRATADA. 12.15 ­ Ocorrendo atraso de pagamento por culpa exclusiva da Administração, o pagamento será realizado acrescido de atualização financeira, entre as datas do vencimento e do efetivo pagamento, de acordo com a variação "pro-rata tempore" do INPC, ou outro índice que venha substituí-lo, conforme a legislação vigente. 12.16 ­ Na ocorrência de necessidade de providências complementares por parte da CONTRATADA, o decurso de prazo para pagamento será interrompido, reiniciando a contagem a partir da data em que estas forem cumpridas, caso em que não será devida atualização financeira. 12.17 ­ As despesas decorrentes desta licitação correrão por conta da dotação orçamentária prevista no programa de trabalho 2271.10.122.701.2427-0001, objeto de gasto 33903927, fontes 10 e 60.
+
+13- DO REAJUSTAMENTO I - Os preços contratados poderão ser reajustados mediante solicitação da contratada, observado o interregno mínimo de um ano, contada da data limite para a apresentação da proposta ou do último reajuste, com base na variação de custos ocorrida no período, desde que devidamente justificada e demonstrada em planilha. II - Os componentes de custos apresentados em planilha, por ocasião da abertura da licitação, serão referências para a análise de reajuste, não sendo admitida a inclusão
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+24
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+de qualquer elemento de custo que não esteja nos componentes apresentados inicialmente, salvo os decorrentes da Lei nº.8.666/93 ou outros atos normativos. III - A Contratada não fará jus ao reajustamento com efeitos retroativos se não apresentar a solicitação de reajustamento contratual dentro do primeiro mês contados da data da homologação da Convenção Coletiva, tornando-se a única e exclusiva responsável pelos prejuízos decorrentes da não apresentação da solicitação no prazo informado.
+
+14 - DAS SANÇÕES ADMINISTRATIVAS 14.1 ­ Não apresentando o Adjudicatário situação regular no ato da assinatura do contrato ou documento equivalente ou recusar-se a assiná-lo, dentro do prazo estabelecido pela CONTRATANTE, bem como o atraso e a inexecução parcial ou total do Contrato, caracterizarão o descumprimento da obrigação assumida e permitirão a aplicação das seguintes sanções pela CONTRATANTE: 14.1.1 - advertência, que será aplicada sempre por escrito; 14.1.2 - multas; 14.1.3 - suspensão temporária do direito de licitar com a Administração Pública Estadual; 14.1.4 - indenização à CONTRATANTE da diferença de custo para contratação de outro licitante; 14.1.5 declaração de inidoneidade para licitar e contratar com a
+
+ADMINISTRAÇÃO PÚBLICA, no prazo de até 5 (cinco) anos. 14.2 - A multa será aplicada à razão de: a) 0,3% (três décimos por cento) por dia, até o trigésimo dia de atraso, sobre o valor da prestação do serviço; b) 10% (dez por cento) sobre o valor da nota de empenho ou do contrato, em caso de recusa do adjudicatário em efetuar o reforço de garantia; ou c) 20% (vinte por cento) sobre o valor da prestação do serviço, no caso de atraso superior a 30 (trinta) dias, com o conseqüente cancelamento da nota de empenho ou documento correspondente; 14.3 - A sanções previstas nos itens 14.1.1, 14.1.3 e 14.1.5 poderão ser aplicadas cumulativamente, com a do item 14.1.2, ou não, de acordo com a gravidade da infração, assegurada ampla defesa à CONTRATADA, no prazo de 05 (cinco) dias úteis a
+25
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+contar da intimação do ato e, de 10 (dez) dias, para a hipótese de aplicação da declaração de inidoneidade.
+
+15 - EXTENSÃO DAS PENALIDADES 15.1 - A sanção de suspensão de participar em licitação e contratar com a Administração Pública poderão ser também aplicadas, garantida a ampla defesa, àqueles que:
+15.1.1 - apresentarem documentação falsa;
+
+15.1.2 - deixarem de apresentar documentação exigida para o certame; 15.1.3 - ensejarem o retardamento do Pregão ou da execução do objeto da licitação; 15.1.4 - não mantiverem a proposta; 15.1.5 - falharem ou fraudarem a execução do contrato; 15.1.6 - comportarem-se de modo inidôneo; ou 15.1.7 - cometerem fraude fiscal.
+
+16 - DISPOSIÇÕES GERAIS 16.1 - Este edital e seus anexos deverão ser lidos e interpretados na íntegra, e após encaminhamento da proposta não serão aceitas alegações de desconhecimento ou discordância de seus termos. 16.2 - Até o quinto dia após a publicação do aviso do edital, qualquer pessoa, inclusive licitante, poderá solicitar esclarecimentos ou impugnar o ato convocatório do pregão. 16.2.1 - Quaisquer esclarecimentos sobre este Edital deverão ser solicitados, por escrito, à Comissão Permanente de Licitação, localizado à Alameda Vereador Álvaro Celso, nº 100, Santa Efigênia, BH/MG, podendo ser endereçados, também, para o e-mail presidência.cpl@fhemig.mg.gov.br, ou, ainda, por fax, para o número (31) 3239-9538, no mesmo prazo do item 16.2. 16.2.2 - Nos pedidos de esclarecimentos encaminhados, os interessados deverão se identificar (CNPJ, Razão Social e nome do representante que pediu esclarecimentos) e disponibilizar as informações para contato (endereço completo, telefone, FAX e e-mail).
+26
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+16.2.3 ­ Caberá ao pregoeiro decidir sobre a petição no prazo de vinte e quatro horas contados da sua protocolização, apoiado pelo setor técnico responsável pela elaboração do edital ou pelo órgão jurídico, conforme o caso; 16.2.4 ­ Será designada nova data para realização do certame quando: 16.2.4.1 - for acolhida a impugnação contra o ato convocatório, 16.2.4.2 ­ o pregoeiro não responder dentro do prazo estabelecido no item 15.2.3, 16.2.4.3 ­ houver qualquer modificação no ato convocatório, exceto quando a alteração não afetar a formulação das propostas. 16.2.5 - Os esclarecimentos das consultas formuladas serão divulgados mediante correspondências enviadas às potenciais licitantes, por correio, FAX ou e-mail. 16.3 - É facultado ao Pregoeiro ou à Autoridade Superior em qualquer fase do julgamento promover diligência destinada a esclarecer ou complementar a instrução do processo e a aferição do ofertado, bem como solicitar a Órgãos competentes a elaboração de pareceres técnicos destinados a fundamentar as decisões. 16.4 - É vedado ao licitante retirar sua proposta ou parte dela após aberta a sessão do pregão. 16.5 - O objeto do presente Pregão poderá sofrer acréscimos ou supressões conforme previsto no parágrafo 1º do art. 65 da Lei 8.666/93. 16.6 ­ O pregoeiro no julgamento das propostas e da habilitação poderá sanar erros ou falhas que não alterem a substância das propostas, dos documentos e de sua validade jurídica, mediante despacho fundamentado, com validade e eficácia, e acessível a todos os interessados; 16.7 - É vedado à contratada subcontratar total ou parcialmente a prestação do(s) serviço(s) objeto deste pregão, salvo autorização expressa da autoridade competente. 16.8 - A presente licitação somente poderá ser revogada por razões de interesse público, decorrente de fato superveniente devidamente comprovado, ou anulada, em todo ou em parte, por ilegalidade de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente comprovado. 16.8.1 - A anulação do procedimento licitatório induzirá à do contrato. 16.8.2 - Os licitantes não terão direito à indenização em decorrência da anulação do procedimento licitatório, ressalvado o direito do contratado de boa-fé de ser
+27
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+ressarcido pelos encargos que tiver suportado no cumprimento do contrato. 16.6.3 - A anulação de ato não induz, necessariamente, àquela do procedimento, podendo ser aproveitados os ato legalmente praticados antes da referida anulação. 16.9 - O Pregoeiro, no interesse da Administração, poderá relevar omissões puramente formais observadas na documentação e proposta, desde que não contrariem a legislação vigente e não comprometam a lisura da licitação, sendo possível a promoção de diligência destinada a esclarecer ou a complementar a instrução do processo. 16.10 - Caberá a empresa credenciada acompanhar as operações no sistema eletrônico durante a sessão pública do pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão. 16.11 - Informações complementares que visam obter maiores esclarecimentos sobre a presente licitação serão prestadas pelo Pregoeiro, no horário de 08:00 às 12:00 ou de 14:00 às 17:00, de segunda a sexta-feira, pelo Fax (XX) 3239-9638 ou pelo e-mail: presidencia.cpl@fhemig.mg.gov.br. 16.12 - Este edital encontra-se disponível gratuitamente no site www.compras.mg.gov.br. 16.13 - Este Edital possui 62 páginas numeradas, sendo: Índice do Edital: página 1; Normas da Licitação: páginas 2 a 28; Anexo I ­ Especificação Técnica e Condições Comerciais: páginas 29 a 37; Anexo II ­ Parâmetros para Contagem de Ponto de Função: páginas 38; Anexo III ­ Item Não Mensurável: páginas 39 e 40; Anexo IV ­ Modelo de Proposta: página 41; Anexo V ­ Modelo de Credenciamento: página 42; Anexo VI - Minuta de Contrato: páginas 43 a 62.
+
+Belo Horizonte,
+
+de
+
+de 2009.
+
+_________________________________ Luis Márcio Araújo Ramos Presidente FHEMIG
+28
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+ANEXO I - ESPECIFICAÇÃO TÉCNICA E CONDIÇÕES COMERCIAIS PREGÃO PRESENCIAL - PROCESSO N° 0500005 080/2009
+
+OBJETO: CONTRATAÇÃO DE FÁBRICA DE SOFTWARE OBJETIVANDO O
+DESENVOLVIMENTO DE 2.650 (DOIS MIL SEISCENTOS E CINQÜENTA) PONTOS DE FUNÇÃO PARA EVOLUÇÃO DO SISTEMA INFORMATIZADO DE GESTÃO HOSPITALAR ­ SIGH SUPORTE TÉCNICO SOB DEMANDA A EQUIPE DE DESENVOLVIMENTO DA FHEMIG Constitui objeto da presente Licitação Contratação de fábrica de software objetivando o desenvolvimento de 2.650 (dois mil seiscentos e cinqüenta) pontos de função para evolução do Sistema Informatizado de Gestão Hospitalar ­ SIGH suporte técnico sob demanda a equipe de desenvolvimento da FHEMIG, conforme especificações constantes neste anexo e condições previstas neste instrumento convocatório.
+
+Lote
+
+Item
+
+Código Item
+
+Unid. Fornec. IMPLANTACAO INTRANET
+
+Descrição E MANUTENCAO EM
+
+Qte
+
+SISTEMAS DE INFORMACAO, SITIOS E ---------------------------------------------------------1 ÚNICO 29793 1 un Contratação de fábrica de software 1 objetivando o desenvolvimento de 2.650 (dois mil seiscentos e cinqüenta) pontos de função para evolução do Sistema Informatizado de Gestão Hospitalar. SERVICOS TECNICOS ESPECIALIZADOS 2 19143 1 Un NA AREA DE INFORMATICA - Suporte Técnico. 1
+
+1. OBJETO Contratação de fábrica de software objetivando o Desenvolvimento de 2.650 (dois mil Seiscentos e Cinqüenta) pontos de função para evolução do Sistema Informatizado de
+29
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+Gestão Hospitalar ­ SIGH, utilizando a plataforma JEE e banco de dados MySQL; assistência técnica sob demanda à equipe de informática da FHEMIG ao funcionamento do aplicativo, sistema operacional e banco de dados. 1.1 - O Desenvolvimento consiste no em novas funcionalidades e adequações aos módulos do sistema atual. O Desenvolvimento deverá ser feito na plataforma JEE com banco de dados MySQL e está estimado em 2.650 (dois mil seiscentos e cinqüenta) pontos de função, calculados de acordo as normas definidas pelo IFPUG (International Function Point Users Group) 1.2 - A assistência técnica sob demanda à equipe de informática da FHEMIG consiste no auxílio e suporte à equipe da própria instituição, a fim de que esta tenha independência para execução de tarefas relacionadas ao sistema, e na solução de problemas técnicos do aplicativo, sistema operacional, ou banco de dados que demandem solução imediata para seu pleno funcionamento.
+
+2. CONDIÇÕES DE EXECUÇÃO 2.1. Desenvolvimento
+
+O serviço a ser contratado abrange todas as fases do processo de Desenvolvimento de sistemas, desde o levantamento de requisitos até sua disponibilização em ambiente de produção, e deve ser executado de acordo com as melhores práticas contidas no modelo MPS.BR (Melhoria de Processo de Software Brasileiro). O serviço de Desenvolvimento de novas funcionalidades ou a evolução das já existentes no sistema através de manutenções. Essas modificações podem ser classificadas conforme abaixo: 1. Manutenção Corretiva - Consiste na correção de defeitos dos sistemas que já estão em produção. Abrange comportamentos inadequados que causem problemas de uso ou funcionamento do sistema e quaisquer desvios em relação aos requisitos aprovados pelo gestor. 2. Manutenção Adaptativa - Adequação de aplicações às mudanças de ambiente operacional, compreendendo hardware e software básico, mudanças de versão, linguagem e Sistema Gerenciador de Banco de Dados - SGBD , que não30
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+impliquem em inserção, alteração ou exclusão de funcionalidades. 3. Manutenção Evolutiva - Corresponde a inclusão, alteração e exclusão de características e/ou funcionalidades em aplicações em produção, decorrentes de alterações de regras de negócio e/ou demandas legais. Todo o desenvolvimento, seja ele para evolução ou manutenção do sistema, deverá ser feito de forma a manter a total compatibilidade, continuidade e integridade com os outros programas, rotinas, artefatos e dados das versões anteriores do sistema. Os profissionais da equipe que trabalhará no projeto deverão ter domínio e utilizar as ferramentas abaixo no desenvolvimento dos artefatos necessários para o atendimento das demandas da FHEMIG: Linguagem: Java 5 Camada de persistência: Hibernate 3.2.5 GA Injeção de dependências, inversão de controle e transações: Spring 2.5 Segurança: Acegi Security 1.0.6 Validação: Hibernate Validator 3.0.0 GA Web: Tapestry 5 Servidor de Aplicação: Jboss 4.2.3 GA Banco de Dados: MySQL 5.0.67 Testes: TestNG 5.7, jUnit e EasyMock
+
+· · · · · · · · ·
+
+Para cada módulo a ser desenvolvido, antes do início de trabalhos da equipe contratada, a equipe técnica da FHEMIG deverá elaborar um documento de visão que descreve o escopo a ser trabalhado de acordo com o modelo Anexo II. Os projetos de desenvolvimento deverão ser organizados de acordo com as melhores práticas de gerenciamento de projetos baseadas nas publicações do PMI (Project Management Institute). Em cada projeto, deverá ser utilizado um processo de desenvolvimento de software iterativo-incremental baseado no Processo Unificado, sendo que a especificação de requisitos deverá ser realizada de acordo com a UML (Unified Modeling Language) como notação de modelagem.
+31
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+Todos os produtos, sejam eles parte de alteração do sistema ou evolução do mesmo, deverão ser entregues com documentação completa, contemplando: · · · · · · · · Modelos de Classes Detalhamentos dos Casos de Uso Diagramas de Classes Persistentes Documento de Arquitetura Modelos de Dados Dicionários de dados Contagem do Sistema em APF Código fonte
+
+Deverão ser entregues também quaisquer outros documentos que tenham sido gerados durante o desenvolvimento e que sejam úteis para o entendimento do produto, propiciando assim as condições necessárias para que se dê continuidade ao processo de manutenção do sistema. Toda esta documentação deverá ser entregue em CD, em arquivos editáveis. Serão feitas duas entregas: · · Elaboração, com pagamento de 30 % do ponto de função, e; Construção e transição, com o pagamento dos 70% restantes. 2.1.1. Equipe do projeto
+
+A equipe de desenvolvimento deverá ser minimamente composta dos seguintes profissionais em tempo integral: · Um profissional responsável pela gerência dos projetos de desenvolvimento e pela representação da empresa junto à Gerência de Solução em Tecnologia da Informação; · · · · Dois arquitetos de software; Dois analistas; Cinco desenvolvedores Java; Dois testadores.
+
+A partir da assinatura do contrato, a empresa contratada, deverá estar estruturada de forma a atender uma demanda mínima mensal de desenvolvimento de 300 (trezentos) pontos de função, caso haja demanda por parte da FHEMIG.
+32
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+2.1.2.
+
+Critérios de Aceitação dos Produtos
+
+Especificação Os aceites da especificação serão feitos mediante a entrega dos artefatos previstos que documentam e detalham a solução a ser construída. Deverá atestar essa entrega uma equipe composta por:
+
+· · ·
+
+Coordenador do projeto na FHEMIG; Diretor de Desenvolvimento Estratégico da FHEMIG ou designado; Gerente de Solução em Tecnologia de Informação ou designado.
+
+Desenvolvimento O aceite dos produtos da entrega de Desenvolvimento será feito em duas etapas:
+
+1. Homologação: As reuniões de homologação se destinarão a assegurar o atendimento das especificações do produto, estabelecidas pelas áreas técnicas da FHEMIG, através da validação dos produtos entregues. Elas serão realizadas por uma equipe composta de:
+
+· · ·
+
+Responsável Técnico e profissionais da empresa contratada; Coordenador do projeto na FHEMIG e Usuários designados e participantes na especificação do módulo
+
+As homologações representam marcos para medir a satisfação do usuário em relação aos produtos e visa obter o "Termo de Aceite". 2. Aceite As implementações feitas no sistema deverão ser disponibilizadas na unidade piloto, com acompanhamento da equipe de informática da FHEMIG. O aceite das implementações e/ou desenvolvimento se dará após a disponibilização da solução para pleno funcionamento na unidade piloto.
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+33
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+Deverão atestar o aceite: · · · Diretor de Desenvolvimento Estratégico da FHEMIG ou designado, Gerente de Solução em Tecnologia de Informação ou designado. Diretor da unidade piloto ou designado,
+
+Caso a funcionalidade não seja aplicável para implantação na unidade designada como piloto, uma outra unidade ou mesmo a administração central será indicada pelo Diretor de Desenvolvimento Estratégico para implantação. 2.1.3. Caracterização das entregas
+
+Os pagamentos serão feitos tendo por base o número de pontos de função efetivamente entregues (não será considerada para este fim a contagem estimada). A contagem dos pontos de função será baseada nas regras de contagem padrão do IFPUG (International Function Point Users Group), publicadas no Manual de Práticas de Contagem (CPM ­ 4.2 ­ Counting Practices Manual), tanto para projetos de desenvolvimento quanto de evolução. O software desenvolvido será medido em pontos de função, independente de ser Manutenção Corretiva, Manutenção Adaptativa ou Manutenção Evolutiva. O formato de contagem de Ponto de Função a ser usado na FHEMIG está detalhado no Anexo IV. 2.2. Assistência Técnica
+
+Este serviço consiste na assistência à equipe de desenvolvimento da FHEMIG em implantações de melhorias de performance e no acompanhamento de implementações e ajustes nos módulos já desenvolvidos e novos desenvolvimentos e na solução de problemas técnicos do aplicativo, sistema operacional ou banco de dados que demandem solução imediata. Essas atividades serão feitas sob demanda com definição de horas estabelecida pelo
+34
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+chefe de serviço de desenvolvimento da FHEMIG. Antes do início dos trabalhos será determinado o número de horas a ser contratado para um determinado projeto e emitida uma Ordem de Serviço (OS) contemplando a quantidade determina e os perfis necessários. O pagamento das horas de assistência ocorrerá após o aceite do atendimento prestado e será atestado através de relatório assinado pelo Gerente de Solução em Tecnologia da Informação e pelo Chefe de Serviço de Desenvolvimento de Sistema da FHEMIG. O número médio de horas mensais previstas para as atividades desse item é de 120 horas.
+
+LOCAL DE TRABALHO Objeto deste projeto deverá ser executado nas dependências da Administração Central da Fundação Hospitalar do Estado de Minas Gerais, situada na Alameda Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte, Minas Gerais. 3. Da Equipe Técnica que atuará na FHEMIG A equipe técnica que atuará na FHEMIG deverá atender aos seguintes requisitos: a) Os componentes da equipe deverão ter experiência nas tecnologias Hibernate, Spring, Tapestry 5, JBoss, MySQL e jUnit ­ além da própria linguagem Java. A experiência deverá ser comprovada através de apresentação de curriculum, sobre o qual a empresa contratada ficará integralmente responsável pela confiabilidade da informação b) Comprovação de possuir pelo menos um profissional com a certificação de Project Management Professional, emitido pelo Project Management Institute, a fim de exercer o papel de gerente do projeto.
+
+c) Comprovação de possuir no mínimo três profissionais do quadro regular da empresa com Certificação SCJP ­ Sun Certified Java Programmer - emitidos pela Sun Microsystems. d) Comprovação de possuir em seu quadro regular, no mínimo dois profissionais com
+35
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+titulação de mestre em ciência da computação comprovada através de diploma ou certificado emitido pela instituição de ensino, com experiência de no mínimo 01 (um) ano na execução da função a ser exercida, para exercer as funções de arquiteto e líder de Desenvolvimento. A comprovação de vínculo regular com a empresa será demonstrada através de Contrato Social da Empresa; Carteira de Trabalho ou Contrato de Estágio devidamente assinados há no mínimo 180 dias. 4. GARANTIA A empresa contratada se compromete a garantir o correto e pleno funcionamento de todos os produtos desenvolvidos por um período de até 12 (doze) meses após o respectivo aceite formal. Caso, nesse período, ocorram ou sejam detectados erros, vícios ou falhas de arquitetura, codificação, implementação, ou qualquer outra falha que tenha sido detectada em artefatos desenvolvidos ou que tenha sofrido manutenção (neste caso, desde que comprovada que a falha foi oriunda da intervenção feita), a empresa contratada deverá saná-los de forma definitiva, atualizando toda a documentação pertinente num prazo acordado com a Gerência de Solução em Tecnologia da Informação da FHEMIG. 5. CONFIDENCIALIDADE A empresa contratada tratará confidencialmente todos os documentos, dados e informações que lhe forem fornecidos ou mesmo por ela elaborados ou caso tenha acesso, em virtude dos serviços ora contratados. A divulgação ou reprodução, parcial ou integral, em qualquer tipo de mídia existente no mercado, de qualquer informação privilegiada, para fim diverso do estipulado neste contrato, somente poderá ser feita mediante prévia autorização, por escrito, da FHEMIG. Todas as informações, dados e documentos entregues à empresa contratada, o serão em caráter confidencial, não devendo ser divulgados a terceiros enquanto o presente contrato estiver em vigor, e por mais 05 (cinco) anos após o seu término ou rescisão. A empresa contratada se obriga a obter de seus empregados, representantes, prepostos ou subcontratados, compromisso idêntico de sigilo, com relação a essas informações, 36
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+dados e documentos. 6. DA PROPRIEDADE INTELECTUAL E DIREITO PATRIMONIAL A empresa contratada cederá a FHEMIG, nos termos do artigo 111 da Lei n.º 8.666/93, concomitante com o art. 4º da Lei n.º 9.609/1998, o direito patrimonial, a propriedade intelectual em caráter definitivo dos sistemas desenvolvidos e resultados produzidos em conseqüência do cumprimento deste contrato, entendendo-se por resultados, quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, fluxogramas, listagens de programas de computador (fonte ou executável) e documentação didática, em papel ou em mídia eletrônica. A empresa contratada fica proibida de veicular, comercializar, demonstrar ou usar como case de apresentação de marketing da empresa, os produtos gerados, relativos ao objeto da prestação dos serviços, sem a prévia autorização por escrito da Fundação Hospitalar do Estado de Minas Gerais.
+
+7. CONDIÇÕES COMERCIAIS 2.1 ­ Forma de execução: Parcelada, durante toda a vigência do contrato. 2.3 ­ Prazo para a prestação dos serviços: Os serviços serão prestados durante toda a vigência do contrato. 2.4 - Prazo de pagamento: O pagamento ocorrerá mensalmente.
+
+8. INFORMAÇÕES ADICIONAIS
+
+CONTATO: MARLENE MORAIS E-mail: marlene.morais@fhemig.mg.gov.br Telefone: 3239-9560
+
+___________________________________ Responsável Técnico
+37
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+ANEXO II ­ PARÂMETROS PARA CONTAGEM DE PONTO DE FUNÇÃO
+
+·
+
+Os serviços realizados serão medidos utilizando-se da técnica de Análise em Pontos de Função de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.2.1, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org).
+
+·
+
+A CONTRATANTE adotará a técnica definida pela NESMA (Netherlands Software Metrics Users Association) para a realização de contagens por tipo estimada e indicativa.
+
+·
+
+A utilização de novas versões do Manual (CPM) ficará a critério da CONTRATANTE, que, mediante comunicação prévia, estipulará um prazo apropriado para adequação da CONTRATADA.
+
+·
+
+A CONTRATANTE adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste, em todos os serviços. ou seja independente da complexidade do requisito desenvolvido o fator de reajuste será sempre de 1,00 (um)
+
+·
+
+Mesmo no caso de ser utilizada uma nova versão do Manual (CPM), o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um), cabendo sua revisão somente quando da renovação do CONTRATO entre a CONTRATANTE e a empresa CONTRATADA.
+
+·
+
+Caso haja divergência entre a contagem final de PONTOS DE FUNÇÃO da CONTRATANTE e a da CONTRATADA, fica estabelecido que os responsáveis pela contagem, da CONTRATANTE e da CONTRATADA, deverão se reunir no sentido de eliminar as diferenças. Permanecendo a divergência, fica estabelecido que a CONTRATANTE definirá a contagem que prevalecerá.
+
+·
+
+Qualquer decisão de projeto ­ incluindo a manutenção de requisitos (alteração da Especificação de Requisitos) ­ que implique em aumento do número de PONTOS DE FUNÇÃO deverá ser aprovada previamente pela CONTRATANTE
+
+·
+
+No caso da impossibilidade de remuneração dos serviços em pontos de função, o esforço necessário será calculado com base na tabela de itens não pontuáveis constante no anexo III.
+
+·
+
+Os custos relacionados aos deslocamentos, ocorridos em função de entendimento, validação e/ou aceite dos serviços, serão por conta da CONTRATADA.
+
+38
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+ANEXO III - ITEM NÃO MENSURAVEL
+
+Item Não Mensurável em APF
+
+Base de Cálculo Qtde de itens
+
+Qtde PF
+
+Alterações referentes aos layouts de telas, tais como: Mudança de posição de campos em telas, em relatórios ou em layout de arquivos, sem que haja alteração em elementos de dados, arquivos referenciados ou informações de controle. Inclusão, alteração ou exclusão de logotipo da empresa; Divisão de telas e/ou relatórios, sem que tenha havido mudança na funcionalidade. Atualização de rótulos de dados sem que haja mudança de funcionalidade. Alterações referentes a Campos e Variáveis: Inclusão, alteração ou exclusão de campos e variáveis em programas e tabelas, sem que tenha havido mudança na funcionalidade. Padronização de nomenclatura de campos e variáveis em programas e tabelas. Alterações de texto de mensagens de retorno ao usuário, desde que não façam parte de um ALI ou AIE. Alterações referentes à alteração, criação ou exclusão de telas para: Adição ou reestruturação de menus de navegação estáticos; Adição ou reestruturação de Ajuda (help estático); Criação, alteração ou exclusão de páginas estáticas. Exclusão de tela Alteração e/ou criação de tela
+
+0,04
+
+Qtde de itens
+
+0,08
+
+Qtde de itens
+
+0,04
+
+Qtde de itens
+
+0,1
+
+Qtde de itens
+
+0,02
+
+39
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+Alterações referentes à inclusão, alteração ou exclusão de dados pertencentes a listas (combobox) ou tabelas físicas. Alterações referentes à alteração dos valores dos parâmetros (estáticos), sem que a lógica de processamento tenha sido alterada. Alterações referentes à criação de mais de uma camada de apresentação (diferente), desde que sejam as mesmas funcionalidades com padrões visuais distintos.
+
+Qtde de itens
+
+0,04
+
+Qtde de itens
+
+0,02
+
+Qtde de PF da respectiva funcionalidad e
+
+0,2
+
+Serviços de atendimento que contemplem a necessidade de execução de tarefas temporárias, não passíveis de serem pontuadas, como por exemplo: análise de demandas, execução de teste a pedido do usuário/Gestor, rotina de clean up etc. * Deverá ser considerado 1 recurso por dia, sendo 8 horas o esforço diário gasto. O quantitativo de dias é de responsabilidade do líder do projeto na Fhemig, que deverá justificar nesse campo. Alterações referentes à criação, Inclusão de tabela e
+
+Qtde de dias necessários
+
+0,5
+
+Qtde de itens Qtde de itens
+
+2,7 1,3
+
+alteração e exclusão de tabelas CODE TABLE, e respectivas funcionalidades, de sistemas em produção (não se aplica ao desenvolvimento de novos sistemas seguintes nem às atividades e de seus "popular" a tabela), sendo previstas as atividades percentuais de ponto de função:
+
+funcionalidades; Alteração Excluir da tabela e e
+
+funcionalidades; tabela Qtde de itens Qtde de itens Qtde de itens Qtde de itens 0,6 0,3 0,3 0,3 funcionalidades; Inclusão de funcionalidade;
+
+Alteração funcionalidade; Exclusão funcionalidade.
+
+de de
+
+40
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+ANEXO IV - MODELO DE PROPOSTA
+PROPOSTA COMERCIAL PARA O PREGÃO PRESENCIAL N.º 0500005 080/2009 (preenchida em papel timbrado da proponente) DADOS A CONSTAR NA PROPOSTA Razão Social CNPJ Endereço Telefone/Fax Nome do Representante Legal Estado civil do Representante Legal Identidade do Representante Legal ITEM 01 ­ , conforme especificação técnica do item 01 do Valor Anexo I do Edital. Marca Prazo de Garantia Assistência Técnica Prazo de Entrega ITEM ­ , conforme do Valor Marca Prazo de Garantia Assistência Técnica Prazo de Entrega Prazo de Validade da Proposta Local de Entrega Declaro que nos preços propostos encontram-se incluídos todos os tributos, encargos sociais, frete até o destino e quaisquer outros ônus que porventura possam recair sobre o fornecimento do objeto da presente licitação e que estou de acordo com todas as normas da solicitação de propostas e seus anexos. VALORES UNITÁRIOS R$ ----Valor Modelo --------VALORES TOTAIS R$ ----Nacionalidade do Representante Legal CPF do Representante Legal VALORES UNITÁRIOS R$ ----Valor Modelo -------VALORES TOTAIS R$ ----PREENCHIMENTO PELO PROPONENTE
+
+especificação técnica do item Anexo I do Edital.
+
+41
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+ANEXO V ­ MODELO DE CREDENCIAMENTO
+
+OBJETO:
+
+Contratação
+
+de
+
+fábrica
+
+de
+
+software
+
+objetivando
+
+o
+
+desenvolvimento de 2.650 (dois mil seiscentos e cinqüenta) pontos de função para evolução do Sistema Informatizado de Gestão Hospitalar ­ SIGH suporte técnico sob demanda a equipe de desenvolvimento da FHEMIG.
+
+PREGÃO N° 0500005 080/2009 ­ TIPO PRESENCIAL
+
+PROCURAÇÃO A CNPJ (nome n.º_________________________, da com neste ato sede empresa) na
+
+________________________________________________________________, __________________________________________, representada
+
+pelo(s) (diretores ou sócios, com qualificação completa ­ nome, RG, CPF, nacionalidade, estado civil, profissão e endereço) pelo presente instrumento de mandato, nomeia e constitui seu(s) Procurador (es) o Senhor (es) (nome, RG, CPF, nacionalidade, estado civil, profissão e endereço), a quem confere(m) amplos poderes para junto a Fundação Hospitalar do Estado de Minas Gerais FHEMIG (ou de forma genérica: para junto aos órgãos públicos federais, estaduais e municipais) praticar os atos necessários para representar a outorgante na licitação na modalidade de pregão n.º (ou de forma genérica para licitações em geral), usando dos recursos legais e acompanhando-os, conferindolhes, ainda, poderes especiais para desistir de recursos, interpô-los, apresentar lances verbais, negociar preços e demais condições, confessar, transigir, desistir, firmar compromissos ou acordos, receber e dar quitação, podendo ainda, substabelecer esta para outrem, com ou sem reservas de iguais poderes, dando tudo por bom firme e valioso, e, em especial, para (se for o caso de apenas uma licitação). Local, data e assinatura. RECONHECER FIRMA(S)
+
+42
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+ANEXO VI ­ CONTRATO N.º
+Contrato de Prestação de Serviço que entre si celebram o Estado de Minas Gerais, por intermédio do (nome empresa do órgão/entidade) . e a
+
+Pelo presente instrumento e na melhor forma de direito, a Fundação Hospitalar do Estado de Minas Gerais - FHEMIG, inscrita no CNPJ sob o nº. 19.843.929/0001-00, situada na Alameda Vereador Álvaro Celso, nº. 100, bairro Santa Efigênia, nesta cidade de Belo Horizonte ­ Minas Gerais, neste ato representada pelo seu Presidente Dr. Luís Márcio Araújo Ramos, através da unidade administrativa Administração Central, doravante denominado CONTRATANTE, e de outro lado a empresa <nome da empresa contratada>, inscrita no CNPJ sob o nº. <n.º do CNPJ da empresa>, inscrição estadual <n.º da inscrição estadual>, sediada na <endereço da empresa contratada>, neste ato representada por <nome do representante da empresa>, Identidade <n.º do doc. de identidade>, CPF <n.º do CPF>, presente neste ato denominada CONTRATADA, celebram o contrato originário da licitação na modalidade PREGÃO ELETRÔNICO
+
+Processo n.º 0500005 080/2009, para Contratação de fábrica de software objetivando o desenvolvimento de 2.650 (dois mil seiscentos e cinqüenta) pontos de função para evolução do Sistema Informatizado de Gestão Hospitalar ­ SIGH suporte técnico sob demanda a equipe de desenvolvimento da FHEMIG. Este contrato será regido pela Lei Federal nº. 10.520, de 17 de julho de 2002, Lei Estadual nº. 14.167, de 10 de janeiro de 2002, Lei Complementar nº. 123, de 14 de dezembro de 2006, pelos Decretos nº. 44.786 de 19 de abril de 2008, nº. 44.431, de 29 de dezembro de 2006 e alterações posteriores, e nº. 44.630, de 03 de outubro de 2007, pela Resolução Conjunta SEPLAG / JUCEMG nº. 6419, de 30 de novembro de 2007, pela Resolução SEPLAG nº. 058, de 30 de novembro de 2007, aplicando-se, subsidiariamente a Lei Federal nº. 8.666, de 21 de junho de 1993, com suas alterações posteriores, e demais normas pertinentes, bem como pelas condições estabelecidas no presente Contrato.
+
+Cláusula Primeira - DO OBJETO Este contrato tem por objeto a Contratação de fábrica de software objetivando o
+43
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+desenvolvimento de 2.650 (dois mil seiscentos e cinqüenta) pontos de função para evolução do Sistema Informatizado de Gestão Hospitalar ­ SIGH suporte técnico sob demanda a equipe de desenvolvimento da FHEMIG, de acordo com as especificações e detalhamentos consignados no ANEXO I do Edital de PREGÃO ELETRÔNICO, Processo nº. 0500005 080/2009 que, juntamente com a proposta da CONTRATADA, passam a integrar este instrumento, independentemente de transcrição.
+
+Cláusula Segunda - DO PREÇO O preço global do presente contrato é de R$ (<inserir valor por extenso>) no qual já
+
+estão incluídas todas as despesas especificadas na proposta da CONTRATADA, sendo os seguintes preços unitários por item: ITEM ESPECIFICAÇÃO QUANT. UNITÁRIO R$ TOTAL R$
+
+Cláusula Terceira - DO LOCAL DA PRESTAÇÃO DO(S) SERVIÇO(S) A CONTRATADA obriga-se a prestar o serviço(s), citado(s) na Cláusula Primeira, quando solicitado, nos endereços indicados no Anexo I do instrumento convocatório, sob pena de aplicação das sanções previstas neste instrumento. I ­ A prestação do serviço(s) deverá ser iniciada pela CONTRATADA no prazo de 15 dias contados da notificação para recebimento da nota de empenho. II - A prestação do serviço(s) será realizada sob a supervisão do Gestor do contrato, designado pela CONTRATANTE para tal fim, que adotará os seguintes procedimentos: a) provisoriamente: de posse dos documentos apresentados pela CONTRATADA e de uma via do contrato e da proposta respectiva, acompanhará e fiscalizará a execução do contrato, para verificação de especificações, quantidade, qualidade, prazos, preços e outros dados pertinentes e, encontrando irregularidade, fixará prazos para correção pela CONTRATADA, ou aprovando, receberá provisoriamente o serviço, mediante recibo; b) definitivamente: após recebimento provisório, verificação da integridade e realização de testes de funcionamento, se for o caso, e sendo aprovados, nos
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+44
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+exatos termos do edital e da proposta vencedora, será efetivado o recebimento definitivo mediante expedição de termo circunstanciado e recibo aposto na Nota Fiscal (1ª e 2ª vias). III - O gestor Marlene Morais Leonardo, MASP: 10393916 acompanhará a qualidade da prestação do serviço em conformidade com o Edital, com os termos contratuais e com a proposta apresentada. IV - Em caso de irregularidade não sanada pela CONTRATADA, o Gestor do Contrato, reduzirá a termo os fatos ocorridos e encaminhará à CONTRATANTE para aplicação de penalidades.
+
+Cláusula Quarta ­ DA VIGÊNCIA O contrato vigorará por 12 (doze) meses corridos a contar da assinatura do contrato. A vigência poderá, a critério da contratante, ser prorrogada por iguais e sucessivos períodos, limitada a 60 (sessenta) meses, nos termos do artigo 57, inciso II da Lei nº. 8.666/93.
+
+Cláusula Quinta ­ DO PRAZO DE EXECUÇÃO DO SERVIÇO a) O prazo para início da execução do serviço será de 15 dias corridos a partir da entrega da Autorização da Nota de Empenho pela Fhemig. b) A proponente obriga-se a cumprir os prazos do cronograma físico estabelecido entre a Contratante e a Contratada, entregando os produtos definidos no Anexo I concluídos nas datas estabelecidas. c) Juntamente com os sistemas desenvolvidos, a proponente se obriga a entregar, na mesma data, toda a documentação produzida, bem como manuais, programas fontes, módulos de execução e demais produtos pertinentes aos sistemas gerados. d) Os sistemas desenvolvidos, juntamente às pertinentes documentações e produtos, deverão ser entregues na Gerência de Solução em Tecnologia de Informação/DIESP, à Sra. MARLENE MORAIS LEONARDO, á Al. Álvaro Celso 100, 3º andar. e) A entrega dos Produtos, Sistemas/Documentações na forma estabelecida neste termo, é condição essencial para a emissão da pertinente homologação e Termo de Aceite e conseqüente liberação do pagamento correspondente de acordo
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+45
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+com o exigido.
+
+Cláusula Sexta ­ DO PAGAMENTO I - O pagamento será efetuado através do Sistema Integrado de Administração Financeira - SIAFI/MG, por meio de ordem bancária emitida por processamento eletrônico, a crédito do beneficiário, preferencialmente, em um dos bancos credenciados pelo Estado, no prazo de 30 (trinta) dias corridos da data de aceitação do serviço ou medição, pela CONTRATANTE, acompanhado dos documentos fiscais. II ­ A Fundação procederá à retenção do percentual de 11% sob o valor da Nota Fiscal de prestação de serviços, cabendo a CONTRATADA apresentar aquela nos termos da legislação previdenciária. III ­ Os valores relativos às horas extras e ao adicional noturno, quando expressamente autorizados pela Diretoria de Planejamento, Gestão e Finanças ­ DPGF, serão reembolsados pela Fundação, na forma da legislação aplicável, desde que devidamente comprovados e apurados. IV ­ O valor dos vales-transporte concedidos aos empregados da CONTRATADA será reembolsado pela Fundação no montante correspondente ao seu valor facial, deduzida a parcela de contribuição do empregado prevista em lei. V ­ O valor das diárias de viagem concedidas aos empregados da CONTRATADA será reembolsado pela Fundação, no montante correspondente ao valor apurado e autorizado pela Diretoria de Planejamento, Gestão e Finanças ­ DPGF. VI ­ O valor das passagens concedidas aos empregados da CONTRATADA será reembolsado pela Fundação, no montante correspondente ao valor apurado e autorizado pela Diretoria de Planejamento, Gestão e Finanças ­ DPGF. VII ­ A CONTRATADA deverá excluir do faturamento mensal os dias de trabalho e salários dos empregados faltosos, em férias, licença ou afastados legalmente, para os quais não houver sido encaminhado substituto. Também deverão ser excluídas do faturamento todas e quaisquer ocorrências que, por força do Contrato a ser celebrado, não forem de responsabilidade da Fundação, assim como aquelas que não corresponderem a serviços efetivamente prestados ou reembolsados devidos. VIII ­ O preço mensal pago inclui todos os custos diretos e indiretos necessários à completa e perfeita execução dos serviços, especialmente os indicados em planilha. IX ­ Os pagamentos à CONTRATADA somente serão realizados mediante a efetiva
+46
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+prestação dos serviços nas condições especificadas neste Contrato, que será comprovada por meio de atestado de inspeção a ser expedido pela Gerência de Solução em Tecnologia de Informação da Fundação. X ­ A CONTRATADA deverá manter atualizado, durante toda a vigência deste Contrato, o prazo de validade das "Certidões Negativas de Débito" e do "Certificado de Regularidade do FGTS ­ CRF", encaminhando cópia destes documentos à Diretoria de Finanças da Fundação, cuja autenticidade será confirmada nos sites dos órgãos emissores. XI ­ Independente da liquidação e do pagamento de qualquer despesa deste Contrato, a CONTRATADA deverá, nos prazos legais, promover as diligências necessárias e proceder aos recolhimentos de todos os tributos, encargos e contribuições de sua responsabilidade. Caso a Fundação tenha que realizar algum procedimento dessa natureza, promoverá o respectivo ressarcimento por meio da retenção de créditos da CONTRATADA, execução da garantia prestada ou medida judicial apropriada, a critério da Fundação. XII ­ Os documentos comprobatórios dos recolhimentos e pagamentos relativos a tributos, encargos e contribuições de responsabilidade da CONTRATADA deverão ser enviados para a Fundação mensalmente. A documentação deverá ser exclusiva do Contrato, não podendo ser conjunta com outros empregados dos quadros da CONTRATADA. XIII ­ A CONTRATADA deverá apresentar à Gerência de Solução em Tecnologia de Informação da Fundação, até o 4º (quarto) dia útil do mês subseqüente ao da prestação dos serviços, a correspondente nota fiscal/fatura, com a planilha de horas efetivamente trabalhadas, acompanhada da seguinte documentação: a) Folhas de pagamento analítica e sintética especificas dos trabalhadores designados para os serviços na Fundação e na forma da legislação previdenciária, juntamente com os comprovantes de pagamento de salários, referentes ao mês faturado. b) Declaração firmada pelo representante legal e pelo contador da CONTRATADA, nos seguintes termos: "Declaramos, sob as penas da Lei, que a folha de pagamento pertinente à competência MM/AAAA contém todos os empregados designados para os serviços na Fundação, objeto do Contrato nº.___ / ___, tendo sido quitada na sua integralidade." c) Guia de recolhimento do FGTS ­ GRF e respectivo comprovante de quitação, acompanhado do protocolo de envio das informações à Previdência Social,
+47
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+referentes apenas aos trabalhadores designados para os serviços na Fundação. d) Relação de empregados ­ RE/GFIP e respectivo resumo do fechamento, referente à guia especificada na letra "c" anterior. e) Guia de recolhimento do INSS ­ GPS ­ "Outras Entidades". f) Para o faturamento a ser apresentado em janeiro, anexar também os documentos referentes ao pagamento das parcelas do 13º salário e respectivos recolhimentos. g) Comprovante de pagamento dos seguros e respectivas apólices, nos termos das normas aplicáveis. h) Documentos que comprovem de forma cabal e inequívoca o
+
+pagamento/recolhimento de outros encargos sociais, trabalhistas, fundiários, previdenciários, fiscais e tributários devidos pela CONTRATADA, nos termos da legislação pertinente. I) Documentos que comprovem a concessão de benefícios previstos na Convenção Coletiva de Trabalho ­ CCT da categoria. j) No que tange ao adicional noturno, folha de pagamento analítica constando a rubrica "adicional noturno" específica desta Fundação e na forma da legislação previdenciária, juntamente com declaração firmada pelo representante legal e pelo contador da CONTRATADA, nos seguintes termos: "Declaramos, sob as penas da Lei, que o adicional noturno e seus reflexos, referente ao período de DD/MM/AAAA a DD/MM/AAAA, devido aos empregados designados para os serviços na Fundação, objeto do Contrato nº.___ / ___ foi quitado na sua integralidade." k) No que tange a horas extras, folha de pagamento analítica constando a rubrica "hora extra", específica desta Fundação e na forma da legislação previdenciária, juntamente com declaração firmada pelo representante legal e pelo contador da CONTRATADA, nos seguintes termos: "Declaramos, sob as penas da Lei, que as horas extras e seus reflexos, referentes ao período de DD/MM/AAAA a DD/MM/AAAA, devidas aos empregados designados para os serviços na Fundação, objeto do Contrato nº.___ / ___, foram quitadas na sua integralidade." l) No que tange aos vales-transporte, cujo valor do reembolso corresponderá à diferença entre o valor dos vales concedidos e a participação legal do empregado, deverão ser apresentados os comprovantes originais de fornecimento a cada empregado, acompanhados de cópias que deverão ser devidamente conferidas e autenticadas por servidor da Gerência de Solução em Tecnologia de Informação da
+48
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+Fundação. m) No que tange às diárias de viagem, cujo valor do reembolso será apurado pela DPGF, deverão ser apresentados os comprovantes originais dos gastos. n) Relação dos empregados faltosos, em férias, licença ou afastados legalmente no período, com indicação do substituto, quando for o caso, acompanhada de declaração firmada pelo representante legal e pelo contador da CONTRATADA, nos seguintes termos: "Declaramos, sob as penas da Lei, que os trabalhadores designados como substitutos no período de DD/MM/AAAA a DD/MM/AAAA, para atendimento aos serviços objeto do Contrato nº.___ / ___, foram remunerados em observância à legislação trabalhista vigente, tendo sido efetuados os recolhimentos de todos os encargos devidos". o) Relação dos empregados designados no período, devendo ser apresentados os seguintes documentos: · Cópia reprográfica da notificação da dispensa do empregado, devidamente formalizada, ou pedido de demissão. · Comprovante de fornecimento da Guia CD/SD ­ "Certificado de Dispensa e Seguro Desemprego". · Termo de Rescisão do Contrato de Trabalho (TRCT), quitado e homologado perante a autoridade competente, acompanhado de cópia que será devidamente conferida e autenticada por servidor da Gerência de Infra-estrutura para fins de comprovação do pagamento das verbas rescisórias, dentre elas: (I) Saldo de Salário, (II) Aviso Prévio, (III) 13º Salário, (IV) Férias + 1/3 (Vencidas e Proporcionais), (V) Indenização Adicional (Artigo 9º da Lei Federal nº.7.238/84, que trata da dispensa sem justa causa no período dos 30 dias que antecedem a data da correção salarial), caso devidas. · Extratos individualizados que comprovem os depósitos relativos ao FGTS, emitidos pela própria Caixa Econômica Federal, para fins de comprovação dos depósitos relativos ao mês da rescisão e o imediatamente anterior, assim como para confirmação do recolhimento da indenização prevista no art. 18, §1º, da Lei nº.8.036/90 (rescisão sem justa causa), que corresponderá a 40% (quarenta por cento) dos depósitos relativos ao FGTS. · Guia de quitação, perante a Caixa Econômica Federal, da contribuição social (Artigo 1º da Lei Complementar nº.110/01), que corresponderá a 10% (dez por cento) dos depósitos relativos ao FGTS.
+49
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+· Outros documentos que comprovem a quitação das verbas rescisórias devidas ao empregado desligado, bem como confirmem o recolhimento dos encargos a elas relativos. p) Relação dos empregados admitidos no período. Q) Outros documentos que, a critério da Fundação, deverão instruir o processo de pagamento, desde que relativos ao presente Contrato, aos serviços prestados ou aos trabalhos envolvidos. XIV - Caso ocorra, a qualquer tempo, a não aceitação da prestação do(s) serviço(s), o prazo de pagamento será descontinuado e reiniciado após a correção pela CONTRATADA. XV ­ Ocorrendo atraso de pagamento por culpa exclusiva da Administração, o pagamento será realizado acrescido de atualização financeira, entre as datas do vencimento e do efetivo pagamento, de acordo com a variação "pro-rata tempore" do INPC, ou outro índice que venha substituí-lo, conforme a legislação vigente. XVI ­ Na ocorrência de necessidade de providências complementares por parte da CONTRATADA, o decurso de prazo para pagamento será interrompido, reiniciando a contagem a partir da data em que estas forem cumpridas, caso em que não será devida atualização financeira. XVI ­ O pagamento referente ao adicional de insalubridade e periculosidade somente será efetuado após a identificação dos empregados que fazem jus ao benefício, bem como a comprovação de que o repasse do valor do adicional efetivamente foi pago ao empregado. XVII - As despesas decorrentes desta licitação correrão por conta da dotação orçamentária prevista no programa de trabalho 2271.10.122.701.2427-0001, objeto de gasto 33903927, fontes 10 e 60.
+
+Cláusula Sétima ­ DO REAJUSTAMENTO I - Os preços contratados poderão ser reajustados mediante solicitação da contratada, observado o interregno mínimo de um ano, contada da data limite para a apresentação da proposta ou do último reajuste, com base na variação de custos ocorrida no período, desde que devidamente justificada e demonstrada em planilha. II - Os componentes de custos apresentados em planilha, por ocasião da abertura da licitação, serão referências para a análise de reajuste, não sendo admitida a inclusão
+50
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+de qualquer elemento de custo que não esteja nos componentes apresentados inicialmente, salvo os decorrentes da Lei nº.8.666/93 ou outros atos normativos. III - A Contratada não fará jus ao reajustamento com efeitos retroativos se não apresentar a solicitação de reajustamento contratual dentro do primeiro mês contados da data da homologação da Convenção Coletiva, tornando-se a única e exclusiva responsável pelos prejuízos decorrentes da não apresentação da solicitação no prazo informado.
+
+Cláusula Oitava ­ DOS RECURSOS ORÇAMENTÁRIOS As despesas com a prestação do(s) serviço(s) indicado(s) na Cláusula Primeira deste contrato, correrão à conta da dotação orçamentária nº. 2271.10.122.701.2427-0001, objeto de gasto 33903927, fontes 10 e 60.
+
+Cláusula Nona - DAS OBRIGAÇÕES Constituem obrigações das partes: I - Da CONTRATADA 1. prestar, instalar, colocar em funcionamento e dar garantia, se for o caso, para o(s) serviço(s), no local determinado e de acordo com os prazos estabelecidos na cláusula quarta desta minuta, contados a partir da data da notificação para recebimento da nota de empenho. 2. Fornecer, sem ônus para a Contratante, material, mão-de-obra e deslocamentos, necessários à perfeita realização dos serviços. 3. fornecer juntamente com a prestação do(s) serviço(s) toda a sua documentação fiscal e técnica e seu respectivo termo de garantia, se for o caso; 4. responsabilizar-se por todos os ônus relativos à prestação do(s) serviço(s); 5. cumprir, durante toda a execução do contrato, as obrigações assumidas, mantendo, ainda, todas as condições de habilitação e qualificação exigidas na licitação, bem como emitir nota fiscal/fatura do fornecimento em 02 (duas) vias, acompanhadas da 1ª (primeira) via da Nota de Empenho, comprovante da quitação dos encargos da seguridade social através de cópia da Certidão Negativa de Débito com o INSS bem como cópia da Certidão Negativa de Débito com o FGTS, expedida pela Caixa Econômica Federal, em vigor, sem o que a documentação não será processada para pagamento.
+51
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+6. providenciar a imediata correção das deficiências apontadas pela CONTRATANTE; 7. arcar com eventuais danos causados à CONTRATANTE, seus servidores e/ou a terceiros, provocados, dolosa ou culposamente, por ineficiência ou irregularidade cometidas por seus empregados, contratados ou prepostos, envolvidos na execução do contrato; 8. cumprir rigorosamente as normas técnicas relacionadas ao objeto contratado, responsabilizando-se pela qualidade do(s) serviço(s) prestado(s), bem como pela segurança de seus empregados. 9. Providenciar novo(s) serviço(s) entregue(s) e aceito(s), desde que comprovada a preexistência de defeitos, má-fé do prestador ou condições inadequadas da execução, bem como alterações da estabilidade dentro do prazo prescricional que comprometam a integridade do objeto do certame. 10. aceitar nas mesmas condições contratuais os acréscimos e supressões até 25% (vinte e cinco por cento) do valor inicial do contrato atualizado. 11. responsabilizar-se, com foros de exclusividade, pela observância a todas as normas estatuídas pela legislação trabalhista, social e previdenciária, tanto no que se refere a seus empregados, como a contratados e prepostos, responsabilizando-se, mais, por toda e qualquer autuação e condenação oriunda da eventual inobservância das citadas normas, aí incluídos acidentes de trabalho, ainda que ocorridos nas dependências do CONTRATANTE. Caso este seja chamado a juízo e condenado pela eventual inobservância das normas em referência, a CONTRATADA obriga-se a ressarci-lo do respectivo desembolso, ressarcimento este que abrangerá despesas processuais e honorários de advogado arbitrados na referida condenação. 12. Identificar seus empregados, equipamentos e veículos quando estiverem em serviço nas unidades da Contratante. 13. gerenciar / coordenar a execução dos serviços visando garantir o cumprimento dos prazos do cronograma da sua proposta; 14. garantir a entrega e instalação dos sistemas em condições plenas de operação, em conformidade com todas as funções e critérios de aceitação, com os produtos definidos no Anexo I. 15. designar um representante tecnicamente habilitado com poderes para cumprir as obrigações designadas, e para adotar as providências necessárias à execução dos serviços contratados;
+52
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+16. disponibilizar a equipe técnica responsável pela execução dos serviços no prazo máximo de 15 (quinze) dias úteis contados da data de assinatura do contrato; 17. garantir, sem ônus adicional para a FHEMIG, o suporte técnico para o funcionamento dos sistemas a partir do aceite da instalação dos mesmos, pelo prazo de 12 (doze) meses; 18. responsabilizar-se pelo perfeito funcionamento dos sistemas, pelo prazo de 12 (doze) meses após o aceite da instalação dos mesmos, exceto quando comprovadamente verificar-se: 18.1.1. utilização inadequada dos sistemas por parte do FHEMIG; 18.1.2. imperícia, negligência ou imprudência da FHEMIG; 18.1.3. especificação incorreta dos serviços, por parte do FHEMIG. 19. seguir os padrões de interface gráfica, relatórios, nomenclaturas de campos, arquivos, programas e outros estabelecidos pelo FHEMIG; 20. fornecer a ferramenta de desenvolvimento dos sistemas e a biblioteca de classes, disponibilizando-as no ambiente de desenvolvimento especificado pela FHEMIG; 21. disponibilizar todos os softwares necessários para o funcionamento adequado dos aplicativos, tanto aqueles que residem no servidor como os que são instalados na estação cliente; 22. arcar com todas as despesas e remuneração do pessoal envolvido na execução dos serviços, cumprindo rigorosamente as exigências da legislação trabalhista, previdenciária, tributária e fiscal, de seguro, higiene e segurança do trabalho, assumindo todas as obrigações e encargos legais inerentes e respondendo integralmente pelos ônus resultantes das infrações cometidas; 23. garantir que todos os profissionais indicados (responsável técnico e equipe técnica) apresentados para cumprimento da qualificação técnica exigida, efetivamente participem da execução dos serviços, na medida das suas necessidades; 24. responsabilizar-se pelo desempenho e comportamento de seu pessoal substituindo aqueles cuja atuação não satisfaça plenamente o desenvolvimento dos serviços, com a aprovação prévia da FHEMIG; 25. transferir à FHEMIG, de forma a possibilitar a absorção por esta, os métodos e instrumentos utilizados nas soluções implantadas na execução dos serviços e documentação correspondente que deverá ser atualizada sempre que houver
+53
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+alteração. 26. ceder à FHEMIG, nos termos do artigo 111 da Lei nº. 8.666/93, concomitante com o art. 4º da Lei nº. 9.609/1998, o direito patrimonial, a propriedade intelectual em caráter definitivo dos sistemas desenvolvidos e resultados produzidos em conseqüência do cumprimento deste contrato, entendendo-se por resultados, quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, fluxogramas, listagens de programas de computador (fonte ou executável) e documentação didática, em papel ou em mídia eletrônica. 27. transferir a FHEMIG os módulos fonte de todos os sistemas desenvolvidos; 28. fornecer toda a documentação técnica e operacional dos sistemas na forma indicada neste termo, garantindo que descrevem fielmente os sistemas gerados; 29. atualizar os manuais de documentação dos sistemas de informações desenvolvidos, sempre que houver alterações, sem ônus para a FHEMIG, podendo, caso tais alterações não sejam extensas, enviar apenas as folhas que a contiverem, para encarte nos respectivos manuais; 30. concordar e declarar para todos os efeitos legais, que os softwares desenvolvidos neste termo de referência para a FHEMIG, suas documentações e demais resultados dos serviços executados são de exclusiva propriedade da FHEMIG, ficando-lhe desde já assegurado a exercer de forma plena os direitos de uso, de comercialização, de exploração, de manutenção, de atualizações, modificações tecnológicas e derivações do programa e sobre o resultado destas, e demais direitos a eles aplicáveis; 31. entregar a documentação completa do produto na forma de manuais impressos em cinco vias, além de uma versão digital. Esta documentação deverá conter a Toda esta descrição detalhada das funções do SIGH, as instruções para sua utilização, a estrutura do Banco de Dados e demais informações técnicas. (softwares/documentação), sem ônus para a FHEMIG. documentação deverá ser atualizada sempre que forem editadas novas versões
+
+II - Da CONTRATANTE a) fiscalizar a execução do contrato, através do Gestor do Contrato previamente designado, do que se dará ciência à CONTRATADA de qualquer irregularidade; b) comunicar à CONTRATADA, imediatamente e por escrito, toda e qualquer irregularidade, imprecisão ou desconformidade verificada na execução do contrato,
+54
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+assinando-lhe prazo para que a regularize, sob pena de serem-lhe aplicadas as sanções legais e contratualmente previstas; c) responsabilizar-se através do Gestor do Contrato pelo recebimento provisório e o definitivo nos prazos fixados; d) assegurar ao pessoal da CONTRATADA livre acesso às instalações para a plena execução do contrato; e) efetuar o pagamento no devido prazo fixado na Cláusula Sexta deste Contrato. f) fornecer, por escrito, todas as informações solicitadas pela contratada, relativamente aos serviços a serem executados; g) acompanhar a execução dos serviços contratados, revisando tecnicamente os produtos fornecidos; h) garantir a disponibilidade dos usuários dos sistemas para o devido repasse de suas necessidades e para a homologação dos produtos; i) disponibilizar um responsável pela gerência das demandas, promovendo o consenso entre os usuários, gerenciando o cumprimento de prazos e metas acordados em atas; j) disponibilizar a infra-estrutura necessária para a implantação e instalação dos sistemas; k) disponibilizar a infra-estrutura necessária para o treinamento das equipes da FHEMIG na capital e interior; l) fornecer os arquivos necessários para a conversão/migração de dados para os novos sistemas; m) fornecer os padrões de interface gráfica, relatórios, nomenclaturas de campos, arquivos, programas e outros; n) efetuar os pagamentos nos prazos e valores previstos, conforme condições de pagamento estipuladas; o) determinar correções necessárias em serviços executados e/ou em execução; p) recusar serviços fora das especificações, padrões e normas técnicas
+
+estabelecidas; q) orientar seus usuários para correta utilização dos sistemas desenvolvidos; r) disponibilizar a equipe de técnicos da FHEMIG que participarão da execução dos
+55
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+serviços de desenvolvimento juntamente com a equipe da proponente; s) prestar à proponente toda assistência necessária à boa execução dos serviços. t) A Gestora do contrato será a servidora Marlene Morais Leonardo, Masp 10393916, Gerente de Solução em Tecnologia de Informação.
+
+Cláusula Décima ­ DA GARANTIA A empresa contratada se compromete a garantir o correto e pleno funcionamento de todos os produtos desenvolvidos durante a vigência deste contrato por até 12 (doze) meses após o término deste instrumento. Caso, neste período, ocorram ou sejam detectados erros, vícios ou falhas de arquitetura, codificação e implementação, ou qualquer outra falha que tenha sido detectada em artefatos desenvolvidos ou sofridos manutenção (neste caso, desde que comprovada que a falha foi oriunda da intervenção feita) por parte da equipe desenvolvedora, a empresa contratada deverá saná-los de forma definitiva, atualizando toda a documentação pertinente em um prazo acordado com a Gerência de Solução em Tecnologia da Informação ­ FHEMIG.
+
+Cláusula Décima Primeira ­ DA CONFIDENCIALIDADE a) A empresa contratada tratará confidencialmente todos os documentos, dados e informações que lhe forem fornecidos ou mesmo por ela elaborados ou caso tenha acesso, em virtude dos serviços ora contratados. A divulgação e/ou reprodução, parcial ou integral, em qualquer tipo de mídia existente no mercado, de qualquer informação privilegiada, para fim diverso do estipulado neste contrato, somente poderá ser feita mediante prévia autorização, por escrito, da FHEMIG. b) Todas as informações, dados e documentos entregues à empresa contatada, serão aceitos e/ou elaborados, por aquela empresa em caráter confidencial, não devendo ser divulgados a terceiros enquanto o presente contrato estiver em vigor, e por mais 05 (cinco) anos após o seu término ou rescisão. c) A empresa contratada se obriga a obter de seus empregados, representantes, prepostos ou subcontratados, compromisso idêntico de sigilo, com relação a essas informações, dados e documentos, cuja cópia autenticada deverá ser entregue a Gestora do Contrato.
+
+Cláusula Décima Segunda ­ DA PROPRIEDADE INTELECTUAL E DIREITO
+56
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+PATRIMONIAL a) A empresa contratada cederá a FHEMIG, nos termos do artigo 111 da Lei nº. 8.666/93, concomitante com o art. 4º da Lei nº. 9.609/1998, o direito patrimonial, a propriedade intelectual em caráter definitivo dos sistemas desenvolvidos e resultados produzidos em conseqüência do cumprimento deste contrato, entendendo-se por resultados, quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, fluxogramas, listagens de programas de computador (fonte ou executável) e documentação didática, em papel ou em mídia eletrônica. b) A empresa contratada fica proibida de veicular, comercializar, demonstrar ou usar como case de apresentação de marketing da empresa, os produtos gerados, relativos ao objeto da prestação dos serviços, sem a prévia autorização por escrito da Fundação Hospitalar do Estado de Minas Gerais.
+
+Cláusula Décima Terceira - DAS PENALIDADES O descumprimento total ou parcial das obrigações assumidas caracterizará a inadimplência da CONTRATADA, sujeitando-a às seguintes penalidades: I - Advertência que será aplicada sempre por escrito; II - Multa, nos seguintes percentuais: a) 0,3% (três décimos por cento) por dia, até o trigésimo dia de atraso, sobre o valor do fornecimento ou serviço não realizado; b) 10% (dez por cento) sobre o valor da Nota de Empenho ou do Contrato, em caso de recusa do adjudicatário em efetuar o reforço de garantia; ou; c) 20% (vinte por cento) sobre o valor do fornecimento ou serviço não realizado, em caso de atraso superior a 30 (trinta) dias, com o conseqüente cancelamento da Nota de Empenho ou do documento correspondente. III - Suspensão temporária do direito de licitar com a Administração Estadual; IV - Declaração de inidoneidade para licitar e contratar com a ADMINISTRAÇÃO PÚBLICA, enquanto perdurarem os motivos da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade. V - Rescisão unilateral do Contrato, sujeitando-se a CONTRATADA ao pagamento de indenização à CONTRATANTE por perdas e danos;
+57
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+a) Ensejará ainda, a rescisão unilateral do contrato a não comprovação por parte da CONTRATADA da regularidade perante a Seguridade Social. VI - Indenização à CONTRATANTE da diferença de custo para contratação de outro licitante; VII - As sanções previstas nos itens I, III, IV poderão ser aplicadas cumulativamente, com a do item II, ou não, de acordo com a gravidade da infração, facultada ampla defesa à CONTRATADA, no prazo de 05 (cinco) dias úteis a contar da intimação do ato e, de 10 (dez) dias, para a hipótese de aplicação da declaração de inidoneidade. VIII - Nenhuma parte será responsável perante a outra pelos atrasos ocasionados por motivo de força maior ou caso fortuito. a) Consideram-se motivos de força maior ou caso fortuito: atos de inimigo público, guerra, de revolução, vulto, bloqueios, epidemias, civis, ou fenômenos meteorológicos contratantes. § 1º - A CONTRATANTE é competente para aplicar, nos termos da Lei Estadual 13.994, de 18 setembro de 2001, da Lei Federal 8.666/93, as penalidades de suspensão temporária e declaração de inidoneidade. § 2º - As multas estipuladas nos inciso II desta cláusula serão aplicadas nas demais hipóteses de inexecução total ou parcial das obrigações assumidas. § 3º - O valor das multas aplicadas deverá ser recolhido à CONTRATANTE no prazo de 10 (dez) dias a contar da data da notificação, podendo ainda, ser descontado das Notas Fiscais e/ou Faturas por ocasião do pagamento, ou cobrado judicialmente se julgar conveniente. § 4º - A critério da Administração, poderão ser suspensas as penalidades, no todo ou em parte, quando o atraso na entrega do material for devidamente justificado pela CONTRATADA e aceito pela CONTRATANTE, que fixará novo prazo, este improrrogável, para a completa execução das obrigações assumidas. perturbações acontecimentos
+
+assemelhados que fujam ao controle razoável de qualquer das partes
+
+Cláusula Décima Quarta - DA FISCALIZAÇÃO A fiscalização da execução do contrato será exercida por representante da CONTRATANTE, devidamente designado para tanto, ao qual competirá velar pela
+58
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+perfeita exação do pactuado, em conformidade com o previsto no edital e na proposta da CONTRATADA e neste instrumento, bem como dirimir quaisquer dúvidas que surgirem no curso da execução do contrato, exercendo, em toda a sua plenitude a ação fiscalizadora de que trata a Lei Federal nº. 8.666/93. Em caso de eventual irregularidade, inexecução ou desconformidade na execução do contrato, o agente fiscalizador dará ciência ao CONTRATANTE do sucedido, fazendo-o por escrito, bem assim das providências exigidas da CONTRATADA para sanar a falha ou defeito apontado. Todo e qualquer dano decorrente da inexecução, parcial ou total, do contrato, ainda que imposto a terceiros, será de única e exclusiva responsabilidade da CONTRATADA. § 1º - A fiscalização de que trata esta cláusula não exclui, nem reduz a responsabilidade exclusiva da CONTRATADA por quaisquer irregularidades, inexecuções ou desconformidades havidas na execução do ajuste, aí incluídas imperfeições de natureza técnica ou aqueles provenientes de vício redibitório, como tal definido pela lei civil, não implicando, em momento algum, em coresponsabilidade da CONTRATANTE ou de seus agentes e prepostos.. § 2º - A Contratante reserva-se o direito de rejeitar, no todo ou em parte, a prestação do(s) serviço(s), ora contratado, caso os mesmos afastem-se das especificações do edital, seus anexos e da proposta da CONTRATADA.
+
+Cláusula Décima Quinta - DAS ALTERAÇÕES O presente contrato poderá ser alterado nos casos previstos pelo disposto no Art. 65 da Lei nº. 8666/93, desde que devidamente fundamentado e autorizado pela autoridade superior.
+
+Cláusula Décima Sexta - DOS RECURSOS ADMINISTRATIVOS Das decisões proferidas pela Administração caberão: I - Recurso, por escrito, no prazo de 5 (cinco) dias úteis, a contar da intimação do ato, nos casos de aplicação das penas de advertência, suspensão temporária, multa ou rescisão do contrato; II ­ Representação, por escrito, no prazo de 5 (cinco) dias úteis da intimação da decisão, de que não caiba recurso hierárquico; III ­ Pedido de Reconsideração, por escrito, no prazo de 10 (dez) dias úteis da intimação do ato.
+59
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+Parágrafo Único - O recurso será dirigido à autoridade superior, por intermédio de quem praticou o ato ocorrido, a qual poderá reconsiderar sua decisão no prazo de 5 (cinco) dias úteis ou, nesse mesmo prazo, fazê-lo subir devidamente informado à autoridade competente, devendo, neste caso a decisão ser proferida no prazo de 5 (cinco) dias úteis, contados do recebimento do processo, sob pena de responsabilidade.
+
+Cláusula Décima Sétima - DA RESCISÃO A Contratante poderá rescindir unilateralmente o presente contrato conforme os motivos seguintes: I - o não cumprimento de cláusulas contratuais, especificações ou prazos; II - o cumprimento irregular de cláusulas contratuais, especificações e prazos; III - a lentidão no seu cumprimento; IV- em caso de subcontratação total ou parcial do seu objeto, associação do contratado com outrem, cessão ou transferência total ou parcial, bem como a fusão, cisão ou incorporação, não admitidos no edital e no contrato, que venha comprometer a responsabilidade da empresa contratada sobre o objeto deste termo; V - o desatendimento das determinações regulares da autoridade designada para acompanhar e fiscalizar a sua execução, assim como as de seus superiores; VI - o cometimento reiterado de faltas na sua execução, anotadas na forma do §1º do art.67 da Lei 8.666/93; VII - a decretação de falência ou a instauração de insolvência civil; VIII - a dissolução da sociedade ou o falecimento do contratado; IX - a alteração social ou a modificação da finalidade ou da estrutura da empresa, que prejudique a execução do contrato; X - razões de interesse público de alta relevância amplo conhecimento, justificadas e determinadas pela máxima autoridade da esfera administrativa a que está subordinado o contratante e exaradas no processo administrativo a que se refere o contrato; XI - A ocorrência de caso fortuito ou de força maior, regularmente comprovada, impeditiva da execução do contrato.
+60
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+§ 1º ­ A rescisão do contrato poderá ser por acordo entre as partes ou determinada por ato unilateral e escrito da Administração. § 2º ­ Na hipótese de a rescisão ser procedida por culpa da CONTRATADA, fica a CONTRATANTE, autorizada a reter os créditos a que tem direito, até o limite dos prejuízos comprovados.
+
+Cláusula Décima Oitava ­ DA GARANTIA DA EXECUÇÃO I ­ Como Garantia da Execução da prestação dos serviços objeto do presente contrato, a contratada deverá apresentar garantia, em até cinco dias, do ato de assinatura do Contrato, na quantia equivalente a 5%(cinco por cento) do valor do contrato assinado, em uma das modalidades previstas no § 1º do art. 56 da Lei 8.666/93. II No caso da não apresentação da garantia prevista no item anterior, dar-se-á por rescindido o Contrato, estando a Contratada sujeita as penalidades previstas na clausula nona do presente instrumento. III ­ A Garantia da Execução responderá pelo inadimplemento das obrigações assumidas pela Contratada, sem prejuízo das multas legais aplicáveis em razão da inadequada execução do contrato. IV ­ A garantia da execução deverá ser atualizada quando da alteração no Contrato. V ­ A Garantia será liberada após o cumprimento total do Contrato e emissão, pela Diretoria da FHEMIG, do Termo de Recebimento Definitivo ­ TRD.
+
+Cláusula Décima Nona - DAS DISPOSIÇÕES GERAIS E FINAIS I - A tolerância com qualquer atraso ou inadimplência por parte da CONTRATADA não importará, de forma alguma, em alteração contratual. II - É vedado à CONTRATADA subcontratar total ou parcialmente a prestação do(s) serviço(s) ora ajustado, salvo autorização expressa da autoridade competente. Caso os serviços de assistência e manutenção técnicas sejam, por força de previsão legal ou contratual, de responsabilidade de terceiro, a CONTRATADA será solidariamente responsável pelos mesmos, respondendo, assim, por eventuais falhas, defeitos ou danos decorrentes da mencionada prestação de serviços.
+
+Cláusula Vigésima - DA PUBLICAÇÃO
+61
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+MOD. P-EL-PS-CTR-001/2009
+
+Governo do Estado de Minas Gerais Fundação Hospitalar do Estado de Minas Gerais ­ FHEMIG
+
+A CONTRATANTE providenciará a publicação deste contrato na Imprensa Oficial em forma resumida, em obediência ao disposto no parágrafo único do Art. 61 da Lei Federal n.º 8.666/93. Cláusula Vigésima Primeira ­ DO REGISTRO
+
+A celebração deste contrato requer o devido preenchimento e encaminhamento dos Anexos Técnicos da Instrução Normativa nº. 07/2003, publicada em 07/01/2004, para o Egrégio Tribunal de Contas do Estado de Minas Gerais, bem como o cadastro no Sistema Integrado de Administração Financeira do Estado, o SIAF, após a competente publicação do instrumento no "Minas Gerais".
+
+Cláusula Vigésima Segunda - DO FORO Fica eleito o foro de Belo Horizonte para dirimir quaisquer dúvidas na aplicação deste contrato, em renúncia a qualquer outro, por mais privilegiado que seja. E, para firmeza e como prova de assim haverem, entre si, ajustado e contratado, é lavrado este contrato que, depois de lido e achado de acordo, será assinado pelas partes contratantes e pelas testemunhas abaixo, dele extraídas as necessárias cópias que terão o mesmo valor original.
+
+Belo Horizonte, _____ de ________________ de _________. CONTRATANTE: CONTRATADA:
+TESTEMUNHAS:
+
+62
+Alameda Vereador Álvaro Celso, 100 ­ Santa Efigênia ­ Belo Horizonte/MG. CEP: 30150-260 ­ Fone: 0(XX) 31 3239-9600 ­ Fax: 0(XX) 31 3239-9658 E-mail: compras.chefia@fhemig.mg.gov.br - Site: www.fhemig.mg.gov.br
+
+

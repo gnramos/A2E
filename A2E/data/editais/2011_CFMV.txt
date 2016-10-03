@@ -1,0 +1,740 @@
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+PREGÃO ELETRÔNICO Nº 04/2011 RECIBO DE ENTREGA DE EDITAL E SEUS ANEXOS Processo nº 10353/2011 OBJETO: Prestação de serviços especializados no desenvolvimento de portais e
+
+sistemas WEB.
+EMPRESA: __________________________________________________________ ENDEREÇO COMPLETO: _____________________________________________ CNPJ DA EMPRESA: _________________________________________________ TELEFONE: _________________________________________________________ FAX: ________________________________________________________________ E-MAIL: _____________________________________________________________ Recebi do Conselho Federal de Medicina Veterinária - CFMV, cópia do Edital e seus Anexos relativos ao Pregão Eletrônico nº 4/2011, cujo recebimento das Propostas será a partir das 8h do dia 02/03/2011 até às 8h30 do dia 17/03/2011 (horário de Brasília). No site: www.comprasnet.gov.br; a partir das 9h do dia 17/03/2011, terá início a sessão pública do Pregão, exclusivamente por meio do sistema eletrônico. Cidade, _____/_____/2011. _________________________________________________________________ Assinatura (nome legível) Observação: Os interessados que retirarem o Edital pela Internet DEVERÃO ENCAMINHAR ESTE COMPROVANTE, devidamente preenchido, ao Pregoeiro por meio do fax nº 61 - 2106-0472. Os pedidos de esclarecimentos referentes ao processo licitatório deverão ser enviados ao Pregoeiro, até três dias úteis anteriores à data fixada para abertura da sessão pública, exclusivamente por meio eletrônico, via internet, para o e-mail: pregao@cfmv.gov.br.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+EDITAL DO PREGÃO CFMV Nº 04/2011
+
+O Conselho Federal de Medicina Veterinária - CFMV torna público, para conhecimento dos interessados, que o Pregoeiro e sua Equipe de Apoio, designados pela Portaria nº 085, de 20/12/2010, reunir-se-ão em 17/03/2011, às 9h, no SIA Trecho 6 ­ Lotes 130 e 140 ­ CEP: 71205-060 ­ Brasília/DF, onde realizarão licitação na modalidade PREGÃO do tipo ELETRÔNICO, execução indireta sob o regime empreitada por preço global, tipo menor preço global para Prestação de serviços especializados no desenvolvimento de portais e sistemas WEB, conforme descrito no presente Edital e seus Anexos. O recebimento das propostas será a partir das 8h do dia 02/03/2011 até às 8h30 do dia 17/03/2011 (horário de Brasília/DF) no sítio www.comprasnet.gov.br. O presente certame licitatório reger-se-á pelas disposições da Lei nº 10.520/02, do Decreto nº 5.450/05, da Lei Complementar n.º 123/06 e, subsidiariamente, às normas da Lei 8.666/93, e suas alterações, e subordinado às condições e exigências estabelecidas neste Edital e seus Anexos. 1 ­ DO OBJETO, DO RECEBIMENTO DAS PROPOSTAS E ABERTURA DA LICITAÇÃO 1.1. A presente licitação tem por objeto a contratação de pessoa jurídica para prestação de serviços especializados no desenvolvimento de portais e sistemas WEB, tudo conforme o termo de referência constante do Anexo I. 1.2. A abertura da licitação dar-se-á em sessão pública, dirigida por um Pregoeiro, a ser realizada conforme indicado abaixo, de acordo com a legislação mencionada no preâmbulo deste Edital. 1.2.1. DO RECEBIMENTO DAS PROPOSTAS: a partir das 8h do dia 02/03/2011 até às 8h30 do dia 17/03/2011 (horário de Brasília/DF); 1.2.2. DA ABERTURA DA LICITAÇÃO: 17/03/2011; 1.2.3. DA HORA: 9h (horário de Brasília/DF);
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+2
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+1.2.4. DO LOCAL: no sítio www.comprasnet.gov.br; 1.2.5. DA UASG: 389185 ­ Conselho Federal de Medicina Veterinária ­ CFMV; 1.2.6. DO LOCAL PARA ENTREGA DO OBJETO: SIA Trecho 6, Lotes 130 e 140 ­ CEP: 71205-060 ­ Brasília/DF; 1.2.7. DO PRAZO PARA ENTREGA DO OBJETO: 12 (doze) meses, contados da assinatura do contrato. 2 ­ DA PARTICIPAÇÃO NA LICITAÇÃO 2.1. Poderão participar da presente licitação os interessados que atenderem a todas as exigências constantes deste Edital e seus anexos, inclusive quanto à documentação constante deste Edital e seus anexos, e estiverem habilitados no COMPRASNET para participação em Pregão Eletrônico. 2.2. Somente poderão participar da presente licitação os interessados previamente credenciados perante o provedor do sistema eletrônico, na forma do disposto no artigo 3º do Decreto nº 5.450/05. 2.3. Caberá ao interessado em participar do Pregão, na forma eletrônica: I - Remeter, no prazo estabelecido, exclusivamente por meio eletrônico, via internet, a proposta e, quando for o caso, seus anexos; II - Responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumindo como firmes e verdadeiras suas propostas e lances, inclusive os atos praticados diretamente ou por seu representante, não cabendo ao provedor do sistema ou a entidade promotora da licitação responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros;
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+3
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+III - Acompanhar as operações no sistema eletrônico durante o processo licitatório, responsabilizando-se pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão; IV - Comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a inviabilidade do uso da senha, para imediato bloqueio de acesso; V - Utilizar-se da chave de identificação e da senha de acesso para participar do Pregão na forma eletrônica; e VI - Solicitar o cancelamento da chave de identificação ou da senha de acesso por interesse próprio. 2.4. O fornecedor descadastrado no SICAF terá sua chave de identificação e senha suspensas automaticamente. 2.5. Não poderão participar deste pregão os interessados que se encontrarem em processo de falência ou insolvência declarada por sentença judicial ou extrajudicial, de fusão, de cisão ou de incorporação, estejam cumprindo suspensão temporária de participação em licitação e impedimento de contratar com a Administração ou tenham sido declarados inidôneos para licitar ou contratar com a Administração Pública, empresas estrangeiras não autorizadas a funcionar no país, bem como licitantes que se apresentem constituídos na forma de empresas em consórcio. 3 ­ DO CREDENCIAMENTO 3.1. O credenciamento do licitante perante o provedor do sistema eletrônico darse-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico no Portal de Compras do Governo Federal - COMPRASNET, sítio www.comprasnet.gov.br.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+4
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+3.2. O credenciamento do licitante perante o provedor do sistema eletrônico, bem assim sua manutenção, dependerá de registro atualizado no Sistema de Cadastramento Unificado de Fornecedores do Governo Federal ­ SICAF, conforme disposto no § 2º do artigo 3º do Decreto nº 5.450/05. 3.2.1. O registro exigido no SICAF - instituído pela Instrução Normativa nº 5, do extinto Ministério da Administração e Reforma do Estado ­ MARE, de 21 de julho de 1995, publicada no Diário Oficial da União, de 19 de abril de 1996, e suas alterações - em cumprimento ao disposto no § 2º do art. 3º, caput e inc. I do art. 13 e §§ 1º e 2º do art. 25, todos do Decreto nº 5.450/05, poderá ser realizado pelo interessado em qualquer unidade credenciada para tal integrante dos órgãos/entidades da Presidência da República, dos Ministérios, das Autarquias e das Fundações que integram o Sistema de Serviços Gerais ­ SISG; 3.2.2. Para o registro mencionado no subitem anterior, o interessado deverá atender às condições exigidas para o cadastramento no SICAF, apresentando a documentação discriminada na IN - MARE nº 05/95, até o terceiro dia útil anterior à data prevista para a abertura da sessão. 3.3. O credenciamento junto ao provedor do sistema implica a responsabilidade legal do licitante e a presunção de sua capacidade técnica para realização das transações inerentes ao Pregão. 4 ­ DA IMPUGNAÇÃO DO ATO CONVOCATÓRIO 4.1. Qualquer cidadão é parte legítima para impugnar este Edital, por alegação de irregularidade, devendo protocolar o pedido até 02 (dois) dias úteis, antes da data fixada para abertura da sessão pública do Pregão, no endereço eletrônico: pregao@cfmv.gov.br, cabendo ao Pregoeiro decidir sobre a impugnação no prazo de até vinte e quatro horas. 4.2. Decairá do direito de impugnar os termos deste Edital perante a Administração o licitante que não o fizer até o 2º dia útil que anteceder a
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+5
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+abertura da sessão pública do Pregão por alegação de irregularidades, hipótese em que tal comunicação não terá efeito de recurso. 4.3. Não serão conhecidas as impugnações interpostas, vencidos os respectivos prazos legais. 4.4. Qualquer modificação neste Edital exige divulgação pela mesma forma que se deu o texto original, reabrindo-se o prazo inicialmente estabelecido, exceto quando, inquestionavelmente, a alteração não afetar a formulação das propostas. 5 ­ DOS DOCUMENTOS DE HABILITAÇÃO 5.1. Para habilitação dos licitantes, será exigida, exclusivamente, a documentação relativa a: 5.1.1. Habilitação Jurídica: 5.1.1.1. Registro Comercial, no caso de empresário individual; 5.1.1.2. Ato constitutivo, estatuto social ou contrato social em vigor, devidamente registrado, em se tratando de sociedade empresária, e, no caso de sociedades por ações, acompanhado de documentos de eleição de seus administradores, devidamente registrados; 5.1.1.2.1. Os documentos em apreço deverão estar acompanhados de todas as alterações ou da consolidação respectiva; 5.1.1.3. A Empresa ou sociedade estrangeira em funcionamento no país, deverá apresentar, também, o decreto de autorização ou o ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir. 5.1.2. Qualificação econômico-financeira:
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+6
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+5.1.2.1. Certidão negativa de recuperação judicial/extrajudicial e falência expedida pelo órgão distribuidor da sede da Pessoa Jurídica. 5.1.3. Regularidade Fiscal: 5.1.3.1. Prova de regularidade para com a Fazenda Nacional (Certidão Negativa de Débitos de Tributos e Contribuições Federais emitida pela Secretaria da Receita Federal - SRF e Certidão quanto à Dívida Ativa da União emitida pela Procuradoria-Geral da Fazenda Nacional - PGFN); 5.1.3.2. Prova de regularidade relativa à Seguridade Social (INSS) e ao Fundo de Garantia por Tempo de Serviço (FGTS), demonstrando situação regular no cumprimento dos encargos sociais instituídos por lei; 5.1.3.3. Prova de regularidade para com a Fazenda Estadual e Municipal. 5.1.4. Declarações: 5.1.4.1. Declaração de que até a presente data inexistem fatos supervenientes impeditivos para sua habilitação no presente processo licitatório, estando ciente da obrigatoriedade de declarar ocorrências posteriores; 5.1.4.2. Declaração que para fins do disposto no inciso V do artigo 27 da Lei n.º 8.666, de 21 de junho de 1993, acrescido pela Lei n.º 9.854, de 27 de outubro de 1999, não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre, e não emprega menor de dezesseis anos; 5.1.4.3. Declaração de que tem conhecimento de todos os parâmetros e elementos do objeto e serviços a serem executados, estando de acordo com os termos deste Edital e seus anexos.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+7
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+5.1.5. Atestado de capacidade técnica, com apresentação de um ou mais, fornecido por órgãos, entidades públicas ou privadas, idôneas, estabelecidas no território nacional, que contemplem serviços similares ao objeto do certame e, no mínimo, 70% (setenta por cento) da quantidade de pontos de função previstas neste termo de referência. 5.1.5.1. O atestado de capacidade técnica deverá comprovar a execução de serviços de desenvolvimento de portal web com as características do ambiente tecnológico descrito no item 8 ­ Ambiente Tecnológico do CFMV, deverá ser informado no atestado apresentado o nome, RG e CPF e e-mail do emitente, dados da empresa como razão social, endereço, telefone, assinatura com firma reconhecida em cartório e cópia dos contratos para validação das informações. O CFMV se reserva no direito de efetuar diligências e/ou solicitar documentos adicionais para comprovar a veracidade dos atestados. 5.2. Os documentos necessários à habilitação poderão ser apresentados em original, ou em cópia autenticada por cartório competente, ou publicação em Órgão da imprensa oficial ou em cópias simples, desde que acompanhadas dos originais para conferência pelo Pregoeiro. 5.3. Os licitantes poderão deixar de apresentar os documentos de habilitação que já constem do Sistema de Cadastramento Unificado de Fornedores ­ SICAF. 5.4. Serão inabilitadas as empresas que não atenderem ao item 05 deste Edital. 6 ­ DO ENVIO DA PROPOSTA DE PREÇOS 6.1. O licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiras suas propostas e lances. 6.2. Após a divulgação do Edital no endereço eletrônico www.comprasnet.gov.br, os licitantes deverão encaminhar proposta contendo a ESPECIFICAÇÃO DETALHADA DO OBJETO ofertado e o preço e, se for
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+8
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+o caso, o respectivo anexo, até a data e hora marcadas para abertura da sessão, exclusivamente por meio do sistema eletrônico, quando, então, encerrar-se-á, automaticamente, a fase de recebimento de propostas. 6.3. A participação no Pregão dar-se-á por meio da digitação da senha privativa do licitante e subsequente encaminhamento da proposta de preços, no valor global, a partir das 8h do dia 02/03/2011 até 8h30 do dia 17/03/2011, horário de Brasília; a partir das 9h do dia 17/03/2011, terá início a sessão pública do Pregão, exclusivamente por meio do sistema eletrônico. 6.4. Para o encaminhamento da proposta de preços objeto desta licitação não será exigido o preenchimento e envio de nenhum arquivo anexo. Este fato não exime o licitante do cumprimento de todas as condições previstas neste Edital e seus Anexos. 6.5. Para participação no Pregão, o licitante deverá manifestar, em campo próprio do sistema eletrônico, que cumpre plenamente os requisitos de habilitação e que sua proposta está em conformidade com as exigências do Edital. 6.5.1. A declaração falsa relativa ao cumprimento dos requisitos de habilitação e proposta sujeitará o licitante às sanções previstas neste Edital. 6.6. Até a abertura da sessão, os licitantes poderão retirar ou substituir a proposta anteriormente apresentada. 6.7. Para formular e encaminhar a proposta de preços, no idioma oficial do Brasil, exclusivamente por meio do sistema eletrônico, o licitante deverá estar ciente e levar em consideração, além das especificações e condições estabelecidas neste Edital, notadamente no Anexo I, de cotar produtos novos, de primeira qualidade, e o atendimento dos seguintes requisitos: I - Apresentar os preços de forma completa, computados todos os custos necessários para o atendimento do objeto desta licitação, bem como todos os materiais, equipamentos, impostos, encargos trabalhistas, previdenciários, fiscais, comerciais, taxas, fretes, seguros, deslocamentos
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+9
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+de pessoal, transporte, e quaisquer outros que incidam ou venham a incidir sobre o objeto licitado, constante da proposta; II - Apresentar o prazo de validade das condições das propostas não inferior a 60 (sessenta) dias correntes, a contar da data da sessão pública. Não havendo indicação expressa será considerado como tal. 6.8. Os preços propostos serão de exclusiva responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de erro, omissão ou qualquer outro pretexto. 6.9. A Proposta de Preço será considerada completa abrangendo todos os custos necessários à entrega dos serviços. 6.10. Serão desclassificadas as propostas que não atendam às exigências do ato convocatório. 6.11. A proposta deverá limitar-se ao objeto desta licitação, sendo desconsideradas quaisquer alternativas de preço ou qualquer outra condição não prevista no Edital. 6.12. Independentemente de declaração expressa, a simples apresentação da proposta implica conhecimento e submissão a todas as condições estipuladas neste Edital e seus Anexos, sem prejuízo da estrita observância das normas contidas na legislação mencionada no preâmbulo deste Edital. 6.13. Durante a etapa de lances, em nenhuma hipótese poderá ser alterada a proposta apresentada, seja quanto ao preço, condições de pagamento, prazos ou outra condição que importe em modificação dos termos originais, exceto quanto ao valor da proposta. 6.14. Os seguintes dados do licitante: Razão Social, endereço, telefone/fax, número do CNPJ/MF, Banco, agência, número da conta-corrente e praça de pagamento, devem constar na proposta de preços.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+10
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+7 ­ DA ABERTURA DAS PROPOSTAS 7.1. A partir do horário previsto no item 1.2.3 deste Edital, a sessão pública na internet será aberta por comando do Pregoeiro, com a divulgação das propostas de preços recebidas, sem identificação dos licitantes por parte do sistema eletrônico. 7.2. Os licitantes poderão participar da sessão pública na internet, devendo utilizar sua chave de acesso e senha. 7.3. O uso da senha de acesso pelo licitante é de sua responsabilidade exclusiva, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou à entidade promotora da licitação responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros. 8 ­ DA ANÁLISE DAS PROPOSTAS E DA FORMULAÇÃO DOS LANCES 8.1. O pregoeiro verificará as propostas apresentadas, desclassificando aquelas que não estejam em conformidade com os requisitos estabelecidos neste Edital. 8.2. A desclassificação de proposta será sempre fundamentada e registrada no sistema, com acompanhamento em tempo real por todos os participantes. 8.3. As propostas contendo a descrição do objeto, valor e eventuais anexos estarão disponíveis na internet. 8.4. O sistema disponibilizará campo próprio para troca de mensagens entre o pregoeiro e os licitantes. 8.5. O sistema ordenará, automaticamente, as propostas classificadas pelo pregoeiro, sendo que somente estas participarão da fase de lance.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+11
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+8.6. Classificadas as propostas, o Pregoeiro dará início à fase competitiva, quando então os licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico. 8.7. No que se refere aos lances, o licitante será imediatamente informado do seu recebimento e do valor consignado no registro. 8.8. Os licitantes poderão oferecer lances sucessivos, observados o horário fixado para abertura da sessão e as regras estabelecidas neste Edital. 8.9. Os licitantes somente poderão oferecer lance inferior ao último por ele ofertado e registrado pelo sistema. 8.10. Não serão aceitos dois ou mais lances iguais, prevalecendo aquele que for recebido e registrado primeiro. 8.11. Durante a sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance registrado, vedada a identificação do licitante. 8.12. Ocorrendo a desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico poderá permanecer acessível aos licitantes, vedada a identificação do detentor do lance. 8.12.1. O Pregoeiro, quando possível, dará continuidade à sua atuação no certame, sem prejuízo dos atos realizados; 8.12.2. Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do Pregão será suspensa e será reiniciada somente após comunicação expressa do Pregoeiro aos participantes. 8.13. A etapa de lances da sessão pública será encerrada por decisão do Pregoeiro. 8.14. O sistema eletrônico encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até 30 (trinta) minutos,
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+12
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+aleatoriamente determinado pelo sistema eletrônico, findo o qual será automaticamente encerrada a recepção de lances. 8.14.1. Caso o sistema não emita o aviso de fechamento iminente, o Pregoeiro se responsabilizará pelo aviso de encerramento aos licitantes. 8.15. Após o encerramento da etapa de lances da sessão pública, o Pregoeiro poderá encaminhar, pelo sistema eletrônico, contraproposta ao licitante que tenha apresentado o lance mais vantajoso, para que seja obtida melhor proposta, observado o critério de julgamento, não se admitindo negociar condições diferentes daquelas previstas neste Edital. 8.16. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais licitantes. 9 ­ DO JULGAMENTO DAS PROPOSTAS 9.1. Para julgamento e classificação das propostas será adotado o critério de menor preço global ofertado, serão desclassificadas as propostas que contenham vícios ou ilegalidades e não apresentem detalhadamente todas as especificações técnicas exigidas pelo Termo de Referência/Projeto Básico e que ofertem preços finais superiores ao limite máximo fixado pelo valor de referência. 9.2. Para a verificação quanto à inexequibilidade das propostas e como parâmetro de asseguramento da economicidade para o CFMV quanto da remuneração suficiente para execução total do objeto do certame, adota-se por critério objetivo de julgamento que serão consideradas inexequíveis as propostas cujos valores sejam inferiores a 80% (oitenta por cento) do seguinte valor: 9.2.1. Média aritmética dos valores das 3 (três) propostas de maior valor que não ultrapassem o limite máximo fixado pelo valor de referência; 9.2.2. Em caso de propostas com empate no limite de inexequibilidade, será considerada vencedora a empresa que primeiro enviou o lance no valor de empate.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+13
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+9.3. Encerrada a etapa de lances da sessão pública, o Pregoeiro consultará, via sistema eletrônico, o licitante proponente da melhor proposta e, se tratando de microempresa ou empresa de pequeno porte, abrirá prazo de até 05 (cinco) minutos oportunizando à microempresa ou empresa de pequeno porte, cuja proposta seja igual ou até 5% superior à mais bem classificada, que manifeste essa sua condição, segundo o que dispõem o art. 44 e seu §2º da Lei Complementar n.º 123/2006. 9.3.1. Verificando-se a hipótese de empate prevista no art. 44 e seu §2º da Lei Complementar n.º 123/2006, o Pregoeiro abrirá prazo máximo de até 05 (cinco) minutos à microempresa ou empresa de pequeno porte mais bem classificada, oportunizando-lhe que apresente proposta de preço inferior àquela originalmente melhor classificada no certame; 9.3.2. No caso da microempresa ou empresa de pequeno porte mais bem classificada não exercer a preferência prevista na alínea anterior, serão convocadas, na ordem classificatória, as remanescentes que porventura se enquadrem na hipótese prevista neste subitem e no art. 44, § 2º, da Lei Complementar n.º 123/2006, para o exercício dessa preferência, desde que tenham declarado essa condição no prazo anteriormente concedido; 9.3.3. A abertura e o encerramento dos prazos referidos neste subitem, serão comunicados pelo Pregoeiro, via sistema eletrônico, a todos os licitantes. Observação: Estando o sistema Comprasnet, na data de abertura desta licitação, adequado para o exercício do direito de preferência previsto na Lei Complementar nº 123/2006, ao invés do previsto neste Edital, prevalecerão os procedimentos estabelecidos pelo referido sistema. 9.4. Não se verificando possível a hipótese de adjudicação em favor de microempresa ou empresa de pequeno porte nos termos previstos neste Edital, o objeto poderá ser adjudicado ao licitante originalmente melhor classificado no certame.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+14
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+9.5. O Pregoeiro poderá encaminhar contraproposta ao licitante que tenha apresentado o lance mais vantajoso com vistas à obtenção de melhor proposta, observado o critério de julgamento, não se admitindo negociar condições diferentes daquelas previstas no Edital. 9.5.1. A negociação será realizada por meio do sistema eletrônico, podendo ser acompanhada pelas demais licitantes; 9.5.2. O Pregoeiro verificará, de imediato, as condições de habilitação do licitante detentor da melhor oferta. 9.6. Na hipótese de a proposta ou o lance de menor valor não serem aceitos ou se o licitante detentor da melhor proposta desatender às exigências habilitatórias, o Pregoeiro examinará a proposta ou o lance subsequente, verificando a sua aceitabilidade e procedendo à sua habilitação, na ordem de classificação, e assim sucessivamente, até a apuração de proposta ou lance que atenda ao Edital. 9.6.1. No julgamento das propostas considerar-se-á o atendimento das exigências estipuladas neste Edital e seus Anexos, o menor preço global, o valor de mercado e a exequibilidade dos valores ofertados. 9.7. Será declarada vencedor o licitante que apresentar o menor preço global para o objeto licitado e cumprir todos os requisitos de habilitação. 10 ­ DA HABILITAÇÃO 10.1. Efetuados os procedimentos previstos no item 8 deste Edital, e sendo aceitável a proposta classificada em primeiro lugar, em cada item, o Pregoeiro procederá, de imediato, à verificação do atendimento das condições de habilitação deste licitante, sendo que em caso positivo o declarará habilitado. 10.1.1. A habilitação ficará sujeita à condição resolutiva expressa, consistente no encaminhamento, pelo licitante declarado vencedor, no prazo estabelecido no item 10.6, dos documentos e declarações exigidos para habilitação, no original ou em cópia autenticada.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+15
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+10.2. A documentação exigida no item 5 deste Edital referente à Habilitação Jurídica, Qualificação Econômico-Financeira e Regularidade Fiscal será verificada por meio do SICAF, nos documentos contemplados por esse sistema, por meio de consulta "on line", assegurado o direito de apresentar, via facsímile, na própria sessão do Pregão, a documentação atualizada e regularizada, bem como a documentação não exigida para cadastramento nesse Sistema. 10.2.1. Procedida à consulta ao SICAF, será impressa declaração demonstrativa da situação do licitante (Anexo V da IN - MARE nº 05/95, e suas alterações), a qual será juntada ao processo de licitação; 10.2.2. Para fins de habilitação, a verificação pelo CFMV nos sítios oficiais de órgãos e entidades emissoras de certidões constitui meio legal de prova. 10.3. A documentação exigida no item 5 deste Edital referente às Declarações e à Qualificação Técnica (quando exigida), não contempladas pelo SICAF, será verificada por meio de apresentação, via fac-símile, na própria sessão do Pregão. 10.4. No caso de microempresa ou empresa de pequeno porte, a comprovação dessa condição poderá ser feita mediante apresentação de original ou cópia autenticada da comunicação do registro efetuado pelas Juntas Comerciais ou pelos Cartórios de Registro Civil de Pessoas Jurídicas ou, ainda, por Certidão em que conste a condição de microempresa ou empresa de pequeno porte, expedida pelo órgão de registro competente, tudo conforme art. 4º do Decreto n.º 3.474, de 19/05/2000. 10.5. A microempresa ou empresa de pequeno porte deverá apresentar, tãosomente, quando da assinatura do contrato, toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição. 10.5.1. Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado à microempresa ou empresa de pequeno porte o prazo de 2 (dois) dias úteis, prorrogáveis por igual período a critério da Administração, para a regularização dessa documentação, cujo termo inicial corresponderá ao momento em que o proponente for declarado o
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+16
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+vencedor do certame, conforme previsto no art. 43, §1º, da Lei Complementar n.º 123/2006; 10.5.2. A não-regularização da documentação, no prazo previsto na alínea anterior, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. 81 da Lei n.º 8.666/1993 c/c art. 7º da Lei n.º 10.520/2002, sendo facultado à Administração convocar os licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação. 10.6. Encerrada a etapa de lances da sessão pública, o(s) licitante(s) detentor(es) da melhor proposta(s)/lance deverá(ão) encaminhar, via fac-símile, tel. (0xx61 ­ 2106-0472), os documentos necessários para a comprovação da sua habilitação, observado o disposto nos itens 10.2 e 10.3, imediatamente após o julgamento dos preços ofertados nas propostas e lances, sendo que os documentos originais ou as cópias autenticadas deverão ser encaminhadas no prazo de 3 (três) dias úteis para a sede do Conselho Federal de Medicina Veterinária ­ CFMV, situada no SIA Trecho 06 ­ Lotes 130 e 140 ­ CEP: 71205-060 ­ Brasília/DF. 10.6.1. O descumprimento da obrigação contida acima implicará inabilitação do licitante e o sujeitará às sanções previstas neste Edital. 10.7. Os licitantes que deixarem de apresentar quaisquer dos documentos exigidos para a habilitação na presente licitação, ou os apresentarem em desacordo com o estabelecido neste Edital, serão inabilitados. 10.8. Se o licitante desatender as exigências habilitatórias, o Pregoeiro examinará a oferta subsequente, verificando a sua aceitabilidade e procedendo à habilitação do licitante, na ordem de classificação, e assim sucessivamente, até a apuração de uma proposta que atenda ao Edital. 10.9. Constatado o atendimento das exigências previstas pelo Edital, o licitante será declarado vencedor. 10.10. Na hipótese de inexistência de recursos, será feita, pelo Pregoeiro, a adjudicação do objeto da licitação ao(s) licitante(s) declarado(s) vencedor(es),
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+17
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+com posterior encaminhamento dos autos à Autoridade Competente para homologação do procedimento licitatório e decisão quanto à contratação. 10.11. Na hipótese de existência de recursos, os autos serão encaminhados à Autoridade Competente para julgamento e, em caso de improvimento, adjudicação do objeto da licitação ao licitante vencedor, homologação do procedimento licitatório e decisão quanto à contratação. 10.12. A indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativas à sessão pública do Pregão constarão de ata divulgada no sistema eletrônico, sem prejuízo das demais formas de publicidade previstas no artigo 30 do Decreto nº 5.450/05 e na legislação pertinente. 11 ­ DOS RECURSOS ADMINISTRATIVOS 11.1. Declarado o vencedor, qualquer licitante poderá, durante a sessão pública, de forma imediata e motivada, em campo próprio do sistema, manifestar sua intenção de recorrer, quando lhe será concedido o prazo de 3 (três) dias para apresentar as razões de recurso, ficando os demais licitantes, desde logo, intimados para, querendo, apresentarem contrarrazões em igual prazo, que começará a contar do término do prazo do recorrente, sendo-lhes assegurado vista imediata dos elementos indispensáveis à defesa dos seus interesses. 11.2. A falta de manifestação imediata e motivada do licitante quanto à intenção de recorrer, nos termos do subitem anterior, importará na decadência desse direito, ficando o Pregoeiro autorizado a adjudicar o objeto ao licitante declarado vencedor. 11.3. O acolhimento de recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento. 11.4. Os autos do processo administrativo permanecerão com vista franqueada aos interessados no SIA Trecho 6 ­ Lotes 130 e 140 ­ CEP: 71205-060 ­ Brasília/DF.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+18
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+11.5. Julgados improvidos os recursos, e constatada a regularidade dos atos procedimentais, a Autoridade Competente fará a adjudicação do objeto licitado ao licitante declarado vencedor, homologará o procedimento da licitação e decidirá quanto à contratação. 11.6. Não serão conhecidas as contrarrazões a recursos intempestivamente apresentadas. 12 ­ DO CONTRATO 12.1. As obrigações decorrentes da presente licitação serão formalizadas por instrumento de contrato, comunicada por ofício, entre o Conselho Federal de Medicina Veterinária, denominado Contratante, e o licitante vencedor, denominado Contratado, que observará os termos da Lei nº 8.666/93, e suas alterações; da Lei nº 10.520/02, do Decreto nº 5.450/05, do Edital e demais normas pertinentes, devendo o licitante vencedor comparecer à sede do CFMV para sua assinatura no prazo máximo de 05 (cinco) dias úteis, contados do recebimento da convocação. 12.2. A publicação resumida do instrumento acima, ou de seus eventuais aditamentos, no Diário Oficial da União, será providenciada e custeada pela Administração, mediante remessa do texto do extrato a ser publicado na Imprensa Nacional até o 5º (quinto) dia útil do mês seguinte ao de sua assinatura, para ocorrer no prazo de 20 (vinte) dias contados da aludida remessa. 12.3. No momento da assinatura do contrato, será verificado pelo CFMV, por meio de consulta "on line" ao sistema, a comprovação das condições de habilitação consignadas neste Edital, as quais deverão ser mantidas pelo licitante durante a vigência do respectivo instrumento, devendo seu resultado ser impresso e juntado ao processo. 12.4. Se o licitante vencedor não apresentar situação regular no ato da contratação, ou recusar-se injustificadamente em firmar o instrumento no prazo definido no subitem 12.1, poderá ser convocado outro licitante, desde que respeitada a ordem de classificação, para, após comprovados os requisitos
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+19
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+habilitatórios e feita a negociação, contratar o licitante, e assim sucessivamente, sem prejuízo da aplicação das sanções previstas neste Edital e das demais cominações legais. 12.5. Não será exigido do licitante vencedor prestação de garantia, para execução do objeto da presente licitação, conforme o disposto no artigo 5º, I, da Lei nº 10.520/02. 13 ­ DO PREÇO 13.1. O preço será o ofertado pelo licitante declarado vencedor do certame. 13.2. Através de pesquisa de mercado foi estipulado o valor de R$ 810.000,00 (oitocentos e dez mil reais) como valor máximo de referência para este objeto, logo não serão aceitas propostas com valores superiores ao valor máximo de referência. 14 ­ DO REAJUSTAMENTO 14.1. Os preços serão fixos e irreajustáveis. 15 ­ DA DOTAÇÃO ORÇAMENTÁRIA 15.1. As despesas decorrentes da contratação do objeto desta licitação está prevista na dotação orçamentária do exercício de 2011 e correrá à conta dos elementos de despesa: 3.1.32.19 ­ Serviços de Informática; 3.1.32.35 ­ Serviços de Seleção, Treinamentos e Orientação Profissional; e 3.1.32.64 ­ Consultoria e Assessorias do plano de contas em vigor, de acordo com a disponibilidade financeira destacada para esse fim.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+20
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+16 ­ DO RECEBIMENTO 16.1. O recebimento compreenderá duas etapas distintas, a seguir discriminadas: I - Recebimento provisório, que ocorrerá na ocasião da entrega do objeto da licitação, no local indicado no Contrato, acompanhada de assinatura de servidor do CFMV no canhoto da fatura/nota fiscal ou documento equivalente; II - Recebimento definitivo, que se dará por meio de uma Comissão de Recebimento ou por servidor do CFMV, conforme o caso, e constará de verificação da conformidade do bem às especificações do Anexo I; III - Insatisfatórias as verificações, lavrar-se-á Termo de Recusa, no qual serão consignadas as incorreções constatadas, devendo ser o item substituído, às custas da Contratada, no prazo máximo de 15 (quinze) dias, depois do que serão repetidas as verificações retro; a) Caso a substituição não ocorra no prazo previsto neste inciso ou, ainda, caso o novo bem entregue também seja rejeitado, serão aplicadas as sanções previstas no Contrato. IV - Sendo satisfatórias as verificações, será dado o ateste na Nota Fiscal/Fatura e o bem será definitivamente recebido; V - O recebimento, provisório ou definitivo, não exclui a responsabilidade civil da Contratada pelo perfeito desempenho do objeto fornecido, cabendo-lhe sanar quaisquer irregularidades detectadas quando de sua utilização durante o período de garantia. 17 ­ DO PAGAMENTO 17.1. O pagamento pelo objeto efetivamente entregue será realizado de forma parcelada, após a conclusão de cada fase, creditado em nome da Contratada, em moeda corrente nacional, mediante Ordem Bancária em conta corrente por ela
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+21
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+indicada ou por meio de Ordem Bancária para pagamento de faturas com código de barras, uma vez satisfeitas as condições estabelecidas neste instrumento convocatório, e ocorrerá até o 10º (décimo) dia útil após a data do recebimento do objeto, de cada fase concluída, mediante a apresentação da competente nota fiscal ou fatura. 17.1.1. A nota fiscal/fatura deverá ser emitida pela própria Contratada, obrigatoriamente com o número de inscrição no CNPJ apresentado pelo estabelecimento indicado na proposta de preços e nos documentos de habilitação; 17.1.2. O pagamento, mediante a emissão de qualquer modalidade de Ordem Bancária, será realizado desde que a Contratada efetue a cobrança de forma a permitir o cumprimento das exigências legais, principalmente no que se refere às retenções tributárias; 17.1.3. O pagamento está condicionado à apresentação, pela Contratada, dos documentos de regularidade fiscal, fundiária e previdenciária. 17.2. A critério da Contratante, poderá ser utilizado o valor contratualmente devido para cobrir dívidas de responsabilidade da Contratada para com ela, relativas a multas que lhe tenham sido aplicadas em decorrência da irregular execução contratual. 17.3. Serão retidos na fonte o Imposto sobre a Renda da Pessoa Jurídica (IRPJ), bem assim a Contribuição Social sobre o Lucro Líquido (CSLL), a Contribuição para o Financiamento da Seguridade Social (COFINS) e a Contribuição para o PIS/PASEP sobre os pagamentos efetuados, utilizando-se as alíquotas previstas para o objeto desta licitação, conforme Instrução Normativa SRF nº 480, de 15/12/04, publicada no DOU de 29/12/04, e suas alterações. 17.4. Não haverá a retenção prevista no subitem 17.3 na hipótese de o objeto social da Contratada permitir que haja opção pelo Sistema Integrado de Pagamento de Impostos e Contribuições (SIMPLES), instituído pela Lei Complementar nº 123, de 2006, ou encontre-se em uma das situações elencadas no artigo 3º da Instrução Normativa SRF n.° 480, de 15/12/04.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+22
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+18 ­ DAS OBRIGAÇÕES DAS PARTES 18.1. Das obrigações da Contratada: 18.1.1. Além daquelas resultantes da aplicação das Leis nº 8.666, de 1993, 10.520, de 2002 e seus Decretos, bem como daquelas contidas na Minuta do Contrato contida no Anexo III deste Edital, são obrigações da Contratada: I - Entregar o(s) objeto(s) da presente licitação nos prazos estabelecidos neste Edital ou na sua proposta, se nesta constar prazo inferior; II - Entregar o(s) objeto(s) da presente licitação nas especificações, quantidades e no local indicado neste Edital; III - Atender prontamente as exigências do CFMV inerentes ao(s) objeto(s) do fornecimento; IV - Responsabilizar-se por todos os tributos, contribuições fiscais e parafiscais que incidam ou venham a incidir, direta e indiretamente, sobre o objeto; VI - Manter, durante toda a execução dos serviços, as mesmas condições da habilitação; VII - Aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessárias na contração objeto da presente licitação, até 25% (vinte e cinco por cento) do valor do contrato. 18.1.2. Responsabilizar-se perante a Administração e terceiros, por ações ou omissões de seus empregados, prepostos e contratados, das quais resultem danos ou prejuízos a pessoas ou bens, não implicando coresponsabilidade da CONTRATANTE.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+23
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+18.2. Das obrigações da Contratante: 18.2.1. Além das obrigações resultantes da aplicação da Lei nº 8.666/93 e demais normas pertinentes, são obrigações da Contratante: I - Acompanhar e fiscalizar a execução do fornecimento contratado; II - Atestar nas notas fiscais/fatura a efetiva entrega do objeto contratado e o seu recebimento; III - Efetuar os pagamentos devidos, desde que atendidas as exigências do Edital e seus Anexos; IV - Manifestar-se formalmente em todos os atos relativos à execução do avençado, em especial, aplicação de sanções e alterações dele; V - Prestar as informações e os esclarecimentos que venham a ser solicitados pela Contratada. 19 ­ DAS SANÇÕES ADMINISTRATIVAS 19.1. Em caso de inexecução do avençado, erro de execução, execução imperfeita, mora de execução, inadimplemento contratual ou não veracidade das informações prestadas, o licitante estará sujeito às seguintes sanções administrativas, garantida prévia defesa: I ­ Advertência; II - Multas a serem recolhidas de acordo com instruções fornecidas pela Contratante: a) De 1% (um por cento) sobre o valor total do contrato, considerando, para fins de cálculo do valor da multa, somente a parcela do contrato inadimplida, por dia de atraso no prazo contratual de entrega, limitado a 10% do mesmo valor, por ocorrência;
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+24
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+b) De 5% (cinco por cento) sobre o valor total do contrato, considerando, para fins de cálculo do valor da multa, somente a parcela do contrato inadimplida, por infração a qualquer cláusula ou condição do contrato, não especificada nas outras alíneas deste inciso, e aplicada em dobro na sua reincidência; c) De 10% (dez por cento) sobre o valor total da proposta ou do futuro contrato, no caso de recusa injustificada do licitante adjudicatário em firmar o instrumento de contrato ou em aceitar ou em retirar o instrumento equivalente, ou deixar de apresentar os documentos exigidos para sua celebração, ou deixar de entregar documentação exigida neste Edital durante a sessão do Pregão, no prazo e condições estabelecidas neste Edital, independentemente das demais sanções cabíveis; d) De 10% (dez por cento) do valor total do contrato, pela recusa em corrigir ou substituir qualquer objeto rejeitado ou com defeito, caracterizando-se a recusa caso a correção ou substituição não se efetivar nos 15 (quinze) dias que se seguirem à data da comunicação formal da rejeição ou defeito, independentemente das demais sanções cabíveis; e) De 10% (dez por cento) sobre o valor total do contrato, no caso de sua rescisão por ato unilateral da administração, motivado por culpa da Contratada, garantida defesa prévia, independentemente das demais sanções cabíveis; III - Impedimento de licitar e contratar com a União, com o consequente descredenciamento do SICAF pelo prazo de até cinco anos, sem prejuízo das multas previstas no edital e no contrato e das demais cominações legais, para o licitante que, convocado dentro do prazo de validade de sua proposta, não assinar o contrato, deixar de entregar documentação exigida no edital, apresentar documentação falsa, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, garantido o direito à ampla defesa.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+25
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+19.2. Incidirá também na sanção prevista no subitem 19.1.III o licitante que deixar de enviar os documentos necessários à sua habilitação, via fac-símile, ou a nova Planilha de Custos e Formação de Preços, por meio eletrônico, com os respectivos valores readequados ao lance vencedor (SOMENTE PARA SERVIÇOS COM PLANILHA), na respectiva fase da sessão do Pregão. 19.3. No processo de aplicação de sanções, é assegurado o direito ao contraditório e à ampla defesa, facultada defesa prévia do interessado no prazo de 5 (cinco) dias úteis contados da respectiva intimação para as sanções previstas nos incisos I e II do subitem 19.1 e de 10 (dez) dias para a do inciso III do subitem 19.1. 19.4. As sanções previstas nos incisos I e II do subitem 19.1 serão aplicadas pelo Pregoeiro/CFMV e a sanção prevista no inciso III do subitem 19.1 será aplicada pelo Ordenador de Despesas. 19.5. As sanções serão obrigatoriamente registradas no SICAF, e no caso de impedimento de licitar e contratar com a União, o licitante será descadastrado por igual período, sem prejuízo das multas previstas neste Edital e das demais cominações legais. 19.6. O valor das multas aplicadas deverá ser recolhido no prazo de 05 (cinco) dias, a contar da data da notificação. Se o valor da multa não for pago, ou depositado, será automaticamente descontado do pagamento a que a Contratada fizer jus. Em caso de inexistência ou insuficiência de crédito da Contratada, o valor devido será cobrado administrativamente e/ou judicialmente. 19.7. As sanções previstas nos incisos I e III do subitem 19.1, poderão ser aplicadas juntamente com a do inciso II, do subitem 19.1. 20 ­ DA INEXECUÇÃO E RESCISÃO DO CONTRATO 20.1. A inexecução total ou parcial do contrato enseja a sua rescisão, sem prejuízo da aplicação das sanções previstas neste Edital e das demais
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+26
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+cominações legais, se houver uma das ocorrências prescritas no artigo 78 da Lei nº 8.666/93. 20.2. Os procedimentos de rescisão contratual, tanto os amigáveis, como os determinados por ato unilateral da Contratante, serão formalmente motivados, asseguradas, à Contratada, na segunda hipótese, a produção de contraditório e a dedução de ampla defesa, mediante prévia e comprovada intimação da intenção da Administração para quê, se o desejar, a Contratada apresente defesa no prazo de 5 (cinco) dias úteis contados de seu recebimento e, em hipótese de desacolhimento da defesa, interponha recurso hierárquico no prazo de 5 (cinco) dias úteis contados da intimação comprovada da decisão rescisória. 20.3. Quanto à sua forma a rescisão poderá ser: I - Por ato unilateral e escrito da Administração, nos casos enumerados nos incisos I a XII e XVII do artigo 78 da Lei nº 8.666/93; II - Amigável, por acordo entre as partes, reduzidas a termo no processo da licitação, desde que haja conveniência para a Administração; III - Judicial, nos termos da legislação. 21 ­ DAS DISPOSIÇÕES GERAIS 21.1. As normas que disciplinam este Pregão serão sempre interpretadas em favor da ampliação da disputa entre as interessadas, desde que não comprometam o interesse da Administração, o princípio da isonomia, a finalidade e a segurança da contratação. 21.2. É facultado ao Pregoeiro ou à autoridade superior, em qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou complementar a instrução do processo. 21.3. Nenhuma indenização será devida aos licitantes pela elaboração ou pela apresentação de documentação referente ao presente Edital.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+27
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+21.4. O órgão promotor do certame não disponibilizará suas instalações, bem como equipamentos ou conexões com o provedor do sistema eletrônico, aos licitantes interessadas em participar deste Pregão. 21.5. A adjudicação do objeto da licitação ao licitante vencedor e a homologação do certame não implicarão direito à contratação. 21.6. Na contagem dos prazos estabelecidos neste Edital, exclui-se o dia do início e inclui-se o do vencimento, observando-se que só se iniciam e vencem prazos em dia de expediente normal no CFMV, exceto quando for explicitamente disposto em contrário. 21.7. Todos os horários estabelecidos neste Edital, no aviso e durante a sessão pública observarão, para todos os efeitos, o horário de Brasília, Distrito Federal, inclusive para contagem de tempo e registro no sistema eletrônico e na documentação relativa ao certame. 21.8. A autoridade Superior poderá revogar a presente licitação por razões de interesse público decorrente de fato superveniente devidamente comprovado, pertinente e suficiente para justificar tal conduta, devendo anulá-la por ilegalidade, de ofício ou mediante provocação de terceiros, nos termos do art. 49 da Lei nº 8.666/93. 21.9. Na hipótese de não haver expediente no dia da abertura da presente licitação, será marcada outra data para a realização da sessão. 21.10. O Edital e seus Anexos serão disponibilizados no sítio "www.comprasnet.gov.br". Demais informações poderão ser obtidas pelo telefone (61) 2106-0459, ou por meio do e-mail pregão@cfmv.gov.br. 21.11. Os casos omissos serão resolvidos pelo Pregoeiro. 21.12. Fazem parte integrante deste Edital: Anexo I ­ Termo de Referência; Anexo II ­ Declarações;
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+28
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+Anexo III ­ Minuta de Instrumento de Contrato; Anexo IV ­ Termo de Vistoria. Brasília, 02 de março de 2011.
+
+Uelton Aguiar Ricardo Pregoeiro/CFMV Matr. 0303
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+29
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+ANEXO I TERMO DE REFERÊNCIA
+
+1. JUSTIFICATIVAS 1.1. Este projeto básico atende ao preceituado no art. 6º, IX e suas alíneas, da Lei 8.666/93. 1.2. O Conselho Federal de Medicina Veterinária e Zootecnia - CFMV é uma autarquia federal, de natureza jurídica pública que tem, entre suas finalidades de criação, as de fiscalização do exercício profissional, orientação, supervisão e disciplinamento das atividades relativas à profissão de médico-veterinário. 1.3. Assim, é indispensável que o CFMV não só promova as ações necessárias para atingir seus fins institucionais como possa dar visibilidade às suas ações para que os profissionais que são fiscalizados pela Autarquia tenham conhecimento das informações ligadas à medicina veterinária e zootecnia e para que a população possa ter acesso a essas informações. 1.4. Como o acesso à internet é, atualmente, um poderoso meio de divulgação de informações, o Portal do CFMV pretende ser um grande centro de informações sobre a medicina veterinária e a zootecnia, garantindo assim que os profissionais e a comunidade em geral tenham um ponto confiável de pesquisa sobre os diversos temas relativos às áreas de medicina veterinária e zootecnia. 1.5. O presente projeto básico tem por objetivo compor os elementos necessários para desenvolvimento de um portal web institucional do CFMV, dotando a Autarquia de um importante recurso de comunicação com os profissionais de medicina veterinária e zootecnia e com a população. 1.6. O modelo de portal web institucional definido neste projeto básico incorpora um conjunto de funcionalidades mais atuais na comunicação via Internet, utilizando ferramentas tecnológicas que criarão um ambiente virtual que conjugue as informações institucionais e legais do Conselho Federal de
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+30
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+Medicina Veterinária e Zootecnia com elementos interativos capazes de fomentar o conceito de comunidade virtual (CFMV-profissionais-pessoas) e promover a freqüência de usuários no portal web, garantindo o fortalecimento da percepção positiva do público relativamente ao Conselho.
+
+2. OBJETO 2.1. Contratação de empresa especializada no desenvolvimento de portais e aplicações (sistemas) web que contemplem as funcionalidades descritas pelo CFMV, a realização da análise e da manutenção do sistema, o suporte técnico de 1º nível, a transferência de tecnologia de seu processamento e desenvolvimento e a migração de dados. 2.2. Entende-se por análise do sistema a construção dos artefatos referentes ao levantamento de requisitos, elaboração dos diagramas, dos relatórios de teste, dos relatórios de controle de versão, dentre outros que se façam necessários e que serão determinados pelo CFMV. 2.3. Entende-se por manutenção a correção de vícios no sistema, sua adaptação a novas tecnologias empregadas pelo CFMV e a inclusão de funcionalidades originalmente não previstas quando do desenvolvimento da solução. 2.4. Entende-se por suporte de 1º nível o atendimento ao usuário da solução, realizado por contato telefônico ou e-mail da licitante vencedora. 2.5. Os serviços de manutenção e suporte técnicos deverão ser prestados em dias úteis, no horário de 08:00 às 12:00 e 13:00 às 17:00. 2.6. Entende-se por migração de dados a transferência dos dados que compõem a base de produção do atual Portal do CFMV para a nova base que será modelada.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+31
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+3. CRITÉRIOS PARA EXECUÇÃO DOS SERVIÇOS 3.1. Os serviços contratados serão executados preferencialmente nas dependências da licitante contratada. 3.2. Algumas etapas/fases dos serviços de desenvolvimento, pelas características específicas ou pelo grau de sigilo e segurança envolvido, poderão ser realizadas nas instalações do CFMV. 3.3. Para os serviços realizados nas dependências do CFMV, será de responsabilidade da licitante contratada o deslocamento dos profissionais envolvidos na prestação dos serviços, inclusive quanto às despesas de passagem e hospedagem, caso não disponha de profissionais residentes em Brasília-DF. 3.4. Quando os serviços estiverem sendo realizados nas dependências do CFMV, os profissionais da licitante contratada sempre exercerão suas atribuições em ambiente segregado com acompanhamento e orientação do Gerente de Projeto da licitante contratada, responsável pela realização dos serviços contratados, que atuará como preposto. 3.5. O CFMV será responsável por colocar à disposição toda a infra-estrutura, dentre as quais, destacam-se os equipamentos necessários, versão dos produtos (softwares) e as instalações físicas do ambiente segregado, nos casos de serviços realizados nas dependências do CFMV. 3.6. Quando necessário, os serviços prestados nas instalações do CFMV serão executados no horário de funcionamento do DEGIN ­ Departamento de Gestão da Informação, ou seja, de 08:00 às 12:00 e das 13:00 às 17:00 horas, de segunda a sexta-feira, exceto feriados. Caso, esporadicamente, seja necessário a licitante contratada executar qualquer serviço fora deste horário de funcionamento, o serviço poderá ser executado desde que previamente autorizado pelo DEGIN.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+32
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+4. DA PROPOSTA COMERCIAL 4.1. A proposta comercial deverá ser apresentada em 01 (uma) única via, digitada em computador, sem emendas, ressalvas, rasuras ou entrelinhas em suas partes essenciais, rubricadas em todas as suas folhas, contendo os seguintes elementos: 4.1.1. Identificação do proponente, com data e assinatura por quem de direito, e menção ao número da licitação; 4.1.2. Preço global do desenvolvimento do portal web; 4.1.3. Preço unitário do ponto de função; 4.1.4. Preço do valor da hora técnica de serviços; 4.1.5. Preço dos serviços de manutenção; 4.1.6. Preço da transferência de tecnologia. 4.2. Os preços serão fixos e irreajustáveis, cotados em Real (R$), expresso em algarismos e por extenso, nele incluídos todos os impostos, taxas, mão de obra, salários, encargos sociais e trabalhistas, contribuições previdenciárias, hospedagens e viagens de seus empregados, e todas as demais obrigações e despesas de qualquer natureza necessárias à perfeita execução dos serviços objeto desta licitação. 4.3. A proposta comercial deverá possuir como anexo uma proposta técnica que deverá ser apresentada em 01 (uma) única via, datada, contendo obrigatoriamente os seguintes elementos que serão objetos de verificação e validação na prova de conceito: 4.3.1. Estudo preliminar do portal web, identificando os objetivos e as necessidades do negócio, o padrão tecnológico, as interfaces, a transferência de tecnologia, o ambiente de homologação de processos, a instalação da solução, entre outras informações que se julguem necessárias
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+33
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+pela licitante para demonstrar a perfeita compreensão do objeto licitado e sua capacidade técnica, contendo: 4.2.1.1. Caso de negócio; 4.3.1.2. Modelo de domínio; 4.3.1.3. Modelo de Arquitetura de Solução; 4.3.1.4. Cronograma Preliminar de Execução; 4.3.1.5. Modelo de Serviço de Manutenção Técnica; 4.3.1.6. Estudo de caso de algum serviço similar já prestado pela licitante, identificando problemas e soluções. 4.4. As licitantes deverão obrigatoriamente realizar uma vistoria técnica em até 3 (três) dias anteriores a sessão pública, sendo que esta é condição necessária para classificação da licitante. 4.5. A ausência de algum dos requisitos na proposta técnica induzirá à desclassificação da proposta comercial da licitante. 4.6. As informações da proposta técnica serão tema de questionamento por parte do CFMV durante a prova de conceito e as respostas dadas pela licitante serão consideradas para conclusão sobre sua condição para execução do portal web, sendo que sua classificação ou desclassificação será motivada em relatório técnico do CFMV. 4.7. Justifica-se a análise da licitante pela proposta técnica e apresentação de prova de conceito para que o CFMV obtenha serviços de alta qualidade, com o mínimo de desvios na sua execução, garantindo dessa forma a eficiência e real economicidade da contratação. Trata-se, portanto, da aplicação de mecanismos de preservação dos fins e recursos da própria Autarquia, evitando-se contratações permeadas de riscos que geram insegurança técnica e jurídica.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+34
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+4.8. Através de pesquisa de mercado foi estipulado o valor de R$ 810.000,00 (oitocentos e dez mil reais) como valor máximo de referência para este objeto, logo não serão aceitas propostas com valores superiores ao valor máximo de referência. 4.9. Para julgamento e classificação das propostas será adotado o critério de menor preço global ofertado, serão desclassificadas as propostas que contenham vícios ou ilegalidades e não apresentem detalhadamente todas as especificações técnicas exigidas pelo Termo de Referência/Projeto Básico e que ofertem preços finais superiores ao limite máximo fixado pelo valor de referência. 4.10. Para a verificação quanto à inexequibilidade das propostas e como parâmetro de asseguramento da economicidade para o CFMV quanto da remuneração suficiente para execução total do objeto do certame, adota-se por critério objetivo de julgamento que serão consideradas inexequíveis as propostas cujos valores sejam inferiores a 80% (oitenta por cento) do seguinte valor: 4.10.1. Média aritmética dos valores das 3 (três) propostas de maior valor que não ultrapassem o limite máximo fixado pelo valor de referência; 4.10.2. Em caso de propostas com empate no limite de inexequibilidade, será considerada vencedora a empresa que primeiro enviou o lance no valor de empate.
+
+5. REQUISITOS FUNCIONAIS 5.1. Entende-se por requisitos funcionais obrigatórios o conjunto de ferramentas necessárias que o Portal deverá conter. 5.2. Estes requisitos caracterizam-se, dentre outras, pela capacidade tecnológica de manutenção de informações, acesso controlado, apresentação dinâmica e interativa de dados e informações, transmissão de conteúdo de áudio e vídeo digital, relatórios dinâmicos e ferramentas virtuais para aprendizagem.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+35
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+6. REQUISITOS NÃO IDENTIFICADOS 6.1. O CFMV poderá solicitar o desenvolvimento de outras funcionalidades não previstas no transcurso do contrato.
+
+7. VOLUME ESTIMADO 7.1. O volume total estimado para os serviços de desenvolvimento de todos os requisitos funcionais obrigatórios, calculados pela metodologia IFPUG, foram de 700 (setecentos) Pontos de Função não ajustados. 7.2. Para os serviços de manutenção evolutiva e implementação de novos módulos, foram estimados 100 (cem) pontos de função não ajustados. 7.3. Para realização dos serviços não passíveis de mensuração utilizando a técnica de pontos por função ­ IFPUG, envolvendo requisitos de design, customização do ambiente virtual de aprendizagem, migração de dados e criação de jogos on-line, foram previstas 2.000 (duas mil) horas de consultoria. 7.4. Para o treinamento e transferência de tecnologia da contratada para o CFMV, foram estimadas 40 (quarenta) horas de consultoria.
+
+8. AMBIENTE TECNOLÓGICO DO CFMV 8.1. Os requisitos funcionais obrigatórios deverão ser aderentes ao ambiente tecnológico do CFMV, que segue detalhado:
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+36
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+PHP 5.3.0 Linguagem: Object Oriented PHP Programação: Sistema Gerenciador de Postgres 8.2.3 ou superior Base de Dados: Apache Web Server ou outro definido em Servidores de aplicação comum acordo com o CFMV Unified Modeling language ­ UML Metodologias: Unified Process ­ UP Padrões de Arquitetura: Model-view-controller ­ MVC Certificações: Frameworks: Certified Function Point Specialist ­ CFPS Zend Framework Rational Unified Process ­ RUP Concurrent Version System ­ CVS PgAdmin III ­ 1.6.3 ou superior Jude Adobe Master Collection ­ 5.0 SQL Power Architect ­ 1.0 ou outro definido em comum acordo com o CFMV
+
+Ferramentas:
+
+8.2. A infra-estrutura tecnológica da licitante contratada necessária à prestação do serviço contratado deverá estar operacional no prazo máximo de 15 (quinze) dias contados da assinatura do contrato. 8.3. O CFMV busca selecionar licitantes que possuam certificações de processos e sistemas de gestão de qualidade na execução de projetos de desenvolvimento de software. 8.4. O CFMV pretende assegurar que a qualidade dos serviços/produtos/artefatos atenderá aos requisitos mínimos de qualidade, desta forma, exige que o processo de software padrão da licitante contratada inclua processos de gerência e de engenharia de software. Esses processos devem ser integrados perfazendo um conjunto coerente e consistente que assegure a garantia de benefícios na qualidade dos processos e produtos entregues.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+37
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+9. PROCEDIMENTO CONTRATADA PARA SOLICITAÇÃO DE SERVIÇOS À
+
+9.1. O CFMV encaminhará à contratada solicitação de proposta para desenvolvimento das funcionalidades do portal web, devendo constar da solicitação um descritivo detalhado para correta compreensão daquilo objetivado. 9.2. No prazo máximo de 2 (dois) dias úteis a contar do recebimento da solicitação, a contratada deverá manifestar-se formalmente sobre a viabilidade do atendimento, devendo, em caso negativo, declarar as razões pelas quais as solicitações do CFMV não poderão ser implementadas. 9.2.1. Na hipótese de manifestação negativa pela contratada, em até 2 (dois) dias úteis as partes deverão se reunir para deliberar sobre a viabilidade ou não da solicitação. 9.3. Não havendo impedimento para os serviços de desenvolvimento, a contratada deverá no prazo previsto no subitem 9.2 (2 (dois) dias úteis contados do recebimento da solicitação) apresentar proposta para a realização dos serviços, contemplando a quantidade de Pontos de Função (IFUPG) estimada para o seu desenvolvimento, o cronograma provisório, as fases de desenvolvimento e artefatos entregáveis em cada fase. 9.4. Protocolada a proposta de desenvolvimento no CFMV, deverá a Autarquia manifestar-se autorizando ou negando o início das atividades em até 3 (três) dias úteis. 9.4.1. Na hipótese de negativa à proposta de desenvolvimento, o CFMV deverá apresentar suas razões e abrir novo prazo para apresentação de nova proposta pela Contratada. 9.5. Aprovada a proposta, o CFMV deverá emitir Ordem de Serviço autorizando o desenvolvimento da funcionalidade, sendo que a Ordem de Serviço deverá estar acompanhada da proposta de desenvolvimento da contratada.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+38
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+9.6. Caso o CFMV não se manifeste no prazo de 3 (três) dias úteis, ficará entendido como autorizado o início dos serviços, devendo ser pagos, em qualquer hipótese, todo o esforço empregado pela contratada, mesmo que o CFMV posteriormente entenda que não seria validada a proposta de desenvolvimento. 9.7. Todo cronograma deverá ser considerado evolutivo e será alterado sempre que surgirem novos requisitos ou mudanças de especificações. 9.8. O preço para o desenvolvimento de cada funcionalidade deverá corresponder ao produto da quantidade definitiva de Pontos de Função pelo preço unitário do Ponto de Função, conforme proposta comercial apresentada pela licitante no certame licitatório. 9.9. Ao final do desenvolvimento de cada funcionalidade a contratada deverá apresentar uma contagem definitiva de pontos de função para aferição do valor real dos serviços. 9.10. A remuneração dos serviços se dará por artefatos entregáveis em cada fase, aplicando-se nas etapas intermediárias de desenvolvimento, para fins de valoração, a contagem estimada de Pontos de Função. 9.11. Ao final do desenvolvimento, quando houver a contagem definitiva dos Pontos de Função, haverá a contabilização entre o valor real dos serviços e os valores pagos com base nos Pontos de Função estimados. 9.12. Na entrega dos artefatos para fins de homologação pelo CFMV, deverá a contratada apresentar relatório de atividades prestadas contendo os Pontos de Função desenvolvidos e os serviços que não puderam, tecnicamente, ser traduzidos em Ponto de Função pela metodologia IFPUG, contendo o valor pretendido pelos serviços. 9.13. O CFMV deverá homologar os artefatos em até 3 (três) dias úteis ou, no mesmo prazo, comunicar as inconformidades ou vícios para que a contratada proceda às correções no prazo determinado de acordo com a tabela de criticidade.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+39
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+9.14. A ausência de manifestação formal do CFMV no prazo de (três) dias úteis da entrega do artefato pela contratada significará autorização para prosseguir na execução das demais fases de desenvolvimento da funcionalidade. 9.15. Os Pontos de Função serão contados pelas metodologias NESMA, para contagem estimada, e IPFUG, para contagem definitiva, ambas na sua versão mais atual. 9.16. Em caso de divergência entre o número de Pontos de Função apresentados na contagem definitiva pela contratada e o número aferido pelo CFMV, deverão as partes se reunir para definir consensualmente a quantidade de Pontos de Função real, lavrando ata onde conste os fundamentos técnicos da decisão. 9.17. A contratada deverá entregar toda documentação técnica e códigos-fonte das funcionalidades e também providenciar as atualizações na documentação quando houver atividades de manutenção técnica. 9.18. Os serviços de manutenção técnica serão demandados através de Ordem de Serviço. 9.19. Quando se tratar de manutenção técnica corretiva, que é aquela de saneamento de erros ou falhas no produto entregue, sua conclusão deverá se dar de acordo com os prazos definidos na tabela de criticidade e não será remunerada. 9.20. Quando se tratar de manutenção técnica que implique em modificação ou acréscimo de funcionalidades ou de requisitos, bem como de integração ou adaptação a padrões tecnológicos, o procedimento se dará conforme a solicitação para desenvolvimento de funcionalidades, obedecendo aos mesmos trâmites e prazos previstos neste item.
+
+10. RECEBIMENTO E ACEITE DOS SERVIÇOS CONTRATADOS 10.1. Será considerado recebido e aceito o serviço que estiver de acordo com as especificações e critérios estabelecidos na Ordem de Serviço.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+40
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+10.2. O Termo de Entrega é o instrumento utilizado pela contratada para formalização e aceite das entregas parciais e/ou totais de uma Ordem de Serviço. 10.3. O Termo de Aceite é o instrumento utilizado pelo CFMV para de ateste do serviço contratado, emitido quando as entregas forem recebidas e homologadas. 10.4. Após o recebimento dos serviços, parciais ou totais, executados pela licitante contratada, o CFMV terá um prazo de 25% (vinte e cinco por cento) do tempo total de execução do serviço contratado para emitir o Termo de Aceite. 10.5. Durante esse período o CFMV realizada o cadastramento dos incidentes e não conformidades encontradas na ferramenta de gerenciamento ­ Mantis, devendo a licitante contrata realizar imediato encaminhamento e resolução das pendências, sob pena de não homologação da entrega. 10.6. Finalizados todos os ajustes por parte da licitante contratada, o CFMV emitirá o Termo de Aceite para efeito de pagamento dos serviços contratados.
+
+11. MEDIÇÃO DOS SERVIÇOS 11.1. Os serviços realizados pela contratada serão medidos utilizando-se a técnica de mensuração de tamanho funcional chamada Análise em Pontos de Função (APF), de acordo com as especificações contidas no Function Point Counting Practices Manual (CPM), versão 4.2.1, publicado pelo IFPUG ­ International Function Point Users Group (www.ifpug.org). 11.2. Caso não existam elementos que possibilitem realização da mensuração dos serviços de acordo com a técnica definida pelo IFPUG, será utilizada a técnica definida pela NESMA - Netherlands Software Metrics Users Association (http://www.nesma.nl/english/). 11.3. O CFMV adotará os métodos de contagem indicativa e estimada da técnica definida pela NESMA para a realização de estimativas dos tamanhos funcionais dos serviços contratados.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+41
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+11.4. A utilização de novas versões do Manual de Práticas de Contagem (CPM) do IFPUG ficará a critério do CFMV, que mediante comunicação prévia, estipulará um prazo apropriado para adequação da licitante contratada. 11.5. O CFMV adotará o valor de 1,00 (um) para o Valor do Fator de Ajuste (VFA) do Processo de Contagem de Pontos de Função (PF), em todos os serviços/sistemas. 11.6. Mesmo no caso de ser utilizada uma nova versão do Manual de Práticas de Contagem (CPM) do IFPUG, o Valor do Fator de Ajuste a ser utilizado será igual a 1,00 (um), salvo quando o CFMV entender necessária e aplicável a revisão deste valor. 11.7. A contagem de pontos de função por parte da licitante contratada no decorrer do projeto deverá ser realizada por profissional com certificação Certified Function Points Specialist ­ CFPS, emitido pelo IFPUG ­ International Function Point Users Group (www.ifpug.org).
+
+12. PROCESSO DE DESENVOLVIMENTO DA SOLUÇÃO 12.1. O desenvolvimento deverá seguir a metodologia RUP e Modelagem UML de análise, design, implementação e requisitos. 12.2. Cada funcionalidade deverá obedecer às seguintes fases: 12.2.1. FASE I ­ INICIAÇÃO: Delimitar o escopo do produto a ser desenvolvido. Identificar os riscos críticos e definir os casos de uso mais críticos e que representam as principais funções do sistema; 12.2.2. FASE II ­ ELABORAÇÃO: Elaborar a descrição arquitetural do software. Definir a maioria dos casos de uso e capturar a maioria dos requisitos do software; 12.2.3. FASE III ­ CONSTRUÇÃO: Construir o sistema de negócio;
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+42
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+12.2.4. FASE IV ­ TRANSIÇÃO: Realizar testes com o usuário, corrigir os defeitos encontrados e realizar treinamento. 12.3. Cada Fase da metodologia será remunerada conforme o percentual referenciado à contratada, seguindo a tabela abaixo: Disciplinas de Desenvolvimento Iniciação Elaboração Construção Transição Percentual de esforço 5% 20% 65% 10%
+
+12.4. O percentual de esforço para a Metodologia Orientada a Objeto pode ser revisado em conjunto com a CONTRATADA a cada 3 (três) meses. 12.5. Para fins de pagamento, os seguintes produtos deverão ser entregues em cada uma das fases: Fases do Desenvolvimento Disciplinas / Artefatos Disciplina Modelagem de Negócios e Requisitos Análise e Projeto Iniciação Implementação Artefatos 1. Atas de reunião 2. Diagrama de casos de uso 1. Documento de Arquitetura de Software (candidata) 1. Mecanismos arquiteturais e/ou cenários críticos implementados (Provas de Conceito) 1. Plano de testes 2. Caso de Teste (para eventuais provas de conceito)
+
+Testes
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+43
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+1. Proposta de Atendimento Gerenciamento do 2. Contagem Indicativa/Estimada Projeto de Pontos por Função 1. Atas de reunião Modelagem de 2. Diagrama de casos de uso Negócios e (atualizado) Requisitos 3. Especificações de casos de uso 4. Protótipos não funcionais 1. Modelo de Dados com a descrição das entidades e atributos, Análise e Projeto 2. Documento de Arquitetura de Software (Definitiva) 3. Diagramação UML 1. Mecanismos arquiteturais e/ou Implementação cenários críticos implementados (Provas de Conceito) 1. Plano de testes (atualizado) Testes 2. Caso de Teste (para eventuais provas de conceito) 1. Código-fonte, 2. Release Empacotado / Implementação Instaladores, 3. Manual do Usuário/Help online, 1. Plano de testes (atualizado) Testes 2. Caso de Teste 3. Relatórios de testes 1. Release Homologado (com Implementação correções de erros identificadas durante a homologação). Testes 1. Relatório de Aceitação Gerenciamento do 1. Contagem Detalhada de Pontos Projeto por Função
+
+Elaboração
+
+Construção
+
+Transição
+
+12.6. Dadas às características, complexidades e necessidades de cada demanda contratada observadas pelas partes, conforme necessidade, os diagramas listados
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+44
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+abaixo, da versão 2.0 da UML (Unified Modeling Language) poderão ser confeccionados pela CONTRATADA para fins de maior elucidação do problema e conseqüente documentação do projeto: a) Diagramas Estáticos: (i) Diagrama de Objetos (ii) Diagrama de Pacotes (iii) Digrama de Estrutura Composta b) Diagramas Dinâmicos: (i) Diagrama de Atividades (ii) Diagrama de Estados (iii) Diagramas de Interação (i) Diagrama de comunicação (ii) Diagrama de Tempo (iii) Diagrama de Interação Geral
+
+13. PROCESSO PARA CÁLCULO DO VALOR DOS SERVIÇOS 13.1. Os serviços demandados formalmente pelas ordens de serviço deverão ter seu valor calculado a partir da execução da seguinte fórmula: VoS = TPF * VPonto * Per % Onde: VoS: Valor total da Ordem de Serviço TPF: Total de pontos por função VPonto: Valor do Ponto de função estabelecido para o contrato Per: Somatório de percentuais de fases e/ou disciplinas
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+45
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+14. PROCESSO DE TRANSFERÊNCIA DE TECNOLOGIA 14.1. O processo de transferência de tecnologia se dará através da entrega de documentação e códigos fonte de cada funcionalidade. 14.2. A transferência de tecnologia se dará também através de treinamento ao pessoal do quadro do CFMV, que será realizado nas instalações da contratada ou do CFMV e em calendário conforme deliberem as partes. 14.3. O número de profissionais disponibilizados da contratante e os critérios de aprovação nos treinamentos deverão ser definidos pelo CFMV. 14.4. É responsabilidade da contratada a elaboração do material didático e todos os recursos que sejam necessários para execução dos treinamentos, excetuandose aqueles que componham as instalações físicas de propriedade do CFMV. 14.5. A transferência de tecnologia será considerada efetuada se 70% (setenta por cento) dos profissionais disponibilizados da contratante obtiverem nota de aprovação nos critérios adotados pelas partes. 14.5.1. Na hipótese de desaprovação da quantidade mínima, compete à contratada providenciar novos treinamentos e aplicação de provas, sem ônus ao CFMV. 14.1. A transferência de tecnologia será remunerada pela multiplicação do valor da hora de treinamento pelo número de horas efetivamente prestadas em treinamento.
+
+15. PRAZO DE EXECUÇÃO DOS SERVIÇOS 15.1. Os serviços serão contratados pelo período de 12 (doze) meses, devendo as funcionalidades listadas no item abaixo estarem disponíveis e entregues em até 4 (quatro) meses após a assinatura do contrato e os 8 (oito) meses restantes deverão receber demandas de manutenção e complementos da solução.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+46
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+A) Relação de funcionalidades prioritárias para entrega em até 4 (quatro) meses após a assinatura do contrato: - Palavra do Presidente - Dados da Direção do CFMV - Notícias - Cadastrar Eventos - Publicar Eventos - Pesquisar no Site - Manutenção de Link - Ouvidoria - Banco de Imagens - Consulta Pública - Manter Menu - Manter Consulta Específica - Licitação - Área de Estudo - Instituições de Ensino - CEUAs - Campanhas - Galeria de Diretores - Web TV - Rádio Web - Política de Acessos 15.2. Os serviços poderão ser prorrogados por iguais e sucessivos períodos, desde que preenchidas as exigências contidas no artigo 57, II e § 4º, Lei 8.666/93, contados a partir da assinatura do contrato.
+
+16. DA GARANTIA DOS SERVIÇOS PRESTADOS 16.1. A licitante contratada garantirá os serviços prestados por 6 (seis) meses a partir do término de vigência do contrato.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+47
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+16.2. A licitante contratada deverá prestar garantia ao sistema ou módulo mesmo após o término da vigência contratual, desde que o período de garantia ainda não esteja sido completamente liquidado. 16.3. A garantia deverá ser prestada a todos os sistemas e módulos gerados contemplando a correção de erros, não-conformidades e suas correlações, salvo quando o problema for originado em eventual alteração do sistema ou módulo promovida pelo CFMV sem a validação e anuência da licitante contratada. 16.4. As notificações serão feitas pelo CFMV através da ferramenta de gerenciamento de incidentes MANTIS, no horário compreendido das 08:00 às 12:00 e das 13:00 às 17:00. horas, de segunda a sexta-feira, exceto feriados., quando então serão fornecidas as informações relativas ao problema detectado. Para efeito da notificação, o CFMV informará a severidade que o caso requer, assim classificados: 16.4.1. Severidade ALTA: Esse nível de severidade é aplicado quando há para os usuários indisponibilidade do uso do sistema ou módulo. O atendimento deverá ser imediato; o diagnóstico e resolução adotada para o saneamento desse tipo de notificação deverão ser de, no máximo, 4 (quatro) horas, corridas e contadas após a comunicação oficial do CFMV e recebimento da licitante contratada; 16.4.2. Severidade MÉDIA: Esse nível de severidade é aplicado quando há para os usuários falha, simultânea ou não, do uso do sistema ou módulo, estando ainda disponível, porém suscetível a constantes falhas. O diagnóstico e resolução adotada para o saneamento desse tipo de notificação deverá ser de, no máximo, 6 (seis) horas, corridas e contadas após a comunicação oficial do CFMV e recebimento da licitante contratada; 16.4.3. Severidade BAIXA: Esse nível de severidade é aplicado quando há a necessidade de diagnóstico e/ou correção de erros e/ou nãoconformidades que não causem nem indisponibilidade e nem falhas a qualquer sistema ou módulo desenvolvido. O diagnóstico e resolução adotada para o saneamento desse tipo de notificação deverão ser
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+48
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+determinados em um plano de ação a ser elaborado pela licitante contratada com anuência do CFMV. 16.5. Em casos de emergência, o CFMV poderá efetuar alterações nos códigosfonte de qualquer sistema ou módulo, sem prejuízo da garantia técnica firmada, desde que sejam estritamente necessárias para assegurar o seu funcionamento. Para tanto, quaisquer alterações efetuadas deverão ser comunicadas à licitante contratada até o segundo dia útil subsequente da alteração. O CFMV manterá cópias de segurança do código original para análise posterior.
+
+17. CRITÉRIOS DE HABILITAÇÃO TÉCNICA DAS LICITANTES 17.1. Serão habilitadas as licitantes que apresentarem um ou mais atestados de capacidade técnica que contemplem serviços similares ao objeto do certame e, no mínimo, 70% (setenta por cento) da quantidade de pontos de função previstas neste projeto básico. 17.2. A licitante vencedora deverá apresentar o atestado de vistoria técnica emitido pelo CFMV. 17.3. O atestado de capacidade técnica deverá comprovar a execução de serviços de desenvolvimento de portal web com as características do ambiente tecnológico descrito no item 8 ­ Ambiente Tecnológico do CFMV, deverá ser informado no atestado apresentado o nome, RG e CPF e e-mail do emitente, dados da empresa como razão social, endereço, telefone, assinatura com firma reconhecida em cartório e cópia dos contratos para validação das informações. O CFMV se reserva no direito de efetuar diligências e/ou solicitar documentos adicionais para comprovar a veracidade dos atestados. 17.4. Para fins de resguardar a segurança da futura contratação, dentro do previsto no Art. 37 inciso XXI da Constituição Federal, a licitante vencedora deverá realizar o Teste de Conformidade (prova de conceito), no qual será designada pelo CFMV uma equipe técnica que acompanhará a licitante em todas as etapas do teste.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+49
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+17.5. O Teste de Conformidade será realizado, a partir das 8:30 horas do primeiro dia útil após o resultado da sessão de lances e declaração da vencedora pelo CFMV. 17.6. A execução do Teste será de responsabilidade da licitante classificada, devendo ser executado única e exclusivamente por funcionários ou sócios da empresa licitante. 17.7. A licitante classificada terá um prazo máximo de até 12 (doze) horas corridas (das 08:00 às 17:00. horas) para a realização do Teste, sob pena de desclassificação pelo não cumprimento do prazo. 17.8. Ao final do Teste de Conformidade deverá ser gerado um relatório contendo as observações feitas pela equipe do CFMV envolvida nos Testes de Conformidade, devendo conter ainda atividades executadas, análise dos ambientes instalados, itens testados, resultado dos testes. No relatório deverão ser registrados os resultados obtidos bem como a indicação pelo CFMV da aprovação ou reprovação da solução ofertada. 17.9. A licitante classificada que não atender a qualquer um dos itens descritos no Roteiro Obrigatório do Teste de Conformidade será automaticamente desclassificada, quando então será convocada a licitante com menor preço, classificada em segundo lugar, a partir da notificação formal do Pregoeiro, para participar da fase de Teste de Conformidade, devendo ter os mesmos prazos para a realização do Teste, e assim em diante, até a homologação formal do Teste. 17.10. Será considerada apta a fase de habilitação a licitante cuja solução tenha obtido êxito conforme resultado de aprovação do Teste de Conformidade. 17.11. Como critérios para avaliação do Teste de Conformidade serão realizadas análises e questionamentos sobre a proposta técnica que acompanhará a proposta comercial da licitante.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+50
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+17.12. Para a realização do Teste de Conformidade, a licitante deverá realizar a comprovação de capacidade técnica de forma prática, clara e inequívoca, das soluções citadas em seus atestados técnicos. 17.13. Os requisitos funcionais obrigatórios são de aplicação imediata e deverão possuir funcionalidades correspondentes comprovadas na prova de conceito apresentada para qualificação técnica dos licitantes. 17.14. A prova de conceito deverá ser instalada e demonstrada nas instalações do CFMV de acordo com as restrições tecnológicas e de ambiente apresentadas no item 8 ­ Ambiente Tecnológico do CFMV a fim de comprovar a capacidade técnica em todos os requisitos funcionais obrigatórios citados abaixo: 17.14.01. Palavra do presidente: A funcionalidade permite a inclusão, consulta, alteração e exclusão do texto que o Presidente do CFMV disponibiliza para a comunidade; 17.14.02. Dados da Direção do CFMV: A funcionalidade permite a inclusão, alteração e exclusão dos dados da diretoria do CFMV; 17.14.03. Notícias: A funcionalidade permite a inclusão, alteração, consulta e exclusão de notícias no Portal, categorizando-as de acordo com seu tipo (entrevista, destaque, comunidade, do sistema, na mídia, artigos,...). Toda notícia pode ser acompanhada de áudio, vídeo ou imagens; 17.14.04. Cadastrar Eventos: A funcionalidade permite o cadastramento de um evento para que seja publicado no Portal; 17.14.05. Publicar Eventos: A funcionalidade permite que o evento cadastrado seja ou não publicado no Portal, e ainda determina o prazo de saída do mesmo. Também permite a alteração e exclusão de eventos já publicados; 17.14.06. Pesquisar no Site: A funcionalidade permite que se faça uma pesquisa em todas as áreas do site por palavra chave;
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+51
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+17.14.07. Manutenção de Link: A funcionalidade permite a inclusão, alteração, consulta e exclusão de links para acesso a arquivos disponibilizados; 17.14.08. Ouvidoria: A funcionalidade permite que seja cadastrado um contado com a Ouvidoria do CFMV e o mesmo seja enviado ao e-mail da Ouvidoria; 17.14.09. Banco de Imagens: A funcionalidade permite a inclusão, exclusão, visualização de imagens. Também é possível consultar imagens através de palavra chave; 17.14.10. Consulta Pública: A funcionalidade permite que o usuário realize uma consulta dentro dos sistemas do CFMV sem ter que passar por autenticação; 17.14.11. FAC: A funcionalidade permite a inclusão, alteração e exclusão de perguntas e respostas no Portal bem como a pesquisa das mesmas por palavra chave; 17.14.12. Manter Menus: A funcionalidade permite que sejam inseridos, alterados, consultados e excluídos menus e submenus no Portal; 17.14.13. Manter Consulta Específica: A funcionalidade permite que as pessoas que possuem login e senha acessem áreas específicas dos diversos sistemas do CFMV; 17.14.14. Licitação: A funcionalidade permite a inclusão, alteração, consulta e exclusão dos dados das licitações em andamento ou encerradas no CFMV; 17.14.15. Área de Estudo - Ambiente Virtual de Aprendizagem: A funcionalidade permite que sejam inseridas, excluídas e consultadas os cursos que serão disponibilizados para que as pessoas façam através da página do CFMV, em modalidade de ensino à distância pela Internet,
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+52
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+utilizando como plataforma a solução open source MOODLE, que deverá ser configurada e otimizada pela licitante contratada; 17.14.16. Fórum de Discussão: A funcionalidade permite incluir, alterar, consultar e publicar as diversas opiniões expressas no fórum, de acordo com o tema do mesmo; 17.14.17. Museu: A funcionalidade permite a inclusão, alteração, exclusão e consulta das informações relativas a história da medicina veterinária e zootecnia, como momentos relevantes, criação de regionais e associações, imagens que fazem parte do histórico do Sistema CFMV-CRMVs; 17.14.18. Galeria de Diretores: A funcionalidade permite a inclusão, alteração, consulta e exclusão da diretoria executiva e conselheiros do CFMV bem como seus mandatos, identificando-os através de dados e fotos; 17.14.19. Pronunciamentos: A funcionalidade permite a inclusão, alteração, consulta e exclusão dos principais pronunciamentos dos presidentes do , marcando o momento histórico em que o discurso foi feito e o disponibilizando na íntegra seja em áudio, vídeo ou texto; 17.14.20. Notícias: A funcionalidade permite a inclusão, alteração, consulta ou exclusão dos tipos de notícias que podem ser veiculadas ao Portal. 17.14.21. Formulário de inscrição on-line: A funcionalidade permite a inclusão, alteração, consulta e exclusão de dados para a realização de inscrição no evento. Também permite a sejam gerados relatórios com informações pertinentes as inscrições; 17.14.22. Política de Acessos: A funcionalidade permite o acesso seletivo a áreas do portal web através da identificação de usuários por login e senha; 17.14.23. Web TV: A funcionalidade permite a inserção, alteração, consulta e exclusão de vídeos;
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+53
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+17.14.24. Rádio Web: A funcionalidade permite a exibição, alteração, consulta e exclusão de áudios. inclusão,
+
+17.14.25. Cadastro de comunidade: A funcionalidade permite que o usuário insira seus dados dentro do Portal para acesso a áreas restritas; 17.14.26. Enquete: Essa funcionalidade permite que o ator habilite e desabilite uma enquete; 17.14.27. Prêmio: A funcionalidade permite incluir, alterar, consultar e excluir os diversos vencedores dos prêmios Paulo Darcoso e Otávio Domingues, bem como a inclusão do histórico de criação do prêmio; 17.14.28. Instituições de Ensino: A funcionalidade permite a inclusão, alteração, consulta e exclusão das instituições de ensino que possuem cursos de medicina veterinária e/ou zootecnia, quais possuem residência médico-veterinário, quais oferecem especialização; 17.14.29. CEUAs: A funcionalidade permite a inclusão, alteração, consulta e exclusão das CEUAS e onde essas estão presentes.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+54
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+18. ANEXO 1 ­ Modelo de Ordem de Serviço
+Ordem de Serviço nº: Objeto e descrição detalhada da OS: Fase (s) contratada (s): Fase Iniciação Elaboração Construção Transição Percentual de Esforço 5% 20% 65% 10% Seleção Data de Emissão: ____ /____ /_______
+
+Cálculo de Pontos de Função: Tipo de contagem - Indicativa - Estimada - Detalhada Total PF
+
+Função Qtd.PF ALI (Arquivos Lógicos Internos) Qtd. PF AIE (Arquivos de Interface Externa) Qtd. PF Funções do tipo EE (Entrada Externa) Qtd. PF Funções do tipo SE (Saída Externa) Qtd. PF Funções do tipo CE (Consulta Externa) TOTAL Responsável pela Contagem dos Pontos (Contratada): Responsável pela Homologação da Contagem (Contratante):
+
+0,00
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+55
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+Valor Estimado da Ordem de Serviço: Considerando o percentual de esforço da(s) fase (s) contratada (s), o total de pontos por função e o valor do ponto de função desta contratação estabelecido em R$ xxxxx (valor por extenso), tem-se o seguinte cálculo: VoS = TPF * VPonto * Per % Onde: VoS: Valor total da Ordem de Serviço TPF: Total de pontos por função VPonto: Valor do Ponto de função Per: Somatório de percentuais de fases e/ou disciplinas Dessa forma temos o seguinte cálculo: xxxx * R$ xxxx * 5% = R$ xxxx Considera-se ainda a utilização de xxxx (valor por extenso) de horas de consultoria ao preço de R$ xxxx (valor por extenso) totalizando R$ xxxx (Valor por extenso). Sendo assim, somando-se os valores mensurados em pontos de função com as horas de consultoria, estima-se para o serviço o valor de R$ xxxxx (Valor por extenso). Data Limite para execução: Entregas a serem realizadas: Nº Entrega 1º Entrega Fase Iniciação Disciplina Modelagem de Negócios e Requisitos Análise e Projeto Artefato 1. 2. 1. Atas de reunião Diagrama de casos de uso Documento de Arquitetura de Software (candidata) ___/___/____
+
+2º Entrega
+
+Iniciação
+
+Observações:
+
+Assinatura dos Responsáveis pela autorização e execução dos serviços: Autorização da Coordenação da Contratante: NOME DO RESPONSÁVEL Responsável Técnico (Gerente de Projetos da Contratante): NOME DO RESPONSÁVEL Responsável Técnico (Gerente de Projetos da Contratada): NOME DO RESPONSÁVEL ____ /____ /_______ ____ /____ /_______
+
+____ /____ /_______
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+56
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+19. ANEXO 2 ­ Modelo do Termo de Entrega
+Identificação da Entrega: Nº Ordem de Serviço: Conteúdo da Entrega: Nº Entrega 1º Entrega Fase Iniciação Disciplina Modelagem de Negócios e Requisitos Análise e Projeto Artefato 1. Atas de reunião 2. 1. Diagrama de casos de uso Documento de Arquitetura de Software (candidata) Data de Emissão: ____ /____ /_______
+
+Cálculo de Pontos de Função (Recontagem para aferição de alterações no tamanho funcional): Tipo de contagem - Indicativa - Estimada - Detalhada Total PF
+
+Função Qtd.PF ALI (Arquivos Lógicos Internos) Qtd. PF AIE (Arquivos de Interface Externa) Qtd. PF Funções do tipo EE (Entrada Externa) Qtd. PF Funções do tipo SE (Saída Externa) Qtd. PF Funções do tipo CE (Consulta Externa) TOTAL Responsável pela Contagem dos Pontos (Contratada): Responsável pela Homologação da Contagem (Contratante): Observações e Anexos: 1) Relatório de contagem Assinatura dos Responsáveis: Responsável Técnico (Gerente de Projetos da Contratante): NOME DO RESPONSÁVEL Responsável Técnico (Gerente de Projetos da Contratada): NOME DO RESPONSÁVEL
+
+0,00
+
+____ /____ /_______
+
+____ /____ /_______
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+57
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+20. ANEXO 3 ­ Modelo do Termo de Aceite
+Identificação da Entrega: Nº Ordem de Serviço: Conteúdo da Entrega: Item Descrição do artefato 1. 2. 3. 4. 5. 6. 7. 8. Versão Data de Emissão: ____ /____ /_______
+
+Fase (s) contratada (s): Fase Iniciação Elaboração Construção Transição Percentual de Esforço 5% 20% 65% 10% Seleção
+
+Cálculo de Pontos de Função (Recontagem para aferição de alterações no tamanho funcional): Função Qtd.PF ALI (Arquivos Lógicos Internos) Qtd. PF AIE (Arquivos de Interface Externa) Qtd. PF Funções do tipo EE (Entrada Externa) Qtd. PF Funções do tipo SE (Saída Externa) Qtd. PF Funções do tipo CE (Consulta Externa) TOTAL Total PF
+
+0,00
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+58
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+Valor Estimado da Entrega: Considerando o percentual de esforço da fase (s) contratada (s), o total de pontos por função da entrega e o valor do ponto de função desta contratação estabelecido em R$ xxxx (valor por extenso), tem-se o seguinte cálculo: Ve = TPFe * VPonto * Per % Onde: Ve: Valor total da Entrega TPFe: Total de pontos por função da Entrega VPonto: Valor do Ponto de função Per: Somatório de percentuais das fases Dessa forma temos o seguinte cálculo: xxxx * R$ xxxx * 5% = R$ xxxx Foram executadas xxxx (valor por extenso) horas de consultoria ao preço de R$ xxxx (valor por extenso) totalizando R$ xxxx (Valor por extenso). Sendo assim, somando-se os valores mensurados em pontos de função com as horas de consultoria efetivamente executadas, o valor da entrega é de R$ xxxx (Valor por extenso). Observações e anexos:
+
+Assinatura dos Responsáveis: Autorização da Coordenação da Contratante: NOME DO RESPONSÁVEL Responsável Técnico (Gerente de Projetos da Contratante): NOME DO RESPONSÁVEL Responsável Técnico (Gerente de Projetos da Contratada): NOME DO RESPONSÁVEL ____ /____ /_______ ____ /____ /_______
+
+____ /____ /_______
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+59
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+ANEXO II DECLARAÇÕES
+
+______________________ (nome da empresa), CNPJ__________________ (número de inscrição), sediada __________________________ (endereço), por intermédio de seu representante legal, infra-assinado, e para os fins do Pregão nº 04/2011 - Proc. nº 10353/2010, DECLARA expressamente que: I - Até a presente data inexistem fatos supervenientes impeditivos para sua habilitação no presente processo licitatório, estando ciente da obrigatoriedade de declarar ocorrências posteriores; II - Para fins do disposto no inciso V do artigo 27 da Lei n.º 8.666, de 21 de junho de 1993, acrescido pela Lei n.º 9.854, de 27 de outubro de 1999, não emprega menor de dezoito anos em trabalho noturno, perigoso ou insalubre, e não emprega menor de dezesseis anos; III - Sob as penalidades cabíveis, de que o objeto ofertado atende integralmente aos requisitos das especificações constantes no Anexo I deste Edital; IV - Que tem conhecimento de todos os parâmetros e elementos do objeto e serviços a serem executados, estando de acordo com os termos deste Edital e seus anexos. Cidade, _____ de ___________ de 2011. Nome: _________________________________________________ Nº da Cédula de Identidade: _______________________________
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+60
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+ANEXO III MINUTA DE INSTRUMENTO DE CONTRATO
+
+INSTRUMENTO DE CONTRATO PARA "PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS NO DESENVOLVIMENTO DE PORTAIS E SISTEMAS WEB" QUE ENTRE SI CELEBRAM O CONSELHO FEDERAL DE MEDICINA VETERINÁRIA ­ CFMV E A EMPRESA -------------------------------------. CONSELHO FEDERAL DE MEDICINA VETERINÁRIA - CFMV, Autarquia Federal criada pela Lei nº 5.517, de 1968, inscrita no CNPJ/MF sob nº 00.119.784/0001-71, sediada nesta Capital Federal, no SIA, Trecho 6, Lotes 130 e 140, neste ato representada por seu Presidente, BENEDITO FORTES DE ARRUDA, médico veterinário inscrito no CRMV-GO nº 0272 e no CPF/MF sob nº 088.404.311-87, doravante denominada CONTRATANTE, e --------------, pessoa jurídica de direito privado, inscrita no CNPJ/MF sob n° -------------, sediada na cidade de -----------, na Av/Rua -----------, neste ato representada pelo seu Procurador/Sócio/Gerente, Sr. (a) -------------------, -----(nacionalidade)----, ---(estado civil)----, -----(profissão)----, inscrito no CPF/MF sob o n° -------------, portador da cédula de identidade n° --------------, expedida pela -------------, em conformidade com a procuração e/ou contrato social contidos nas folhas ---------- do Processo n° 10353/2010, doravante denominada CONTRATADA, têm, entre si, justo e avençado, e celebram, por força do presente instrumento, elaborado de acordo com minuta examinada pela Assessoria Jurídica, "ex vi", do disposto no parágrafo único do art. 38 da Lei n° 8.666/93, e suas alterações, e em conformidade com o constante do processo acima citado, este CONTRATO PARA "PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS NO DESENVOLVIMENTO DE PORTAIS E SISTEMAS WEB, que se regerá pelas disposições da Lei n° 8.666/93, e suas alterações, e pelas seguintes cláusulas e condições:
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+61
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+CLÁUSULA I ­ DO OBJETO 1.1. O presente Contrato tem por objeto a Prestação de serviços especializados no desenvolvimento de portais e sistemas WEB relacionados e especificados no Anexo I do Edital do Pregão CFMV nº 04/2011, e de acordo com proposta apresentada pela CONTRATADA", mantendo-se inalteradas todas as demais cláusulas. 1.1.1. Integram este instrumento, independentemente de transcrição: a) Edital Pregão CFMV n° 04/2011 e seus Anexos; b) Documentos de habilitação apresentados pela CONTRATADA no Pregão CFMV n° 04/2011 (fls. ------ do processo acima citado); c) Proposta registrada no sistema e os lances, se houver, registrados em ata; d) Outros documentos relevantes, todos assinados ou rubricados pela CONTRATADA. CLÁUSULA II ­ DA VIGÊNCIA 2.1. A vigência do contrato será de 12 (doze) meses, contados da assinatura do Contrato. CLÁUSULA III ­ DA EXECUÇÃO DO CONTRATO E ENTREGA DO OBJETO 3.1. A execução do Objeto será acompanhada e fiscalizada pelo Departamento de Gestão e Informação (DEGIN) ou por outro representante designado pela CONTRATANTE.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+62
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+3.1.1. A CONTRATADA deverá entregar o objeto no prazo máximo de 12 (doze) meses, contados da assinatura do contrato. 3.1.2. O objeto deverá ser entregue na sede da CONTRATANTE indicado no preâmbulo, entre às 8h e 17h. 3.1.3. O recebimento compreenderá duas etapas distintas, a seguir discriminadas: a) O recebimento provisório ocorrerá na ocasião da entrega do objeto da licitação, acompanhada de assinatura de servidor da CONTRATANTE no canhoto da fatura/nota fiscal ou documento equivalente; b) Insatisfatórias as verificações, lavrar-se-á Termo de Recusa, no qual serão consignadas as incorreções constatadas, devendo ser o item substituído, às custas da CONTRATADA, no prazo máximo de 15 (quinze) dias, depois do que serão repetidas as verificações retro; b.1) Caso a substituição não ocorra no prazo previsto neste subitem ou, ainda, caso o novo bem entregue também seja rejeitado, serão aplicadas as sanções previstas neste instrumento. c) Sendo satisfatórias as verificações, será dado o ateste na Nota Fiscal/Fatura e o bem será definitivamente recebido; d) O recebimento, provisório ou definitivo, não exclui a responsabilidade civil da CONTRATADA pelo perfeito desempenho do objeto fornecido, cabendo-lhe sanar quaisquer irregularidades detectadas quando de sua utilização durante o período de garantia. CLÁUSULA IV ­ DO PREÇO E DAS CONDIÇÕES DE PAGAMENTO 4.1. Pelo Objeto, a CONTRATANTE pagará à CONTRATADA, de forma parcelada, após a conclusão de cada fase, o valor fixo e irreajustável de R$ ______, a ocorrer até o 10º (décimo) dia útil após seu recebimento do objeto.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+63
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+4.1.1. O pagamento está condicionado à apresentação da nota fiscal/fatura e prévio atesto do órgão fiscalizador da CONTRATANTE, devendo ser emitida e entregue em duas vias acompanhadas dos comprovantes de regularidade fiscal, fundiária e previdenciária, documentação esta que pode ser substituída, a critério da CONTRATANTE, pela verificação junto ao SICAF. 4.1.2. Sendo constatada alguma incorreção na nota fiscal/fatura, a CONTRATANTE, no prazo de até 05 (cinco) dias úteis, mediante indicação do motivo que possibilite a correção do erro, devolverá o documento. 4.1.3. Sendo considerada procedente a constatação da CONTRATANTE, o pagamento será feito no prazo máximo de 05 (cinco) dias úteis, contados do recebimento da Nota Fiscal devidamente corrigida. 4.1.4. Nenhum pagamento será efetuado à CONTRATADA enquanto pendente de liquidação qualquer obrigação financeira que lhe for imposta em virtude de penalidade ou falta de entrega do serviço, podendo ser o valor devido utilizado para cobrir dívidas de responsabilidade da CONTRATADA. 4.1.5. Respeitado o disposto na Lei Complementar nº 123, de 2006, os encargos previdenciários e fiscais serão retidos na fonte pela CONTRATANTE. CLÁUSULA V ­ DAS OBRIGAÇÕES DAS CONTRATANTES 5.1. Além das obrigações resultantes da observância da Lei n° 8.666/93, da Lei nº 10.520/02 e do Edital, compete à CONTRATANTE: a) Acompanhar e fiscalizar a execução do fornecimento contratado; b) Atestar nas notas fiscais/fatura a efetiva entrega do objeto contratado e o seu recebimento, podendo realizar testes;
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+64
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+c) Efetuar os pagamentos devidos, desde que atendidas as exigências do Edital e seus Anexos; d) Manifestar-se formalmente em todos os atos relativos à execução do contrato, em especial, aplicação de sanções e alterações do mesmo; e) Prestar as informações e os esclarecimentos que venham a ser solicitados pela CONTRATADA e que guardem relação com o Objeto. 5.2. Além das obrigações resultantes da observância da Lei n° 8.666/93, da Lei nº 10.520/02 e do Edital, compete à CONTRATADA: a) Entregar o objeto do presente Contrato nos prazos, especificações, quantidade e local indicados no Edital e na proposta; b) Atender prontamente as exigências da CONTRATANTE inerentes ao Objeto; c) Manter, durante toda a execução do Contrato, as mesmas condições da habilitação; d) Aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessárias na contração objeto do presente Contrato, até 25% (vinte e cinco por cento) do valor do contrato; e) Assumir a responsabilidade por: e.1) Todos os encargos trabalhistas, previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, obrigando-se a saldá-los na época própria; e.2) Todos os encargos de possível demanda trabalhista, civil ou penal, relacionada à execução do objeto, originariamente ou vinculada por prevenção, conexão ou continência;
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+65
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+e.3) Os encargos fiscais e comerciais resultantes desta contratação, inclusive fretes e pedágios; e.4) A inadimplência da CONTRATADA, com referência aos encargos estabelecidos neste subitem, não transfere a responsabilidade por seu pagamento à CONTRATANTE, nem pode onerar o objeto do Contrato, razão pela qual a CONTRATADA renuncia expressamente a qualquer vínculo de solidariedade, ativa ou passiva, com a CONTRATANTE. CLÁUSULA VI ­ DAS SANÇÕES ADMINISTRATIVAS 6.1. A inexecução total ou parcial das obrigações assumidas sujeitará CONTRATADA às sanções previstas na Seção II do Capítulo IV da Lei 8.666/93, podendo a CONTRATANTE, garantida a prévia defesa, aplicar as seguintes sanções: I - Advertência; II - Multas a serem recolhidas de acordo com instruções fornecidas pela CONTRATANTE: a) De 1% (um por cento) sobre o valor total do contrato, considerando, para fins de cálculo do valor da multa, somente a parcela do contrato inadimplida, por dia de atraso no prazo contratual de entrega, limitado a 10% do mesmo valor, por ocorrência; b) De 5% (cinco por cento) sobre o valor total do contrato, considerando, para fins de cálculo do valor da multa, somente a parcela do contrato inadimplida, por infração a qualquer cláusula ou condição do contrato, não especificada nas outras alíneas deste inciso, e aplicada em dobro na sua reincidência; c) De 10% (dez por cento) sobre o valor total da proposta ou do futuro contrato, no caso de recusa injustificada do licitante adjudicatário em firmar o instrumento de contrato ou em aceitar ou em retirar o
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+66
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+instrumento equivalente, ou deixar de apresentar os documentos exigidos para sua celebração, ou deixar de entregar documentação exigida neste Edital durante a sessão do Pregão, no prazo e condições estabelecidas neste Edital, independentemente das demais sanções cabíveis; d) De 10% (dez por cento) do valor total do contrato, pela recusa em corrigir ou substituir qualquer objeto rejeitado ou com defeito, caracterizando-se a recusa caso a correção ou substituição não se efetivar nos 15 (quinze) dias que se seguirem à data da comunicação formal da rejeição ou defeito, independentemente das demais sanções cabíveis; e) De 10% (dez por cento) sobre o valor total do contrato, no caso de sua rescisão por ato unilateral da administração, motivado por culpa da CONTRATADA, garantida defesa prévia, independentemente das demais sanções cabíveis. III - Impedimento de licitar e contratar com a União, com o consequente descredenciamento do SICAF pelo prazo de até cinco anos, sem prejuízo das multas previstas no edital e no contrato e das demais cominações legais, para o licitante que, convocado dentro do prazo de validade de sua proposta, não assinar o contrato, deixar de entregar documentação exigida no edital, apresentar documentação falsa, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal, garantido o direito à ampla defesa. 6.1.1. No processo de aplicação de sanções é assegurado o direito ao contraditório e à ampla defesa, facultada defesa prévia do interessado no prazo de 5 (cinco) dias úteis contados da respectiva intimação para as sanções previstas nos incisos I e II desta Cláusula e de 10 (dez) dias para a do inciso III. 6.1.2. A multa, aplicada após regular processo administrativo, deverá ser recolhida no prazo máximo de 05 (cinco) dias corridos, a contar do recebimento da comunicação enviada pela CONTRATANTE, sendo permitida a retenção de créditos para sua liquidação.
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+67
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+6.1.3. As sanções previstas nos incisos I e III desta cláusula, poderão ser aplicadas juntamente com a do inciso II, desta Cláusula. CLÁUSULA VII ­ DA RESCISÃO 7.1. O não cumprimento de qualquer cláusula ou condição prevista neste contrato ou a inobservância das prescrições legais pertinentes aos contratos administrativos confere à CONTRATANTE o direito de rescindi-lo, sem prejuízo da aplicação das sanções previstas neste Contrato e das demais cominações legais, conforme previsto na Seção V do Capítulo III da Lei nº 8.666/93. 7.2. Caberá a rescisão do Contrato, na ocorrência de quaisquer motivos relacionados no art. 78 da Lei n° 8.666/93. 7.3. A rescisão do contrato poderá ser: 7.3.1. Determinada por ato unilateral e escrito da administração, nos casos enumerados nos incisos I a XII e XVII do artigo 78 da Lei 8.666/93. 7.3.2. Amigável, por acordo entre as partes, desde que haja conveniência para a Administração. 7.3.3. Judicial, nos termos da legislação. CLÁUSULA VIII ­ DA DOTAÇÃO ORÇAMENTÁRIA 8.1. As despesas decorrentes da contratação do objeto desta licitação está prevista na dotação orçamentária do exercício de 2011 e correrá à conta dos elementos de despesa: 3.1.32.19 ­ Serviços de Informática; 3.1.32.35 ­ Serviços de Seleção, Treinamentos e Orientação Profissional; e 3.1.32.64 ­ Consultoria e Assessorias do plano de contas em vigor, de acordo com a disponibilidade financeira destacada para esse fim.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+68
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+CLÁUSULA IX ­ DAS DISPOSIÇÕES GERAIS 9.1. Este contrato regula-se pelas Leis nº 8.666/93 e 10.520/02, por suas cláusulas e pelos preceitos de direito público, aplicando-lhe, supletivamente, os princípios da Teoria Geral dos contratos e as disposições de direito privado, principalmente as do Código de Defesa do Consumidor. 9.1.1. Reuniões eventualmente realizadas entre as Contratantes, bem como ocorrências que possam ter implicações neste Contrato, serão registradas por escrito e assinadas pelos prepostos/representantes. 9.1.2. Estão incluídos no preço todos os custos de fornecimentos e/ou serviços, sendo de responsabilidade exclusiva da CONTRATADA a quitação das obrigações tributárias (diretas ou indiretas), previdenciárias, trabalhistas, securitárias, taxas, transportes e equipamentos que incidam ou venham a incidir sobre o Objeto deste contrato. 9.1.3. A CONTRATANTE não responderá por quaisquer compromissos assumidos pela CONTRATADA com terceiros, ainda que vinculados à execução, integral ou não, ou inexecução do presente contrato, bem como por qualquer dano causado em decorrência de seu ato, de seus empregados, prepostos ou subordinados. 9.1.4. Os casos fortuitos ou de força maior serão excludentes de responsabilidade, salvo se derivados de atuação culposa, conforme estabelecido no parágrafo único do artigo 393 do Código Civil Brasileiro. 9.1.5. Os casos omissos serão analisados pelos representantes legais das partes, com o intuito de solucionar o impasse, sem que haja prejuízo para nenhuma delas, tendo por base o que dispõem as Leis nº 8.666/93, 8.078/90 e demais legislações vigentes aplicáveis à espécie.
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+69
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+CLÁUSULA X ­ DA PUBLICAÇÃO 10.1. A CONTRATANTE providenciará, às suas expensas, a publicação deste contrato, por extrato, no Diário Oficial da União até o quinto dia útil do mês subsequente ao de sua assinatura, para ocorrer no prazo de 20 (vinte) dias daquela data, conforme previsto no parágrafo único, art. 61, da Lei nº 8.666/93. CLÁUSULA XI ­ DO FORO 11.1. As partes elegem o Foro da Justiça Federal, Seção Judiciária do Distrito Federal (Art.109, I, CRFB/88), como o competente para dirimir quaisquer questões provenientes deste contrato eventualmente não resolvidas no âmbito administrativo, com exclusão de qualquer outro por mais privilegiado que seja. E, para firmeza e como prova de assim haverem, entre si, ajustado e contratado, foi lavrado o presente contrato, que depois de lido e achado conforme, é assinado, em duas vias de igual teor e forma, pelas partes contratantes, tendo sido arquivado em ordem cronológica no CFMV, com registro sistemático de seu extrato, e dele extraídas as cópias necessárias. Brasília-DF, ------ de ------------------de 2011.
+
+CONSELHO FEDERAL DE MEDICINA VETERINÁRIA Contratante
+
+_________________________________________________ Contratada
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+70
+
+Serviço Público Federal
+
+Conselho Federal de Medicina Veterinária
+ANEXO IV TERMO DE VISTORIA
+
+Atestamos, para fins de participação no Pregão nº 04/2011, para prestação de serviços especializados no desenvolvimento de portais e sistemas WEB, que a empresa _______________________, através do seu Representante Legal _______________________, identidade nº ________________________, compareceu à Vistoria Técnica no local dos serviços acima referenciados, se inteirando perfeitamente de todas as condições e informações que possam afetar o custo e o prazo de execução do serviço.
+
+Não
+
+será
+
+aceita,
+
+posteriormente,
+
+a
+
+alegação
+
+de
+
+situações
+
+desconhecidas que possam alterar o bom andamento dos trabalhos, o custo e a conclusão dos serviços.
+
+Brasília, _____ de ___________________ de 2011.
+
+______________________________________
+Assinatura do visitante
+
+_________________________________________________
+Assinatura do fucionário do CFMV
+
+SIA - Trecho 6 ­ Lotes 130 e 140 ­ Cep: 71205-060 ­ Brasília/DF E-mail: cfmv@cfmv.gov.br ­ Home page: www.cfmv.gov.br Tel: (61) 2106-0400 ­ Fax: (61) 2106-0444
+
+71
+
+

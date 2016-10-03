@@ -1,0 +1,1240 @@
+COMPROVANTE
+
+DE
+
+RECEBIMENTO
+
+Recebemos da CVM ­ COMISSÃO DE VALORES MOBILIÁRIOS, cópia do Edital de Pregão Eletrônico nº 53/2009 referente à contratação de pessoa jurídica especializada para prestação de serviços em Tecnologia da Informação (TI).
+
+EMPRESA
+
+__________________________________________________________
+
+CNPJ ________________________________________________________________
+
+NOME DO RESPONSÁVEL ______________________________________________
+
+ENDEREÇO _________________________________________________________
+
+TELEFONE
+
+_________________________________________________________
+
+FAX
+
+__________________________________________________________
+
+E-MAIL
+
+_____________________________________________________________________
+
+NOME
+
+__________________________________________________________
+
+ASSINATURA __________________________________________________________
+
+Rio de Janeiro, _______ de _________________ de
+OBS.: Os campos acima devem ser preenchidos em letra de forma. É indispensável o preenchimento do CNPJ.
+
+1
+
+COMISSÃO DE VALORES MOBILIÁRIOS PROCESSO DE COMPRAS Nº RJ-2009-10799 PREGÃO ELETRÔNICO Nº 53/2009 OBJETO: ÁREA RESPONSÁVEL: Contratação de pessoa jurídica especializada para prestação de serviços em Tecnologia da Informação (TI). Superintendência Administrativo-Financeira (SAD) / Gerência de Compras e de Serviços Gerais (GAG) / Superintendência de Informática (SSI) / Gerência de Sistemas (GSI). MENOR PREÇO GLOBAL ANUAL.
+
+TIPO DE LICITAÇÃO:
+
+HORÁRIO: (de Brasília)  Encaminhamento da proposta de preços e anexos: até as 11:00 horas do dia 22/12/2009.  Abertura da sessão: a partir das 11:00 horas do dia 22/12/2009. LOCAL: http://www.comprasnet.gov.br Lei 10.520, de 17.07.02; Instrução Normativa nº 05 do MARE, de 21.07.95, e suas alterações posteriores; Instrução Normativa nº 02 do MPOG, de 30.04.08; Instrução Normativa nº 04 da SLTI, de 19.05.08; Decreto nº 3.722, de 09.01.01; Decreto n°5.450 de 31.05.05; Decreto nº 3.555/2000, de 08.08.00; Lei complementar nº 123, de 14.12.06, Instrução Normativa nº 03 do MPOG, de 16/10/2009, e Lei nº 8.666/93 e suas alterações posteriores (subsidiariamente). EDITAL O Pregoeiro e Equipe de Apoio, designados pela Portaria CVM/PTE/nº 112, de 21/10/2009, realizarão, no dia, horário e local acima indicados, o Pregão Eletrônico nº 53/2009, em obediência aos termos dos dispositivos legais e às condições estabelecidas neste Edital e seus Anexos, disposto a seguir: a) ANEXO I - Termo de Referência; b) ANEXO II - Especificações Técnicas;
+2
+
+REGULAMENTAÇÃO BÁSICA:
+
+c) ANEXO III - Resumo da metodologia de desenvolvimento e manutenção de sistemas da CVM. d) ANEXO IV - Orçamento total estimado; e) ANEXO V - Modelo de proposta de preços f) ANEXO VI - Modelo de Declaração ­ Termo de Vistoria; g) ANEXO VII - Minuta do Contrato.
+
+3
+
+1. DO OBJETO 1.1 A presente licitação tem como objeto a contratação de Serviços em Tecnologia da Informação (TI), complementares às atividades da CVM, para: 1.1.1 - sustentação do ambiente de sistemas de informação, envolvendo manutenção corretiva e evolutiva em seus sistemas corporativos e públicos, bem como alterações e inserções nas páginas de conteúdo estático e/ou dinâmico que integram os sistemas públicos. Compreende as atividades de gerência de projetos, levantamento de requisitos, análise, codificação, testes, homologação e documentação de sistemas e serviços, de acordo com as condições constantes do Termo de Referência (Anexo I) e das Especificações Técnicas (Anexo II). Para os fins desta licitação, sistemas públicos da CVM são aqueles disponibilizados ao público no sítio institucional da CVM e no Portal do Investidor, respectivamente em www.cvm.gov.br e em www.portaldoinvestidor.gov.br. Embora voltada ao público interno, a Intranet CVM é também enquadrada nesta classificação pela similaridade de sua implementação com os demais sistemas públicos. 1.1.2 - desenvolvimento de novos sistemas de informação, compreendendo as atividades de gerência de projetos, levantamento de requisitos, análise, codificação, testes, homologação e documentação de sistemas e serviços, com ou sem emprego de páginas de conteúdo estático e/ou dinâmico, de acordo com as condições constantes do Termo de Referência (Anexo I) e das Especificações Técnicas (Anexo II). 1.2 O objeto da licitação envolve, ainda, a transferência de tecnologia e conhecimento aos servidores e colaboradores da CONTRATANTE, bem como a transferência de produtos de software ao Centro de Dados da CVM para entrada em produção. Em caso de discordância existente entre as especificações deste objeto descritas no Comprasnet e as especificações constantes deste Edital, prevalecerão as últimas.
+
+1.3 -
+
+2. DA PARTICIPAÇÃO 2.1 Poderão participar do certame as pessoas jurídicas que atuem em ramo de atividade compatível com o objeto licitado, devidamente identificadas pela sua chave de identificação e da senha de acesso privativa, conforme normas do provedor do sistema eletrônico. Para participação no Pregão Eletrônico, o licitante deverá manifestar, em campo próprio do sistema eletrônico, que cumpre plenamente os requisitos de
+4
+
+2.2 -
+
+habilitação e que sua proposta está em conformidade com as exigências do Edital (Art. 21, § 2º, do Decreto nº 5.450/05). 2.3 Estarão impedidas de participar da presente licitação: a) A licitante cuja falência ou insolvência civil tenha sido decretada judicialmente ou que estejam em gozo de benefício da concordata ou que tenham requerido recuperação judicial, ainda não encerrada, nos termos do art. 63 da Lei nº 11.101, de 9.2.2005; b) A licitante que tenha sido declarada inidônea por qualquer órgão ou entidade das Administrações Públicas Federal, Estadual ou Municipal; c) A licitante que tenha prestado informações inverídicas em sua documentação para habilitação ou em sua proposta de preços; d) A empresa constituída em forma de consórcio; e) A empresa ou sociedade estrangeira f) A licitante da qual seja sócio, cooperado, dirigente ou responsável técnico, servidor da CVM; g) A licitante que esteja cumprindo a sanção de suspensão do direito de licitar; h) Cooperativas. 2.4 O C.N.P.J. apresentado pela licitante para sua habilitação será, obrigatoriamente, o mesmo a receber a Nota de Empenho e da assinatura do Contrato, a emitir a Nota FISCAL/Fatura correspondentes à aquisição e aos serviços, bem como alvo da liquidação da despesa. A licitante ficará obrigada a manter válidos todos os documentos relativos à regularidade de Cadastramento, com habilitação parcial, no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF durante todo o procedimento licitatório, bem como durante o período da execução dos compromissos assumidos (art. 55, XIII da Lei nº 8.666/93 c/c art. 9º da Lei nº 10.520, de 17/07/2002). Qualquer pessoa, seja ela jurídica ou física, poderá acompanhar o desenvolvimento do pregão eletrônico, em tempo real, por meio do sitio http://www.comprasnet.gov.br.
+
+2.5 -
+
+2.6 -
+
+3. DA REPRESENTAÇÃO E DO CREDENCIAMENTO 3.1 O credenciamento dar-se-á pela atribuição de chave de identificação e de senha, pessoal e intransferível, para acesso ao sistema eletrônico (Art. 3º, § 1º, do Decreto nº 5.450/05), no sitio http://www.comprasnet.gov.br. O credenciamento da licitante dependerá de registro cadastral atualizado, com habilitação parcial, no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, que também será requisito obrigatório para fins de habilitação (Art. 3º, § 2º do Decreto nº 5.450/05).
+5
+
+3.2 -
+
+3.3 -
+
+O credenciamento junto ao provedor do sistema implica na responsabilidade legal da licitante ou de seu representante legal e na presunção de sua capacidade técnica para realização das transações inerentes ao pregão eletrônico (Art. 3º, § 6º, do Decreto nº 5.450/05). O uso da senha de acesso pela licitante é de sua responsabilidade exclusiva, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou à Comissão de Valores Mobiliários ­ CVM, entidade promotora da licitação, responsabilidade por eventuais danos decorrentes do uso indevido da senha, ainda que por terceiros (Art. 3º, § 5º, do Decreto nº 5.450/05).
+
+3.4 -
+
+4. DO ENVIO DA PROPOSTA DE PREÇOS 4.1 A licitante deverá encaminhar sua proposta, após a divulgação do Edital no sítio www.comprasnet.gov.br, com a descrição do objeto ofertado e o preço, até a data e hora marcadas para abertura da sessão, exclusivamente por meio do sistema eletrônico, quando então encerrar-se-á, automaticamente, a fase de recebimento de propostas (Art. 21º, do Decreto nº 5.450/05); O encaminhamento da proposta dar-se-á por meio da digitação da senha privativa da licitante (Art. 21º, § 1º, do Decreto nº 5.450/05). Até a abertura da sessão, os licitantes poderão retirar ou substituir a proposta anteriormente apresentada; A licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiras sua proposta e lances (Art. 3º, § 5º, Decreto nº 5.450/05). Incumbirá à licitante acompanhar as operações no sistema eletrônico durante a sessão pública do pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão (Art. 13º, inciso V, Decreto nº 5.450). A licitante vencedora deverá apresentar, após a sessão pública do presente Pregão Eletrônico, no prazo determinado pelo pregoeiro, sua proposta de preços por escrito, na forma do ANEXO V. Suas folhas devem ser rubricadas e numeradas, e a última datada e assinada pelo seu representante legal, devendo constar: 4.6.1 - Nome do proponente, endereço, número de telefone e/ou fax, CEP, suas características, identificação (individual ou social), aposição do carimbo padronizado do CNPJ da empresa e a inscrição Estadual e/ou Municipal ou do Distrito Federal, substituível pelo papel timbrado, com estas informações;
+6
+
+4.2 4.3 4.4 -
+
+4.5 -
+
+4.6 -
+
+4.6.2 - Proposta de Preços, devidamente preenchida, contendo os preços unitários e mensais dos serviços, conforme planilha modelo contida no Anexo V deste Edital; 4.6.2.1 - Os preços dos serviços deverão considerar, obrigatoriamente, todos os custos e despesas de qualquer natureza incidentes sobre o objeto da licitação, na forma do estabelecido no Anexo V. 4.6.3 - O valor da proposta, limitado a 2 casas decimais, expresso em moeda corrente nacional, em algarismos e por extenso; 4.6.4 - Conter o prazo de validade dos preços (mínimo de 60 dias corridos), a contar da data do encaminhamento, via sistema, da proposta (Art. 27, § 4º do Decreto nº 5.450/05); 4.6.5 - Conter o nome do banco com o qual a licitante opera, o número e nome da agência e respectiva conta-corrente. A fim de agilizar o pagamento, é conveniente a indicação de uma das agências do Banco do Brasil S.A.; 4.6.6 - Conter o último preço oferecido relativo ao objeto licitado, incluindo todas as despesas legais ou adicionais, previstas neste Edital e seus Anexos, em reais (em algarismo e por extenso). 4.7 Os preços propostos serão de exclusiva responsabilidade da Licitante, não lhe assistindo o direito de pleitear quaisquer alterações dos mesmos, sob alegação de erro, omissão ou de qualquer outro pretexto; Não serão consideradas propostas com alternativas, devendo as licitantes se limitar às especificações deste Edital. Os valores estimados para a contratação constam do ANEXO IV.
+
+4.8 4.9 -
+
+4.10 - Na hipótese de se verificar incoerência entre o preço unitário e o total, prevalecerá o mais vantajoso para a CVM; entre o valor por extenso e o numérico, prevalecerá o por extenso; 4.11 A simples participação neste certame implica: 4.11.1 - A aceitação de todas as condições estabelecidas neste Pregão Eletrônico; 4.11.2 - A inclusão na proposta das parcelas de quaisquer naturezas, diretas ou indiretas, pertinentes à formação do preço dos serviços; 4.11.3 - Que o prazo de validade da proposta é de 60 (sessenta) dias, contado da data estipulada para sua entrega, o qual, se maior, deverá ser explicitado na proposta.
+7
+
+5. DA VISTORIA (FACULTATIVA) 5.1 A licitante interessada em participar deste Pregão poderá vistoriar o local onde serão executados os serviços, até o último dia útil anterior à data fixada para a abertura da sessão pública, com o objetivo de inteirar-se das condições e do grau de dificuldade existentes. Esta vistoria ocorrerá mediante prévio agendamento de Audiência a Particular na Gerência de Sistemas da CVM, pelo sítio eletrônico www.cvm.gov.br. 5.1.1 - A vistoria será composta de duas etapas, sendo uma cumprida na sede da CVM, no centro do Rio de Janeiro e outra nas instalações do SERPRO, no Horto Florestal, no Rio de Janeiro, onde é mantido o Centro de Dados da CVM. 5.2 As vistorias serão acompanhadas respectivamente por representantes da CVM e do SERPRO, designados para esse fim. Cada qual visará a declaração comprobatória da vistoria efetuada nas instalações de sua competência, que deverá ter sido previamente elaborada pela licitante em conformidade com o modelo sugerido no anexo a este Edital. A licitante que não vistoriar os locais onde serão executados os serviços assumirá todos os riscos inerentes à formulação de sua proposta comercial, não cabendo, posteriormente, alegação de desconhecimento do ambiente computacional e tecnológico da CONTRATANTE em qualquer pleito. A licitante que efetuar as vistorias assinará um termo de confidencialidade no qual se comprometerá a guardar sigilo sobre todas as informações relativas ao ambiente computacional da CONTRATANTE e aos mecanismos de segurança a que tiver acesso.
+
+5.3 -
+
+5.4 -
+
+6. DA ABERTURA DA SESSÃO E DA FORMULAÇÃO DE LANCES 6.1 A partir da data e horário previsto no Edital, terá início a sessão pública do presente Pregão, com a divulgação das Propostas de Preços recebidas (art. 22, § 4º, do Decreto nº 5.450/05). O Pregoeiro verificará as propostas apresentadas, desclassificando aquelas que não estejam em conformidade com os requisitos estabelecidos no Edital (Art. 22, §2º, do Decreto nº 5.450/05); Aberta a etapa competitiva, as licitantes poderão encaminhar lances (PREÇO GLOBAL ANUAL) exclusivamente por meio de sistema eletrônico; No que se refere aos lances, as licitantes serão imediatamente informadas do seu recebimento e respectivo horário de registro e valor (Art. 24, § 1º, do Decreto nº 5.450/05).
+8
+
+6.2 -
+
+6.3 6.4 -
+
+6.5 6.6 6.7 -
+
+As licitantes poderão oferecer lances sucessivos, observado o horário fixado e as regras estabelecidas no Edital (Art. 24, § 2º, do Decreto nº 5.450/05). As licitantes somente poderão oferecer lance inferior ao último por eles ofertados e registrados pelo sistema (Art. 24, § 3º, do Decreto nº 5.450/05). Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar (Art. 24, § 4º, do Decreto nº 5.450/05). Durante o transcurso da sessão pública, as licitantes serão informadas, em tempo real, do valor do menor lance registrado que tenha sido apresentado pelas demais licitantes, vedada a identificação da detentora do lance (Art. 24, § 5º, do Decreto nº 5.450/05). No caso de desconexão com o pregoeiro, no decorrer da etapa competitiva do pregão, o sistema eletrônico poderá permanecer acessível às licitantes para a recepção dos lances. O pregoeiro, quando possível, dará continuidade à sua atuação no certame, sem prejuízo dos atos realizados (Art. 24, § 10º, do Decreto nº 5.450/05).
+
+6.8 -
+
+6.9 -
+
+6.10 - Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do pregão será suspensa e terá reinicio somente após comunicação aos participantes, no sítio www.comprasnet.gov.br (Art. 24, § 11, do Decreto nº 5.450/05). 6.11 - A etapa de lances da sessão pública será encerrada por decisão do pregoeiro (Art. 24, § 6º, do Decreto 5.450/05). 6.12 - O sistema emitirá aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até trinta minutos, aleatoriamente determinado, findo o qual será automaticamente encerrada a recepção de lances (Art. 24, § 7º, do Decreto 5.450/05). 6.13 - Após a fase de lances, se a proposta mais bem classificada não tiver sido ofertada por microempresa ou empresa de pequeno porte e houver proposta apresentada por microempresa ou empresa de pequeno porte igual ou até 5% (cinco por cento) superior a melhor proposta, proceder-se-á da seguinte forma: 6.13.1 - O percentual de 5% (cinco por cento) será aferido na comparação de valor global por item ofertado, decorrente da aplicação do preço proposto. 6.13.2 - A microempresa ou empresa de pequeno porte mais bem classificada poderá, no prazo de 5 (cinco) minutos, contados do envio da mensagem automática pelo sistema, apresentar um último lance, com preço necessariamente inferior àquele apresentado pela primeira colocada, situação em que, atendidas as exigências habilitatórias, será adjudicado em seu favor o objeto deste certame.
+9
+
+6.13.3 - Não sendo vencedora, a pequena empresa ou empresa de pequeno porte melhor classificada, na forma da condição anterior, o sistema, de forma automática, convocará as licitantes remanescentes que porventura se enquadrem no caput(6.13), na ordem classificatória, para o exercício do mesmo direito. 6.13.4 - No caso de equivalências dos valores apresentados pelas microempresas ou empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos §§ 1º e 2º da Lei Complementar nº 123/06, será realizado um sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta. 6.13.5 - Não ocorrendo a adjudicação nos termos previstos nesta condição, o objeto licitado será adjudicado em favor da licitante detentora da proposta originalmente melhor classificada. 6.14 - Após o fechamento da etapa de lances, o pregoeiro poderá encaminhar, pelo sistema eletrônico, contraproposta diretamente ao licitante que tenha apresentado lance de menor valor, para que seja obtida proposta melhor, observado o critério de julgamento, não se admitindo negociar condições diferentes daquelas previstas no Edital (Art. 24, § 8º, do Decreto nº 5.450/05). 7. DO JULGAMENTO DAS PROPOSTAS 7.1 Encerrada a etapa de lances, será verificada a conformidade entre a proposta de menor preço e o valor estimado para a contratação e verificada a habilitação do licitante conforme disposições do Edital (Art. 25, caput, do Decreto nº 5.450/05). Declarada encerrada a etapa competitiva e ordenadas as propostas, o Pregoeiro examinará a aceitabilidade da primeira classificada, quanto ao objeto e valor, decidindo motivadamente a respeito (art. 4º, inciso XI da Lei nº10.520, de 17/07/2002). Para julgamento e classificação das propostas será adotado o critério do MENOR PREÇO GLOBAL ANUAL, conforme descrito no Anexo V deste Edital, observados os prazos máximos para fornecimento, as especificações técnicas e os parâmetros mínimos de desempenho definidos no Edital (art. 4º, X da Lei nº 10.520, de 17/07/2002). Se a proposta ou o lance de menor valor não for aceitável ou se a licitante desatender às exigências habilitatórias, o Pregoeiro examinará a proposta subseqüente, verificando a sua aceitabilidade e procedendo à habilitação do proponente, na ordem de classificação, e assim sucessivamente, até a apuração de uma proposta ou lance que atenda ao Edital, sendo a respectiva licitante declarada vencedora e a ela adjudicado o objeto do certame (art. 4º, XVI da Lei nº 10.520, de 17/07/2002 c/c art. 25, § 5º do Decreto nº 5.450/05).
+10
+
+7.2 -
+
+7.3 -
+
+7.4 -
+
+7.5 -
+
+A indicação do lance vencedor, a classificação dos lances apresentados e demais informações relativas à sessão pública do Pregão constarão de ata divulgada no sistema eletrônico, imediatamente após o encerramento da sessão pública (Art. 30, § 3º, do Decreto nº 5.450/05).
+
+8. DA HABILITAÇÃO 8.1 Sendo aceitável a proposta de menor preço global, a respectiva licitante deverá comprovar imediatamente, conforme solicitação do Pregoeiro via sistema/chat, que cumpre todas as exigências de habilitação apresentadas neste Edital, devendo tal comprovação dar-se mediante encaminhamento IMEDIATO da documentação habilitatória através do Fax (21) 3554-8475 ou e-mail (pregoeiro@cvm.gov.br), com o posterior envio dos originais ou cópias autenticadas no prazo de 48 (quarenta e oito) horas (Art. 25, §§ 2º e 3º, do Decreto nº 5.450/05). As licitantes deverão cumprir as seguintes exigências de habilitação: 8.2.1 - Possuir registro cadastral atualizado no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, com habilitação parcial. A regularidade da documentação é verificada automaticamente no sistema. No caso da impossibilidade de consulta ao SICAF, e/ou aos sítios oficiais da Fazenda Nacional, Sistema de Seguridade Social e o Fundo de Garantia do Tempo de Serviço, o Pregoeiro poderá solicitar o envio, através de Fax e/ou e-mail, de documentos que comprovem a regularidade fiscal. 8.2.2 - Apresentação da Proposta de Preços anexada ao Modelo de Apresentação de Proposta, conforme Anexo V. Tal documentação deverá ser enviada através de Fax e/ou e-mail com posterior envio do original ou cópia autenticada no prazo de 48 (quarenta e oito) horas. 8.2.2.1 - Apresentar, em complemento ao subitem 8.2.2 acima, Planilha de Custos e Formação de Preços contendo todos os elementos que compõem e/ou influenciam na elaboração da Proposta de Preços. Os itens integrantes desta Planilha não são critérios de adjudicação do certame. Visam apenas orientar a Administração quanto à formação da Proposta da licitante, servindo de base para possíveis repactuações de valores. Tal documento deverá ser enviado através de fax e/ou e-mail com posterior envio do original no prazo de 48(quarenta e oito) horas. 8.2.3 - Apresentação de declaração de que a licitante cumpre o disposto no art. 7º, inciso XXXIII da Constituição da República Federativa do Brasil, conforme modelo fornecido pela CVM (Art. 13, inciso V, do Decreto
+11
+
+8.2 -
+
+nº 3.555/00 c/c art. 14, inciso VI, do Decreto nº 5.450/05), conforme modelo do Anexo III. Tal declaração deverá ser enviada através de Fax e/ou e-mail com posterior envio do original ou cópia autenticada no prazo de 48 (quarenta e oito) horas. 8.2.4 - Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, em se tratando de sociedades empresárias, e, no caso de sociedade por ações, acompanhado de documentos de eleição de seus administradores. Tal documentação deverá ser enviada através de Fax e/ou e-mail com posterior envio do original ou cópia autenticada no prazo de 48 (quarenta e oito) horas. 8.2.5 - Inscrição do ato constitutivo, no caso de sociedades civis, acompanhada de prova de diretoria em exercício. Tal documentação deverá ser enviada através de Fax e/ou e-mail com posterior envio do original ou cópia autenticada no prazo de 48 (quarenta e oito) horas. 8.2.6 - Apresentar, no mínimo, 1 (um) atestado de capacidade técnica, fornecido por pessoa jurídica de direito público ou privado, comprovando que a licitante executou atividades pertinentes e compatíveis em características, quantidades e prazos com o objeto da licitação (art. 30, II da Lei nº 8.666/93). Cada atestado deverá conter além do nome da atestante, seu endereço e telefone. Cada atestado deverá ser enviado através de Fax e/ou e-mail, com posterior envio dos originais ou cópias autenticadas no prazo de 48 (quarenta e oito) horas; 8.2.6.1 - Consideram-se compatíveis com o objeto licitado as atividades atestadas que comprovem o fornecimento dos serviços descritos no item 1 deste Edital, e seus subitens, em quantidade anual semelhante à estimada para essa contratação e em plataformas de sistemas iguais às da CVM, conforme relacionadas nos subitens a seguir;
+
+8.2.6.2
+
+As plataformas de sistemas da CVM estão detalhadas nos anexos deste edital e acham-se implementadas com emprego das linguagens Delphi 5, Visual Basic 5.0 e 6.0, ASP , VBScript, JavaScript, XML e ASP.NET (C# e VB), apoiadas em gerenciadores de bancos de dados Microsoft SQL Server 2000 e 2005 e Oracle 10g. Além destas plataformas, achamse implantadas algumas soluções de Inteligência de Negócio.
+
+8.2.6.3 - Para os efeitos desta licitação, com vistas a assegurar maior competitividade ao certame, as plataformas de sistemas da CVM consideradas para habilitação dos licitantes são exclusivamente aquelas implementadas nas linguagens de programação Delphi 5, ASP.NET (C# e Visual Basic) e XML, apoiadas em gerenciadores de bancos de dados
+12
+
+Microsoft SQL Server 2000 e 2005 e Oracle 10g, cujos atestados respectivos deverão ser apresentados na forma do caput do item 8.2.6 e do item 8.2.6.7. 8.2.6.4 - As páginas de conteúdo estático que integram os sistemas públicos e da Intranet estão implementadas em HTML, JavaScript, ASP e Macromedia Flash. No caso particular do Portal do Investidor são utilizados recursos como DotNetNuke, MacroMedia Studio 8, Adobe Creative Suite 2 for Windows, Adobe Contribute 4, Adobe DreamWeaver 3.0 e 8.0, Adobe FireWorks 8, Adobe Flash 8 Pro e Editores de Gráficos Dundas e Teechart. 8.2.6.5 - Para os efeitos desta licitação, com vistas a assegurar maior competitividade ao certame, as páginas de conteúdo estático que integram os sistemas públicos e da Intranet, consideradas para habilitação dos licitantes, são exclusivamente aquelas implementadas nas linguagens HTML, JavaScript, ASP e Macromedia Flash, cujos atestados respectivos deverão ser apresentados na forma do caput do item 8.2.6 e do item 8.2.6.7. 8.2.6.6 - Outras tecnologias presentes neste Edital mas não relacionadas nos subitens 8.2.6.1. a 8.2.6.4 têm, no momento, presença minoritária ou acessória no ambiente da CVM. A critério da Autarquia, serviços demandados nestas tecnologias, ou em novas tecnologias que venham a ser implementadas em seu ambiente, deverão ser atendidos pela licitante vencedora, ao preço licitado, devendo esta se capacitar para prestar o atendimento em até 90 (noventa) dias a contar após a assinatura do contrato, para o caso destas tecnologias já em uso e em até 90 (noventa) dias a contar após a notificação formal da CONTRATANTE, para o caso das novas tecnologias. 8.2.6.7 - O licitante poderá apresentar atestados distintos abrangendo subconjuntos da lista de ferramentas e de gerenciadores de bancos de dados descrita no subitem 8.2.6.2, desde que o conjunto dos atestados apresentados coincida com a lista em foco e o total dos serviços prestados e medidos em pontos de função alcance ou supere o montante anual estimado para esta licitação. Esta opção visa dar mais competitividade ao certame, inserindo aqueles que, embora nunca tenham prestado estes serviços em todas as plataformas descritas para um único cliente, tenham esta expertise consignada no conjunto de sua carteira.
+
+13
+
+8.2.6.8 - Todos os atestados parciais apresentados deverão incluir ao menos um dos gerenciadores de bancos de dados listados no subitem 8.2.6.2. 8.2.6.9 - Atestados envolvendo ASP.NET (C# e Visual Basic) e XML deverão incluir as linguagens descritas no subitem 8.2.6.4 nos casos de serviços prestados em sistemas integrados por páginas de conteúdo estático ou dinâmico. 8.2.6.10 Todos os atestados apresentados deverão incluir experiência comprovada em estimativas e medições de serviços em sistemas, utilizando-se da análise de ponto de função. 8.2.6.11 Em todos os atestados apresentados, os atestantes deverão expressar de forma clara que os produtos foram entregues pela licitante de forma satisfatória e executados por mão-deobra qualificada. 8.2.7 - Comprovação da boa situação financeira da licitante, aferida com base nos índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC) maiores que 01 (um), analisada automaticamente pelo SICAF; 8.2.7.1 - A empresa licitante que apresentar resultado igual ou menor que 1 (um), em qualquer dos índices referidos no inciso V, item 7, da IN-MARE nº 05/95, deverão comprovar que possuem capital social registrado ou patrimônio líquido mínimo igual a 10% (dez por cento) do montante da sua Proposta Comercial, de acordo com os parágrafos 2º e 3º, do artigo 31, da Lei nº 8.666/93. 8.2.8 - Declaração de total conhecimento e concordância com os termos deste Pregão. Tal documentação deverá ser enviada através de Fax e/ou email com posterior envio do original ou cópia autenticada no prazo de 48 (quarenta e oito) horas. 8.3 8.4 8.5 Deverá ser apresentado, também, Registro comercial, no caso de empresa individual. Para fins de habilitação, a verificação em sítios oficiais de órgãos e entidades emissores de certidões constitui meio legal de prova. Os documentos exigidos para habilitação devem ser enviados via Fax e/ou email imediatamente após a convocação/solicitação efetuada pelo Pregoeiro através do sistema Comprasnet, via chat, sendo os originais, ou as cópias autenticadas por meio de cartório competente, ou as cópias simples acompanhadas dos originais para autenticação por servidor da CVM, apresentados no prazo de 48(quarenta e oito) horas, sob pena de a licitante ser
+14
+
+considerada desistente, convocando-se a segunda colocada sem prejuízo das sanções estabelecidas. 8.6 Todos os documentos emitidos em língua estrangeira deverão ser entregues acompanhados da tradução para língua portuguesa, efetuada por Tradutor Juramentado, e também devidamente consularizados ou registrados no Cartório de Títulos e Documentos. Documentos de procedência estrangeira, mas emitidos em língua portuguesa, também deverão ser apresentados devidamente consularizados ou registrados no Cartório de Títulos e Documentos. Sob pena de inabilitação, os documentos encaminhados para habilitação deverão estar em nome da licitante, com o número do CNPJ e o respectivo endereço. Se a licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se a licitante for a filial, todos os documentos deverão estar em nome da filial, exceto aqueles documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome da matriz.
+
+8.7 -
+
+8.8 -
+
+8.9 -
+
+8.10 - Em se tratando de microempresa ou empresa de pequeno porte, havendo alguma restrição na comprovação fiscal, será assegurado o prazo de 2 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for declarado vencedor do certame, prorrogáveis por igual período, a critério da Administração, para a regularização da documentação, pagamento ou parcelamento do débito, emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. 8.10.1 - A não-regularização da documentação implicará decadência do direito à adjudicação, sem prejuízo das sanções previstas no art. 7º da Lei 10.520/2002, sendo facultado à Administração convocar as licitantes remanescentes, na ordem de classificação, ou revogar a licitação. 8.11 - Constatado o atendimento das exigências fixadas no Edital, a licitante, será declarada vencedora sendo-lhe adjudicado o objeto do certame (Art. 25, § 9º do Decreto nº 5.450/05). 8.12 - A declaração falsa relativa ao cumprimento dos requisitos de habilitação sujeitará a licitante às sanções previstas na legislação pertinente (Art. 21, § 3º, do Decreto nº 5.450/05).
+
+9. DA IMPUGNAÇÃO DO ATO CONVOCATÓRIO 9.1 Até três dias úteis anteriores à data fixada para abertura do pregão, qualquer pessoa poderá solicitar esclarecimentos, exclusivamente por meio eletrônico, via internet, no endereço pregoeiro@cvm.gov.br (Art. 19 do Decreto nº
+15
+
+5.450/05). O prazo de três dias úteis anteriormente referido não inclui o dia exato da abertura, encerrando-se necessariamente no dia útil anterior. 9.2 Até dois dias úteis anteriores à data fixada para abertura do pregão, qualquer pessoa poderá impugnar o ato convocatório, na forma eletrônica (Art. 18, caput, do Decreto nº 5.450/05). Os pedidos de impugnação deverão ser encaminhados, via internet, para o endereço pregoeiro@cvm.gov.br. O prazo de dois dias úteis anteriormente referido não inclui o dia exato da abertura, encerrando-se necessariamente no dia útil anterior. Caberá ao Pregoeiro decidir sobre a petição no prazo de 24 (vinte e quatro) horas (Art. 18, § 1º do Decreto nº 5.450/05). Acolhida a petição contra o ato convocatório, será definida e publicada nova data para a realização do certame (Art. 18, § 2º do Decreto nº 5.450/05). As respostas às impugnações e aos esclarecimentos solicitados serão disponibilizadas no endereço eletrônico www.comprasnet.gov.br, por meio do link Acesso livre>Pregões>Agendados, para conhecimento da sociedade em geral e dos fornecedores, cabendo aos interessados em participar do certame acessá-lo para a obtenção das informações prestadas.
+
+9.3 9.4 9.5 -
+
+10. DO RECURSO 10.1 - A manifestação de interpor recurso, por item, será feita após a declaração do vencedor, durante a sessão pública, exclusivamente pelo sistema. 10.1.1 - As razões recursais deverão ser apresentadas exclusivamente pelo sistema, no prazo de 03 (três) dias úteis, devendo ser dirigidas ao Superintendente Administrativo-Financeiro da CVM (art. 26, caput, do Decreto nº 5450/05). 10.1.2 - A falta de manifestação imediata da licitante importará a decadência do direito de recurso e a adjudicação do objeto da licitação pelo pregoeiro ao vencedor (Art. 26, § 1º, do Decreto nº 5.450/05). 10.2 - As demais licitantes poderão apresentar contra-razões recursais na mesma forma do subitem 10.1.1 acima, em até 3 (três) dias úteis, contados a partir do término do prazo da recorrente (Art. 26, caput, do Decreto nº 5.450/05). 10.3 - O acolhimento de recurso importará a invalidação apenas dos atos insuscetíveis de aproveitamento (Art. 4º, XIX da Lei nº 10.520, de 17/07/2002, c/c Art. 26, § 2º do Decreto nº 5.450/05). 10.4 - Decididos os recursos e constatada a regularidade dos atos procedimentais, a autoridade competente homologará a adjudicação para determinar a contratação
+16
+
+(Art. 4º, XXI da Lei nº 10.520, de 17/07/2002 c/c Art. 27 do Decreto nº 5.450/05). 10.5 - É assegurada às licitantes vista imediata aos autos do processo do presente Pregão Eletrônico, tendo em vista subsidiar a preparação das razões e contrarazões recursais. 10.6 - Não serão conhecidos os recursos cujas razões/contra-razões recursais sejam enviadas fora do respectivo prazo legal, bem como as encaminhadas por Fax. 10.7 - Os prazos acima referidos acima não incluem o dia exato da abertura, encerrando-se necessariamente no dia útil anterior.
+
+11. DA LIQUIDAÇÃO E PAGAMENTO 11.1 - Os pagamentos referentes aos serviços efetivamente prestados serão efetuados em um prazo máximo de 20 (vinte) dias úteis contados a partir da apresentação das respectivas faturas/notas FISCAIS, mediante depósito na conta-corrente da CONTRATADA, devendo os títulos permanecerem em carteira, não sendo admitidos pela CVM caucionamento ou cobrança bancária, situação em que a CONTRATADA ficará sujeita às sanções, a juízo da CVM, previstas neste Edital. 11.2 - A Nota FISCAL/Fatura acompanhada dos documentos comprobatórios do cumprimento das obrigações decorrentes do contrato, deverá ser encaminhada ao FISCAL do contrato (nome e andar do FISCAL), designado pela CONTRATANTE, nos termos do art. 67 da Lei nº 8.666/93. 11.3 - Caberá ao FISCAL no prazo de 3 (três) dias úteis a partir de seu recebimento, atestar a prestação do serviço verificando o cumprimento pela CONTRATADA de todas as condições pactuadas, inclusive quanto ao preço cobrado. Após, liberará a referida nota FISCAL/fatura para Gerência de Contabilidade e Finanças (GAF) para fins de liquidação da despesa e pagamento. 11.4 - Nenhum pagamento será efetuado à CONTRATADA antes de paga ou compensada a multa que, porventura, lhe houver sido imposta (art. 86, § 3º da Lei nº 8.666/93 c/c art. 9º da Lei nº 10.520, de 17/07/02 e suas alterações posteriores). 11.5 - Havendo erro na Nota FISCAL/fatura ou circunstância que impeça a liquidação da despesa, aquela será devolvida pelo FISCAL à CONTRATADA e o pagamento ficará pendente até que a mesma providencie as medidas saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a reapresentação do documento FISCAL devidamente regularizado, não acarretando qualquer ônus para a CVM.
+17
+
+11.6 - O pagamento estará condicionado à situação do fornecedor no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, nos termos do subitem 8.8 da I.N. MARE Nº 05/95. 11.7 - A CONTRATANTE pagará à CONTRATADA somente os serviços efetivamente concluídos, de acordo com os valores cotados na proposta, que serão fixos e irreajustáveis pelo período de 12 (doze) meses a contar da data da apresentação da proposta ou do orçamento a que se referir. 11.8 - Caberá à CONTRATADA apresentar as Notas Fiscais e Faturas de Pagamento, juntamente com os Relatórios de Prestação de Contas, no último dia útil de cada mês, no estabelecimento da CONTRATANTE abaixo identificado, o qual se responsabilizará pelo recebimento e liberação para pagamento: Comissão de Valores Mobiliários
+CNPJ: 29.507.878/0001-08 End.: Rua Sete de Setembro, 111/2º andar ­ Setor Protocolo CEP: 20050-901 ­ Rio de Janeiro, RJ
+
+11.9 - Nos casos de eventuais atrasos de pagamento, desde que a CONTRATADA não tenha concorrido de alguma forma para tanto, fica convencionado que os encargos moratórios devidos pelo CONTRATANTE, entre a data acima referida e a correspondente ao efetivo pagamento da nota FISCAL/fatura, a serem incluídos em fatura própria, são calculados por meio da aplicação da seguinte formula: EM=I x N x VP, onde: EM = Encargos Moratórios; N= Número de dias entre a data prevista para o pagamento e a do efetivo pagamento; VP = Valor da parcela em atraso; I = Índice de compensação financeira = 0,00016438, assim apurado: I = __i__ 365 I= 6/100 365 I= 0,00016438
+
+11.10 - Não serão considerados os atrasos no pagamento pela CVM decorrentes de caso fortuito ou força maior, nos casos caracterizados como fato do príncipe (ação superior do Estado, unilateral e imprevista, que impossibilita o cumprimento, ao menos temporário, de um ou de todos os deveres contratuais).
+
+18
+
+12. DA DESTINAÇÃO ORÇAMENTÁRIA 12.1 - As despesas correrão à conta da Natureza de Despesa xxxxxx - Programa de Trabalho xx.xxx.xxxx.xxxx.xxxx.
+
+13. DA REPACTUAÇÃO DE PREÇOS 13.1 - Será admitida a repactuação do preço pactuado, desde que seja observado o interregno mínimo de 01(um) ano, a contar da data da proposta ou da data do orçamento a que a proposta se referir. 13.2 - Nas repactuações subseqüentes à primeira, a anualidade será contada a partir da data da última repactuação. 13.3 - As repactuações serão precedidas de solicitação da Contratada, acompanhada de demonstração analítica da alteração dos custos, por meio de apresentação da planilha de custos e formação de preços e do novo acordo ou convenção coletiva que fundamenta a repactuação, se for o caso. 13.4 - É vedada a inclusão, por ocasião da repactuação, de benefícios não previstos na proposta inicial, exceto quando se tornarem obrigatórios por força de instrumento legal, sentença normativa, acordo coletivo ou convenção coletiva. 13.5 - A repactuação somente será concedida mediante negociação entre as partes, considerando que preços contratados deverão ser compatíveis com aqueles praticados no mercado, de forma a garantir a continuidade da contratação mais vantajosa. 13.6 ­ A CONTRATANTE poderá realizar diligências para conferir a variação de custos alegada pela CONTRATADA. 13.7 - Os novos valores contratuais decorrentes das repactuações terão sua vigência iniciada a partir da assinatura do termo aditivo, ressalvada a hipótese de envolver exclusivamente revisão do custo de mão-de-obra e esta estiver vinculada a instrumento legal, acordo, convenção ou sentença normativa que contemple data de vigência retroativa, cujo pagamento deverá ser concedido somente para os itens que motivaram a retroatividade, e apenas em relação à diferença porventura existente.
+
+14. DO CONTRATO 14.1 - O período de vigência do contrato será de 12 (doze) meses, contados da data de sua assinatura, podendo ser prorrogado, mediante termo aditivo e emissão de
+19
+
+nota de empenho, por iguais e sucessivos períodos até o limite de 60 (sessenta) meses, com fundamento no artigo 57, inciso II, da lei nº 8.666/93. 14.2 - Independente de transcrição fará parte do Contrato a ser celebrado: a ) A proposta da licitante vencedora e seus respectivos anexos; b ) O presente Edital e seus anexos; c ) A Nota de Empenho correspondente. 14.3 - A licitante vencedora deverá assinar o contrato em 03 (três) dias úteis, a contar da data do recebimento do respectivo aviso. Este prazo poderá ser prorrogado uma vez, por igual período, quando solicitado pela parte durante o seu transcurso, desde que ocorra motivo justificado aceito pela CVM (Art. 64, caput e § 1º da Lei nº 8.666/93 c/c art. 9º da Lei nº 10.520, de 17/07/2002), ressalvado o disposto na cláusula 14.6. 14.4 - Decorridos 60 (sessenta) dias da abertura das propostas, sem convocação para a retirada da respectiva nota de empenho, ficam as licitantes liberadas dos compromissos assumidos (Art. 64, § 3º da Lei nº 8.666/93 c/c art. 9º da Lei nº 10.520, de 17/07/2002). 14.5 - Quando a licitante vencedora não apresentar situação regular, no ato da assinatura do contrato, será convocada outra licitante, observada a ordem de classificação, para celebrar o contrato, e assim sucessivamente, sem prejuízo da aplicação das sanções cabíveis, observada a possibilidade de negociação (art. 27, § 3º do Decreto nº 5450/05). 14.5.1 - A assinatura do contrato está condicionada à verificação da regularidade da habilitação parcial da licitante vencedora junto ao SICAF; 14.6 - A assinatura do Contrato estará condicionada, também, à apresentação, pela licitante vencedora, em até 30(trinta) dias após a adjudicação, de Certificação CMMI nível 2 ou superior, ou MPS.Br nível F ou superior, ou SPICE (ISO/IEC 15504) nível 2 ou superior, vigente na data da assinatura do Contrato e emitida com validade em todo o território nacional por entidade credenciada pela instituição mantenedora da certificação apresentada. Observação: Tal exigência visa garantir a conformidade, a qualidade e a continuidade na prestação dos serviços ora licitados e preservar o atual nível de maturidade atingido pela CVM nos seus processos de desenvolvimento e manutenção de sistemas, maturidade esta coerente e suficiente para a Autarquia contratar e fiscalizar serviços na qualidade e nível exigidos. Juntamente com os atestados exigidos na fase habilitatória, a apresentação da
+20
+
+Certificação em questão busca assegurar que o contrato seja celebrado com prestador de serviços de qualidade publicamente reconhecida, em condições de atender às mínimas necessidades da Contratante no tocante a sistemas de informação, sem prejuízo do caráter competitivo do certame, em atendimento ao princípio da padronização, de forma a manter a compatibilidade das especificações técnicas e de desempenho atualmente em uso na CVM, conforme previsto no Artigo 15 da Lei de Licitações.
+
+15. DA FISCALIZAÇÃO 15.1 - A fiscalização do cumprimento das obrigações contratuais será exercida pelo titular da Gerência de Sistemas da CVM (GSI), denominado doravante FISCAL, devidamente credenciado pela Superintendência AdministrativoFinanceira da CVM (SAD), ao qual competirá acompanhar, fiscalizar, conferir e avaliar a execução/fornecimento, bem como dirimir e desembaraçar quaisquer dúvidas e pendências que surgirem, determinando medidas necessárias à regularização das faltas, falhas, problemas ou defeitos observados no curso do Contrato, e de tudo dará ciência diretamente à Contratada, conforme art. 67, parágrafos da Lei nº 8.666/93, e suas alterações. Para o caso de impedimento do servidor indicado para a função de Fiscal, será designado pela Superintendência Administrativo-Financeira (SAD) um novo servidor como Fiscal Substituto. 15.2 - As faltas cometidas pela Contratada deverão ser devidamente registradas no Processo pelo FISCAL do Contrato, que providenciará o envio de notificação à Contratada informando sobre a abertura de prazo de defesa para a prestação dos esclarecimentos necessários. O Fiscal deverá, ainda, propor ao Ordenador de Despesas a aplicação das sanções que entender cabíveis para a regularização das faltas cometidas, nos termos do art. 67, parágrafo 2º e do artigo 87 da Lei nº 8.666/93. 15.3 - Caberá à Contratada o pronto atendimento às exigências inerentes ao objeto contratado, feitas pelo FISCAL ou por seu substituto. 15.4 - A CONTRATADA é responsável pelos danos causados diretamente à Administração ou a terceiros, decorrentes de sua culpa ou dolo na execução do contrato, não excluindo ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento por parte da CVM (art. 70 da Lei nº 8.666/93). 15.5 - A CVM se reserva o direito de rejeitar, no todo ou em parte, o fornecimento efetuado em desacordo com a Proposta apresentada. 15.6 - O Fiscal do contrato pode sustar qualquer trabalho que esteja sendo executado em desacordo com o especificado, sempre que essa medida se tornar necessária.
+
+21
+
+15.7 - Os serviços prestados serão avaliados e homologados, até o 5º dia útil do mês subseqüente ao de sua prestação, juntamente com a análise do relatório gerencial mensal. 15.8 - A homologação do(s) serviço(s) executado(s) cabe ao usuário demandante dos serviços, solidariamente ao titular do setor responsável pela Fiscalização do contrato ou a outro servidor designado para esse fim. 15.9 - A CONTRATADA deverá manter preposto, aceito pela Administração da CONTRATANTE, durante o período de vigência deste contrato, para representála sempre que for necessário. 16 . DA GARANTIA DA EXECUÇÃO DO CONTRATO 16.1 - A CONTRATADA deverá apresentar à Administração da CONTRATANTE, no prazo máximo de 10 (dez) dias úteis, contados da data da assinatura do contrato, comprovante de prestação de garantia correspondente ao percentual de 5% (cinco por cento) do valor atualizado do contrato, cabendo-lhe optar dentre as modalidades previstas na legislação em vigor. 16.2 - A garantia em dinheiro deverá ser efetuada em caderneta de poupança no Banco do Brasil, em favor da CVM.
+
+17. DAS PENALIDADES 17.1 - Na hipótese da licitante vencedora desistir expressamente desta licitação, ou não assinar o Contrato no prazo previsto neste Edital, estará sujeita à multa de 20% (vinte por cento) sobre o valor da sua proposta (art. 64 da Lei nº 8.666/93). 17.2 - Pela inexecução total ou parcial dos serviços previstos no contrato, pela execução desses serviços em desacordo com o estabelecido no contrato, ou pelo descumprimento das obrigações contratuais, a CONTRATANTE poderá, garantida a prévia defesa e observada a gravidade da ocorrência, aplicar à CONTRATADA as seguintes sanções: a) advertência; b) multa de até 20% (vinte por cento do valor do Contrato), conforme a seguir: b.1) multa a ser calculada sobre o valor total do contrato, em conformidade com as tabelas de gradação abaixo (Tabelas A e B), recolhida no prazo de 15 (quinze) dias, contados da comunicação oficial, garantida a ampla defesa e o contraditório;
+22
+
+b.2) multa de 1% (hum por cento) sobre o valor do serviço demandado para cada dia de atraso no início da execução dos serviços dentro do prazo previsto; b.3) multa de 2% (dois por cento) sobre o valor do serviço demandado para cada dia de descumprimento da data aprazada para entrega do serviço; b.4) multa de 5% (cinco por cento) sobre o valor do serviço demandado para cada dia de descumprimento da data aprazada para entrega de serviço, após reincidência formalmente notificada pelo órgão Fiscalizador;
+
+Tabela A - Multas por grau de infração
+
+Grau 01 02 03 04 05
+
+Correspondência 0,2% sobre o valor do contrato 0,4% sobre o valor do contrato 0,8% sobre o valor do contrato 1,6% sobre o valor do contrato 3,2% sobre o valor do contrato
+
+Tabela B ­ Infrações
+
+Item 01 02 03 04 05 06 07 08 09
+
+Descrição da infração Suspender ou interromper, salvo motivo de força maior ou caso fortuito, os serviços contratados, por dia Recusar-se a executar serviço determinado pela CONTRATANTE, por serviço, por dia Indicador/Meta de nível de serviço não atingida, por tipo, por período de apuração Indicador/Meta de nível de serviço não atingida, por tipo, por período de apuração (reincidência) Tentativa de fraude, manipulação ou descaracterização em Indicador/Meta de nível de serviço, por ocorrência, por tipo, por período de apuração Inexecução parcial de serviço demandado, por serviço Inexecução total do serviço demandado, por serviço Para os itens seguintes, deixar de: Zelar pelas máquinas, equipamentos e instalações utilizados da CONTRATANTE, por ocorrência, por dia Cumprir determinação formal ou instrução do Fiscalizador, por ocorrência, por dia
+
+Grau 04 02 01 02 03 04 05 02 02 23
+
+10 11
+
+12 13
+
+14 15
+
+Substituir empregado que se conduza de modo inconveniente ou não atenda às necessidades de prestação de serviço, por empregado, por dia Efetuar os devidos pagamentos, seguros, encargos fiscais, sociais e trabalhistas, bem como arcar com quaisquer despesas diretas e/ou indiretas relacionadas à execução do contrato, por ocorrência, por dia Cumprir quaisquer das OBRIGAÇÕES DA CONTRATADA não previstas nesta tabela, por ocorrência Cumprir quaisquer das OBRIGAÇÕES DA CONTRATADA não previstas nesta tabela, após reincidência formalmente notificada pelo órgão Fiscalizador, por ocorrência Cumprir quaisquer dos itens do Edital e de seus anexos não previstos nesta tabela, por ocorrência Cumprir quaisquer dos itens do Edital e de seus anexos não previstos nesta tabela, após reincidência formalmente notificada pelo órgão Fiscalizador, por ocorrência
+
+01 05
+
+04 05
+
+01 02
+
+c) suspensão temporária de participação em licitação e impedimento de contratar com a Administração, pelo prazo de até 02 (dois) anos. 17.3 - As sanções previstas nas alíneas "a" e "c" deste item poderão ser aplicadas juntamente com a da alínea "b", facultada a defesa prévia do interessado, no respectivo processo, no prazo de 5 (cinco) dias úteis. 17.4 O não cumprimento dos prazos estabelecidos no contrato acarretará à Contratada, independentemente das sanções previstas no item 17.2, multa diária de 0,5%(meio por cento) do valor do contrato (art. 86 da Lei nº 8.666/93).
+
+17.5 - A aplicação da multa acima, a qual ocorrerá após regular processo administrativo, não impede que a CVM rescinda unilateralmente o Contrato e aplique outras sanções regulamentares (art. 86, §1º da Lei nº 8.666/93). 17.6 - Em caso de inadimplência quanto ao pagamento das multas que lhe forem aplicadas pela CVM, a CONTRATADA/ADJUDICATÁRIA fica desde já ciente que estará sujeita à sua inclusão no Cadastro Informativo dos créditos não quitados do setor público federal (CADIN), consoante legislação específica sobre a matéria, sendo executada segundo a Lei nº 6.830/80. 17.7 - A licitante que ensejar o retardamento da execução do certame, não mantiver a proposta, não celebrar o contrato, deixar de entregar ou apresentar declaração falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportarse de modo inidôneo ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União, Estados, Distrito Federal e Municípios e, será descredenciada no SICAF, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do artigo 4º da Lei nº 10.520/02, pelo prazo de 5 (cinco) anos, sem prejuízo das multas previstas no edital e no contrato e das demais cominações legais.
+24
+
+17.8 - A suspensão temporária do direito de contratar com a Administração é aplicável no caso de inexecução total do contrato, por culpa exclusiva da CONTRATADA. A declaração de inidoneidade para licitar ou contratar com a Administração Pública é aplicável no caso de fraude na execução do contrato. 17.9 - As sanções de multa podem ser aplicadas à CONTRATADA juntamente com a de advertência, suspensão temporária para licitar e contratar com a Administração da CONTRATANTE, impedimento de licitar e contratar com a União, Estados, Distrito Federal e Municípios e declaração de inidoneidade para licitar e contratar com a Administração Pública, descontando-a do pagamento a ser efetuado.
+
+18. DA RESCISÃO 18.1 - A inexecução parcial ou total do Contrato enseja a sua rescisão, conforme disposto nos artigos 77 a 80 da Lei nº 8.666/93. 18.2 - A rescisão do Contrato poderá ser: I. determinada por ato unilateral e escrito da CVM, nos casos enumerados nos incisos I a XII, XVII e XVIII do art. 78 da Lei nº 8.666/93; II. amigável, por acordo entre as partes, reduzida a termo no processo, desde que haja conveniência para a CVM; ou III. judicial, nos termos da legislação vigente sobre a matéria. 18.3 - Os casos de rescisão contratual serão formalmente motivados nos autos do processo, assegurado o contraditório e a ampla defesa (art. 78, § único da Lei nº 8.666/93).
+
+19. DO DIREITO DE PETIÇÃO 19.1 - Dos atos da Administração cabem: I. Recurso, no prazo de 5 (cinco) dias úteis a contar da intimação do ato, nos casos de: a. Anulação ou revogação da licitação; b. Rescisão do Contrato, a que se refere o inciso I do art. 79 da Lei nº 8.666/93. c. Aplicação das penas de advertência, suspensão temporária ou de multa;
+
+25
+
+II. Representação, no prazo de 5 (cinco) dias úteis da intimação da decisão relacionada com o objeto da licitação ou do Contrato, de que não caiba recurso hierárquico. 19.2 - A intimação dos atos referidos no inciso I, alíneas "a" e "b acima, excluídos os relativos à advertência e multa, será feita mediante publicação no Diário Oficial da União (art. 109, § 1º da Lei nº 8.666/93 c/c art. 9º Lei 10.520, de 17/07/02). 19.3 - A autoridade competente, motivadamente e presentes razões de interesse público, poderá atribuir ao recurso interposto eficácia suspensiva (art. 109, §2º da Lei nº 8.666/93 c/c art. 9º da Lei 10.520, de 17/07/02). 19.4 - Os recursos deverão ser entregues contra recibo na Gerência de Compras e de Serviços Gerais da CVM (GAG), localizada na Rua Sete de Setembro nº 111, 28º andar, Centro ­ Rio de Janeiro ­ RJ, devendo ser dirigidos à autoridade superior, por intermédio da autoridade que praticou o ato recorrido e, sob pena de preclusão, interpostos no prazo de 05 (cinco) dias úteis contados da intimação do ato (art. 109, inciso I, alínea "b" da Lei nº 8.666/93 c/c art. 9º da Lei 10.520, de 17/07/02). 19.5 - Interposto o recurso, a autoridade que praticou o ato recorrido poderá reconsiderar sua decisão no prazo de 5 (cinco) dias úteis ou, nesse mesmo prazo, encaminhá-lo à autoridade superior, devidamente informada, devendo neste caso a decisão ser proferida dentro do prazo de 5 (cinco) dias úteis contados do recebimento do recurso, sob pena de responsabilidade (art.109, § 4º da Lei nº 8.666/93 c/c art. 9º da Lei 10.520, de 17/07/02). 19.6 - Interposto o recurso por uma das licitantes, o fato será comunicado às demais que poderão impugná-lo no prazo de 5 (cinco) dias úteis a contar da data da ciência (art. 109,§ 3º da Lei nº 8.666/93 c/c art. 9º da Lei 10.520, de 17/07/02).
+
+20. DAS DISPOSIÇÕES FINAIS 20.1 - A relação entre a CONTRATADA e a CVM restringe-se ao alcance do objeto contratual, não implicando qualquer relação de subordinação hierárquica. 20.2 - A CVM poderá, a seu critério exclusivo, de acordo com o artigo 65, parágrafo 1º, da Lei nº 8.666/93, reduzir ou aumentar a quantidade do objeto, bem como modificar a qualidade do objeto licitado desde que não ultrapasse a 25% (vinte cinco por cento) do valor inicial atualizado do contrato. 20.3 - O Superintendente Administrativo-Financeiro da CVM poderá revogar a licitação por razões de interesse público decorrente de fato superveniente devidamente comprovado, pertinente e suficiente para justificar tal conduta, mediante parecer por escrito e devidamente fundamentado (art. 29 do Decreto nº 5450/05).
+26
+
+20.4 - Caso constatada ilegalidade no procedimento, o Superintendente Administrativo-Financeiro da CVM deverá anular a licitação, de ofício ou por provocação de terceiros, mediante parecer por escrito e devidamente fundamentado, sem que caiba às licitantes o direito a qualquer reclamação ou indenização, ressalvado o direito do contratado de boa-fé de ser ressarcido pelos encargos que tiver suportado no cumprimento do contrato (art. 29 § 2º do Decreto nº 5.450/05). 20.5 - No caso de desfazimento do processo licitatório, fica assegurado o contraditório e a ampla defesa (art. 49,§ 3º da Lei nº 8.666/93 c/c art. 9º da Lei 10.520, de 17/07/02). 20.6 - O pregoeiro poderá desclassificar proponentes por ato fundamentado, sem direito à indenização ou ressarcimento, sem prejuízo de outras sanções cabíveis, em razão de fatos supervenientes ou só conhecidos após o julgamento e que desabonem a sua idoneidade financeira, capacidade técnica ou administrativa (art. 43, § 5º da Lei nº 8.666/93 c/c art. 9º da Lei 10.520, de 17/07/02). 20.7 - É facultado ao pregoeiro, em qualquer fase da licitação, promover diligências destinadas a esclarecer ou completar a instrução do processo licitatório (art. 43,§ 3º da Lei nº 8.666/93 c/c art. 9º da Lei 10.520, de 17/07/02). 20.8 - Na apresentação das propostas, simples omissão ou irregularidades irrelevantes, sanáveis ou desprezíveis, poderão ser relevadas a exclusivo critério do Pregoeiro, desde que não causem prejuízos à Administração. 20.9 - A apresentação da proposta implica, tacitamente, inteira submissão às condições estabelecidas na legislação pertinente, aos termos deste Edital, bem como aos regulamentos administrativos e normas gerais e especiais aplicáveis. 20.10 - Na contagem dos prazos estabelecidos nesta licitação, excluir-se-á o dia do início e incluir-se-á o do vencimento (art. 110 da Lei nº 8.666/93 c/c art. 9º da Lei 10.520, de 17/07/02). 20.11 - Havendo indícios de conluio entre as licitantes, a CVM comunicará os fatos apurados à Secretaria Nacional de Direito Econômico do Ministério da Justiça (ou a quem de direito) para a adoção das medidas cabíveis. 20.12 - Para dirimir as questões decorrentes do Contrato resultante desta licitação, será eleito o Foro Federal da cidade do Rio de Janeiro, com exclusão de qualquer outro, por mais privilegiado que seja (art. 55, § 2º da Lei nº 8.666/93). 20.13 - Os casos omissos serão resolvidos pelo Pregoeiro, nos termos da legislação pertinente, e em conformidade com as demais normas que regem a matéria. 20.14 - Fica assegurado à CVM o direito de no interesse da Administração, anular ou revogar, a qualquer tempo, no todo ou em parte, a presente licitação, dando ciência aos participantes, na forma da legislação vigente.
+27
+
+20.15 - O Pregoeiro e sua Equipe de Apoio, no interesse público, poderão relevar omissões puramente formais, desde que não reste infringido o princípio da vinculação ao instrumento convocatório. 20.16 - Os proponentes são responsáveis pela fidelidade e legitimidade das informações e dos documentos apresentados em qualquer fase da licitação. 20.17 - A licitação não implica proposta de contrato por parte da CVM. Até a entrega da Nota de Empenho, poderá a licitante vencedora ser excluída da licitação, sem direito a indenização ou ressarcimento, e sem prejuízo de outras sanções cabíveis, se a CVM tiver conhecimento de qualquer fato ou circunstância superveniente, anterior ou posterior ao julgamento desta licitação, que desabone sua idoneidade ou capacidade financeira, técnica ou administrativa. 20.18 - Os proponentes assumem todos os custos de preparação e apresentação de suas propostas e a CVM não será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do processo licitatório. 20.19 - O desatendimento de exigências formais não essenciais não importará no afastamento do licitante, desde que sejam possíveis a aferição da sua qualificação e a exata compreensão da sua proposta, durante a realização da sessão pública de pregão. 20.20 - Fica previamente estabelecida a possibilidade de subcontratação de quaisquer prestações/parcelas dos serviços objeto do Contrato resultante deste Pregão, condicionada, obrigatoriamente, ao consentimento prévio, por escrito, da Contratante."
+
+Rio de Janeiro, 09 de dezembro de 2009.
+
+ANDRICIA BEVACE Gerente de Compras e de Serviços Gerais
+
+28
+
+ANEXO I TERMO DE REFERÊNCIA
+1. OBJETO Contratação de serviços em Tecnologia da Informação, complementares às atividades da CVM, para: 1.1 sustentação do ambiente de sistemas de informação, envolvendo manutenção corretiva e evolutiva em seus sistemas corporativos e públicos, bem como alterações e inserções nas páginas de conteúdo estático e/ou dinâmico que integram os sistemas públicos. Compreende os serviços de gerência de projetos, levantamento de requisitos, análise, codificação, testes, homologação e documentação de sistemas e serviços, de acordo com as condições constantes do Termo de Referência (Anexo I) e das Especificações Técnicas (Anexo II). 1.2 desenvolvimento de novos sistemas de informação, compreendendo os serviços de gerência de projetos, levantamento de requisitos, análise, codificação, testes, homologação e documentação de sistemas e serviços, com ou sem emprego de páginas de conteúdo estático e/ou dinâmico, de acordo com as condições constantes do Termo de Referência (Anexo I) e das Especificações Técnicas (Anexo II). 1.3 transferência de tecnologia e conhecimento aos servidores e colaboradores da CONTRATANTE, bem como a transferência de produtos de software ao Centro de Dados da CVM para entrada em produção.
+
+2. OBRIGAÇÕES DA CONTRATANTE Caberá à CVM, como CONTRATANTE: a) proporcionar todas as condições para que a CONTRATADA possa cumprir suas obrigações dentro das normas deste Contrato. b) efetuar o pagamento devido pela execução dos serviços, desde que cumpridas todas as formalidades e exigências do contrato; c) permitir acesso dos profissionais da CONTRATADA às suas dependências, equipamentos, softwares e sistemas de informação para a execução dos serviços; d) prestar as informações e os esclarecimentos pertinentes que venham a ser solicitados pelos profissionais da CONTRATADA ou por seu preposto; e) exercer a fiscalização, homologação (aceitação) e/ou rejeição dos serviços prestados, por meio de servidores designados;
+
+29
+
+f) comunicar oficialmente à CONTRATADA quaisquer falhas verificadas no cumprimento do contrato; g) avaliar relatório dos serviços executados pela CONTRATADA, observando os indicadores e metas de nível de serviço alcançados; h) avaliar o cumprimento de todas as exigências contidas neste Termo de Referência e no Anexo II - Especificações técnicas, informando e exigindo da CONTRATADA a pronta correção das desconformidades eventualmente encontradas; i) decidir sobre eventuais conflitos de qualquer natureza que venham a surgir entre a CONTRATADA e outros prestadores de serviços de informática que atuem em seu ambiente, inclusive com ajuda externa se assim julgar necessário, com vistas à preservação da continuidade dos serviços e do interesse público.
+
+3. OBRIGAÇÕES DA CONTRATADA Caberá à empresa CONTRATADA o cumprimento das seguintes obrigações, além daquelas previstas nas especificações técnicas: a) Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas (sem quaisquer ônus para a CVM), no total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou de materiais empregados (art.69 da Lei nº 8.666/93); b) guardar sigilo sobre dados e informações obtidos em razão da execução dos serviços contratados ou da relação contratual mantida com a CONTRATANTE; c) solicitar os esclarecimentos necessários para o regular cumprimento dos termos contratuais à Gerência de Compras e de Serviços Gerais da CVM (GAG); d) manter, em compatibilidade com as obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas na licitação. Assim, sempre que expirar a validade, e durante a vigência do Contrato, a CONTRATADA ficará obrigada a renovar todos os documentos relativos à regularidade no SICAF - Sistema de Cadastramento Unificado de Fornecedores (art. 55, inciso XIII da Lei nº 8.666/93). e) realizar os serviços para os quais foi CONTRATADA dentro dos parâmetros e rotinas estabelecidos, em observância às recomendações aceitas pela boa técnica, normas e legislação; f) providenciar por conta própria, o transporte e treinamento de seu pessoal; g) substituir, quando necessário, o(s) profissional(is) alocados à prestação dos serviços. h) implantar, de forma adequada, a supervisão permanente dos serviços, de forma a obter uma operação correta e eficaz;
+30
+
+i) instruir ao seu preposto quanto à necessidade de acatar as orientações da Administração, inclusive quanto ao cumprimento das Normas Internas e de Segurança e Medicina do Trabalho; j) responder pelos danos causados diretamente à CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços, não excluindo ou reduzindo essa responsabilidade a Fiscalização ou acompanhamento pela CVM; k) arcar com as despesas decorrentes de qualquer infração, seja qual for, desde que praticada por seus funcionários durante a execução dos serviços, ainda que no recinto da CVM; l) assumir, também, a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando, em ocorrência da espécie, forem vítimas os seus empregados na execução dos serviços ou em conexão com eles, ainda que ocorridos nas dependências da CVM; m) indicar representante pertencente aos quadros da CONTRATADA para manter contato com a CVM para o esclarecimento de dúvidas, fornecendo nome e telefone de contato; n) participar, dentro do período compreendido entre a assinatura do contrato e o início da prestação dos serviços, de reuniões de alinhamento de expectativas contratuais com equipe de técnicos e gestores da CONTRATANTE. o) recrutar, selecionar e contratar os profissionais necessários à realização dos serviços; p) formalizar a indicação de preposto da empresa e substituto eventual para a coordenação dos serviços e gestão administrativa do contrato; q) comunicar previamente à CONTRATANTE os nomes, números de identidade e CPF dos empregados que serão alocados na execução dos serviços, indicando as respectivas tarefas a serem desenvolvidas; r) manter os seus profissionais devidamente identificados por meio de crachá quando em trabalho nas dependências da CONTRATANTE; s) alocar pessoal tecnicamente qualificado e capacitado na execução dos serviços demandados pela CONTRATANTE, garantindo o cumprimento dos prazos fixados e a qualidade dos serviços fornecidos; t) prover treinamento e atualização profissional do pessoal alocado no fornecimento dos serviços contratados, considerando as necessidades identificadas, inclusive pela CONTRATANTE; u) zelar para que todos os privilégios de acesso a sistema, informação e qualquer outro recurso da CONTRATANTE sejam utilizados exclusivamente na execução dos serviços e pelo tempo estritamente essencial à realização dos mesmos;
+
+31
+
+v) administrar todo e qualquer assunto relativo aos profissionais alocados à execução dos serviços; w) assumir todas as responsabilidades e tomar as medidas necessárias ao atendimento dos profissionais acidentados ou acometidos de mal súbito; x) assumir a responsabilidade por todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, cumprindo as obrigações decorrentes nas épocas próprias, vez que os seus profissionais não manterão nenhum vínculo empregatício com a CONTRATANTE; y) assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes de trabalho, quando, em ocorrência da espécie, forem vítimas os seus profissionais durante a execução deste contrato, ainda que acontecido em dependência da CONTRATANTE; z) responder por todos os danos patrimoniais e de quaisquer natureza causados por ação ou omissão de seus profissionais, relacionada à execução dos serviços; aa) disponibilizar, às suas expensas e no prazo máximo de 90 (noventa) dias a contar da data de assinatura do contrato, licenças de uso do sistema informatizado de gestão de demandas em sistemas de informação (Sistema de Gestão de Demandas), em número estipulado pela CONTRATANTE, nunca inferior a 20 (vinte) licenças, que seja suficiente para permitir a abertura de demandas pelos colaboradores da CONTRATANTE envolvidos nos processos e rotinas de trabalho da mesma, além de permitir consulta às demandas por todos os colaboradores da CONTRATANTE e cobrindo pelo menos 70% das demais funcionalidades descritas no Anexo II ­ Especificações Técnicas; bb) providenciar, às suas expensas, treinamento dos colaboradores da CONTRATANTE e capacitação dos profissionais da CONTRATADA no uso e administração do Sistema de Gestão de Demandas disponibilizado, bem como a infraestrutura necessária para o referido treinamento; cc) transferir, sob supervisão da CVM, os produtos de software homologados e aprovados pela CVM e sua documentação ao Centro de Dados da CVM visando sua entrada em produção, atuando sob a orientação da empresa gestora do Centro de dados, inclusive no que disser respeito a eventual migração de dados; dd) efetuar a customização inicial e contínua do Sistema de Gestão de Demandas; ee) fornecer à CONTRATANTE, em meio magnético, sempre que solicitado, todas as informações relacionadas à prestação dos serviços; ff) fornecer à CONTRATANTE, por quaisquer meios, sempre que solicitado, todas as informações relacionadas à tecnologia e à expertise aplicadas nos serviços prestados;
+
+32
+
+gg) acompanhar as evoluções tecnológicas havidas no parque informático da CONTRATANTE, procedendo as adaptações e migrações de dados necessárias no Sistema de Gestão de Demandas, às suas expensas, de modo a obter os melhores resultados que as inovações ofereçam; hh) manter ou evoluir todas as condições de habilitação, qualificação e certificação exigidas na licitação; ii) planejar, desenvolver, implantar, executar e manter os serviços objeto do contrato de acordo com a metodologia praticada pela CONTRATANTE e com os níveis de serviço estabelecidos nas especificações funcionais e técnicas que compõem este Edital e o Contrato correspondente; jj) encaminhar à unidade Fiscalizadora todas as faturas dos serviços prestados; kk) assumir a responsabilidade pelos encargos fiscais e comerciais resultantes da contratação; ll) reportar à CONTRATANTE imediatamente qualquer anormalidade, erro ou irregularidade que possa comprometer a execução dos serviços e o bom andamento das atividades da CONTRATANTE; mm) elaborar e apresentar à CONTRATANTE, mensalmente, relatório gerencial dos serviços executados, em comparação com os que foram acordados, contendo detalhamento dos níveis de serviços executados versus acordados e demais informações necessárias ao acompanhamento e avaliação da execução dos serviços; nn) obedecer rigorosamente todas as normas e procedimentos de segurança, bem como de uso de recursos de informática, implementados no ambiente de TI da CONTRATANTE; oo) alocar substituto no prazo máximo de 5 dias úteis, a profissional afastado da execução de serviços prestados nas dependências da CONTRATANTE, tão logo esta circunstância chegue ao conhecimento da CONTRATADA, notificando prontamente a CONTRATANTE; pp) disponibilizar à CONTRATANTE o acesso ao Sistema de Gestão de Demandas utilizado para realização e documentação das atividades relacionadas à execução dos serviços, bem como aos produtos de software, documentos e demais artefatos ali armazenados; qq) disponibilizar documentos, modelos, programas fonte, diagramas e artefatos correlatos em formatos reconhecidos pelos aplicativos disponíveis no ambiente da CONTRATANTE; na impossibilidade de fazê-lo, disponibilizar aplicativos visualizadores apropriados a cada caso, com facilidades de cópia de trechos selecionados para a área de transferência, devidamente decriptados, para facilitar processos de validação.
+
+33
+
+rr) aplicar as práticas correspondentes à certificação apresentada na assinatura do contrato, ou à evolução desta certificação eventualmente consignada em seus aditivos, no trato profissional com a CONTRATANTE. ss) atender às solicitações de serviços da CVM, de acordo com as especificações técnicas, procedimentos de controles administrativos, cronogramas físicos e prazos que venham a ser estabelecidos nas "OS ­ Ordens de Serviço" ou em outros instrumentos adequados. tt) manter os sistemas de controle atualizados permanentemente. uu) adotar as providências necessárias que viabilizem a realização dos serviços objeto deste Contrato. vv) executar os serviços descritos neste Termo de Referência e nas Especificações Técnicas que o complementam seguindo os procedimentos estabelecidos entre as partes, respeitando a priorização acordada e a seqüência lógica das funções, atendendo com presteza e qualidade às demandas apresentadas. ww) atender aos pedidos de informações formalizados pela CONTRATANTE, por pessoas ou entidades por ela credenciadas, relacionados com a execução dos serviços contratados. xx) manter atualizada a documentação dos serviços constantes deste Termo de Referência e das Especificações Técnicas que o complementam, disponibilizando-a à CONTRATANTE, seguindo os padrões estabelecidos entre as partes, em virtude da especificidade de cada serviço. yy) elaborar documentação CONTRATANTE. dos sistemas legados conforme demanda da
+
+zz) cumprir todas as orientações da CONTRATANTE, para o fiel desempenho das atividades específicas. aaa) prestar todos os esclarecimentos solicitados pela CONTRATANTE, de forma clara, concisa e lógica, cujas reclamações se obriga prontamente a atender. bbb) cumprir o disposto no Inciso XXXIII, do artigo 7º da Constituição Federal/1988. ccc) cumprir as decisões da CONTRATANTE em conflitos de qualquer natureza que venham a surgir entre a CONTRATADA e outros prestadores de serviços de informática que atuem no ambiente da CONTRATANTE, com vistas à preservação da continuidade dos serviços e do interesse público. ddd) não transferir a terceiros as obrigações assumidas, por qualquer forma e nem mesmo parcialmente, bem como subcontratar qualquer das prestações a que está obrigada sem o consentimento prévio, por escrito, da CVM.
+
+34
+
+4. DESCRIÇÃO DOS SERVIÇOS Os serviços indicados no item 1 deste Termo de Referência serão detalhados no Anexo II ­ Especificações Técnicas. Em razão das características e peculiaridades dos serviços, conforme descrito nas especificações técnicas, o objeto desta licitação será adjudicado globalmente à licitante vencedora.
+
+5. DA VIGÊNCIA O período de vigência do contrato será de 12 (doze) meses, contados da data de sua assinatura, podendo ser prorrogado, mediante termo aditivo e emissão de nota de empenho, por iguais e sucessivos períodos até o limite de 60 (sessenta) meses, com fundamento no artigo 57, inciso II, da lei nº 8.666/93.
+
+6. VALOR ESTIMADO DA CONTRATAÇÃO O orçamento anual estimado para esta contratação é de R$ 4.874.976,00 (quatro milhões, oitocentos e setenta e quatro mil e novecentos e setenta e seis reais).
+
+6.1. AUMENTO OU SUPRESSÃO DAS QUANTIDADES No interesse da CVM, o objeto do contrato a ser firmado poderá ser suprimido ou aumentado até o limite de 25% (vinte e cinco por cento) do seu valor inicial atualizado.
+
+7. DOTAÇÃO ORÇAMENTÁRIA As despesas correrão à conta da Natureza de Despesa xxxxxx - Programa de Trabalho xx.xxx.xxxx.xxxx.xxxx.
+
+8. MODELO DE EXECUÇÃO Para a execução do contrato, será implementado método de trabalho baseado no conceito de delegação de responsabilidade. Esse conceito define a CONTRATANTE como responsável pela gestão do contrato e pela atestação da aderência aos padrões de desempenho e qualidade exigidos dos produtos e serviços entregues, e a CONTRATADA como responsável pela execução e operação dos serviços e gestão de seus recursos humanos e físicos.
+35
+
+Todos os serviços serão estimados, medidos e remunerados utilizando-se como unidade de medida o "ponto de função", conforme definido na versão 4.2.1 do Manual de Práticas de Contagem fornecido pelo IFPUG (www.ifpug.org). 8.1. SOLICITAÇÃO DE SERVIÇOS Todos os serviços, independente do local, serão executados mediante solicitação expressa, através da emissão de Ordem de Serviço ­ OS, autorizada pelo FISCAL da CONTRATANTE, cujo modelo será definido entre as partes de forma a constar todas as informações relevantes para o bom acompanhamento e gestão do contrato. O aceite e posterior pagamento ou quitação de uma OS executada não exime a CONTRATADA das responsabilidades quanto às garantias específicas associadas a cada serviço realizado estabelecido na OS. Depois de identificadas as atividades necessárias, a CONTRATANTE encaminhará a OS com todas as informações necessárias para a CONTRATADA realizar a sua análise. A CONTRATADA deverá, então, apresentar proposta de execução indicando os serviços e a quantidade de pontos de função necessários à sua realização. A CONTRATANTE poderá vetar a proposta ou a quantidade de pontos de função informada pela CONTRATADA, quando surgirem divergências no tocante à contagem ou quando não atenderem aos requisitos técnicos exigidos ou às conveniências da Autarquia. Ocorrendo a aprovação, a CONTRATANTE autoriza a CONTRATADA a iniciar a execução do serviço. A CONTRATANTE poderá contratar terceiros para auxiliá-la e/ou subsidiá-la na contagem dos pontos de função. Qualquer alteração nas atividades descritas na OS deverá gerar uma nova Ordem de Serviço que deverá ser preenchida indicando que se trata de uma OS adicional e fazendo referência à anterior que originou os serviços. Como padrão, é exigido o prazo mínimo de garantia de 90 dias, contado a partir da entrada do produto de software em produção. Neste período, a CONTRATADA se obriga a efetuar as devidas correções sem ônus para a CONTRATANTE. Caso a detecção do problema ocorra após a homologação do produto, ou mesmo após o encerramento da vigência contratual, mas ainda no período de 90 dias a contar da homologação, a respectiva Ordem de Serviço será reaberta, e o serviço, refeito, sem ônus adicional para a CONTRATANTE. 8.2. MODELO DE NÍVEIS DE SERVIÇOS (SLA) Níveis de serviço são critérios objetivos e mensuráveis estabelecidos pela CONTRATANTE com a finalidade de aferir e avaliar diversos fatores relacionados com os serviços contratados. Para mensurar esses fatores serão utilizados indicadores relacionados com a natureza e característica dos serviços contratados, para os quais são estabelecidas metas quantificáveis a serem cumpridas pela CONTRATADA.
+36
+
+Os indicadores de avaliação e respectivas metas foram definidos de acordo com a natureza e características dos serviços a serem desenvolvidos e expressos em unidades de medida, como por exemplo: percentuais, tempo medido em horas, dias úteis e dias corridos, números que expressam quantidades físicas. 8.3. PERIODICIDADE DE AFERIÇÃO E AVALIAÇÃO A periodicidade da aferição e avaliação dos serviços prestados será mensal, ficando o período de avaliação a ser definido por acordo entre as partes, devendo a CONTRATADA elaborar relatório gerencial de serviços para subsidiar esta avaliação. Devem constar desse relatório, entre outras informações, os indicadores/metas de níveis de serviço alcançados, recomendações técnicas, administrativas e gerenciais e demais informações relevantes para a gestão contratual. O conteúdo detalhado e a forma do relatório gerencial serão definidos pelas partes. Os primeiros 90 dias após o início da execução dos serviços serão considerados como período de estabilização e de ajustes específicos, durante o qual as metas definidas podem ser flexibilizadas por acordo das partes, ficando, porém, mantidas conforme definido no Anexo II ­ Especificações Técnicas, caso tal acordo não se concretize. A qualquer tempo, no decorrer da vigência do contrato, os indicadores e respectivas metas de níveis de serviços poderão ser revistos/atualizados mediante acordo entre as partes. 8.4. EXECUÇÃO DOS SERVIÇOS A execução dos serviços será gerenciada pela CONTRATADA, que fará o acompanhamento diário da qualidade e dos níveis de serviço alcançados com vistas a efetuar eventuais ajustes e correções nas atividades acompanhadas. Quaisquer problemas identificados pela CONTRATADA que venham a comprometer o bom andamento dos serviços ou o alcance dos níveis de serviço estabelecidos devem ser imediatamente comunicados à CONTRATANTE. A CONTRATANTE poderá intervir a seu juízo no andamento dos serviços prestados sempre que identificar problemas que venham a comprometer o bom andamento dos serviços ou o alcance dos níveis de serviço estabelecidos. 8.5. HOMOLOGAÇÃO DOS SERVIÇOS Os serviços prestados serão avaliados e homologados quando da entrega dos produtos e/ou resultados demandados. Será avaliada a conformidade com os requisitos definidos na Ordem de Serviço e emitido termo de homologação - documento a ser definido pelas partes - com as informações necessárias à atestação dos serviços. Após a homologação, caberá à CONTRATADA, sob supervisão da CONTRATANTE, encaminhar a colocação dos serviços em produção, disponibilizando o produto de software e sua correspondente documentação para o Centro de Dados. A CONTRATANTE só autorizará a conclusão dos serviços e o seu faturamento após
+37
+
+constatar sua entrada em produção sem vícios, entendidos como tais o funcionamento diferente do observado durante a homologação e o surgimento de problemas inexistentes antes de sua entrada em produção, cuja origem esteja comprovadamente no escopo dos produtos decorrentes destes serviços. As demandas que, por problemas ou pendências não concernentes à CONTRATADA, não tiverem sido postas em produção depois de 90 (noventa) dias após a sua homologação pela CONTRATANTE poderão ser faturadas, ficando a CONTRATADA responsável por quaisquer problemas que ocorram quando estas demandas forem postas em produção, sem ônus para a CONTRATANTE. 8.6. PAGAMENTO DOS SERVIÇOS Os pagamentos referentes aos serviços efetivamente prestados serão efetuados em um prazo máximo de 20 (vinte) dias úteis, após a apresentação das respectivas faturas/notas FISCAIS, mediante depósito na conta-corrente da CONTRATADA, devendo os títulos permanecerem em carteira, não sendo admitidos pela CVM caucionamento ou cobrança bancária, situação em que a CONTRATADA ficará sujeita às sanções, a juízo da CVM, previstas neste Termo de Referencia. A CONTRATANTE somente pagará à CONTRATADA os serviços efetivamente realizados de acordo com os procedimentos de medição estabelecidos neste documento, não sendo devido o pagamento de quaisquer valores a título de franquia ou garantia de execução de valores mínimos.
+
+9. REQUISITOS TÉCNICOS EXIGIDOS Para fins de execução dos serviços desta licitação a empresa deve: a) Comprovar o fornecimento de serviços de desenvolvimento, manutenção corretiva e evolutiva em sistemas de informação, compreendendo gerência de projetos, levantamento de requisitos, análise, codificação, testes, homologação e documentação de sistemas em quantidades anuais iguais às estimadas para essa contratação; b) Possuir certificação CMMI nível 2 ou superior, ou MPS.Br nível F ou superior, ou SPICE (ISO/IEC 15504) nível 2 ou superior; c) Possuir experiência comprovada em manutenção de sistemas utilizando linguagens ASP.Net (Visual Basic .Net e C#) e XML, arquitetura 3 ou mais camadas, nas plataformas Visual Studio .Net 2003 e 2005, empregando páginas de conteúdo estático e/ou dinâmico. d) Possuir experiência comprovada em manutenção de sistemas utilizando linguagem Delphi 5, 6 ou 7, arquiteturas Cliente-Servidor e 3 ou mais camadas. e) Possuir experiência comprovada em manutenção de sistemas utilizando os Sistemas Gerenciadores de Bancos de Dados MicroSoft SQL Server 2000 e 2005 e Oracle 10g.
+38
+
+f) Possuir experiência comprovada em design gráfico e manutenção de páginas de conteúdo estático com emprego de HTML, ASP, JavaScript e MacroMedia Flash. g) Possuir experiência comprovada em estimativas e medições de serviços em sistemas utilizando-se da análise de pontos de função; Tais requisitos são exigidos para que se possa garantir a conformidade, a qualidade e a continuidade na prestação dos serviços ora licitados. Visam, ainda, garantir que a empresa a ser CONTRATADA tenha executado trabalhos concernentes com o objeto licitado e adote melhores práticas de controle de qualidade e aprimoramento de seu processo de desenvolvimento de software. Ademais, entende-se que não há restrição ao princípio da competitividade uma vez que, no mercado brasileiro, somadas as certificações exigidas no item "b", existem diversas empresas aptas e com plenas condições de participação no certame. Outro objetivo visado por estas exigências é o atendimento ao princípio da padronização, de forma a manter a compatibilidade das especificações técnicas e de desempenho atualmente em uso na CVM, conforme previsto no Art. 15 da Lei das Licitações. Outras tecnologias presentes neste Termo de Referência e nas Especificações Técnicas (Anexo II) que o complementam, para as quais não foram solicitados atestados nos subitens 8.2.6.1. a 8.2.6.4 do Edital, têm, no momento, presença minoritária ou acessória no ambiente da CVM. A critério da Autarquia, serviços demandados nestas tecnologias, ou em novas tecnologias que venham a ser implementadas em seu ambiente, deverão ser atendidos pela CONTRATADA, ao preço licitado, devendo esta se capacitar para prestar o atendimento em até 90 (noventa) dias a contar após a assinatura do contrato, para o caso destas tecnologias já em uso e em até 90 (noventa) dias a contar após a notificação formal da CONTRATANTE, para o caso das novas tecnologias.
+
+10. DIREITO PATRIMONIAL E PROPRIEDADE INTELECTUAL A CONTRATADA cederá à CVM, nos termos do artigo 111, da Lei n. 8.666/93, concomitante com o art. 4º, da Lei no. 9.609/1998, os programas fontes, o direito patrimonial e a propriedade intelectual em caráter definitivo dos produtos desenvolvidos e resultados produzidos em conseqüência desta licitação, entendendo-se por resultados quaisquer estudos, relatórios, descrições técnicas, protótipos, dados, esquemas, plantas, desenhos, diagramas, fontes dos códigos dos programas em qualquer mídia, páginas na Intranet e Internet e documentação didática em papel ou em mídia óptica/eletrônica.
+
+11. OUTRAS CONDIÇÕES CONTRATUAIS a) A CONTRATANTE poderá, eventualmente, solicitar a execução dos serviços em dias, horários e locais distintos dos estabelecidos nas especificações técnicas, desde que a necessidade seja comunicada previamente à CONTRATADA;
+
+39
+
+b) É vedada a veiculação de publicidade acerca do contrato, salvo se houver prévia autorização da CONTRATANTE; c) A CONTRATANTE poderá, em situações excepcionais devidamente justificadas, contratar terceiros para prestação de serviços de desenvolvimento e manutenção de sistemas, nos termos da legislação em vigor, ou ainda soluções de software de mercado para atendimento de situações específicas, especialmente nas seguintes hipóteses: i. Sempre que o serviço demandado requerer notória especialização em disciplinas e/ou tecnologias em que o domínio da CONTRATADA se mostrar ausente, incipiente, defasado ou incompatível, tomando por referência os padrões técnicos vigentes no mercado ou a plataforma tecnológica da CONTRATANTE, conforme as peculiaridades de cada caso; ii. Sempre que a disponibilidade ou o domínio da CONTRATADA no atendimento ao serviço demandado apresente risco ao cumprimento da finalidade institucional da CONTRATANTE, na atividade dependente deste serviço; iii. Sempre que for obrigatória a realização do serviço demandado por ente conveniado com a CONTRATANTE; iv. Sempre que exista produto de software no mercado cuja aquisição seja considerada uma opção atrativa para a CONTRATANTE, em face de outras alternativas. d) A critério exclusivo da CONTRATANTE, outras áreas de trabalho poderão ser incluídas para a prestação de serviços pela CONTRATADA, observando o objeto licitado, com vistas ao pleno atendimento de suas necessidades institucionais. e) Caberá à CONTRATADA dar todo o suporte necessário, no ambiente tecnológico da CONTRATANTE, ao desenvolvimento e homologação das soluções desenvolvidas ou adquiridas nas circunstâncias apresentadas no subitem 11.d acima, no que for de seu domínio. f) Caberá ainda à CONTRATADA assimilar os artefatos, ferramentas e técnicas necessárias à manutenção das soluções desenvolvidas ou adquiridas nas circunstâncias apresentadas no subitem 11.d acima, no que lhe couber. g) A CONTRATANTE proverá a obrigação de passagem de conhecimentos, ferramentas, produtos e documentação à CONTRATADA junto ao fornecedor da solução desenvolvida ou adquirida em qualquer uma das condições elencadas no subitem 11.d acima. h) Por ocasião do encerramento do contrato, conforme o art. 12 da Instrução Normativa SLTI/MPOG nº2, de 30 de abril de 2008, a CONTRATADA se compromete a promover a transição contratual, a critério da CONTRATANTE e com antecedência suficiente, repassando à nova CONTRATADA a tecnologia, as técnicas e
+40
+
+metodologias de trabalho utilizadas, sem perda de informação, visando assegurar a execução dos serviços sem perda de continuidade. i) A CONTRATADA deverá efetuar, a seu encargo e sem custos para a CVM, a absorção dos serviços e tarefas regidos pelo Contrato CVM/050/2008, até a data final de sua vigência, durante um período nunca inferior a 30 dias corridos.
+
+12. SANÇÕES Pela inexecução total ou parcial dos serviços previstos no contrato, pela execução desses serviços em desacordo com o estabelecido no contrato, ou pelo descumprimento das obrigações contratuais, a CONTRATANTE poderá, garantida a prévia defesa e observada a gravidade da ocorrência, aplicar à CONTRATADA as seguintes sanções: a) advertência; b) Multa de até 20% (vinte por cento do valor do Contrato), conforme a seguir:
+
+i. multa a ser calculada sobre o valor total do contrato, em conformidade com as tabelas de gradação abaixo (Tabelas A e B), recolhida no prazo de 15 (quinze) dias, contados da comunicação oficial, garantida a ampla defesa e o contraditório; ii. multa de 1% (hum por cento) sobre o valor do serviço demandado para cada dia de atraso no início da execução dos serviços dentro do prazo previsto; iii. multa de 2% (dois por cento) sobre o valor do serviço demandado para cada dia de descumprimento da data aprazada para entrega do serviço; iv. multa de 5% (cinco por cento) sobre o valor do serviço demandado para cada dia de descumprimento da data aprazada para entrega de serviço, após reincidência formalmente notificada pelo órgão Fiscalizador; Tabela A - Multas por grau de infração
+
+Grau 01 02 03 04 05
+
+Correspondência 0,2% sobre o valor do contrato 0,4% sobre o valor do contrato 0,8% sobre o valor do contrato 1,6% sobre o valor do contrato 3,2% sobre o valor do contrato 41
+
+Tabela B - Infrações
+Ite m 01 02 03 04 05 06 07 08 09 10 11 Descrição da infração Suspender ou interromper, salvo motivo de força maior ou caso fortuito, os serviços contratados, por dia Recusar-se a executar serviço determinado pela CONTRATANTE, por serviço, por dia Indicador/Meta de nível de serviço não atingida, por tipo, por período de apuração Indicador/Meta de nível de serviço não atingida, por tipo, por período de apuração (reincidência) Tentativa de fraude, manipulação ou descaracterização em Indicador/Meta de nível de serviço, por ocorrência, por tipo, por período de apuração Inexecução parcial de serviço demandado, por serviço Inexecução total do serviço demandado, por serviço Para os itens seguintes, deixar de: Zelar pelas máquinas, equipamentos e instalações utilizados da CONTRATANTE, por ocorrência, por dia Cumprir determinação formal ou instrução do Fiscalizador, por ocorrência, por dia Substituir empregado que se conduza de modo inconveniente ou não atenda às necessidades de prestação de serviço, por empregado, por dia Efetuar os devidos pagamentos, seguros, encargos fiscais, sociais e trabalhistas, bem como arcar com quaisquer despesas diretas e/ou indiretas relacionadas à execução do contrato, por ocorrência, por dia Cumprir quaisquer das OBRIGAÇÕES DA CONTRATADA não previstas nesta tabela, por ocorrência Cumprir quaisquer das OBRIGAÇÕES DA CONTRATADA não previstas nesta tabela, após reincidência formalmente notificada pelo órgão Fiscalizador, por ocorrência Cumprir quaisquer dos itens do Edital e de seus anexos não previstos nesta tabela, por ocorrência Cumprir quaisquer dos itens do Edital e de seus anexos não previstos nesta tabela, após reincidência formalmente notificada pelo órgão Fiscalizador, por ocorrência Gra u 04 02 01 02 03 04 05 02 02 01 05
+
+12 13 14 15
+
+04 05 01 02
+
+c) suspensão temporária de participação em licitação e impedimento de contratar com a Administração, pelo prazo de até 02 (dois) anos. As sanções previstas nas alíneas "a" e "c" deste item poderão ser aplicadas juntamente com a da alínea "b", facultada a defesa prévia do interessado, no respectivo processo, no prazo de 5 (cinco) dias úteis. O não cumprimento dos prazos estabelecidos no contrato acarretará à Contratada, independentemente das sanções previstas nas alíneas "a" a "e" deste item, multa diária de 0,5%(meio por cento) do valor do contrato (art. 86 da Lei nº 8.666/93).
+
+A aplicação da multa acima, a qual ocorrerá após regular processo administrativo, não impede que a CVM rescinda unilateralmente o Contrato e aplique outras sanções regulamentares (art. 86, §1º da Lei nº 8.666/93).
+42
+
+Em caso de inadimplência quanto ao pagamento das multas que lhe forem aplicadas pela CVM, a CONTRATADA/ADJUDICATÁRIA fica desde já ciente que estará sujeita à sua inclusão no Cadastro Informativo dos créditos não quitados do setor público federal (CADIN), consoante legislação específica sobre a matéria, sendo executada segundo a Lei nº 6.830/80. A licitante que ensejar o retardamento da execução do certame, não mantiver a proposta, não celebrar o contrato, deixar de entregar ou apresentar declaração falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União, Estados, Distrito Federal e Municípios e, será descredenciada no SICAF, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do artigo 4º da Lei nº 10.520/02, pelo prazo de 5 (cinco) anos, sem prejuízo das multas previstas no edital e no contrato e das demais cominações legais. A suspensão temporária do direito de contratar com a Administração é aplicável no caso de inexecução total do contrato, por culpa exclusiva da CONTRATADA. A declaração de inidoneidade para licitar ou contratar com a Administração Pública é aplicável no caso de fraude na execução do contrato.
+
+13. LOCAL DE EXECUÇÃO DOS SERVIÇOS De acordo com a necessidade da CONTRATANTE, os serviços poderão ser executados em suas dependências ou nas dependências da CONTRATADA conforme especificidades, características e emergência das atividades a serem realizadas, notadamente atividades de manutenção corretiva e emergencial, levantamento de requisitos e publicação de páginas de conteúdo estático na Internet e Intranet. No item 3 do Anexo II (Parâmetros para Dimensionamento) é descrita a distribuição histórica das demandas de manutenção e desenvolvimento de sistemas por prazo de atendimento no período entre julho de 2005 e setembro de 2009 para balizar as necessidades de atendimento presencial nas dependências da CVM. Para as atividades realizadas nas dependências da CONTRATADA, esta deverá manter, sob suas expensas, conexão com o Centro de Dados da CVM, em conformidade com os padrões estabelecidos pela CONTRATANTE e seu provedor. O endereço da CONTRATANTE, onde ocorrerá a prestação dos serviços descritos no item 1 deste Termo de Referência e no documento de Especificações Técnicas (Anexo II) é: Rua Sete de Setembro 111, 29º andar, Centro, Rio de Janeiro/RJ.
+
+43
+
+14. UNIDADE RESPONSÁVEL PELO TERMO DE REFERÊNCIA Gerência de Sistemas (GSI).
+
+15. UNIDADE FISCALIZADORA DO CONTRATO Gerência de Sistemas (GSI).
+
+Rio de Janeiro/RJ,
+
+de
+
+de 2009.
+
+Arydalton Carlos Vilarinhos Junior Gerente de Sistemas
+
+44
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+ANEXO II ESPECIFICAÇÕES TÉCNICAS
+
+1. DESCRIÇÃO GERAL DO SERVIÇO O serviço a ser contratado envolve todas as fases dos processos de desenvolvimento e manutenção de sistemas, desde o levantamento de requisitos até sua disponibilização em ambiente de produção. Visa dar sustentação aos processos de negócio da Autarquia, mantendo os aplicativos em uso atualizados e em consonância com a legislação vigente e com o mercado brasileiro de valores mobiliários. Os serviços estão detalhados mais adiante e devem ser executados de acordo com normas, procedimentos e técnicas adotadas pela CONTRATANTE, especialmente no que tange à sua metodologia de desenvolvimento de sistemas, e de acordo com as melhores práticas contidas nos modelos CMMI (Capability Maturity Model Integrated), MPS/BR (Melhoria de Processos do Software Brasileiro) e SPICE (Software Process Improvement and Capability dEtermination). Ao assinar o contrato, fica entendido que a licitante vencedora adere à metodologia da CONTRATANTE. 1.1. Escopo dos serviços A presente contratação de serviços de desenvolvimento e manutenção de sistemas de informação compreenderá, entre outras, a execução das seguintes atividades: a) Desenvolvimento de sistemas informatizados em ambiente corporativo, na Internet, Intranet e Extranet, a critério da CONTRATANTE, podendo envolver ou não páginas de conteúdo estático ou dinâmico; b) Manutenção corretiva e evolutiva de sistemas informatizados, inclusive de sistemas legados, portais corporativos e sites Internet, Intranet e Extranet; c) Teste, validação, documentação, apoio à homologação e orientação à implantação, bem como treinamento no uso de sistemas; d) Acompanhamento e avaliação do desempenho de sistemas; e) Controle de qualidade com o uso de ferramentas específicas de teste de software; f) Levantamento de regras de negócio; g) Modelagem de dados e objetos; h) Gerenciamento de mudanças e versões de sistemas informatizados com uso de ferramentas automatizadas; i) Gerência de componentes de sistemas de informação; j) Planejamento da migração e implantação de sistemas informatizados e orientação e passagem de documentos e produtos de software às equipes de operação do Centro de Dados da CVM;
+45
+
+k) Construção e/ou supervisão da codificação de programas;
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+l) Integração de sistemas informatizados em plataformas heterogêneas utilizando as tecnologias de web services, XML e SOA; m) Análise, orientação e proposição de soluções para realização de manutenções corretivas e evolutivas de sistemas; n) Dimensionamento e medição de sistemas informatizados por meio de análise de pontos de função; o) Edição, publicação, redação e revisão de conteúdos para páginas Internet e Intranet; p) Controle e administração de dados e metadados; q) Migração de dados e de sistemas informatizados para novas plataformas sempre que uma manutenção assim determinar; r) Demais atividades relacionadas à sustentação de ambiente de sistemas de informação. Os equipamentos, instalações físicas, ramais telefônicos e mobiliários necessários à execução dos serviços serão providos pela CONTRATANTE, quando da prestação dos serviços em suas dependências, e devem ser utilizados na execução dos serviços. Os serviços a serem formalmente demandados estão descritos na Tabela I ­ Serviços de Sustentação de Sistemas de Informação. 1.1.1. Unidade de medida A unidade de medida utilizada é "ponto de função", conforme definido na versão 4.2.1 do Manual de Práticas de Contagem fornecido pelo IFPUG (www.ifpug.org). 1.1.2. Estimativas e medições A critério da CONTRATANTE, em função das características do projeto solicitado, as estimativas de esforço para desenvolvimento de novos sistemas poderão utilizar como referência as práticas do Manual do IFPUG mencionado acima, o método de Contagem Indicativa da NESMA (Netherlands Software Metrics Users Association), o método de Estimativa Percentual do ISBSG (International Software Benchmarking Standards Group), Método de Estimativa Percentual de Capers Jones, divulgado pela consultoria internacional SPR (Software Productivity Research), ou por um valor médio obtido envolvendo todos os métodos acima, ou um subconjunto deles. As medições de serviços de desenvolvimento de novos sistemas serão realizadas conforme as práticas do Manual do IFPUG mencionado no subitem 1.1.1. As regras para estimativas e medições dos demais serviços estão descritas na Tabela I ­ Serviços de Sustentação de Sistemas de Informação.
+
+46
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Tabela I ­ Serviços de Sustentação de Sistemas de Informação.
+Serviço
+Desenvolvimento de Novo Sistema Desenvolvimento de Páginas de Conteúdo Estático Manutenção Evolutiva Manutenção Corretiva
+
+Descrição
+Desenvolvimento de sistema informatizado em ambiente corporativo, na Internet, Intranet e Extranet, a critério da CONTRATANTE, podendo envolver ou não páginas de conteúdo estático ou dinâmico Publicação de páginas estáticas da Intranet/Internet, considerando cada página envolvida como uma consulta simples e aplicando-se um redutor de 80%. Inclusão, exclusão ou alteração de funcionalidades e/ou dados em aplicações existentes. Correção de erros ou incidentes em sistemas legados em produção*. Correção de problemas de interface, como alteração de fonte dos caracteres, cores de telas, logotipos, ou reposicionamento de botões na tela.
+
+Estimativas/Medições
+PF = PF = PF = PF = PF = PF = PF = PF = Conforme subitem 1.1.2 ­ Estimativas e Medições
+
+3 x Nº de páginas x 0,20 PF_INCLUIDO + PF_ALTERADO + PF_CONVERSÃO + PF_EXCLUÍDO PF_ALTERADO x 0,70 PF_ENVOLVIDO x 0,10 3 x Nº de páginas x 0,05 PF_ENVOLVIDO + PF_CONVERSÃO x 0,50 PF_ALTERADO x 0,30
+
+Manutenção Superficial Inserção ou alteração em páginas estáticas da Intranet/Internet, considerando cada página envolvida como uma consulta simples e aplicando-se um redutor de 95%. Alterações de plataforma de sistema sem mudanças em funcionalidades ou dados. Manutenção Adaptativa Adequação de funcionalidades às mudanças de negócio, tais como aumento de tamanho de campos, etc. Alteração de dados em produção: elaboração de procedimentos ­ rotinas ou scripts ­ para execução eventual em bases de dados de sistemas, com objetivo de retificar informações incorretas para as quais não existam meios de correção providos pelas funcionalidades do sistema Atuação em bases de dados Extração de dados: elaboração de procedimentos que consolidem informações residentes em bases de dados de sistemas, para uso específico e eventual. Intervenção em base de dados: correção de erros ocasionados por falhas em procedimentos de rotina, tais como exclusão de tabelas temporárias, etc. Documentação de Sistemas Legados Análise de Problema Elaboração de documentação dos sistemas legados sob demanda da CONTRATANTE. Diagnóstico de causas de problemas identificados pela CONTRATANTE.
+
+PF =
+
+PF_INCLUIDO x 0,30
+
+PF = PF = PF = PF=
+
+PF_INCLUIDO x 0,60 PF_ENVOLVIDO x 0,10 PF_ENVOLVIDO x 0,30 PF_ENVOLVIDO x 0,25
+
+*Correção de erros ou incidentes em código elaborado ou alterado pela CONTRATADA não será cobrada à CONTRATANTE. PF: Pontos estimados / medidos; PF_INCLUIDO: Pontos de Função das funções incluídas; PF_ALTERADO: Pontos de Função das funções alteradas; PF_EXCLUÍDO: Pontos de Função das funções excluídas; PF_CONVERSÃO: Pontos de Função das funções de conversão de dados; PF_ENVOLVIDO: Pontos de Função inventariados das funções envolvidas na solicitação.
+
+47
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+1.1.3. Disponibilidade do serviço O serviço deverá estar disponível nos dias úteis, de segunda a sexta-feira, das 8 às 20 horas, sendo que das 8 às 9 e das 18 às 20 em regime de plantão. A CONTRATANTE poderá, eventualmente, solicitar a execução dos serviços em dias, horários e locais distintos dos estabelecidos, sendo a necessidade comunicada previamente à CONTRATADA, à exceção de serviços emergenciais que poderão ser solicitados em quaisquer dias e horários. Para serviços emergenciais, a CONTRATADA deverá estar disponível para acionamento em regime 24x7, tendo no máximo 1 hora para iniciar o atendimento desses serviços. Entende-se por serviços emergenciais os que são necessários para restabelecer ou garantir o pleno e correto funcionamento de um sistema ou de alguma de suas funcionalidades. 1.1.4. Canais de acesso ao serviço a) ramais telefônicos a serem providos pela CONTRATANTE, para os serviços prestados em suas dependências; b) números telefônicos a serem providos pela CONTRATADA, com acesso 24x7; c) correio eletrônico; d) Sistema de Gestão de Demandas a ser provido pela CONTRATADA, conforme descrito no item 5 deste anexo; 1.1.5. Quantificação do serviço Para atender à demanda para o serviço de sustentação de ambiente de sistemas de informação estimou-se a necessidade de execução mensal de 400 pontos de função, sendo: a) 180 pontos de função para manutenção de sistemas corporativos, majoritariamente na tecnologia/linguagem de programação Delphi, versão 5, com uso de SGBD relacional; b) 160 pontos de função para manutenção de sistemas web, majoritariamente na tecnologia/linguagem de programação .Net (ASP/VB/C#) com uso de XML e SGBD relacional; c) 60 pontos de função para alterações e inserções em páginas de conteúdo estático, majoritariamente nas tecnologias/linguagens de programação HTML, JavaScript, e MacroMedia Flash.
+
+48
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Cabe ressaltar que as quantidades de serviço aqui apresentadas são meramente estimativas e podem, a critério exclusivo da CONTRATANTE, ser alteradas, para mais ou para menos, ou remanejadas entre os serviços/tecnologias/linguagens de programação em virtude de mudanças no planejamento estratégico e/ou cenário tecnológico da Autarquia, não caracterizando qualquer obrigatoriedade de demandar quantidades mínimas por parte da CONTRATANTE. 1.1.6. Indicadores de Níveis de Serviço (SLA) Os serviços serão medidos com base em indicadores e metas exigidas referentes às atividades desenvolvidas no âmbito da execução contratual, conforme tabela a seguir: TABELA DE INDICADORES DE NÍVEL DE SERVIÇO
+Indicadores de níveis de serviço Defeitos encontrados (serviço de baixa complexidade) Defeitos encontrados (serviço de média complexidade) Defeitos encontrados (serviço de alta complexidade) Serviços de baixa complexidade entregues no prazo Serviços de média complexidade entregues no prazo Serviços de alta complexidade entregues no prazo Documentação desatualizada Unidade de medida un. Meta exigida <3
+
+Item 01
+
+Fórmula de cálculo Quantidade de defeitos encontrados por serviço de baixa complexidade, disponibilizado no ambiente de homologação (ou equivalente) Quantidade de defeitos encontrados por serviço de média complexidade, disponibilizado no ambiente de homologação (ou equivalente) Quantidade de defeitos encontrados por serviço de alta complexidade, disponibilizado no ambiente de homologação (ou equivalente) Total de serviços de baixa complexidade entregues no prazo acordado/Total de serviços de baixa complexidade realizados Total de serviços de média complexidade entregues no prazo acordado/Total de serviços de média complexidade realizados Total de serviços de alta complexidade entregues no prazo acordado/Total de serviços de alta complexidade realizados Quantidade de artefatos desatualizados por serviço realizado
+
+02
+
+un.
+
+<5
+
+03
+
+un.
+
+<8
+
+04
+
+%
+
+>= 98
+
+05
+
+%
+
+>= 96
+
+06
+
+%
+
+>= 94
+
+07
+
+un.
+
+<3
+
+Notas: 1. Serão contabilizados como defeitos:
+
+49
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+a. as características da apresentação ou do funcionamento do produto em homologação que estejam em desconformidade com os serviços solicitados; b. as características da apresentação ou do funcionamento do produto em homologação que estejam em desconformidade com as características da apresentação ou do funcionamento dos sistemas afetados pelos serviços solicitados, porém fora do seu escopo.
+
+2. O período de medição das métricas será definido por acordo entre as partes; 3. A meta exigida representa o parâmetro de valor que deve ser alcançado pela CONTRATADA para cada um dos indicadores, qual seja, valor exato (=), limite máximo (< ou <=) ou limite mínimo (>=); 4. Os tempos de atendimento serão contados a partir do recebimento da solicitação da CONTRATANTE. No caso da contagem em dias, a mesma será efetuada dia a dia, incluindo o primeiro e o último dia. Ressalvada determinação em contrário, serão considerados apenas dias úteis para efeito de contagem de tempo. 5. Considerar:       Manutenção corretiva de baixa complexidade: até 5 PF´s; Manutenção corretiva de média complexidade: de 6 a 15 PF´s; Manutenção corretiva de alta complexidade: acima de 15 PF´s; Desenvolvimento ou manutenção evolutiva de baixa complexidade: até 150 PF´s; Desenvolvimento ou manutenção evolutiva de média complexidade: de 151 a 1000 PF's; Desenvolvimento ou manutenção evolutiva de alta complexidade: acima de 1000 PF´s.
+
+2. FASES DE IMPLEMENTAÇÃO E PRAZOS A licitante vencedora deverá iniciar execução dos serviços em 30 (trinta) dias corridos, a partir da data de assinatura do respectivo contrato.
+
+50
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+A licitante vencedora deverá apresentar para aprovação da CONTRATANTE, às suas expensas, no prazo máximo de cinco dias após a adjudicação do certame, projeto para implantação dos serviços contendo cronograma detalhado de atividades a serem executadas pela CONTRATADA e pela CONTRATANTE, quando couber. O projeto deverá contemplar, dentre outras atividades, a absorção dos serviços e tarefas prestados pela empresa a que a CONTRATADA irá suceder, em um período nunca inferior a 30 (trinta) dias corridos. 3. PARÂMETROS PARA DIMENSIONAMENTO Os valores aqui apresentados são meramente estimativos e podem sofrer variações, tendo por objetivo subsidiar as licitantes na elaboração das propostas. 3.1. Situação atual Os serviços de desenvolvimento e manutenção de sistemas de informação são, atualmente, executados por empresa CONTRATADA para tal fim e destinam-se a fornecer à CONTRATANTE uma gama de serviços de gerenciamento de projeto, levantamento de requisitos, análise, codificação, teste, homologação, documentação e implantação dos aplicativos desenvolvidos e mantidos. Para Fiscalizar o serviço, a CONTRATANTE conta, atualmente, com 11 profissionais, sendo um gerente, 9 analistas e um agente executivo. Medições realizadas pela Gerência de Sistemas indicam que são executados, mensalmente, uma média de 120 pontos de função relacionados a manutenções corretivas e evolutivas nos sistemas por ela disponibilizados à Autarquia, ao mercado e aos cidadãos em geral. Estes valores estão abaixo da média realizada pelo antigo prestador de serviços terceirizados, que produzia cerca de 200 pontos de função ao mês, quantidade considerada à época abaixo do suficiente pelo corpo administrativo da CVM. Segue abaixo quadro com distribuição histórica das demandas de manutenção e desenvolvimento de sistemas por prazo de atendimento, contemplando as demandas implementadas pela Gerência de Sistemas da CVM, no período compreendido entre julho/2005 e setembro/2009:
+Tipo \ Prazo de atendimento análise de problema alteração em produção manutenção adaptativa manutenção corretiva manutenção evolutiva novo sistema publicação 1-Até 2 hrs 2-Até 4 hrs 3-Até 24 hrs 4-Até 40 hrs 5-Até 30 dd 6- > 30 dd 4,76% 3,16% 10,00% 2,54% 3,27% 0,00% 90,00% 4,76% 2,41% 0,00% 1,62% 3,66% 0,00% 5,00% 7,94% 10,90% 10,00% 6,93% 14,44% 0,00% 5,00% 26,19% 20,63% 30,00% 13,97% 16,99% 11,11% 0,00% 49,21% 32,70% 30,00% 31,64% 22,35% 11,11% 0,00% 7,14% 30,20% 20,00% 43,30% 39,28% 77,78% 0,00% 51
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+3.2. Situação futura (estimada) A partir de 2009, uma série de mudanças no Mercado Brasileiro de Valores Mobiliários é aguardada na esteira da crise econômica que afeta os mercados mundiais como um todo. Além disso, a todo momento, novos valores mobiliários são criados e regulamentados, novos tipos de participantes do mercado são definidos e normatizados, novos procedimentos de registro de valores são estabelecidos e novas ações de prevenção a ilícitos são implementadas, demandando constantes ajustes de curtíssimo prazo e média a grande complexidade nos sistemas da CVM, sob riscos de renúncia fiscal e/ou descumprimento da finalidade institucional da autarquia. Em aditivo, demandas ainda não atendidas acarretam atrasos e até mesmo paralisação de serviços em diversos setores da casa. Outro fator relaciona-se com o aumento substancial da quantidade de soluções de TI disponibilizadas na Autarquia, além da ampliação do uso da tecnologia no ambiente de trabalho. Isto decorre não só das demandas internas e externas, mas também da realização do Plano Estratégico de Tecnologia da Informação da CVM, cujos projetos seguem descritos abaixo. Esta Plano tem vigência desde 2005 até 2010, ano em que um novo Plano, com validade de cinco anos, será elaborado. Projetos do Plano Estratégico de TI da CVM ­ Período 2005-2010 ­ Situação em 30/09/2009 Sigla
+MA01 MA02 MA03
+
+Descrição
+Sistema de Monitoramento de Mercado de Capitais Sistema de Acompanhamento de Empresas Site WEB ­ Base de Marcos Regulatórios
+
+Contratação
+Projeto BID Projeto BIRD Fábrica de Software / Licitação Fábrica de Software / Licitação Fábrica de Software Manutenção Evolutiva Licitação Solução de Mercado Fábrica de Software ­ Manutenção Evolutiva Licitação Solução de Mercado Licitação Solução de Mercado
+
+Status
+Em Licitação Em Produção Não iniciado
+
+MA04
+
+Sistema Integrado de Processos Administrativos
+
+Não iniciado
+
+MA05
+
+Sistema de Audiências a Particulares ­ Manutenções Evolutivas
+
+Em produção
+
+MA06
+
+Sistema de Gestão de Relacionamento - substituição
+
+Não iniciado
+
+MA07
+
+Site WEB ­ Fóruns e Audiências Públicas
+
+Parcialmente implantado
+
+MA08
+
+Solução para Inteligência de Negócios
+
+Em Produção
+
+MA09
+
+Solução de Colaboração
+
+Não iniciado 52
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Sigla
+MA10
+
+Descrição
+Solução para Gestão do Conhecimento
+
+Contratação
+Licitação Solução de Mercado Licitação Solução de Mercado Licitação Solução de Mercado Licitação Solução de Mercado Licitação Solução de Mercado Projeto BIRD Fábrica de Software ­ Manutenção Evolutiva Licitação Solução de Mercado Licitação Solução de Mercado SERPRO Licitação Solução de Mercado Licitação Solução de Mercado Licitação Solução de Mercado Fábrica de Software ­ Manutenção Evolutiva Licitação Solução de Mercado Licitação Solução de Mercado Licitação Solução de Mercado
+
+Status
+Não iniciado
+
+MA11
+
+Solução para GED & Workflow
+
+Em Andamento Em Produção ­ Portal do Investidor Em Produção
+
+MA12
+
+Solução de Gestão de Conteúdo
+
+MA13
+
+Sistema de Controle de Acervo
+
+MA14 MA15 MA16
+
+Solução de E-Learning Site WEB ­ Informações Institucionais Site WEB ­ Relações Internacionais
+
+Em Licitação Não Iniciado Pendente do MA15
+
+MA17
+
+Solução para Análises Econométricas
+
+Em produção
+
+MA18 MA19 MA20
+
+Sistema de Gestão de Projetos Sistema de Taxas e Multas Sistema de Auditoria Interna
+
+Em Produção Em Andamento Em produção
+
+MA21
+
+Sistema de Controle de Contencioso
+
+Suspenso
+
+MA22
+
+Sistema de Segurança e Controle de Acesso
+
+Não iniciado
+
+MA23
+
+Sistema de Controle de Despesas
+
+Não iniciado
+
+MA24
+
+Sistema de Gestão de RH Sistema de Controle de Materiais e Almoxarifado ­ Manutenção Evolutiva Sistema de Controle de Patrimônio ­ Manutenção Evolutiva
+
+Em Andamento
+
+MA25
+
+Não Iniciado
+
+MA26
+
+Não Iniciado
+
+53
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Considerando o cenário supracitado, estima-se que sejam necessários 400 pontos de função por mês para dar vazão às demandas existentes e absorver as novas demandas que surgem constantemente.
+
+4. DESCRIÇÃO DO AMBIENTE COMPUTACIONAL 4.1. Plataforma de software
+i.
+
+Sistemas operacionais
+
+Servidores: Windows 2000 e 2003 Server, Sun (BOVESPA) e HP-UX (Novo Sistema de Acompanhamento do Mercado) Estações clientes: Windows XP Professional.
+ii.
+
+Clientes Web
+
+Mozilla Firefox 3.5 ou superior e Internet Explorer 6.0 ou superior.
+iii.
+
+Clientes de SGBD's (Sistemas gerenciadores de banco de dados)
+
+SQL Server 2000 e 2005, e Oracle 10g (BOVESPA e Novo Sistema de Acompanhamento do Mercado)
+iv.
+
+Serviços de mensageria e colaboração
+
+Exchange 2003; Protocolo SMTP e IMAP.
+v.
+
+Ferramentas de automação de escritório
+
+MS Office 2000 e 2003, em descontinuação, e 2007 Professional, em implantação; MS Project 2007;
+vi.
+
+Ferramentas de backup
+
+TSM, da IBM
+vii.
+
+Solução de Antivírus:
+
+McAfee VirusScan Enterprise.
+viii.
+
+Outros softwares ou serviços
+
+Business Objects (Enterprise 11, release 2)
+54
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Compactador de arquivos WinZip Fusion 3.7 (GED/Workflow) Máquina Virtual JAVA Adobe Acrobat Viewer 6.0 ou superior Adobe Acrobat Writer 7.0 ou superior Adobe Pagemaker Adobe PhotoShop 5.5 Adobe Creative Suite 2 for Windows Adobe Contribute 4 Adobe DreamWeaver 3.0 e 8.0 Adobe FireWorks 8 Adobe Flash 8 Pro Aplicações Internet/Intranet/Extranet desenvolvidas usando HTML, ActiveX, JavaScript, VBScript, ASP, Macromedia Flash, ASP.Net 2003, C# .Net 2003, VB .Net 2003 Portal do Investidor, com recursos de acessibilidade, desenvolvido usando Framework DotNetNuke 4.3.5, MacroMedia Studio 8, ASP.Net 2005, C# .Net 2005 e VB.Net 2005, JavaScript,VBScript, Adobe Creative Suite 2 for Windows, Adobe Contribute 4, Adobe DreamWeaver 3.0 e 8.0, Adobe FireWorks 8, Adobe Flash 8 Pro, Macromedia Flash e Editor de Gráficos Dundas Borland Delphi 5.0, Client-Server version MacroMedia Studio 8 Microsoft Visual Studio .Net 2003 e 2005 NextPage Folio Electronic Publishing software 4.0 e Site Director 4.2 Software CASE AllFusion-ERWin versões 4.1.4 e 7.2 Software CASE Visio Professional 2003 e Standard 2003 Visual Basic 5.0, 6.0 e .Net 2003 Informatica PowerCenter ETL 8.1.1
+55
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Cognos 8.0
+ix.
+
+Tecnologias de Projetos Futuros
+
+Acha-se em preparação de licitação o projeto de implantação de um ambiente virtual de aprendizagem ­ Projeto MA14, citado no item 3.2 deste anexo. Tal ambiente será integrado ao Portal do Investidor e acarretará a necessidade de: (i) gerenciamento de acessos e de usuários; (ii) acesso constante a bancos de dados de usuários e conteúdos; (iii) extração frequente de consultas e relatórios; (iv) atualização diária dos conteúdos existentes e inserção periódica de novos conteúdos e cursos; e (v) utilização de softwares de e-learning, como os previstos abaixo: 1. 2. 3. 4. 5. 6. 7. 8. 9. Moodle: sistema de gestão da aprendizagem Joomla ou afim: sistema de gestão de conteúdo Photoshop ou similar: ferramenta de manipulação de imagens Audacity ou similar: ferramenta de manipulação de áudio Hot Potatoes ou similar: ferramenta de criação de testes, enquetes e exercícios; Reload Scorm Editor ou similar: ferramenta de seqüenciamento de conteúdos e atividades nos formatos SCORM e IMS; Flash ou similar: editor de animações vetoriais e arquivos em formato .swf; Dreamweaver ou similar: ferramenta para criação de páginas web multimídia (editor HTML); Captivate, Wink ou similar: ferramenta para captura de telas e criação de tutoriais.
+
+Também está atualmente em desenvolvimento uma nova área para o Portal, voltada para o público infantil, que possuirá conteúdos estáticos e dinâmicos de atualização frequente. Embora a criação dos cursos e atualização dos conteúdos seja de responsabilidade da Superintendência de Orientação ao Investidor (SOI) da CVM, haverá a necessidade de atendimento do prestador de serviços de desenvolvimento e manutenção de sistemas no que se refere à manutenção dos sistemas e apoio aos usuários. 4.2. Plataforma de hardware
+i.
+
+Arquitetura cliente
+
+Arquitetura Intel e AMD Turion64.
+ii.
+
+Rede
+
+Arquitetura FastEthernet (100BaseT) e Gibabit Ethernet (1000BaseT); Protocolo TCP/IP;
+56
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+iii.
+
+Servidores de rede:
+
+43 servidores Intel, 16 servidores AMD e 01 servidor Sun/RISC(BOVESPA);
+iv.
+
+Dispositivos de armazenamento e backup:
+
+NAS (Network Attached Storage); Fitas DLT e LTO. Tape Library 4.3. Detalhamento do ambiente i. Instalações prediais Sede: Um prédio, situado na rua Sete de Setembro, 111, 29º Andar, Centro, Rio de Janeiro/RJ ­ 15 andares ocupados pela CONTRATANTE, de um total de 34; Superintendência Regional de Brasília: Um módulo do Ed. Corporate Financial Center, no SCN Quadra 02 Bloco A 4° Andar - Módulo 404, Brasília/DF; e Superintendência Regional de São Paulo: Rua Cincinato Braga, 340 - 2o, 3o e 4º andares - Edifício Delta Plaza, Centro, São Paulo/SP. ii. Estrutura de rede para comunicação de dados Infra-estrutura implantada em cabeamento de par trançado categorias 5 e 6 e cabeamento óptico; Instalações (06) de videoconferência, sendo três situadas na Sede da CONTRATANTE, duas na Superintendência Regional de São Paulo e uma na Superintendência Regional de Brasília. iii. Ambiente de desenvolvimento Banco de Dados de Produção: SQLServer 2000(Corporativo e Web), SQLServer 2005(Portal do Investidor) e Oracle 10g (BOVESPA e Novo Sistema de Acompanhamento do Mercado); Linguagens de Programação: Delphi 5.0, ASP.Net, VB.Net e C#, HTML, XML, VBScript e JavaScript; Ferramentas: Visual Studio .Net 2003 e 2005, Visio 2003, ER-Win 7.2 ; Containers Web: Internet Information Server 5.0 e 6.0, COM+; Frameworks de desenvolvimento utilizados: MS .Net 2003 e 2005;
+57
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Programação orientada a eventos; Programação orientada a objetos; Análise e projeto orientados a objeto com UML; Metodologia: Subconjunto customizado para a CVM pelo SERPRO, baseado no Processo SERPRO de Desenvolvimento de Soluções (PSDS), adaptado do RUP (Rational Unified Process) e alinhado com a Certificação CMMI de Nível 2. iv. Sistemas de informação Os sistemas de informação são divididos por suas características técnicas e funcionais, podendo ser cliente/servidor ou web, estando disponível apenas para uso dos colaboradores da Instituição quando presentes nas dependências do Órgão (client/Server e Intranet), para orientação de serviços terceirizados de call-center (Extranet) ou para uso do Mercado de Valores Mobiliários e demais cidadãos (através da Internet ­ Web). A tabela a seguir relaciona serviços, softwares e sistemas atualmente em uso na CVM.
+Ambiente 1. Intranet 12 itens Páginas Institucionais Busca de Documentos CVM CAP ­ Sistema de Controle de Audiências a Particulares BI ­ Business Intelligence Formação Acadêmica Liberação Oferta Lançamento Dados Finais SAD ­ Sistema de Atos Declaratórios SCDP ­ Diárias & Passagens SRH ­ Módulos de Freqüência e Férias SSO ­ Sistema de Solicitação Serviços de Informática SSS ­ Sistema de Solicitação de Serviços Administrativos DMCA ­ Sistema de Acompanhamento de Cias. Abertas HTML, ASP Folio, Delphi ASP BO Delphi Delphi ASP, VB6 SERPRO Delphi .Net ASP, Access Informática, Cognos 58 Solução Plataforma
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Ambiente 2. Internet 2.1 CVMWEB 66 itens 12 itens
+
+Solução
+
+Plataforma
+
+2.1.1 Sistemas autônomos (8 itens) CVMWeb - Serviços de Interface e Autenticação (SWB) .Net,ASP, VB6 T-SQL
+
+CVMWeb - Serviços de Sincronização de Dados com o Repositório Corporativo CVMWeb - Denúncia Sobre Suspeita de Lavagem de Dinheiro (SDLD) CVMWeb - Consultas BACEN CVMWeb - Web Services de Download de Informes de Fundos CVMWeb - Serviços Administrativos para Usuários da CVM (ADM) CVMWeb - Atualização Cadastral de Ativos (Títulos Públicos e Bolsas) CVMWeb - Serviço de Atendimento ao Investidor (SAI) 2.1.2 Complemento de sistemas corporativos (4 itens) CVMWeb - Atualização Cadastral de Participantes (SIC) CVMWeb - Registro (SRE) CVMWeb - Serviços de Taxas de Fiscalização (SCTAX) CVMWeb - Recepção de Informes de Fundos, Investidores Não Residentes e Administradores de Carteira (SRD) 2.2 INTERNET pp. Dita (9 itens) Páginas Institucionais SIC - Módulo de Agentes Autônomos SIC - Módulo de Analista de Valores SIC - Módulo de Auditores SIC - Módulo de Instituições Financeiras
+
+.Net
+
+.Net .Net, XML .Net .Net
+
+.Net
+
+.Net .Net .Net .Net, Delphi
+
+HTML, ASP .Net .Net .Net .Net
+
+59
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Ambiente
+
+Solução SIC - Módulo de Prestadores de Serviços CAP - Sistema de Controle de Audiências a Particulares - Módulo de Solicitações Mailing "Legislação e Regulamentação" SAF/IAN - Módulo RAD/IPE
+
+Plataforma .Net .Net
+
+ASP BOVESPA
+
+2.3 Extranet
+
+2 itens Serviço 0800 ­ Consultas diversas no Cadastro de Participantes, Fundo 157 e Sistema de Taxas Serviço de Consultas aos Manuais de Inspeção ASP
+
+.Net
+
+2.4 Portal do Investidor (43 itens, inteiramente provido com recursos de acessibilidade) 2.4.1. Página do Investidor (7 itens) Orientações ao investidor Por que investir? Como investir Direitos Como acompanhar investimentos Participantes do Mercado Cadernos e guias da CVM 2.4.2 Página do Acadêmico (6 itens) e-Learning Histórias em quadrinhos Histórias interativas Desafios Cursos Palestras 2.4.3. Página do Jurídico (4 itens) 60 .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Ambiente Legislação e regulamentação Pareceres Decisões do colegiado Entrevistas e artigos
+
+Solução
+
+Plataforma .Net .Net .Net .Net
+
+2.4.4. Investidor Estrangeiro (18 itens (6 itens x 3 idiomas)) O Mercado de Valores Mobiliários brasileiro Como investir Impostos e taxas Leis de proteção ao investidor Economia brasileira Dados estatísticos e econômicos do Brasil 2.4.5. Recursos Comuns (8 itens) Painel do investidor Pesquisa de fundos de investimento Desafios Vídeos Alertas Comunicados Ferramenta de busca Cadastro de Usuários 3. Sistemas Corporativos (33 itens) INQ - Sistema de Processos Administrativos Sancionadores Inquéritos LOG ­ Funcionalidades de atualização de trilhas de auditoria PJU_ACOMP - Sistema de Acompanhamento de Processos Jurídicos Delphi .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net .Net
+
+T-SQL Visual Basic 5 61
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Ambiente
+
+Solução PJU_DIVDAT - Sistema de Dívida Ativa de Taxa DAM ­ Sistema de Dívida Ativa de Multas REC - Sistema de Emissão/Recepção de Correspondência REC/PFE - Sistema de Ementas de Documentos para a PFE SAF/IAN - Módulo de Consultas SAF/IAN - Módulo CVMWin SAA - Módulo Gerenciador & Carga do SAF/IAN SAF - Sistema de Análises Financeiras (Módulo auxiliar do SAF/IAN) SysBibli - Sistema de Biblioteca SAP - Sistema de Acompanhamento de Processos SCA - Sistema de Acompanhamento de Processos de Companhias Abertas SCMUL - Sistema de Controle de Multas Cominatórias SCRD ou SRI - Sistema de Controle de Recepção de Documentos SCTAX - Sistema de Taxa de Fiscalização SDPA - Sistema de Desvios e Performance de Auditor SEM - Sistema de Séries Históricas e Estatísticas SFI - Sistema de Controle de Solicitações de Inspeção SGA - Sistema de Gastos SIC - Sistema de Cadastro de Participantes SIE - Sistema de Investidores Estrangeiros SMA - Sistema de Mailing SRA - Sistema de Restrição de Acesso SRD - Sistema de Recebimento de Documentos SRE - Sistema de Registro de Valores Mobiliários
+
+Plataforma Delphi Delphi Delphi Delphi BOVESPA BOVESPA BOVESPA Delphi Contempory Delphi Delphi
+
+Delphi Delphi Delphi Delphi Delphi Delphi Delphi Delphi Delphi Delphi Delphi Delphi Delphi 62
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Ambiente
+
+Solução CRI - Sistema de Registros de Certificados de Recebíveis Imobiliários CRI Emissor - Certificado de Recebíveis Imobiliários EP - Sistema de Emissões Particulares Link - Controle de Almoxarifado Link - Controle de Patrimônio SRH - Sistema de Recursos Humanos (RHN)
+
+Plataforma Delphi
+
+Delphi Delphi Link Link Delphi
+
+4. Soluções de Business Intelligence (2 itens) WFD- Datamart de Fundos de Investimento WIN - Datamart de Inquéritos 5. Soluções de Automação de Escritório (2 itens) Sistema de Recepção e Controle de Documentos Sistema de Documentos da Procuradoria Federal Especializada Total: 115 Soluções Access Access BO BO
+
+Observações: a. As plataformas BOVESPA, Informática, Cognos e SERPRO não são de responsabilidade da CONTRATADA, mas deverão ser levadas em consideração por força de integração de aplicativos. b. As plataformas Link e Contempory não são de responsabilidade da CONTRATADA. v. Metodologia de Desenvolvimento de Sistemas A metodologia de desenvolvimento de sistemas utilizada pela CONTRATANTE está definida no subitem 4.3.iii ­ Ambiente de Desenvolvimento e descrita no Anexo III. 4.4. Local de execução dos serviços De acordo com a necessidade da CONTRATANTE, os serviços poderão ser executados em suas dependências ou nas dependências da CONTRATADA conforme especificidades, características e emergência das atividades a serem realizadas, notadamente atividades de manutenção corretiva e emergencial, levantamento de requisitos e publicação de páginas de conteúdo estático na Internet e Intranet. No item
+63
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+3 deste Anexo II (Parâmetros para Dimensionamento) é descrita a distribuição histórica das demandas de manutenção e desenvolvimento de sistemas por prazo de atendimento no período entre julho de 2005 e setembro de 2009 para balizar as necessidades de atendimento presencial nas dependências da CVM. Para as atividades realizadas nas dependências da CONTRATADA, esta deverá manter, sob suas expensas, conexão com o Centro de Dados da CVM, em conformidade com os padrões estabelecidos pela CONTRATANTE e seu provedor. O endereço das dependências da CONTRATANTE para execução dos serviços relacionados no item 1 do Termo de Referência (Anexo I) e neste documento de especificações técnicas (Anexo II) é: Rua Sete de Setembro, 111, 29º andar, Centro, Rio de Janeiro/RJ
+
+5. SISTEMA DE GESTÃO DE DEMANDAS Abaixo serão relacionados os requisitos mínimos do Sistema de Gestão de Demandas (Serviços) que a CONTRATADA deverá deixar disponível para a CONTRATANTE. Os requisitos estão divididos em 2 módulos: Acompanhamento dos Serviços e Controle dos Defeitos. O sistema deverá ser disponibilizado através de INTERFACE WEB e possuir todos os controles de acesso e segurança necessários.
+
+A - Acompanhamento dos Serviços O Software para Acompanhamento das Demandas deverá ser utilizado pela CONTRATADA para apoio ao GERENCIAMENTO DE PROJETOS e possibilitar o acompanhamento da execução dos serviços que estarão sendo desenvolvidos para a CVM. Também deverá possuir, no mínimo, as informações e funcionalidades relacionadas a seguir: 1. Informações 1.1. Identificação da ORDEM DE SERVIÇO (OS) - (número, data, hora e demais informações relacionadas ao documento) 1.2. Descrição do Serviço 1.3. GESTOR DO CONTRATO, DA CVM 1.4. Responsável Técnico da CONTRATADA e da CONTRATANTE
+64
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+1.5. Informações de MÉTRICAS DE TAMANHO DE SERVIÇO OU DE SOFTWARE - Estimativas e Dados realizados 1.6. Cronograma de cada OS, com integração com a ferramenta de Gestão de Projetos em uso na CVM 1.7. Datas de inicio e fim de cada tarefa / atividade - prevista e realizada na execução do serviço 1.8. Relação de documentos ou ARTEFATOS gerados no decorrer da execução do serviço, com descrição sucinta do conteúdo e conexão de hipertexto para acesso aos mesmos 1.9. Marcos exigidos para entregas ­ data e descrição dos ARTEFATOS 1.10. Andamento do serviço, e de suas tarefas / atividades 1.11. Local de execução 1.12. Ferramentas utilizadas na execução do serviço e das tarefas / atividades (linguagem, banco de dados, softwares de apoio) 1.15. Informações e dados necessários para o cálculo dos indicadores de nível de serviço descritos neste anexo 1.16. Informações sobre os softwares da CVM, desenvolvidos CONTRATADA ou objeto de manutenções pela CONTRATADA 1.17. Registros de problemas e comentários 1.18. Armazenamento histórico de todas as informações, assim como versões de todos os documentos 2. Funcionalidades 2.1. Funções de Gerenciamento do Portfolio de PROJETOS e do conjunto dos serviços 2.1.1. Acompanhamento dos serviços contratados e suas respectivas Ordens de Serviço, por meio de consultas, relatórios e gráficos, possibilitando a análise da situação e comparação dos serviços realizados em relação ao previsto; pela
+
+65
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+2.1.2. Acompanhamento dos custos dos serviços contratados e suas respectivas faturas, por meio de consultas, relatórios e gráficos, possibilitando a análise do custo realizado em relação ao previsto, controle de entregas, desembolsos e custos de mudança de escopo; 2.1.3. Consulta ao perfil e competência dos profissionais alocados aos serviços contratados; 2.2. Funções de Gerenciamento de Marcos associados aos serviços 2.3. Funções de Gerenciamento de ARTEFATOS Gerados por serviço / tarefa / atividade 2.4. Funções de Gerenciamento de Solicitações de Mudanças 2.5. Funções de Gerenciamento de MÉTRICAS DE TAMANHO DE SERVIÇO OU DE SOFTWARE 2.5.1. Base histórica com o comparativo entre estimativas e o realizado (esforço, prazo, custo, níveis de serviço e garantia); 2.6. Funções de Gerenciamento dos Indicadores de Níveis de Serviço descritos neste anexo; 2.6.1. Acompanhamento dos níveis de serviço contratados globais ou para uma demanda específica, por meio de consultas, relatórios e gráficos; 2.7. Funções de Acompanhamento do Histórico das Informações 2.7.1. Banco de soluções (base de conhecimento online). 2.8. Funções de Gerenciamento de Pontos de Atenção, Pontos de Risco e Pontos de Melhoria 2.8.1. Relatórios gerenciais com informações de ocorrências de atendimento a demandas emergenciais e corretivas; 2.8.2. Coleta e acompanhamento do nível de satisfação do cliente em relação aos serviços contratados; 2.9. Função que permita à CVM, através de Web Service, realizar quaisquer consultas em SQL diretamente na base de dados do Software de Acompanhamento de Serviços, com o propósito de obtenção de dados estatísticos mais elaborados
+
+66
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+B - Controle de Defeitos O Software de Controle de Defeitos será utilizado pela CVM para registrar os defeitos identificados na Fase de Homologação e durante a operação em produção. Também será utilizado pela CONTRATADA para registrar as soluções. Este software deverá possuir no mínimo as seguintes entidades e funcionalidades (Obs.: os nomes das entidades não precisam ser os mencionados aqui desde que o propósito seja aquele aqui especificado):
+
+1. Entidades 1.1. Entidades software, ORDEM DE SERVIÇO e versão do software 1.2. Entidades usuário e grupo de usuários (contendo as permissões de uso de funcionalidades do software associadas a cada grupo) 1.3. Entidade defeito, contendo pelo menos as seguintes informações: 1.3.1. descrição 1.3.2. software 1.3.3. OS 1.3.4. versão do produto 1.3.5. plataforma e sistema operacional 1.3.6. severidade 1.3.7. prioridade 1.3.8. estado (não é cadastrado diretamente, sendo alterado via fluxo de trabalho - vide subitem 2.4. deste Anexo para detalhamento dos estados) 1.3.9. resumo ou palavra-chave (para facilitar pesquisa) 1.3.10. data e hora de cadastramento do defeito 1.3.11. data e hora da última alteração do defeito 1.3.12. usuário responsável pelo cadastramento 1.3.13. usuário responsável pela correção 1.3.14. usuário responsável pelo teste 1.3.15. usuário responsável pelo fechamento 1.3.16. arquivos anexados
+
+67
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+1.3.17. lista de defeitos dos quais este defeito depende (defeitos que precisam ser resolvidos para que o defeito em questão possa ser resolvido). 1.3.18. lista de comentários 1.4. Histórico de alteração de estado do defeito, contendo: 1.4.1. usuário responsável pela alteração 1.4.2. data e hora de alteração 1.4.3. estado após a alteração 2. Funcionalidades As funções descritas nesta lista devem estar disponíveis para uso com INTERFACE WEB. 2.1. Funções que permitam o cadastramento das informações do software, OS e as versões do software 2.2. Funções que permitam o cadastramento dos usuários e grupos de usuários 2.3. Funções que permitam o cadastramento do defeito 2.4. Funções que permitam a alteração de estado do defeito. O conjunto de possíveis estados para um defeito deve ser pelo menos: 2.4.1. Aberto 2.4.2. Atribuído, corresponde à situação onde foi designado o responsável da CONTRATADA para corrigir o defeito 2.4.3. Resolvido, corresponde à situação onde o responsável da CONTRATADA pela eliminação do defeito dá por concluída sua atividade. Este estado deve ter uma qualificação, escolhida a partir de uma lista, especificando os tipos de resoluções, como: `consertado', `duplicado' e `não é defeito' (está de acordo com as especificações). Os estados seguintes podem ser, pelo menos, Reaberto ou Testado 2.4.4. Testado, corresponde à situação onde foi realizado teste pela CONTRATADA, após eliminação do defeito. Os estados seguintes podem ser, pelo menos, Aberto ou Fechado 2.4.5. Fechado, corresponde à situação onde a CVM indica que entende que o defeito foi eliminado 2.4.6. Reaberto, corresponde à situação onde a CVM indica que um defeito que, a princípio havia sido eliminado, tornou a ser percebido
+68
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+2.5. Funções para manutenção de comentários e anexação de arquivos 2.6. Funções de consulta parametrizável de defeitos e seu histórico utilizando filtros com parâmetros fornecidos pelo usuário 2.7. Envio de e-mails para usuários relacionados a um defeito quando este defeito é registrado ou tem algum dos seus dados alterado 2.8. Função que permita à CVM, através de página Web, realizar quaisquer consultas em SQL diretamente na base de dados do Software de Controle de Defeitos, com o propósito de obtenção de dados estatísticos mais elaborados 2.9. Função que permita à CVM, através de Web Service, realizar quaisquer consultas em SQL diretamente na base de dados do Software de Controle de Defeitos, com o propósito de obtenção de dados estatísticos mais elaborados
+
+6. UNIDADE RESPONSÁVEL PELO TERMO DE REFERÊNCIA Gerência de Sistemas (GSI).
+
+7. UNIDADE FISCALIZADORA DO CONTRATO Gerência de Sistemas (GSI).
+
+Rio de Janeiro/RJ,
+
+de
+
+de 2009.
+
+Arydalton Carlos Vilarinhos Junior Gerente de Sistemas ­ CVM
+
+69
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+ANEXO III METODOLOGIA DE DESENVOLVIMENTO DE SISTEMAS DA CVM
+
+A finalidade deste processo é descrever o ciclo de desenvolvimento e manutenção de sistemas de informação de responsabilidade da Gerência de Sistemas (GSI) da CVM. Dependendo do porte do serviço demandado, este processo é estruturado em diversas fases. Cada fase, por seu turno, pode possuir uma ou mais iterações durante o ciclo de desenvolvimento do projeto. Para melhor entendimento listamos os seguintes conceitos básicos:  Fase - Intervalo entre dois objetivos primários do desenvolvimento do projeto. Para cada fase do projeto são definidas metas a serem atingidas, artefatos concluídos e tomadas de decisões.  Iteração: Descreve uma seqüência distinta de atividades, delineada por meio de um planejamento específico, no qual o objetivo primário é conceber um produto final ou subconjunto do produto final. Este resultado é o elemento utilizado para avaliação da execução conforme o planejamento. Havendo mais de uma iteração planejada, os produtos gerados em cada iteração não necessitam estar completos, cabendo a possibilidade de evolução destes durante o ciclo de vida, porém devem sempre ser íntegros e suficientes para dar suporte a outras etapas do processo de desenvolvimento ou para ser disponibilizados para o usuário final.  Disciplina: Conjunto de atividades relacionadas a uma área de conhecimento no que se refere ao desenvolvimento de sistemas. Uma disciplina pode ser contemplada por diversas fases e iterações do projeto de desenvolvimento de software.  Artefato: Produto elaborado a part ir do processo de desenvolvimento de software. Um artefato pode ser formalizado por meio de modelos, descrições, documentos ou por um produto de software. O processo de trabalho da CVM possui as seguintes fases durante o ciclo de desenvolvimento de projeto:  Fase de Solicitação - Esta fase é iniciada a partir da formalização da solicitação de serviços de TI feita por usuários de sistemas da CVM. Nesta fase são previstas apenas duas atividades básicas: solicitar serviços (solicitação feita por usuário à GSI) e efetuar triagem (selecionar, priorizar e organizar as solicitações de serviços dirigidas à GSI).
+70
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+
+
+Fase de Iniciação ­ é o marco inicial do projeto aprovado e priorizado pela GSI. O objetivo primário desta fase é fechar o escopo e o planejamento do projeto. Esta fase possui as seguintes atividades, condicionadas ao porte dos serviços demandados: iniciar projeto, instanciar processo de desenvolvimento, definir escopo do projeto, homologar escopo, levantar requisitos de alto nível, estimar tamanho do projeto, planejar projeto, instanciar padrão de interface e propor arquitetura candidata. Serviços de pequeno porte demandam apenas as atividades de definir escopo e estimar tamanho do projeto. Fase de Evolução ­ o objetivo desta fase é a construção do produto solicitado pelo usuário devidamente documentado e testado. É uma fase que pode possuir mais de uma iteração para que seu objetivo seja totalmente atendido. Nela são realizadas a maioria das atividades técnicas do projeto que consistem em: levantar requisitos, realizar requisitos, construir protótipo de interface, definir ambiente de desenvolvimento, elaborar casos de testes, gerar massa de teste, estruturar modelo de implantação, integrar sistemas, efetuar testes, homologar artefatos, modelar dados, implementar requisitos do sistema, criar ambiente de homologação, gerar artefatos de instalação e gerar builds de teste e homologação. Fase de Transição ­ é a fase onde o produto solicitado já está pronto e devidamente testado. O objetivo primário desta fase é a entrega do produto ao usuário final. Nesta fase estão compreendidas as seguintes atividades: gerar build para produção, disponibilizar ambiente de produção, homologar sistema, finalizar o projeto e acompanhar a utilização do sistema.
+
+
+
+
+
+Para que o ciclo de desenvolvimento seja realizado de forma organizada e com garantia de qualidade, em cada fase do projeto, o processo da CVM prevê a realização das iterações com objetivos concretos. Nestas iterações o processo prevê a utilização das seguintes disciplinas:  Disciplina de Requisitos  Estabelecer e manter concordância com os clientes e outros envolvidos sobre o que o sistema deve fazer;  Oferecer aos desenvolvedores do sistema uma compreensão melhor dos requisitos do sistema.  Definir as fronteiras do sistema (ou delimitar o sistema);  Fornecer uma base para planejar o conteúdo técnico das iterações;  Fornecer uma base para estimar o custo e o tempo de desenvolvimento do sistema;  Definir uma interface de usuário para o sistema.
+71
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+
+
+Gerenciamento de Projetos  Apresentar diretrizes práticas para planejar, executar e monitorar os projetos, numa abordagem iterativa;  Elaborar e manter cronograma do projeto atualizado;  Fornecer orientações sobre o gerenciamento de risco;  Gerenciar equipe técnica do projeto (alocar recursos);  Gerenciar custo e prazo do projeto;  Gerenciar recursos técnicos e logísticos da equipe.
+
+
+
+Análise e Design  Realizar requisitos do usuário (criar os diagramas de classe, atividade e seqüência que se fizerem necessários ao perfeito entendimento do resultado esperado)  Gerar Modelo de Dados  Integrar modelo de dados do projeto ao modelo corporativo CVM.
+
+
+
+Ambiente  Criar ambiente de desenvolvimento, homologação e produção;  Fornecer ferramentas para o desenvolvimento do projeto;  Garantir a estabilidade dos ambientes de desenvolvimento, homologação e produção.
+
+
+
+Implementação  Implementar os requisitos do projeto;  Efetuar testes unitários.
+
+
+
+Teste  Planejar testes;  Elaborar artefatos de testes;  Realizar testes e garantir a qualidade dos requisitos funcionais e não-funcionais previstos no projeto;
+72
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+ Garantir a qualidade de produtos entregues ao usuário.  Homologação  Homologar artefatos de todas as fases do projeto;  Atestar a qualidade de produtos disponibilizados;  Documentar a homologação de artefatos e produtos.  Gerência de Configuração e Mudança  Gerenciar e controlar os artefatos produzidos;  Gerar "baseline" de produtos e artefatos homologados;  Garantir a qualidade de produtos;  Garantir a guarda de artefatos e produtos do projeto;  Utilizar as ferramentas que se façam necessárias para garantir o controle de mudanças.
+
+No ciclo de desenvolvimento ou manutenção evolutiva, conforme a orientação do processo da CVM, um projeto poderá gerar os seguintes artefatos:    Ata de Reunião - documento que formaliza as reuniões entre os gestores de sistemas e a equipe técnica durante o ciclo de vida do projeto. Avaliação de Iteração - documento que formaliza a realização do objetivo da iteração. Banco de Dados - Corresponde ao banco de dados do projeto instalado/criado (em ambiente de desenvolvimento e/ou homologação) pela equipe de Infra-Estrutura da CVM ­ Gerência de Tecnologia(GST). Build - é uma unidade de produto de software pronta e consistente com o processo de negócio especificado. Caso de Teste ­ é a descrição dos cenários de teste conforme a especificação do caso de uso. Código Implementado - corresponde ao código, o software propriamente dito. Este código deve estar consistente e aderente à arquitetura definida e ao negócio especificado.
+
+  
+
+73
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+
+
+Contagem de Pontos de Função do Projeto - Relatório que contém o detalhamento da contagem de pontos do projeto. Devem ser descritas todas as funções de dados, funções transacionais e, se considerados em contrato, fatores de ajuste da contagem realizada. Cronograma do Projeto - Corresponde a seqüência de atividades de determinado projeto conforme o planejamento feito pelo gerente de projetos. Diagrama de Caso de Uso - É a representação gráfica dos casos de uso e seus relacionamentos com atores ou outros casos de uso. Cada caso de uso identificado deve ser representado no diagrama e possuir uma breve descrição das suas principais funcionalidades. Documento de Arquitetura de Software ­ documento que descreve a arquitetura de software utilizada no projeto. Esta deve estar aderente às regras gerais da arquitetura de software utilizada pela GSI. Documento de Regras de Negócio - É o artefato que contém todas as regras gerais do sistema. As regras gerais são aquelas utilizadas por mais de um caso de uso do projeto especificado no projeto. Documento de Visão - O documento de visão delimita o escopo do projeto a ser realizado. Auxilia na análise da solução, na identificação de requisitos, na expectativa de prazo, custo e recursos consumidos pelo projeto. Especificação de Caso de Uso - Caso de uso é uma unidade funcional provida por um sistema, que tem, na visão do usuário, sentido completo para o negócio em estudo, gerando um resultado de valor perceptível ao usuário. A especificação do caso de uso descreve a seqüência da conversação entre o(s) ator(ES) envolvido(s) e o sistema. Especificação Suplementar - Documento onde estão descritos requisitos nãofuncionais do projeto. Glossário do Projeto - Documento utilizado para descrever as siglas, abreviações e termos utilizados no projeto. Guia de Interface com Usuário ­ documento que contém as diretrizes para elaboração de interfaces de sistemas elaborados pela GSI. Lista de Mensagens do Sistema - documento que contém a descrição das mensagens de negócio de um determinado sistema. Este documento é utilizado para unificar e tornar homogêneas todas as mensagens utilizadas no sistema. Lista de Riscos ­ documento que contém as informações dos riscos (ativos e inativos) apontados pelos procedimentos de gerência de projeto durante o desenvolvimento do sistema.
+
+ 
+
+
+
+
+
+
+
+
+
+   
+
+
+
+74
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+
+
+Manual do Usuário - manual de procedimentos relativos ao negócio especificado no sistema. Deve apresentar as telas, processos e regras relativas a cada funcionalidade disponibilizada ao usuário. Massa de Teste ­ corresponde aos dados mantidos no banco de dados de desenvolvimento e homologação necessários para realização de testes funcionais dos sistemas. Modelo de Dados - apresenta a estrutura lógica das informações persistentes no sistema. Plano de Iteração - documento que contém o conjunto de metas, objetivos e artefatos de uma determinada iteração do projeto. Protótipo - Consiste no modelo das telas (interface) de um determinado sistema. Sua função principal é auxiliar na elucidação de requisitos funcionais junto ao usuário/gestor do sistema, uma vez que permite visualizar a aplicação ainda nãoproduzida. Realização de Caso de Uso ­ corresponde aos artefatos necessários para a realização (análise de design) dos casos de uso do projeto. Relatório de Acompanhamento do Projeto - Documento que tem a finalidade de apresentar o status do projeto. Deve ser disponibilizado ao superior imediato para as devidas providências e decisões em relação ao andamento do projeto. Permite acompanhar o processo de desenvolvimento do projeto, a solução de pendências e também auxilia minimizar os ricos ainda ativos. Relatório Final do Projeto ­ documento que formaliza a finalização do desenvolvimento do projeto. Repositório de Artefatos do Projeto - Local destinado para o armazenamento de artefatos do projeto. Sumário do Projeto - É o termo de abertura do projeto. É o documento que contém o detalhamento da solicitação de serviços de TI. O sumário deve contemplar as principais expectativas do usuário em relação ao serviço demandado. Sumário de Teste - Documento utilizado para descrever o resultado de testes conforme a descrição e a entrada de dados informados no caso de testes. Solicitação de Serviços de Informática ­ é a formalização da solicitação do usuário para realização de serviços junto à GSI. Especificação Funcional - Documento aplicado a projetos de pequeno porte ­ até 150 Pontos de Função e com um mínimo estimado de 40 horas de atividades ­ onde estão descritos requisitos de diversos tipos, conforme as necessidades do projeto.
+75
+
+
+
+  
+
+ 
+
+  
+
+  
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+ANEXO IV ORÇAMENTO TOTAL ESTIMADO
+Serviço 1)Desenvolvimento e manutenção de sistemas públicos com uso de SGBD relacional 2)Desenvolvimento e manutenção de sistemas corporativos com uso de SGBD relacional 3)Alterações e inserções em páginas de conteúdo estático TOTAL GERAL Unid. Estimativa Mensal 160 Valor Unitário (R$) 1015,62 Valor Mensal (R$) 162.499,20 Estimativa Anual 1.920 Valor total Anual (R$) 1.949.990,40
+
+PF
+
+PF PF
+
+180 60
+
+1015,62 1015,62 Vlr. Médio Ponderado (R$) 1015,62
+
+182.811,60 60.937,20
+
+2.160 720
+
+2.193.739,20 731.246,40 Valor Global Anual (R$) 4.874.976,00
+
+400
+
+406.248,00
+
+4.800
+
+Observações: a) o orçamento apresentado é meramente estimativo; b) PF: ponto de função; c) distribuição estimada das demandas por tecnologia:
+Tecnologia Principal .Net (ASP, VB, C#), XML, SQL Server 2000 e 2005, Oracle 10g Delphi 5, SQL Server 2000 e Oracle 10g HTML, ASP, JavaScript, MacroMedia Flash Outras Tecnologias VB6, Delphi 5, BO, Folio, DotNetNuke
+
+Serviço 1)Desenvolvimento e manutenção de sistemas públicos com uso de SGBD relacional 2)Desenvolvimento e manutenção de sistemas corporativos com uso de SGBD relacional 3)Alterações e inserções em páginas de conteúdo estático
+
+% 70
+
+% 30
+
+85
+
+VB5, Access, VBScript
+
+15
+
+75
+
+MacroMedia Studio 8, Adobe Creative Suite 2 for Windows, Adobe Contribute 4, Adobe DreamWeaver 3.0 e 8.0, Adobe FireWorks 8, Adobe Flash 8 Pro, Dundas e Teechart.
+
+25
+
+76
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+ANEXO V MODELO DE PROPOSTA DE PREÇO
+
+QUADRO I ­ PLANILHA DE PROPOSTA DE PREÇO
+Estimativa Mensal 160 Valor Unitário (R$) Valor Mensal (R$) Estimativa Anual 1.920 Valor Total Anual (R$)
+
+Serviço 1)Desenvolvimento e manutenção de sistemas públicos com uso de SGBD relacional 2)Desenvolvimento e manutenção de sistemas corporativos com uso de SGBD relacional 3)Alterações e inserções em páginas de conteúdo estático
+
+Unid.
+
+PF
+
+PF PF
+
+180 60 Valor Médio Ponderado (R$)
+
+2.160 720 PREÇO* GLOBAL ANUAL (R$)
+
+TOTAL GERAL
+
+400
+
+4.800
+
+* Preço a que se refere o item 7.3 do Edital Observações: a) Estimativa Anual, Valor Total Anual e PREÇO GLOBAL ANUAL correspondentes a 12 meses; b) Nos valores acima informados devem estar considerados todos os custos e despesas de qualquer natureza incidentes sobre o objeto da licitação; c) Qualquer elemento que possa identificar a licitante perante os demais participantes durante o certame importará a desclassificação da proposta; d) O PREÇO GLOBAL ANUAL é o somatório dos valores totais anuais dos 3 serviços descritos no Quadro I.
+
+77
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+ANEXO VI MODELO DE DECLARAÇÃO TERMO DE VISTORIA (FACULTATIVA)
+
+Declaro que a empresa _________________________ ______________________ (empresa), inscrita no Cadastro Nacional da Pessoa Jurídica, CNPJ/MF, sob o n.º ____________________, com sede na __________ ________________________________ (endereço completo), por intermédio de seu representante legal, o (a) Sr. (a) ____________________________________ __________________, infra-assinado, portador (a) da Carteira de Identidade n.º ____________________, expedida pela ____________ e do Cadastro da Pessoa Física, CPF/MF sob o n.º ________________, visitou as dependências da Gerência de Sistemas da CVM | do Centro de Dados da CVM, tomando conhecimento dos locais onde que serão prestados os serviços objeto do Pregão Eletrônico nº 53/2009.
+
+Local e data
+
+______________________________________ Assinatura e carimbo (servidor da Gerência de Sistemas da CVM | do Centro de Dados da CVM)
+
+______________________________________ Assinatura (representante legal da empresa)
+
+78
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+ANEXO VII
+PROCESSO DE COMPRAS Nº RJ-2009-10799 PREGÃO ELETRÔNICO Nº 53/2009
+
+CONTRATO Nº
+
+/09
+
+MINUTA DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE SUSTENTAÇÃO DE SISTEMAS QUE ENTRE SI FAZEM A CVM - COMISSÃO DE VALORES MOBILIÁRIOS E .....................................................................
+
+A CVM - Comissão de Valores Mobiliários, Autarquia Federal vinculada ao Ministério da Fazenda, com sede na Rua Sete de Setembro, 111 - 28º andar - Centro - Rio de Janeiro (CEP: 20.159-900), inscrita no CNPJ sob o nº 29.507.878/0001-08, neste ato representada, com base na delegação de competência conferida pela Portaria/CVM/PTE/nº 118, de 15 de dezembro de 1992, pelo Superintendente Administrativo-Financeiro, Sr. Hamilton Leal Braz, doravante denominada CVM, e ......................................., estabelecida à ................................., inscrita no CNPJ sob o nº ........................, doravante designada CONTRATADA, neste ato representada pelo ....................................., têm justo e acordado o presente contrato, o qual se regerá pela Lei nº 8.666/93, e suas alterações posteriores, pelas Instruções Normativas do MARE nº 05/95 e 02/08, e pelas cláusulas e condições a seguir especificadas e do qual ficam fazendo parte para todos os efeitos de direito, como se aqui transcritos fossem, os seguintes documentos: a) Processo de Compras nº RJ-2009-10799 ­ Edital de Pregão nº 53/2009 e seus Anexos; b) Proposta da CONTRATADA, emitida em ...................... a) Nota de Empenho ­ 2009NE................ Cláusula Primeira - DO OBJETO 1.1O presente contrato tem como objeto a prestação de serviços em Tecnologia da Informação (TI), complementares às atividades da CVM, para:
+79
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+a)
+
+sustentação do ambiente de sistemas de informação, envolvendo manutenção corretiva e evolutiva em seus sistemas corporativos e públicos, bem como alterações e inserções nas páginas de conteúdo estático e/ou dinâmico que integram os sistemas públicos. Compreende os serviços de gerência de projetos, levantamento de requisitos, análise, codificação, testes, homologação e documentação de sistemas e serviços, de acordo com as condições constantes do Termo de Referência (Anexo I) e das Especificações Técnicas (Anexo II). desenvolvimento de novos sistemas de informação, compreendendo os serviços de gerência de projetos, levantamento de requisitos, análise, codificação, testes, homologação e documentação de sistemas e serviços, com ou sem emprego de páginas de conteúdo estático e/ou dinâmico, de acordo com as condições constantes do Termo de Referência (Anexo I) e das Especificações Técnicas (Anexo II). transferência de tecnologia e conhecimento aos servidores e colaboradores da CONTRATANTE, bem como a transferência de produtos de software ao Centro de Dados da CVM para entrada em produção.
+
+b)
+
+c)
+
+1.2-
+
+Integram o presente instrumento, independentemente de transcrição, o Edital do Pregão nº XX/2009, seus Anexos, a Proposta da CONTRATADA e demais elementos constantes no Processo nº. RJ.2009/10799.
+
+Cláusula Segunda ­ DA ESPECIFICAÇÃO DO SERVIÇO 2.1- As especificações dos serviços estão descritos no Termo de Referência (Anexo I) e nas Especificações Técnicas (Anexo II), partes integrantes deste contrato. Cláusula Terceira - DO PREÇO 3.1 A CVM pagará à Contratada, pelos serviços efetivamente prestados, os seguintes valores:
+Serviço 1)Desenvolvimento e manutenção de sistemas públicos com uso de SGBD relacional 2)Desenvolvimento e manutenção de sistemas corporativos com uso de SGBD relacional 3)Alterações e inserções em páginas de conteúdo estático Unid. PF PF PF Valor Unitário (R$)
+
+80
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Cláusula Quarta ­ DA LIQUIDAÇÃO, DO PAGAMENTO E DA REPACTUAÇÃO DOS PREÇOS 4.1 Os pagamentos referentes aos serviços efetivamente prestados, serão efetuados em um prazo máximo de 20 (vinte) dias úteis, após a apresentação das respectivas faturas/notas FISCAIS, mediante depósito na conta-corrente da CONTRATADA, devendo os títulos permanecerem em carteira, não sendo admitidos pela CVM caucionamento ou cobrança bancária, situação em que a CONTRATADA ficará sujeita às sanções, a juízo da CVM, previstas neste Contrato. A Nota FISCAL/Fatura acompanhada dos documentos comprobatórios do cumprimento das obrigações decorrentes do contrato, deverá ser encaminhada ao FISCAL do contrato (nome e andar do FISCAL), designado pela CONTRATANTE, nos termos do art. 67 da Lei nº 8.666/93. Caberá ao FISCAL no prazo de 3 (três) dias úteis a partir de seu recebimento, atestar a prestação do serviço verificando o cumprimento pela CONTRATADA de todas as condições pactuadas, inclusive quanto ao preço cobrado. Após, liberará a referida nota FISCAL/fatura para Gerência de Contabilidade e Finanças (GAF) para fins de liquidação da despesa e pagamento. Nenhum pagamento será efetuado à CONTRATADA antes de paga ou compensada a multa que, porventura, lhe houver sido imposta (art. 86, § 3º da Lei nº 8.666/93 c/c art. 9º da Lei nº 10.520, de 17/07/02 e suas alterações posteriores). Havendo erro na Nota FISCAL/fatura ou circunstância que impeça a liquidação da despesa, aquela será devolvida pelo FISCAL à CONTRATADA e o pagamento ficará pendente até que a mesma providencie as medidas saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a reapresentação do documento FISCAL devidamente regularizado, não acarretando qualquer ônus para a CVM. O pagamento estará condicionado à situação do fornecedor no Sistema de Cadastramento Unificado de Fornecedores ­ SICAF, nos termos do subitem 8.8 da I.N. MARE Nº 05/95. A CONTRATANTE pagará à CONTRATADA somente os serviços efetivamente concluídos, de acordo com os valores cotados na proposta, que serão fixos e irreajustáveis pelo período de 12 (doze) meses a contar da data da apresentação da proposta ou do orçamento a que se referir.
+
+4.2 -
+
+4.3 -
+
+4.4 -
+
+4.5 -
+
+4.6 -
+
+4.7 -
+
+81
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+4.8 -
+
+Caberá à CONTRATADA apresentar as Notas Fiscais e Faturas de Pagamento, juntamente com os Relatórios de Prestação de Contas, no último dia útil de cada mês, no estabelecimento da CONTRATANTE abaixo identificado, o qual se responsabilizará pelo recebimento e liberação para pagamento: Comissão de Valores Mobiliários
+CNPJ: 29.507.878/0001-08 End.: Rua Sete de Setembro, 111/2º andar ­ Setor Protocolo CEP: 20050-901 ­ Rio de Janeiro, RJ
+
+4.9 -
+
+Nos casos de eventuais atrasos de pagamento, desde que a CONTRATADA não tenha concorrido de alguma forma para tanto, fica convencionado que os encargos moratórios devidos pelo CONTRATANTE, entre a data acima referida e a correspondente ao efetivo pagamento da nota FISCAL/fatura, a serem incluídos em fatura própria, são calculados por meio da aplicação da seguinte formula: EM=I x N x VP, onde: EM = Encargos Moratórios; N= Número de dias entre a data prevista para o pagamento e a do efetivo pagamento; VP = Valor da parcela em atraso; I = Índice de compensação financeira = 0,00016438, assim apurado:
+
+I = __i__ 365
+
+I=
+
+6/100 365
+
+I= 0,00016438
+
+4.10 - Não serão considerados os atrasos no pagamento pela CVM decorrentes de caso fortuito ou força maior, nos casos caracterizados como fato do príncipe (ação superior do Estado, unilateral e imprevista, que impossibilita o cumprimento, ao menos temporário, de um ou de todos os deveres contratuais). 4.11 - Será admitida a repactuação do preço pactuado, desde que seja observado o interregno mínimo de 01(um) ano, a contar da data da proposta ou da data do orçamento a que a proposta se referir.
+82
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+4.12 - Nas repactuações subseqüentes à primeira, a anualidade será contada a partir da data da última repactuação. 4.13 - As repactuações serão precedidas de solicitação da Contratada, acompanhada de demonstração analítica da alteração dos custos, por meio de apresentação da planilha de custos e formação de preços e do novo acordo ou convenção coletiva que fundamenta a repactuação, se for o caso. 4.14 - É vedada a inclusão, por ocasião da repactuação, de benefícios não previstos na proposta inicial, exceto quando se tornarem obrigatórios por força de instrumento legal, sentença normativa, acordo coletivo ou convenção coletiva. 4.15 - A repactuação somente será concedida mediante negociação entre as partes, considerando que preços contratados deverão ser compatíveis com aqueles praticados no mercado, de forma a garantir a continuidade da contratação mais vantajosa. 4.16 ­ A CONTRATANTE poderá realizar diligências para conferir a variação de custos alegada pela CONTRATADA. 4.17 - Os novos valores contratuais decorrentes das repactuações terão suas vigências iniciadas a partir da assinatura do termo aditivo, ressalvada a hipótese de envolver exclusivamente revisão do custo de mão-de-obra e esta estiver vinculada a instrumento legal, acordo, convenção ou sentença normativa que contemple data de vigência retroativa cujo pagamento deverá ser concedido somente para os itens que motivaram a retroatividade e apenas em relação à diferença porventura existente.
+
+Cláusula Quinta - DA DESTINAÇÃO ORÇAMENTÁRIA 5.1As despesas correrão à conta da Natureza de Despesa xxxxxx - Programa de Trabalho xx.xxx.xxxx.xxxx.xxxx, Nota de Empenho nº 2009NEXXXXXX.
+
+Cláusula Sexta - DAS OBRIGAÇÕES DA CONTRATADA 6.1A CONTRATADA se obriga a, além das responsabilidades resultantes da Lei 8.666/93:
+
+a) Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas (sem quaisquer ônus para a CVM), no total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou de materiais empregados (art.69 da Lei nº 8.666/93);
+83
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+b) guardar sigilo sobre dados e informações obtidos em razão da execução dos serviços contratados ou da relação contratual mantida com a CONTRATANTE; c) solicitar os esclarecimentos necessários para o regular cumprimento dos termos contratuais à Gerência de Compras e de Serviços Gerais da CVM (GAG); d) manter, em compatibilidade com as obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas na licitação. Assim, sempre que expirar a validade, e durante a vigência do Contrato, a CONTRATADA ficará obrigada a renovar todos os documentos relativos à regularidade no SICAF - Sistema de Cadastramento Unificado de Fornecedores (art. 55, inciso XIII da Lei nº 8.666/93). e) realizar os serviços para os quais foi CONTRATADA dentro dos parâmetros e rotinas estabelecidos, em observância às recomendações aceitas pela boa técnica, normas e legislação; f) providenciar por conta própria, o transporte e treinamento de seu pessoal; g) substituir, quando necessário, o(s) profissional(is) alocados à prestação dos serviços. h) implantar, de forma adequada, a supervisão permanente dos serviços, de forma a obter uma operação correta e eficaz; i) instruir ao seu preposto quanto à necessidade de acatar as orientações da Administração, inclusive quanto ao cumprimento das Normas Internas e de Segurança e Medicina do Trabalho; j) responder pelos danos causados diretamente à CONTRATANTE ou a terceiros, decorrentes de sua culpa ou dolo na execução dos serviços, não excluindo ou reduzindo essa responsabilidade a Fiscalização ou acompanhamento pela CVM; k) arcar com as despesas decorrentes de qualquer infração, seja qual for, desde que praticada por seus funcionários durante a execução dos serviços, ainda que no recinto da CVM; l) assumir, também, a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes do trabalho, quando, em ocorrência da espécie, forem vítimas os seus empregados na execução dos serviços ou em conexão com eles, ainda que ocorridos nas dependências da CVM;
+
+84
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+m) indicar representante pertencente aos quadros da CONTRATADA para manter contato com a CVM para o esclarecimento de dúvidas, fornecendo nome e telefone de contato; n) participar, dentro do período compreendido entre a assinatura do contrato e o início da prestação dos serviços, de reuniões de alinhamento de expectativas contratuais com equipe de técnicos e gestores da CONTRATANTE. o) recrutar, selecionar e contratar os profissionais necessários à realização dos serviços; p) formalizar a indicação de preposto da empresa e substituto eventual para a coordenação dos serviços e gestão administrativa do contrato; q) comunicar previamente à CONTRATANTE os nomes, números de identidade e CPF dos empregados que serão alocados na execução dos serviços, indicando as respectivas tarefas a serem desenvolvidas; r) manter os seus profissionais devidamente identificados por meio de crachá quando em trabalho nas dependências da CONTRATANTE; s) alocar pessoal tecnicamente qualificado e capacitado na execução dos serviços demandados pela CONTRATANTE, garantindo o cumprimento dos prazos fixados e a qualidade dos serviços fornecidos; t) prover treinamento e atualização profissional do pessoal alocado no fornecimento dos serviços contratados, considerando as necessidades identificadas, inclusive pela CONTRATANTE; u) zelar para que todos os privilégios de acesso a sistema, informação e qualquer outro recurso da CONTRATANTE sejam utilizados exclusivamente na execução dos serviços e pelo tempo estritamente essencial à realização dos mesmos; v) administrar todo e qualquer assunto relativo aos profissionais alocados à execução dos serviços; w) assumir todas as responsabilidades e tomar as medidas necessárias ao atendimento dos profissionais acidentados ou acometidos de mal súbito; x) assumir a responsabilidade por todos os encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista em vigor, cumprindo as obrigações decorrentes nas épocas próprias, vez que os seus profissionais não manterão nenhum vínculo empregatício com a CONTRATANTE;
+
+85
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+y) assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica de acidentes de trabalho, quando, em ocorrência da espécie, forem vítimas os seus profissionais durante a execução deste contrato, ainda que acontecido em dependência da CONTRATANTE; z) responder por todos os danos patrimoniais e de quaisquer natureza causados por ação ou omissão de seus profissionais, relacionada à execução dos serviços; aa) disponibilizar, às suas expensas e no prazo máximo de 90 (noventa) dias a contar da data de assinatura do contrato, licenças de uso do sistema informatizado de gestão de demandas em sistemas de informação (Sistema de Gestão de Demandas), em número estipulado pela CONTRATANTE, nunca inferior a 20 (vinte) licenças, que seja suficiente para permitir a abertura de demandas pelos colaboradores da CONTRATANTE envolvidos nos processos e rotinas de trabalho da mesma, além de permitir consulta às demandas por todos os colaboradores da CONTRATANTE e cobrindo pelo menos 70% das demais funcionalidades descritas no Anexo II ­ Especificações Técnicas; bb) providenciar treinamento dos colaboradores da CONTRATANTE e capacitação dos profissionais da CONTRATADA no uso e administração do Sistema de Gestão de Demandas disponibilizado, bem como a infraestrutura necessária para o referido treinamento; cc) transferir, sob supervisão da CVM, os produtos de software homologados e aprovados pela CVM e sua documentação ao Centro de Dados da CVM visando sua entrada em produção, atuando sob a orientação da empresa gestora do Centro de dados, inclusive no que disser respeito a eventual migração de dados; dd) efetuar a customização inicial e contínua do Sistema de Gestão de Demandas; ee) fornecer à CONTRATANTE, em meio magnético, sempre que solicitado, todas as informações relacionadas à prestação dos serviços; ff) fornecer à CONTRATANTE, por quaisquer meios, sempre que solicitado, todas as informações relacionadas à tecnologia e à expertise aplicadas nos serviços prestados; gg) acompanhar as evoluções tecnológicas havidas no parque informático da CONTRATANTE, procedendo as adaptações e migrações de dados necessárias no Sistema de Gestão de Demandas, às suas expensas, de modo a obter os melhores resultados que as inovações ofereçam;
+86
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+hh) manter ou evoluir todas as condições de habilitação, qualificação e certificação exigidas na licitação; ii) planejar, desenvolver, implantar, executar e manter os serviços objeto do contrato de acordo com a metodologia praticada pela CONTRATANTE e com os níveis de serviço estabelecidos nas especificações funcionais e técnicas que compõem este Edital e o Contrato correspondente; jj) encaminhar à unidade Fiscalizadora todas as faturas dos serviços prestados; kk) assumir a responsabilidade pelos encargos fiscais e comerciais resultantes da contratação; ll) reportar à CONTRATANTE imediatamente qualquer anormalidade, erro ou irregularidade que possa comprometer a execução dos serviços e o bom andamento das atividades da CONTRATANTE; mm) elaborar e apresentar à CONTRATANTE, mensalmente, relatório gerencial dos serviços executados, em comparação com os que foram acordados, contendo detalhamento dos níveis de serviços executados versus acordados e demais informações necessárias ao acompanhamento e avaliação da execução dos serviços; nn) obedecer rigorosamente todas as normas e procedimentos de segurança, bem como de uso de recursos de informática, implementados no ambiente de TI da CONTRATANTE; oo) alocar substituto no prazo máximo de 5 dias úteis, a profissional afastado da execução de serviços prestados nas dependências da CONTRATANTE, tão logo esta circunstância chegue ao conhecimento da CONTRATADA, notificando prontamente a CONTRATANTE; pp) disponibilizar à CONTRATANTE o acesso ao Sistema de Gestão de Demandas utilizado para realização e documentação das atividades relacionadas à execução dos serviços, bem como aos produtos de software, documentos e demais artefatos ali armazenados; qq) disponibilizar documentos, modelos, programas fonte, diagramas e artefatos correlatos em formatos reconhecidos pelos aplicativos disponíveis no ambiente da CONTRATANTE; na impossibilidade de fazê-lo, disponibilizar aplicativos visualizadores apropriados a cada caso, com facilidades de cópia de trechos selecionados para a área de transferência, devidamente decriptados, para facilitar processos de validação. rr) aplicar as práticas correspondentes à certificação apresentada na assinatura do contrato, ou à evolução desta certificação eventualmente consignada em seus aditivos, no trato profissional com a CONTRATANTE.
+87
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+ss) atender às solicitações de serviços da CVM, de acordo com as especificações técnicas, procedimentos de controles administrativos, cronogramas físicos e/ou prazos que venham a ser estabelecidos nas "OS ­ Ordens de Serviço" ou em outros instrumentos adequados. tt) manter os sistemas de controle atualizados permanentemente. uu) adotar as providências necessárias que viabilizem a realização dos serviços objeto deste Contrato. vv) executar os serviços descritos no Termo de Referência e nas Especificações Técnicas que o complementam seguindo os procedimentos estabelecidos entre as partes, respeitando a priorização acordada e a seqüência lógica das funções, atendendo com presteza e qualidade às demandas apresentadas. ww) atender aos pedidos de informações formalizados pela CONTRATANTE, por pessoas ou entidades por ela credenciadas, relacionados com a execução dos serviços contratados. xx) manter atualizada a documentação dos serviços constantes do Termo de Referência e das Especificações Técnicas que o complementam, disponibilizando-a à CONTRATANTE, seguindo os padrões estabelecidos entre as partes, em virtude da especificidade de cada serviço. yy) elaborar documentação dos sistemas legados conforme demanda da Contratante. zz) cumprir todas as orientações da CONTRATANTE, para o fiel desempenho das atividades específicas. aaa) prestar todos os esclarecimentos solicitados pela CONTRATANTE, de forma clara, concisa e lógica, cujas reclamações se obriga prontamente a atender. bbb) Cumprir o disposto no Inciso XXXIII, do artigo 7 da Constituição Federal/1988. ccc) cumprir as decisões da CONTRATANTE em conflitos de qualquer natureza que venham a surgir entre a CONTRATADA e outros prestadores de serviços de informática que atuem no ambiente da CONTRATANTE, com vistas à preservação da continuidade dos serviços e do interesse público. ddd) não transferir a terceiros as obrigações assumidas, por qualquer forma e nem mesmo parcialmente, bem como subcontratar qualquer das prestações a que está obrigada sem o consentimento prévio, por escrito, da CVM.
+
+88
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Cláusula Sétima - DAS OBRIGAÇÕES DA CVM 7.1 Caberá à CVM, como CONTRATANTE: a) proporcionar todas as condições para que a CONTRATADA possa cumprir suas obrigações dentro das normas deste Contrato. b) efetuar o pagamento mensal devido pela execução dos serviços, desde que cumpridas todas as formalidades e exigências do contrato; c) permitir acesso dos profissionais da CONTRATADA às suas dependências, equipamentos, softwares e sistemas de informação para a execução dos serviços; d) prestar as informações e os esclarecimentos pertinentes que venham a ser solicitados pelos profissionais da CONTRATADA ou por seu preposto; e) exercer a Fiscalização dos serviços prestados, por meio de servidores designados; f) comunicar oficialmente à CONTRATADA quaisquer falhas verificadas no cumprimento do contrato; g) avaliar relatório mensal dos serviços executados pela CONTRATADA, observando os indicadores e metas de nível de serviço alcançados; h) observar o cumprimento de todas as exigências contidas no Anexo I ­ Termo de Referência e no Anexo II - Especificações técnicas, informando e exigindo da CONTRATADA a pronta correção das desconformidades eventualmente encontradas; i) decidir sobre eventuais conflitos de qualquer natureza que venham a surgir entre a CONTRATADA e outros prestadores de serviços de informática que atuem em seu ambiente, inclusive com ajuda externa se assim julgar necessário, com vistas à preservação da continuidade dos serviços e do interesse público. Cláusula Oitava - DA FISCALIZAÇÃO 8.1 A fiscalização do cumprimento das obrigações contratuais será exercida pelo titular da Gerência de Sistemas da CVM (GSI), denominado doravante FISCAL, devidamente credenciado pela Superintendência AdministrativoFinanceira da CVM (SAD), ao qual competirá acompanhar, fiscalizar, conferir e avaliar a execução/fornecimento, bem como dirimir e desembaraçar quaisquer dúvidas e pendências que surgirem, determinando medidas necessárias à regularização das faltas, falhas, problemas ou defeitos observados no curso do Contrato, e de tudo dará ciência diretamente à
+89
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Contratada, conforme art. 67, parágrafos da Lei nº 8.666/93, e suas alterações. Para o caso de impedimento do servidor indicado para a função de Fiscal, será designado pela Superintendência Administrativo-Financeira (SAD) um novo servidor como Fiscal Substituto. 8.2 As faltas cometidas pela Contratada deverão ser devidamente registradas no Processo pelo FISCAL do Contrato, que providenciará o envio de notificação à Contratada informando sobre a abertura de prazo de defesa para a prestação dos esclarecimentos necessários. O Fiscal deverá, ainda, propor ao Ordenador de Despesas a aplicação das sanções que entender cabíveis para a regularização das faltas cometidas, nos termos do art. 67, parágrafo 2º e do artigo 87 da Lei nº 8.666/93. Caberá à Contratada o pronto atendimento às exigências inerentes ao objeto contratado, feitas pelo FISCAL ou por seu substituto.
+
+8.3 -
+
+8.4 -
+
+A CONTRATADA é responsável pelos danos causados diretamente à Administração ou a terceiros, decorrentes de sua culpa ou dolo na execução do contrato, não excluindo ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento por parte da CVM (art. 70 da Lei nº 8.666/93). A CVM se reserva o direito de rejeitar, no todo ou em parte, o fornecimento efetuado em desacordo com a Proposta apresentada.
+
+8.5 -
+
+8.6 -
+
+O Fiscal do contrato pode sustar qualquer trabalho que esteja sendo executado em desacordo com o especificado, sempre que essa medida se tornar necessária.
+
+8.7 -
+
+Os serviços prestados serão avaliados e homologados, até o 5º dia útil do mês subseqüente ao de sua prestação, juntamente com a análise do relatório gerencial mensal.
+
+8.8 -
+
+A homologação do(s) serviço(s) executado(s) cabe ao usuário demandante dos serviços, solidariamente ao titular do setor responsável pela Fiscalização do contrato ou a outro servidor designado para esse fim.
+
+90
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+8.9 -
+
+A CONTRATADA deverá manter preposto, aceito pela Administração da CONTRATANTE, durante o período de vigência deste contrato, para representá-la sempre que for necessário. DA VIGÊNCIA DO CONTRATO
+
+Cláusula Nona 9.1-
+
+O período de vigência do contrato será de 12 (doze) meses, contados da data da sua assinatura, podendo ser prorrogado, mediante termo aditivo e emissão de nota de empenho, por iguais e sucessivos períodos até o limite de 60 (sessenta) meses, com fundamento no artigo 57, inciso II, da Lei nº 8.666/93.
+
+Cláusula Décima - DAS PENALIDADES 10.1 - Na hipótese da licitante vencedora desistir expressamente desta licitação, ou não assinar o Contrato no prazo previsto neste Edital, estará sujeita à multa de 20% (vinte por cento) sobre o valor da sua proposta (art. 64 da Lei nº 8.666/93). 10.2 - Pela inexecução total ou parcial dos serviços previstos no contrato, pela execução desses serviços em desacordo com o estabelecido no contrato, ou pelo descumprimento das obrigações contratuais, a CONTRATANTE poderá, garantida a prévia defesa e observada a gravidade da ocorrência, aplicar à CONTRATADA as seguintes sanções: a) advertência; b) multa de até 20% (vinte por cento do valor do Contrato), conforme a seguir: b.1) multa a ser calculada sobre o valor total do contrato, em conformidade com as tabelas de gradação abaixo (Tabelas A e B), recolhida no prazo de 15 (quinze) dias, contados da comunicação oficial, garantida a ampla defesa e o contraditório; b.2) multa de 1% (hum por cento) sobre o valor do serviço demandado para cada dia de atraso no início da execução dos serviços dentro do prazo previsto; b.3) multa de 2% (dois por cento) sobre o valor do serviço demandado para cada dia de descumprimento da data aprazada para entrega do serviço; b.4) multa de 5% (cinco por cento) sobre o valor do serviço demandado para cada dia de descumprimento da data aprazada
+91
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+para entrega de serviço, após reincidência formalmente notificada pelo órgão Fiscalizador;
+
+Tabela A - Multas por grau de infração
+Grau 01 02 03 04 05 Correspondência 0,2% sobre o valor do contrato 0,4% sobre o valor do contrato 0,8% sobre o valor do contrato 1,6% sobre o valor do contrato 3,2% sobre o valor do contrato
+
+Tabela B - Infrações
+Item 01 02 03 04 05 06 07 08 09 10 11 Descrição da infração Suspender ou interromper, salvo motivo de força maior ou caso fortuito, os serviços contratados, por dia Recusar-se a executar serviço determinado pela CONTRATANTE, por serviço, por dia Indicador/Meta de nível de serviço não atingida, por tipo, por período de apuração Indicador/Meta de nível de serviço não atingida, por tipo, por período de apuração (reincidência) Tentativa de fraude, manipulação ou descaracterização em Indicador/Meta de nível de serviço, por ocorrência, por tipo, por período de apuração Inexecução parcial de serviço demandado, por serviço Inexecução total do serviço demandado, por serviço Para os itens seguintes, deixar de: Zelar pelas máquinas, equipamentos e instalações utilizados da CONTRATANTE, por ocorrência, por dia Cumprir determinação formal ou instrução do Fiscalizador, por ocorrência, por dia Substituir empregado que se conduza de modo inconveniente ou não atenda às necessidades de prestação de serviço, por empregado, por dia Efetuar os devidos pagamentos, seguros, encargos fiscais, sociais e trabalhistas, bem como arcar com quaisquer despesas diretas e/ou indiretas relacionadas à execução do contrato, por ocorrência, por dia Cumprir quaisquer das OBRIGAÇÕES DA CONTRATADA não previstas nesta tabela, por ocorrência Cumprir quaisquer das OBRIGAÇÕES DA CONTRATADA não previstas nesta tabela, após reincidência formalmente notificada pelo órgão Fiscalizador, por ocorrência Cumprir quaisquer dos itens do Edital e de seus anexos não previstos nesta tabela, por ocorrência Cumprir quaisquer dos itens do Edital e de seus anexos não previstos nesta tabela, após reincidência formalmente notificada pelo órgão Fiscalizador, por ocorrência Grau 04 02 01 02 03 04 05 02 02 01 05
+
+12 13
+
+04 05
+
+14 15
+
+01 02
+
+92
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+c) suspensão temporária de participação em licitação e impedimento de contratar com a Administração, pelo prazo de até 02 (dois) anos. 10.3 - As sanções previstas nas alíneas "a" e "c" deste item poderão ser aplicadas juntamente com a da alínea "b", facultada a defesa prévia do interessado, no respectivo processo, no prazo de 5 (cinco) dias úteis. 10.4 O não cumprimento dos prazos estabelecidos no contrato acarretará à Contratada, independentemente das sanções previstas no item 10.2, multa diária de 0,5%(meio por cento) do valor do contrato (art. 86 da Lei nº 8.666/93).
+
+10.5 - A aplicação da multa acima, a qual ocorrerá após regular processo administrativo, não impede que a CVM rescinda unilateralmente o Contrato e aplique outras sanções regulamentares (art. 86, §1º da Lei nº 8.666/93). 10.6 - Em caso de inadimplência quanto ao pagamento das multas que lhe forem aplicadas pela CVM, a CONTRATADA/ADJUDICATÁRIA fica desde já ciente que estará sujeita à sua inclusão no Cadastro Informativo dos créditos não quitados do setor público federal (CADIN), consoante legislação específica sobre a matéria, sendo executada segundo a Lei nº 6.830/80. 10.7 - A licitante que ensejar o retardamento da execução do certame, não mantiver a proposta, não celebrar o contrato, deixar de entregar ou apresentar declaração falsa exigida para o certame, ensejar o retardamento da execução de seu objeto, não mantiver a proposta, falhar ou fraudar na execução do contrato, comportar-se de modo inidôneo ou cometer fraude fiscal, ficará impedido de licitar e contratar com a União, Estados, Distrito Federal e Municípios e, será descredenciada no SICAF, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do artigo 4º da Lei nº 10.520/02, pelo prazo de 5 (cinco) anos, sem prejuízo das multas previstas no edital e no contrato e das demais cominações legais. 10.8 - A suspensão temporária do direito de contratar com a Administração é aplicável no caso de inexecução total do contrato, por culpa exclusiva da CONTRATADA. A declaração de inidoneidade para licitar ou contratar com a Administração Pública é aplicável no caso de fraude na execução do contrato. 10.9 - As sanções de multa podem ser aplicadas à CONTRATADA juntamente com a de advertência, suspensão temporária para licitar e contratar com a Administração da CONTRATANTE, impedimento de licitar e contratar com a União, Estados, Distrito Federal e Municípios e declaração de inidoneidade para licitar e contratar com a Administração Pública, descontando-a do pagamento a ser efetuado.
+93
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Cláusula Décima primeira ­ DA RESCISÃO 11.1A inexecução parcial ou total do Contrato enseja a sua rescisão, conforme disposto nos artigos 77 a 80 da Lei nº 8.666/93.
+
+11.2 - A rescisão do Contrato poderá ser: I - determinada por ato unilateral e escrito da CVM, nos casos enumerados nos incisos I a XII, XVII e XVIII do art. 78 da Lei nº 8.666/93; II- amigável, por acordo entre as partes, reduzida a termo no processo, desde que haja conveniência para a CVM; ou III- judicial, nos termos da legislação vigente sobre a matéria. 11.3 - Os casos de rescisão contratual serão formalmente motivados nos autos do processo, assegurado o contraditório e a ampla defesa (art. 78, § único da Lei nº 8.666/93).
+
+Cláusula Décima segunda - DO LOCAL DE EXECUÇÃO DOS SERVIÇOS 12.1- De acordo com a necessidade da CONTRATANTE, os serviços poderão ser executados em suas dependências ou nas dependências da CONTRATADA conforme especificidades, características e emergência das atividades a serem realizadas, notadamente atividades de manutenção corretiva e emergencial, levantamento de requisitos e publicação de páginas de conteúdo estático na Internet e Intranet. No item 3 do Anexo II (Parâmetros para Dimensionamento) é descrita a distribuição histórica das demandas de manutenção e desenvolvimento de sistemas por prazo de atendimento no período entre julho de 2005 e setembro de 2009 para balizar as necessidades de atendimento presencial nas dependências da CVM. 12.2- Para as atividades realizadas nas dependências da CONTRATADA, esta deverá manter, sob suas expensas, conexão com o Centro de Dados da CVM, em conformidade com os padrões estabelecidos pela CONTRATANTE e seu provedor. 12.3- O endereço das dependências da CONTRATANTE para execução dos serviços relacionados no item 1 do Termo de Referência (Anexo I) e no documento de Especificações Técnicas (Anexo II) é: Rua Sete de Setembro, 111, 29º andar, Centro, Rio de Janeiro/RJ
+94
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Cláusula Décima terceira ­ DA GARANTIA DE EXECUÇÃO DO CONTRATO 13.1 - A CONTRATADA deve apresentar à Administração do CONTRATANTE, no prazo máximo de 10 (dez) dias úteis, contado da data da assinatura do contrato, comprovante de prestação de garantia correspondente a percentual de 5% (cinco por cento) do valor atualizado do contrato, cabendo-lhe optar dentre as modalidades previstas na legislação em vigor. 13.2 - A garantia em dinheiro deve ser efetuada em caderneta de poupança no Banco do Brasil, em favor da CVM.
+
+Cláusula Décima quarta - DAS DISPOSIÇÕES GERAIS E FINAIS 14.1 - É vedado à CONTRATADA: a) b) c) d) caucionar ou utilizar este Contrato para qualquer operação financeira; ceder ou transferir a terceiros o Contrato e os direitos e obrigações dele decorrentes, salvo com prévia anuência da CVM; interromper unilateralmente o serviço sob alegação de inadimplemento por parte da CVM; publicar quaisquer relatórios, entrevistas, detalhes ou informações sobre este Contrato, bem como seu andamento, sem o prévio consentimento da CVM.
+
+14.2 - A relação entre a CONTRATADA e a CVM restringe-se ao alcance do objeto contratual, não implicando qualquer relação de subordinação hierárquica, isto é, os empregados e prepostos da CONTRATADA não terão qualquer vínculo empregatício com a CVM, correndo por conta exclusiva da primeira todas as obrigações decorrentes da legislação trabalhista, previdenciária, fiscal e comercial, as quais se obriga a saldar na época devida. 14.3- Para dirimir as questões decorrentes deste Contrato fica eleito o Foro Federal da cidade do Rio de Janeiro, renunciando as partes a qualquer outro a que, porventura, tenham ou possam vir a ter direito, por mais privilegiado que seja (art. 55, § 2º da Lei nº 8.666/93). 14.4- Os casos omissos serão decididos pela Gerência de Compras e de Serviços Gerais, à luz da legislação vigente, ouvida a Procuradoria Jurídica da CVM.
+
+95
+
+Processo nº RJ-2009-10799 Folha ________________ Rubrica ______________
+
+Cláusula Décima quinta - DO FORO 15.1- As questões decorrentes da execução deste Instrumento, que não possam ser dirimidas administrativamente, serão processadas e julgadas na Justiça Federal, no Foro da cidade do Rio de Janeiro, com exclusão de qualquer outro, por mais privilegiado que seja, salvo nos casos previstos no art. 102, inciso I, alínea "d", da Constituição Federal.
+
+E, por estarem de comum acordo com todas as Cláusulas, firmam o presente instrumento contratual, em 02(duas) vias de igual teor e forma, para um só efeito. Rio de Janeiro, de de 2009.
+
+Superintendente Administrativo-Financeiro
+
+Pela CONTRATADA
+
+96
+
+
