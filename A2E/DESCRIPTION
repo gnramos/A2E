@@ -4,7 +4,7 @@ Date: 2016-09-27
 Title: Analisador Automático de Editais
 Author: Rodrigo N. Peclat, Guilherme N. Ramos
 Maintainer: Guilherme N. Ramos <gnramos@unb.br>
-Depends:  R (>= 3.3.1), bigmemory, NLP, openNLP, tm
+Depends:  R (>= 3.3.1), bigmemory, Matrix, NLP, openNLP, tm
 Description: Aplicação de técnicas de mineração de texto, particularmente às relacionadas ao processamento de linguagem natural e à classificação multirrótulo, para compreender a semântica de períodos textuais escritos em português e associá-los a riscos de segurança previamente definidos.
 License: Apache (>= 2.0)
 URL: https://github.com/gnramos/A2E
