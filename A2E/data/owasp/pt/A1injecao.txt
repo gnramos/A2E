@@ -1,0 +1,54 @@
+A1 – Injeção
+
+As falhas de Injeção, tais como injeção de SQL, de SO (Sistema Operacional) e de LDAP, ocorrem quando dados não confiáveis são enviados para um interpretador como parte de um comando ou consulta. Os dados manipulados pelo atacante podem iludir o interpretador para que este execute comandos indesejados ou permita o acesso a dados não autorizados.
+
+A1
+Injeção
+
+FÁCIL
+Prevalência
+COMUM
+Detecção
+MÉDIA
+Impacto
+SEVERO
+Específico do Negócio / Aplicação
+Considere alguém que possa enviar dados não-confiáveis para o sistema, incluindo usuários externos, usuários internos, e administradores.
+Atacante envia ataques simples baseados em texto que exploram a sintaxe do interpretador alvo. Praticamente qualquer fonte de dados pode ser um vetor de injeção, incluindo fontes internas.
+Falhas de injeção ocorrem quando uma aplicação envia dados não-confiáveis para um interpretador. Falhas de injeção estão muito predominantes, particularmente em códigos legados. Elas geralmente são encontradas em consultas SQL, LDAP, Xpath ou NoSQL; comandos do SO; analisadores XML; cabeçalhos SMTP; argumentos do programa, etc. Falhas de injeção são fáceis de descobrir ao examinar o código, mas frequentemente difíceis de descobrir através de testes. Escaneadores e fuzzers podem ajudar atacantes a encontrar falhas de injeção.
+Injeção pode resultar em perda ou corrupção de dados, falta de responsabilização, ou negação de acesso. Algumas vezes, a injeção pode levar ao comprometimento completo do servidor.
+Impactos no Negócio
+Considere o valor de negócio dos dados afetados e a plataforma de execução do interpretador. Todos os dados podem ser roubados, modificados, ou excluídos. A sua reputação poderia ser afetada?
+Exemplos de Cenários de Ataque
+Cenário #1: A aplicação utiliza dados não confiáveis na construção da seguinte chamada SQL vulnerável:
+String query = "SELECT * FROM accounts WHERE custID='" + request.getParameter("id") + "'";
+Cenário #2: De forma similar, uma aplicação confiar cegamente nos frameworks pode resultar em consultas que continuam vulneráveis, (ex., linguagem de consulta Hibernate (HQL)):
+Query HQLQuery = session.createQuery(“FROM accounts
+WHERE custID='“ + request.getParameter("id") + "'");
+Em ambos os casos, o atacante modifica o valor do parâmetro ‘id’ em seu navegador para enviar: ' or '1'='1. Por exemplo:
+http://example.com/app/accountView?id=' or '1'='1
+Isso muda o significado de ambas as consultas para retornar todos os registros da tabela de contas. Ataques mais perigosos poderiam modificar dados ou até mesmo chamar procedimentos armazenados.
+Estou vulnerável?
+A melhor forma para descobrir se uma aplicação está vulnerável à injeção é verificar se todos os usos dos interpretadores separam claramente os dados não-confiáveis do comando ou consulta. Para chamadas SQL, isso significa utilizar variáveis de ligação em todas as instruções preparadas e procedimentos armazenados, e evitar consultas dinâmicas.
+Verificar o código é uma forma rápida e precisa de identificar se a aplicação utiliza os interpretadores seguramente. Ferramentas de análise de código podem ajudar o analista de segurança a encontrar o uso dos interpretadores e traçar o fluxo de dados através da aplicação. Testes de invasão podem validar estas questões através da elaboração de exploits que confirmam a vulnerabilidade.
+Varredura dinâmica automatizada que exercite a aplicação pode fornecer uma visão caso exista alguma falha explorável de injeção. Escaneadores nem sempre podem alcançar os interpretadores e tem dificuldade em detectar se um ataque foi bem sucedido. Tratamento de erros fraco torna as falhas de injeção fáceis de descobrir.
+Referências OWASP
+• OWASP SQL Injection Prevention Cheat Sheet
+• OWASP Query Parameterization Cheat Sheet
+• OWASP Command Injection Article
+• OWASP XML eXternal Entity (XXE) Reference Article
+• ASVS: Output Encoding/Escaping Requirements (V6)
+• OWASP Testing Guide: Chapter on SQL Injection Testing Externas
+• CWE Entry 77 on Command Injection
+• CWE Entry 89 on SQL Injection
+• CWE Entry 564 on Hibernate Injection
+Como faço para evitar? Prevenção de injeção requer manter os dados não confiáveis separados dos comandos e consultas.
+1.A opção preferida é utilizar uma API segura que evite o uso do interpretador inteiramente ou forneça uma interface parametrizada. Seja cuidadoso com APIs, assim como procedimentos armazenados, que são parametrizados, mas podem ainda introduzir injeção por debaixo dos panos.
+2.Se uma API parametrizada não estiver disponível, você deve cuidadosamente filtrar os caracteres especiais utilizando a sintaxe para esse interpretador. OWASP’s ESAPI fornece muitas dessas rotinas de filtragem.
+3.“Lista branca" ou validação de entrada positiva também é recomendada, mas não é uma defesa completa já que muitas aplicações requerem caracteres especiais em suas entradas. Se os caracteres especiais são exigidos, somente as abordagens 1. e 2. acima tornarão a sua utilização segura. OWASP’s ESAPI tem uma extensa biblioteca de rotinas de validação de entradas por lista branca.
+A1
+Injeção
+Vulnerabilidades de Segurança
+Vetores
+de Ataque
+Impactos Técnicos
