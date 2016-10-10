@@ -1,16 +1,23 @@
-get.corpus <- function(dir.source, encoding, language, readerControl) {
+# Corpora are collections of documents containing (natural language) text. #
+
+
+get.corpus.from.dir <- function(dir.source, encoding, readerControl) {
   source.files <- tm::DirSource(dir.source, encoding=encoding)
   corpus <- tm::Corpus(source.files, readerControl)
 }
 
-get.txt.corpus <- function(dir.source, encoding, language) {
+get.txt.corpus.from.dir <- function(dir.source, encoding='UTF-8', language='por') {
   readerControl <- list(reader=tm::readPlain, language=language)
-  get.corpus(dir.source, encoding, languages, readerControl)
+  get.corpus.from.dir(dir.source, encoding, readerControl)
 }
 
-get.pdf.corpus <- function(dir.source, encoding, language) {
-  readerControl <- list(reader=tm::readPDF, language=language)
-  get.corpus(dir.source, encoding, languages, readerControl)
+get.txt.corpus <- function(file.name, encoding='UTF-8', language='por') {
+  txt.data <- scan(file.name, what='character', sep='.', quote='', encoding=encoding)
+  tm::Corpus(tm::VectorSource(txt.data))
+}
+get.pdf.corpus <- function(file.name, encoding='UTF-8', language='por') {
+  pdf.data <- tm::readPDF(control=list(text='-layout'))(elem=list(uri=file.name), language=language)
+  tm::Corpus(tm::VectorSource(pdf.data$content))
 }
 
 # get.corpus <- function(concepts.text, content.language, stop.word.languages, dictionary) {

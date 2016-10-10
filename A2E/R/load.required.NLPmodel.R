@@ -1,9 +1,8 @@
 load.required.NLPmodel <- function(language, version) {
-  model <- paste('openNLPmodels.', language, sep='')
+  model <- paste0('openNLPmodels.', language)
   if (!require(model, character.only=TRUE)) {
-    gz.file <- paste('openNLPmodels.', language, '_', version, '.tar.gz', sep='')
     src.url <- 'http://datacube.wu.ac.at/src/contrib/'
-    pkg.src <- paste(src.url, gz.file, sep='')
-    ignore <- install.packages(pkg.src, repos=NULL)
+    gz.file <- paste0('openNLPmodels.', language, '_', version, '.tar.gz')
+    ignore <- install.packages(paste0(src.url, gz.file), repos=NULL)
   }
 }
